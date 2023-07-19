@@ -1,6 +1,9 @@
 # oomlout_oomp_v3
 oopen organization method for parts take three
 
+# parts
+current parts list [parts_readme.md](readme_parts.md)
+
 # files
 
 ## summary
