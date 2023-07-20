@@ -31,7 +31,7 @@
 | md5_6 | a5d918 |
 | md5_10 | a5d918c0b8 |
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal', 'name': 'Connector_JST : JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal', 'id': 'FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal', 'directory': 'FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal/'}] |
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x10_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male', 'name': 'Connector : Conn_01x10_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male/'}] |
 
 ## Notes
 
