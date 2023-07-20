@@ -1,0 +1,18 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_red
+distributors: []
+id: electronic_led_0603_red
+kicad_reference: L
+manufacturer: ''
+md5: 255611ec8565e66dea88d4fba9421c6d
+md5_10: 255611ec85
+md5_5: '25561'
+md5_6: '255611'
+name: Electronic Led 0603 Red
+part_number: ''
+short_code: l63r
+size: '0603'
+type: led

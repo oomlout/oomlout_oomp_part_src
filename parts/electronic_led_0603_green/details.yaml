@@ -1,0 +1,18 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_green
+distributors: []
+id: electronic_led_0603_green
+kicad_reference: L
+manufacturer: ''
+md5: b4e8235ce213fd0badfc8ca2c6c558de
+md5_10: b4e8235ce2
+md5_5: b4e82
+md5_6: b4e823
+name: Electronic Led 0603 Green
+part_number: ''
+short_code: l63g
+size: '0603'
+type: led

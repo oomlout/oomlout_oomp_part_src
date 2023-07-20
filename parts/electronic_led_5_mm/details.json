@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "led",
+    "size": "5_mm",
+    "color": "",
+    "description_main": "",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "L",
+    "id": "electronic_led_5_mm",
+    "directory": "parts/electronic_led_5_mm",
+    "name": "Electronic Led 5 Mm",
+    "short_code": "l5",
+    "distributors": [],
+    "md5": "7297cd778d1471689ae0db398d716719",
+    "md5_5": "7297c",
+    "md5_6": "7297cd",
+    "md5_10": "7297cd778d"
+}

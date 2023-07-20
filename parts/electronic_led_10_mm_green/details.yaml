@@ -1,0 +1,18 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_green
+distributors: []
+id: electronic_led_10_mm_green
+kicad_reference: L
+manufacturer: ''
+md5: 5f6525ecafb65df19e6187ca04358bfa
+md5_10: 5f6525ecaf
+md5_5: 5f652
+md5_6: 5f6525
+name: Electronic Led 10 Mm Green
+part_number: ''
+short_code: l10g
+size: 10_mm
+type: led

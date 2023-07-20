@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "led",
+    "size": "0603",
+    "color": "",
+    "description_main": "tinted",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "L",
+    "id": "electronic_led_0603_tinted",
+    "directory": "parts/electronic_led_0603_tinted",
+    "name": "Electronic Led 0603 Tinted",
+    "short_code": "l63t",
+    "distributors": [],
+    "md5": "511e69f292fd359eacea2593b41398a5",
+    "md5_5": "511e6",
+    "md5_6": "511e69",
+    "md5_10": "511e69f292"
+}

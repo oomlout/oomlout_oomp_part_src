@@ -1,0 +1,18 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: tinted
+directory: parts/electronic_led_0603_red_tinted
+distributors: []
+id: electronic_led_0603_red_tinted
+kicad_reference: L
+manufacturer: ''
+md5: f60141a68c3856841af4bedfa7e904a2
+md5_10: f60141a68c
+md5_5: f6014
+md5_6: f60141
+name: Electronic Led 0603 Red Tinted
+part_number: ''
+short_code: l63rt
+size: '0603'
+type: led

@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: tinted
+directory: parts/electronic_led_5_mm_tinted
+distributors: []
+id: electronic_led_5_mm_tinted
+kicad_reference: L
+manufacturer: ''
+md5: 452483a6f8d363ced50be04b44d7dd12
+md5_10: 452483a6f8
+md5_5: '45248'
+md5_6: '452483'
+name: Electronic Led 5 Mm Tinted
+part_number: ''
+short_code: l5t
+size: 5_mm
+type: led
