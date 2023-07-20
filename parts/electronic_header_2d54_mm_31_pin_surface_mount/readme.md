@@ -30,7 +30,7 @@
 | md5_5 | f6043 |
 | md5_6 | f60431 |
 | md5_10 | f604310400 |
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x31_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x31_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x31_Male/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x31_Male', 'name': 'Connector : Conn_01x31_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x31_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x31_Male/'}] |
 
 ## Notes
 

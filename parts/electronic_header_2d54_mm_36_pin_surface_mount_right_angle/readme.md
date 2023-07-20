@@ -31,7 +31,7 @@
 | md5_6 | 685dd6 |
 | md5_10 | 685dd64c57 |
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-89036xx_1x36_P2.54mm_Horizontal', 'name': 'Connector_Harwin : Harwin_M20-89036xx_1x36_P2.54mm_Horizontal', 'id': 'FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89036xx_1x36_P2.54mm_Horizontal', 'directory': 'FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-89036xx_1x36_P2.54mm_Horizontal/'}] |
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x36_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x36_Male/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x36_Male', 'name': 'Connector : Conn_01x36_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x36_Male/'}] |
 
 ## Notes
 

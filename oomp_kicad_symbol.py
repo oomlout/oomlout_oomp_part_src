@@ -17,7 +17,7 @@ def get_symbols(**kwargs):
         match["type"] = "header"
         match["description_main"] = f"{pin_count}_pin"
         match["symbol"] = []
-        match["symbol"].append({"link": "https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male", 
+        match["symbol"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male", 
                                 "name": f"Connector : Conn_01x{pin_s}_Male", 
                                 "id":f"SYMBOL-kicad-kicad-symbols-Connector-Conn_01x{pin_s}_Male",
                                 "directory": f"SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male/"})

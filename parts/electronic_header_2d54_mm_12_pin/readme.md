@@ -31,7 +31,7 @@
 | md5_6 | 07fd4d |
 | md5_10 | 07fd4d2337 |
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical', 'name': 'Connector_PinHeader_2.54mm : PinHeader_1x12_P2.54mm_Vertical', 'id': 'FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x12_P2.54mm_Vertical', 'directory': 'FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical/'}] |
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x12_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male', 'name': 'Connector : Conn_01x12_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male/'}] |
 
 ## Notes
 
