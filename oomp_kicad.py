@@ -1,0 +1,104 @@
+import oomp
+
+import os
+
+from kiutils.footprint import Footprint
+from kiutils.symbol import SymbolLib, Symbol
+
+def create_footprint_library():
+    footprint_directory = rf'kicad\footprints\oomlout_oomp_footprints.pretty'
+    oomlout_v2_eda_base = rf'C:\GH\oomlout_OOMP_V2\oomlout_OOMP_eda_V2'
+    
+    # go thrpough each part in oomp.parts
+    for part in oomp.parts:
+        #if they have a footprint
+        part = oomp.parts[part]
+        if "footprint" in part:
+            #go through each footprint
+            extra = 0
+            for footprint in part["footprint"]:
+                extra_string = ""
+                if extra != 0:
+                    extra_string = f'_{str(extra)}'
+                #make footprint_name
+                footprint_name = f'{part["short_code"]}_{part["md5_6"]}_{part["id"]}'
+                footprint_filename = f'{footprint_directory}\{footprint_name}{extra_string}.kicad_mod'
+                directory = footprint["directory"]
+                filename = rf'{oomlout_v2_eda_base}\{directory}\footprint.kicad_mod'
+                #if the footprint file exists
+                if os.path.isfile(filename):
+                    #create a footprint object
+                    filename = filename.replace("/", "\\")
+                    footprint_object = Footprint.from_file(filename)
+                    #add the footprint to the footprint library
+                    footprint_object.to_file(footprint_filename)
+                else:
+                    print(f'footprint file not found: {filename}')
+                extra += 1
+
+
+def create_symbol_library():
+    symbol_file_source = rf'templates\template_oomlout_oomp_kicad_symbols.kicad_sym'
+    symbol_file =  rf'kicad\symbols\oomlout_oomp_kicad_symbols.kicad_sym' 
+    oomlout_v2_eda_base = rf'C:\GH\oomlout_OOMP_V2\oomlout_OOMP_eda_V2'
+    symbol_library = SymbolLib.from_file(symbol_file_source)
+    for part_id in oomp.parts:
+        part = oomp.parts[part_id]  
+        symbol_output_name = f'{part["short_code"]}_{part["md5_6"]}_{part["id"]}'
+        
+        symbol = None
+        if "symbol" in part:
+            #if there's a symbol copy it across
+            symbol_source = oomlout_v2_eda_base + "/" + part["symbol"][0]["directory"] + "symbol.kicad_sym"
+            if os.path.isfile(symbol_source):                
+                symbol = SymbolLib.from_file(symbol_source).symbols[0]
+                pass
+            else:
+                #raise exception that file doesn't exist
+                raise Exception(f'file not found: {symbol_source}')
+        elif "pins" in part:
+            # make it from the base symbol
+            number_of_pins = str(len(part["pins"])).zfill(2)
+            symbol_source = rf'{oomlout_v2_eda_base}\SYMBOL\kicad\kicad-symbols\Connector_Generic\Conn_01x{number_of_pins}\symbol.kicad_sym'
+            symbol = SymbolLib.from_file(symbol_source).symbols[0]
+            for sym in symbol.units:            
+                pins = sym.pins
+                for pin in pins:
+                    index = pin.name.replace("Pin_", "")
+                    pin.name = "   " + part["pins"][index]["name"]
+        if symbol != None:
+            #change the name
+            symbol.pinNamesHide = False
+            name = symbol_output_name   
+            #name = 'Conn_01x28'   
+            name_old = symbol.id
+            symbol.id = name
+            #yaml dump symbol to a file called test.yaml using yaml library
+            import yaml
+            with open("test.yaml", "w") as outfile:
+                yaml.dump(symbol, outfile, indent=4)
+
+            
+            for sym in symbol.units:            
+                unit_name_old = sym.id
+                sym.id = unit_name_old.replace(name_old, name)            
+            for property in symbol.properties:
+                if property.key == "Value":
+                    pass
+                    property.value = f'{part["short_code"]}_{part["id"]}'
+                if property.key == "Datasheet":
+                    pass
+                    property.value = f'https://github.com/oomlout/oomlout_oomp_v3/parts/{part["id"]}/datasheet.pdf'
+                if property.key == "Footprint":
+                    pass
+                    property.value = symbol_output_name
+                if property.key == "Reference":
+                    pass
+                    property.value = part.get("kicad_reference", "J")
+            symbol_library.symbols.append(symbol)
+    #if symbol_file exists delete it
+    if os.path.isfile(symbol_file):
+        os.remove(symbol_file)
+    symbol_library.to_file(symbol_file)
+
+
