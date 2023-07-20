@@ -71,21 +71,31 @@ def create_symbol_library():
             symbol.pinNamesHide = False
             name = symbol_output_name   
             #name = 'Conn_01x28'   
-            name_old = symbol.id
+            try:
+                name_old = symbol.id
+            except:
+                #some have an entry name instead of an id
+                name_old = symbol.entryName
             symbol.id = name
+            symbol.entryName = name
             #yaml dump symbol to a file called test.yaml using yaml library
-            import yaml
-            with open("test.yaml", "w") as outfile:
-                yaml.dump(symbol, outfile, indent=4)
+            #import yaml
+            #with open("test.yaml", "w") as outfile:
+            #    yaml.dump(symbol, outfile, indent=4)
 
             
-            for sym in symbol.units:            
-                unit_name_old = sym.id
-                sym.id = unit_name_old.replace(name_old, name)            
+            for sym in symbol.units:    
+                try:        
+                    unit_name_old = sym.id
+                except:
+                    #some have an entry name instead of an id
+                    unit_name_old = sym.entryName
+                sym.id = unit_name_old.replace(name_old, name)    
+                sym.entryName = unit_name_old.replace(name_old, name)        
             for property in symbol.properties:
                 if property.key == "Value":
                     pass
-                    property.value = f'{part["short_code"]}_{part["id"]}'
+                    property.value = f'{symbol_output_name}'
                 if property.key == "Datasheet":
                     pass
                     property.value = f'https://github.com/oomlout/oomlout_oomp_v3/parts/{part["id"]}/datasheet.pdf'

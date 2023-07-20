@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "7_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_7_pin",
+    "directory": "parts/electronic_header_2d54_mm_7_pin",
+    "name": "Electronic Header 2D54 Mm 7 Pin",
+    "short_code": "hi17p",
+    "distributors": [],
+    "md5": "3ec4f6b038e80616dddb516e80005ccc",
+    "md5_5": "3ec4f",
+    "md5_6": "3ec4f6",
+    "md5_10": "3ec4f6b038"
+}

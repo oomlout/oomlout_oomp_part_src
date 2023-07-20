@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39_pin
+directory: parts/electronic_header_2d54_mm_39_pin
+distributors: []
+id: electronic_header_2d54_mm_39_pin
+kicad_reference: J
+manufacturer: ''
+md5: b35cc8d220e2efdf397d09e9f18592fc
+md5_10: b35cc8d220
+md5_5: b35cc
+md5_6: b35cc8
+name: Electronic Header 2D54 Mm 39 Pin
+part_number: ''
+short_code: hi139p
+size: 2d54_mm
+type: header

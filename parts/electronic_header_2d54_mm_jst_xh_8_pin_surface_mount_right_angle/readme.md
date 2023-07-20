@@ -1,0 +1,36 @@
+# Electronic Header 2D54 Mm Jst Xh 8 Pin Surface Mount Right Angle
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 2d54_mm_jst_xh |
+| color |  |
+| description_main | 8_pin |
+| description_extra | surface_mount_right_angle |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_2d54_mm_jst_xh_8_pin_surface_mount_right_angle |
+| directory | parts/electronic_header_2d54_mm_jst_xh_8_pin_surface_mount_right_angle |
+| name | Electronic Header 2D54 Mm Jst Xh 8 Pin Surface Mount Right Angle |
+| short_code | h8psmra |
+| distributors | [] |
+| md5 | a64bcd242f65cbaa3af67607ab4b934a |
+| md5_5 | a64bc |
+| md5_6 | a64bcd |
+| md5_10 | a64bcd242f |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x08_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x08_Male/'}] |
+
+## Notes
+

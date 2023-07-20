@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 36_pin
+directory: parts/electronic_header_2d54_mm_36_pin
+distributors: []
+id: electronic_header_2d54_mm_36_pin
+kicad_reference: J
+manufacturer: ''
+md5: 219ad0ec8696ffa6daf11f66618216b7
+md5_10: 219ad0ec86
+md5_5: 219ad
+md5_6: 219ad0
+name: Electronic Header 2D54 Mm 36 Pin
+part_number: ''
+short_code: hi136p
+size: 2d54_mm
+type: header

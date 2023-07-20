@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 33_pin
+directory: parts/electronic_header_2d54_mm_33_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_33_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 317640bcac7b87b36acc02a2e7fb118b
+md5_10: 317640bcac
+md5_5: '31764'
+md5_6: '317640'
+name: Electronic Header 2D54 Mm 33 Pin Surface Mount
+part_number: ''
+short_code: hi133psm
+size: 2d54_mm
+type: header

@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 15_pin
+directory: parts/electronic_header_2d54_mm_15_pin
+distributors: []
+id: electronic_header_2d54_mm_15_pin
+kicad_reference: J
+manufacturer: ''
+md5: ccffd7988a0b3da1fe56f23b24b20f28
+md5_10: ccffd7988a
+md5_5: ccffd
+md5_6: ccffd7
+name: Electronic Header 2D54 Mm 15 Pin
+part_number: ''
+short_code: hi115p
+size: 2d54_mm
+type: header

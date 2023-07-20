@@ -31,7 +31,7 @@
 | md5_6 | 7297cd |
 | md5_10 | 7297cd778d |
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm/', 'name': 'LED_D5.0mm', 'id': 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm', 'directory': 'FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm/'}] |
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED', 'name': 'LED', 'id': 'SYMBOL-kicad-kicad-symbols-Device-LED', 'directory': 'SYMBOL/kicad/kicad-symbols/Device/LED/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED', 'name': 'Device : LED', 'id': 'SYMBOL-kicad-kicad-symbols-Device-LED', 'directory': 'SYMBOL/kicad/kicad-symbols/Device/LED/'}] |
 
 ## Notes
 

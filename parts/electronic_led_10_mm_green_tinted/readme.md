@@ -30,7 +30,7 @@
 | md5_5 | 0ef19 |
 | md5_6 | 0ef197 |
 | md5_10 | 0ef1979ff6 |
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED', 'name': 'LED', 'id': 'SYMBOL-kicad-kicad-symbols-Device-LED', 'directory': 'SYMBOL/kicad/kicad-symbols/Device/LED/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED', 'name': 'Device : LED', 'id': 'SYMBOL-kicad-kicad-symbols-Device-LED', 'directory': 'SYMBOL/kicad/kicad-symbols/Device/LED/'}] |
 
 ## Notes
 

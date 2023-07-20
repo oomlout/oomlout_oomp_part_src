@@ -6,6 +6,58 @@ def get_footprints(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
+    ###### header
+    #for pins 1-40
+    for pin_count in range(1, 41):
+        #regular pin through hole
+        pin_s = str(pin_count).zfill(2)
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm"
+        match["description_main"] = f"{pin_count}_pin"
+        match["description_extra"] = ""
+        match["footprint"] = []
+        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical",
+                                    "name": f"Connector_PinHeader_2.54mm : PinHeader_1x{pin_s}_P2.54mm_Vertical",
+                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x{pin_s}_P2.54mm_Vertical",
+                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical/"})
+        matches.append(match)   
+        #surface mount regular
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm"
+        match["description_main"] = f"{pin_count}_pin"
+        match["description_extra"] = "surface_mount"
+        match["footprint"] = []
+        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left",
+                                    "name": f"Connector_PinHeader_2.54mm : PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left",
+                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left",
+                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left/"})
+        #surface mount right angle
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm"
+        match["description_main"] = f"{pin_count}_pin"
+        match["description_extra"] = "surface_mount_right_angle"
+        match["footprint"] = []
+        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal",
+                                    "name": f"Connector_Harwin : Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal",
+                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal",
+                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal/"})
+        matches.append(match) 
+        #jst sh
+        match = {}
+        match["type"] = "header"
+        match["size"] = "1_mm_jst_sh"
+        match["description_main"] = f"{pin_count}_pin"
+        match["description_extra"] = "surface_mount_right_angle"
+        match["footprint"] = []
+        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal",
+                                    "name": f"Connector_JST : JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal",
+                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal",
+                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal/"})
+        matches.append(match) 
+
     ###### ic
 
     match = {}

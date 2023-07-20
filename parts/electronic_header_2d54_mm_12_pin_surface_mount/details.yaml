@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 12_pin
+directory: parts/electronic_header_2d54_mm_12_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_12_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 9eab674040cd35cf77ecdcd874b0c135
+md5_10: 9eab674040
+md5_5: 9eab6
+md5_6: 9eab67
+name: Electronic Header 2D54 Mm 12 Pin Surface Mount
+part_number: ''
+short_code: hi112psm
+size: 2d54_mm
+type: header

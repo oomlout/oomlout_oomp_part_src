@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "29_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_29_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_29_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 29 Pin Surface Mount",
+    "short_code": "hi129psm",
+    "distributors": [],
+    "md5": "e2998a8e4b7ebba889554c48f079ae33",
+    "md5_5": "e2998",
+    "md5_6": "e2998a",
+    "md5_10": "e2998a8e4b"
+}

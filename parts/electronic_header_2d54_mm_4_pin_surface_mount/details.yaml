@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 4_pin
+directory: parts/electronic_header_2d54_mm_4_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_4_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: defd1752805f9705bde33d7147366f16
+md5_10: defd175280
+md5_5: defd1
+md5_6: defd17
+name: Electronic Header 2D54 Mm 4 Pin Surface Mount
+part_number: ''
+short_code: hi14psm
+size: 2d54_mm
+type: header

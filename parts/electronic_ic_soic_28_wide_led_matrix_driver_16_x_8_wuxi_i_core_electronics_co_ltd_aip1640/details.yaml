@@ -13,6 +13,8 @@ md5_5: fe0f0
 md5_6: fe0f02
 name: Electronic Ic Soic 28 Wide Led Matrix Driver 16 X 8 Wuxi I Core Electronics
     Co Ltd Aip1640
+notes:
+- common cathode (cathode to grid)
 part_number: aip1640
 pins:
     '1':
@@ -127,6 +129,6 @@ pins:
         name: seg1
         number: '9'
         type: signal
-short_code: iaip1640
+short_code: isoic28waip1640
 size: soic_28_wide
 type: ic

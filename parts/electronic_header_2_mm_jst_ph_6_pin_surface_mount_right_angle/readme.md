@@ -1,0 +1,36 @@
+# Electronic Header 2 Mm Jst Ph 6 Pin Surface Mount Right Angle
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 2_mm_jst_ph |
+| color |  |
+| description_main | 6_pin |
+| description_extra | surface_mount_right_angle |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_2_mm_jst_ph_6_pin_surface_mount_right_angle |
+| directory | parts/electronic_header_2_mm_jst_ph_6_pin_surface_mount_right_angle |
+| name | Electronic Header 2 Mm Jst Ph 6 Pin Surface Mount Right Angle |
+| short_code | h6psmra |
+| distributors | [] |
+| md5 | a6dacde032045b7a9a6554919bcea21c |
+| md5_5 | a6dac |
+| md5_6 | a6dacd |
+| md5_10 | a6dacde032 |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x06_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/'}] |
+
+## Notes
+

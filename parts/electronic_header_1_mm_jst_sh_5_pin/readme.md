@@ -1,0 +1,36 @@
+# Electronic Header 1 Mm Jst Sh 5 Pin
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 1_mm_jst_sh |
+| color |  |
+| description_main | 5_pin |
+| description_extra |  |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_1_mm_jst_sh_5_pin |
+| directory | parts/electronic_header_1_mm_jst_sh_5_pin |
+| name | Electronic Header 1 Mm Jst Sh 5 Pin |
+| short_code | h5p |
+| distributors | [] |
+| md5 | 714badd76f7a08cc1678c18f7da02e99 |
+| md5_5 | 714ba |
+| md5_6 | 714bad |
+| md5_10 | 714badd76f |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x05_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x05_Male/'}] |
+
+## Notes
+

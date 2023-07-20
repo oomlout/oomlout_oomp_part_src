@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "18_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_18_pin",
+    "directory": "parts/electronic_header_2d54_mm_18_pin",
+    "name": "Electronic Header 2D54 Mm 18 Pin",
+    "short_code": "hi118p",
+    "distributors": [],
+    "md5": "10001c1d8eeeada59b7451e9a27125ca",
+    "md5_5": "10001",
+    "md5_6": "10001c",
+    "md5_10": "10001c1d8e"
+}

@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 31_pin
+directory: parts/electronic_header_2d54_mm_31_pin_right_angle
+distributors: []
+id: electronic_header_2d54_mm_31_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 5d5b79efa6d4097232595e421182045c
+md5_10: 5d5b79efa6
+md5_5: 5d5b7
+md5_6: 5d5b79
+name: Electronic Header 2D54 Mm 31 Pin Right Angle
+part_number: ''
+short_code: hi131pra
+size: 2d54_mm
+type: header

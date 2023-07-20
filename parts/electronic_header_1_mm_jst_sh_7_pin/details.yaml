@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7_pin
+directory: parts/electronic_header_1_mm_jst_sh_7_pin
+distributors: []
+id: electronic_header_1_mm_jst_sh_7_pin
+kicad_reference: J
+manufacturer: ''
+md5: 3901b74f0bcfec5408951580f4702d1c
+md5_10: 3901b74f0b
+md5_5: 3901b
+md5_6: 3901b7
+name: Electronic Header 1 Mm Jst Sh 7 Pin
+part_number: ''
+short_code: h7p
+size: 1_mm_jst_sh
+type: header

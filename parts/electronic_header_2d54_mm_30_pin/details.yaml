@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 30_pin
+directory: parts/electronic_header_2d54_mm_30_pin
+distributors: []
+id: electronic_header_2d54_mm_30_pin
+kicad_reference: J
+manufacturer: ''
+md5: ec9c0d5c3d5215671b275705b622daf6
+md5_10: ec9c0d5c3d
+md5_5: ec9c0
+md5_6: ec9c0d
+name: Electronic Header 2D54 Mm 30 Pin
+part_number: ''
+short_code: hi130p
+size: 2d54_mm
+type: header

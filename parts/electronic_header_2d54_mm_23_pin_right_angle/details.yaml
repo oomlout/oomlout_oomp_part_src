@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 23_pin
+directory: parts/electronic_header_2d54_mm_23_pin_right_angle
+distributors: []
+id: electronic_header_2d54_mm_23_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: c5f77af2654e3dcc99cd9a2c1c290c83
+md5_10: c5f77af265
+md5_5: c5f77
+md5_6: c5f77a
+name: Electronic Header 2D54 Mm 23 Pin Right Angle
+part_number: ''
+short_code: hi123pra
+size: 2d54_mm
+type: header

@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "31_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_31_pin",
+    "directory": "parts/electronic_header_2d54_mm_31_pin",
+    "name": "Electronic Header 2D54 Mm 31 Pin",
+    "short_code": "hi131p",
+    "distributors": [],
+    "md5": "3f92b4eaeae188c38b0b6283926a641c",
+    "md5_5": "3f92b",
+    "md5_6": "3f92b4",
+    "md5_10": "3f92b4eaea"
+}

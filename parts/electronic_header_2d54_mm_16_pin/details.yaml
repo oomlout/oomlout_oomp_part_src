@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 16_pin
+directory: parts/electronic_header_2d54_mm_16_pin
+distributors: []
+id: electronic_header_2d54_mm_16_pin
+kicad_reference: J
+manufacturer: ''
+md5: 052ffebdec4e1bb6a0f3ab8eff16a610
+md5_10: 052ffebdec
+md5_5: 052ff
+md5_6: 052ffe
+name: Electronic Header 2D54 Mm 16 Pin
+part_number: ''
+short_code: hi116p
+size: 2d54_mm
+type: header

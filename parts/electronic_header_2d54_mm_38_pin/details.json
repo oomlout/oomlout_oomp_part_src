@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "38_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_38_pin",
+    "directory": "parts/electronic_header_2d54_mm_38_pin",
+    "name": "Electronic Header 2D54 Mm 38 Pin",
+    "short_code": "hi138p",
+    "distributors": [],
+    "md5": "dc39265fa10bebb41c8da72bc24badde",
+    "md5_5": "dc392",
+    "md5_6": "dc3926",
+    "md5_10": "dc39265fa1"
+}

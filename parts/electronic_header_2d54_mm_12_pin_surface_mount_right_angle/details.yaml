@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 12_pin
+directory: parts/electronic_header_2d54_mm_12_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_12_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 91d979ee5b1080442a8586ad74ba3c94
+md5_10: 91d979ee5b
+md5_5: 91d97
+md5_6: 91d979
+name: Electronic Header 2D54 Mm 12 Pin Surface Mount Right Angle
+part_number: ''
+short_code: hi112psmra
+size: 2d54_mm
+type: header

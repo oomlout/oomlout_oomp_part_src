@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 32_pin
+directory: parts/electronic_header_2d54_mm_32_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_32_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 1e2ebf8bc7d79d7ef56409c9975cc710
+md5_10: 1e2ebf8bc7
+md5_5: 1e2eb
+md5_6: 1e2ebf
+name: Electronic Header 2D54 Mm 32 Pin Surface Mount Right Angle
+part_number: ''
+short_code: hi132psmra
+size: 2d54_mm
+type: header

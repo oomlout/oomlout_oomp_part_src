@@ -1,0 +1,36 @@
+# Electronic Header 2D54 Mm 31 Pin Right Angle
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 2d54_mm |
+| color |  |
+| description_main | 31_pin |
+| description_extra | right_angle |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_2d54_mm_31_pin_right_angle |
+| directory | parts/electronic_header_2d54_mm_31_pin_right_angle |
+| name | Electronic Header 2D54 Mm 31 Pin Right Angle |
+| short_code | hi131pra |
+| distributors | [] |
+| md5 | 5d5b79efa6d4097232595e421182045c |
+| md5_5 | 5d5b7 |
+| md5_6 | 5d5b79 |
+| md5_10 | 5d5b79efa6 |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x31_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x31_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x31_Male/'}] |
+
+## Notes
+

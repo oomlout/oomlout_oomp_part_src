@@ -13,12 +13,25 @@ def get_short_code(**kwargs):
     replace_dict["type"]["resistor"] = "r"
     replace_dict["type"]["capacitor"] = "c"
     replace_dict["type"]["ic"] = "i"
+    replace_dict["type"]["mounting_hole"] = "mh"
+    replace_dict["type"]["header"] = "h"
 
     replace_dict["size"] = {}
-    replace_dict["size"]["5_mm"] = "5"
-    replace_dict["size"]["10_mm"] = "10"
+    #loop for all mm sizes
+    for mm in range(1, 100):
+        replace_dict["size"][f"{mm}_mm"] = f"{mm}"
+    replace_dict["size"][f"2d54_mm"] = f"i1"
+    #loop for m1 to m10
+    for m in range(1, 10):
+        replace_dict["size"][f"m{m}"] = f"m{m}"
     replace_dict["size"]["0603"] = "63"
-    replace_dict["size"]["sop_28"] = "sop28"
+    replace_dict["size"]["soic_28_wide"] = "soic28w"
+
+    #### jst sizes
+    replace_dict["size"]["_jst_ph"] = "jph"
+    replace_dict["size"]["_jst_xh"] = "jxh"
+    replace_dict["size"]["_jst_sh"] = "jsh"
+
 
     replace_dict["color"] = {}
     replace_dict["color"]["red"] = "r"
@@ -27,9 +40,18 @@ def get_short_code(**kwargs):
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
     replace_dict["description_main"]["tinted"] = "t"
+    #add for _pin 1-40
+    for pin_count in range(1, 41):
+        replace_dict["description_main"][f"{pin_count}_pin"] = f"{pin_count}p"
+
 
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""
+
+    ## header ones
+    replace_dict["description_extra"]["right_angle"] = "ra"
+    replace_dict["description_extra"]["surface_mount"] = "sm"
+    replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
 
     replace_dict["manufacturer"] = {}
     replace_dict["manufacturer"][""] = ""

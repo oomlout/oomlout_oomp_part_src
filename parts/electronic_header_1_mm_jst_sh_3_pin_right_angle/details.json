@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "1_mm_jst_sh",
+    "color": "",
+    "description_main": "3_pin",
+    "description_extra": "right_angle",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_1_mm_jst_sh_3_pin_right_angle",
+    "directory": "parts/electronic_header_1_mm_jst_sh_3_pin_right_angle",
+    "name": "Electronic Header 1 Mm Jst Sh 3 Pin Right Angle",
+    "short_code": "h3pra",
+    "distributors": [],
+    "md5": "670fe01a6afe6a7ad83f6af973e5d291",
+    "md5_5": "670fe",
+    "md5_6": "670fe0",
+    "md5_10": "670fe01a6a"
+}

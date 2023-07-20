@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 17_pin
+directory: parts/electronic_header_2d54_mm_17_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_17_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 83494971dd0517ce882064bed5e29b09
+md5_10: 83494971dd
+md5_5: '83494'
+md5_6: '834949'
+name: Electronic Header 2D54 Mm 17 Pin Surface Mount
+part_number: ''
+short_code: hi117psm
+size: 2d54_mm
+type: header

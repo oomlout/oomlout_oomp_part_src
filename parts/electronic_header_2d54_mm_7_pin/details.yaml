@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7_pin
+directory: parts/electronic_header_2d54_mm_7_pin
+distributors: []
+id: electronic_header_2d54_mm_7_pin
+kicad_reference: J
+manufacturer: ''
+md5: 3ec4f6b038e80616dddb516e80005ccc
+md5_10: 3ec4f6b038
+md5_5: 3ec4f
+md5_6: 3ec4f6
+name: Electronic Header 2D54 Mm 7 Pin
+part_number: ''
+short_code: hi17p
+size: 2d54_mm
+type: header

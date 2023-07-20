@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm_jst_xh",
+    "color": "",
+    "description_main": "1_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_jst_xh_1_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_jst_xh_1_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm Jst Xh 1 Pin Surface Mount",
+    "short_code": "h1psm",
+    "distributors": [],
+    "md5": "a41c6e9d8606caed16c3fb28777c3a2c",
+    "md5_5": "a41c6",
+    "md5_6": "a41c6e",
+    "md5_10": "a41c6e9d86"
+}

@@ -1,0 +1,37 @@
+# Electronic Header 1 Mm Jst Sh 1 Pin Surface Mount Right Angle
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 1_mm_jst_sh |
+| color |  |
+| description_main | 1_pin |
+| description_extra | surface_mount_right_angle |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle |
+| directory | parts/electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle |
+| name | Electronic Header 1 Mm Jst Sh 1 Pin Surface Mount Right Angle |
+| short_code | h1psmra |
+| distributors | [] |
+| md5 | d8e443f92a459c58d71e5dd9f47b25a2 |
+| md5_5 | d8e44 |
+| md5_6 | d8e443 |
+| md5_10 | d8e443f92a |
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM01B-SRSS-TB_1x01-1MP_P1.00mm_Horizontal', 'name': 'Connector_JST : JST_SH_SM01B-SRSS-TB_1x01-1MP_P1.00mm_Horizontal', 'id': 'FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM01B-SRSS-TB_1x01-1MP_P1.00mm_Horizontal', 'directory': 'FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM01B-SRSS-TB_1x01-1MP_P1.00mm_Horizontal/'}] |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x01_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/'}] |
+
+## Notes
+

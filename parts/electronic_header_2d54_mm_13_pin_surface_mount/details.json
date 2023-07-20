@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "13_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_13_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_13_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 13 Pin Surface Mount",
+    "short_code": "hi113psm",
+    "distributors": [],
+    "md5": "9d30d21a115fc09400e17432281eb6c9",
+    "md5_5": "9d30d",
+    "md5_6": "9d30d2",
+    "md5_10": "9d30d21a11"
+}

@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "22_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_22_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_22_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 22 Pin Surface Mount",
+    "short_code": "hi122psm",
+    "distributors": [],
+    "md5": "d69431aff8fbe9554d89603d680f0e60",
+    "md5_5": "d6943",
+    "md5_6": "d69431",
+    "md5_10": "d69431aff8"
+}

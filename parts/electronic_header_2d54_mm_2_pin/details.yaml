@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2_pin
+directory: parts/electronic_header_2d54_mm_2_pin
+distributors: []
+id: electronic_header_2d54_mm_2_pin
+kicad_reference: J
+manufacturer: ''
+md5: 2b64b1a51c08e5987bb8b978c3b6b1ed
+md5_10: 2b64b1a51c
+md5_5: 2b64b
+md5_6: 2b64b1
+name: Electronic Header 2D54 Mm 2 Pin
+part_number: ''
+short_code: hi12p
+size: 2d54_mm
+type: header

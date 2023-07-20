@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 28_pin
+directory: parts/electronic_header_2d54_mm_28_pin
+distributors: []
+id: electronic_header_2d54_mm_28_pin
+kicad_reference: J
+manufacturer: ''
+md5: c7d1825b5a4404e5b5d71b17012d7787
+md5_10: c7d1825b5a
+md5_5: c7d18
+md5_6: c7d182
+name: Electronic Header 2D54 Mm 28 Pin
+part_number: ''
+short_code: hi128p
+size: 2d54_mm
+type: header

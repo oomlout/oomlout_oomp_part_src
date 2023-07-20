@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 39_pin
+directory: parts/electronic_header_2d54_mm_39_pin_right_angle
+distributors: []
+id: electronic_header_2d54_mm_39_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 238ebcaba2100b0b323b0732106f7f42
+md5_10: 238ebcaba2
+md5_5: 238eb
+md5_6: 238ebc
+name: Electronic Header 2D54 Mm 39 Pin Right Angle
+part_number: ''
+short_code: hi139pra
+size: 2d54_mm
+type: header

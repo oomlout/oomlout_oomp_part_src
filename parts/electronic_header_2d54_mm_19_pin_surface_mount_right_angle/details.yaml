@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 19_pin
+directory: parts/electronic_header_2d54_mm_19_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_19_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: c08805262a72823535bc0c35440481a5
+md5_10: c08805262a
+md5_5: c0880
+md5_6: c08805
+name: Electronic Header 2D54 Mm 19 Pin Surface Mount Right Angle
+part_number: ''
+short_code: hi119psmra
+size: 2d54_mm
+type: header

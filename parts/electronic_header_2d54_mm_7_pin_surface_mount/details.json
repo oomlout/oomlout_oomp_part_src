@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "7_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_7_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_7_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 7 Pin Surface Mount",
+    "short_code": "hi17psm",
+    "distributors": [],
+    "md5": "76e2338f176179bc46ed65229f8b4561",
+    "md5_5": "76e23",
+    "md5_6": "76e233",
+    "md5_10": "76e2338f17"
+}

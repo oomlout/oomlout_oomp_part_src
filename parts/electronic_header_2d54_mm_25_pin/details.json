@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "25_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_25_pin",
+    "directory": "parts/electronic_header_2d54_mm_25_pin",
+    "name": "Electronic Header 2D54 Mm 25 Pin",
+    "short_code": "hi125p",
+    "distributors": [],
+    "md5": "ca4623dc8e469812f5037685f992e75b",
+    "md5_5": "ca462",
+    "md5_6": "ca4623",
+    "md5_10": "ca4623dc8e"
+}

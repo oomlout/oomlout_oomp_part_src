@@ -1,0 +1,36 @@
+# Electronic Header 2 Mm Jst Ph 4 Pin Right Angle
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 2_mm_jst_ph |
+| color |  |
+| description_main | 4_pin |
+| description_extra | right_angle |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_2_mm_jst_ph_4_pin_right_angle |
+| directory | parts/electronic_header_2_mm_jst_ph_4_pin_right_angle |
+| name | Electronic Header 2 Mm Jst Ph 4 Pin Right Angle |
+| short_code | h4pra |
+| distributors | [] |
+| md5 | 7941c7b75a6af331af5cf75964844196 |
+| md5_5 | 7941c |
+| md5_6 | 7941c7 |
+| md5_10 | 7941c7b75a |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x04_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/'}] |
+
+## Notes
+

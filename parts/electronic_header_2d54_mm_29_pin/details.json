@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "29_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_29_pin",
+    "directory": "parts/electronic_header_2d54_mm_29_pin",
+    "name": "Electronic Header 2D54 Mm 29 Pin",
+    "short_code": "hi129p",
+    "distributors": [],
+    "md5": "a0bd98b3c21869715d409c2f7fa54ed8",
+    "md5_5": "a0bd9",
+    "md5_6": "a0bd98",
+    "md5_10": "a0bd98b3c2"
+}

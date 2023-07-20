@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 3_pin
+directory: parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_3_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 1b3fc30c4fd317a12ef2a47bcc5d1280
+md5_10: 1b3fc30c4f
+md5_5: 1b3fc
+md5_6: 1b3fc3
+name: Electronic Header 2D54 Mm 3 Pin Surface Mount Right Angle
+part_number: ''
+short_code: hi13psmra
+size: 2d54_mm
+type: header

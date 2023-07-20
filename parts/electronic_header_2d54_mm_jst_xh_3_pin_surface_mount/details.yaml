@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 3_pin
+directory: parts/electronic_header_2d54_mm_jst_xh_3_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_jst_xh_3_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 1226380b62ae185d85cf55afe4b0752b
+md5_10: 1226380b62
+md5_5: '12263'
+md5_6: '122638'
+name: Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount
+part_number: ''
+short_code: h3psm
+size: 2d54_mm_jst_xh
+type: header

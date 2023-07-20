@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "38_pin",
+    "description_extra": "right_angle",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_38_pin_right_angle",
+    "directory": "parts/electronic_header_2d54_mm_38_pin_right_angle",
+    "name": "Electronic Header 2D54 Mm 38 Pin Right Angle",
+    "short_code": "hi138pra",
+    "distributors": [],
+    "md5": "4bd6dcf0a104f581c77d4f53682d1696",
+    "md5_5": "4bd6d",
+    "md5_6": "4bd6dc",
+    "md5_10": "4bd6dcf0a1"
+}

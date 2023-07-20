@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 5_pin
+directory: parts/electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: d07ec539edcb79ea438dc98f57fd172b
+md5_10: d07ec539ed
+md5_5: d07ec
+md5_6: d07ec5
+name: Electronic Header 2 Mm Jst Ph 5 Pin Surface Mount Right Angle
+part_number: ''
+short_code: h5psmra
+size: 2_mm_jst_ph
+type: header

@@ -1,0 +1,18 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 10_pin
+directory: parts/electronic_header_2_mm_jst_ph_10_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2_mm_jst_ph_10_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 9b922dc6f57f204818d5744743039a31
+md5_10: 9b922dc6f5
+md5_5: 9b922
+md5_6: 9b922d
+name: Electronic Header 2 Mm Jst Ph 10 Pin Surface Mount Right Angle
+part_number: ''
+short_code: h10psmra
+size: 2_mm_jst_ph
+type: header

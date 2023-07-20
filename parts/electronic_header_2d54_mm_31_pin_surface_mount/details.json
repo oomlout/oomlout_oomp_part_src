@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "31_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_31_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_31_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 31 Pin Surface Mount",
+    "short_code": "hi131psm",
+    "distributors": [],
+    "md5": "f604310400b19d7935b5e4ee6b1cb438",
+    "md5_5": "f6043",
+    "md5_6": "f60431",
+    "md5_10": "f604310400"
+}

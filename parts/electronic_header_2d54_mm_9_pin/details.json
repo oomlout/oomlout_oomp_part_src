@@ -1,0 +1,20 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "9_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_9_pin",
+    "directory": "parts/electronic_header_2d54_mm_9_pin",
+    "name": "Electronic Header 2D54 Mm 9 Pin",
+    "short_code": "hi19p",
+    "distributors": [],
+    "md5": "a557bfa5baa9707c7bd6e2f1b950c15a",
+    "md5_5": "a557b",
+    "md5_6": "a557bf",
+    "md5_10": "a557bfa5ba"
+}

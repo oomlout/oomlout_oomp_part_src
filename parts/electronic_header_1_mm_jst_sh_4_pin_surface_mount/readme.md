@@ -1,0 +1,36 @@
+# Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount
+
+## Description
+
+## Properties
+
+
+## Image
+
+
+## Values
+
+| Key | Value |
+| --- | --- |
+| classification | electronic |
+| type | header |
+| size | 1_mm_jst_sh |
+| color |  |
+| description_main | 4_pin |
+| description_extra | surface_mount |
+| manufacturer |  |
+| part_number |  |
+| kicad_reference | J |
+| id | electronic_header_1_mm_jst_sh_4_pin_surface_mount |
+| directory | parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount |
+| name | Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount |
+| short_code | h4psm |
+| distributors | [] |
+| md5 | a679e860a819577244ae5cd400e79203 |
+| md5_5 | a679e |
+| md5_6 | a679e8 |
+| md5_10 | a679e860a8 |
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male', 'name': 'Connector : Conn_01x04_Male', 'id': 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male', 'directory': 'SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/'}] |
+
+## Notes
+
