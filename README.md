@@ -12,7 +12,12 @@ current parts list [parts_readme.md](readme_parts.md)
   * oomp.py -- the main hold everything together file imports everything needed and holds the dictionary
   * oomp_create_parts.py -- where the parts are created 
     * oomp_create_parts_led.py -- led part details
+  * oomp_kicad.py -- where all the kicad stuff is sorted,
+   *  oomp_kicad_footprint.py -- footprint matching is done
   * oomp_working.py -- where things are tested
+* base/kicad
+  * base/kicad/footprints -- location of footprint libraries
+  * base/kicad/symbols -- location of symbols
 * base/src
   * files
     * put the item that you want copied to the correct directory filename format (id)_(type)
