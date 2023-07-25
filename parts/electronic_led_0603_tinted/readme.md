@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_0603_tinted |
 | directory | parts/electronic_led_0603_tinted |
 | name | Electronic Led 0603 Tinted |
 | short_code | l63t |
+| short_name | 0603 Tinted Led |
 | distributors | [] |
 | md5 | 511e69f292fd359eacea2593b41398a5 |
 | md5_5 | 511e6 |

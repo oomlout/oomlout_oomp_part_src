@@ -11,6 +11,7 @@ footprint:
     name: 'MountingHole : MountingHole_6.4mm_M6'
 id: electronic_mounting_hole_m6
 kicad_reference: H
+make_files: true
 manufacturer: ''
 md5: fbea6534b8834126a7a8dd2e02368bd1
 md5_10: fbea6534b8

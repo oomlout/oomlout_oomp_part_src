@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_20_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_20_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 5c192b2893fd90d9feab74ed4498a716
 md5_10: 5c192b2893
@@ -14,5 +15,6 @@ md5_6: 5c192b
 name: Electronic Header 2D54 Mm 20 Pin Right Angle
 part_number: ''
 short_code: hi120pra
+short_name: 0.1" 20 Pin Right Angle Header
 size: 2d54_mm
 type: header

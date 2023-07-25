@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_jst_xh_5_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_jst_xh_5_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 4ad1f1fc9f5d29c88c04afb3c9d1fbdd
 md5_10: 4ad1f1fc9f
@@ -14,5 +15,6 @@ md5_6: 4ad1f1
 name: Electronic Header 2D54 Mm Jst Xh 5 Pin Right Angle
 part_number: ''
 short_code: h5pra
+short_name: Jst Xh 5 Pin Right Angle Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
 type: header

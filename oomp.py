@@ -3,6 +3,7 @@ import oomp_create_parts
 import oomp_kicad_footprint
 import oomp_kicad_symbol
 import oomp_short_code
+import oomp_short_name
 import oomp_distributors
 
 parts = {}
@@ -16,8 +17,8 @@ parts_short_code = {}
 names_of_main_elements = ["classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number"]
 
 
-def load_parts():
-    oomp_create_parts.load_parts()
+def load_parts(**kwargs):
+    oomp_create_parts.load_parts(**kwargs)
 
 def create_parts_readme():
     #create a file called parts_readme.md that links to all the parts in the parts directory
@@ -32,7 +33,7 @@ def create_parts_readme():
     
 
 
-def add_parts(parts):
+def add_parts(parts, make_files=True):
     #expand the parts list into parts_processed, make this a list of permutations of the part using itertools
     import itertools
 
@@ -72,11 +73,15 @@ def add_parts(parts):
 
         # Print all combinations
         for combo in combinations:
-            add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements)
+            add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, make_files=make_files)
         
 
+def copy_files():
+    pass
+
 def add_part(**kwargs):
-    
+    make_files = kwargs.get("make_files", True)
+
     #pop out the not_main_elements from kwargs
     not_main_elements = kwargs.pop("not_main_elements")
     #add them back as regular keys
@@ -104,6 +109,12 @@ def add_part(**kwargs):
     kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
     parts_short_code[kwargs["short_code"]] = kwargs["id"]
     
+    # add short name from a get_short_name function
+    short_name = oomp_short_name.get_short_name(**kwargs)
+    if short_name != "":
+        kwargs["short_name"] = short_name
+
+
     #add distributors from a function get_distributors in oomp_distributors.py
     
     kwargs = oomp_distributors.get_distributors(**kwargs)
@@ -126,41 +137,41 @@ def add_part(**kwargs):
     ## print part nicely indented by six spaces
     ### print("      " + str(kwargs).replace(", ", ",\n      "))
 
+    if make_files:
+        ######### file stuff
+        
+        ## make a directory in /parts for the part the name is its id
+        import os
+        if not os.path.exists("parts/" + id):
+            os.makedirs("parts/" + id)
+        
+        ## write the part details in json to the directory name the file details.json
+        import json
+        with open("parts/" + id + "/details.json", "w") as outfile:
+            json.dump(kwargs, outfile, indent=4)
+        ## write the part details in yaml to the directory name the file details.json
+        import yaml
+        with open("parts/" + id + "/details.yaml", "w") as outfile:
+            yaml.dump(kwargs, outfile, indent=4)
+
+        file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
+        #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
+        for file_type in file_types:
+            import os.path
+            if os.path.isfile("src/" + id + "_" + file_type):
+                import shutil
+                shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/" + file_type)
+
     
-    ######### file stuff
-    
-    ## make a directory in /parts for the part the name is its id
-    import os
-    if not os.path.exists("parts/" + id):
-        os.makedirs("parts/" + id)
-    
-    ## write the part details in json to the directory name the file details.json
-    import json
-    with open("parts/" + id + "/details.json", "w") as outfile:
-        json.dump(kwargs, outfile, indent=4)
-    ## write the part details in yaml to the directory name the file details.json
-    import yaml
-    with open("parts/" + id + "/details.yaml", "w") as outfile:
-        yaml.dump(kwargs, outfile, indent=4)
 
-    file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
-    #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
-    for file_type in file_types:
-        import os.path
-        if os.path.isfile("src/" + id + "_" + file_type):
-            import shutil
-            shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/" + file_type)
+        ### eda stuff
+        kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
+        kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
 
-   
-
-    ### eda stuff
-    kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
-    kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
-
-     #call pass the part to a function to gebneratre a readme.md file then save it
-    readme = generate_readme(**kwargs)
-    with open("parts/" + id + "/readme.md", "w") as outfile:
-        outfile.write(readme)
+        #call pass the part to a function to gebneratre a readme.md file then save it
+        readme = generate_readme(**kwargs)
+        with open("parts/" + id + "/readme.md", "w") as outfile:
+            outfile.write(readme)
 
 
     parts[id] = kwargs

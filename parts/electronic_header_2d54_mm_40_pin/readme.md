@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_40_pin |
 | directory | parts/electronic_header_2d54_mm_40_pin |
 | name | Electronic Header 2D54 Mm 40 Pin |
 | short_code | hi140p |
+| short_name | 0.1" 40 Pin Header |
 | distributors | [] |
 | md5 | 728aa54e67c9cc57aceebfaab6ee7fc7 |
 | md5_5 | 728aa |

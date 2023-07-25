@@ -7,6 +7,8 @@
     "description_extra": "",
     "manufacturer": "wuxi_i_core_electronics_co_ltd",
     "part_number": "aip1640",
+    "make_files": true,
+    "short_name": "aip1640 16x8 led matrix driver",
     "pins": {
         "1": {
             "name": "grid12",

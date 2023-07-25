@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_22_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_22_pin_right_angle |
 | name | Electronic Header 2D54 Mm 22 Pin Right Angle |
 | short_code | hi122pra |
+| short_name | 0.1" 22 Pin Right Angle Header |
 | distributors | [] |
 | md5 | df0d527fdcd53ef7dff00a69b43fe309 |
 | md5_5 | df0d5 |

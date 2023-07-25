@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_18_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_18_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 18 Pin Surface Mount Right Angle |
 | short_code | hi118psmra |
+| short_name | 0.1" 18 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | 58287de56bcb4d3e86675006f86bda9a |
 | md5_5 | 58287 |

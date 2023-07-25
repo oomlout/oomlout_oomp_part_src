@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_25_pin |
 | directory | parts/electronic_header_2d54_mm_25_pin |
 | name | Electronic Header 2D54 Mm 25 Pin |
 | short_code | hi125p |
+| short_name | 0.1" 25 Pin Header |
 | distributors | [] |
 | md5 | ca4623dc8e469812f5037685f992e75b |
 | md5_5 | ca462 |

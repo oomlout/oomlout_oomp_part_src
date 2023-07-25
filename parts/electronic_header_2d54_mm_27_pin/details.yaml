@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_27_pin
 distributors: []
 id: electronic_header_2d54_mm_27_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 3bc12c1e7ebf39ac9e9cecc3d3d33410
 md5_10: 3bc12c1e7e
@@ -14,5 +15,6 @@ md5_6: 3bc12c
 name: Electronic Header 2D54 Mm 27 Pin
 part_number: ''
 short_code: hi127p
+short_name: 0.1" 27 Pin Header
 size: 2d54_mm
 type: header

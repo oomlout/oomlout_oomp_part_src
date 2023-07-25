@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_0603_red |
 | directory | parts/electronic_led_0603_red |
 | name | Electronic Led 0603 Red |
 | short_code | l63r |
+| short_name | 0603 Red Led |
 | distributors | [] |
 | md5 | 255611ec8565e66dea88d4fba9421c6d |
 | md5_5 | 25561 |

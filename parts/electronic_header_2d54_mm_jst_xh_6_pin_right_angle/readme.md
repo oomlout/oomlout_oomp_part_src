@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_6_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_jst_xh_6_pin_right_angle |
 | name | Electronic Header 2D54 Mm Jst Xh 6 Pin Right Angle |
 | short_code | h6pra |
+| short_name | Jst Xh 6 Pin Right Angle Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | d66a8219238bbdcc3a350466cd43007a |
 | md5_5 | d66a8 |

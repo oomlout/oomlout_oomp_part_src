@@ -20,6 +20,7 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_1_mm_jst_sh_3_pin |
 | directory | parts/electronic_header_1_mm_jst_sh_3_pin |

@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_1_pin_surface_mount |
 | directory | parts/electronic_header_2_mm_jst_ph_1_pin_surface_mount |
 | name | Electronic Header 2 Mm Jst Ph 1 Pin Surface Mount |
 | short_code | h1psm |
+| short_name | Jst Ph 1 Pin Surface Mount Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 2e0915a69a5123b6ca61706d100023a7 |
 | md5_5 | 2e091 |

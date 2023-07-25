@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_15_pin |
 | directory | parts/electronic_header_2d54_mm_15_pin |
 | name | Electronic Header 2D54 Mm 15 Pin |
 | short_code | hi115p |
+| short_name | 0.1" 15 Pin Header |
 | distributors | [] |
 | md5 | ccffd7988a0b3da1fe56f23b24b20f28 |
 | md5_5 | ccffd |

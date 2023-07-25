@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_6_pin |
 | directory | parts/electronic_header_2_mm_jst_ph_6_pin |
 | name | Electronic Header 2 Mm Jst Ph 6 Pin |
 | short_code | h6p |
+| short_name | Jst Ph 6 Pin Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 4392b69dd57203e67cac8a32dfdf29af |
 | md5_5 | 4392b |

@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount Right Angle |
 | short_code | h3psmra |
+| short_name | Jst Xh 3 Pin Surface Mount Right Angle Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | f151a44228d3168a7fb44e596a396f68 |
 | md5_5 | f151a |

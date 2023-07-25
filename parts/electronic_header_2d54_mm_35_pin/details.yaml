@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_35_pin
 distributors: []
 id: electronic_header_2d54_mm_35_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 242430b8bda7493d352e8c0439ca19ac
 md5_10: 242430b8bd
@@ -14,5 +15,6 @@ md5_6: '242430'
 name: Electronic Header 2D54 Mm 35 Pin
 part_number: ''
 short_code: hi135p
+short_name: 0.1" 35 Pin Header
 size: 2d54_mm
 type: header

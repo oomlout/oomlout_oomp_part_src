@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_10_pin |
 | directory | parts/electronic_header_2_mm_jst_ph_10_pin |
 | name | Electronic Header 2 Mm Jst Ph 10 Pin |
 | short_code | h10p |
+| short_name | Jst Ph 10 Pin Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | c6c034e070cd314d8561c3681dc7eb97 |
 | md5_5 | c6c03 |

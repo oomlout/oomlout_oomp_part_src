@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_2_pin |
 | directory | parts/electronic_header_2d54_mm_2_pin |
 | name | Electronic Header 2D54 Mm 2 Pin |
 | short_code | hi12p |
+| short_name | 0.1" 2 Pin Header |
 | distributors | [] |
 | md5 | 2b64b1a51c08e5987bb8b978c3b6b1ed |
 | md5_5 | 2b64b |

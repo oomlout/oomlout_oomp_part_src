@@ -6,6 +6,7 @@ directory: parts/electronic_led_10_mm_tinted
 distributors: []
 id: electronic_led_10_mm_tinted
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: c4200ad5962b0636e958842bac569e71
 md5_10: c4200ad596
@@ -14,5 +15,6 @@ md5_6: c4200a
 name: Electronic Led 10 Mm Tinted
 part_number: ''
 short_code: l10t
+short_name: 10 Mm Tinted Led
 size: 10_mm
 type: led

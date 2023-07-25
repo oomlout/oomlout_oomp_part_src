@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_5_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_5_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 5 Pin Surface Mount |
 | short_code | hi15psm |
+| short_name | 0.1" 5 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | feae7ce61cb91ecc93cc33a60ae0e73e |
 | md5_5 | feae7 |

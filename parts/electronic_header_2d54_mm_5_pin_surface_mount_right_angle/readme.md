@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_5_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_5_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 5 Pin Surface Mount Right Angle |
 | short_code | hi15psmra |
+| short_name | 0.1" 5 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | b1ace710e91fe44f160f6a14511f815d |
 | md5_5 | b1ace |

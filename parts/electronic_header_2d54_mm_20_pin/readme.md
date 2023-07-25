@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_20_pin |
 | directory | parts/electronic_header_2d54_mm_20_pin |
 | name | Electronic Header 2D54 Mm 20 Pin |
 | short_code | hi120p |
+| short_name | 0.1" 20 Pin Header |
 | distributors | [] |
 | md5 | 1a3631e2adaadb1b2bd8e91f87dc9d53 |
 | md5_5 | 1a363 |

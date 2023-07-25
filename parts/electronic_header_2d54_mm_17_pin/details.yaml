@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_17_pin
 distributors: []
 id: electronic_header_2d54_mm_17_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: a43e83b4c1cc3dbfa541ae8decf2b8fc
 md5_10: a43e83b4c1
@@ -14,5 +15,6 @@ md5_6: a43e83
 name: Electronic Header 2D54 Mm 17 Pin
 part_number: ''
 short_code: hi117p
+short_name: 0.1" 17 Pin Header
 size: 2d54_mm
 type: header

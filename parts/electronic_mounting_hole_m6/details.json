@@ -7,6 +7,7 @@
     "description_extra": "",
     "manufacturer": "",
     "part_number": "",
+    "make_files": true,
     "kicad_reference": "H",
     "notes": [],
     "footprint": [

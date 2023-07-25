@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_32_pin
 distributors: []
 id: electronic_header_2d54_mm_32_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 656b9153a0bf824ddee8a153a48ec542
 md5_10: 656b9153a0
@@ -14,5 +15,6 @@ md5_6: 656b91
 name: Electronic Header 2D54 Mm 32 Pin
 part_number: ''
 short_code: hi132p
+short_name: 0.1" 32 Pin Header
 size: 2d54_mm
 type: header

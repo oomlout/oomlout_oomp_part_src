@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angl
 distributors: []
 id: electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: f151a44228d3168a7fb44e596a396f68
 md5_10: f151a44228
@@ -14,5 +15,6 @@ md5_6: f151a4
 name: Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount Right Angle
 part_number: ''
 short_code: h3psmra
+short_name: Jst Xh 3 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
 type: header

@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_1_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_1_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 1 Pin Surface Mount |
 | short_code | hi11psm |
+| short_name | 0.1" 1 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | eb048422bb7ffc702dd8d2dba1b6481c |
 | md5_5 | eb048 |

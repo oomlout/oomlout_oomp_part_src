@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_6_pin_surface_mount |
 | directory | parts/electronic_header_2_mm_jst_ph_6_pin_surface_mount |
 | name | Electronic Header 2 Mm Jst Ph 6 Pin Surface Mount |
 | short_code | h6psm |
+| short_name | Jst Ph 6 Pin Surface Mount Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 0dc3fdb738fbc2093d58e7ac61f1d2e6 |
 | md5_5 | 0dc3f |

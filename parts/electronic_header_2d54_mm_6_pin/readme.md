@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_6_pin |
 | directory | parts/electronic_header_2d54_mm_6_pin |
 | name | Electronic Header 2D54 Mm 6 Pin |
 | short_code | hi16p |
+| short_name | 0.1" 6 Pin Header |
 | distributors | [] |
 | md5 | 8d109fb876773c177c2f8ed893ccbc38 |
 | md5_5 | 8d109 |

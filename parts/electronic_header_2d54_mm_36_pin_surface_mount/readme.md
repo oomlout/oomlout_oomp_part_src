@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_36_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_36_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 36 Pin Surface Mount |
 | short_code | hi136psm |
+| short_name | 0.1" 36 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 57b225f90f5121ed5f9a2d5f5518644d |
 | md5_5 | 57b22 |

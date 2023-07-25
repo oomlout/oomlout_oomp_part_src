@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_13_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_13_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 535ee4f426604e701cd68fb40e87d37d
 md5_10: 535ee4f426
@@ -14,5 +15,6 @@ md5_6: 535ee4
 name: Electronic Header 2D54 Mm 13 Pin Right Angle
 part_number: ''
 short_code: hi113pra
+short_name: 0.1" 13 Pin Right Angle Header
 size: 2d54_mm
 type: header

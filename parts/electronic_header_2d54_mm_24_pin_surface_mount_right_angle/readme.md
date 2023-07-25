@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_24_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_24_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 24 Pin Surface Mount Right Angle |
 | short_code | hi124psmra |
+| short_name | 0.1" 24 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | 38d6fae87a436f3430554ee985906821 |
 | md5_5 | 38d6f |

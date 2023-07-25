@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_5_mm_red |
 | directory | parts/electronic_led_5_mm_red |
 | name | Electronic Led 5 Mm Red |
 | short_code | l5r |
+| short_name | 5 Mm Red Led |
 | distributors | [] |
 | md5 | 30578ce27beae920469b86e05a198be3 |
 | md5_5 | 30578 |

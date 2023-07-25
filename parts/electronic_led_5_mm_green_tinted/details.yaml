@@ -6,6 +6,7 @@ directory: parts/electronic_led_5_mm_green_tinted
 distributors: []
 id: electronic_led_5_mm_green_tinted
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: 6d1f9c4e1b62797db5e243dcfbd8d56c
 md5_10: 6d1f9c4e1b
@@ -14,5 +15,6 @@ md5_6: 6d1f9c
 name: Electronic Led 5 Mm Green Tinted
 part_number: ''
 short_code: l5gt
+short_name: 5 Mm Greentinted Led
 size: 5_mm
 type: led

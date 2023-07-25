@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_3_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_3_pin_right_angle |
 | name | Electronic Header 2D54 Mm 3 Pin Right Angle |
 | short_code | hi13pra |
+| short_name | 0.1" 3 Pin Right Angle Header |
 | distributors | [] |
 | md5 | 64f7c3b17ff0b0601fdc3dd325824934 |
 | md5_5 | 64f7c |

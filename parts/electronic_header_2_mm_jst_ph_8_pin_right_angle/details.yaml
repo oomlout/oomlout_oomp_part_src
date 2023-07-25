@@ -6,6 +6,7 @@ directory: parts/electronic_header_2_mm_jst_ph_8_pin_right_angle
 distributors: []
 id: electronic_header_2_mm_jst_ph_8_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 63c44171ce493ae2de598b12d92242c5
 md5_10: 63c44171ce
@@ -14,5 +15,6 @@ md5_6: 63c441
 name: Electronic Header 2 Mm Jst Ph 8 Pin Right Angle
 part_number: ''
 short_code: h8pra
+short_name: Jst Ph 8 Pin Right Angle Header 2 Mm Pitch
 size: 2_mm_jst_ph
 type: header

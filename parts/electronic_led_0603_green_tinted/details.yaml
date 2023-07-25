@@ -6,6 +6,7 @@ directory: parts/electronic_led_0603_green_tinted
 distributors: []
 id: electronic_led_0603_green_tinted
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: 224a14188bd7132e2bb68d27fc72e995
 md5_10: 224a14188b
@@ -14,5 +15,6 @@ md5_6: 224a14
 name: Electronic Led 0603 Green Tinted
 part_number: ''
 short_code: l63gt
+short_name: 0603 Greentinted Led
 size: '0603'
 type: led

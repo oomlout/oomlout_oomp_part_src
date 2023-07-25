@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_10_mm_green_tinted |
 | directory | parts/electronic_led_10_mm_green_tinted |
 | name | Electronic Led 10 Mm Green Tinted |
 | short_code | l10gt |
+| short_name | 10 Mm Greentinted Led |
 | distributors | [] |
 | md5 | 0ef1979ff649cb50d62c3efa2bd85508 |
 | md5_5 | 0ef19 |

@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_33_pin
 distributors: []
 id: electronic_header_2d54_mm_33_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: b323a3b9f49a03162913ac107f314fc9
 md5_10: b323a3b9f4
@@ -14,5 +15,6 @@ md5_6: b323a3
 name: Electronic Header 2D54 Mm 33 Pin
 part_number: ''
 short_code: hi133p
+short_name: 0.1" 33 Pin Header
 size: 2d54_mm
 type: header

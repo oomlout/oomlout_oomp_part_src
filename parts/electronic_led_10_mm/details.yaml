@@ -6,6 +6,7 @@ directory: parts/electronic_led_10_mm
 distributors: []
 id: electronic_led_10_mm
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: bab4a73f335cebcc40b339010dc83b72
 md5_10: bab4a73f33
@@ -14,5 +15,6 @@ md5_6: bab4a7
 name: Electronic Led 10 Mm
 part_number: ''
 short_code: l10
+short_name: 10 Mm Led
 size: 10_mm
 type: led

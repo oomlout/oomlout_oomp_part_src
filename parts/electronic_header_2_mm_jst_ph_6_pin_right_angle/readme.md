@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_6_pin_right_angle |
 | directory | parts/electronic_header_2_mm_jst_ph_6_pin_right_angle |
 | name | Electronic Header 2 Mm Jst Ph 6 Pin Right Angle |
 | short_code | h6pra |
+| short_name | Jst Ph 6 Pin Right Angle Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | e6da2b8c74228208fc51564f7999a55e |
 | md5_5 | e6da2 |

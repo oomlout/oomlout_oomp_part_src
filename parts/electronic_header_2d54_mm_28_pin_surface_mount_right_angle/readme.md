@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_28_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_28_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 28 Pin Surface Mount Right Angle |
 | short_code | hi128psmra |
+| short_name | 0.1" 28 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | e5cd7c7cc1df3144317d28e43be9360c |
 | md5_5 | e5cd7 |

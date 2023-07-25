@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_7_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount |
 | name | Electronic Header 2D54 Mm Jst Xh 7 Pin Surface Mount |
 | short_code | h7psm |
+| short_name | Jst Xh 7 Pin Surface Mount Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | 41b843c3803d80ab800da831f57304fe |
 | md5_5 | 41b84 |

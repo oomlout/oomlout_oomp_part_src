@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_10_pin_surface_mount_right_angle
 distributors: []
 id: electronic_header_2d54_mm_10_pin_surface_mount_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: f796a09a646916059a9bc84606511211
 md5_10: f796a09a64
@@ -14,5 +15,6 @@ md5_6: f796a0
 name: Electronic Header 2D54 Mm 10 Pin Surface Mount Right Angle
 part_number: ''
 short_code: hi110psmra
+short_name: 0.1" 10 Pin Surface Mount Right Angle Header
 size: 2d54_mm
 type: header

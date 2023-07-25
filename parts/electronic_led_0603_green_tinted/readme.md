@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_0603_green_tinted |
 | directory | parts/electronic_led_0603_green_tinted |
 | name | Electronic Led 0603 Green Tinted |
 | short_code | l63gt |
+| short_name | 0603 Greentinted Led |
 | distributors | [] |
 | md5 | 224a14188bd7132e2bb68d27fc72e995 |
 | md5_5 | 224a1 |

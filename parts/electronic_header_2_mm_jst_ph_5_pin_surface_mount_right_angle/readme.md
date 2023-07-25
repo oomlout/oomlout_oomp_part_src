@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle |
 | name | Electronic Header 2 Mm Jst Ph 5 Pin Surface Mount Right Angle |
 | short_code | h5psmra |
+| short_name | Jst Ph 5 Pin Surface Mount Right Angle Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | d07ec539edcb79ea438dc98f57fd172b |
 | md5_5 | d07ec |

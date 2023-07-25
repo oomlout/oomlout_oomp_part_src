@@ -6,6 +6,7 @@ directory: parts/electronic_led_5_mm_red
 distributors: []
 id: electronic_led_5_mm_red
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: 30578ce27beae920469b86e05a198be3
 md5_10: 30578ce27b
@@ -14,5 +15,6 @@ md5_6: 30578c
 name: Electronic Led 5 Mm Red
 part_number: ''
 short_code: l5r
+short_name: 5 Mm Red Led
 size: 5_mm
 type: led

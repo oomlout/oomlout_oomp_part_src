@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_31_pin
 distributors: []
 id: electronic_header_2d54_mm_31_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 3f92b4eaeae188c38b0b6283926a641c
 md5_10: 3f92b4eaea
@@ -14,5 +15,6 @@ md5_6: 3f92b4
 name: Electronic Header 2D54 Mm 31 Pin
 part_number: ''
 short_code: hi131p
+short_name: 0.1" 31 Pin Header
 size: 2d54_mm
 type: header

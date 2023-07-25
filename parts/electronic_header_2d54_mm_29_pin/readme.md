@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_29_pin |
 | directory | parts/electronic_header_2d54_mm_29_pin |
 | name | Electronic Header 2D54 Mm 29 Pin |
 | short_code | hi129p |
+| short_name | 0.1" 29 Pin Header |
 | distributors | [] |
 | md5 | a0bd98b3c21869715d409c2f7fa54ed8 |
 | md5_5 | a0bd9 |

@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_5_pin |
 | directory | parts/electronic_header_2_mm_jst_ph_5_pin |
 | name | Electronic Header 2 Mm Jst Ph 5 Pin |
 | short_code | h5p |
+| short_name | Jst Ph 5 Pin Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 7e927823021ec49d15a3c8910048322e |
 | md5_5 | 7e927 |

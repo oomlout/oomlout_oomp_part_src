@@ -6,6 +6,7 @@ directory: parts/electronic_header_2_mm_jst_ph_7_pin_right_angle
 distributors: []
 id: electronic_header_2_mm_jst_ph_7_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 35c45080f20bbbe012093d7649b029e2
 md5_10: 35c45080f2
@@ -14,5 +15,6 @@ md5_6: 35c450
 name: Electronic Header 2 Mm Jst Ph 7 Pin Right Angle
 part_number: ''
 short_code: h7pra
+short_name: Jst Ph 7 Pin Right Angle Header 2 Mm Pitch
 size: 2_mm_jst_ph
 type: header

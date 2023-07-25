@@ -20,6 +20,7 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | H |
 | notes | [] |
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3', 'name': 'MountingHole : MountingHole_3.2mm_M3', 'id': 'FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3', 'directory': 'FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3/'}] |

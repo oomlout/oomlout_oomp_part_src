@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_17_pin_surface_mount_right_angle
 distributors: []
 id: electronic_header_2d54_mm_17_pin_surface_mount_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: feb2ac3fd170b796ce4374ae82c4360c
 md5_10: feb2ac3fd1
@@ -14,5 +15,6 @@ md5_6: feb2ac
 name: Electronic Header 2D54 Mm 17 Pin Surface Mount Right Angle
 part_number: ''
 short_code: hi117psmra
+short_name: 0.1" 17 Pin Surface Mount Right Angle Header
 size: 2d54_mm
 type: header

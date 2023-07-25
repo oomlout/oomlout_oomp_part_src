@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_27_pin |
 | directory | parts/electronic_header_2d54_mm_27_pin |
 | name | Electronic Header 2D54 Mm 27 Pin |
 | short_code | hi127p |
+| short_name | 0.1" 27 Pin Header |
 | distributors | [] |
 | md5 | 3bc12c1e7ebf39ac9e9cecc3d3d33410 |
 | md5_5 | 3bc12 |

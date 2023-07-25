@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_4_pin |
 | directory | parts/electronic_header_2_mm_jst_ph_4_pin |
 | name | Electronic Header 2 Mm Jst Ph 4 Pin |
 | short_code | h4p |
+| short_name | Jst Ph 4 Pin Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 2bbcc2f726c680129660e2cc72b3bcb0 |
 | md5_5 | 2bbcc |

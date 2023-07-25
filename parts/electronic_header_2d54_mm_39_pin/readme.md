@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_39_pin |
 | directory | parts/electronic_header_2d54_mm_39_pin |
 | name | Electronic Header 2D54 Mm 39 Pin |
 | short_code | hi139p |
+| short_name | 0.1" 39 Pin Header |
 | distributors | [] |
 | md5 | b35cc8d220e2efdf397d09e9f18592fc |
 | md5_5 | b35cc |

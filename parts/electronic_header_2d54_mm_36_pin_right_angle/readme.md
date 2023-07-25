@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_36_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_36_pin_right_angle |
 | name | Electronic Header 2D54 Mm 36 Pin Right Angle |
 | short_code | hi136pra |
+| short_name | 0.1" 36 Pin Right Angle Header |
 | distributors | [] |
 | md5 | 46440a37a5fd875d69e7f12d4dc82bb6 |
 | md5_5 | 46440 |

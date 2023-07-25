@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_10_mm_green |
 | directory | parts/electronic_led_10_mm_green |
 | name | Electronic Led 10 Mm Green |
 | short_code | l10g |
+| short_name | 10 Mm Green Led |
 | distributors | [] |
 | md5 | 5f6525ecafb65df19e6187ca04358bfa |
 | md5_5 | 5f652 |

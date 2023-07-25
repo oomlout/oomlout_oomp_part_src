@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_35_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_35_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 35 Pin Surface Mount |
 | short_code | hi135psm |
+| short_name | 0.1" 35 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 6c1c80159755e969c7203421165d3ead |
 | md5_5 | 6c1c8 |

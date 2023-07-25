@@ -10,7 +10,7 @@ part_types.append("header")
 for type in part_types:
     importlib.import_module(f'oomp_create_parts_{type}')
 
-def load_parts():
+def load_parts(**kwargs):
     print("loading parts started")
     for type in part_types:
-        importlib.import_module(f'oomp_create_parts_{type}').load_parts()
+        importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)

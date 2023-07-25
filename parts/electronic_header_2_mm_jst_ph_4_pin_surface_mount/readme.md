@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_4_pin_surface_mount |
 | directory | parts/electronic_header_2_mm_jst_ph_4_pin_surface_mount |
 | name | Electronic Header 2 Mm Jst Ph 4 Pin Surface Mount |
 | short_code | h4psm |
+| short_name | Jst Ph 4 Pin Surface Mount Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 3913ab7f2f21ef39577157794f7ba4bf |
 | md5_5 | 3913a |

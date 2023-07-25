@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_13_pin |
 | directory | parts/electronic_header_2d54_mm_13_pin |
 | name | Electronic Header 2D54 Mm 13 Pin |
 | short_code | hi113p |
+| short_name | 0.1" 13 Pin Header |
 | distributors | [] |
 | md5 | 77edefa7033678fb80724089aa5e04d2 |
 | md5_5 | 77ede |

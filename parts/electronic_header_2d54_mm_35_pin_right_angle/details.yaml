@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_35_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_35_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 25d121c4b8ba4783971c71f280af63c6
 md5_10: 25d121c4b8
@@ -14,5 +15,6 @@ md5_6: 25d121
 name: Electronic Header 2D54 Mm 35 Pin Right Angle
 part_number: ''
 short_code: hi135pra
+short_name: 0.1" 35 Pin Right Angle Header
 size: 2d54_mm
 type: header

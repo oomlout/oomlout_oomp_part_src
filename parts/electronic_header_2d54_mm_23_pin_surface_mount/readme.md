@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_23_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_23_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 23 Pin Surface Mount |
 | short_code | hi123psm |
+| short_name | 0.1" 23 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 305b8c9782d370ea48604d08765b4406 |
 | md5_5 | 305b8 |

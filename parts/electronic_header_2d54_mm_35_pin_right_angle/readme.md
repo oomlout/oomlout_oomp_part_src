@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_35_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_35_pin_right_angle |
 | name | Electronic Header 2D54 Mm 35 Pin Right Angle |
 | short_code | hi135pra |
+| short_name | 0.1" 35 Pin Right Angle Header |
 | distributors | [] |
 | md5 | 25d121c4b8ba4783971c71f280af63c6 |
 | md5_5 | 25d12 |

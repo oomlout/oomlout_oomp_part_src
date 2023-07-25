@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_29_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_29_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 29 Pin Surface Mount Right Angle |
 | short_code | hi129psmra |
+| short_name | 0.1" 29 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | c4430f71995d34057bf38013b3a85eee |
 | md5_5 | c4430 |

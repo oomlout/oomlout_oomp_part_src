@@ -6,6 +6,7 @@ directory: parts/electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core
 distributors: []
 id: electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 kicad_reference: U
+make_files: true
 manufacturer: wuxi_i_core_electronics_co_ltd
 md5: fe0f02de46589a976647f8b5ba67c620
 md5_10: fe0f02de46
@@ -130,5 +131,6 @@ pins:
         number: '9'
         type: signal
 short_code: isoic28waip1640
+short_name: aip1640 16x8 led matrix driver
 size: soic_28_wide
 type: ic

@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_jst_xh_10_pin_surface_mount
 distributors: []
 id: electronic_header_2d54_mm_jst_xh_10_pin_surface_mount
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 1e6e36c2b8ee3773f94eeadcd5af22d2
 md5_10: 1e6e36c2b8
@@ -14,5 +15,6 @@ md5_6: 1e6e36
 name: Electronic Header 2D54 Mm Jst Xh 10 Pin Surface Mount
 part_number: ''
 short_code: h10psm
+short_name: Jst Xh 10 Pin Surface Mount Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
 type: header

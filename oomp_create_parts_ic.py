@@ -1,6 +1,7 @@
 import oomp
 
-def load_parts():
+def load_parts(**kwargs):
+    make_files = kwargs.get("make_files", True)
     #print "loading parts" plus the module name get the module name from the filename using __name__
     print(f"  loading parts {__name__}")
     
@@ -18,6 +19,7 @@ def load_parts():
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "wuxi_i_core_electronics_co_ltd"
     part_details["part_number"] = "aip1640"
+    part_details["short_name"] = "16x8 led matrix driver (aip1640)"
     pins = {}
     pins["1"] = ({"name": "grid12", "number": "1", "type": "signal"})
     pins["2"] = ({"name": "grid13", "number": "2", "type": "signal"})
@@ -57,5 +59,5 @@ def load_parts():
     parts.append(part_details)
 
     
-    oomp.add_parts(parts)
+    oomp.add_parts(parts, make_files=make_files)
     

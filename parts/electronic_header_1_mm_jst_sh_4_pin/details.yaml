@@ -6,6 +6,7 @@ directory: parts/electronic_header_1_mm_jst_sh_4_pin
 distributors: []
 id: electronic_header_1_mm_jst_sh_4_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 5088c2e57626fa5b0ec774e3c713a8c2
 md5_10: 5088c2e576

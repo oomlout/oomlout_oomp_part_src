@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_28_pin |
 | directory | parts/electronic_header_2d54_mm_28_pin |
 | name | Electronic Header 2D54 Mm 28 Pin |
 | short_code | hi128p |
+| short_name | 0.1" 28 Pin Header |
 | distributors | [] |
 | md5 | c7d1825b5a4404e5b5d71b17012d7787 |
 | md5_5 | c7d18 |

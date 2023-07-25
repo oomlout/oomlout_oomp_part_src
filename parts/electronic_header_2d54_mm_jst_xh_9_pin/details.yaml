@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_jst_xh_9_pin
 distributors: []
 id: electronic_header_2d54_mm_jst_xh_9_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 59fcfc9a20d67e6a413b94158d8fb6d2
 md5_10: 59fcfc9a20
@@ -14,5 +15,6 @@ md5_6: 59fcfc
 name: Electronic Header 2D54 Mm Jst Xh 9 Pin
 part_number: ''
 short_code: h9p
+short_name: Jst Xh 9 Pin Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
 type: header

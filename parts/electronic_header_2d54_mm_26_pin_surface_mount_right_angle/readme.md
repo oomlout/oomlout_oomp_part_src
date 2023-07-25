@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_26_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_26_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 26 Pin Surface Mount Right Angle |
 | short_code | hi126psmra |
+| short_name | 0.1" 26 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | e1c357d34bd8fdc17537c9d39a984907 |
 | md5_5 | e1c35 |

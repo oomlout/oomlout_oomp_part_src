@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_25_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_25_pin_right_angle |
 | name | Electronic Header 2D54 Mm 25 Pin Right Angle |
 | short_code | hi125pra |
+| short_name | 0.1" 25 Pin Right Angle Header |
 | distributors | [] |
 | md5 | 66602a2a9ab11a5794d71fb40b68dfd7 |
 | md5_5 | 66602 |

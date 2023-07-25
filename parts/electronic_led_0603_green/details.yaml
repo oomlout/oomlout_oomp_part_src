@@ -6,6 +6,7 @@ directory: parts/electronic_led_0603_green
 distributors: []
 id: electronic_led_0603_green
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: b4e8235ce213fd0badfc8ca2c6c558de
 md5_10: b4e8235ce2
@@ -14,5 +15,6 @@ md5_6: b4e823
 name: Electronic Led 0603 Green
 part_number: ''
 short_code: l63g
+short_name: 0603 Green Led
 size: '0603'
 type: led

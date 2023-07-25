@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_29_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_29_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 29 Pin Surface Mount |
 | short_code | hi129psm |
+| short_name | 0.1" 29 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | e2998a8e4b7ebba889554c48f079ae33 |
 | md5_5 | e2998 |

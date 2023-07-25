@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_11_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_11_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 72471303fec80dc3b046189c5a761124
 md5_10: 72471303fe
@@ -14,5 +15,6 @@ md5_6: '724713'
 name: Electronic Header 2D54 Mm 11 Pin Right Angle
 part_number: ''
 short_code: hi111pra
+short_name: 0.1" 11 Pin Right Angle Header
 size: 2d54_mm
 type: header

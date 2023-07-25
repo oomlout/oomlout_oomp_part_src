@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_8_pin |
 | directory | parts/electronic_header_2d54_mm_8_pin |
 | name | Electronic Header 2D54 Mm 8 Pin |
 | short_code | hi18p |
+| short_name | 0.1" 8 Pin Header |
 | distributors | [] |
 | md5 | 850fa76b0f4646eee2767adc1505530d |
 | md5_5 | 850fa |

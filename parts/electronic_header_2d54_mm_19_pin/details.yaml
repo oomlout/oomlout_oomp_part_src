@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_19_pin
 distributors: []
 id: electronic_header_2d54_mm_19_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 7c92fc5b4f4d53a12068fda4a560e3eb
 md5_10: 7c92fc5b4f
@@ -14,5 +15,6 @@ md5_6: 7c92fc
 name: Electronic Header 2D54 Mm 19 Pin
 part_number: ''
 short_code: hi119p
+short_name: 0.1" 19 Pin Header
 size: 2d54_mm
 type: header

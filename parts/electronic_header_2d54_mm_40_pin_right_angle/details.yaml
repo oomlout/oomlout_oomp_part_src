@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_40_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_40_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 752d84fee18d48c657993f0e03f1fabd
 md5_10: 752d84fee1
@@ -14,5 +15,6 @@ md5_6: 752d84
 name: Electronic Header 2D54 Mm 40 Pin Right Angle
 part_number: ''
 short_code: hi140pra
+short_name: 0.1" 40 Pin Right Angle Header
 size: 2d54_mm
 type: header

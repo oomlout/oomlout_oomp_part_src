@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_10_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_jst_xh_10_pin_right_angle |
 | name | Electronic Header 2D54 Mm Jst Xh 10 Pin Right Angle |
 | short_code | h10pra |
+| short_name | Jst Xh 10 Pin Right Angle Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | d270f8238c6ab002c38398967914901b |
 | md5_5 | d270f |

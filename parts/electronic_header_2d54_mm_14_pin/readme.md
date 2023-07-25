@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_14_pin |
 | directory | parts/electronic_header_2d54_mm_14_pin |
 | name | Electronic Header 2D54 Mm 14 Pin |
 | short_code | hi114p |
+| short_name | 0.1" 14 Pin Header |
 | distributors | [] |
 | md5 | 7b47053a9c1e69a67725851bbac28a7b |
 | md5_5 | 7b470 |

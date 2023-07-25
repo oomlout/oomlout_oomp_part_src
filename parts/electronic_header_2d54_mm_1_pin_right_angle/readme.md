@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_1_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_1_pin_right_angle |
 | name | Electronic Header 2D54 Mm 1 Pin Right Angle |
 | short_code | hi11pra |
+| short_name | 0.1" 1 Pin Right Angle Header |
 | distributors | [] |
 | md5 | a53ab0f35d1e4e0e2cd81a81e0d3863e |
 | md5_5 | a53ab |

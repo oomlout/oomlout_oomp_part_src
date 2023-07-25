@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_9_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2_mm_jst_ph_9_pin_surface_mount_right_angle |
 | name | Electronic Header 2 Mm Jst Ph 9 Pin Surface Mount Right Angle |
 | short_code | h9psmra |
+| short_name | Jst Ph 9 Pin Surface Mount Right Angle Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | f86b74a26f778d9a0c2f34510c2c7fbf |
 | md5_5 | f86b7 |

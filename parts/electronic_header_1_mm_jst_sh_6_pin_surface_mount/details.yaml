@@ -6,6 +6,7 @@ directory: parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount
 distributors: []
 id: electronic_header_1_mm_jst_sh_6_pin_surface_mount
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 60628a62dc19146d0dc1b7f8792dfb76
 md5_10: 60628a62dc

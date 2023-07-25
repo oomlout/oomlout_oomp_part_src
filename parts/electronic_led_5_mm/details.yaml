@@ -6,6 +6,7 @@ directory: parts/electronic_led_5_mm
 distributors: []
 id: electronic_led_5_mm
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: 7297cd778d1471689ae0db398d716719
 md5_10: 7297cd778d
@@ -14,5 +15,6 @@ md5_6: 7297cd
 name: Electronic Led 5 Mm
 part_number: ''
 short_code: l5
+short_name: 5 Mm Led
 size: 5_mm
 type: led

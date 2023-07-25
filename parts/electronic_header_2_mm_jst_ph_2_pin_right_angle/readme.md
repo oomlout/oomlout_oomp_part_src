@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_2_pin_right_angle |
 | directory | parts/electronic_header_2_mm_jst_ph_2_pin_right_angle |
 | name | Electronic Header 2 Mm Jst Ph 2 Pin Right Angle |
 | short_code | h2pra |
+| short_name | Jst Ph 2 Pin Right Angle Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 1fb2e7ce38d437e9ef505394c3417363 |
 | md5_5 | 1fb2e |

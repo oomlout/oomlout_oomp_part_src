@@ -6,6 +6,7 @@ directory: parts/electronic_header_2_mm_jst_ph_5_pin
 distributors: []
 id: electronic_header_2_mm_jst_ph_5_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 7e927823021ec49d15a3c8910048322e
 md5_10: 7e92782302
@@ -14,5 +15,6 @@ md5_6: 7e9278
 name: Electronic Header 2 Mm Jst Ph 5 Pin
 part_number: ''
 short_code: h5p
+short_name: Jst Ph 5 Pin Header 2 Mm Pitch
 size: 2_mm_jst_ph
 type: header

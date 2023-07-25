@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_8_pin_surface_mount |
 | directory | parts/electronic_header_2_mm_jst_ph_8_pin_surface_mount |
 | name | Electronic Header 2 Mm Jst Ph 8 Pin Surface Mount |
 | short_code | h8psm |
+| short_name | Jst Ph 8 Pin Surface Mount Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | d7384642e6945263310fa76bb079e38f |
 | md5_5 | d7384 |

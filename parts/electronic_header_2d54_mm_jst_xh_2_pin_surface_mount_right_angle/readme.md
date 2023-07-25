@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm Jst Xh 2 Pin Surface Mount Right Angle |
 | short_code | h2psmra |
+| short_name | Jst Xh 2 Pin Surface Mount Right Angle Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | 0f1d0d5c4cd066fe601e6769a378c1f6 |
 | md5_5 | 0f1d0 |

@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_24_pin
 distributors: []
 id: electronic_header_2d54_mm_24_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: fd9067e1308999d6c945486748d87d2d
 md5_10: fd9067e130
@@ -14,5 +15,6 @@ md5_6: fd9067
 name: Electronic Header 2D54 Mm 24 Pin
 part_number: ''
 short_code: hi124p
+short_name: 0.1" 24 Pin Header
 size: 2d54_mm
 type: header

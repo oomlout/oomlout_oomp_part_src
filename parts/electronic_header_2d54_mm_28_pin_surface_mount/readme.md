@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_28_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_28_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 28 Pin Surface Mount |
 | short_code | hi128psm |
+| short_name | 0.1" 28 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 35863eaf42a6d7b0b7b101887e63361d |
 | md5_5 | 35863 |

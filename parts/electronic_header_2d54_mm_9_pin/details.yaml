@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_9_pin
 distributors: []
 id: electronic_header_2d54_mm_9_pin
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: a557bfa5baa9707c7bd6e2f1b950c15a
 md5_10: a557bfa5ba
@@ -14,5 +15,6 @@ md5_6: a557bf
 name: Electronic Header 2D54 Mm 9 Pin
 part_number: ''
 short_code: hi19p
+short_name: 0.1" 9 Pin Header
 size: 2d54_mm
 type: header

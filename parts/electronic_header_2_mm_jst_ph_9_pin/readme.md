@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_9_pin |
 | directory | parts/electronic_header_2_mm_jst_ph_9_pin |
 | name | Electronic Header 2 Mm Jst Ph 9 Pin |
 | short_code | h9p |
+| short_name | Jst Ph 9 Pin Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | be2167e393876d0e20de1c84aad54018 |
 | md5_5 | be216 |

@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_8_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_jst_xh_8_pin_surface_mount |
 | name | Electronic Header 2D54 Mm Jst Xh 8 Pin Surface Mount |
 | short_code | h8psm |
+| short_name | Jst Xh 8 Pin Surface Mount Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | 376c10deaf26003de68fccbc73cf6969 |
 | md5_5 | 376c1 |

@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_34_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_34_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 34 Pin Surface Mount Right Angle |
 | short_code | hi134psmra |
+| short_name | 0.1" 34 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | 1bf57bc5eb3a4707940defe3484e96d6 |
 | md5_5 | 1bf57 |

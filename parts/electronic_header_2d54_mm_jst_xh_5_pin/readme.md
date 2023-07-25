@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_jst_xh_5_pin |
 | directory | parts/electronic_header_2d54_mm_jst_xh_5_pin |
 | name | Electronic Header 2D54 Mm Jst Xh 5 Pin |
 | short_code | h5p |
+| short_name | Jst Xh 5 Pin Header 2.54 Mm Pitch |
 | distributors | [] |
 | md5 | ec42dd27d22f69ff365f3e0ae79bab68 |
 | md5_5 | ec42d |

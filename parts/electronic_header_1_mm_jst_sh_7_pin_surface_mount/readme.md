@@ -20,6 +20,7 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_1_mm_jst_sh_7_pin_surface_mount |
 | directory | parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount |

@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_34_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_34_pin_right_angle |
 | name | Electronic Header 2D54 Mm 34 Pin Right Angle |
 | short_code | hi134pra |
+| short_name | 0.1" 34 Pin Right Angle Header |
 | distributors | [] |
 | md5 | adfc2e3e5b143bda35594f0e8b19a590 |
 | md5_5 | adfc2 |

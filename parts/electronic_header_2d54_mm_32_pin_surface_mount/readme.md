@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_32_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_32_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 32 Pin Surface Mount |
 | short_code | hi132psm |
+| short_name | 0.1" 32 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 73d7ccdb506a7c2ac038a2937179ee45 |
 | md5_5 | 73d7c |

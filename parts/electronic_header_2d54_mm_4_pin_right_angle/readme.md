@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_4_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_4_pin_right_angle |
 | name | Electronic Header 2D54 Mm 4 Pin Right Angle |
 | short_code | hi14pra |
+| short_name | 0.1" 4 Pin Right Angle Header |
 | distributors | [] |
 | md5 | 75684628beb23225bd373265161c829a |
 | md5_5 | 75684 |

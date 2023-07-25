@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_21_pin_surface_mount_right_angle
 distributors: []
 id: electronic_header_2d54_mm_21_pin_surface_mount_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 630d95dc5cc2786254b9a54035f7eafb
 md5_10: 630d95dc5c
@@ -14,5 +15,6 @@ md5_6: 630d95
 name: Electronic Header 2D54 Mm 21 Pin Surface Mount Right Angle
 part_number: ''
 short_code: hi121psmra
+short_name: 0.1" 21 Pin Surface Mount Right Angle Header
 size: 2d54_mm
 type: header

@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_37_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_37_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 37 Pin Surface Mount |
 | short_code | hi137psm |
+| short_name | 0.1" 37 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | dc8eb424b38388f92e4ccd00800aa5b2 |
 | md5_5 | dc8eb |

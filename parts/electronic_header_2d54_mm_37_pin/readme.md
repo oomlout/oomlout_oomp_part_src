@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_37_pin |
 | directory | parts/electronic_header_2d54_mm_37_pin |
 | name | Electronic Header 2D54 Mm 37 Pin |
 | short_code | hi137p |
+| short_name | 0.1" 37 Pin Header |
 | distributors | [] |
 | md5 | ed502d8a5aee7d89840e79392a7c6230 |
 | md5_5 | ed502 |

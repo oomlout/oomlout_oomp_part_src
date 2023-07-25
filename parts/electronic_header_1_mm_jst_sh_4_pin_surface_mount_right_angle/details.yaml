@@ -6,6 +6,7 @@ directory: parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 distributors: []
 id: electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: adfe7739de3f358940b6ffe82829763f
 md5_10: adfe7739de

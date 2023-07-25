@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_6_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 6 Pin Surface Mount Right Angle |
 | short_code | hi16psmra |
+| short_name | 0.1" 6 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | 424b30546f4384025669847f38ffeef8 |
 | md5_5 | 424b3 |

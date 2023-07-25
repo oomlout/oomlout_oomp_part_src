@@ -20,11 +20,13 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_27_pin_right_angle |
 | directory | parts/electronic_header_2d54_mm_27_pin_right_angle |
 | name | Electronic Header 2D54 Mm 27 Pin Right Angle |
 | short_code | hi127pra |
+| short_name | 0.1" 27 Pin Right Angle Header |
 | distributors | [] |
 | md5 | 88a641082e5c5390ef58ea6dba29f7d7 |
 | md5_5 | 88a64 |

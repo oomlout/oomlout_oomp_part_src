@@ -6,6 +6,7 @@ directory: parts/electronic_led_5_mm_red_tinted
 distributors: []
 id: electronic_led_5_mm_red_tinted
 kicad_reference: L
+make_files: true
 manufacturer: ''
 md5: db1ff864f0d58c117377a5198578e76c
 md5_10: db1ff864f0
@@ -14,5 +15,6 @@ md5_6: db1ff8
 name: Electronic Led 5 Mm Red Tinted
 part_number: ''
 short_code: l5rt
+short_name: 5 Mm Redtinted Led
 size: 5_mm
 type: led

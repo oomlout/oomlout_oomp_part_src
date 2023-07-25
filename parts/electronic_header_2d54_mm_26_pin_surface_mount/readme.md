@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_26_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_26_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 26 Pin Surface Mount |
 | short_code | hi126psm |
+| short_name | 0.1" 26 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 46b6dcc904f831b2b4a7cefafdf8c119 |
 | md5_5 | 46b6d |

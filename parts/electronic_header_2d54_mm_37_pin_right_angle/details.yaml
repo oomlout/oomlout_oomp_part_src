@@ -6,6 +6,7 @@ directory: parts/electronic_header_2d54_mm_37_pin_right_angle
 distributors: []
 id: electronic_header_2d54_mm_37_pin_right_angle
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 720d9f188debad713ed93964aba14c33
 md5_10: 720d9f188d
@@ -14,5 +15,6 @@ md5_6: 720d9f
 name: Electronic Header 2D54 Mm 37 Pin Right Angle
 part_number: ''
 short_code: hi137pra
+short_name: 0.1" 37 Pin Right Angle Header
 size: 2d54_mm
 type: header

@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_9_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_9_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 9 Pin Surface Mount |
 | short_code | hi19psm |
+| short_name | 0.1" 9 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | 04ea2f576614970a3582f4655ec587c4 |
 | md5_5 | 04ea2 |

@@ -20,6 +20,7 @@
 | description_extra | right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_1_mm_jst_sh_10_pin_right_angle |
 | directory | parts/electronic_header_1_mm_jst_sh_10_pin_right_angle |

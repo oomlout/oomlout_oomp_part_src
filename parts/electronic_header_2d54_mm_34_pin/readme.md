@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_34_pin |
 | directory | parts/electronic_header_2d54_mm_34_pin |
 | name | Electronic Header 2D54 Mm 34 Pin |
 | short_code | hi134p |
+| short_name | 0.1" 34 Pin Header |
 | distributors | [] |
 | md5 | 3d2b951bb0a8a0ec9f35f002320c97be |
 | md5_5 | 3d2b9 |

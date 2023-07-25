@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2_mm_jst_ph_3_pin |
 | directory | parts/electronic_header_2_mm_jst_ph_3_pin |
 | name | Electronic Header 2 Mm Jst Ph 3 Pin |
 | short_code | h3p |
+| short_name | Jst Ph 3 Pin Header 2 Mm Pitch |
 | distributors | [] |
 | md5 | 23fb031c473daf067dba169e8adb7c01 |
 | md5_5 | 23fb0 |

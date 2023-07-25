@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_10_pin |
 | directory | parts/electronic_header_2d54_mm_10_pin |
 | name | Electronic Header 2D54 Mm 10 Pin |
 | short_code | hi110p |
+| short_name | 0.1" 10 Pin Header |
 | distributors | [] |
 | md5 | 303a3ae374a9c8ee9c9554c743750a8f |
 | md5_5 | 303a3 |

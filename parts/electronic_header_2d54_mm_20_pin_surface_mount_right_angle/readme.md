@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_20_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_20_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 20 Pin Surface Mount Right Angle |
 | short_code | hi120psmra |
+| short_name | 0.1" 20 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | 70f29ba51c15c13f5e5aca90d0e4eefa |
 | md5_5 | 70f29 |

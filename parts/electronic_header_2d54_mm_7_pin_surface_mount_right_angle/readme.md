@@ -20,11 +20,13 @@
 | description_extra | surface_mount_right_angle |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_7_pin_surface_mount_right_angle |
 | directory | parts/electronic_header_2d54_mm_7_pin_surface_mount_right_angle |
 | name | Electronic Header 2D54 Mm 7 Pin Surface Mount Right Angle |
 | short_code | hi17psmra |
+| short_name | 0.1" 7 Pin Surface Mount Right Angle Header |
 | distributors | [] |
 | md5 | 7a27089f74989abeb88ddc0eda8aa7f2 |
 | md5_5 | 7a270 |

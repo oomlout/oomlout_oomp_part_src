@@ -6,6 +6,7 @@ directory: parts/electronic_header_2_mm_jst_ph_7_pin_surface_mount
 distributors: []
 id: electronic_header_2_mm_jst_ph_7_pin_surface_mount
 kicad_reference: J
+make_files: true
 manufacturer: ''
 md5: 616448a8cb679820af237eb9ecbf3395
 md5_10: 616448a8cb
@@ -14,5 +15,6 @@ md5_6: '616448'
 name: Electronic Header 2 Mm Jst Ph 7 Pin Surface Mount
 part_number: ''
 short_code: h7psm
+short_name: Jst Ph 7 Pin Surface Mount Header 2 Mm Pitch
 size: 2_mm_jst_ph
 type: header

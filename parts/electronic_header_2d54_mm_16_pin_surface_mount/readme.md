@@ -20,11 +20,13 @@
 | description_extra | surface_mount |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | J |
 | id | electronic_header_2d54_mm_16_pin_surface_mount |
 | directory | parts/electronic_header_2d54_mm_16_pin_surface_mount |
 | name | Electronic Header 2D54 Mm 16 Pin Surface Mount |
 | short_code | hi116psm |
+| short_name | 0.1" 16 Pin Surface Mount Header |
 | distributors | [] |
 | md5 | e427950102c1433d04fae138bd1d3010 |
 | md5_5 | e4279 |

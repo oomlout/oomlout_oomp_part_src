@@ -20,11 +20,13 @@
 | description_extra |  |
 | manufacturer |  |
 | part_number |  |
+| make_files | True |
 | kicad_reference | L |
 | id | electronic_led_0603_green |
 | directory | parts/electronic_led_0603_green |
 | name | Electronic Led 0603 Green |
 | short_code | l63g |
+| short_name | 0603 Green Led |
 | distributors | [] |
 | md5 | b4e8235ce213fd0badfc8ca2c6c558de |
 | md5_5 | b4e82 |
