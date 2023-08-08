@@ -136,7 +136,7 @@ pins:
         name: d6
         number: '9'
         type: signal
-short_code: b
+short_code: bbat328
 short_name: ''
 size: ''
 type: breakout_board

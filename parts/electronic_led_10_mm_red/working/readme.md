@@ -29,4 +29,11 @@ oomp key: oomp_electronic_led_10_mm_red
 | 6 description extra |  | 
 | 7 manufacturer |  | 
 | 8 part number |  | 
+### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_device_led | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym | 
+### Footprint  
 ### Images  

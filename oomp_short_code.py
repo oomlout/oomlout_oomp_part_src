@@ -16,7 +16,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["ic"] = "i"
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["header"] = "h"
-    replace_dict["type"]["breakout_board"] = "b"
+    replace_dict["type"]["breakout_board"] = "bb"
 
     replace_dict["size"] = {}
     #loop for all mm sizes
@@ -33,6 +33,17 @@ def get_short_code(**kwargs):
     replace_dict["size"]["1206"] = "12"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
     
+    ###### size ics
+    ic_strings = []
+    ic_strings.append(["dip","d"])
+    ic_strings.append(["qfn","q"])
+    ic_strings.append(["vqfn","vq"])
+    ic_strings.append(["mlf","mlf"])
+    ic_strings.append(["tqfp","tq"])
+    for ic_string in ic_strings:
+        for pin_count in range(2, 40,2):
+            replace_dict["size"][f"{ic_string[0]}_{pin_count}"] = f"{ic_string[1]}{pin_count}"
+
 
     #### jst sizes
     replace_dict["size"]["_jst_ph"] = "jph"
@@ -57,6 +68,9 @@ def get_short_code(**kwargs):
             code = f'{start_digits}{num_zeros}'
             replace_dict["description_main"][f"{ohms}_ohm"] = f"o{code}"
 
+    ###### ics
+        ###### atmega
+    replace_dict["description_main"]["atmega328"] = "at328"
 
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""

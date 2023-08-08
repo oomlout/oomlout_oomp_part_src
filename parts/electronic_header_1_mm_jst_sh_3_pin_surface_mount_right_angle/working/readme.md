@@ -29,4 +29,16 @@ oomp key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
 | 6 description extra | surface_mount_right_angle | 
 | 7 manufacturer |  | 
 | 8 part number |  | 
+### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_connector_conn_01x03_pin | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x03_pin | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x03_pin//working/working.kicad_sym | 
+### Footprint  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_connector_jst_jst_sh_sm03b_srss_tb_1x03_1mp_p1_00mm_horizontal | 
+| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm03b_srss_tb_1x03_1mp_p1_00mm_horizontal | 
+| directory | oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm03b_srss_tb_1x03_1mp_p1_00mm_horizontal//working/working.kicad_mod | 
 ### Images  

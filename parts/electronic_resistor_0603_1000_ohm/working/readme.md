@@ -29,4 +29,16 @@ oomp key: oomp_electronic_resistor_0603_1000_ohm
 | 6 description extra |  | 
 | 7 manufacturer |  | 
 | 8 part number |  | 
+### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_device_r | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym | 
+### Footprint  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_resistor_smd_r_0603_1608metric | 
+| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric | 
+| directory | oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod | 
 ### Images  

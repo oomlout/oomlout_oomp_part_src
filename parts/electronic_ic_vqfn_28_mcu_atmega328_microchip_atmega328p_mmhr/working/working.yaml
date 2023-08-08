@@ -17,7 +17,7 @@ md5_6: 6c8bcd
 name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmhr
 oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
 part_number: atmega328p_mmhr
-short_code: i
+short_code: ivq28at328
 short_name: atmega328 28 pin vqfn
 size: vqfn_28
 type: ic

@@ -4,10 +4,6 @@ description_extra: ''
 description_main: tinted
 directory: parts/electronic_led_5_mm_tinted
 distributors: []
-footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-    oomp_key: oomp_kicad_led_tht_led_d5_00mm
 from_yaml: false
 id: electronic_led_5_mm_tinted
 kicad_reference: L

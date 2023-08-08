@@ -29,4 +29,16 @@ oomp key: oomp_electronic_mounting_hole_m6
 | 6 description extra |  | 
 | 7 manufacturer |  | 
 | 8 part number |  | 
+### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | none | 
+| link | https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole | 
+| directory | SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole/ | 
+### Footprint  
+| name | value | 
+| --- | --- | 
+| oomp_key | none | 
+| link | https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6 | 
+| directory | FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6/ | 
 ### Images  

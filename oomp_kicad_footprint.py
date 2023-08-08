@@ -142,6 +142,26 @@ def get_footprints(**kwargs):
                         "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
     matches.append(match)  
 
+    ###### mounting_holes
+
+    match["type"] = "mounting_hole"
+    match["size"] = "m3"
+    match["footprint"] = []
+    footprint_name = f"kicad_mountinghole_mountinghole_3_2mm_m3"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match)  
+
+    match["type"] = "mounting_hole"
+    match["size"] = "m6"
+    match["footprint"] = []
+    footprint_name = f"kicad_mountinghole_mountinghole_6_4mm_m6"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match)  
+
 
     ###### resistor
     match = {}

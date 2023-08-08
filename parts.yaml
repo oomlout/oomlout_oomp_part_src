@@ -138,7 +138,7 @@ electronic_breakout_board_mcu_atmega328_shennie:
             name: d6
             number: '9'
             type: signal
-    short_code: b
+    short_code: bbat328
     short_name: ''
     size: ''
     type: breakout_board
@@ -8363,9 +8363,13 @@ electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu:
     name: Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
     oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
     part_number: atmega328p_pu
-    short_code: i
+    short_code: id28at328
     short_name: atmega328 28 pin dip
     size: dip_28
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328p_p//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328p_p
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328p_p
     type: ic
 electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur:
     classification: electronic
@@ -8388,7 +8392,7 @@ electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur:
     name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
     oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
     part_number: atmega328p_mur
-    short_code: i
+    short_code: imlf32at328
     short_name: atmega328 32 pin mlf
     size: mlf_32
     type: ic
@@ -8409,9 +8413,13 @@ electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     name: Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
     oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
     part_number: atmega328p_mn
-    short_code: i
+    short_code: iq28at328
     short_name: atmega328 28 pin qfn
     size: qfn_28
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_p
     type: ic
 electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640:
     classification: electronic
@@ -8575,7 +8583,7 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur:
     name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Aur
     oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
     part_number: atmega328p_aur
-    short_code: i
+    short_code: itq32at328
     short_name: atmega328 32 pin tqfp
     size: tqfp_32
     type: ic
@@ -8600,7 +8608,7 @@ electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr:
     name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmhr
     oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
     part_number: atmega328p_mmhr
-    short_code: i
+    short_code: ivq28at328
     short_name: atmega328 28 pin vqfn
     size: vqfn_28
     type: ic
@@ -8935,10 +8943,6 @@ electronic_led_5_mm:
     description_main: ''
     directory: parts/electronic_led_5_mm
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-        oomp_key: oomp_kicad_led_tht_led_d5_00mm
     from_yaml: false
     id: electronic_led_5_mm
     kicad_reference: L
@@ -8966,10 +8970,6 @@ electronic_led_5_mm_green:
     description_main: ''
     directory: parts/electronic_led_5_mm_green
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-        oomp_key: oomp_kicad_led_tht_led_d5_00mm
     from_yaml: false
     id: electronic_led_5_mm_green
     kicad_reference: L
@@ -8997,10 +8997,6 @@ electronic_led_5_mm_green_tinted:
     description_main: tinted
     directory: parts/electronic_led_5_mm_green_tinted
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-        oomp_key: oomp_kicad_led_tht_led_d5_00mm
     from_yaml: false
     id: electronic_led_5_mm_green_tinted
     kicad_reference: L
@@ -9028,10 +9024,6 @@ electronic_led_5_mm_red:
     description_main: ''
     directory: parts/electronic_led_5_mm_red
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-        oomp_key: oomp_kicad_led_tht_led_d5_00mm
     from_yaml: false
     id: electronic_led_5_mm_red
     kicad_reference: L
@@ -9059,10 +9051,6 @@ electronic_led_5_mm_red_tinted:
     description_main: tinted
     directory: parts/electronic_led_5_mm_red_tinted
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-        oomp_key: oomp_kicad_led_tht_led_d5_00mm
     from_yaml: false
     id: electronic_led_5_mm_red_tinted
     kicad_reference: L
@@ -9090,10 +9078,6 @@ electronic_led_5_mm_tinted:
     description_main: tinted
     directory: parts/electronic_led_5_mm_tinted
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
-        oomp_key: oomp_kicad_led_tht_led_d5_00mm
     from_yaml: false
     id: electronic_led_5_mm_tinted
     kicad_reference: L
@@ -9121,11 +9105,6 @@ electronic_mounting_hole_m3:
     description_main: ''
     directory: parts/electronic_mounting_hole_m3
     distributors: []
-    footprint:
-    -   directory: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3/
-        id: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3
-        link: https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3
-        name: 'MountingHole : MountingHole_3.2mm_M3'
     id: electronic_mounting_hole_m3
     kicad_reference: H
     make_files: true
@@ -9142,11 +9121,10 @@ electronic_mounting_hole_m3:
     short_name: M3 Mounting Hole
     size: m3
     symbol:
-    - &id001
-        directory: SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole/
-        id: SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole
-        link: https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole
-        name: 'Mechanical : MountingHole'
+    - &id002
+        directory: oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole
+        oomp_key: oomp_kicad_mechanical_mountinghole
     type: mounting_hole
 electronic_mounting_hole_m6:
     classification: electronic
@@ -9156,10 +9134,12 @@ electronic_mounting_hole_m6:
     directory: parts/electronic_mounting_hole_m6
     distributors: []
     footprint:
-    -   directory: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6/
-        id: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6
-        link: https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6
-        name: 'MountingHole : MountingHole_6.4mm_M6'
+    - &id001
+        directory: oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6
+        oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
+    - *id001
+    - *id001
     id: electronic_mounting_hole_m6
     kicad_reference: H
     make_files: true
@@ -9176,7 +9156,7 @@ electronic_mounting_hole_m6:
     short_name: M6 Mounting Hole
     size: m6
     symbol:
-    - *id001
+    - *id002
     type: mounting_hole
 electronic_resistor_0402_10000_ohm:
     classification: electronic

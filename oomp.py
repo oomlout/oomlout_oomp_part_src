@@ -205,7 +205,18 @@ def add_part(**kwargs):
     parts[id] = kwargs
 
 
-def generate_readme(**kwargs):
+
+def get_id(**kwargs):
+    #concate all the elements in kwargs from names_of_main_elements with '_' and return the string if the element isn't '' include it
+    id = ""
+    for name in names_of_main_elements:
+        if kwargs[name] != "":
+            id += kwargs[name] + "_"
+    #remove the trailing '_'
+    id = id[:-1]
+    return id
+
+def generate_readme_old(**kwargs):
     #generate a readme.md file for the part
     readme = ""
     readme += "# " + kwargs["name"] + "\n"
@@ -267,16 +278,6 @@ def generate_readme(**kwargs):
     return readme
 
 
-def get_id(**kwargs):
-    #concate all the elements in kwargs from names_of_main_elements with '_' and return the string if the element isn't '' include it
-    id = ""
-    for name in names_of_main_elements:
-        if kwargs[name] != "":
-            id += kwargs[name] + "_"
-    #remove the trailing '_'
-    id = id[:-1]
-    return id
-
 
 def generate_readme(**kwargs):
     
@@ -324,9 +325,15 @@ def get_readme(**kwargs):
         readme = "# OOMP Part  \n"
         p2["readme"] = readme
         readme += get_intro(**p2)
-        ###### footprint
+        ###### part
         p2["readme"] = readme
         readme += get_part(**p2)
+        ###### symbol
+        p2["readme"] = readme
+        readme += get_symbol(**p2)
+        ###### footprint
+        p2["readme"] = readme
+        readme += get_footprint(**p2)
         ###### images
         p2["readme"] = readme
         readme += get_images(**p2)
@@ -404,6 +411,45 @@ def get_part(**kwargs):
     table_array.append(["7 manufacturer", manufacturer])
     table_array.append(["8 part number", part_number])
     readme+=oom_markdown.get_table(data=table_array)
+
+    return readme
+
+def get_symbol(**kwargs):
+    yaml_dict = kwargs.get("yaml_dict",{})
+    yd = yaml_dict
+    
+    readme = ""
+    readme += f'### Symbol  \n'
+
+    symbols = yd.get("symbol",[])
+    for symbol in symbols:
+        directory = symbol.get("directory","none")
+        link = symbol.get("link","none")
+        oomp_key = symbol.get("oomp_key","none")
+        table_array = []
+        table_array.append(["oomp_key", oomp_key])
+        table_array.append(["link", link])
+        table_array.append(["directory", directory])   
+        readme += oom_markdown.get_table(data=table_array)
+    return readme
+
+def get_footprint(**kwargs):
+    yaml_dict = kwargs.get("yaml_dict",{})
+    yd = yaml_dict
+    
+    readme = ""
+    readme += f'### Footprint  \n'
+
+    symbols = yd.get("footprint",[])
+    for symbol in symbols:
+        directory = symbol.get("directory","none")
+        link = symbol.get("link","none")
+        oomp_key = symbol.get("oomp_key","none")
+        table_array = []
+        table_array.append(["oomp_key", oomp_key])
+        table_array.append(["link", link])
+        table_array.append(["directory", directory])   
+        readme += oom_markdown.get_table(data=table_array)
 
     return readme
 

@@ -52,7 +52,11 @@ def create_symbol_library():
         if "symbol" in part:
             #if there's a symbol copy it across
             #symbol_source = oomlout_v2_eda_base + "/" + part["symbol"][0]["directory"] + "symbol.kicad_sym"
-            symbol_source = rf'{oomlout_oomp_symbol_bot}/{part["symbol"][0]["directory"]}/working/working.kicad_sym'
+            symbol_source = rf'tmp/{part["symbol"][0]["directory"]}'
+            #convert \\ to /
+            symbol_source = symbol_source.replace("\\", "/")
+            #rmove doubles
+            symbol_source = symbol_source.replace("//", "/")
             if os.path.isfile(symbol_source):                
                 symbol = SymbolLib.from_file(symbol_source).symbols[0]
                 pass

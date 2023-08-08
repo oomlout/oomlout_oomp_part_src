@@ -1,4 +1,5 @@
 import oomp
+import oomp_kicad_symbol
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -7,11 +8,10 @@ def load_parts(**kwargs):
     
     parts = []
 
-    mounting_hole_symbol = {"link": "https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole", 
-                               "name": "Mechanical : MountingHole", 
-                               "id":"SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole",
-                               "directory": "SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole/"}
-    
+    symbol_name = f"kicad_mechanical_mountinghole"
+    mounting_hole_symbol = {"link": f"{oomp_kicad_symbol.github_symbol_base}/{symbol_name}", 
+                                "oomp_key": f"oomp_{symbol_name}",                                 
+                                "directory": f"{oomp_kicad_symbol.directory_symbol_base}/{symbol_name}/{oomp_kicad_symbol.directory_symbol_end}"}
 
     #define a part 
     part_details = {}
@@ -25,11 +25,6 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["kicad_reference"] = "H"
     part_details["notes"] = []
-    part_details["footprint"] = []
-    part_details["footprint"].append({"link": "https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3", 
-                               "name": "MountingHole : MountingHole_3.2mm_M3", 
-                               "id":"FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3",
-                               "directory": "FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3/"})
     part_details["symbol"] = [] 
     part_details["symbol"].append(mounting_hole_symbol)
     #add the part to the list of parts
@@ -47,12 +42,6 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["kicad_reference"] = "H"
     part_details["notes"] = []
-    part_details["footprint"] = []
-    part_details["footprint"].append({"link": "https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6", 
-                               "name": "MountingHole : MountingHole_6.4mm_M6", 
-                               "id":"FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6",
-                               "directory": "FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6/"})
-   
     part_details["symbol"] = [] 
     part_details["symbol"].append(mounting_hole_symbol)
     #add the part to the list of parts

@@ -4,11 +4,6 @@ description_extra: ''
 description_main: ''
 directory: parts/electronic_mounting_hole_m3
 distributors: []
-footprint:
--   directory: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3/
-    id: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3
-    link: https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3
-    name: 'MountingHole : MountingHole_3.2mm_M3'
 id: electronic_mounting_hole_m3
 kicad_reference: H
 manufacturer: ''
@@ -24,8 +19,7 @@ short_code: mhm3
 short_name: M3 Mounting Hole
 size: m3
 symbol:
--   directory: SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole/
-    id: SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole
-    link: https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole
-    name: 'Mechanical : MountingHole'
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole
+    oomp_key: oomp_kicad_mechanical_mountinghole
 type: mounting_hole

@@ -29,4 +29,16 @@ oomp key: oomp_electronic_header_2d54_mm_11_pin
 | 6 description extra |  | 
 | 7 manufacturer |  | 
 | 8 part number |  | 
+### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_connector_conn_01x11_pin | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x11_pin | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x11_pin//working/working.kicad_sym | 
+### Footprint  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical | 
+| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical | 
+| directory | oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical//working/working.kicad_mod | 
 ### Images  

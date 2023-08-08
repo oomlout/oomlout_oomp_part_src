@@ -29,4 +29,6 @@ oomp key: oomp_electronic_ic_mlf_28_mcu_atmega328_microchip_atmega328p_mmhr
 | 6 description extra |  | 
 | 7 manufacturer | microchip | 
 | 8 part number | atmega328p_mmhr | 
+### Symbol  
+### Footprint  
 ### Images  

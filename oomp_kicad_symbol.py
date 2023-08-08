@@ -27,6 +27,25 @@ def get_symbols(**kwargs):
                                 "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
         matches.append(match)
 
+    ###### ic
+    match = {}
+    match["part_number"] = "atmega328p_pu"
+    match["symbol"] = []
+    symbol_name = f"kicad_mcu_microchip_atmega_atmega328p_p"
+    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                            "oomp_key": f"oomp_{symbol_name}",                                 
+                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    matches.append(match)
+    match = {}
+    match["part_number"] = "atmega328p_mn"
+    match["symbol"] = []
+    symbol_name = f"kicad_mcu_microchip_atmega_atmega328_p"
+    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                            "oomp_key": f"oomp_{symbol_name}",                                 
+                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    matches.append(match)
+
+
     ###### led
 
     match = {}

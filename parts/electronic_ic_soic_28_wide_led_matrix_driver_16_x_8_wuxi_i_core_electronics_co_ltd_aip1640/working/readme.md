@@ -29,4 +29,11 @@ oomp key: oomp_electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_e
 | 6 description extra |  | 
 | 7 manufacturer | wuxi_i_core_electronics_co_ltd | 
 | 8 part number | aip1640 | 
+### Symbol  
+### Footprint  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm | 
+| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm | 
+| directory | oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm//working/working.kicad_mod | 
 ### Images  

@@ -29,4 +29,11 @@ oomp key: oomp_electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle
 | 6 description extra | surface_mount_right_angle | 
 | 7 manufacturer |  | 
 | 8 part number |  | 
+### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_connector_conn_01x07_pin | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym | 
+### Footprint  
 ### Images  
