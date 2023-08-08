@@ -12,8 +12,8 @@ oomp key: oomp_electronic_led_0603_red
 | --- | --- | 
 | name | Electronic Led 0603 Red | 
 | full id | electronic_led_0603_red | 
-| short code | l63r | 
-| short link<br>(not yet working) | http://oom.lt/l63r<br>http://oom.lt/25561 | 
+| short code | l6r | 
+| short link<br>(not yet working) | http://oom.lt/l6r<br>http://oom.lt/25561 | 
 | oomp key | oomp_electronic_led_0603_red | 
 | md5_5 | 25561 | 
 | md5_10 | 255611ec85 | 

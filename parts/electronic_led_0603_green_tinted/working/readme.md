@@ -12,8 +12,8 @@ oomp key: oomp_electronic_led_0603_green_tinted
 | --- | --- | 
 | name | Electronic Led 0603 Green Tinted | 
 | full id | electronic_led_0603_green_tinted | 
-| short code | l63gt | 
-| short link<br>(not yet working) | http://oom.lt/l63gt<br>http://oom.lt/224a1 | 
+| short code | l6gt | 
+| short link<br>(not yet working) | http://oom.lt/l6gt<br>http://oom.lt/224a1 | 
 | oomp key | oomp_electronic_led_0603_green_tinted | 
 | md5_5 | 224a1 | 
 | md5_10 | 224a14188b | 

@@ -12,8 +12,8 @@ oomp key: oomp_electronic_led_0603_tinted
 | --- | --- | 
 | name | Electronic Led 0603 Tinted | 
 | full id | electronic_led_0603_tinted | 
-| short code | l63t | 
-| short link<br>(not yet working) | http://oom.lt/l63t<br>http://oom.lt/511e6 | 
+| short code | l6t | 
+| short link<br>(not yet working) | http://oom.lt/l6t<br>http://oom.lt/511e6 | 
 | oomp key | oomp_electronic_led_0603_tinted | 
 | md5_5 | 511e6 | 
 | md5_10 | 511e69f292 | 

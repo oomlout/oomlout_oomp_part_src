@@ -12,8 +12,8 @@ oomp key: oomp_electronic_led_0603_red_tinted
 | --- | --- | 
 | name | Electronic Led 0603 Red Tinted | 
 | full id | electronic_led_0603_red_tinted | 
-| short code | l63rt | 
-| short link<br>(not yet working) | http://oom.lt/l63rt<br>http://oom.lt/f6014 | 
+| short code | l6rt | 
+| short link<br>(not yet working) | http://oom.lt/l6rt<br>http://oom.lt/f6014 | 
 | oomp key | oomp_electronic_led_0603_red_tinted | 
 | md5_5 | f6014 | 
 | md5_10 | f60141a68c | 

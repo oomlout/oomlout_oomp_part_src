@@ -12,8 +12,8 @@ oomp key: oomp_electronic_led_0603_green
 | --- | --- | 
 | name | Electronic Led 0603 Green | 
 | full id | electronic_led_0603_green | 
-| short code | l63g | 
-| short link<br>(not yet working) | http://oom.lt/l63g<br>http://oom.lt/b4e82 | 
+| short code | l6g | 
+| short link<br>(not yet working) | http://oom.lt/l6g<br>http://oom.lt/b4e82 | 
 | oomp key | oomp_electronic_led_0603_green | 
 | md5_5 | b4e82 | 
 | md5_10 | b4e8235ce2 | 

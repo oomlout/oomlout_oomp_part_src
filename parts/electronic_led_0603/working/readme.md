@@ -12,8 +12,8 @@ oomp key: oomp_electronic_led_0603
 | --- | --- | 
 | name | Electronic Led 0603 | 
 | full id | electronic_led_0603 | 
-| short code | l63 | 
-| short link<br>(not yet working) | http://oom.lt/l63<br>http://oom.lt/410f6 | 
+| short code | l6 | 
+| short link<br>(not yet working) | http://oom.lt/l6<br>http://oom.lt/410f6 | 
 | oomp key | oomp_electronic_led_0603 | 
 | md5_5 | 410f6 | 
 | md5_10 | 410f696910 | 
