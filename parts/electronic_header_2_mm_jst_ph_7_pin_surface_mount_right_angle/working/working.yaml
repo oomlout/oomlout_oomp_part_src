@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 7_pin
+directory: parts/electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: dc43ba98577ad8c545624838fe9a5083
+md5_10: dc43ba9857
+md5_5: dc43b
+md5_6: dc43ba
+name: Electronic Header 2 Mm Jst Ph 7 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle
+part_number: ''
+short_code: h7psmra
+short_name: Jst Ph 7 Pin Surface Mount Right Angle Header 2 Mm Pitch
+size: 2_mm_jst_ph
+type: header

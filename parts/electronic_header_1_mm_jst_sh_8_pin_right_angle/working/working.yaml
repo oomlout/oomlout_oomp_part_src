@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 8_pin
+directory: parts/electronic_header_1_mm_jst_sh_8_pin_right_angle
+distributors: []
+id: electronic_header_1_mm_jst_sh_8_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 3be4e77298bc44507195be010d72835a
+md5_10: 3be4e77298
+md5_5: 3be4e
+md5_6: 3be4e7
+name: Electronic Header 1 Mm Jst Sh 8 Pin Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin_right_angle
+part_number: ''
+short_code: h8pra
+short_name: Jst Sh 8 Pin Right Angle Header 1 Mm Pitch
+size: 1_mm_jst_sh
+type: header

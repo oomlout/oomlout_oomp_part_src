@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 27_pin
+directory: parts/electronic_header_2d54_mm_27_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_27_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 4c1b2b2ed4181802d57e9f7c90446e15
+md5_10: 4c1b2b2ed4
+md5_5: 4c1b2
+md5_6: 4c1b2b
+name: Electronic Header 2D54 Mm 27 Pin Surface Mount
+oomp_key: oomp_electronic_header_2d54_mm_27_pin_surface_mount
+part_number: ''
+short_code: hi127psm
+short_name: 0.1" 27 Pin Surface Mount Header
+size: 2d54_mm
+type: header

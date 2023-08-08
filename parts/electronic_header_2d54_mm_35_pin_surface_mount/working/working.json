@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "35_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_35_pin_surface_mount",
+    "oomp_key": "oomp_electronic_header_2d54_mm_35_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_35_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 35 Pin Surface Mount",
+    "short_code": "hi135psm",
+    "short_name": "0.1\" 35 Pin Surface Mount Header",
+    "distributors": [],
+    "md5": "6c1c80159755e969c7203421165d3ead",
+    "md5_5": "6c1c8",
+    "md5_6": "6c1c80",
+    "md5_10": "6c1c801597"
+}

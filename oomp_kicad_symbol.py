@@ -1,5 +1,9 @@
 import oomp
 
+github_symbol_base = "https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols"
+directory_symbol_base = "oomlout_oomp_symbol_bot/symbols"
+directory_symbol_end = "/working/working.kicad_mod"
+
 def get_symbols(**kwargs):
 
     matches = []
@@ -17,10 +21,10 @@ def get_symbols(**kwargs):
         match["type"] = "header"
         match["description_main"] = f"{pin_count}_pin"
         match["symbol"] = []
-        match["symbol"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male", 
-                                "name": f"Connector : Conn_01x{pin_s}_Male", 
-                                "id":f"SYMBOL-kicad-kicad-symbols-Connector-Conn_01x{pin_s}_Male",
-                                "directory": f"SYMBOL/kicad/kicad-symbols/Connector/Conn_01x{pin_s}_Male/"})
+        symbol_name = f"kicad_connector_conn_01x{pin_s}_pin"
+        match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                                "oomp_key": f"oomp_{symbol_name}",                                 
+                                "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
         matches.append(match)
 
     ###### led
@@ -29,10 +33,10 @@ def get_symbols(**kwargs):
     match["classification"] = "electronic"
     match["type"] = "led"
     match["symbol"] = []
-    match["symbol"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED", 
-                               "name": "Device : LED", 
-                               "id":"SYMBOL-kicad-kicad-symbols-Device-LED",
-                               "directory": "SYMBOL/kicad/kicad-symbols/Device/LED/"})
+    symbol_name = f"kicad_device_led"
+    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                            "oomp_key": f"oomp_{symbol_name}",                                 
+                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
     matches.append(match)
 
 

@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1_pin
+directory: parts/electronic_header_2d54_mm_1_pin
+distributors: []
+id: electronic_header_2d54_mm_1_pin
+kicad_reference: J
+manufacturer: ''
+md5: 1cdee8ad472b5d534510a36758980d4d
+md5_10: 1cdee8ad47
+md5_5: 1cdee
+md5_6: 1cdee8
+name: Electronic Header 2D54 Mm 1 Pin
+oomp_key: oomp_electronic_header_2d54_mm_1_pin
+part_number: ''
+short_code: hi11p
+short_name: 0.1" 1 Pin Header
+size: 2d54_mm
+type: header

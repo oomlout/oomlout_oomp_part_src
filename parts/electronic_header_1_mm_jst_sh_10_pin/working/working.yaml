@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_pin
+directory: parts/electronic_header_1_mm_jst_sh_10_pin
+distributors: []
+id: electronic_header_1_mm_jst_sh_10_pin
+kicad_reference: J
+manufacturer: ''
+md5: 57d506f85244f4a71a57323b59701090
+md5_10: 57d506f852
+md5_5: 57d50
+md5_6: 57d506
+name: Electronic Header 1 Mm Jst Sh 10 Pin
+oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin
+part_number: ''
+short_code: h10p
+short_name: Jst Sh 10 Pin Header 1 Mm Pitch
+size: 1_mm_jst_sh
+type: header

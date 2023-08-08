@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "1_mm_jst_sh",
+    "color": "",
+    "description_main": "1_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_1_mm_jst_sh_1_pin",
+    "oomp_key": "oomp_electronic_header_1_mm_jst_sh_1_pin",
+    "directory": "parts/electronic_header_1_mm_jst_sh_1_pin",
+    "name": "Electronic Header 1 Mm Jst Sh 1 Pin",
+    "short_code": "h1p",
+    "short_name": "Jst Sh 1 Pin Header 1 Mm Pitch",
+    "distributors": [],
+    "md5": "6802ab9f6ce96bfafad7d6a675cc7c08",
+    "md5_5": "6802a",
+    "md5_6": "6802ab",
+    "md5_10": "6802ab9f6c"
+}

@@ -1,0 +1,21 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm_red
+distributors: []
+from_yaml: false
+id: electronic_led_5_mm_red
+kicad_reference: L
+manufacturer: ''
+md5: 30578ce27beae920469b86e05a198be3
+md5_10: 30578ce27b
+md5_5: '30578'
+md5_6: 30578c
+name: Electronic Led 5 Mm Red
+oomp_key: oomp_electronic_led_5_mm_red
+part_number: ''
+short_code: l5r
+short_name: 5 Mm Red Led
+size: 5_mm
+type: led

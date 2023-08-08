@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 3_pin
+directory: parts/electronic_header_1_mm_jst_sh_3_pin_right_angle
+distributors: []
+id: electronic_header_1_mm_jst_sh_3_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 670fe01a6afe6a7ad83f6af973e5d291
+md5_10: 670fe01a6a
+md5_5: 670fe
+md5_6: 670fe0
+name: Electronic Header 1 Mm Jst Sh 3 Pin Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_right_angle
+part_number: ''
+short_code: h3pra
+short_name: Jst Sh 3 Pin Right Angle Header 1 Mm Pitch
+size: 1_mm_jst_sh
+type: header

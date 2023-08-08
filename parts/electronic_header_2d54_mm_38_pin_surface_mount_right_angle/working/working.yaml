@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 38_pin
+directory: parts/electronic_header_2d54_mm_38_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_38_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: f3a2fa3ed78613c0bf954140fd080559
+md5_10: f3a2fa3ed7
+md5_5: f3a2f
+md5_6: f3a2fa
+name: Electronic Header 2D54 Mm 38 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_38_pin_surface_mount_right_angle
+part_number: ''
+short_code: hi138psmra
+short_name: 0.1" 38 Pin Surface Mount Right Angle Header
+size: 2d54_mm
+type: header

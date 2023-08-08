@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 18_pin
+directory: parts/electronic_header_2d54_mm_18_pin_right_angle
+distributors: []
+id: electronic_header_2d54_mm_18_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 7836585f0a2d898e298bbb16677c8762
+md5_10: 7836585f0a
+md5_5: '78365'
+md5_6: '783658'
+name: Electronic Header 2D54 Mm 18 Pin Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_18_pin_right_angle
+part_number: ''
+short_code: hi118pra
+short_name: 0.1" 18 Pin Right Angle Header
+size: 2d54_mm
+type: header

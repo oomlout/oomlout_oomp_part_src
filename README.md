@@ -1,12 +1,12 @@
 # oomlout_oomp_v3
 oopen organization method for parts take three
 
-# parts
+## parts
 current parts list [parts_readme.md](readme_parts.md)
 
-# files
+## files
 
-## summary
+### summary
 
 * base/
   * oomp.py -- the main hold everything together file imports everything needed and holds the dictionary
@@ -26,9 +26,11 @@ current parts list [parts_readme.md](readme_parts.md)
         * _datasheet.pdf
         * _image.jpg
 
-# name
 
-## composition
+
+## name
+
+### composition
 
 This is composed of up to eight parts. Not all parts are neccesary and are in full text, all special charachters and spaces are replaced with _
 
@@ -41,4 +43,6 @@ This is composed of up to eight parts. Not all parts are neccesary and are in fu
 6. manufacturer -- the name of the manufacturer
 7. part_number -- the part number of the item
 
+## actions
 
+* action_setup.py -- gets everything setup

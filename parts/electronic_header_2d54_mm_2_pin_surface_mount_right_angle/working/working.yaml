@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2_pin
+directory: parts/electronic_header_2d54_mm_2_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_2_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 581579c516f40d149c599841bf83cf63
+md5_10: 581579c516
+md5_5: '58157'
+md5_6: '581579'
+name: Electronic Header 2D54 Mm 2 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_2_pin_surface_mount_right_angle
+part_number: ''
+short_code: hi12psmra
+short_name: 0.1" 2 Pin Surface Mount Right Angle Header
+size: 2d54_mm
+type: header

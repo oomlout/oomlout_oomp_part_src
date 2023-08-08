@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 4_pin
+directory: parts/electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: bec26d70f8870e40f4716fd0369e3d3f
+md5_10: bec26d70f8
+md5_5: bec26
+md5_6: bec26d
+name: Electronic Header 2 Mm Jst Ph 4 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle
+part_number: ''
+short_code: h4psmra
+short_name: Jst Ph 4 Pin Surface Mount Right Angle Header 2 Mm Pitch
+size: 2_mm_jst_ph
+type: header

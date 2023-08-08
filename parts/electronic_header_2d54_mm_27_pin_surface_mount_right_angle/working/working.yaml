@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 27_pin
+directory: parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_27_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: b9674e4adc0bea8809cb1aa467d94f19
+md5_10: b9674e4adc
+md5_5: b9674
+md5_6: b9674e
+name: Electronic Header 2D54 Mm 27 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_27_pin_surface_mount_right_angle
+part_number: ''
+short_code: hi127psmra
+short_name: 0.1" 27 Pin Surface Mount Right Angle Header
+size: 2d54_mm
+type: header

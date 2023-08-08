@@ -1,0 +1,21 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm
+distributors: []
+from_yaml: false
+id: electronic_led_10_mm
+kicad_reference: L
+manufacturer: ''
+md5: bab4a73f335cebcc40b339010dc83b72
+md5_10: bab4a73f33
+md5_5: bab4a
+md5_6: bab4a7
+name: Electronic Led 10 Mm
+oomp_key: oomp_electronic_led_10_mm
+part_number: ''
+short_code: l10
+short_name: 10 Mm Led
+size: 10_mm
+type: led

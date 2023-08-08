@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "19_pin",
+    "description_extra": "right_angle",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_19_pin_right_angle",
+    "oomp_key": "oomp_electronic_header_2d54_mm_19_pin_right_angle",
+    "directory": "parts/electronic_header_2d54_mm_19_pin_right_angle",
+    "name": "Electronic Header 2D54 Mm 19 Pin Right Angle",
+    "short_code": "hi119pra",
+    "short_name": "0.1\" 19 Pin Right Angle Header",
+    "distributors": [],
+    "md5": "88b6f8f83e6a9dd4cb7831d51cc06246",
+    "md5_5": "88b6f",
+    "md5_6": "88b6f8",
+    "md5_10": "88b6f8f83e"
+}

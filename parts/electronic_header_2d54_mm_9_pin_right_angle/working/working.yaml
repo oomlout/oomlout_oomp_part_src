@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 9_pin
+directory: parts/electronic_header_2d54_mm_9_pin_right_angle
+distributors: []
+id: electronic_header_2d54_mm_9_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 0b257cbd29ba5a76743e24267f1070f8
+md5_10: 0b257cbd29
+md5_5: 0b257
+md5_6: 0b257c
+name: Electronic Header 2D54 Mm 9 Pin Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_9_pin_right_angle
+part_number: ''
+short_code: hi19pra
+short_name: 0.1" 9 Pin Right Angle Header
+size: 2d54_mm
+type: header

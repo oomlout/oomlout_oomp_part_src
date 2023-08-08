@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 1_pin
+directory: parts/electronic_header_2d54_mm_1_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_1_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: eb048422bb7ffc702dd8d2dba1b6481c
+md5_10: eb048422bb
+md5_5: eb048
+md5_6: eb0484
+name: Electronic Header 2D54 Mm 1 Pin Surface Mount
+oomp_key: oomp_electronic_header_2d54_mm_1_pin_surface_mount
+part_number: ''
+short_code: hi11psm
+short_name: 0.1" 1 Pin Surface Mount Header
+size: 2d54_mm
+type: header

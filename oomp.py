@@ -6,6 +6,9 @@ import oomp_short_code
 import oomp_short_name
 import oomp_distributors
 
+import os
+import oom_markdown
+
 parts = {}
 parts_md5 = {}
 parts_md5_5 = {}
@@ -17,10 +20,37 @@ parts_short_code = {}
 names_of_main_elements = ["classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number"]
 
 
-def load_parts(**kwargs):
-    oomp_create_parts.load_parts(**kwargs)
+def clone_data_files():
+    repo_list = []
+    repo_list.append("https://github.com/oomlout/oomlout_oomp_footprint_bot")
+    repo_list.append("https://github.com/oomlout/oomlout_oomp_symbol_bot")
 
-def create_parts_readme():
+    #if tmp/ doesn't exist create it
+    
+    if not os.path.exists("tmp"):
+        os.makedirs("tmp")
+
+    for repo in repo_list:
+        #clone repo using os.system to tmp/repo_name
+        print(f"cloning {repo}")
+        
+        repo_name = repo.split('/')[-1]        
+        os.system(f"git clone {repo} tmp/{repo_name}")
+
+
+
+def load_parts(**kwargs):
+    from_yaml = kwargs.get("from_yaml", True)
+    if from_yaml:
+        oomp_create_parts.load_parts_from_yaml(**kwargs)
+    else:
+        oomp_create_parts.load_parts(**kwargs)
+
+def save_parts(**kwargs):
+    oomp_create_parts.save_parts_to_yaml(**kwargs)
+
+def create_parts_readme_old():
+    print("creating parts readme")
     #create a file called parts_readme.md that links to all the parts in the parts directory
     readme = ""
     readme += "# Parts\n"
@@ -33,7 +63,7 @@ def create_parts_readme():
     
 
 
-def add_parts(parts, make_files=True):
+def add_parts(parts,**kwargs):
     #expand the parts list into parts_processed, make this a list of permutations of the part using itertools
     import itertools
 
@@ -73,11 +103,8 @@ def add_parts(parts, make_files=True):
 
         # Print all combinations
         for combo in combinations:
-            add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, make_files=make_files)
+            add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
         
-
-def copy_files():
-    pass
 
 def add_part(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -98,6 +125,7 @@ def add_part(**kwargs):
     
     #add id as a keyed item to kwargs
     kwargs["id"] = id
+    kwargs["oomp_key"] = f'oomp_{id}'
     
     #add the directory
     kwargs["directory"] = f'parts/{id}'
@@ -142,17 +170,20 @@ def add_part(**kwargs):
         
         ## make a directory in /parts for the part the name is its id
         import os
-        if not os.path.exists("parts/" + id):
-            os.makedirs("parts/" + id)
+        if not os.path.exists("parts/" + id + "/working"):
+            os.makedirs("parts/" + id + "/working")
         
-        ## write the part details in json to the directory name the file details.json
+        ## write the part working in json to the directory name the file working.json
         import json
-        with open("parts/" + id + "/details.json", "w") as outfile:
+        with open("parts/" + id + "/working/working.json", "w") as outfile:
             json.dump(kwargs, outfile, indent=4)
-        ## write the part details in yaml to the directory name the file details.json
+        ## write the part working in yaml to the directory name the file working.json
         import yaml
-        with open("parts/" + id + "/details.yaml", "w") as outfile:
-            yaml.dump(kwargs, outfile, indent=4)
+        import copy
+        p2 = copy.deepcopy(kwargs)
+        p2.pop("make_files")
+        with open("parts/" + id + "/working/working.yaml", "w") as outfile:
+            yaml.dump(p2, outfile, indent=4)
 
         file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
         #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
@@ -168,10 +199,7 @@ def add_part(**kwargs):
         kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
         kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
 
-        #call pass the part to a function to gebneratre a readme.md file then save it
-        readme = generate_readme(**kwargs)
-        with open("parts/" + id + "/readme.md", "w") as outfile:
-            outfile.write(readme)
+        
 
 
     parts[id] = kwargs
@@ -248,6 +276,163 @@ def get_id(**kwargs):
     #remove the trailing '_'
     id = id[:-1]
     return id
+
+
+def generate_readme(**kwargs):
+    
+    overwrite = kwargs.get("overwrite",False)
+    filename = kwargs.get("filename",None)
+    #get directory from filename
+    directory = os.path.dirname(filename) 
+    readme_file = os.path.join(directory,"readme.md")
+    print(f"generating readme for {directory}")
+    #create a deep copy of kwargs
+    import copy
+    p2 = copy.deepcopy(kwargs)
+    p2["directory"] = directory
+    readme = get_readme(**p2)
+
+    #write readme file
+    #as unicode
+    with open(readme_file, 'w', encoding='utf-8') as text_file:
+        text_file.write(readme)
+
+
+def get_readme(**kwargs):
+    directory = kwargs.get("directory","none")
+
+    
+    import copy
+    p2 = copy.deepcopy(kwargs)
+    yaml_file = p2.get("directory", "none") + "/working.yaml"
+    if os.path.exists(yaml_file):
+        import yaml
+        with open(yaml_file, 'r') as stream:
+            try:
+                yaml_dict = yaml.load(stream, Loader=yaml.FullLoader)
+            except:
+                print("yaml file error")
+                readme += "yaml file error"
+                return readme
+        #if yaml dict is a list then take the first element
+        if isinstance(yaml_dict, list):
+            yaml_dict = yaml_dict[0]
+
+        #add yaml dict to kwargs
+        p2.update(yaml_dict=yaml_dict)
+
+        readme = "# OOMP Part  \n"
+        p2["readme"] = readme
+        readme += get_intro(**p2)
+        ###### footprint
+        p2["readme"] = readme
+        readme += get_part(**p2)
+        ###### images
+        p2["readme"] = readme
+        readme += get_images(**p2)
+
+
+
+        return readme
+    else:
+        print( "no yaml file found")
+        readme += "no yaml file found"
+        return readme
+
+def get_intro(**kwargs):
+    yaml_dict = kwargs.get("yaml_dict",{})
+    yd = yaml_dict
+    ###### introduction
+    name = yd.get("name","none")
+    oomp_key = yd.get("oomp_key","none")
+    readme = ""
+    readme += f'## {name}  \n'
+    readme += f'  \n'
+    readme += f'oomp key: {oomp_key}  \n'
+    readme += f'  \n'
+    
+    return readme
+
+def get_part(**kwargs):
+    yaml_dict = kwargs.get("yaml_dict",{})
+    yd = yaml_dict
+    
+    oomp_key = yd.get("oomp_key","none")
+    short_code = yd.get("short_code","none")
+    name = yd.get("name","none")
+    id = yd.get("id","none")
+    classification = yd.get("classification","none")
+    typ = yd.get("type","none")
+    size = yd.get("size","none")
+    color = yd.get("color","none")
+    description_main = yd.get("description_main","none")
+    description_extra = yd.get("description_extra","none")
+    manufacturer = yd.get("manufacturer","none")
+    part_number = yd.get("part_number","none")
+    md5_10 = yd.get("md5_10","none")
+    md5_5 = yd.get("md5_5","none")
+    md5 = yd.get("md5","none")
+
+    readme = "### Part Details  \n"
+    ###### board
+    image_link = oom_markdown.get_link_image_scale(image="working.jpg",resolution="600")
+    readme += f'  \n'
+    readme += f'{image_link}  \n'
+    #oom_kicad.get_footprint_pin_names(filename=footprint_filename)
+    table_array = []
+    readme += f'  \n'
+    readme += f'#### Important Bits  \n'
+    table_array.append(["name", name])
+    table_array.append(["full id", id])
+    table_array.append(["short code", short_code])   
+    table_array.append(["short link<br>(not yet working)", f'http://oom.lt/{short_code}<br>http://oom.lt/{md5_5}'])   
+    table_array.append(["oomp key", oomp_key])
+    table_array.append(["md5_5", md5_5])
+    table_array.append(["md5_10", md5_10])
+    table_array.append(["md5", md5])
+    
+
+    readme+=oom_markdown.get_table(data=table_array)
+    readme += f'#### ID Composition  \n'
+    table_array = []
+    table_array.append(["1 classification", classification])
+    table_array.append(["2 type", typ])
+    table_array.append(["3 size", size])
+    table_array.append(["4 color", color])
+    table_array.append(["5 description main", description_main])
+    table_array.append(["6 description extra", description_extra])
+    table_array.append(["7 manufacturer", manufacturer])
+    table_array.append(["8 part number", part_number])
+    readme+=oom_markdown.get_table(data=table_array)
+
+    return readme
+
+def get_images(**kwargs):
+    
+    directory = kwargs.get("directory","none")
+    readme = "### Images  \n"
+
+    #get all images in directory
+    import glob
+    images = glob.glob(directory + "\\*.png")
+    images += glob.glob(directory + "\\*.jpg")
+    images += glob.glob(directory + "\\*.jpeg")
+    for image in images:
+        #grab the filename split after the last _
+        test = image.split("_")[-1]
+        digit_test = test[1:3].isdigit()
+        if not digit_test:
+            just_filename = os.path.basename(image)
+            image_link = oom_markdown.get_link_image_scale(image=just_filename)
+
+            readme += f'  \n'
+            readme += f'{image_link}  \n'
+
+
+
+
+
+    return readme
 
 
 

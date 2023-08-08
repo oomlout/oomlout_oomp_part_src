@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 10_pin
+directory: parts/electronic_header_1_mm_jst_sh_10_pin_right_angle
+distributors: []
+id: electronic_header_1_mm_jst_sh_10_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: b29134715ec9520e144241713de7770d
+md5_10: b29134715e
+md5_5: b2913
+md5_6: b29134
+name: Electronic Header 1 Mm Jst Sh 10 Pin Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_right_angle
+part_number: ''
+short_code: h10pra
+short_name: Jst Sh 10 Pin Right Angle Header 1 Mm Pitch
+size: 1_mm_jst_sh
+type: header

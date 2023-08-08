@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm",
+    "color": "",
+    "description_main": "20_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_20_pin_surface_mount",
+    "oomp_key": "oomp_electronic_header_2d54_mm_20_pin_surface_mount",
+    "directory": "parts/electronic_header_2d54_mm_20_pin_surface_mount",
+    "name": "Electronic Header 2D54 Mm 20 Pin Surface Mount",
+    "short_code": "hi120psm",
+    "short_name": "0.1\" 20 Pin Surface Mount Header",
+    "distributors": [],
+    "md5": "ef8971f60c94927e179115b416f80dd0",
+    "md5_5": "ef897",
+    "md5_6": "ef8971",
+    "md5_10": "ef8971f60c"
+}

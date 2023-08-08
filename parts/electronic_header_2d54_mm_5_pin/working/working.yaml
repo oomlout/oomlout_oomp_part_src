@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5_pin
+directory: parts/electronic_header_2d54_mm_5_pin
+distributors: []
+id: electronic_header_2d54_mm_5_pin
+kicad_reference: J
+manufacturer: ''
+md5: f32ac7e7cdbc3dd7d8771f74993cb8d3
+md5_10: f32ac7e7cd
+md5_5: f32ac
+md5_6: f32ac7
+name: Electronic Header 2D54 Mm 5 Pin
+oomp_key: oomp_electronic_header_2d54_mm_5_pin
+part_number: ''
+short_code: hi15p
+short_name: 0.1" 5 Pin Header
+size: 2d54_mm
+type: header

@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 30_pin
+directory: parts/electronic_header_2d54_mm_30_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_30_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 20f09126dfc0a0c80e14e4246c68b510
+md5_10: 20f09126df
+md5_5: 20f09
+md5_6: 20f091
+name: Electronic Header 2D54 Mm 30 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_30_pin_surface_mount_right_angle
+part_number: ''
+short_code: hi130psmra
+short_name: 0.1" 30 Pin Surface Mount Right Angle Header
+size: 2d54_mm
+type: header

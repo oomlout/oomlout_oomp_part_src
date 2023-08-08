@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 6_pin
+directory: parts/electronic_header_1_mm_jst_sh_6_pin_right_angle
+distributors: []
+id: electronic_header_1_mm_jst_sh_6_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 20e505db1433c088797f25e39a563357
+md5_10: 20e505db14
+md5_5: 20e50
+md5_6: 20e505
+name: Electronic Header 1 Mm Jst Sh 6 Pin Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_right_angle
+part_number: ''
+short_code: h6pra
+short_name: Jst Sh 6 Pin Right Angle Header 1 Mm Pitch
+size: 1_mm_jst_sh
+type: header

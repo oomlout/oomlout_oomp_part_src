@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 8_pin
+directory: parts/electronic_header_2d54_mm_8_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_8_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 8bebf6ba367d85bc764a5dd6d1893f20
+md5_10: 8bebf6ba36
+md5_5: 8bebf
+md5_6: 8bebf6
+name: Electronic Header 2D54 Mm 8 Pin Surface Mount
+oomp_key: oomp_electronic_header_2d54_mm_8_pin_surface_mount
+part_number: ''
+short_code: hi18psm
+short_name: 0.1" 8 Pin Surface Mount Header
+size: 2d54_mm
+type: header

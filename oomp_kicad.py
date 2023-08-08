@@ -6,6 +6,7 @@ from kiutils.footprint import Footprint
 from kiutils.symbol import SymbolLib, Symbol
 
 def create_footprint_library():
+    print("creating footprint library")
     footprint_directory = rf'kicad\footprints\oomlout_oomp_footprints.pretty'
     oomlout_v2_eda_base = rf'C:\GH\oomlout_OOMP_V2\oomlout_OOMP_eda_V2'
     
@@ -38,9 +39,10 @@ def create_footprint_library():
 
 
 def create_symbol_library():
+    print("creating symbol library")
     symbol_file_source = rf'templates\template_oomlout_oomp_kicad_symbols.kicad_sym'
     symbol_file =  rf'kicad\symbols\oomlout_oomp_kicad_symbols.kicad_sym' 
-    oomlout_v2_eda_base = rf'C:\GH\oomlout_OOMP_V2\oomlout_OOMP_eda_V2'
+    oomlout_oomp_symbol_bot = rf'tmp/oomlout_oomp_symbol_bot/symbols'
     symbol_library = SymbolLib.from_file(symbol_file_source)
     for part_id in oomp.parts:
         part = oomp.parts[part_id]  
@@ -49,17 +51,21 @@ def create_symbol_library():
         symbol = None
         if "symbol" in part:
             #if there's a symbol copy it across
-            symbol_source = oomlout_v2_eda_base + "/" + part["symbol"][0]["directory"] + "symbol.kicad_sym"
+            #symbol_source = oomlout_v2_eda_base + "/" + part["symbol"][0]["directory"] + "symbol.kicad_sym"
+            symbol_source = rf'{oomlout_oomp_symbol_bot}/{part["symbol"][0]["directory"]}/working/working.kicad_sym'
             if os.path.isfile(symbol_source):                
                 symbol = SymbolLib.from_file(symbol_source).symbols[0]
                 pass
             else:
                 #raise exception that file doesn't exist
-                raise Exception(f'file not found: {symbol_source}')
+                #raise Exception(f'file not found: {symbol_source}')
+                print(f'symbol file not found: {symbol_source}')
+                pass
         elif "pins" in part:
             # make it from the base symbol
             number_of_pins = str(len(part["pins"])).zfill(2)
-            symbol_source = rf'{oomlout_v2_eda_base}\SYMBOL\kicad\kicad-symbols\Connector_Generic\Conn_01x{number_of_pins}\symbol.kicad_sym'
+            symbol_source = rf'{oomlout_oomp_symbol_bot}/kicad_connector_conn_01x{number_of_pins}_pin/working/working.kicad_sym'
+            symbol_source
             symbol = SymbolLib.from_file(symbol_source).symbols[0]
             for sym in symbol.units:            
                 pins = sym.pins

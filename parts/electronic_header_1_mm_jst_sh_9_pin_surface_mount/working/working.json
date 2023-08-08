@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "1_mm_jst_sh",
+    "color": "",
+    "description_main": "9_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_1_mm_jst_sh_9_pin_surface_mount",
+    "oomp_key": "oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount",
+    "directory": "parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount",
+    "name": "Electronic Header 1 Mm Jst Sh 9 Pin Surface Mount",
+    "short_code": "h9psm",
+    "short_name": "Jst Sh 9 Pin Surface Mount Header 1 Mm Pitch",
+    "distributors": [],
+    "md5": "3392cfc59fa2610bf5afa029c396cd3b",
+    "md5_5": "3392c",
+    "md5_6": "3392cf",
+    "md5_10": "3392cfc59f"
+}

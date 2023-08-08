@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3_pin
+directory: parts/electronic_header_1_mm_jst_sh_3_pin
+distributors: []
+id: electronic_header_1_mm_jst_sh_3_pin
+kicad_reference: J
+manufacturer: ''
+md5: 384a99b5042511933c8c5e6e404b87ee
+md5_10: 384a99b504
+md5_5: 384a9
+md5_6: 384a99
+name: Electronic Header 1 Mm Jst Sh 3 Pin
+oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin
+part_number: ''
+short_code: h3p
+short_name: Jst Sh 3 Pin Header 1 Mm Pitch
+size: 1_mm_jst_sh
+type: header

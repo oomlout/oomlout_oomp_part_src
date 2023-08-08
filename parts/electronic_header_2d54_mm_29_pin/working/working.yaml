@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 29_pin
+directory: parts/electronic_header_2d54_mm_29_pin
+distributors: []
+id: electronic_header_2d54_mm_29_pin
+kicad_reference: J
+manufacturer: ''
+md5: a0bd98b3c21869715d409c2f7fa54ed8
+md5_10: a0bd98b3c2
+md5_5: a0bd9
+md5_6: a0bd98
+name: Electronic Header 2D54 Mm 29 Pin
+oomp_key: oomp_electronic_header_2d54_mm_29_pin
+part_number: ''
+short_code: hi129p
+short_name: 0.1" 29 Pin Header
+size: 2d54_mm
+type: header

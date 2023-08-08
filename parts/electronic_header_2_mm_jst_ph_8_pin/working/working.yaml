@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 8_pin
+directory: parts/electronic_header_2_mm_jst_ph_8_pin
+distributors: []
+id: electronic_header_2_mm_jst_ph_8_pin
+kicad_reference: J
+manufacturer: ''
+md5: 1c1224f193ed2f790e12d95d5632dc81
+md5_10: 1c1224f193
+md5_5: 1c122
+md5_6: 1c1224
+name: Electronic Header 2 Mm Jst Ph 8 Pin
+oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin
+part_number: ''
+short_code: h8p
+short_name: Jst Ph 8 Pin Header 2 Mm Pitch
+size: 2_mm_jst_ph
+type: header

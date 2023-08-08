@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 6_pin
+directory: parts/electronic_header_2d54_mm_6_pin_surface_mount
+distributors: []
+id: electronic_header_2d54_mm_6_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+md5: 1879739ff6dfa88fde5ee7902c3e5c04
+md5_10: 1879739ff6
+md5_5: '18797'
+md5_6: '187973'
+name: Electronic Header 2D54 Mm 6 Pin Surface Mount
+oomp_key: oomp_electronic_header_2d54_mm_6_pin_surface_mount
+part_number: ''
+short_code: hi16psm
+short_name: 0.1" 6 Pin Surface Mount Header
+size: 2d54_mm
+type: header

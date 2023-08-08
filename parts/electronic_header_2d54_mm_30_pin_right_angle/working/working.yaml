@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: right_angle
+description_main: 30_pin
+directory: parts/electronic_header_2d54_mm_30_pin_right_angle
+distributors: []
+id: electronic_header_2d54_mm_30_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: d8ae70d949fcb2c72b185a0457476aa6
+md5_10: d8ae70d949
+md5_5: d8ae7
+md5_6: d8ae70
+name: Electronic Header 2D54 Mm 30 Pin Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_30_pin_right_angle
+part_number: ''
+short_code: hi130pra
+short_name: 0.1" 30 Pin Right Angle Header
+size: 2d54_mm
+type: header

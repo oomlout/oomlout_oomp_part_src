@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "1_mm_jst_sh",
+    "color": "",
+    "description_main": "6_pin",
+    "description_extra": "surface_mount",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_1_mm_jst_sh_6_pin_surface_mount",
+    "oomp_key": "oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount",
+    "directory": "parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
+    "name": "Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount",
+    "short_code": "h6psm",
+    "short_name": "Jst Sh 6 Pin Surface Mount Header 1 Mm Pitch",
+    "distributors": [],
+    "md5": "60628a62dc19146d0dc1b7f8792dfb76",
+    "md5_5": "60628",
+    "md5_6": "60628a",
+    "md5_10": "60628a62dc"
+}

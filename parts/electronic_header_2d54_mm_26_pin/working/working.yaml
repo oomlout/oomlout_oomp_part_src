@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 26_pin
+directory: parts/electronic_header_2d54_mm_26_pin
+distributors: []
+id: electronic_header_2d54_mm_26_pin
+kicad_reference: J
+manufacturer: ''
+md5: 799215cbcb63459b3dbab07adbdc24cc
+md5_10: 799215cbcb
+md5_5: '79921'
+md5_6: '799215'
+name: Electronic Header 2D54 Mm 26 Pin
+oomp_key: oomp_electronic_header_2d54_mm_26_pin
+part_number: ''
+short_code: hi126p
+short_name: 0.1" 26 Pin Header
+size: 2d54_mm
+type: header

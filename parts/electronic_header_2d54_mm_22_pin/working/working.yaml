@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_pin
+directory: parts/electronic_header_2d54_mm_22_pin
+distributors: []
+id: electronic_header_2d54_mm_22_pin
+kicad_reference: J
+manufacturer: ''
+md5: d084dbf073c2aaf4594d6bd3a289d198
+md5_10: d084dbf073
+md5_5: d084d
+md5_6: d084db
+name: Electronic Header 2D54 Mm 22 Pin
+oomp_key: oomp_electronic_header_2d54_mm_22_pin
+part_number: ''
+short_code: hi122p
+short_name: 0.1" 22 Pin Header
+size: 2d54_mm
+type: header

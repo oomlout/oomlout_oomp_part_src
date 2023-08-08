@@ -1,0 +1,20 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 25_pin
+directory: parts/electronic_header_2d54_mm_25_pin_surface_mount_right_angle
+distributors: []
+id: electronic_header_2d54_mm_25_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+md5: 3a81dde92d250e822868f0d1333a932a
+md5_10: 3a81dde92d
+md5_5: 3a81d
+md5_6: 3a81dd
+name: Electronic Header 2D54 Mm 25 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_25_pin_surface_mount_right_angle
+part_number: ''
+short_code: hi125psmra
+short_name: 0.1" 25 Pin Surface Mount Right Angle Header
+size: 2d54_mm
+type: header
