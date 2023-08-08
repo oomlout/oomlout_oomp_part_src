@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "quarter_watt_through_hole",
+    "color": "",
+    "description_main": "330_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_quarter_watt_through_hole_330_ohm",
+    "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_330_ohm",
+    "directory": "parts/electronic_resistor_quarter_watt_through_hole_330_ohm",
+    "name": "Electronic Resistor Quarter Watt Through Hole 330 Ohm",
+    "short_code": "ro331",
+    "distributors": [],
+    "md5": "3c119be7a2243936733916e16cf6f41f",
+    "md5_5": "3c119",
+    "md5_6": "3c119b",
+    "md5_10": "3c119be7a2"
+}

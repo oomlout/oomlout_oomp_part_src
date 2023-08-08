@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "quarter_watt_through_hole",
+    "color": "",
+    "description_main": "220_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_quarter_watt_through_hole_220_ohm",
+    "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_220_ohm",
+    "directory": "parts/electronic_resistor_quarter_watt_through_hole_220_ohm",
+    "name": "Electronic Resistor Quarter Watt Through Hole 220 Ohm",
+    "short_code": "ro221",
+    "distributors": [],
+    "md5": "8010ecd1695c54b8410d3c60e7a20ebb",
+    "md5_5": "8010e",
+    "md5_6": "8010ec",
+    "md5_10": "8010ecd169"
+}

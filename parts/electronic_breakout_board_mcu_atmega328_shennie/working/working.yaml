@@ -1,5 +1,5 @@
 classification: electronic
-color: ''
+color: mcu
 description_extra: shennie
 description_main: atmega328
 directory: parts/electronic_breakout_board_mcu_atmega328_shennie
@@ -12,124 +12,131 @@ md5_10: 09dfb71639
 md5_5: 09dfb
 md5_6: 09dfb7
 name: Electronic Breakout Board Mcu Atmega328 Shennie
-notes:
-- common cathode (cathode to grid)
+notes: []
 oomp_key: oomp_electronic_breakout_board_mcu_atmega328_shennie
 part_number: ''
 pins:
     '1':
-        name: grid12
+        name: tx1
         number: '1'
         type: signal
     '10':
-        name: seg2
+        name: d7
         number: '10'
         type: signal
     '11':
-        name: seg3
+        name: d8
         number: '11'
         type: signal
     '12':
-        name: seg4
+        name: d9
         number: '12'
         type: signal
     '13':
-        name: seg5
+        name: d10
         number: '13'
         type: signal
     '14':
-        name: seg6
+        name: d11
         number: '14'
         type: signal
     '15':
-        name: seg7
+        name: d12
         number: '15'
         type: signal
     '16':
-        name: seg8
+        name: d13
         number: '16'
         type: signal
     '17':
-        name: vdd
+        name: 3v3
         number: '17'
         type: power
     '18':
-        name: grid1
+        name: ref
         number: '18'
         type: signal
     '19':
-        name: grid2
+        name: a0
         number: '19'
         type: signal
     '2':
-        name: grid13
+        name: rx0
         number: '2'
         type: signal
     '20':
-        name: grid3
+        name: a1
         number: '20'
         type: signal
     '21':
-        name: grid4
+        name: a2
         number: '21'
         type: signal
     '22':
-        name: grid5
+        name: a3
         number: '22'
         type: signal
     '23':
-        name: grid6
+        name: a4
         number: '23'
         type: signal
     '24':
-        name: grid7
+        name: a5
         number: '24'
         type: signal
     '25':
-        name: grid8
+        name: a6
         number: '25'
         type: signal
     '26':
-        name: grid9
+        name: a7
         number: '26'
         type: signal
     '27':
-        name: grid10
+        name: 5v
         number: '27'
-        type: signal
+        type: power
     '28':
-        name: grid11
+        name: rst
         number: '28'
         type: signal
+    '29':
+        name: gnd
+        number: '29'
+        type: gnd
     '3':
-        name: grid14
+        name: rst
         number: '3'
         type: signal
+    '30':
+        name: vin
+        number: '30'
+        type: power
     '4':
-        name: grid15
+        name: gnd
         number: '4'
-        type: signal
+        type: power
     '5':
-        name: grid16
+        name: d2
         number: '5'
         type: signal
     '6':
-        name: vss
+        name: d3
         number: '6'
-        type: gnd
+        type: signal
     '7':
-        name: din
+        name: d4
         number: '7'
         type: signal
     '8':
-        name: sclk
+        name: d5
         number: '8'
         type: signal
     '9':
-        name: seg1
+        name: d6
         number: '9'
         type: signal
-short_code: ''
+short_code: b
 short_name: ''
-size: mcu
+size: ''
 type: breakout_board

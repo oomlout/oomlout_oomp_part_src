@@ -17,4 +17,8 @@ part_number: ''
 short_code: h8pra
 short_name: Jst Xh 8 Pin Right Angle Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin
+    oomp_key: oomp_kicad_connector_conn_01x08_pin
 type: header

@@ -12,8 +12,8 @@ oomp key: oomp_electronic_breakout_board_mcu_atmega328_shennie
 | --- | --- | 
 | name | Electronic Breakout Board Mcu Atmega328 Shennie | 
 | full id | electronic_breakout_board_mcu_atmega328_shennie | 
-| short code |  | 
-| short link<br>(not yet working) | http://oom.lt/<br>http://oom.lt/09dfb | 
+| short code | b | 
+| short link<br>(not yet working) | http://oom.lt/b<br>http://oom.lt/09dfb | 
 | oomp key | oomp_electronic_breakout_board_mcu_atmega328_shennie | 
 | md5_5 | 09dfb | 
 | md5_10 | 09dfb71639 | 
@@ -23,8 +23,8 @@ oomp key: oomp_electronic_breakout_board_mcu_atmega328_shennie
 | --- | --- | 
 | 1 classification | electronic | 
 | 2 type | breakout_board | 
-| 3 size | mcu | 
-| 4 color |  | 
+| 3 size |  | 
+| 4 color | mcu | 
 | 5 description main | atmega328 | 
 | 6 description extra | shennie | 
 | 7 manufacturer |  | 

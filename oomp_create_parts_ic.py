@@ -10,11 +10,58 @@ def load_parts(**kwargs):
     
 
     #define a part 
+
+    ## color used for chip type
+
+    ##### atmega
+
+    ##### atmega328
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["dip_28"]
+    part_details["color"] = ["mcu"]
+    part_details["description_main"] = "atmega328"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microchip"
+    part_details["part_number"] = "atmega328p_pu"
+    part_details["short_name"] = "atmega328 28 pin dip"    
+    parts.append(part_details)
+
+    import copy
+    part_details = copy.deepcopy(part_details)
+    part_details["size"] = ["qfn_28"]
+    part_details["part_number"] = "atmega328p_mn"
+    part_details["short_name"] = "atmega328 28 pin qfn"
+    parts.append(part_details)    
+    
+    part_details = copy.deepcopy(part_details)
+    part_details["size"] = ["vqfn_28"]
+    part_details["part_number"] = "atmega328p_mmhr"
+    part_details["short_name"] = "atmega328 28 pin vqfn"
+    parts.append(part_details) 
+    
+    part_details = copy.deepcopy(part_details)
+    part_details["size"] = ["mlf_32"]
+    part_details["part_number"] = "atmega328p_mur"
+    part_details["short_name"] = "atmega328 32 pin mlf"
+    parts.append(part_details)    
+    
+    part_details = copy.deepcopy(part_details)
+    part_details["size"] = ["tqfp_32"]
+    part_details["part_number"] = "atmega328p_aur"
+    part_details["short_name"] = "atmega328 32 pin tqfp"
+    parts.append(part_details) 
+
+
+
+
+    ##### aip1640 led matrix driver
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "ic"
     part_details["size"] = ["soic_28_wide"]
-    part_details["color"] = [""]
+    part_details["color"] = ["led_driver"]
     part_details["description_main"] = "led_matrix_driver_16_x_8"
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "wuxi_i_core_electronics_co_ltd"
@@ -52,7 +99,8 @@ def load_parts(**kwargs):
     part_details["pins"] = pins
     part_details["kicad_reference"] = "U"
     part_details["notes"] = []
-    part_details["notes"].append("common cathode (cathode to grid)")
+    
+
     
 
     #add the part to the list of parts

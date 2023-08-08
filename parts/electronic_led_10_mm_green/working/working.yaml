@@ -18,4 +18,8 @@ part_number: ''
 short_code: l10g
 short_name: 10 Mm Green Led
 size: 10_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
 type: led

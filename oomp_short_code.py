@@ -7,6 +7,7 @@ def get_short_code(**kwargs):
     replace_dict["classification"]["electronic"] = ""
     replace_dict["classification"]["mechanical"] = ""
     replace_dict["classification"]["optical"] = ""
+    
 
     replace_dict["type"] = {}
     replace_dict["type"]["led"] = "l"
@@ -15,6 +16,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["ic"] = "i"
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["header"] = "h"
+    replace_dict["type"]["breakout_board"] = "b"
 
     replace_dict["size"] = {}
     #loop for all mm sizes
@@ -24,8 +26,13 @@ def get_short_code(**kwargs):
     #loop for m1 to m10
     for m in range(1, 10):
         replace_dict["size"][f"m{m}"] = f"m{m}"
-    replace_dict["size"]["0603"] = "63"
+    
+    replace_dict["size"]["0402"] = "6"
+    replace_dict["size"]["0603"] = "6"
+    replace_dict["size"]["0805"] = "8"
+    replace_dict["size"]["1206"] = "12"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
+    
 
     #### jst sizes
     replace_dict["size"]["_jst_ph"] = "jph"
@@ -43,6 +50,12 @@ def get_short_code(**kwargs):
     #add for _pin 1-40
     for pin_count in range(1, 41):
         replace_dict["description_main"][f"{pin_count}_pin"] = f"{pin_count}p"
+    #loop for ohms
+    for num_zeros in range(0, 10):
+        for start_digits in range(10, 100):
+            ohms = start_digits * (10 ** num_zeros)
+            code = f'{start_digits}{num_zeros}'
+            replace_dict["description_main"][f"{ohms}_ohm"] = f"o{code}"
 
 
     replace_dict["description_extra"] = {}

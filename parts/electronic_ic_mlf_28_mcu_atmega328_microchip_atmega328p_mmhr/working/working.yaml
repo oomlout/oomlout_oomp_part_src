@@ -1,0 +1,19 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_mlf_28_mcu_atmega328_microchip_atmega328p_mmhr
+distributors: []
+id: electronic_ic_mlf_28_mcu_atmega328_microchip_atmega328p_mmhr
+manufacturer: microchip
+md5: 69c80358412c9256a729fe77f4fa0d22
+md5_10: 69c8035841
+md5_5: 69c80
+md5_6: 69c803
+name: Electronic Ic Mlf 28 Mcu Atmega328 Microchip Atmega328P Mmhr
+oomp_key: oomp_electronic_ic_mlf_28_mcu_atmega328_microchip_atmega328p_mmhr
+part_number: atmega328p_mmhr
+short_code: i
+short_name: atmega328 28 pin mlf
+size: mlf_28
+type: ic

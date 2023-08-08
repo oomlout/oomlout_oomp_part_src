@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 220_ohm
+directory: parts/electronic_resistor_0402_220_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_0402_220_ohm
+kicad_reference: R
+manufacturer: ''
+md5: e307804ecda357eb9881fbdfdbe3a02c
+md5_10: e307804ecd
+md5_5: e3078
+md5_6: e30780
+name: Electronic Resistor 0402 220 Ohm
+oomp_key: oomp_electronic_resistor_0402_220_ohm
+part_number: ''
+short_code: r6o221
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,28 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_0603_560_ohm
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+from_yaml: false
+id: electronic_resistor_0603_560_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 18768550518624924d81808590b67894
+md5_10: '1876855051'
+md5_5: '18768'
+md5_6: '187685'
+name: Electronic Resistor 0603 560 Ohm
+oomp_key: oomp_electronic_resistor_0603_560_ohm
+part_number: ''
+short_code: r6o561
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

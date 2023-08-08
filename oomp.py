@@ -178,13 +178,7 @@ def add_part(**kwargs):
         with open("parts/" + id + "/working/working.json", "w") as outfile:
             json.dump(kwargs, outfile, indent=4)
         ## write the part working in yaml to the directory name the file working.json
-        import yaml
-        import copy
-        p2 = copy.deepcopy(kwargs)
-        p2.pop("make_files")
-        with open("parts/" + id + "/working/working.yaml", "w") as outfile:
-            yaml.dump(p2, outfile, indent=4)
-
+        
         file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
         #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
         for file_type in file_types:
@@ -200,6 +194,12 @@ def add_part(**kwargs):
         kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
 
         
+        import yaml
+        import copy
+        p2 = copy.deepcopy(kwargs)
+        p2.pop("make_files")
+        with open("parts/" + id + "/working/working.yaml", "w") as outfile:
+            yaml.dump(p2, outfile, indent=4)
 
 
     parts[id] = kwargs

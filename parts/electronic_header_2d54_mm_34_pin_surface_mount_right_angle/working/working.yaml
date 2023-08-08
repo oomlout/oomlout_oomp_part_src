@@ -4,6 +4,13 @@ description_extra: surface_mount_right_angle
 description_main: 34_pin
 directory: parts/electronic_header_2d54_mm_34_pin_surface_mount_right_angle
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89034xx_1x34_p2_54mm_horizontal//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89034xx_1x34_p2_54mm_horizontal
+    oomp_key: oomp_kicad_connector_harwin_m20_89034xx_1x34_p2_54mm_horizontal
 id: electronic_header_2d54_mm_34_pin_surface_mount_right_angle
 kicad_reference: J
 manufacturer: ''
@@ -17,4 +24,8 @@ part_number: ''
 short_code: hi134psmra
 short_name: 0.1" 34 Pin Surface Mount Right Angle Header
 size: 2d54_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x34_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x34_pin
+    oomp_key: oomp_kicad_connector_conn_01x34_pin
 type: header

@@ -4,6 +4,10 @@ description_extra: ''
 description_main: tinted
 directory: parts/electronic_led_5_mm_red_tinted
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm
+    oomp_key: oomp_kicad_led_tht_led_d5_00mm
 from_yaml: false
 id: electronic_led_5_mm_red_tinted
 kicad_reference: L
@@ -18,4 +22,8 @@ part_number: ''
 short_code: l5rt
 short_name: 5 Mm Redtinted Led
 size: 5_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
 type: led

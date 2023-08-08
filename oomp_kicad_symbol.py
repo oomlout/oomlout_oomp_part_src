@@ -2,7 +2,7 @@ import oomp
 
 github_symbol_base = "https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols"
 directory_symbol_base = "oomlout_oomp_symbol_bot/symbols"
-directory_symbol_end = "/working/working.kicad_mod"
+directory_symbol_end = "/working/working.kicad_sym"
 
 def get_symbols(**kwargs):
 
@@ -39,7 +39,17 @@ def get_symbols(**kwargs):
                             "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
     matches.append(match)
 
+    ###### resistor
 
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "resistor"
+    match["symbol"] = []
+    symbol_name = f"kicad_device_r"
+    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                            "oomp_key": f"oomp_{symbol_name}",                                 
+                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    matches.append(match)
 
 
 

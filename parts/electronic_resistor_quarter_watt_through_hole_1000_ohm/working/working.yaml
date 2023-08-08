@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_1000_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_quarter_watt_through_hole_1000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 12132587667339ef98566e39de721347
+md5_10: '1213258766'
+md5_5: '12132'
+md5_6: '121325'
+name: Electronic Resistor Quarter Watt Through Hole 1000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1000_ohm
+part_number: ''
+short_code: ro102
+size: quarter_watt_through_hole
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

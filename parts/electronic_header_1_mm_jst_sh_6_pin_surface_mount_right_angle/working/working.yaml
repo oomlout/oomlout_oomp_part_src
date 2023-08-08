@@ -4,6 +4,10 @@ description_extra: surface_mount_right_angle
 description_main: 6_pin
 directory: parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm06b_srss_tb_1x06_1mp_p1_00mm_horizontal//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm06b_srss_tb_1x06_1mp_p1_00mm_horizontal
+    oomp_key: oomp_kicad_connector_jst_jst_sh_sm06b_srss_tb_1x06_1mp_p1_00mm_horizontal
 id: electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
 kicad_reference: J
 manufacturer: ''
@@ -17,4 +21,8 @@ part_number: ''
 short_code: h6psmra
 short_name: Jst Sh 6 Pin Surface Mount Right Angle Header 1 Mm Pitch
 size: 1_mm_jst_sh
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin
+    oomp_key: oomp_kicad_connector_conn_01x06_pin
 type: header

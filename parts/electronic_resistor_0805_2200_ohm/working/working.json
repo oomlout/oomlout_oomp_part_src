@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "0805",
+    "color": "",
+    "description_main": "2200_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_0805_2200_ohm",
+    "oomp_key": "oomp_electronic_resistor_0805_2200_ohm",
+    "directory": "parts/electronic_resistor_0805_2200_ohm",
+    "name": "Electronic Resistor 0805 2200 Ohm",
+    "short_code": "r8o222",
+    "distributors": [],
+    "md5": "c20cc43324d6079bb754f4e66a98df43",
+    "md5_5": "c20cc",
+    "md5_6": "c20cc4",
+    "md5_10": "c20cc43324"
+}

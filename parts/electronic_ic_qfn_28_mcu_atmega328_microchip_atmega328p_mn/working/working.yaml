@@ -1,0 +1,19 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+distributors: []
+id: electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+manufacturer: microchip
+md5: 4e3cebccf7cb76a5984fa97b7a893de9
+md5_10: 4e3cebccf7
+md5_5: 4e3ce
+md5_6: 4e3ceb
+name: Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
+oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+part_number: atmega328p_mn
+short_code: i
+short_name: atmega328 28 pin qfn
+size: qfn_28
+type: ic

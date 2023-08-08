@@ -152,9 +152,7 @@
         }
     },
     "kicad_reference": "U",
-    "notes": [
-        "common cathode (cathode to grid)"
-    ],
+    "notes": [],
     "id": "electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",
     "oomp_key": "oomp_electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",
     "directory": "parts/electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",

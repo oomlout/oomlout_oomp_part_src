@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "0603",
+    "color": "",
+    "description_main": "1000_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_0603_1000_ohm",
+    "oomp_key": "oomp_electronic_resistor_0603_1000_ohm",
+    "directory": "parts/electronic_resistor_0603_1000_ohm",
+    "name": "Electronic Resistor 0603 1000 Ohm",
+    "short_code": "r6o102",
+    "distributors": [],
+    "md5": "01afabf1a1678439fdd5ce5dd9569083",
+    "md5_5": "01afa",
+    "md5_6": "01afab",
+    "md5_10": "01afabf1a1"
+}

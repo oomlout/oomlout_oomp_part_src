@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "0805",
+    "color": "",
+    "description_main": "330_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_0805_330_ohm",
+    "oomp_key": "oomp_electronic_resistor_0805_330_ohm",
+    "directory": "parts/electronic_resistor_0805_330_ohm",
+    "name": "Electronic Resistor 0805 330 Ohm",
+    "short_code": "r8o331",
+    "distributors": [],
+    "md5": "ef20c6de86ae2e9ed674523d5a9c7e77",
+    "md5_5": "ef20c",
+    "md5_6": "ef20c6",
+    "md5_10": "ef20c6de86"
+}

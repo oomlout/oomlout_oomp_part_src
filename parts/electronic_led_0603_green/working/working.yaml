@@ -15,7 +15,11 @@ md5_6: b4e823
 name: Electronic Led 0603 Green
 oomp_key: oomp_electronic_led_0603_green
 part_number: ''
-short_code: l63g
+short_code: l6g
 short_name: 0603 Green Led
 size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
 type: led

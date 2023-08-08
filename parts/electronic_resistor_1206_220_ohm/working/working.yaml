@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 220_ohm
+directory: parts/electronic_resistor_1206_220_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_1206_220_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 459cf37186b49eff5d13533320e573bc
+md5_10: 459cf37186
+md5_5: 459cf
+md5_6: 459cf3
+name: Electronic Resistor 1206 220 Ohm
+oomp_key: oomp_electronic_resistor_1206_220_ohm
+part_number: ''
+short_code: r12o221
+size: '1206'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

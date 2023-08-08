@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "0805",
+    "color": "",
+    "description_main": "10000_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_0805_10000_ohm",
+    "oomp_key": "oomp_electronic_resistor_0805_10000_ohm",
+    "directory": "parts/electronic_resistor_0805_10000_ohm",
+    "name": "Electronic Resistor 0805 10000 Ohm",
+    "short_code": "r8o103",
+    "distributors": [],
+    "md5": "231e3bb5f9ad13dc1bdde838e2850d71",
+    "md5_5": "231e3",
+    "md5_6": "231e3b",
+    "md5_10": "231e3bb5f9"
+}

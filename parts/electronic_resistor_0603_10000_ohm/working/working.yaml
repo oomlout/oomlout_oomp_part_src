@@ -1,0 +1,28 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10000_ohm
+directory: parts/electronic_resistor_0603_10000_ohm
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+from_yaml: false
+id: electronic_resistor_0603_10000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 98b9ca34207fb0534abeb029e2151ce1
+md5_10: 98b9ca3420
+md5_5: 98b9c
+md5_6: 98b9ca
+name: Electronic Resistor 0603 10000 Ohm
+oomp_key: oomp_electronic_resistor_0603_10000_ohm
+part_number: ''
+short_code: r6o103
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

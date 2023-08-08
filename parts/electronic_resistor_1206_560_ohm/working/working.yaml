@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_1206_560_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_1206_560_ohm
+kicad_reference: R
+manufacturer: ''
+md5: c4d11235bc116ccb2b63dea694673a97
+md5_10: c4d11235bc
+md5_5: c4d11
+md5_6: c4d112
+name: Electronic Resistor 1206 560 Ohm
+oomp_key: oomp_electronic_resistor_1206_560_ohm
+part_number: ''
+short_code: r12o561
+size: '1206'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

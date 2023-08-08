@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "1206",
+    "color": "",
+    "description_main": "330_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_1206_330_ohm",
+    "oomp_key": "oomp_electronic_resistor_1206_330_ohm",
+    "directory": "parts/electronic_resistor_1206_330_ohm",
+    "name": "Electronic Resistor 1206 330 Ohm",
+    "short_code": "r12o331",
+    "distributors": [],
+    "md5": "19072055ecd7f86fd8941ae53296c7d0",
+    "md5_5": "19072",
+    "md5_6": "190720",
+    "md5_10": "19072055ec"
+}

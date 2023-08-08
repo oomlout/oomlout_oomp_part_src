@@ -3,11 +3,15 @@ import importlib
 import oomp
 
 part_types = []
-part_types.append("led")
-part_types.append("ic")
-part_types.append("mounting_hole")
-part_types.append("header")
+
 part_types.append("breakout_board")
+part_types.append("header")
+part_types.append("ic")
+part_types.append("led")
+part_types.append("mounting_hole")
+part_types.append("resistor")
+
+
 
 for type in part_types:
     importlib.import_module(f'oomp_create_parts_{type}')

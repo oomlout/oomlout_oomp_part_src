@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 330_ohm
+directory: parts/electronic_resistor_0805_330_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_0805_330_ohm
+kicad_reference: R
+manufacturer: ''
+md5: ef20c6de86ae2e9ed674523d5a9c7e77
+md5_10: ef20c6de86
+md5_5: ef20c
+md5_6: ef20c6
+name: Electronic Resistor 0805 330 Ohm
+oomp_key: oomp_electronic_resistor_0805_330_ohm
+part_number: ''
+short_code: r8o331
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

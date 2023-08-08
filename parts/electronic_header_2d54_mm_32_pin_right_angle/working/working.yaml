@@ -4,6 +4,10 @@ description_extra: right_angle
 description_main: 32_pin
 directory: parts/electronic_header_2d54_mm_32_pin_right_angle
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
 id: electronic_header_2d54_mm_32_pin_right_angle
 kicad_reference: J
 manufacturer: ''
@@ -17,4 +21,8 @@ part_number: ''
 short_code: hi132pra
 short_name: 0.1" 32 Pin Right Angle Header
 size: 2d54_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x32_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x32_pin
+    oomp_key: oomp_kicad_connector_conn_01x32_pin
 type: header

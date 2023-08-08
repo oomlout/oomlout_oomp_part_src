@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "1206",
+    "color": "",
+    "description_main": "220_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_1206_220_ohm",
+    "oomp_key": "oomp_electronic_resistor_1206_220_ohm",
+    "directory": "parts/electronic_resistor_1206_220_ohm",
+    "name": "Electronic Resistor 1206 220 Ohm",
+    "short_code": "r12o221",
+    "distributors": [],
+    "md5": "459cf37186b49eff5d13533320e573bc",
+    "md5_5": "459cf",
+    "md5_6": "459cf3",
+    "md5_10": "459cf37186"
+}

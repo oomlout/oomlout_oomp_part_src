@@ -1,0 +1,23 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+    oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+manufacturer: microchip
+md5: 0ef260de677934fd9e6ad05b3f7553fd
+md5_10: 0ef260de67
+md5_5: 0ef26
+md5_6: 0ef260
+name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Aur
+oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+part_number: atmega328p_aur
+short_code: i
+short_name: atmega328 32 pin tqfp
+size: tqfp_32
+type: ic

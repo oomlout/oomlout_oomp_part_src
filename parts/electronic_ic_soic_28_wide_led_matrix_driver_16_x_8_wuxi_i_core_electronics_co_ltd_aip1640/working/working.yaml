@@ -4,6 +4,10 @@ description_extra: ''
 description_main: led_matrix_driver_16_x_8
 directory: parts/electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm
+    oomp_key: oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm
 id: electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 kicad_reference: U
 manufacturer: wuxi_i_core_electronics_co_ltd
@@ -13,8 +17,7 @@ md5_5: fe0f0
 md5_6: fe0f02
 name: Electronic Ic Soic 28 Wide Led Matrix Driver 16 X 8 Wuxi I Core Electronics
     Co Ltd Aip1640
-notes:
-- common cathode (cathode to grid)
+notes: []
 oomp_key: oomp_electronic_ic_soic_28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 part_number: aip1640
 pins:

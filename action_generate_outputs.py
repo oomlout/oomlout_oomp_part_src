@@ -21,7 +21,7 @@ def main():
             if any(x in filename for x in filter):
                 if "working.yaml" in filename:                    
                     oomp.generate_readme(filename=filename)
-    
+            
     
     
     oomp_kicad.create_footprint_library()

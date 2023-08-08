@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 330_ohm
+directory: parts/electronic_resistor_0402_330_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_0402_330_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 6a15cd4ddfffdcef378baf6bcfac050b
+md5_10: 6a15cd4ddf
+md5_5: 6a15c
+md5_6: 6a15cd
+name: Electronic Resistor 0402 330 Ohm
+oomp_key: oomp_electronic_resistor_0402_330_ohm
+part_number: ''
+short_code: r6o331
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "resistor",
+    "size": "0603",
+    "color": "",
+    "description_main": "560_ohm",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "from_yaml": false,
+    "make_files": true,
+    "kicad_reference": "R",
+    "id": "electronic_resistor_0603_560_ohm",
+    "oomp_key": "oomp_electronic_resistor_0603_560_ohm",
+    "directory": "parts/electronic_resistor_0603_560_ohm",
+    "name": "Electronic Resistor 0603 560 Ohm",
+    "short_code": "r6o561",
+    "distributors": [],
+    "md5": "18768550518624924d81808590b67894",
+    "md5_5": "18768",
+    "md5_6": "187685",
+    "md5_10": "1876855051"
+}

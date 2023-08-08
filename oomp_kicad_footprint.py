@@ -1,5 +1,9 @@
 import oomp
 
+github_footprint_base = "https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss"
+directory_footprint_base = "oomlout_oomp_footprint_bot/footprints"
+directory_footprint_end = "/working/working.kicad_mod"
+
 def get_footprints(**kwargs):
 
     matches = []
@@ -15,12 +19,11 @@ def get_footprints(**kwargs):
         match["type"] = "header"
         match["size"] = "2d54_mm"
         match["description_main"] = f"{pin_count}_pin"
-        match["description_extra"] = ""
         match["footprint"] = []
-        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical",
-                                    "name": f"Connector_PinHeader_2.54mm : PinHeader_1x{pin_s}_P2.54mm_Vertical",
-                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x{pin_s}_P2.54mm_Vertical",
-                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical/"})
+        footprint_name = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical"
+        match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                            "oomp_key": f"oomp_{footprint_name}",                                 
+                            "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
         matches.append(match)   
         #surface mount regular
         match = {}
@@ -29,10 +32,11 @@ def get_footprints(**kwargs):
         match["description_main"] = f"{pin_count}_pin"
         match["description_extra"] = "surface_mount"
         match["footprint"] = []
-        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left",
-                                    "name": f"Connector_PinHeader_2.54mm : PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left",
-                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left",
-                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x{pin_s}_P2.54mm_Vertical_SMD_Pin1Left/"})
+        footprint_name = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical_smd_pin"
+        match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                            "oomp_key": f"oomp_{footprint_name}",                                 
+                            "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+        matches.append(match)  
         #surface mount right angle
         match = {}
         match["type"] = "header"
@@ -40,10 +44,10 @@ def get_footprints(**kwargs):
         match["description_main"] = f"{pin_count}_pin"
         match["description_extra"] = "surface_mount_right_angle"
         match["footprint"] = []
-        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal",
-                                    "name": f"Connector_Harwin : Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal",
-                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal",
-                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-890{pin_s}xx_1x{pin_s}_P2.54mm_Horizontal/"})
+        footprint_name = f"kicad_connector_harwin_m20_890{pin_s}xx_1x{pin_s}_p2_54mm_horizontal"
+        match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
         matches.append(match) 
         #jst sh
         match = {}
@@ -52,10 +56,10 @@ def get_footprints(**kwargs):
         match["description_main"] = f"{pin_count}_pin"
         match["description_extra"] = "surface_mount_right_angle"
         match["footprint"] = []
-        match["footprint"].append({"link": f"https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal",
-                                    "name": f"Connector_JST : JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal",
-                                    "id":f"FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal",
-                                    "directory": f"FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM{pin_s}B-SRSS-TB_1x{pin_s}-1MP_P1.00mm_Horizontal/"})
+        footprint_name = f"kicad_connector_jst_jst_sh_sm{pin_s}b_srss_tb_1x{pin_s}_1mp_p1_00mm_horizontal"
+        match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
         matches.append(match) 
 
     ###### ic
@@ -63,11 +67,67 @@ def get_footprints(**kwargs):
     match = {}
     match["size"] = "soic_28_wide"
     match["footprint"] = []
-    match["footprint"].append({"link": "https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-28W_7.5x17.9mm_P1.27mm",
-                                 "name": "SOIC-28W_7.5x17.9mm_P1.27mm",
-                                 "id":"FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-28W_7.5x17.9mm_P1.27mm",
-                                 "directory": "FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-28W_7.5x17.9mm_P1.27mm"})
-    matches.append(match)    
+    footprint_name = f"kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match)  
+
+    #for pins 1-40
+    ###### is dip
+    for pin_count in range(2, 40, 2):
+        #regular pin through hole
+        pin_s = str(pin_count).zfill(2)
+
+        match = {}
+        match["size"] = f"dip_{pin_s}"
+        match["footprint"] = []
+        footprint_name = f"kicad_package_dip_dip_{pin_s}_w7_62mm"
+        match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                            "oomp_key": f"oomp_{footprint_name}",                                 
+                            "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+        matches.append(match)  
+
+    ###### ic mlf (also called vqfn by microchip)
+    match = {}
+    match["size"] = "mlf_32"
+    match["footprint"] = []
+    footprint_name = f"kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match) 
+    
+    ###### ic tqfp #microchip calls the pitch 1mm kicad 0.8mm 
+    match = {}
+    match["size"] = "tqfp_32"
+    match["footprint"] = []
+    footprint_name = f"kicad_package_qfp_tqfp_32_7x7mm_p0_8mm"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match) 
+    ###### ic qfn
+    match = {}
+    match["size"] = "qfn_32"
+    match["footprint"] = []
+    footprint_name = f"kicad_package_dfn_qfn_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match) 
+    
+    ###### ic vqfn
+    match = {}
+    match["size"] = "vqfn_28"
+    match["footprint"] = []
+    footprint_name = f"kicad_package_dfn_qfn_vqfn_28_1ep_4_4mm_p0_45mm_ep2_4x2_4mm"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match)  
+
+
 
     ###### led
 
@@ -76,14 +136,24 @@ def get_footprints(**kwargs):
     match["type"] = "led"
     match["size"] = "5_mm"
     match["footprint"] = []
-    match["footprint"].append({"link": "https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm/", 
-                               "name": "LED_D5.0mm", 
-                               "id":"FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm",
-                               "directory": "FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm/"})
-    matches.append(match)
+    footprint_name = f"kicad_led_tht_led_d5_00mm"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match)  
 
 
-
+    ###### resistor
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "resistor"
+    match["size"] = "0603"
+    match["footprint"] = []
+    footprint_name = f"kicad_resistor_smd_r_0603_1608metric"
+    match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                        "oomp_key": f"oomp_{footprint_name}",                                 
+                        "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+    matches.append(match)   
 
 
 

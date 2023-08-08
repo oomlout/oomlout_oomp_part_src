@@ -1,0 +1,24 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2200_ohm
+directory: parts/electronic_resistor_0805_2200_ohm
+distributors: []
+from_yaml: false
+id: electronic_resistor_0805_2200_ohm
+kicad_reference: R
+manufacturer: ''
+md5: c20cc43324d6079bb754f4e66a98df43
+md5_10: c20cc43324
+md5_5: c20cc
+md5_6: c20cc4
+name: Electronic Resistor 0805 2200 Ohm
+oomp_key: oomp_electronic_resistor_0805_2200_ohm
+part_number: ''
+short_code: r8o222
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
