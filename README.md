@@ -46,3 +46,5 @@ This is composed of up to eight parts. Not all parts are neccesary and are in fu
 ## actions
 
 * action_setup.py -- gets everything setup
+* action_copy_src_to_directories.py -- copy the details from the src directory to the various directories
+* action_generate_outputs -- generates symbol library and footprint library and readmes

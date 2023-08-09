@@ -6,7 +6,7 @@ import oomp_kicad
 def main():
 
     oomp.load_parts(from_yaml=True)   
-    
+    """"
     for root, dirs, files in os.walk("parts"):
         #go through all files
         for file in files:
@@ -21,11 +21,11 @@ def main():
             if any(x in filename for x in filter):
                 if "working.yaml" in filename:                    
                     oomp.generate_readme(filename=filename)
-
+        """
     
     
-    #oomp_kicad.create_footprint_library()
-    oomp_kicad.create_symbol_library()
+    oomp_kicad.create_footprint_library()
+    #oomp_kicad.create_symbol_library()
 
 
 
