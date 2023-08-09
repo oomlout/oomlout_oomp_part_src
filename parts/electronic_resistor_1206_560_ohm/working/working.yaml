@@ -4,6 +4,7 @@ description_extra: ''
 description_main: 560_ohm
 directory: parts/electronic_resistor_1206_560_ohm
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_resistor_1206_560_ohm
 kicad_reference: R

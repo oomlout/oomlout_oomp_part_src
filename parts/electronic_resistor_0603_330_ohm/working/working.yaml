@@ -4,6 +4,7 @@ description_extra: ''
 description_main: 330_ohm
 directory: parts/electronic_resistor_0603_330_ohm
 distributors: []
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric

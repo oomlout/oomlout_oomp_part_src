@@ -4,6 +4,7 @@ description_extra: ''
 description_main: ''
 directory: parts/electronic_led_5_mm_red
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_led_5_mm_red
 kicad_reference: L

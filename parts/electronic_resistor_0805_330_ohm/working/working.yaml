@@ -4,6 +4,7 @@ description_extra: ''
 description_main: 330_ohm
 directory: parts/electronic_resistor_0805_330_ohm
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_resistor_0805_330_ohm
 kicad_reference: R

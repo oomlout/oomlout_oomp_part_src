@@ -30,5 +30,10 @@ oomp key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 | 7 manufacturer | microchip | 
 | 8 part number | atmega328p_mn | 
 ### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_mcu_microchip_atmega_atmega328_p | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym | 
 ### Footprint  
 ### Images  

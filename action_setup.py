@@ -5,7 +5,9 @@ import oomp
 
 def main():
     oomp.clone_data_files()
-    oomp.load_parts(from_yaml=False, make_files=True)
+    filter = "resistor"
+    filter = ""
+    oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
 
 

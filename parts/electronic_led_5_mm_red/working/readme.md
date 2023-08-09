@@ -36,13 +36,4 @@ oomp key: oomp_electronic_led_5_mm_red
 | link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led | 
 | directory | oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym | 
 ### Footprint  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_led_tht_led_d5_00mm | 
-| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_00mm | 
-| directory | oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_00mm//working/working.kicad_mod | 
 ### Images  
-  
-[![working.jpg](working_140.jpg)](working.jpg)  
-  
-[![working_reference.jpg](working_reference_140.jpg)](working_reference.jpg)  

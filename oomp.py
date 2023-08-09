@@ -39,8 +39,12 @@ def clone_data_files():
 
 
 
+
 def load_parts(**kwargs):
+    global add_part_filter
     from_yaml = kwargs.get("from_yaml", True)
+    filter = kwargs.get("filter", "")
+    add_part_filter = filter
     if from_yaml:
         oomp_create_parts.load_parts_from_yaml(**kwargs)
     else:
@@ -106,7 +110,10 @@ def add_parts(parts,**kwargs):
             add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
         
 
+add_part_filter = ""
+
 def add_part(**kwargs):
+    global add_part_filter
     make_files = kwargs.get("make_files", True)
 
     #pop out the not_main_elements from kwargs
@@ -117,93 +124,95 @@ def add_part(**kwargs):
 
     ## get id
     id = get_id(**kwargs)
-    
-    
-    
-    ## add part to dict
-    print("    adding part " + id)
-    
-    #add id as a keyed item to kwargs
-    kwargs["id"] = id
-    kwargs["oomp_key"] = f'oomp_{id}'
-    
-    #add the directory
-    kwargs["directory"] = f'parts/{id}'
-
-    #add name, the name is the id with proper capitalization and _ replaced with ' '
-    kwargs["name"] = id.replace("_", " ").title()
-    
-    #add short code from a get_short_code function
-    kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
-    parts_short_code[kwargs["short_code"]] = kwargs["id"]
-    
-    # add short name from a get_short_name function
-    short_name = oomp_short_name.get_short_name(**kwargs)
-    if short_name != "":
-        kwargs["short_name"] = short_name
-
-
-    #add distributors from a function get_distributors in oomp_distributors.py
-    
-    kwargs = oomp_distributors.get_distributors(**kwargs)
-
-
-
-    #add a md5 hash of the id as a keyed item to kwargs
-    import hashlib
-    kwargs["md5"] = hashlib.md5(id.encode()).hexdigest()
-    #trim md5 to 6 and add it as md5_6
-    kwargs["md5_5"] = kwargs["md5"][0:5]
-    #add to md5_5 dict
-    parts_md5_5[kwargs["md5_5"]] = id
-    kwargs["md5_6"] = kwargs["md5"][0:6]    
-    parts_md5_6[kwargs["md5_6"]] = id
-    kwargs["md5_10"] = kwargs["md5"][0:10]
-    parts_md5_10[kwargs["md5_10"]] = id
-    
-
-    ## print part nicely indented by six spaces
-    ### print("      " + str(kwargs).replace(", ", ",\n      "))
-
-    if make_files:
-        ######### file stuff
+    if add_part_filter in id:
         
-        ## make a directory in /parts for the part the name is its id
-        import os
-        if not os.path.exists("parts/" + id + "/working"):
-            os.makedirs("parts/" + id + "/working")
         
-        ## write the part working in json to the directory name the file working.json
-        import json
-        with open("parts/" + id + "/working/working.json", "w") as outfile:
-            json.dump(kwargs, outfile, indent=4)
-        ## write the part working in yaml to the directory name the file working.json
         
-        file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
-        #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
-        for file_type in file_types:
-            import os.path
-            if os.path.isfile("src/" + id + "_" + file_type):
-                import shutil
-                shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/" + file_type)
+        ## add part to dict
+        print("    adding part " + id)
+        
+        #add id as a keyed item to kwargs
+        kwargs["id"] = id
+        kwargs["oomp_key"] = f'oomp_{id}'
+        
+        #add the directory
+        kwargs["directory"] = f'parts/{id}'
 
-    
+        #add name, the name is the id with proper capitalization and _ replaced with ' '
+        kwargs["name"] = id.replace("_", " ").title()
+        
+        #add short code from a get_short_code function
+        kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
+        parts_short_code[kwargs["short_code"]] = kwargs["id"]
+        
+        # add short name from a get_short_name function
+        short_name = oomp_short_name.get_short_name(**kwargs)
+        if short_name != "":
+            kwargs["short_name"] = short_name
 
-        ### eda stuff
-        kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
-        kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
+
+        #add distributors from a function get_distributors in oomp_distributors.py
+        
+        kwargs = oomp_distributors.get_distributors(**kwargs)
+
+
+
+        #add a md5 hash of the id as a keyed item to kwargs
+        import hashlib
+        kwargs["md5"] = hashlib.md5(id.encode()).hexdigest()
+        #trim md5 to 6 and add it as md5_6
+        kwargs["md5_5"] = kwargs["md5"][0:5]
+        #add to md5_5 dict
+        parts_md5_5[kwargs["md5_5"]] = id
+        kwargs["md5_6"] = kwargs["md5"][0:6]    
+        parts_md5_6[kwargs["md5_6"]] = id
+        kwargs["md5_10"] = kwargs["md5"][0:10]
+        parts_md5_10[kwargs["md5_10"]] = id
+        
+
+        ## print part nicely indented by six spaces
+        ### print("      " + str(kwargs).replace(", ", ",\n      "))
+
+        if make_files:
+            ######### file stuff
+            
+            ## make a directory in /parts for the part the name is its id
+            import os
+            if not os.path.exists("parts/" + id + "/working"):
+                os.makedirs("parts/" + id + "/working")
+            
+            ## write the part working in json to the directory name the file working.json
+            import json
+            with open("parts/" + id + "/working/working.json", "w") as outfile:
+                json.dump(kwargs, outfile, indent=4)
+            ## write the part working in yaml to the directory name the file working.json
+            
+            file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
+            #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
+            for file_type in file_types:
+                import os.path
+                if os.path.isfile("src/" + id + "_" + file_type):
+                    import shutil
+                    shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/" + file_type)
 
         
-        import yaml
-        import copy
-        p2 = copy.deepcopy(kwargs)
-        p2.pop("make_files")
-        with open("parts/" + id + "/working/working.yaml", "w") as outfile:
-            yaml.dump(p2, outfile, indent=4)
+
+            ### eda stuff
+            kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
+            kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
+
+            
+            import yaml
+            import copy
+            p2 = copy.deepcopy(kwargs)
+            p2.pop("make_files")
+            with open("parts/" + id + "/working/working.yaml", "w") as outfile:
+                yaml.dump(p2, outfile, indent=4)
 
 
-    parts[id] = kwargs
-
+        parts[id] = kwargs
+    else:
+        print("    skipping part " + id)
 
 
 def get_id(**kwargs):

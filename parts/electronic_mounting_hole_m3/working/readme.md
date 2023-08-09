@@ -32,13 +32,8 @@ oomp key: oomp_electronic_mounting_hole_m3
 ### Symbol  
 | name | value | 
 | --- | --- | 
-| oomp_key | none | 
-| link | https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole | 
-| directory | SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole/ | 
+| oomp_key | oomp_kicad_mechanical_mountinghole | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym | 
 ### Footprint  
-| name | value | 
-| --- | --- | 
-| oomp_key | none | 
-| link | https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3 | 
-| directory | FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3/ | 
 ### Images  

@@ -9,6 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
+    "filter": "",
     "kicad_reference": "L",
     "id": "electronic_led_0603_green",
     "oomp_key": "oomp_electronic_led_0603_green",

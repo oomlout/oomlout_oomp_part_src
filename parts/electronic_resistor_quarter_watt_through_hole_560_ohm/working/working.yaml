@@ -4,6 +4,7 @@ description_extra: ''
 description_main: 560_ohm
 directory: parts/electronic_resistor_quarter_watt_through_hole_560_ohm
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_resistor_quarter_watt_through_hole_560_ohm
 kicad_reference: R

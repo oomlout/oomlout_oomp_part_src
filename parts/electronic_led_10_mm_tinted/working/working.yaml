@@ -4,6 +4,7 @@ description_extra: ''
 description_main: tinted
 directory: parts/electronic_led_10_mm_tinted
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_led_10_mm_tinted
 kicad_reference: L

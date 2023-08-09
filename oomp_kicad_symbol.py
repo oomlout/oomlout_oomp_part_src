@@ -20,29 +20,17 @@ def get_symbols(**kwargs):
         match["classification"] = "electronic"
         match["type"] = "header"
         match["description_main"] = f"{pin_count}_pin"
-        match["symbol"] = []
-        symbol_name = f"kicad_connector_conn_01x{pin_s}_pin"
-        match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
-                                "oomp_key": f"oomp_{symbol_name}",                                 
-                                "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+        match["symbol_name"]  = f"kicad_connector_conn_01x{pin_s}_pin"
         matches.append(match)
 
     ###### ic
     match = {}
     match["part_number"] = "atmega328p_pu"
-    match["symbol"] = []
-    symbol_name = f"kicad_mcu_microchip_atmega_atmega328p_p"
-    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
-                            "oomp_key": f"oomp_{symbol_name}",                                 
-                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328p_p"
     matches.append(match)
     match = {}
     match["part_number"] = "atmega328p_mn"
-    match["symbol"] = []
-    symbol_name = f"kicad_mcu_microchip_atmega_atmega328_p"
-    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
-                            "oomp_key": f"oomp_{symbol_name}",                                 
-                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_p"
     matches.append(match)
 
 
@@ -51,31 +39,31 @@ def get_symbols(**kwargs):
     match = {}
     match["classification"] = "electronic"
     match["type"] = "led"
-    match["symbol"] = []
-    symbol_name = f"kicad_device_led"
-    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
-                            "oomp_key": f"oomp_{symbol_name}",                                 
-                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    match["symbol_name"] = f"kicad_device_led"
     matches.append(match)
 
     ###### resistor
 
     match = {}
-    match["classification"] = "electronic"
     match["type"] = "resistor"
-    match["symbol"] = []
-    symbol_name = f"kicad_device_r"
-    match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
-                            "oomp_key": f"oomp_{symbol_name}",                                 
-                            "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+    match["symbol_name"] = f"kicad_device_r"
     matches.append(match)
-
 
 
 
     symbols = []
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to symbols
     for match in matches:
+        if "symbol_name" in match:
+            symbol_name = match["symbol_name"]
+            match["symbol"] = []        
+            match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                                "oomp_key": f"oomp_{symbol_name}",                                 
+                                "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+            #remove symbol_name
+            del match["symbol_name"]
+        else:
+            pass
         match_count = 0
         # get a list with oomp.names_of_main_elements and "id"
         elements_to_check = oomp.names_of_main_elements.copy()
@@ -89,6 +77,8 @@ def get_symbols(**kwargs):
                 #value not in match check
         if match_count == len(match)-1:
             symbols.extend(match["symbol"])
+        #if match.get("type","")   == "resistor":
+        #    pass
 
     if len(symbols) > 0:
         kwargs["symbol"] = symbols

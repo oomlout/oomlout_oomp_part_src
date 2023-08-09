@@ -7,8 +7,8 @@ from kiutils.symbol import SymbolLib, Symbol
 
 def create_footprint_library():
     print("creating footprint library")
-    footprint_directory = rf'kicad\footprints\oomlout_oomp_footprints.pretty'
-    oomlout_v2_eda_base = rf'C:\GH\oomlout_OOMP_V2\oomlout_OOMP_eda_V2'
+    footprint_directory = rf'kicad\footprints'
+    src_footprints_base = rf'tmp'
     
     # go thrpough each part in oomp.parts
     for part in oomp.parts:
@@ -25,7 +25,11 @@ def create_footprint_library():
                 footprint_name = f'{part["short_code"]}_{part["md5_6"]}_{part["id"]}'
                 footprint_filename = f'{footprint_directory}\{footprint_name}{extra_string}.kicad_mod'
                 directory = footprint["directory"]
-                filename = rf'{oomlout_v2_eda_base}\{directory}\footprint.kicad_mod'
+                filename = rf'{src_footprints_base}\{directory}'
+                #convert \\ to /
+                filename = filename.replace("\\", "/")
+                #rmove doubles
+                filename = filename.replace("//", "/")
                 #if the footprint file exists
                 if os.path.isfile(filename):
                     #create a footprint object
@@ -115,7 +119,10 @@ def create_symbol_library():
                 if property.key == "Reference":
                     pass
                     property.value = part.get("kicad_reference", "J")
+            print(f'adding symbol {symbol_output_name} to library')
             symbol_library.symbols.append(symbol)
+        else:
+            print(f'no symbol for {symbol_output_name}')
     #if symbol_file exists delete it
     if os.path.isfile(symbol_file):
         os.remove(symbol_file)

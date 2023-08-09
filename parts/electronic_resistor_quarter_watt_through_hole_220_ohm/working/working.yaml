@@ -4,6 +4,7 @@ description_extra: ''
 description_main: 220_ohm
 directory: parts/electronic_resistor_quarter_watt_through_hole_220_ohm
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_resistor_quarter_watt_through_hole_220_ohm
 kicad_reference: R

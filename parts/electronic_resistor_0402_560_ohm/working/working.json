@@ -9,6 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
+    "filter": "",
     "kicad_reference": "R",
     "id": "electronic_resistor_0402_560_ohm",
     "oomp_key": "oomp_electronic_resistor_0402_560_ohm",

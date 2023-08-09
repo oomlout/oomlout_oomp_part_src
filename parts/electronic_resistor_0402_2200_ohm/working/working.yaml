@@ -4,6 +4,7 @@ description_extra: ''
 description_main: 2200_ohm
 directory: parts/electronic_resistor_0402_2200_ohm
 distributors: []
+filter: ''
 from_yaml: false
 id: electronic_resistor_0402_2200_ohm
 kicad_reference: R
