@@ -7,7 +7,10 @@ from kiutils.symbol import SymbolLib, Symbol
 
 def create_footprint_library():
     print("creating footprint library")
-    footprint_directory = rf'kicad\footprints'
+    footprint_directory = rf'kicad\footprints\oomlout_oomp_kicad_footprints.pretty'
+    #make if it doesn't exist
+    if not os.path.exists(footprint_directory):
+        os.makedirs(footprint_directory)
     src_footprints_base = rf'tmp'
     
     # go thrpough each part in oomp.parts
