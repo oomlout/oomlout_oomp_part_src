@@ -9,7 +9,7 @@ def create_footprint_library():
     print("creating footprint library")
     #footprint_directory = rf'kicad\footprints\oomlout_oomp_kicad_footprints.pretty'
     #make if it doesn't exist
-    footprint_directory = "c:/gh/oomlout_oomp_parts_kicad_footprints/oomlout_oomp_parts_footprints.pretty"
+    footprint_directory = "c:/gh/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty"
     if not os.path.exists(footprint_directory):
         os.makedirs(footprint_directory)
     src_footprints_base = rf'tmp'
@@ -50,7 +50,7 @@ def create_symbol_library():
     print("creating symbol library")
     symbol_file_source = rf'templates\template_oomlout_oomp_kicad_symbols.kicad_sym'
     #symbol_file =  rf'kicad\symbols\oomlout_oomp_kicad_symbols.kicad_sym' 
-    symbol_file = "c:/gh/oomlout_oomp_parts_kicad_symbols/oomlout_oomp_parts_symbols.kicad_sym"
+    symbol_file = "c:/gh/oomlout_oomp_part_kicad_symbols/oomlout_oomp_part_symbols.kicad_sym"
     oomlout_oomp_symbol_bot = rf'tmp/oomlout_oomp_symbol_bot/symbols'
     symbol_library = SymbolLib.from_file(symbol_file_source)
     for part_id in oomp.parts:

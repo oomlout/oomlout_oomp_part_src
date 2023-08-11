@@ -18,17 +18,16 @@ def main():
             filter = ["omerk"]
             filter = [""]
             #filter = ["microsd_yamaichi_pjs_vert"]
-            #if any of filter is in filename
-            if any(x in filename for x in filter):
+             if any(x in filename for x in filter):
                 if "working.yaml" in filename:                    
                     oomp.generate_readme(filename=filename)
         """
     
     
     oomp_kicad.create_footprint_library()
-    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_parts_kicad_footprints")
+    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_footprints")
     oomp_kicad.create_symbol_library()
-    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_parts_kicad_symbols")
+    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_symbols")
 
 
 
