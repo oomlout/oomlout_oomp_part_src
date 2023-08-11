@@ -26,7 +26,7 @@ def create_footprint_library():
                 if extra != 0:
                     extra_string = f'_{str(extra)}'
                 #make footprint_name
-                footprint_name = f'{part["short_code"]}_{part["id"]}_{part["md5_6"]}'
+                footprint_name = f'{part["short_code"]}_{part["id"]}'
                 footprint_filename = f'{footprint_directory}\{footprint_name}{extra_string}.kicad_mod'
                 directory = footprint["directory"]
                 filename = rf'{src_footprints_base}\{directory}'
@@ -55,7 +55,7 @@ def create_symbol_library():
     symbol_library = SymbolLib.from_file(symbol_file_source)
     for part_id in oomp.parts:
         part = oomp.parts[part_id]  
-        symbol_output_name = f'{part["short_code"]}_{part["id"]}_{part["md5_6"]}'
+        symbol_output_name = f'{part["short_code"]}_{part["id"]}'
         
         symbol = None
         if "symbol" in part:
