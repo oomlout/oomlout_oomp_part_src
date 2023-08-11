@@ -1,6 +1,7 @@
 import oomp
 import os
 import oomp_kicad
+import oom_kicad
 
 
 def main():
@@ -25,7 +26,10 @@ def main():
     
     
     oomp_kicad.create_footprint_library()
-    #oomp_kicad.create_symbol_library()
+    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_parts_kicad_footprints")
+    oomp_kicad.create_symbol_library()
+    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_parts_kicad_symbols")
+
 
 
 
