@@ -50,7 +50,7 @@ def create_symbol_library():
     print("creating symbol library")
     symbol_file_source = rf'templates\template_oomlout_oomp_kicad_symbols.kicad_sym'
     #symbol_file =  rf'kicad\symbols\oomlout_oomp_kicad_symbols.kicad_sym' 
-    symbol_file = "c:/gh/oomlout_oomp_parts_kicad_symbolss/oomlout_oomp_parts_symbols"
+    symbol_file = "c:/gh/oomlout_oomp_parts_kicad_symbols/oomlout_oomp_parts_symbols.kicad_sym"
     oomlout_oomp_symbol_bot = rf'tmp/oomlout_oomp_symbol_bot/symbols'
     symbol_library = SymbolLib.from_file(symbol_file_source)
     for part_id in oomp.parts:
