@@ -4,6 +4,10 @@ description_extra: shennie
 description_main: atmega328
 directory: parts/electronic_breakout_board_mcu_atmega328_shennie
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes
+    oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
 id: electronic_breakout_board_mcu_atmega328_shennie
 kicad_reference: U
 manufacturer: ''
@@ -139,4 +143,8 @@ pins:
 short_code: bbat328
 short_name: ''
 size: ''
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_module_arduino_nano_v2_x//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x
+    oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
 type: breakout_board

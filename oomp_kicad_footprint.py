@@ -10,6 +10,13 @@ def get_footprints(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
+    ###### breakout_boards
+    match = {}
+    match["description_main"] = "atmega328"
+    match["description_extra"] = "shennie"
+    match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
+    matches.append(match)
+
     ###### header
     #for pins 1-40
     for pin_count in range(1, 41):

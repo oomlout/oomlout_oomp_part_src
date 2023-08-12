@@ -10,6 +10,12 @@ def get_symbols(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
+    ###### breakout_boards
+    match = {}
+    match["description_main"] = "atmega328"
+    match["description_extra"] = "shennie"
+    match["symbol_name"] = f"kicad_mcu_module_arduino_nano_v2_x"
+    matches.append(match)
 
     ###### header
     
