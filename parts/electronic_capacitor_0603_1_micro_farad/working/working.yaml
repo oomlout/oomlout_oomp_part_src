@@ -5,6 +5,10 @@ description_main: 1_micro_farad
 directory: parts/electronic_capacitor_0603_1_micro_farad
 distributors: []
 filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
+    oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
 from_yaml: false
 id: electronic_capacitor_0603_1_micro_farad
 kicad_reference: C

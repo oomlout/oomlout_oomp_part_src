@@ -16,6 +16,25 @@ def get_footprints(**kwargs):
     match["description_extra"] = "shennie"
     match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
     matches.append(match)
+    
+    ###### capacitor
+    match = {}
+    match["type"] = "capacitor"
+    match["size"] = "3216_avx_a"
+    match["footprint_name"] = "kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a"
+    matches.append(match)
+
+    match = {}
+    match["type"] = "capacitor"
+    match["size"] = "0603"
+    match["footprint_name"] = "kicad_capacitor_smd_c_0603_1608metric"
+    matches.append(match)
+    
+    match = {}
+    match["type"] = "capacitor"
+    match["size"] = "0402"
+    match["footprint_name"] = "kicad_capacitor_smd_c_0402_1005metric"
+    matches.append(match)
 
     ###### header
     #for pins 1-40
@@ -174,9 +193,6 @@ def get_footprints(**kwargs):
 
 
     ###### transistor and pmic sizes
-    match["size"] = "sot_223"
-    match["footprint_name"] = f"kicad_package_to_sot_smd_sot_223"
-    matches.append(match)  
     
     match["size"] = "sot_223"
     match["footprint_name"] = f"kicad_package_to_sot_smd_to_252_3_tabpin2"

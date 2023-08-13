@@ -5,6 +5,10 @@ description_main: 10_nano_farad
 directory: parts/electronic_capacitor_0402_10_nano_farad
 distributors: []
 filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric
+    oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric
 from_yaml: false
 id: electronic_capacitor_0402_10_nano_farad
 kicad_reference: C
