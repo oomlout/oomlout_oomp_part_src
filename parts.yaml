@@ -9579,10 +9579,6 @@ electronic_pmic_sot_223_linear_1117_1_5v:
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_1_5v
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
-        oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_1_5v
     make_files: true
     manufacturer: ''
@@ -9608,10 +9604,6 @@ electronic_pmic_sot_223_linear_1117_1_8v:
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_1_8v
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
-        oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_1_8v
     make_files: true
     manufacturer: ''
@@ -9637,10 +9629,6 @@ electronic_pmic_sot_223_linear_1117_2_5v:
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_2_5v
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
-        oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_2_5v
     make_files: true
     manufacturer: ''
@@ -9666,10 +9654,6 @@ electronic_pmic_sot_223_linear_1117_3_3v:
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_3_3v
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
-        oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_3_3v
     make_files: true
     manufacturer: ''
@@ -9695,10 +9679,6 @@ electronic_pmic_sot_223_linear_1117_5v:
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_5v
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
-        oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_5v
     make_files: true
     manufacturer: ''
@@ -9724,10 +9704,6 @@ electronic_pmic_sot_223_linear_1117_adj:
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_adj
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
-        oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_adj
     make_files: true
     manufacturer: ''
@@ -10474,10 +10450,6 @@ electronic_resistor_quarter_watt_through_hole_10000_ohm:
     directory: parts/electronic_resistor_quarter_watt_through_hole_10000_ohm
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
-        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
     from_yaml: false
     id: electronic_resistor_quarter_watt_through_hole_10000_ohm
     kicad_reference: R
@@ -10505,10 +10477,6 @@ electronic_resistor_quarter_watt_through_hole_1000_ohm:
     directory: parts/electronic_resistor_quarter_watt_through_hole_1000_ohm
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
-        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
     from_yaml: false
     id: electronic_resistor_quarter_watt_through_hole_1000_ohm
     kicad_reference: R
@@ -10536,10 +10504,6 @@ electronic_resistor_quarter_watt_through_hole_2200_ohm:
     directory: parts/electronic_resistor_quarter_watt_through_hole_2200_ohm
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
-        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
     from_yaml: false
     id: electronic_resistor_quarter_watt_through_hole_2200_ohm
     kicad_reference: R
@@ -10567,10 +10531,6 @@ electronic_resistor_quarter_watt_through_hole_220_ohm:
     directory: parts/electronic_resistor_quarter_watt_through_hole_220_ohm
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
-        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
     from_yaml: false
     id: electronic_resistor_quarter_watt_through_hole_220_ohm
     kicad_reference: R
@@ -10598,10 +10558,6 @@ electronic_resistor_quarter_watt_through_hole_330_ohm:
     directory: parts/electronic_resistor_quarter_watt_through_hole_330_ohm
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
-        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
     from_yaml: false
     id: electronic_resistor_quarter_watt_through_hole_330_ohm
     kicad_reference: R
@@ -10629,10 +10585,6 @@ electronic_resistor_quarter_watt_through_hole_560_ohm:
     directory: parts/electronic_resistor_quarter_watt_through_hole_560_ohm
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
-        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
     from_yaml: false
     id: electronic_resistor_quarter_watt_through_hole_560_ohm
     kicad_reference: R
@@ -10659,10 +10611,6 @@ electronic_socket_usb_mini_surface_mount_only:
     description_main: surface_mount_only
     directory: parts/electronic_socket_usb_mini_surface_mount_only
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
-        oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
     id: electronic_socket_usb_mini_surface_mount_only
     make_files: true
     manufacturer: ''

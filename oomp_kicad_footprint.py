@@ -185,7 +185,6 @@ def get_footprints(**kwargs):
        
 
     ###### socket    
-    match = {}
     match["type"] = "socket"
     match["size"] = "usb_mini"
     match["description_main"] = "surface_mount_only"
@@ -194,10 +193,10 @@ def get_footprints(**kwargs):
 
 
     ###### transistor and pmic sizes
-    match = {}
     match["size"] = "sot_223"
-    match["footprint_name"] = f"kicad_package_to_sot_smd_to_252_3_tabpin2"
+    match["footprint_name"] = f"kicad_package_to_sot_smd_sot_223"
     matches.append(match)  
+    
 
 
 
