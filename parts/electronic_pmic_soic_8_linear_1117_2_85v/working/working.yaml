@@ -1,0 +1,19 @@
+classification: electronic
+color: linear
+description_extra: 2_85v
+description_main: '1117'
+directory: parts/electronic_pmic_soic_8_linear_1117_2_85v
+distributors: []
+id: electronic_pmic_soic_8_linear_1117_2_85v
+manufacturer: ''
+md5: 911a7f429b54f6b9bbc2d0c2228c9936
+md5_10: 911a7f429b
+md5_5: 911a7
+md5_6: 911a7f
+name: Electronic Pmic Soic 8 Linear 1117 2 85V
+oomp_key: oomp_electronic_pmic_soic_8_linear_1117_2_85v
+part_number: ''
+short_code: so82d85v
+short_name: ''
+size: soic_8
+type: pmic

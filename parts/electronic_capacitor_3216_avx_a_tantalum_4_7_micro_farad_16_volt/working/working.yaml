@@ -1,0 +1,25 @@
+classification: electronic
+color: tantalum
+description_extra: 16_volt
+description_main: 4_7_micro_farad
+directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+kicad_reference: C
+manufacturer: ''
+md5: 951eebab538d3a391eb9ef33560a6b6b
+md5_10: 951eebab53
+md5_5: 951ee
+md5_6: 951eeb
+name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
+oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+part_number: ''
+short_code: cavxat
+size: 3216_avx_a
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
+type: capacitor

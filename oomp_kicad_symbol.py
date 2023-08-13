@@ -17,6 +17,32 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_mcu_module_arduino_nano_v2_x"
     matches.append(match)
 
+    ###### button
+    match = {}
+    match["type"] = "button"
+    match["symbol_name"] = f"kicad_switch_sw_push"
+    matches.append(match)
+
+    ###### capacitor
+    match = {}
+    match["type"] = "capacitor"
+    match["symbol_name"] = f"kicad_device_c"
+    matches.append(match)
+
+    ###### crystal
+    match = {}
+    match["type"] = "crystal"
+    match["color"] = ["2_pin"]
+    match["symbol_name"] = f"kicad_device_crystal"
+    matches.append(match)
+    
+    match = {}
+    match["type"] = "crystal"
+    match["color"] = ["3_pin_ground_pin_2"]
+    match["symbol_name"] = f"kicad_device_crystal_gnd2"
+    matches.append(match)
+
+
     ###### header
     
     # for pin 1-40
@@ -38,6 +64,24 @@ def get_symbols(**kwargs):
     match["part_number"] = "atmega328p_mn"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_p"
     matches.append(match)
+    match = {}
+    match["part_number"] = "atmega328p_mmhr"
+    match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_mm"
+    matches.append(match)
+    match = {}
+    match["part_number"] = "atmega328p_aur"
+    match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_a"
+    matches.append(match)
+    match = {}
+    match["part_number"] = "atmega328p_mur"
+    match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_m"
+    matches.append(match)
+    
+    match = {}
+    match["part_number"] = "ch340c"
+    match["symbol_name"] = f"kicad_interface_usb_ch340c"
+    matches.append(match)
+    
 
 
     ###### led
@@ -48,18 +92,46 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_device_led"
     matches.append(match)
 
+    ###### pmic
+    
+    voltage_pairs = []
+    voltage_pairs.append(["1_5v","15"])
+    voltage_pairs.append(["1_8v","18"])
+    voltage_pairs.append(["2_5v","25"])
+    voltage_pairs.append(["3_3v","33"])
+    voltage_pairs.append(["5v","50"])
+    voltage_pairs.append(["adj","adj"])
+    for pair in voltage_pairs:
+        match = {}
+        match["type"] = "pmic"
+        match["description_main"] = "1117"    
+        match["description_extra"] = pair[0]
+        value = pair[1]
+        match["symbol_name"] = f"kicad_regulator_linear_ap1117_{value}"
+        matches.append(match)
+    pass
     ###### resistor
-
     match = {}
     match["type"] = "resistor"
     match["symbol_name"] = f"kicad_device_r"
     matches.append(match)
 
+    ###### socket
+    match = {}
+    match["type"] = "socket"
+    match["size"] = "usb_mini"
+    match["description_main"] = "surface_mount_only"
+    match["symbol_name"] = f"kicad_connector_usb_b_mini"
+    matches.append(match)   
 
 
     symbols = []
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to symbols
+    if kwargs["type"] == "resistor":
+        pass
     for match in matches:
+        if match.get("type","")   == "resistor":
+            pass
         if "symbol_name" in match:
             symbol_name = match["symbol_name"]
             match["symbol"] = []        

@@ -12,6 +12,10 @@ def create_footprint_library():
     footprint_directory = "c:/gh/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty"
     if not os.path.exists(footprint_directory):
         os.makedirs(footprint_directory)
+    #delete all the files in the directory
+    for root, dirs, files in os.walk(footprint_directory):
+        for file in files:
+            os.remove(os.path.join(root, file))
     src_footprints_base = rf'tmp'
     
     # go thrpough each part in oomp.parts
@@ -41,6 +45,8 @@ def create_footprint_library():
                     footprint_object = Footprint.from_file(filename)
                     #add the footprint to the footprint library
                     footprint_object.to_file(footprint_filename)
+                    #print a dot
+                    print(".", end="", flush=True)
                 else:
                     print(f'footprint file not found: {filename}')
                 extra += 1
@@ -51,6 +57,12 @@ def create_symbol_library():
     symbol_file_source = rf'templates\template_oomlout_oomp_kicad_symbols.kicad_sym'
     #symbol_file =  rf'kicad\symbols\oomlout_oomp_kicad_symbols.kicad_sym' 
     symbol_file = "c:/gh/oomlout_oomp_part_kicad_symbols/oomlout_oomp_part_symbols.kicad_sym"
+    #if the directory doesn't exist make it
+    if not os.path.exists(os.path.dirname(symbol_file)):
+        os.makedirs(os.path.dirname(symbol_file))
+    #delete the file if it exists
+    if os.path.isfile(symbol_file):
+        os.remove(symbol_file)
     oomlout_oomp_symbol_bot = rf'tmp/oomlout_oomp_symbol_bot/symbols'
     symbol_library = SymbolLib.from_file(symbol_file_source)
     for part_id in oomp.parts:
@@ -124,7 +136,9 @@ def create_symbol_library():
                 if property.key == "Reference":
                     pass
                     property.value = part.get("kicad_reference", "J")
-            print(f'adding symbol {symbol_output_name} to library')
+            #print(f'adding symbol {symbol_output_name} to library')
+            # print a dot
+            print(".", end="", flush=True)
             symbol_library.symbols.append(symbol)
         else:
             print(f'no symbol for {symbol_output_name}')

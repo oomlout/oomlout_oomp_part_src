@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "pmic",
+    "size": "soic_8",
+    "color": "linear",
+    "description_main": "1117",
+    "description_extra": "1_8v",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "id": "electronic_pmic_soic_8_linear_1117_1_8v",
+    "oomp_key": "oomp_electronic_pmic_soic_8_linear_1117_1_8v",
+    "directory": "parts/electronic_pmic_soic_8_linear_1117_1_8v",
+    "name": "Electronic Pmic Soic 8 Linear 1117 1 8V",
+    "short_code": "so81d8v",
+    "distributors": [],
+    "md5": "ca553dc35d431242e28339fc64bbb3d5",
+    "md5_5": "ca553",
+    "md5_6": "ca553d",
+    "md5_10": "ca553dc35d"
+}

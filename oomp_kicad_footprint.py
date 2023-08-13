@@ -30,29 +30,32 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical"
         matches.append(match)   
         #surface mount regular
-        match = {}
-        match["type"] = "header"
-        match["size"] = "2d54_mm"
-        match["description_main"] = f"{pin_count}_pin"
-        match["description_extra"] = "surface_mount"
-        match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical_smd_pin"
-        matches.append(match)  
+        if pin_count > 1: ##skip the 10 plus varriants
+            match = {}
+            match["type"] = "header"
+            match["size"] = "2d54_mm"
+            match["description_main"] = f"{pin_count}_pin"
+            match["description_extra"] = "surface_mount"
+            match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical_smd_pin1left"
+            matches.append(match)  
         #surface mount right angle
-        match = {}
-        match["type"] = "header"
-        match["size"] = "2d54_mm"
-        match["description_main"] = f"{pin_count}_pin"
-        match["description_extra"] = "surface_mount_right_angle"
-        match["footprint_name"] = f"kicad_connector_harwin_m20_890{pin_s}xx_1x{pin_s}_p2_54mm_horizontal"
-        matches.append(match) 
-        #jst sh
-        match = {}
-        match["type"] = "header"
-        match["size"] = "1_mm_jst_sh"
-        match["description_main"] = f"{pin_count}_pin"
-        match["description_extra"] = "surface_mount_right_angle"
-        match["footprint_name"] = f"kicad_connector_jst_jst_sh_sm{pin_s}b_srss_tb_1x{pin_s}_1mp_p1_00mm_horizontal"
-        matches.append(match) 
+        if pin_count < 21 and pin_count > 2 : ##skip the 10 plus varriants
+            match = {}
+            match["type"] = "header"
+            match["size"] = "2d54_mm"
+            match["description_main"] = f"{pin_count}_pin"
+            match["description_extra"] = "surface_mount_right_angle"
+            match["footprint_name"] = f"kicad_connector_harwin_harwin_m20_890{pin_s}xx_1x{pin_s}_p2_54mm_horizontal"
+            matches.append(match) 
+        if pin_count > 1: ##skip the 1 pin varriant
+            #jst sh
+            match = {}
+            match["type"] = "header"
+            match["size"] = "1_mm_jst_sh"
+            match["description_main"] = f"{pin_count}_pin"
+            match["description_extra"] = "surface_mount_right_angle"
+            match["footprint_name"] = f"kicad_connector_jst_jst_sh_sm{pin_s}b_srss_tb_1x{pin_s}_1mp_p1_00mm_horizontal"
+            matches.append(match) 
 
     ###### ic
 
@@ -93,10 +96,15 @@ def get_footprints(**kwargs):
     ###### ic vqfn
     match = {}
     match["size"] = "vqfn_28"
-    match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_28_1ep_4_4mm_p0_45mm_ep2_4x2_4mm"
+    match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm"
     matches.append(match)  
 
-
+    ###### sop
+    match = {}
+    match["size"] = "sop_16"
+    match["footprint_name"] = f"kicad_package_so_sop_16_3_9x9_9mm_p1_27mm"
+    matches.append(match)  
+    
 
     ###### led
 
@@ -126,7 +134,46 @@ def get_footprints(**kwargs):
     match["type"] = "resistor"
     match["size"] = "0603"
     match["footprint_name"] = f"kicad_resistor_smd_r_0603_1608metric"
+    matches.append(match)  
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "resistor"
+    match["size"] = "0805"
+    match["footprint_name"] = f"kicad_resistor_smd_r_0805_2012metric"
+    matches.append(match)
+    
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "resistor"
+    match["size"] = "1206"
+    match["footprint_name"] = f"kicad_resistor_smd_r_1206_3216metric"
+    matches.append(match)
+
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "resistor"
+    match["size"] = "quarter_watt_through_hole"
+    match["footprint_name"] = f"kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal"
+    matches.append(match)
+       
+
+    ###### socket    
+    match["type"] = "socket"
+    match["size"] = "usb_mini"
+    match["description_main"] = "surface_mount_only"
+    match["footprint_name"] = f"kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal"
     matches.append(match)   
+
+
+    ###### transistor and pmic sizes
+    match["size"] = "sot_223"
+    match["footprint_name"] = f"kicad_package_to_sot_smd_sot_223"
+    matches.append(match)  
+    
+    match["size"] = "sot_223"
+    match["footprint_name"] = f"kicad_package_to_sot_smd_to_252_3_tabpin2"
+    matches.append(match)  
+
 
 
 

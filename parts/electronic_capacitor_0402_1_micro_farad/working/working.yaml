@@ -1,0 +1,21 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1_micro_farad
+directory: parts/electronic_capacitor_0402_1_micro_farad
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_0402_1_micro_farad
+kicad_reference: C
+manufacturer: ''
+md5: 161ca70ef0437b6bc72debadd501c34f
+md5_10: 161ca70ef0
+md5_5: 161ca
+md5_6: 161ca7
+name: Electronic Capacitor 0402 1 Micro Farad
+oomp_key: oomp_electronic_capacitor_0402_1_micro_farad
+part_number: ''
+short_code: c6uf1
+size: '0402'
+type: capacitor

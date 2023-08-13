@@ -1,0 +1,19 @@
+classification: electronic
+color: linear
+description_extra: 2_85v
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_2_85v
+distributors: []
+id: electronic_pmic_sot_223_linear_1117_2_85v
+manufacturer: ''
+md5: 84dd85bbf986b5fbdb3978d2af0f41ca
+md5_10: 84dd85bbf9
+md5_5: 84dd8
+md5_6: 84dd85
+name: Electronic Pmic Sot 223 Linear 1117 2 85V
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_85v
+part_number: ''
+short_code: sot2232d85v
+short_name: ''
+size: sot_223
+type: pmic

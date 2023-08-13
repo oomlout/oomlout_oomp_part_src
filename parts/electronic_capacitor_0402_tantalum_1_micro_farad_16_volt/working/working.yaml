@@ -1,0 +1,25 @@
+classification: electronic
+color: tantalum
+description_extra: 16_volt
+description_main: 1_micro_farad
+directory: parts/electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+kicad_reference: C
+manufacturer: ''
+md5: ec73e3f80e7f4f6a0be2a42bcfec0b2d
+md5_10: ec73e3f80e
+md5_5: ec73e
+md5_6: ec73e3
+name: Electronic Capacitor 0402 Tantalum 1 Micro Farad 16 Volt
+oomp_key: oomp_electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+part_number: ''
+short_code: c6tuf1
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
+type: capacitor

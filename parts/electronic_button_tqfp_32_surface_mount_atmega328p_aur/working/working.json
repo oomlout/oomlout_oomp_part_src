@@ -1,0 +1,28 @@
+{
+    "classification": "electronic",
+    "type": "button",
+    "size": "tqfp_32",
+    "color": "surface_mount",
+    "description_main": "",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "atmega328p_aur",
+    "make_files": true,
+    "short_name": "atmega328 32 pin tqfp",
+    "distributors": [
+        {
+            "name": "lcsc",
+            "part_number": "C7450623",
+            "url": "https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html"
+        }
+    ],
+    "id": "electronic_button_tqfp_32_surface_mount_atmega328p_aur",
+    "oomp_key": "oomp_electronic_button_tqfp_32_surface_mount_atmega328p_aur",
+    "directory": "parts/electronic_button_tqfp_32_surface_mount_atmega328p_aur",
+    "name": "Electronic Button Tqfp 32 Surface Mount Atmega328P Aur",
+    "short_code": "btq32s",
+    "md5": "ec6605977bb88628b613b61d572f8b2c",
+    "md5_5": "ec660",
+    "md5_6": "ec6605",
+    "md5_10": "ec6605977b"
+}

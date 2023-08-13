@@ -1,0 +1,19 @@
+classification: electronic
+color: linear
+description_extra: 2_85v
+description_main: '1117'
+directory: parts/electronic_pmic_to_252_linear_1117_2_85v
+distributors: []
+id: electronic_pmic_to_252_linear_1117_2_85v
+manufacturer: ''
+md5: ac6ecf773db59baf58c396f2b62f9804
+md5_10: ac6ecf773d
+md5_5: ac6ec
+md5_6: ac6ecf
+name: Electronic Pmic To 252 Linear 1117 2 85V
+oomp_key: oomp_electronic_pmic_to_252_linear_1117_2_85v
+part_number: ''
+short_code: t2522d85v
+short_name: ''
+size: to_252
+type: pmic

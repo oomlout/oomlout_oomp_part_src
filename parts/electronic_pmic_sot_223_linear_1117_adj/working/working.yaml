@@ -1,0 +1,23 @@
+classification: electronic
+color: linear
+description_extra: adj
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_adj
+distributors: []
+id: electronic_pmic_sot_223_linear_1117_adj
+manufacturer: ''
+md5: cdc5644737274c72642f6d91b99a7aaa
+md5_10: cdc5644737
+md5_5: cdc56
+md5_6: cdc564
+name: Electronic Pmic Sot 223 Linear 1117 Adj
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
+part_number: ''
+short_code: sot223
+short_name: ''
+size: sot_223
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj
+    oomp_key: oomp_kicad_regulator_linear_ap1117_adj
+type: pmic

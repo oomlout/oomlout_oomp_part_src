@@ -1,0 +1,26 @@
+classification: electronic
+color: surface_mount
+description_extra: ''
+description_main: ''
+directory: parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+distributors:
+-   name: lcsc
+    part_number: C7450623
+    url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+manufacturer: ''
+md5: daac5353b33e60c79876e2262b80147e
+md5_10: daac5353b3
+md5_5: daac5
+md5_6: daac53
+name: Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
+oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+part_number: ''
+short_code: b3560s
+short_name: ''
+size: 3_5_mm_x_6_mm_x_2_5_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+    oomp_key: oomp_kicad_switch_sw_push
+type: button

@@ -1,0 +1,23 @@
+classification: electronic
+color: linear
+description_extra: 5v
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_5v
+distributors: []
+id: electronic_pmic_sot_223_linear_1117_5v
+manufacturer: ''
+md5: ca675d823ff5d365cc30f3fe5d88c8bd
+md5_10: ca675d823f
+md5_5: ca675
+md5_6: ca675d
+name: Electronic Pmic Sot 223 Linear 1117 5V
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5v
+part_number: ''
+short_code: sot223
+short_name: ''
+size: sot_223
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
+    oomp_key: oomp_kicad_regulator_linear_ap1117_50
+type: pmic

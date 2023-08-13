@@ -1,0 +1,28 @@
+{
+    "classification": "electronic",
+    "type": "button",
+    "size": "3_5_mm_x_6_mm_x_2_5_mm",
+    "color": "surface_mount",
+    "description_main": "",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "distributors": [
+        {
+            "name": "lcsc",
+            "part_number": "C7450623",
+            "url": "https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html"
+        }
+    ],
+    "id": "electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
+    "oomp_key": "oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
+    "directory": "parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
+    "name": "Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount",
+    "short_code": "b3560s",
+    "md5": "daac5353b33e60c79876e2262b80147e",
+    "md5_5": "daac5",
+    "md5_6": "daac53",
+    "md5_10": "daac5353b3"
+}

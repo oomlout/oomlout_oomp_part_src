@@ -1,0 +1,19 @@
+classification: electronic
+color: linear
+description_extra: 2_5v
+description_main: '1117'
+directory: parts/electronic_pmic_to_252_linear_1117_2_5v
+distributors: []
+id: electronic_pmic_to_252_linear_1117_2_5v
+manufacturer: ''
+md5: 4f7f5563e15b7c91e0a446867ee3f604
+md5_10: 4f7f5563e1
+md5_5: 4f7f5
+md5_6: 4f7f55
+name: Electronic Pmic To 252 Linear 1117 2 5V
+oomp_key: oomp_electronic_pmic_to_252_linear_1117_2_5v
+part_number: ''
+short_code: t2522d5v
+short_name: ''
+size: to_252
+type: pmic

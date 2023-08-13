@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "pmic",
+    "size": "to_252",
+    "color": "linear",
+    "description_main": "1117",
+    "description_extra": "2_5v",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "id": "electronic_pmic_to_252_linear_1117_2_5v",
+    "oomp_key": "oomp_electronic_pmic_to_252_linear_1117_2_5v",
+    "directory": "parts/electronic_pmic_to_252_linear_1117_2_5v",
+    "name": "Electronic Pmic To 252 Linear 1117 2 5V",
+    "short_code": "t2522d5v",
+    "distributors": [],
+    "md5": "4f7f5563e15b7c91e0a446867ee3f604",
+    "md5_5": "4f7f5",
+    "md5_6": "4f7f55",
+    "md5_10": "4f7f5563e1"
+}

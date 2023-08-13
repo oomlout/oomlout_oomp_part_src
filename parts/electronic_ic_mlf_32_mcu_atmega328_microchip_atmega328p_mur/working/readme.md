@@ -30,6 +30,11 @@ oomp key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
 | 7 manufacturer | microchip | 
 | 8 part number | atmega328p_mur | 
 ### Symbol  
+| name | value | 
+| --- | --- | 
+| oomp_key | oomp_kicad_mcu_microchip_atmega_atmega328_m | 
+| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m | 
+| directory | oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym | 
 ### Footprint  
 | name | value | 
 | --- | --- | 

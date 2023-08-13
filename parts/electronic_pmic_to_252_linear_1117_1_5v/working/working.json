@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "pmic",
+    "size": "to_252",
+    "color": "linear",
+    "description_main": "1117",
+    "description_extra": "1_5v",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "id": "electronic_pmic_to_252_linear_1117_1_5v",
+    "oomp_key": "oomp_electronic_pmic_to_252_linear_1117_1_5v",
+    "directory": "parts/electronic_pmic_to_252_linear_1117_1_5v",
+    "name": "Electronic Pmic To 252 Linear 1117 1 5V",
+    "short_code": "t2521d5v",
+    "distributors": [],
+    "md5": "2029f0221d82adebdb524c8d06267015",
+    "md5_5": "2029f",
+    "md5_6": "2029f0",
+    "md5_10": "2029f0221d"
+}

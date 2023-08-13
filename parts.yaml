@@ -150,6 +150,432 @@ electronic_breakout_board_mcu_atmega328_shennie:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x
         oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
     type: breakout_board
+electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
+    classification: electronic
+    color: surface_mount
+    description_extra: ''
+    description_main: ''
+    directory: parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    distributors:
+    -   name: lcsc
+        part_number: C7450623
+        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    make_files: true
+    manufacturer: ''
+    md5: daac5353b33e60c79876e2262b80147e
+    md5_10: daac5353b3
+    md5_5: daac5
+    md5_6: daac53
+    name: Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
+    oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    part_number: ''
+    short_code: b3560s
+    short_name: ''
+    size: 3_5_mm_x_6_mm_x_2_5_mm
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+        oomp_key: oomp_kicad_switch_sw_push
+    type: button
+electronic_button_mlf_32_surface_mount_atmega328p_mur:
+    classification: electronic
+    color: surface_mount
+    description_extra: ''
+    description_main: ''
+    directory: parts/electronic_button_mlf_32_surface_mount_atmega328p_mur
+    distributors:
+    -   name: lcsc
+        part_number: C7450623
+        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+        oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+    id: electronic_button_mlf_32_surface_mount_atmega328p_mur
+    make_files: true
+    manufacturer: ''
+    md5: ce2c5952f7886052189604a83189385a
+    md5_10: ce2c5952f7
+    md5_5: ce2c5
+    md5_6: ce2c59
+    name: Electronic Button Mlf 32 Surface Mount Atmega328P Mur
+    oomp_key: oomp_electronic_button_mlf_32_surface_mount_atmega328p_mur
+    part_number: atmega328p_mur
+    short_code: bmlf32s
+    short_name: atmega328 32 pin mlf
+    size: mlf_32
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+        oomp_key: oomp_kicad_switch_sw_push
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
+    type: button
+electronic_button_qfn_28_surface_mount_atmega328p_mn:
+    classification: electronic
+    color: surface_mount
+    description_extra: ''
+    description_main: ''
+    directory: parts/electronic_button_qfn_28_surface_mount_atmega328p_mn
+    distributors:
+    -   name: lcsc
+        part_number: C7450623
+        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    id: electronic_button_qfn_28_surface_mount_atmega328p_mn
+    make_files: true
+    manufacturer: ''
+    md5: de69657b0ed600f63e00705c28dab6a9
+    md5_10: de69657b0e
+    md5_5: de696
+    md5_6: de6965
+    name: Electronic Button Qfn 28 Surface Mount Atmega328P Mn
+    oomp_key: oomp_electronic_button_qfn_28_surface_mount_atmega328p_mn
+    part_number: atmega328p_mn
+    short_code: bq28s
+    short_name: atmega328 28 pin qfn
+    size: qfn_28
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+        oomp_key: oomp_kicad_switch_sw_push
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_p
+    type: button
+electronic_button_tqfp_32_surface_mount_atmega328p_aur:
+    classification: electronic
+    color: surface_mount
+    description_extra: ''
+    description_main: ''
+    directory: parts/electronic_button_tqfp_32_surface_mount_atmega328p_aur
+    distributors:
+    -   name: lcsc
+        part_number: C7450623
+        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+        oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+    id: electronic_button_tqfp_32_surface_mount_atmega328p_aur
+    make_files: true
+    manufacturer: ''
+    md5: ec6605977bb88628b613b61d572f8b2c
+    md5_10: ec6605977b
+    md5_5: ec660
+    md5_6: ec6605
+    name: Electronic Button Tqfp 32 Surface Mount Atmega328P Aur
+    oomp_key: oomp_electronic_button_tqfp_32_surface_mount_atmega328p_aur
+    part_number: atmega328p_aur
+    short_code: btq32s
+    short_name: atmega328 32 pin tqfp
+    size: tqfp_32
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+        oomp_key: oomp_kicad_switch_sw_push
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
+    type: button
+electronic_button_vqfn_28_surface_mount_atmega328p_mmhr:
+    classification: electronic
+    color: surface_mount
+    description_extra: ''
+    description_main: ''
+    directory: parts/electronic_button_vqfn_28_surface_mount_atmega328p_mmhr
+    distributors:
+    -   name: lcsc
+        part_number: C7450623
+        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+        oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+    id: electronic_button_vqfn_28_surface_mount_atmega328p_mmhr
+    make_files: true
+    manufacturer: ''
+    md5: 3ffeec491553320df32460be8f2eae7c
+    md5_10: 3ffeec4915
+    md5_5: 3ffee
+    md5_6: 3ffeec
+    name: Electronic Button Vqfn 28 Surface Mount Atmega328P Mmhr
+    oomp_key: oomp_electronic_button_vqfn_28_surface_mount_atmega328p_mmhr
+    part_number: atmega328p_mmhr
+    short_code: bvq28s
+    short_name: atmega328 28 pin vqfn
+    size: vqfn_28
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+        oomp_key: oomp_kicad_switch_sw_push
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
+    type: button
+electronic_capacitor_0402_tantalum_100_nano_farad_16_volt:
+    classification: electronic
+    color: tantalum
+    description_extra: 16_volt
+    description_main: 100_nano_farad
+    directory: parts/electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: be360ba70c12e7b2f6c70b38698dd624
+    md5_10: be360ba70c
+    md5_5: be360
+    md5_6: be360b
+    name: Electronic Capacitor 0402 Tantalum 100 Nano Farad 16 Volt
+    oomp_key: oomp_electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
+    part_number: ''
+    short_code: c6tnf100
+    size: '0402'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0402_tantalum_10_nano_farad_16_volt:
+    classification: electronic
+    color: tantalum
+    description_extra: 16_volt
+    description_main: 10_nano_farad
+    directory: parts/electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: d69870f8923dd37c25733d5682f6074f
+    md5_10: d69870f892
+    md5_5: d6987
+    md5_6: d69870
+    name: Electronic Capacitor 0402 Tantalum 10 Nano Farad 16 Volt
+    oomp_key: oomp_electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
+    part_number: ''
+    short_code: c6tnf10
+    size: '0402'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0402_tantalum_1_micro_farad_16_volt:
+    classification: electronic
+    color: tantalum
+    description_extra: 16_volt
+    description_main: 1_micro_farad
+    directory: parts/electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: ec73e3f80e7f4f6a0be2a42bcfec0b2d
+    md5_10: ec73e3f80e
+    md5_5: ec73e
+    md5_6: ec73e3
+    name: Electronic Capacitor 0402 Tantalum 1 Micro Farad 16 Volt
+    oomp_key: oomp_electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+    part_number: ''
+    short_code: c6tuf1
+    size: '0402'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0402_tantalum_22_nano_farad_16_volt:
+    classification: electronic
+    color: tantalum
+    description_extra: 16_volt
+    description_main: 22_nano_farad
+    directory: parts/electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: dc17a54212dba00845a3d2b00074d645
+    md5_10: dc17a54212
+    md5_5: dc17a
+    md5_6: dc17a5
+    name: Electronic Capacitor 0402 Tantalum 22 Nano Farad 16 Volt
+    oomp_key: oomp_electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
+    part_number: ''
+    short_code: c6tnf22
+    size: '0402'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0603_100_nano_farad:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100_nano_farad
+    directory: parts/electronic_capacitor_0603_100_nano_farad
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0603_100_nano_farad
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: 8cfd91c8b4af505f5c4d796bc12d1d16
+    md5_10: 8cfd91c8b4
+    md5_5: 8cfd9
+    md5_6: 8cfd91
+    name: Electronic Capacitor 0603 100 Nano Farad
+    oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
+    part_number: ''
+    short_code: c6nf100
+    size: '0603'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0603_10_micro_farad4_7_micro_farad:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 10_micro_farad4_7_micro_farad
+    directory: parts/electronic_capacitor_0603_10_micro_farad4_7_micro_farad
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0603_10_micro_farad4_7_micro_farad
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: be7c1e20e446c9bc83182d3701e8cc03
+    md5_10: be7c1e20e4
+    md5_5: be7c1
+    md5_6: be7c1e
+    name: Electronic Capacitor 0603 10 Micro Farad4 7 Micro Farad
+    oomp_key: oomp_electronic_capacitor_0603_10_micro_farad4_7_micro_farad
+    part_number: ''
+    short_code: c6
+    size: '0603'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0603_1_micro_farad:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 1_micro_farad
+    directory: parts/electronic_capacitor_0603_1_micro_farad
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_0603_1_micro_farad
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: e7a23d9cf44072293b500995f0cdb585
+    md5_10: e7a23d9cf4
+    md5_5: e7a23
+    md5_6: e7a23d
+    name: Electronic Capacitor 0603 1 Micro Farad
+    oomp_key: oomp_electronic_capacitor_0603_1_micro_farad
+    part_number: ''
+    short_code: c6uf1
+    size: '0603'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
+    classification: electronic
+    color: tantalum
+    description_extra: 16_volt
+    description_main: 4_7_micro_farad
+    directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: 951eebab538d3a391eb9ef33560a6b6b
+    md5_10: 951eebab53
+    md5_5: 951ee
+    md5_6: 951eeb
+    name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
+    oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+    part_number: ''
+    short_code: cavxat
+    size: 3216_avx_a
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_crystal_3215_2_pin_12_mega_hertz:
+    classification: electronic
+    color: 2_pin
+    description_extra: ''
+    description_main: 12_mega_hertz
+    directory: parts/electronic_crystal_3215_2_pin_12_mega_hertz
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_crystal_3215_2_pin_12_mega_hertz
+    kicad_reference: x
+    make_files: true
+    manufacturer: ''
+    md5: 0580c994ab3f388e5cb32a4be729d265
+    md5_10: 0580c994ab
+    md5_5: 0580c
+    md5_6: 0580c9
+    name: Electronic Crystal 3215 2 Pin 12 Mega Hertz
+    oomp_key: oomp_electronic_crystal_3215_2_pin_12_mega_hertz
+    part_number: ''
+    short_code: x3215mhz12
+    size: '3215'
+    type: crystal
+electronic_crystal_3215_2_pin_16_mega_hertz:
+    classification: electronic
+    color: 2_pin
+    description_extra: ''
+    description_main: 16_mega_hertz
+    directory: parts/electronic_crystal_3215_2_pin_16_mega_hertz
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_crystal_3215_2_pin_16_mega_hertz
+    kicad_reference: x
+    make_files: true
+    manufacturer: ''
+    md5: 6692bf77b79afdd36ac0569512efd0fd
+    md5_10: 6692bf77b7
+    md5_5: 6692b
+    md5_6: 6692bf
+    name: Electronic Crystal 3215 2 Pin 16 Mega Hertz
+    oomp_key: oomp_electronic_crystal_3215_2_pin_16_mega_hertz
+    part_number: ''
+    short_code: x3215mhz16
+    size: '3215'
+    type: crystal
 electronic_header_1_mm_jst_sh_10_pin:
     classification: electronic
     color: ''
@@ -343,10 +769,6 @@ electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle:
     description_main: 1_pin
     directory: parts/electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm01b_srss_tb_1x01_1mp_p1_00mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm01b_srss_tb_1x01_1mp_p1_00mm_horizontal
-        oomp_key: oomp_kicad_connector_jst_jst_sh_sm01b_srss_tb_1x01_1mp_p1_00mm_horizontal
     id: electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -2341,9 +2763,9 @@ electronic_header_2d54_mm_10_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_10_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -2374,9 +2796,9 @@ electronic_header_2d54_mm_10_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89010xx_1x10_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89010xx_1x10_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89010xx_1x10_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal
     id: electronic_header_2d54_mm_10_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -2467,9 +2889,9 @@ electronic_header_2d54_mm_11_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_11_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -2500,9 +2922,9 @@ electronic_header_2d54_mm_11_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89011xx_1x11_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89011xx_1x11_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89011xx_1x11_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal
     id: electronic_header_2d54_mm_11_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -2593,9 +3015,9 @@ electronic_header_2d54_mm_12_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_12_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -2626,9 +3048,9 @@ electronic_header_2d54_mm_12_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89012xx_1x12_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89012xx_1x12_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89012xx_1x12_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
     id: electronic_header_2d54_mm_12_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -2719,9 +3141,9 @@ electronic_header_2d54_mm_13_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_13_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -2752,9 +3174,9 @@ electronic_header_2d54_mm_13_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89013xx_1x13_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89013xx_1x13_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89013xx_1x13_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal
     id: electronic_header_2d54_mm_13_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -2845,9 +3267,9 @@ electronic_header_2d54_mm_14_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_14_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -2878,9 +3300,9 @@ electronic_header_2d54_mm_14_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89014xx_1x14_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89014xx_1x14_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89014xx_1x14_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89014xx_1x14_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89014xx_1x14_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89014xx_1x14_p2_54mm_horizontal
     id: electronic_header_2d54_mm_14_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -2971,9 +3393,9 @@ electronic_header_2d54_mm_15_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_15_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3004,9 +3426,9 @@ electronic_header_2d54_mm_15_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89015xx_1x15_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89015xx_1x15_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89015xx_1x15_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal
     id: electronic_header_2d54_mm_15_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3097,9 +3519,9 @@ electronic_header_2d54_mm_16_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_16_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3130,9 +3552,9 @@ electronic_header_2d54_mm_16_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89016xx_1x16_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89016xx_1x16_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89016xx_1x16_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal
     id: electronic_header_2d54_mm_16_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3223,9 +3645,9 @@ electronic_header_2d54_mm_17_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_17_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3256,9 +3678,9 @@ electronic_header_2d54_mm_17_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89017xx_1x17_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89017xx_1x17_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89017xx_1x17_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89017xx_1x17_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89017xx_1x17_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89017xx_1x17_p2_54mm_horizontal
     id: electronic_header_2d54_mm_17_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3349,9 +3771,9 @@ electronic_header_2d54_mm_18_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_18_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3382,9 +3804,9 @@ electronic_header_2d54_mm_18_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89018xx_1x18_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89018xx_1x18_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89018xx_1x18_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89018xx_1x18_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89018xx_1x18_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89018xx_1x18_p2_54mm_horizontal
     id: electronic_header_2d54_mm_18_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3475,9 +3897,9 @@ electronic_header_2d54_mm_19_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_19_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3508,9 +3930,9 @@ electronic_header_2d54_mm_19_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89019xx_1x19_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89019xx_1x19_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89019xx_1x19_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal
     id: electronic_header_2d54_mm_19_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3601,9 +4023,6 @@ electronic_header_2d54_mm_1_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical_smd_pin
     id: electronic_header_2d54_mm_1_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3634,9 +4053,6 @@ electronic_header_2d54_mm_1_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89001xx_1x01_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89001xx_1x01_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89001xx_1x01_p2_54mm_horizontal
     id: electronic_header_2d54_mm_1_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3727,9 +4143,9 @@ electronic_header_2d54_mm_20_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_20_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3760,9 +4176,9 @@ electronic_header_2d54_mm_20_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89020xx_1x20_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89020xx_1x20_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89020xx_1x20_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89020xx_1x20_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89020xx_1x20_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89020xx_1x20_p2_54mm_horizontal
     id: electronic_header_2d54_mm_20_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3853,9 +4269,9 @@ electronic_header_2d54_mm_21_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_21_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -3886,9 +4302,6 @@ electronic_header_2d54_mm_21_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89021xx_1x21_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89021xx_1x21_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89021xx_1x21_p2_54mm_horizontal
     id: electronic_header_2d54_mm_21_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -3979,9 +4392,9 @@ electronic_header_2d54_mm_22_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_22_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4012,9 +4425,6 @@ electronic_header_2d54_mm_22_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89022xx_1x22_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89022xx_1x22_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89022xx_1x22_p2_54mm_horizontal
     id: electronic_header_2d54_mm_22_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4105,9 +4515,9 @@ electronic_header_2d54_mm_23_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_23_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4138,9 +4548,6 @@ electronic_header_2d54_mm_23_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89023xx_1x23_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89023xx_1x23_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89023xx_1x23_p2_54mm_horizontal
     id: electronic_header_2d54_mm_23_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4231,9 +4638,9 @@ electronic_header_2d54_mm_24_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_24_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4264,9 +4671,6 @@ electronic_header_2d54_mm_24_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89024xx_1x24_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89024xx_1x24_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89024xx_1x24_p2_54mm_horizontal
     id: electronic_header_2d54_mm_24_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4357,9 +4761,9 @@ electronic_header_2d54_mm_25_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_25_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4390,9 +4794,6 @@ electronic_header_2d54_mm_25_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89025xx_1x25_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89025xx_1x25_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89025xx_1x25_p2_54mm_horizontal
     id: electronic_header_2d54_mm_25_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4483,9 +4884,9 @@ electronic_header_2d54_mm_26_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_26_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4516,9 +4917,6 @@ electronic_header_2d54_mm_26_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89026xx_1x26_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89026xx_1x26_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89026xx_1x26_p2_54mm_horizontal
     id: electronic_header_2d54_mm_26_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4609,9 +5007,9 @@ electronic_header_2d54_mm_27_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_27_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4642,9 +5040,6 @@ electronic_header_2d54_mm_27_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89027xx_1x27_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89027xx_1x27_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89027xx_1x27_p2_54mm_horizontal
     id: electronic_header_2d54_mm_27_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4735,9 +5130,9 @@ electronic_header_2d54_mm_28_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_28_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4768,9 +5163,6 @@ electronic_header_2d54_mm_28_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89028xx_1x28_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89028xx_1x28_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89028xx_1x28_p2_54mm_horizontal
     id: electronic_header_2d54_mm_28_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4861,9 +5253,9 @@ electronic_header_2d54_mm_29_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_29_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -4894,9 +5286,6 @@ electronic_header_2d54_mm_29_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89029xx_1x29_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89029xx_1x29_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89029xx_1x29_p2_54mm_horizontal
     id: electronic_header_2d54_mm_29_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -4987,9 +5376,9 @@ electronic_header_2d54_mm_2_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_2_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5020,9 +5409,6 @@ electronic_header_2d54_mm_2_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89002xx_1x02_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89002xx_1x02_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89002xx_1x02_p2_54mm_horizontal
     id: electronic_header_2d54_mm_2_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5113,9 +5499,9 @@ electronic_header_2d54_mm_30_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_30_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5146,9 +5532,6 @@ electronic_header_2d54_mm_30_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89030xx_1x30_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89030xx_1x30_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89030xx_1x30_p2_54mm_horizontal
     id: electronic_header_2d54_mm_30_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5239,9 +5622,9 @@ electronic_header_2d54_mm_31_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_31_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5272,9 +5655,6 @@ electronic_header_2d54_mm_31_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89031xx_1x31_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89031xx_1x31_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89031xx_1x31_p2_54mm_horizontal
     id: electronic_header_2d54_mm_31_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5365,9 +5745,9 @@ electronic_header_2d54_mm_32_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_32_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5398,9 +5778,6 @@ electronic_header_2d54_mm_32_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89032xx_1x32_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89032xx_1x32_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89032xx_1x32_p2_54mm_horizontal
     id: electronic_header_2d54_mm_32_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5491,9 +5868,9 @@ electronic_header_2d54_mm_33_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_33_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5524,9 +5901,6 @@ electronic_header_2d54_mm_33_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89033xx_1x33_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89033xx_1x33_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89033xx_1x33_p2_54mm_horizontal
     id: electronic_header_2d54_mm_33_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5617,9 +5991,9 @@ electronic_header_2d54_mm_34_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_34_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5650,9 +6024,6 @@ electronic_header_2d54_mm_34_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89034xx_1x34_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89034xx_1x34_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89034xx_1x34_p2_54mm_horizontal
     id: electronic_header_2d54_mm_34_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5743,9 +6114,9 @@ electronic_header_2d54_mm_35_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_35_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5776,9 +6147,6 @@ electronic_header_2d54_mm_35_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89035xx_1x35_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89035xx_1x35_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89035xx_1x35_p2_54mm_horizontal
     id: electronic_header_2d54_mm_35_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5869,9 +6237,9 @@ electronic_header_2d54_mm_36_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_36_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -5902,9 +6270,6 @@ electronic_header_2d54_mm_36_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89036xx_1x36_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89036xx_1x36_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89036xx_1x36_p2_54mm_horizontal
     id: electronic_header_2d54_mm_36_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -5995,9 +6360,9 @@ electronic_header_2d54_mm_37_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_37_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6028,9 +6393,6 @@ electronic_header_2d54_mm_37_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89037xx_1x37_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89037xx_1x37_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89037xx_1x37_p2_54mm_horizontal
     id: electronic_header_2d54_mm_37_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6121,9 +6483,9 @@ electronic_header_2d54_mm_38_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_38_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6154,9 +6516,6 @@ electronic_header_2d54_mm_38_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89038xx_1x38_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89038xx_1x38_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89038xx_1x38_p2_54mm_horizontal
     id: electronic_header_2d54_mm_38_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6247,9 +6606,9 @@ electronic_header_2d54_mm_39_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_39_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6280,9 +6639,6 @@ electronic_header_2d54_mm_39_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89039xx_1x39_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89039xx_1x39_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89039xx_1x39_p2_54mm_horizontal
     id: electronic_header_2d54_mm_39_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6373,9 +6729,9 @@ electronic_header_2d54_mm_3_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_3_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6406,9 +6762,9 @@ electronic_header_2d54_mm_3_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89003xx_1x03_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89003xx_1x03_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89003xx_1x03_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89003xx_1x03_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89003xx_1x03_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89003xx_1x03_p2_54mm_horizontal
     id: electronic_header_2d54_mm_3_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6499,9 +6855,9 @@ electronic_header_2d54_mm_40_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_40_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6532,9 +6888,6 @@ electronic_header_2d54_mm_40_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89040xx_1x40_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89040xx_1x40_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89040xx_1x40_p2_54mm_horizontal
     id: electronic_header_2d54_mm_40_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6625,9 +6978,9 @@ electronic_header_2d54_mm_4_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_4_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6658,9 +7011,9 @@ electronic_header_2d54_mm_4_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89004xx_1x04_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89004xx_1x04_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89004xx_1x04_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89004xx_1x04_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89004xx_1x04_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89004xx_1x04_p2_54mm_horizontal
     id: electronic_header_2d54_mm_4_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6751,9 +7104,9 @@ electronic_header_2d54_mm_5_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_5_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6784,9 +7137,9 @@ electronic_header_2d54_mm_5_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89005xx_1x05_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89005xx_1x05_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89005xx_1x05_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal
     id: electronic_header_2d54_mm_5_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -6877,9 +7230,9 @@ electronic_header_2d54_mm_6_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_6_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -6910,9 +7263,9 @@ electronic_header_2d54_mm_6_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89006xx_1x06_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89006xx_1x06_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89006xx_1x06_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal
     id: electronic_header_2d54_mm_6_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -7003,9 +7356,9 @@ electronic_header_2d54_mm_7_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_7_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -7036,9 +7389,9 @@ electronic_header_2d54_mm_7_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89007xx_1x07_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89007xx_1x07_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89007xx_1x07_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal
     id: electronic_header_2d54_mm_7_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -7129,9 +7482,9 @@ electronic_header_2d54_mm_8_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_8_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -7162,9 +7515,9 @@ electronic_header_2d54_mm_8_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89008xx_1x08_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89008xx_1x08_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89008xx_1x08_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal
     id: electronic_header_2d54_mm_8_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -7255,9 +7608,9 @@ electronic_header_2d54_mm_9_pin_surface_mount:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin1left
     id: electronic_header_2d54_mm_9_pin_surface_mount
     kicad_reference: J
     make_files: true
@@ -7288,9 +7641,9 @@ electronic_header_2d54_mm_9_pin_surface_mount_right_angle:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical
         oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_m20_89009xx_1x09_p2_54mm_horizontal//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_m20_89009xx_1x09_p2_54mm_horizontal
-        oomp_key: oomp_kicad_connector_harwin_m20_89009xx_1x09_p2_54mm_horizontal
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89009xx_1x09_p2_54mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89009xx_1x09_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89009xx_1x09_p2_54mm_horizontal
     id: electronic_header_2d54_mm_9_pin_surface_mount_right_angle
     kicad_reference: J
     make_files: true
@@ -8403,6 +8756,10 @@ electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur:
     short_code: imlf32at328
     short_name: atmega328 32 pin mlf
     size: mlf_32
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
     type: ic
 electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     classification: electronic
@@ -8570,6 +8927,102 @@ electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_elect
     short_name: 16x8 led matrix driver (aip1640)
     size: soic_28_wide
     type: ic
+electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
+    classification: electronic
+    color: converter
+    description_extra: ''
+    description_main: usb_to_serial_converter
+    directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
+        oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
+    id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    kicad_reference: U
+    make_files: true
+    manufacturer: wch
+    md5: 8b394cfe55fb40b61533e33d89af18b7
+    md5_10: 8b394cfe55
+    md5_5: 8b394
+    md5_6: 8b394c
+    name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C
+    notes: []
+    oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    part_number: ch340c
+    pins:
+        '1':
+            name: gnd
+            number: '1'
+            type: signal
+        '10':
+            name: dsr
+            number: '10'
+            type: signal
+        '11':
+            name: ri
+            number: '11'
+            type: signal
+        '12':
+            name: dcd
+            number: '12'
+            type: signal
+        '13':
+            name: dtr
+            number: '13'
+            type: signal
+        '14':
+            name: rts
+            number: '14'
+            type: signal
+        '15':
+            name: rs232
+            number: '15'
+            type: signal
+        '16':
+            name: vcc
+            number: '16'
+            type: signal
+        '2':
+            name: txd
+            number: '2'
+            type: signal
+        '3':
+            name: rxd
+            number: '3'
+            type: signal
+        '4':
+            name: v3
+            number: '4'
+            type: signal
+        '5':
+            name: ud_plus
+            number: '5'
+            type: signal
+        '6':
+            name: ud_negative
+            number: '6'
+            type: gnd
+        '7':
+            name: not_connected
+            number: '7'
+            type: signal
+        '8':
+            name: out
+            number: '8'
+            type: signal
+        '9':
+            name: cts
+            number: '9'
+            type: signal
+    short_code: isp16ch340c
+    short_name: usb to serial converter (ch340c)
+    size: sop_16
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c
+        oomp_key: oomp_kicad_interface_usb_ch340c
+    type: ic
 electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur:
     classification: electronic
     color: mcu
@@ -8594,6 +9047,10 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur:
     short_code: itq32at328
     short_name: atmega328 32 pin tqfp
     size: tqfp_32
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
     type: ic
 electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr:
     classification: electronic
@@ -8603,9 +9060,9 @@ electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr:
     directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4_4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4_4mm_p0_45mm_ep2_4x2_4mm
-        oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4_4mm_p0_45mm_ep2_4x2_4mm
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+        oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
     id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
     make_files: true
     manufacturer: microchip
@@ -8619,6 +9076,10 @@ electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr:
     short_code: ivq28at328
     short_name: atmega328 28 pin vqfn
     size: vqfn_28
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
     type: ic
 electronic_led_0603:
     classification: electronic
@@ -9184,6 +9645,156 @@ electronic_mounting_hole_m6:
     symbol:
     - *id002
     type: mounting_hole
+electronic_pmic_sot_223_linear_1117_1_5v:
+    classification: electronic
+    color: linear
+    description_extra: 1_5v
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_1_5v
+    distributors: []
+    id: electronic_pmic_sot_223_linear_1117_1_5v
+    make_files: true
+    manufacturer: ''
+    md5: c0df20efe7937b88583f63473a14eb21
+    md5_10: c0df20efe7
+    md5_5: c0df2
+    md5_6: c0df20
+    name: Electronic Pmic Sot 223 Linear 1117 1 5V
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5v
+    part_number: ''
+    short_code: sot2231d5v
+    short_name: ''
+    size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_15//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_15
+        oomp_key: oomp_kicad_regulator_linear_ap1117_15
+    type: pmic
+electronic_pmic_sot_223_linear_1117_1_8v:
+    classification: electronic
+    color: linear
+    description_extra: 1_8v
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_1_8v
+    distributors: []
+    id: electronic_pmic_sot_223_linear_1117_1_8v
+    make_files: true
+    manufacturer: ''
+    md5: 0450603713decc03eb5619d27e424cc5
+    md5_10: '0450603713'
+    md5_5: '04506'
+    md5_6: '045060'
+    name: Electronic Pmic Sot 223 Linear 1117 1 8V
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8v
+    part_number: ''
+    short_code: sot2231d8v
+    short_name: ''
+    size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_18//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_18
+        oomp_key: oomp_kicad_regulator_linear_ap1117_18
+    type: pmic
+electronic_pmic_sot_223_linear_1117_2_5v:
+    classification: electronic
+    color: linear
+    description_extra: 2_5v
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_2_5v
+    distributors: []
+    id: electronic_pmic_sot_223_linear_1117_2_5v
+    make_files: true
+    manufacturer: ''
+    md5: 8b74539494cbe83b7e01c4b5a91c5523
+    md5_10: 8b74539494
+    md5_5: 8b745
+    md5_6: 8b7453
+    name: Electronic Pmic Sot 223 Linear 1117 2 5V
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5v
+    part_number: ''
+    short_code: sot2232d5v
+    short_name: ''
+    size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_25//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_25
+        oomp_key: oomp_kicad_regulator_linear_ap1117_25
+    type: pmic
+electronic_pmic_sot_223_linear_1117_3_3v:
+    classification: electronic
+    color: linear
+    description_extra: 3_3v
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_3_3v
+    distributors: []
+    id: electronic_pmic_sot_223_linear_1117_3_3v
+    make_files: true
+    manufacturer: ''
+    md5: bb05b4251bbaa51e2632cecf23e7de51
+    md5_10: bb05b4251b
+    md5_5: bb05b
+    md5_6: bb05b4
+    name: Electronic Pmic Sot 223 Linear 1117 3 3V
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3v
+    part_number: ''
+    short_code: sot2233d3v
+    short_name: ''
+    size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33
+        oomp_key: oomp_kicad_regulator_linear_ap1117_33
+    type: pmic
+electronic_pmic_sot_223_linear_1117_5v:
+    classification: electronic
+    color: linear
+    description_extra: 5v
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_5v
+    distributors: []
+    id: electronic_pmic_sot_223_linear_1117_5v
+    make_files: true
+    manufacturer: ''
+    md5: ca675d823ff5d365cc30f3fe5d88c8bd
+    md5_10: ca675d823f
+    md5_5: ca675
+    md5_6: ca675d
+    name: Electronic Pmic Sot 223 Linear 1117 5V
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5v
+    part_number: ''
+    short_code: sot223
+    short_name: ''
+    size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
+        oomp_key: oomp_kicad_regulator_linear_ap1117_50
+    type: pmic
+electronic_pmic_sot_223_linear_1117_adj:
+    classification: electronic
+    color: linear
+    description_extra: adj
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_adj
+    distributors: []
+    id: electronic_pmic_sot_223_linear_1117_adj
+    make_files: true
+    manufacturer: ''
+    md5: cdc5644737274c72642f6d91b99a7aaa
+    md5_10: cdc5644737
+    md5_5: cdc56
+    md5_6: cdc564
+    name: Electronic Pmic Sot 223 Linear 1117 Adj
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
+    part_number: ''
+    short_code: sot223
+    short_name: ''
+    size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj
+        oomp_key: oomp_kicad_regulator_linear_ap1117_adj
+    type: pmic
 electronic_resistor_0402_10000_ohm:
     classification: electronic
     color: ''
@@ -9540,6 +10151,10 @@ electronic_resistor_0805_10000_ohm:
     directory: parts/electronic_resistor_0805_10000_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
     from_yaml: false
     id: electronic_resistor_0805_10000_ohm
     kicad_reference: R
@@ -9567,6 +10182,10 @@ electronic_resistor_0805_1000_ohm:
     directory: parts/electronic_resistor_0805_1000_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
     from_yaml: false
     id: electronic_resistor_0805_1000_ohm
     kicad_reference: R
@@ -9594,6 +10213,10 @@ electronic_resistor_0805_2200_ohm:
     directory: parts/electronic_resistor_0805_2200_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
     from_yaml: false
     id: electronic_resistor_0805_2200_ohm
     kicad_reference: R
@@ -9621,6 +10244,10 @@ electronic_resistor_0805_220_ohm:
     directory: parts/electronic_resistor_0805_220_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
     from_yaml: false
     id: electronic_resistor_0805_220_ohm
     kicad_reference: R
@@ -9648,6 +10275,10 @@ electronic_resistor_0805_330_ohm:
     directory: parts/electronic_resistor_0805_330_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
     from_yaml: false
     id: electronic_resistor_0805_330_ohm
     kicad_reference: R
@@ -9675,6 +10306,10 @@ electronic_resistor_0805_560_ohm:
     directory: parts/electronic_resistor_0805_560_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
     from_yaml: false
     id: electronic_resistor_0805_560_ohm
     kicad_reference: R
@@ -9702,6 +10337,10 @@ electronic_resistor_1206_10000_ohm:
     directory: parts/electronic_resistor_1206_10000_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
     from_yaml: false
     id: electronic_resistor_1206_10000_ohm
     kicad_reference: R
@@ -9729,6 +10368,10 @@ electronic_resistor_1206_1000_ohm:
     directory: parts/electronic_resistor_1206_1000_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
     from_yaml: false
     id: electronic_resistor_1206_1000_ohm
     kicad_reference: R
@@ -9756,6 +10399,10 @@ electronic_resistor_1206_2200_ohm:
     directory: parts/electronic_resistor_1206_2200_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
     from_yaml: false
     id: electronic_resistor_1206_2200_ohm
     kicad_reference: R
@@ -9783,6 +10430,10 @@ electronic_resistor_1206_220_ohm:
     directory: parts/electronic_resistor_1206_220_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
     from_yaml: false
     id: electronic_resistor_1206_220_ohm
     kicad_reference: R
@@ -9810,6 +10461,10 @@ electronic_resistor_1206_330_ohm:
     directory: parts/electronic_resistor_1206_330_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
     from_yaml: false
     id: electronic_resistor_1206_330_ohm
     kicad_reference: R
@@ -9837,6 +10492,10 @@ electronic_resistor_1206_560_ohm:
     directory: parts/electronic_resistor_1206_560_ohm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
     from_yaml: false
     id: electronic_resistor_1206_560_ohm
     kicad_reference: R
@@ -10018,3 +10677,28 @@ electronic_resistor_quarter_watt_through_hole_560_ohm:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
         oomp_key: oomp_kicad_device_r
     type: resistor
+electronic_socket_usb_mini_surface_mount_only:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: surface_mount_only
+    directory: parts/electronic_socket_usb_mini_surface_mount_only
+    distributors: []
+    id: electronic_socket_usb_mini_surface_mount_only
+    make_files: true
+    manufacturer: ''
+    md5: 34c5c0be3324508572b94f980c1c9606
+    md5_10: 34c5c0be33
+    md5_5: 34c5c
+    md5_6: 34c5c0
+    name: Electronic Socket Usb Mini Surface Mount Only
+    oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
+    part_number: ''
+    short_code: scumnsmo
+    short_name: ''
+    size: usb_mini
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini
+        oomp_key: oomp_kicad_connector_usb_b_mini
+    type: socket

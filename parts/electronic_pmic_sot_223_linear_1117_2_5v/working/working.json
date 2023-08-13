@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "pmic",
+    "size": "sot_223",
+    "color": "linear",
+    "description_main": "1117",
+    "description_extra": "2_5v",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "id": "electronic_pmic_sot_223_linear_1117_2_5v",
+    "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_2_5v",
+    "directory": "parts/electronic_pmic_sot_223_linear_1117_2_5v",
+    "name": "Electronic Pmic Sot 223 Linear 1117 2 5V",
+    "short_code": "sot2232d5v",
+    "distributors": [],
+    "md5": "8b74539494cbe83b7e01c4b5a91c5523",
+    "md5_5": "8b745",
+    "md5_6": "8b7453",
+    "md5_10": "8b74539494"
+}

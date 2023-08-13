@@ -5,6 +5,10 @@ description_main: 1000_ohm
 directory: parts/electronic_resistor_0805_1000_ohm
 distributors: []
 filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
 from_yaml: false
 id: electronic_resistor_0805_1000_ohm
 kicad_reference: R

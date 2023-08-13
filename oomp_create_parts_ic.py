@@ -54,8 +54,40 @@ def load_parts(**kwargs):
     parts.append(part_details) 
 
 
+    ###### usb to serial bridge
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["sop_16"]
+    part_details["color"] = ["converter"]
+    part_details["description_main"] = "usb_to_serial_converter"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "wch"
+    part_details["part_number"] = "ch340c"
+    part_details["short_name"] = "usb to serial converter (ch340c)"
+    pins = {}
+    pins["1"] = ({"name": "gnd", "number": "1", "type": "signal"})
+    pins["2"] = ({"name": "txd", "number": "2", "type": "signal"})
+    pins["3"] = ({"name": "rxd", "number": "3", "type": "signal"})
+    pins["4"] = ({"name": "v3", "number": "4", "type": "signal"})
+    pins["5"] = ({"name": "ud_plus", "number": "5", "type": "signal"})
+    pins["6"] = ({"name": "ud_negative", "number": "6", "type": "gnd"})
+    pins["7"] = ({"name": "not_connected", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "out", "number": "8", "type": "signal"})
+    pins["9"] = ({"name": "cts", "number": "9", "type": "signal"})
+    pins["10"] = ({"name": "dsr", "number": "10", "type": "signal"})
+    pins["11"] = ({"name": "ri", "number": "11", "type": "signal"})
+    pins["12"] = ({"name": "dcd", "number": "12", "type": "signal"})
+    pins["13"] = ({"name": "dtr", "number": "13", "type": "signal"})
+    pins["14"] = ({"name": "rts", "number": "14", "type": "signal"})
+    pins["15"] = ({"name": "rs232", "number": "15", "type": "signal"})
+    pins["16"] = ({"name": "vcc", "number": "16", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
 
-
+    ##### led drivers
     ##### aip1640 led matrix driver
     part_details = {}
     part_details["classification"] = "electronic"

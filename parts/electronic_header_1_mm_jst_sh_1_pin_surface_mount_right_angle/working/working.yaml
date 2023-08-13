@@ -4,10 +4,6 @@ description_extra: surface_mount_right_angle
 description_main: 1_pin
 directory: parts/electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle
 distributors: []
-footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm01b_srss_tb_1x01_1mp_p1_00mm_horizontal//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm01b_srss_tb_1x01_1mp_p1_00mm_horizontal
-    oomp_key: oomp_kicad_connector_jst_jst_sh_sm01b_srss_tb_1x01_1mp_p1_00mm_horizontal
 id: electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle
 kicad_reference: J
 manufacturer: ''

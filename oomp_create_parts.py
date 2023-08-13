@@ -5,11 +5,16 @@ import oomp
 part_types = []
 
 part_types.append("breakout_board")
+part_types.append("button")
+part_types.append("capacitor")
+part_types.append("crystal")
 part_types.append("header")
 part_types.append("ic")
 part_types.append("led")
 part_types.append("mounting_hole")
+part_types.append("pmic")
 part_types.append("resistor")
+part_types.append("socket")
 
 
 

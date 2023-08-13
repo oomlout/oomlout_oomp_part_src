@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100_nano_farad
+directory: parts/electronic_capacitor_0603_100_nano_farad
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_0603_100_nano_farad
+kicad_reference: C
+manufacturer: ''
+md5: 8cfd91c8b4af505f5c4d796bc12d1d16
+md5_10: 8cfd91c8b4
+md5_5: 8cfd9
+md5_6: 8cfd91
+name: Electronic Capacitor 0603 100 Nano Farad
+oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
+part_number: ''
+short_code: c6nf100
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
+type: capacitor

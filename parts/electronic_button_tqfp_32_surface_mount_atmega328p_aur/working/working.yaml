@@ -1,0 +1,33 @@
+classification: electronic
+color: surface_mount
+description_extra: ''
+description_main: ''
+directory: parts/electronic_button_tqfp_32_surface_mount_atmega328p_aur
+distributors:
+-   name: lcsc
+    part_number: C7450623
+    url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+    oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+id: electronic_button_tqfp_32_surface_mount_atmega328p_aur
+manufacturer: ''
+md5: ec6605977bb88628b613b61d572f8b2c
+md5_10: ec6605977b
+md5_5: ec660
+md5_6: ec6605
+name: Electronic Button Tqfp 32 Surface Mount Atmega328P Aur
+oomp_key: oomp_electronic_button_tqfp_32_surface_mount_atmega328p_aur
+part_number: atmega328p_aur
+short_code: btq32s
+short_name: atmega328 32 pin tqfp
+size: tqfp_32
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+    oomp_key: oomp_kicad_switch_sw_push
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
+type: button

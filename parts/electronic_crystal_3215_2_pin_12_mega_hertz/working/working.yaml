@@ -1,0 +1,21 @@
+classification: electronic
+color: 2_pin
+description_extra: ''
+description_main: 12_mega_hertz
+directory: parts/electronic_crystal_3215_2_pin_12_mega_hertz
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_crystal_3215_2_pin_12_mega_hertz
+kicad_reference: x
+manufacturer: ''
+md5: 0580c994ab3f388e5cb32a4be729d265
+md5_10: 0580c994ab
+md5_5: 0580c
+md5_6: 0580c9
+name: Electronic Crystal 3215 2 Pin 12 Mega Hertz
+oomp_key: oomp_electronic_crystal_3215_2_pin_12_mega_hertz
+part_number: ''
+short_code: x3215mhz12
+size: '3215'
+type: crystal

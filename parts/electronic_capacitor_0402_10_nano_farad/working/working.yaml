@@ -1,0 +1,21 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_nano_farad
+directory: parts/electronic_capacitor_0402_10_nano_farad
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_0402_10_nano_farad
+kicad_reference: C
+manufacturer: ''
+md5: 6ab82773a09b6f3ae48a4a64e5fcce7c
+md5_10: 6ab82773a0
+md5_5: 6ab82
+md5_6: 6ab827
+name: Electronic Capacitor 0402 10 Nano Farad
+oomp_key: oomp_electronic_capacitor_0402_10_nano_farad
+part_number: ''
+short_code: c6nf10
+size: '0402'
+type: capacitor
