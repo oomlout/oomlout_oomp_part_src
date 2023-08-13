@@ -20,7 +20,7 @@ md5_6: 98b9ca
 name: Electronic Resistor 0603 10000 Ohm
 oomp_key: oomp_electronic_resistor_0603_10000_ohm
 part_number: ''
-short_code: r6o103
+short_code: r6o103o103
 size: '0603'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

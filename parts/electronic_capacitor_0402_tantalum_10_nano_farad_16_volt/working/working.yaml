@@ -16,7 +16,7 @@ md5_6: d69870
 name: Electronic Capacitor 0402 Tantalum 10 Nano Farad 16 Volt
 oomp_key: oomp_electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
 part_number: ''
-short_code: c6tnf10
+short_code: c4tnf10nf10
 size: '0402'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym

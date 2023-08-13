@@ -13,9 +13,9 @@ def load_parts(**kwargs):
 
     ## color used for chip type
 
-    ##### atmega
+    
 
-    ##### atmega328
+    
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "button"
@@ -34,79 +34,7 @@ def load_parts(**kwargs):
     part_details["distributors"].append(distributor)
     parts.append(part_details)
 
-    import copy
-    part_details = copy.deepcopy(part_details)
-    part_details["size"] = ["qfn_28"]
-    part_details["part_number"] = "atmega328p_mn"
-    part_details["short_name"] = "atmega328 28 pin qfn"
-    parts.append(part_details)    
     
-    part_details = copy.deepcopy(part_details)
-    part_details["size"] = ["vqfn_28"]
-    part_details["part_number"] = "atmega328p_mmhr"
-    part_details["short_name"] = "atmega328 28 pin vqfn"
-    parts.append(part_details) 
-    
-    part_details = copy.deepcopy(part_details)
-    part_details["size"] = ["mlf_32"]
-    part_details["part_number"] = "atmega328p_mur"
-    part_details["short_name"] = "atmega328 32 pin mlf"
-    parts.append(part_details)    
-    
-    part_details = copy.deepcopy(part_details)
-    part_details["size"] = ["tqfp_32"]
-    part_details["part_number"] = "atmega328p_aur"
-    part_details["short_name"] = "atmega328 32 pin tqfp"
-    parts.append(part_details) 
-
-
-
-
-    ##### aip1640 led matrix driver
-    part_details = {}
-    part_details["classification"] = "electronic"
-    part_details["type"] = "ic"
-    part_details["size"] = ["soic_28_wide"]
-    part_details["color"] = ["led_driver"]
-    part_details["description_main"] = "led_matrix_driver_16_x_8"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "wuxi_i_core_electronics_co_ltd"
-    part_details["part_number"] = "aip1640"
-    part_details["short_name"] = "16x8 led matrix driver (aip1640)"
-    pins = {}
-    pins["1"] = ({"name": "grid12", "number": "1", "type": "signal"})
-    pins["2"] = ({"name": "grid13", "number": "2", "type": "signal"})
-    pins["3"] = ({"name": "grid14", "number": "3", "type": "signal"})
-    pins["4"] = ({"name": "grid15", "number": "4", "type": "signal"})
-    pins["5"] = ({"name": "grid16", "number": "5", "type": "signal"})
-    pins["6"] = ({"name": "vss", "number": "6", "type": "gnd"})
-    pins["7"] = ({"name": "din", "number": "7", "type": "signal"})
-    pins["8"] = ({"name": "sclk", "number": "8", "type": "signal"})
-    pins["9"] = ({"name": "seg1", "number": "9", "type": "signal"})
-    pins["10"] = ({"name": "seg2", "number": "10", "type": "signal"})
-    pins["11"] = ({"name": "seg3", "number": "11", "type": "signal"})
-    pins["12"] = ({"name": "seg4", "number": "12", "type": "signal"})
-    pins["13"] = ({"name": "seg5", "number": "13", "type": "signal"})
-    pins["14"] = ({"name": "seg6", "number": "14", "type": "signal"})
-    pins["15"] = ({"name": "seg7", "number": "15", "type": "signal"})
-    pins["16"] = ({"name": "seg8", "number": "16", "type": "signal"})
-    pins["17"] = ({"name": "vdd", "number": "17", "type": "power"})
-    pins["18"] = ({"name": "grid1", "number": "18", "type": "signal"})
-    pins["19"] = ({"name": "grid2", "number": "19", "type": "signal"})
-    pins["20"] = ({"name": "grid3", "number": "20", "type": "signal"})
-    pins["21"] = ({"name": "grid4", "number": "21", "type": "signal"})
-    pins["22"] = ({"name": "grid5", "number": "22", "type": "signal"})
-    pins["23"] = ({"name": "grid6", "number": "23", "type": "signal"})
-    pins["24"] = ({"name": "grid7", "number": "24", "type": "signal"})
-    pins["25"] = ({"name": "grid8", "number": "25", "type": "signal"})
-    pins["26"] = ({"name": "grid9", "number": "26", "type": "signal"})
-    pins["27"] = ({"name": "grid10", "number": "27", "type": "signal"})
-    pins["28"] = ({"name": "grid11", "number": "28", "type": "signal"})
-    part_details["pins"] = pins
-    part_details["kicad_reference"] = "U"
-    part_details["notes"] = []
-    
-
     
 
     #add the part to the list of parts

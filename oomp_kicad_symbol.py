@@ -35,13 +35,23 @@ def get_symbols(**kwargs):
     match["color"] = ["2_pin"]
     match["symbol_name"] = f"kicad_device_crystal"
     matches.append(match)
-    
+
     match = {}
     match["type"] = "crystal"
     match["color"] = ["3_pin_ground_pin_2"]
     match["symbol_name"] = f"kicad_device_crystal_gnd2"
     matches.append(match)
 
+    ###### diode
+    match = {}
+    match["type"] = "diode"
+    match["symbol_name"] = f"kicad_device_d"
+    matches.append(match)
+
+    match = {}
+    match["type"] = "diode_schottky"
+    match["symbol_name"] = f"kicad_device_d_schottky"
+    matches.append(match)
 
     ###### header
     

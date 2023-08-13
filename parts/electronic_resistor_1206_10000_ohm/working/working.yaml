@@ -20,7 +20,7 @@ md5_6: '446339'
 name: Electronic Resistor 1206 10000 Ohm
 oomp_key: oomp_electronic_resistor_1206_10000_ohm
 part_number: ''
-short_code: r12o103
+short_code: r12o103o103
 size: '1206'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

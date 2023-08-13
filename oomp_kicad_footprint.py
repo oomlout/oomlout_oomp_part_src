@@ -99,12 +99,20 @@ def get_footprints(**kwargs):
     match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm"
     matches.append(match)  
 
+    ###### sod
+    match = {}
+    match["size"] = "sod_123"
+    match["footprint_name"] = f"kicad_diode_smd_d_sod_123"
+    matches.append(match)  
+    
+
     ###### sop
     match = {}
     match["size"] = "sop_16"
     match["footprint_name"] = f"kicad_package_so_sop_16_3_9x9_9mm_p1_27mm"
     matches.append(match)  
     
+
 
     ###### led
 

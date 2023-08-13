@@ -17,7 +17,7 @@ md5_6: b802d6
 name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
 oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
 part_number: atmega328p_mur
-short_code: imlf32at328
+short_code: imlf32at328at328
 short_name: atmega328 32 pin mlf
 size: mlf_32
 symbol:

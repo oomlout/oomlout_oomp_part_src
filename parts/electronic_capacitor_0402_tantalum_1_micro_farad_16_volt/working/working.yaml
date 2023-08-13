@@ -16,7 +16,7 @@ md5_6: ec73e3
 name: Electronic Capacitor 0402 Tantalum 1 Micro Farad 16 Volt
 oomp_key: oomp_electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
 part_number: ''
-short_code: c6tuf1
+short_code: c4tuf1uf1
 size: '0402'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym

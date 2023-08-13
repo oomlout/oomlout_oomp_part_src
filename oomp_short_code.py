@@ -15,6 +15,8 @@ def get_short_code(**kwargs):
     replace_dict["type"]["button"] = "b"
     replace_dict["type"]["capacitor"] = "c"
     replace_dict["type"]["crystal"] = "x"
+    replace_dict["type"]["diode"] = "d"
+    replace_dict["type"]["diode_schottky"] = "ds"
     replace_dict["type"]["ic"] = "i"
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["socket"] = "sc"
@@ -30,13 +32,15 @@ def get_short_code(**kwargs):
     for m in range(1, 10):
         replace_dict["size"][f"m{m}"] = f"m{m}"
     
-    replace_dict["size"]["0402"] = "6"
+    replace_dict["size"]["0402"] = "4"
+
     replace_dict["size"]["0603"] = "6"
     replace_dict["size"]["0805"] = "8"
     replace_dict["size"]["1206"] = "12"
     replace_dict["size"]["3215"] = "3215"
-    replace_dict["size"]["3216_avx_a"] = "avxa"
+    replace_dict["size"]["3216_avx_a"] = "a"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
+    replace_dict["size"]["sod_123"] = "sod123"
     
     replace_dict["size"]["usb_mini"] = "umn"
     replace_dict["size"]["usb_micro"] = "umc"
@@ -103,6 +107,8 @@ def get_short_code(**kwargs):
     for pair in capacitance_pairs:
         for value in range(1, 1000):
             replace_dict["description_main"][f"{value}_{pair[0]}"] = f"{pair[1]}{value}"
+
+    replace_dict["description_main"][f"4_7_micro_farad"] = f"uf4d7"
     pass
     #loop for ohms resistors
     for num_zeros in range(0, 10):
@@ -118,6 +124,9 @@ def get_short_code(**kwargs):
 
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""
+
+    #package_marking
+    #needs to be in the loop
 
     replace_dict["description_extra"]["1_5v"] = "1d5v"
     replace_dict["description_extra"]["1_8v"] = "1d8v"
@@ -143,13 +152,20 @@ def get_short_code(**kwargs):
     short_code = ""
     for name in oomp.names_of_main_elements:
         #get the value from the replace dict
-        try:
-            replace_value = replace_dict[name][kwargs_copy[name]]
-            #add the replace value to the short code
+        try:            
+            if name == "description_extra":
+                if "package_marking" in kwargs_copy[name]:
+                    replace_value = f'pm{kwargs_copy["description_extra"].replace("package_marking_","")}'    
+                    pass                
+            else:
+                replace_value = replace_dict[name][kwargs_copy[name]]
+            #add the replace value to the short code            
             short_code += replace_value
         except:
             pass
             #skip if not in a match array
+    #try to replace_package_marking
+    
 
 
     return short_code

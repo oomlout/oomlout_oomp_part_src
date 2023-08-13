@@ -20,7 +20,7 @@ md5_6: 231e3b
 name: Electronic Resistor 0805 10000 Ohm
 oomp_key: oomp_electronic_resistor_0805_10000_ohm
 part_number: ''
-short_code: r8o103
+short_code: r8o103o103
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

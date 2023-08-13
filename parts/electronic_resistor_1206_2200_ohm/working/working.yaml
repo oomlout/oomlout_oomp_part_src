@@ -20,7 +20,7 @@ md5_6: dee45b
 name: Electronic Resistor 1206 2200 Ohm
 oomp_key: oomp_electronic_resistor_1206_2200_ohm
 part_number: ''
-short_code: r12o222
+short_code: r12o222o222
 size: '1206'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

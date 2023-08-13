@@ -20,7 +20,7 @@ md5_6: 2c7759
 name: Electronic Resistor 0805 560 Ohm
 oomp_key: oomp_electronic_resistor_0805_560_ohm
 part_number: ''
-short_code: r8o561
+short_code: r8o561o561
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

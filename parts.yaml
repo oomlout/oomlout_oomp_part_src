@@ -142,7 +142,7 @@ electronic_breakout_board_mcu_atmega328_shennie:
             name: d6
             number: '9'
             type: signal
-    short_code: bbat328
+    short_code: bbat328at328
     short_name: ''
     size: ''
     symbol:
@@ -178,142 +178,6 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
         oomp_key: oomp_kicad_switch_sw_push
     type: button
-electronic_button_mlf_32_surface_mount_atmega328p_mur:
-    classification: electronic
-    color: surface_mount
-    description_extra: ''
-    description_main: ''
-    directory: parts/electronic_button_mlf_32_surface_mount_atmega328p_mur
-    distributors:
-    -   name: lcsc
-        part_number: C7450623
-        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
-        oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
-    id: electronic_button_mlf_32_surface_mount_atmega328p_mur
-    make_files: true
-    manufacturer: ''
-    md5: ce2c5952f7886052189604a83189385a
-    md5_10: ce2c5952f7
-    md5_5: ce2c5
-    md5_6: ce2c59
-    name: Electronic Button Mlf 32 Surface Mount Atmega328P Mur
-    oomp_key: oomp_electronic_button_mlf_32_surface_mount_atmega328p_mur
-    part_number: atmega328p_mur
-    short_code: bmlf32s
-    short_name: atmega328 32 pin mlf
-    size: mlf_32
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
-        oomp_key: oomp_kicad_switch_sw_push
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
-    type: button
-electronic_button_qfn_28_surface_mount_atmega328p_mn:
-    classification: electronic
-    color: surface_mount
-    description_extra: ''
-    description_main: ''
-    directory: parts/electronic_button_qfn_28_surface_mount_atmega328p_mn
-    distributors:
-    -   name: lcsc
-        part_number: C7450623
-        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
-    id: electronic_button_qfn_28_surface_mount_atmega328p_mn
-    make_files: true
-    manufacturer: ''
-    md5: de69657b0ed600f63e00705c28dab6a9
-    md5_10: de69657b0e
-    md5_5: de696
-    md5_6: de6965
-    name: Electronic Button Qfn 28 Surface Mount Atmega328P Mn
-    oomp_key: oomp_electronic_button_qfn_28_surface_mount_atmega328p_mn
-    part_number: atmega328p_mn
-    short_code: bq28s
-    short_name: atmega328 28 pin qfn
-    size: qfn_28
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
-        oomp_key: oomp_kicad_switch_sw_push
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_p
-    type: button
-electronic_button_tqfp_32_surface_mount_atmega328p_aur:
-    classification: electronic
-    color: surface_mount
-    description_extra: ''
-    description_main: ''
-    directory: parts/electronic_button_tqfp_32_surface_mount_atmega328p_aur
-    distributors:
-    -   name: lcsc
-        part_number: C7450623
-        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
-        oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
-    id: electronic_button_tqfp_32_surface_mount_atmega328p_aur
-    make_files: true
-    manufacturer: ''
-    md5: ec6605977bb88628b613b61d572f8b2c
-    md5_10: ec6605977b
-    md5_5: ec660
-    md5_6: ec6605
-    name: Electronic Button Tqfp 32 Surface Mount Atmega328P Aur
-    oomp_key: oomp_electronic_button_tqfp_32_surface_mount_atmega328p_aur
-    part_number: atmega328p_aur
-    short_code: btq32s
-    short_name: atmega328 32 pin tqfp
-    size: tqfp_32
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
-        oomp_key: oomp_kicad_switch_sw_push
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
-    type: button
-electronic_button_vqfn_28_surface_mount_atmega328p_mmhr:
-    classification: electronic
-    color: surface_mount
-    description_extra: ''
-    description_main: ''
-    directory: parts/electronic_button_vqfn_28_surface_mount_atmega328p_mmhr
-    distributors:
-    -   name: lcsc
-        part_number: C7450623
-        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
-        oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
-    id: electronic_button_vqfn_28_surface_mount_atmega328p_mmhr
-    make_files: true
-    manufacturer: ''
-    md5: 3ffeec491553320df32460be8f2eae7c
-    md5_10: 3ffeec4915
-    md5_5: 3ffee
-    md5_6: 3ffeec
-    name: Electronic Button Vqfn 28 Surface Mount Atmega328P Mmhr
-    oomp_key: oomp_electronic_button_vqfn_28_surface_mount_atmega328p_mmhr
-    part_number: atmega328p_mmhr
-    short_code: bvq28s
-    short_name: atmega328 28 pin vqfn
-    size: vqfn_28
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
-        oomp_key: oomp_kicad_switch_sw_push
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
-    type: button
 electronic_capacitor_0402_tantalum_100_nano_farad_16_volt:
     classification: electronic
     color: tantalum
@@ -334,7 +198,7 @@ electronic_capacitor_0402_tantalum_100_nano_farad_16_volt:
     name: Electronic Capacitor 0402 Tantalum 100 Nano Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
     part_number: ''
-    short_code: c6tnf100
+    short_code: c4tnf100nf100
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -361,7 +225,7 @@ electronic_capacitor_0402_tantalum_10_nano_farad_16_volt:
     name: Electronic Capacitor 0402 Tantalum 10 Nano Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
     part_number: ''
-    short_code: c6tnf10
+    short_code: c4tnf10nf10
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -388,7 +252,7 @@ electronic_capacitor_0402_tantalum_1_micro_farad_16_volt:
     name: Electronic Capacitor 0402 Tantalum 1 Micro Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
     part_number: ''
-    short_code: c6tuf1
+    short_code: c4tuf1uf1
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -415,7 +279,7 @@ electronic_capacitor_0402_tantalum_22_nano_farad_16_volt:
     name: Electronic Capacitor 0402 Tantalum 22 Nano Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
     part_number: ''
-    short_code: c6tnf22
+    short_code: c4tnf22nf22
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -442,7 +306,7 @@ electronic_capacitor_0603_100_nano_farad:
     name: Electronic Capacitor 0603 100 Nano Farad
     oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
     part_number: ''
-    short_code: c6nf100
+    short_code: c6nf100nf100
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -469,7 +333,7 @@ electronic_capacitor_0603_10_micro_farad4_7_micro_farad:
     name: Electronic Capacitor 0603 10 Micro Farad4 7 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_10_micro_farad4_7_micro_farad
     part_number: ''
-    short_code: c6
+    short_code: c66
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -496,7 +360,7 @@ electronic_capacitor_0603_1_micro_farad:
     name: Electronic Capacitor 0603 1 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_1_micro_farad
     part_number: ''
-    short_code: c6uf1
+    short_code: c6uf1uf1
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -523,7 +387,7 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
     part_number: ''
-    short_code: cavxat
+    short_code: catuf4d7uf4d7
     size: 3216_avx_a
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -550,7 +414,7 @@ electronic_crystal_3215_2_pin_12_mega_hertz:
     name: Electronic Crystal 3215 2 Pin 12 Mega Hertz
     oomp_key: oomp_electronic_crystal_3215_2_pin_12_mega_hertz
     part_number: ''
-    short_code: x3215mhz12
+    short_code: x3215mhz12mhz12
     size: '3215'
     type: crystal
 electronic_crystal_3215_2_pin_16_mega_hertz:
@@ -573,9 +437,40 @@ electronic_crystal_3215_2_pin_16_mega_hertz:
     name: Electronic Crystal 3215 2 Pin 16 Mega Hertz
     oomp_key: oomp_electronic_crystal_3215_2_pin_16_mega_hertz
     part_number: ''
-    short_code: x3215mhz16
+    short_code: x3215mhz16mhz16
     size: '3215'
     type: crystal
+electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
+    classification: electronic
+    color: ''
+    description_extra: package_marking_b2
+    description_main: ''
+    directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
+        oomp_key: oomp_kicad_diode_smd_d_sod_123
+    from_yaml: false
+    id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+    kicad_reference: D
+    make_files: true
+    manufacturer: ''
+    md5: fd1bfba95edbbb6f03cb0e465b2a0493
+    md5_10: fd1bfba95e
+    md5_5: fd1bf
+    md5_6: fd1bfb
+    name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
+    oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+    part_number: mbr0520
+    short_code: dssod123pmb2
+    size: sod_123
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d_schottky//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d_schottky
+        oomp_key: oomp_kicad_device_d_schottky
+    type: diode_schottky
 electronic_header_1_mm_jst_sh_10_pin:
     classification: electronic
     color: ''
@@ -594,7 +489,7 @@ electronic_header_1_mm_jst_sh_10_pin:
     name: Electronic Header 1 Mm Jst Sh 10 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin
     part_number: ''
-    short_code: h10p
+    short_code: h10p10p
     short_name: Jst Sh 10 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -620,7 +515,7 @@ electronic_header_1_mm_jst_sh_10_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 10 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_right_angle
     part_number: ''
-    short_code: h10pra
+    short_code: h10p10p
     short_name: Jst Sh 10 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -646,7 +541,7 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 10 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_surface_mount
     part_number: ''
-    short_code: h10psm
+    short_code: h10p10p
     short_name: Jst Sh 10 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -676,7 +571,7 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 10 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h10psmra
+    short_code: h10p10p
     short_name: Jst Sh 10 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -702,7 +597,7 @@ electronic_header_1_mm_jst_sh_1_pin:
     name: Electronic Header 1 Mm Jst Sh 1 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin
     part_number: ''
-    short_code: h1p
+    short_code: h1p1p
     short_name: Jst Sh 1 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -728,7 +623,7 @@ electronic_header_1_mm_jst_sh_1_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 1 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin_right_angle
     part_number: ''
-    short_code: h1pra
+    short_code: h1p1p
     short_name: Jst Sh 1 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -754,7 +649,7 @@ electronic_header_1_mm_jst_sh_1_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 1 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin_surface_mount
     part_number: ''
-    short_code: h1psm
+    short_code: h1p1p
     short_name: Jst Sh 1 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -780,7 +675,7 @@ electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 1 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h1psmra
+    short_code: h1p1p
     short_name: Jst Sh 1 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -806,7 +701,7 @@ electronic_header_1_mm_jst_sh_2_pin:
     name: Electronic Header 1 Mm Jst Sh 2 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin
     part_number: ''
-    short_code: h2p
+    short_code: h2p2p
     short_name: Jst Sh 2 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -832,7 +727,7 @@ electronic_header_1_mm_jst_sh_2_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 2 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin_right_angle
     part_number: ''
-    short_code: h2pra
+    short_code: h2p2p
     short_name: Jst Sh 2 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -858,7 +753,7 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 2 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin_surface_mount
     part_number: ''
-    short_code: h2psm
+    short_code: h2p2p
     short_name: Jst Sh 2 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -888,7 +783,7 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 2 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h2psmra
+    short_code: h2p2p
     short_name: Jst Sh 2 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -914,7 +809,7 @@ electronic_header_1_mm_jst_sh_3_pin:
     name: Electronic Header 1 Mm Jst Sh 3 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin
     part_number: ''
-    short_code: h3p
+    short_code: h3p3p
     short_name: Jst Sh 3 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -940,7 +835,7 @@ electronic_header_1_mm_jst_sh_3_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 3 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_right_angle
     part_number: ''
-    short_code: h3pra
+    short_code: h3p3p
     short_name: Jst Sh 3 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -966,7 +861,7 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount
     part_number: ''
-    short_code: h3psm
+    short_code: h3p3p
     short_name: Jst Sh 3 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -996,7 +891,7 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h3psmra
+    short_code: h3p3p
     short_name: Jst Sh 3 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1022,7 +917,7 @@ electronic_header_1_mm_jst_sh_4_pin:
     name: Electronic Header 1 Mm Jst Sh 4 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin
     part_number: ''
-    short_code: h4p
+    short_code: h4p4p
     short_name: Jst Sh 4 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1048,7 +943,7 @@ electronic_header_1_mm_jst_sh_4_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 4 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_right_angle
     part_number: ''
-    short_code: h4pra
+    short_code: h4p4p
     short_name: Jst Sh 4 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1074,7 +969,7 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount
     part_number: ''
-    short_code: h4psm
+    short_code: h4p4p
     short_name: Jst Sh 4 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1104,7 +999,7 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h4psmra
+    short_code: h4p4p
     short_name: Jst Sh 4 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1130,7 +1025,7 @@ electronic_header_1_mm_jst_sh_5_pin:
     name: Electronic Header 1 Mm Jst Sh 5 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin
     part_number: ''
-    short_code: h5p
+    short_code: h5p5p
     short_name: Jst Sh 5 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1156,7 +1051,7 @@ electronic_header_1_mm_jst_sh_5_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 5 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin_right_angle
     part_number: ''
-    short_code: h5pra
+    short_code: h5p5p
     short_name: Jst Sh 5 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1182,7 +1077,7 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 5 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin_surface_mount
     part_number: ''
-    short_code: h5psm
+    short_code: h5p5p
     short_name: Jst Sh 5 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1212,7 +1107,7 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 5 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h5psmra
+    short_code: h5p5p
     short_name: Jst Sh 5 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1238,7 +1133,7 @@ electronic_header_1_mm_jst_sh_6_pin:
     name: Electronic Header 1 Mm Jst Sh 6 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin
     part_number: ''
-    short_code: h6p
+    short_code: h6p6p
     short_name: Jst Sh 6 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1264,7 +1159,7 @@ electronic_header_1_mm_jst_sh_6_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 6 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_right_angle
     part_number: ''
-    short_code: h6pra
+    short_code: h6p6p
     short_name: Jst Sh 6 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1290,7 +1185,7 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount
     part_number: ''
-    short_code: h6psm
+    short_code: h6p6p
     short_name: Jst Sh 6 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1320,7 +1215,7 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h6psmra
+    short_code: h6p6p
     short_name: Jst Sh 6 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1346,7 +1241,7 @@ electronic_header_1_mm_jst_sh_7_pin:
     name: Electronic Header 1 Mm Jst Sh 7 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin
     part_number: ''
-    short_code: h7p
+    short_code: h7p7p
     short_name: Jst Sh 7 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1372,7 +1267,7 @@ electronic_header_1_mm_jst_sh_7_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 7 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin_right_angle
     part_number: ''
-    short_code: h7pra
+    short_code: h7p7p
     short_name: Jst Sh 7 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1398,7 +1293,7 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 7 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin_surface_mount
     part_number: ''
-    short_code: h7psm
+    short_code: h7p7p
     short_name: Jst Sh 7 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1428,7 +1323,7 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 7 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h7psmra
+    short_code: h7p7p
     short_name: Jst Sh 7 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1454,7 +1349,7 @@ electronic_header_1_mm_jst_sh_8_pin:
     name: Electronic Header 1 Mm Jst Sh 8 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin
     part_number: ''
-    short_code: h8p
+    short_code: h8p8p
     short_name: Jst Sh 8 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1480,7 +1375,7 @@ electronic_header_1_mm_jst_sh_8_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 8 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin_right_angle
     part_number: ''
-    short_code: h8pra
+    short_code: h8p8p
     short_name: Jst Sh 8 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1506,7 +1401,7 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin_surface_mount
     part_number: ''
-    short_code: h8psm
+    short_code: h8p8p
     short_name: Jst Sh 8 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1536,7 +1431,7 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h8psmra
+    short_code: h8p8p
     short_name: Jst Sh 8 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1562,7 +1457,7 @@ electronic_header_1_mm_jst_sh_9_pin:
     name: Electronic Header 1 Mm Jst Sh 9 Pin
     oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin
     part_number: ''
-    short_code: h9p
+    short_code: h9p9p
     short_name: Jst Sh 9 Pin Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1588,7 +1483,7 @@ electronic_header_1_mm_jst_sh_9_pin_right_angle:
     name: Electronic Header 1 Mm Jst Sh 9 Pin Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin_right_angle
     part_number: ''
-    short_code: h9pra
+    short_code: h9p9p
     short_name: Jst Sh 9 Pin Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1614,7 +1509,7 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount:
     name: Electronic Header 1 Mm Jst Sh 9 Pin Surface Mount
     oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount
     part_number: ''
-    short_code: h9psm
+    short_code: h9p9p
     short_name: Jst Sh 9 Pin Surface Mount Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1644,7 +1539,7 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle:
     name: Electronic Header 1 Mm Jst Sh 9 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h9psmra
+    short_code: h9p9p
     short_name: Jst Sh 9 Pin Surface Mount Right Angle Header 1 Mm Pitch
     size: 1_mm_jst_sh
     symbol:
@@ -1670,7 +1565,7 @@ electronic_header_2_mm_jst_ph_10_pin:
     name: Electronic Header 2 Mm Jst Ph 10 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_10_pin
     part_number: ''
-    short_code: h10p
+    short_code: h10p10p
     short_name: Jst Ph 10 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1696,7 +1591,7 @@ electronic_header_2_mm_jst_ph_10_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 10 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_10_pin_right_angle
     part_number: ''
-    short_code: h10pra
+    short_code: h10p10p
     short_name: Jst Ph 10 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1722,7 +1617,7 @@ electronic_header_2_mm_jst_ph_10_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 10 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_10_pin_surface_mount
     part_number: ''
-    short_code: h10psm
+    short_code: h10p10p
     short_name: Jst Ph 10 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1748,7 +1643,7 @@ electronic_header_2_mm_jst_ph_10_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 10 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_10_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h10psmra
+    short_code: h10p10p
     short_name: Jst Ph 10 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1774,7 +1669,7 @@ electronic_header_2_mm_jst_ph_1_pin:
     name: Electronic Header 2 Mm Jst Ph 1 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_1_pin
     part_number: ''
-    short_code: h1p
+    short_code: h1p1p
     short_name: Jst Ph 1 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1800,7 +1695,7 @@ electronic_header_2_mm_jst_ph_1_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 1 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_1_pin_right_angle
     part_number: ''
-    short_code: h1pra
+    short_code: h1p1p
     short_name: Jst Ph 1 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1826,7 +1721,7 @@ electronic_header_2_mm_jst_ph_1_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 1 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_1_pin_surface_mount
     part_number: ''
-    short_code: h1psm
+    short_code: h1p1p
     short_name: Jst Ph 1 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1852,7 +1747,7 @@ electronic_header_2_mm_jst_ph_1_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 1 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_1_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h1psmra
+    short_code: h1p1p
     short_name: Jst Ph 1 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1878,7 +1773,7 @@ electronic_header_2_mm_jst_ph_2_pin:
     name: Electronic Header 2 Mm Jst Ph 2 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_2_pin
     part_number: ''
-    short_code: h2p
+    short_code: h2p2p
     short_name: Jst Ph 2 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1904,7 +1799,7 @@ electronic_header_2_mm_jst_ph_2_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 2 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_2_pin_right_angle
     part_number: ''
-    short_code: h2pra
+    short_code: h2p2p
     short_name: Jst Ph 2 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1930,7 +1825,7 @@ electronic_header_2_mm_jst_ph_2_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 2 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_2_pin_surface_mount
     part_number: ''
-    short_code: h2psm
+    short_code: h2p2p
     short_name: Jst Ph 2 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1956,7 +1851,7 @@ electronic_header_2_mm_jst_ph_2_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 2 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_2_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h2psmra
+    short_code: h2p2p
     short_name: Jst Ph 2 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -1982,7 +1877,7 @@ electronic_header_2_mm_jst_ph_3_pin:
     name: Electronic Header 2 Mm Jst Ph 3 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_3_pin
     part_number: ''
-    short_code: h3p
+    short_code: h3p3p
     short_name: Jst Ph 3 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2008,7 +1903,7 @@ electronic_header_2_mm_jst_ph_3_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 3 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_3_pin_right_angle
     part_number: ''
-    short_code: h3pra
+    short_code: h3p3p
     short_name: Jst Ph 3 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2034,7 +1929,7 @@ electronic_header_2_mm_jst_ph_3_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 3 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_3_pin_surface_mount
     part_number: ''
-    short_code: h3psm
+    short_code: h3p3p
     short_name: Jst Ph 3 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2060,7 +1955,7 @@ electronic_header_2_mm_jst_ph_3_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 3 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_3_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h3psmra
+    short_code: h3p3p
     short_name: Jst Ph 3 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2086,7 +1981,7 @@ electronic_header_2_mm_jst_ph_4_pin:
     name: Electronic Header 2 Mm Jst Ph 4 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin
     part_number: ''
-    short_code: h4p
+    short_code: h4p4p
     short_name: Jst Ph 4 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2112,7 +2007,7 @@ electronic_header_2_mm_jst_ph_4_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 4 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin_right_angle
     part_number: ''
-    short_code: h4pra
+    short_code: h4p4p
     short_name: Jst Ph 4 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2138,7 +2033,7 @@ electronic_header_2_mm_jst_ph_4_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 4 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin_surface_mount
     part_number: ''
-    short_code: h4psm
+    short_code: h4p4p
     short_name: Jst Ph 4 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2164,7 +2059,7 @@ electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 4 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h4psmra
+    short_code: h4p4p
     short_name: Jst Ph 4 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2190,7 +2085,7 @@ electronic_header_2_mm_jst_ph_5_pin:
     name: Electronic Header 2 Mm Jst Ph 5 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_5_pin
     part_number: ''
-    short_code: h5p
+    short_code: h5p5p
     short_name: Jst Ph 5 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2216,7 +2111,7 @@ electronic_header_2_mm_jst_ph_5_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 5 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_5_pin_right_angle
     part_number: ''
-    short_code: h5pra
+    short_code: h5p5p
     short_name: Jst Ph 5 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2242,7 +2137,7 @@ electronic_header_2_mm_jst_ph_5_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 5 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_5_pin_surface_mount
     part_number: ''
-    short_code: h5psm
+    short_code: h5p5p
     short_name: Jst Ph 5 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2268,7 +2163,7 @@ electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 5 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h5psmra
+    short_code: h5p5p
     short_name: Jst Ph 5 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2294,7 +2189,7 @@ electronic_header_2_mm_jst_ph_6_pin:
     name: Electronic Header 2 Mm Jst Ph 6 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin
     part_number: ''
-    short_code: h6p
+    short_code: h6p6p
     short_name: Jst Ph 6 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2320,7 +2215,7 @@ electronic_header_2_mm_jst_ph_6_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 6 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin_right_angle
     part_number: ''
-    short_code: h6pra
+    short_code: h6p6p
     short_name: Jst Ph 6 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2346,7 +2241,7 @@ electronic_header_2_mm_jst_ph_6_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 6 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin_surface_mount
     part_number: ''
-    short_code: h6psm
+    short_code: h6p6p
     short_name: Jst Ph 6 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2372,7 +2267,7 @@ electronic_header_2_mm_jst_ph_6_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 6 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h6psmra
+    short_code: h6p6p
     short_name: Jst Ph 6 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2398,7 +2293,7 @@ electronic_header_2_mm_jst_ph_7_pin:
     name: Electronic Header 2 Mm Jst Ph 7 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_7_pin
     part_number: ''
-    short_code: h7p
+    short_code: h7p7p
     short_name: Jst Ph 7 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2424,7 +2319,7 @@ electronic_header_2_mm_jst_ph_7_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 7 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_7_pin_right_angle
     part_number: ''
-    short_code: h7pra
+    short_code: h7p7p
     short_name: Jst Ph 7 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2450,7 +2345,7 @@ electronic_header_2_mm_jst_ph_7_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 7 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_7_pin_surface_mount
     part_number: ''
-    short_code: h7psm
+    short_code: h7p7p
     short_name: Jst Ph 7 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2476,7 +2371,7 @@ electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 7 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h7psmra
+    short_code: h7p7p
     short_name: Jst Ph 7 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2502,7 +2397,7 @@ electronic_header_2_mm_jst_ph_8_pin:
     name: Electronic Header 2 Mm Jst Ph 8 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin
     part_number: ''
-    short_code: h8p
+    short_code: h8p8p
     short_name: Jst Ph 8 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2528,7 +2423,7 @@ electronic_header_2_mm_jst_ph_8_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 8 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin_right_angle
     part_number: ''
-    short_code: h8pra
+    short_code: h8p8p
     short_name: Jst Ph 8 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2554,7 +2449,7 @@ electronic_header_2_mm_jst_ph_8_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 8 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin_surface_mount
     part_number: ''
-    short_code: h8psm
+    short_code: h8p8p
     short_name: Jst Ph 8 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2580,7 +2475,7 @@ electronic_header_2_mm_jst_ph_8_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 8 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h8psmra
+    short_code: h8p8p
     short_name: Jst Ph 8 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2606,7 +2501,7 @@ electronic_header_2_mm_jst_ph_9_pin:
     name: Electronic Header 2 Mm Jst Ph 9 Pin
     oomp_key: oomp_electronic_header_2_mm_jst_ph_9_pin
     part_number: ''
-    short_code: h9p
+    short_code: h9p9p
     short_name: Jst Ph 9 Pin Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2632,7 +2527,7 @@ electronic_header_2_mm_jst_ph_9_pin_right_angle:
     name: Electronic Header 2 Mm Jst Ph 9 Pin Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_9_pin_right_angle
     part_number: ''
-    short_code: h9pra
+    short_code: h9p9p
     short_name: Jst Ph 9 Pin Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2658,7 +2553,7 @@ electronic_header_2_mm_jst_ph_9_pin_surface_mount:
     name: Electronic Header 2 Mm Jst Ph 9 Pin Surface Mount
     oomp_key: oomp_electronic_header_2_mm_jst_ph_9_pin_surface_mount
     part_number: ''
-    short_code: h9psm
+    short_code: h9p9p
     short_name: Jst Ph 9 Pin Surface Mount Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2684,7 +2579,7 @@ electronic_header_2_mm_jst_ph_9_pin_surface_mount_right_angle:
     name: Electronic Header 2 Mm Jst Ph 9 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2_mm_jst_ph_9_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h9psmra
+    short_code: h9p9p
     short_name: Jst Ph 9 Pin Surface Mount Right Angle Header 2 Mm Pitch
     size: 2_mm_jst_ph
     symbol:
@@ -2714,7 +2609,7 @@ electronic_header_2d54_mm_10_pin:
     name: Electronic Header 2D54 Mm 10 Pin
     oomp_key: oomp_electronic_header_2d54_mm_10_pin
     part_number: ''
-    short_code: hi110p
+    short_code: hi110p10p
     short_name: 0.1" 10 Pin Header
     size: 2d54_mm
     symbol:
@@ -2744,7 +2639,7 @@ electronic_header_2d54_mm_10_pin_right_angle:
     name: Electronic Header 2D54 Mm 10 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_10_pin_right_angle
     part_number: ''
-    short_code: hi110pra
+    short_code: hi110p10p
     short_name: 0.1" 10 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -2777,7 +2672,7 @@ electronic_header_2d54_mm_10_pin_surface_mount:
     name: Electronic Header 2D54 Mm 10 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_10_pin_surface_mount
     part_number: ''
-    short_code: hi110psm
+    short_code: hi110p10p
     short_name: 0.1" 10 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -2810,7 +2705,7 @@ electronic_header_2d54_mm_10_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 10 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_10_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi110psmra
+    short_code: hi110p10p
     short_name: 0.1" 10 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -2840,7 +2735,7 @@ electronic_header_2d54_mm_11_pin:
     name: Electronic Header 2D54 Mm 11 Pin
     oomp_key: oomp_electronic_header_2d54_mm_11_pin
     part_number: ''
-    short_code: hi111p
+    short_code: hi111p11p
     short_name: 0.1" 11 Pin Header
     size: 2d54_mm
     symbol:
@@ -2870,7 +2765,7 @@ electronic_header_2d54_mm_11_pin_right_angle:
     name: Electronic Header 2D54 Mm 11 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_11_pin_right_angle
     part_number: ''
-    short_code: hi111pra
+    short_code: hi111p11p
     short_name: 0.1" 11 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -2903,7 +2798,7 @@ electronic_header_2d54_mm_11_pin_surface_mount:
     name: Electronic Header 2D54 Mm 11 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_11_pin_surface_mount
     part_number: ''
-    short_code: hi111psm
+    short_code: hi111p11p
     short_name: 0.1" 11 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -2936,7 +2831,7 @@ electronic_header_2d54_mm_11_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 11 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_11_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi111psmra
+    short_code: hi111p11p
     short_name: 0.1" 11 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -2966,7 +2861,7 @@ electronic_header_2d54_mm_12_pin:
     name: Electronic Header 2D54 Mm 12 Pin
     oomp_key: oomp_electronic_header_2d54_mm_12_pin
     part_number: ''
-    short_code: hi112p
+    short_code: hi112p12p
     short_name: 0.1" 12 Pin Header
     size: 2d54_mm
     symbol:
@@ -2996,7 +2891,7 @@ electronic_header_2d54_mm_12_pin_right_angle:
     name: Electronic Header 2D54 Mm 12 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_12_pin_right_angle
     part_number: ''
-    short_code: hi112pra
+    short_code: hi112p12p
     short_name: 0.1" 12 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3029,7 +2924,7 @@ electronic_header_2d54_mm_12_pin_surface_mount:
     name: Electronic Header 2D54 Mm 12 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_12_pin_surface_mount
     part_number: ''
-    short_code: hi112psm
+    short_code: hi112p12p
     short_name: 0.1" 12 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3062,7 +2957,7 @@ electronic_header_2d54_mm_12_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 12 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_12_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi112psmra
+    short_code: hi112p12p
     short_name: 0.1" 12 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3092,7 +2987,7 @@ electronic_header_2d54_mm_13_pin:
     name: Electronic Header 2D54 Mm 13 Pin
     oomp_key: oomp_electronic_header_2d54_mm_13_pin
     part_number: ''
-    short_code: hi113p
+    short_code: hi113p13p
     short_name: 0.1" 13 Pin Header
     size: 2d54_mm
     symbol:
@@ -3122,7 +3017,7 @@ electronic_header_2d54_mm_13_pin_right_angle:
     name: Electronic Header 2D54 Mm 13 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_13_pin_right_angle
     part_number: ''
-    short_code: hi113pra
+    short_code: hi113p13p
     short_name: 0.1" 13 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3155,7 +3050,7 @@ electronic_header_2d54_mm_13_pin_surface_mount:
     name: Electronic Header 2D54 Mm 13 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_13_pin_surface_mount
     part_number: ''
-    short_code: hi113psm
+    short_code: hi113p13p
     short_name: 0.1" 13 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3188,7 +3083,7 @@ electronic_header_2d54_mm_13_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 13 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_13_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi113psmra
+    short_code: hi113p13p
     short_name: 0.1" 13 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3218,7 +3113,7 @@ electronic_header_2d54_mm_14_pin:
     name: Electronic Header 2D54 Mm 14 Pin
     oomp_key: oomp_electronic_header_2d54_mm_14_pin
     part_number: ''
-    short_code: hi114p
+    short_code: hi114p14p
     short_name: 0.1" 14 Pin Header
     size: 2d54_mm
     symbol:
@@ -3248,7 +3143,7 @@ electronic_header_2d54_mm_14_pin_right_angle:
     name: Electronic Header 2D54 Mm 14 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_14_pin_right_angle
     part_number: ''
-    short_code: hi114pra
+    short_code: hi114p14p
     short_name: 0.1" 14 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3281,7 +3176,7 @@ electronic_header_2d54_mm_14_pin_surface_mount:
     name: Electronic Header 2D54 Mm 14 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_14_pin_surface_mount
     part_number: ''
-    short_code: hi114psm
+    short_code: hi114p14p
     short_name: 0.1" 14 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3314,7 +3209,7 @@ electronic_header_2d54_mm_14_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 14 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_14_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi114psmra
+    short_code: hi114p14p
     short_name: 0.1" 14 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3344,7 +3239,7 @@ electronic_header_2d54_mm_15_pin:
     name: Electronic Header 2D54 Mm 15 Pin
     oomp_key: oomp_electronic_header_2d54_mm_15_pin
     part_number: ''
-    short_code: hi115p
+    short_code: hi115p15p
     short_name: 0.1" 15 Pin Header
     size: 2d54_mm
     symbol:
@@ -3374,7 +3269,7 @@ electronic_header_2d54_mm_15_pin_right_angle:
     name: Electronic Header 2D54 Mm 15 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_15_pin_right_angle
     part_number: ''
-    short_code: hi115pra
+    short_code: hi115p15p
     short_name: 0.1" 15 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3407,7 +3302,7 @@ electronic_header_2d54_mm_15_pin_surface_mount:
     name: Electronic Header 2D54 Mm 15 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_15_pin_surface_mount
     part_number: ''
-    short_code: hi115psm
+    short_code: hi115p15p
     short_name: 0.1" 15 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3440,7 +3335,7 @@ electronic_header_2d54_mm_15_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 15 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_15_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi115psmra
+    short_code: hi115p15p
     short_name: 0.1" 15 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3470,7 +3365,7 @@ electronic_header_2d54_mm_16_pin:
     name: Electronic Header 2D54 Mm 16 Pin
     oomp_key: oomp_electronic_header_2d54_mm_16_pin
     part_number: ''
-    short_code: hi116p
+    short_code: hi116p16p
     short_name: 0.1" 16 Pin Header
     size: 2d54_mm
     symbol:
@@ -3500,7 +3395,7 @@ electronic_header_2d54_mm_16_pin_right_angle:
     name: Electronic Header 2D54 Mm 16 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_16_pin_right_angle
     part_number: ''
-    short_code: hi116pra
+    short_code: hi116p16p
     short_name: 0.1" 16 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3533,7 +3428,7 @@ electronic_header_2d54_mm_16_pin_surface_mount:
     name: Electronic Header 2D54 Mm 16 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_16_pin_surface_mount
     part_number: ''
-    short_code: hi116psm
+    short_code: hi116p16p
     short_name: 0.1" 16 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3566,7 +3461,7 @@ electronic_header_2d54_mm_16_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 16 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_16_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi116psmra
+    short_code: hi116p16p
     short_name: 0.1" 16 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3596,7 +3491,7 @@ electronic_header_2d54_mm_17_pin:
     name: Electronic Header 2D54 Mm 17 Pin
     oomp_key: oomp_electronic_header_2d54_mm_17_pin
     part_number: ''
-    short_code: hi117p
+    short_code: hi117p17p
     short_name: 0.1" 17 Pin Header
     size: 2d54_mm
     symbol:
@@ -3626,7 +3521,7 @@ electronic_header_2d54_mm_17_pin_right_angle:
     name: Electronic Header 2D54 Mm 17 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_17_pin_right_angle
     part_number: ''
-    short_code: hi117pra
+    short_code: hi117p17p
     short_name: 0.1" 17 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3659,7 +3554,7 @@ electronic_header_2d54_mm_17_pin_surface_mount:
     name: Electronic Header 2D54 Mm 17 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_17_pin_surface_mount
     part_number: ''
-    short_code: hi117psm
+    short_code: hi117p17p
     short_name: 0.1" 17 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3692,7 +3587,7 @@ electronic_header_2d54_mm_17_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 17 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_17_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi117psmra
+    short_code: hi117p17p
     short_name: 0.1" 17 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3722,7 +3617,7 @@ electronic_header_2d54_mm_18_pin:
     name: Electronic Header 2D54 Mm 18 Pin
     oomp_key: oomp_electronic_header_2d54_mm_18_pin
     part_number: ''
-    short_code: hi118p
+    short_code: hi118p18p
     short_name: 0.1" 18 Pin Header
     size: 2d54_mm
     symbol:
@@ -3752,7 +3647,7 @@ electronic_header_2d54_mm_18_pin_right_angle:
     name: Electronic Header 2D54 Mm 18 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_18_pin_right_angle
     part_number: ''
-    short_code: hi118pra
+    short_code: hi118p18p
     short_name: 0.1" 18 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3785,7 +3680,7 @@ electronic_header_2d54_mm_18_pin_surface_mount:
     name: Electronic Header 2D54 Mm 18 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_18_pin_surface_mount
     part_number: ''
-    short_code: hi118psm
+    short_code: hi118p18p
     short_name: 0.1" 18 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3818,7 +3713,7 @@ electronic_header_2d54_mm_18_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 18 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_18_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi118psmra
+    short_code: hi118p18p
     short_name: 0.1" 18 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3848,7 +3743,7 @@ electronic_header_2d54_mm_19_pin:
     name: Electronic Header 2D54 Mm 19 Pin
     oomp_key: oomp_electronic_header_2d54_mm_19_pin
     part_number: ''
-    short_code: hi119p
+    short_code: hi119p19p
     short_name: 0.1" 19 Pin Header
     size: 2d54_mm
     symbol:
@@ -3878,7 +3773,7 @@ electronic_header_2d54_mm_19_pin_right_angle:
     name: Electronic Header 2D54 Mm 19 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_19_pin_right_angle
     part_number: ''
-    short_code: hi119pra
+    short_code: hi119p19p
     short_name: 0.1" 19 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3911,7 +3806,7 @@ electronic_header_2d54_mm_19_pin_surface_mount:
     name: Electronic Header 2D54 Mm 19 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_19_pin_surface_mount
     part_number: ''
-    short_code: hi119psm
+    short_code: hi119p19p
     short_name: 0.1" 19 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -3944,7 +3839,7 @@ electronic_header_2d54_mm_19_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 19 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_19_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi119psmra
+    short_code: hi119p19p
     short_name: 0.1" 19 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -3974,7 +3869,7 @@ electronic_header_2d54_mm_1_pin:
     name: Electronic Header 2D54 Mm 1 Pin
     oomp_key: oomp_electronic_header_2d54_mm_1_pin
     part_number: ''
-    short_code: hi11p
+    short_code: hi11p1p
     short_name: 0.1" 1 Pin Header
     size: 2d54_mm
     symbol:
@@ -4004,7 +3899,7 @@ electronic_header_2d54_mm_1_pin_right_angle:
     name: Electronic Header 2D54 Mm 1 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_1_pin_right_angle
     part_number: ''
-    short_code: hi11pra
+    short_code: hi11p1p
     short_name: 0.1" 1 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4034,7 +3929,7 @@ electronic_header_2d54_mm_1_pin_surface_mount:
     name: Electronic Header 2D54 Mm 1 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_1_pin_surface_mount
     part_number: ''
-    short_code: hi11psm
+    short_code: hi11p1p
     short_name: 0.1" 1 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4064,7 +3959,7 @@ electronic_header_2d54_mm_1_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 1 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_1_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi11psmra
+    short_code: hi11p1p
     short_name: 0.1" 1 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4094,7 +3989,7 @@ electronic_header_2d54_mm_20_pin:
     name: Electronic Header 2D54 Mm 20 Pin
     oomp_key: oomp_electronic_header_2d54_mm_20_pin
     part_number: ''
-    short_code: hi120p
+    short_code: hi120p20p
     short_name: 0.1" 20 Pin Header
     size: 2d54_mm
     symbol:
@@ -4124,7 +4019,7 @@ electronic_header_2d54_mm_20_pin_right_angle:
     name: Electronic Header 2D54 Mm 20 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_20_pin_right_angle
     part_number: ''
-    short_code: hi120pra
+    short_code: hi120p20p
     short_name: 0.1" 20 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4157,7 +4052,7 @@ electronic_header_2d54_mm_20_pin_surface_mount:
     name: Electronic Header 2D54 Mm 20 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_20_pin_surface_mount
     part_number: ''
-    short_code: hi120psm
+    short_code: hi120p20p
     short_name: 0.1" 20 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4190,7 +4085,7 @@ electronic_header_2d54_mm_20_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 20 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_20_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi120psmra
+    short_code: hi120p20p
     short_name: 0.1" 20 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4220,7 +4115,7 @@ electronic_header_2d54_mm_21_pin:
     name: Electronic Header 2D54 Mm 21 Pin
     oomp_key: oomp_electronic_header_2d54_mm_21_pin
     part_number: ''
-    short_code: hi121p
+    short_code: hi121p21p
     short_name: 0.1" 21 Pin Header
     size: 2d54_mm
     symbol:
@@ -4250,7 +4145,7 @@ electronic_header_2d54_mm_21_pin_right_angle:
     name: Electronic Header 2D54 Mm 21 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_21_pin_right_angle
     part_number: ''
-    short_code: hi121pra
+    short_code: hi121p21p
     short_name: 0.1" 21 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4283,7 +4178,7 @@ electronic_header_2d54_mm_21_pin_surface_mount:
     name: Electronic Header 2D54 Mm 21 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_21_pin_surface_mount
     part_number: ''
-    short_code: hi121psm
+    short_code: hi121p21p
     short_name: 0.1" 21 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4313,7 +4208,7 @@ electronic_header_2d54_mm_21_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 21 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_21_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi121psmra
+    short_code: hi121p21p
     short_name: 0.1" 21 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4343,7 +4238,7 @@ electronic_header_2d54_mm_22_pin:
     name: Electronic Header 2D54 Mm 22 Pin
     oomp_key: oomp_electronic_header_2d54_mm_22_pin
     part_number: ''
-    short_code: hi122p
+    short_code: hi122p22p
     short_name: 0.1" 22 Pin Header
     size: 2d54_mm
     symbol:
@@ -4373,7 +4268,7 @@ electronic_header_2d54_mm_22_pin_right_angle:
     name: Electronic Header 2D54 Mm 22 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_22_pin_right_angle
     part_number: ''
-    short_code: hi122pra
+    short_code: hi122p22p
     short_name: 0.1" 22 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4406,7 +4301,7 @@ electronic_header_2d54_mm_22_pin_surface_mount:
     name: Electronic Header 2D54 Mm 22 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_22_pin_surface_mount
     part_number: ''
-    short_code: hi122psm
+    short_code: hi122p22p
     short_name: 0.1" 22 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4436,7 +4331,7 @@ electronic_header_2d54_mm_22_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 22 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_22_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi122psmra
+    short_code: hi122p22p
     short_name: 0.1" 22 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4466,7 +4361,7 @@ electronic_header_2d54_mm_23_pin:
     name: Electronic Header 2D54 Mm 23 Pin
     oomp_key: oomp_electronic_header_2d54_mm_23_pin
     part_number: ''
-    short_code: hi123p
+    short_code: hi123p23p
     short_name: 0.1" 23 Pin Header
     size: 2d54_mm
     symbol:
@@ -4496,7 +4391,7 @@ electronic_header_2d54_mm_23_pin_right_angle:
     name: Electronic Header 2D54 Mm 23 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_23_pin_right_angle
     part_number: ''
-    short_code: hi123pra
+    short_code: hi123p23p
     short_name: 0.1" 23 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4529,7 +4424,7 @@ electronic_header_2d54_mm_23_pin_surface_mount:
     name: Electronic Header 2D54 Mm 23 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_23_pin_surface_mount
     part_number: ''
-    short_code: hi123psm
+    short_code: hi123p23p
     short_name: 0.1" 23 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4559,7 +4454,7 @@ electronic_header_2d54_mm_23_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 23 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_23_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi123psmra
+    short_code: hi123p23p
     short_name: 0.1" 23 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4589,7 +4484,7 @@ electronic_header_2d54_mm_24_pin:
     name: Electronic Header 2D54 Mm 24 Pin
     oomp_key: oomp_electronic_header_2d54_mm_24_pin
     part_number: ''
-    short_code: hi124p
+    short_code: hi124p24p
     short_name: 0.1" 24 Pin Header
     size: 2d54_mm
     symbol:
@@ -4619,7 +4514,7 @@ electronic_header_2d54_mm_24_pin_right_angle:
     name: Electronic Header 2D54 Mm 24 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_24_pin_right_angle
     part_number: ''
-    short_code: hi124pra
+    short_code: hi124p24p
     short_name: 0.1" 24 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4652,7 +4547,7 @@ electronic_header_2d54_mm_24_pin_surface_mount:
     name: Electronic Header 2D54 Mm 24 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_24_pin_surface_mount
     part_number: ''
-    short_code: hi124psm
+    short_code: hi124p24p
     short_name: 0.1" 24 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4682,7 +4577,7 @@ electronic_header_2d54_mm_24_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 24 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_24_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi124psmra
+    short_code: hi124p24p
     short_name: 0.1" 24 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4712,7 +4607,7 @@ electronic_header_2d54_mm_25_pin:
     name: Electronic Header 2D54 Mm 25 Pin
     oomp_key: oomp_electronic_header_2d54_mm_25_pin
     part_number: ''
-    short_code: hi125p
+    short_code: hi125p25p
     short_name: 0.1" 25 Pin Header
     size: 2d54_mm
     symbol:
@@ -4742,7 +4637,7 @@ electronic_header_2d54_mm_25_pin_right_angle:
     name: Electronic Header 2D54 Mm 25 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_25_pin_right_angle
     part_number: ''
-    short_code: hi125pra
+    short_code: hi125p25p
     short_name: 0.1" 25 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4775,7 +4670,7 @@ electronic_header_2d54_mm_25_pin_surface_mount:
     name: Electronic Header 2D54 Mm 25 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_25_pin_surface_mount
     part_number: ''
-    short_code: hi125psm
+    short_code: hi125p25p
     short_name: 0.1" 25 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4805,7 +4700,7 @@ electronic_header_2d54_mm_25_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 25 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_25_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi125psmra
+    short_code: hi125p25p
     short_name: 0.1" 25 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4835,7 +4730,7 @@ electronic_header_2d54_mm_26_pin:
     name: Electronic Header 2D54 Mm 26 Pin
     oomp_key: oomp_electronic_header_2d54_mm_26_pin
     part_number: ''
-    short_code: hi126p
+    short_code: hi126p26p
     short_name: 0.1" 26 Pin Header
     size: 2d54_mm
     symbol:
@@ -4865,7 +4760,7 @@ electronic_header_2d54_mm_26_pin_right_angle:
     name: Electronic Header 2D54 Mm 26 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_26_pin_right_angle
     part_number: ''
-    short_code: hi126pra
+    short_code: hi126p26p
     short_name: 0.1" 26 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4898,7 +4793,7 @@ electronic_header_2d54_mm_26_pin_surface_mount:
     name: Electronic Header 2D54 Mm 26 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_26_pin_surface_mount
     part_number: ''
-    short_code: hi126psm
+    short_code: hi126p26p
     short_name: 0.1" 26 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -4928,7 +4823,7 @@ electronic_header_2d54_mm_26_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 26 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_26_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi126psmra
+    short_code: hi126p26p
     short_name: 0.1" 26 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -4958,7 +4853,7 @@ electronic_header_2d54_mm_27_pin:
     name: Electronic Header 2D54 Mm 27 Pin
     oomp_key: oomp_electronic_header_2d54_mm_27_pin
     part_number: ''
-    short_code: hi127p
+    short_code: hi127p27p
     short_name: 0.1" 27 Pin Header
     size: 2d54_mm
     symbol:
@@ -4988,7 +4883,7 @@ electronic_header_2d54_mm_27_pin_right_angle:
     name: Electronic Header 2D54 Mm 27 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_27_pin_right_angle
     part_number: ''
-    short_code: hi127pra
+    short_code: hi127p27p
     short_name: 0.1" 27 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5021,7 +4916,7 @@ electronic_header_2d54_mm_27_pin_surface_mount:
     name: Electronic Header 2D54 Mm 27 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_27_pin_surface_mount
     part_number: ''
-    short_code: hi127psm
+    short_code: hi127p27p
     short_name: 0.1" 27 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5051,7 +4946,7 @@ electronic_header_2d54_mm_27_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 27 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_27_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi127psmra
+    short_code: hi127p27p
     short_name: 0.1" 27 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5081,7 +4976,7 @@ electronic_header_2d54_mm_28_pin:
     name: Electronic Header 2D54 Mm 28 Pin
     oomp_key: oomp_electronic_header_2d54_mm_28_pin
     part_number: ''
-    short_code: hi128p
+    short_code: hi128p28p
     short_name: 0.1" 28 Pin Header
     size: 2d54_mm
     symbol:
@@ -5111,7 +5006,7 @@ electronic_header_2d54_mm_28_pin_right_angle:
     name: Electronic Header 2D54 Mm 28 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_28_pin_right_angle
     part_number: ''
-    short_code: hi128pra
+    short_code: hi128p28p
     short_name: 0.1" 28 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5144,7 +5039,7 @@ electronic_header_2d54_mm_28_pin_surface_mount:
     name: Electronic Header 2D54 Mm 28 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_28_pin_surface_mount
     part_number: ''
-    short_code: hi128psm
+    short_code: hi128p28p
     short_name: 0.1" 28 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5174,7 +5069,7 @@ electronic_header_2d54_mm_28_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 28 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_28_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi128psmra
+    short_code: hi128p28p
     short_name: 0.1" 28 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5204,7 +5099,7 @@ electronic_header_2d54_mm_29_pin:
     name: Electronic Header 2D54 Mm 29 Pin
     oomp_key: oomp_electronic_header_2d54_mm_29_pin
     part_number: ''
-    short_code: hi129p
+    short_code: hi129p29p
     short_name: 0.1" 29 Pin Header
     size: 2d54_mm
     symbol:
@@ -5234,7 +5129,7 @@ electronic_header_2d54_mm_29_pin_right_angle:
     name: Electronic Header 2D54 Mm 29 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_29_pin_right_angle
     part_number: ''
-    short_code: hi129pra
+    short_code: hi129p29p
     short_name: 0.1" 29 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5267,7 +5162,7 @@ electronic_header_2d54_mm_29_pin_surface_mount:
     name: Electronic Header 2D54 Mm 29 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_29_pin_surface_mount
     part_number: ''
-    short_code: hi129psm
+    short_code: hi129p29p
     short_name: 0.1" 29 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5297,7 +5192,7 @@ electronic_header_2d54_mm_29_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 29 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_29_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi129psmra
+    short_code: hi129p29p
     short_name: 0.1" 29 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5327,7 +5222,7 @@ electronic_header_2d54_mm_2_pin:
     name: Electronic Header 2D54 Mm 2 Pin
     oomp_key: oomp_electronic_header_2d54_mm_2_pin
     part_number: ''
-    short_code: hi12p
+    short_code: hi12p2p
     short_name: 0.1" 2 Pin Header
     size: 2d54_mm
     symbol:
@@ -5357,7 +5252,7 @@ electronic_header_2d54_mm_2_pin_right_angle:
     name: Electronic Header 2D54 Mm 2 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_2_pin_right_angle
     part_number: ''
-    short_code: hi12pra
+    short_code: hi12p2p
     short_name: 0.1" 2 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5390,7 +5285,7 @@ electronic_header_2d54_mm_2_pin_surface_mount:
     name: Electronic Header 2D54 Mm 2 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_2_pin_surface_mount
     part_number: ''
-    short_code: hi12psm
+    short_code: hi12p2p
     short_name: 0.1" 2 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5420,7 +5315,7 @@ electronic_header_2d54_mm_2_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 2 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_2_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi12psmra
+    short_code: hi12p2p
     short_name: 0.1" 2 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5450,7 +5345,7 @@ electronic_header_2d54_mm_30_pin:
     name: Electronic Header 2D54 Mm 30 Pin
     oomp_key: oomp_electronic_header_2d54_mm_30_pin
     part_number: ''
-    short_code: hi130p
+    short_code: hi130p30p
     short_name: 0.1" 30 Pin Header
     size: 2d54_mm
     symbol:
@@ -5480,7 +5375,7 @@ electronic_header_2d54_mm_30_pin_right_angle:
     name: Electronic Header 2D54 Mm 30 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_30_pin_right_angle
     part_number: ''
-    short_code: hi130pra
+    short_code: hi130p30p
     short_name: 0.1" 30 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5513,7 +5408,7 @@ electronic_header_2d54_mm_30_pin_surface_mount:
     name: Electronic Header 2D54 Mm 30 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_30_pin_surface_mount
     part_number: ''
-    short_code: hi130psm
+    short_code: hi130p30p
     short_name: 0.1" 30 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5543,7 +5438,7 @@ electronic_header_2d54_mm_30_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 30 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_30_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi130psmra
+    short_code: hi130p30p
     short_name: 0.1" 30 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5573,7 +5468,7 @@ electronic_header_2d54_mm_31_pin:
     name: Electronic Header 2D54 Mm 31 Pin
     oomp_key: oomp_electronic_header_2d54_mm_31_pin
     part_number: ''
-    short_code: hi131p
+    short_code: hi131p31p
     short_name: 0.1" 31 Pin Header
     size: 2d54_mm
     symbol:
@@ -5603,7 +5498,7 @@ electronic_header_2d54_mm_31_pin_right_angle:
     name: Electronic Header 2D54 Mm 31 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_31_pin_right_angle
     part_number: ''
-    short_code: hi131pra
+    short_code: hi131p31p
     short_name: 0.1" 31 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5636,7 +5531,7 @@ electronic_header_2d54_mm_31_pin_surface_mount:
     name: Electronic Header 2D54 Mm 31 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_31_pin_surface_mount
     part_number: ''
-    short_code: hi131psm
+    short_code: hi131p31p
     short_name: 0.1" 31 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5666,7 +5561,7 @@ electronic_header_2d54_mm_31_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 31 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_31_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi131psmra
+    short_code: hi131p31p
     short_name: 0.1" 31 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5696,7 +5591,7 @@ electronic_header_2d54_mm_32_pin:
     name: Electronic Header 2D54 Mm 32 Pin
     oomp_key: oomp_electronic_header_2d54_mm_32_pin
     part_number: ''
-    short_code: hi132p
+    short_code: hi132p32p
     short_name: 0.1" 32 Pin Header
     size: 2d54_mm
     symbol:
@@ -5726,7 +5621,7 @@ electronic_header_2d54_mm_32_pin_right_angle:
     name: Electronic Header 2D54 Mm 32 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_32_pin_right_angle
     part_number: ''
-    short_code: hi132pra
+    short_code: hi132p32p
     short_name: 0.1" 32 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5759,7 +5654,7 @@ electronic_header_2d54_mm_32_pin_surface_mount:
     name: Electronic Header 2D54 Mm 32 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_32_pin_surface_mount
     part_number: ''
-    short_code: hi132psm
+    short_code: hi132p32p
     short_name: 0.1" 32 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5789,7 +5684,7 @@ electronic_header_2d54_mm_32_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 32 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_32_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi132psmra
+    short_code: hi132p32p
     short_name: 0.1" 32 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5819,7 +5714,7 @@ electronic_header_2d54_mm_33_pin:
     name: Electronic Header 2D54 Mm 33 Pin
     oomp_key: oomp_electronic_header_2d54_mm_33_pin
     part_number: ''
-    short_code: hi133p
+    short_code: hi133p33p
     short_name: 0.1" 33 Pin Header
     size: 2d54_mm
     symbol:
@@ -5849,7 +5744,7 @@ electronic_header_2d54_mm_33_pin_right_angle:
     name: Electronic Header 2D54 Mm 33 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_33_pin_right_angle
     part_number: ''
-    short_code: hi133pra
+    short_code: hi133p33p
     short_name: 0.1" 33 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5882,7 +5777,7 @@ electronic_header_2d54_mm_33_pin_surface_mount:
     name: Electronic Header 2D54 Mm 33 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_33_pin_surface_mount
     part_number: ''
-    short_code: hi133psm
+    short_code: hi133p33p
     short_name: 0.1" 33 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -5912,7 +5807,7 @@ electronic_header_2d54_mm_33_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 33 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_33_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi133psmra
+    short_code: hi133p33p
     short_name: 0.1" 33 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -5942,7 +5837,7 @@ electronic_header_2d54_mm_34_pin:
     name: Electronic Header 2D54 Mm 34 Pin
     oomp_key: oomp_electronic_header_2d54_mm_34_pin
     part_number: ''
-    short_code: hi134p
+    short_code: hi134p34p
     short_name: 0.1" 34 Pin Header
     size: 2d54_mm
     symbol:
@@ -5972,7 +5867,7 @@ electronic_header_2d54_mm_34_pin_right_angle:
     name: Electronic Header 2D54 Mm 34 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_34_pin_right_angle
     part_number: ''
-    short_code: hi134pra
+    short_code: hi134p34p
     short_name: 0.1" 34 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6005,7 +5900,7 @@ electronic_header_2d54_mm_34_pin_surface_mount:
     name: Electronic Header 2D54 Mm 34 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_34_pin_surface_mount
     part_number: ''
-    short_code: hi134psm
+    short_code: hi134p34p
     short_name: 0.1" 34 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6035,7 +5930,7 @@ electronic_header_2d54_mm_34_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 34 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_34_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi134psmra
+    short_code: hi134p34p
     short_name: 0.1" 34 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6065,7 +5960,7 @@ electronic_header_2d54_mm_35_pin:
     name: Electronic Header 2D54 Mm 35 Pin
     oomp_key: oomp_electronic_header_2d54_mm_35_pin
     part_number: ''
-    short_code: hi135p
+    short_code: hi135p35p
     short_name: 0.1" 35 Pin Header
     size: 2d54_mm
     symbol:
@@ -6095,7 +5990,7 @@ electronic_header_2d54_mm_35_pin_right_angle:
     name: Electronic Header 2D54 Mm 35 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_35_pin_right_angle
     part_number: ''
-    short_code: hi135pra
+    short_code: hi135p35p
     short_name: 0.1" 35 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6128,7 +6023,7 @@ electronic_header_2d54_mm_35_pin_surface_mount:
     name: Electronic Header 2D54 Mm 35 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_35_pin_surface_mount
     part_number: ''
-    short_code: hi135psm
+    short_code: hi135p35p
     short_name: 0.1" 35 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6158,7 +6053,7 @@ electronic_header_2d54_mm_35_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 35 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_35_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi135psmra
+    short_code: hi135p35p
     short_name: 0.1" 35 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6188,7 +6083,7 @@ electronic_header_2d54_mm_36_pin:
     name: Electronic Header 2D54 Mm 36 Pin
     oomp_key: oomp_electronic_header_2d54_mm_36_pin
     part_number: ''
-    short_code: hi136p
+    short_code: hi136p36p
     short_name: 0.1" 36 Pin Header
     size: 2d54_mm
     symbol:
@@ -6218,7 +6113,7 @@ electronic_header_2d54_mm_36_pin_right_angle:
     name: Electronic Header 2D54 Mm 36 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_36_pin_right_angle
     part_number: ''
-    short_code: hi136pra
+    short_code: hi136p36p
     short_name: 0.1" 36 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6251,7 +6146,7 @@ electronic_header_2d54_mm_36_pin_surface_mount:
     name: Electronic Header 2D54 Mm 36 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_36_pin_surface_mount
     part_number: ''
-    short_code: hi136psm
+    short_code: hi136p36p
     short_name: 0.1" 36 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6281,7 +6176,7 @@ electronic_header_2d54_mm_36_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 36 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_36_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi136psmra
+    short_code: hi136p36p
     short_name: 0.1" 36 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6311,7 +6206,7 @@ electronic_header_2d54_mm_37_pin:
     name: Electronic Header 2D54 Mm 37 Pin
     oomp_key: oomp_electronic_header_2d54_mm_37_pin
     part_number: ''
-    short_code: hi137p
+    short_code: hi137p37p
     short_name: 0.1" 37 Pin Header
     size: 2d54_mm
     symbol:
@@ -6341,7 +6236,7 @@ electronic_header_2d54_mm_37_pin_right_angle:
     name: Electronic Header 2D54 Mm 37 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_37_pin_right_angle
     part_number: ''
-    short_code: hi137pra
+    short_code: hi137p37p
     short_name: 0.1" 37 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6374,7 +6269,7 @@ electronic_header_2d54_mm_37_pin_surface_mount:
     name: Electronic Header 2D54 Mm 37 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_37_pin_surface_mount
     part_number: ''
-    short_code: hi137psm
+    short_code: hi137p37p
     short_name: 0.1" 37 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6404,7 +6299,7 @@ electronic_header_2d54_mm_37_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 37 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_37_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi137psmra
+    short_code: hi137p37p
     short_name: 0.1" 37 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6434,7 +6329,7 @@ electronic_header_2d54_mm_38_pin:
     name: Electronic Header 2D54 Mm 38 Pin
     oomp_key: oomp_electronic_header_2d54_mm_38_pin
     part_number: ''
-    short_code: hi138p
+    short_code: hi138p38p
     short_name: 0.1" 38 Pin Header
     size: 2d54_mm
     symbol:
@@ -6464,7 +6359,7 @@ electronic_header_2d54_mm_38_pin_right_angle:
     name: Electronic Header 2D54 Mm 38 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_38_pin_right_angle
     part_number: ''
-    short_code: hi138pra
+    short_code: hi138p38p
     short_name: 0.1" 38 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6497,7 +6392,7 @@ electronic_header_2d54_mm_38_pin_surface_mount:
     name: Electronic Header 2D54 Mm 38 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_38_pin_surface_mount
     part_number: ''
-    short_code: hi138psm
+    short_code: hi138p38p
     short_name: 0.1" 38 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6527,7 +6422,7 @@ electronic_header_2d54_mm_38_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 38 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_38_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi138psmra
+    short_code: hi138p38p
     short_name: 0.1" 38 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6557,7 +6452,7 @@ electronic_header_2d54_mm_39_pin:
     name: Electronic Header 2D54 Mm 39 Pin
     oomp_key: oomp_electronic_header_2d54_mm_39_pin
     part_number: ''
-    short_code: hi139p
+    short_code: hi139p39p
     short_name: 0.1" 39 Pin Header
     size: 2d54_mm
     symbol:
@@ -6587,7 +6482,7 @@ electronic_header_2d54_mm_39_pin_right_angle:
     name: Electronic Header 2D54 Mm 39 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_39_pin_right_angle
     part_number: ''
-    short_code: hi139pra
+    short_code: hi139p39p
     short_name: 0.1" 39 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6620,7 +6515,7 @@ electronic_header_2d54_mm_39_pin_surface_mount:
     name: Electronic Header 2D54 Mm 39 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_39_pin_surface_mount
     part_number: ''
-    short_code: hi139psm
+    short_code: hi139p39p
     short_name: 0.1" 39 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6650,7 +6545,7 @@ electronic_header_2d54_mm_39_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 39 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_39_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi139psmra
+    short_code: hi139p39p
     short_name: 0.1" 39 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6680,7 +6575,7 @@ electronic_header_2d54_mm_3_pin:
     name: Electronic Header 2D54 Mm 3 Pin
     oomp_key: oomp_electronic_header_2d54_mm_3_pin
     part_number: ''
-    short_code: hi13p
+    short_code: hi13p3p
     short_name: 0.1" 3 Pin Header
     size: 2d54_mm
     symbol:
@@ -6710,7 +6605,7 @@ electronic_header_2d54_mm_3_pin_right_angle:
     name: Electronic Header 2D54 Mm 3 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_3_pin_right_angle
     part_number: ''
-    short_code: hi13pra
+    short_code: hi13p3p
     short_name: 0.1" 3 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6743,7 +6638,7 @@ electronic_header_2d54_mm_3_pin_surface_mount:
     name: Electronic Header 2D54 Mm 3 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_3_pin_surface_mount
     part_number: ''
-    short_code: hi13psm
+    short_code: hi13p3p
     short_name: 0.1" 3 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6776,7 +6671,7 @@ electronic_header_2d54_mm_3_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 3 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_3_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi13psmra
+    short_code: hi13p3p
     short_name: 0.1" 3 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6806,7 +6701,7 @@ electronic_header_2d54_mm_40_pin:
     name: Electronic Header 2D54 Mm 40 Pin
     oomp_key: oomp_electronic_header_2d54_mm_40_pin
     part_number: ''
-    short_code: hi140p
+    short_code: hi140p40p
     short_name: 0.1" 40 Pin Header
     size: 2d54_mm
     symbol:
@@ -6836,7 +6731,7 @@ electronic_header_2d54_mm_40_pin_right_angle:
     name: Electronic Header 2D54 Mm 40 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_40_pin_right_angle
     part_number: ''
-    short_code: hi140pra
+    short_code: hi140p40p
     short_name: 0.1" 40 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6869,7 +6764,7 @@ electronic_header_2d54_mm_40_pin_surface_mount:
     name: Electronic Header 2D54 Mm 40 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_40_pin_surface_mount
     part_number: ''
-    short_code: hi140psm
+    short_code: hi140p40p
     short_name: 0.1" 40 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -6899,7 +6794,7 @@ electronic_header_2d54_mm_40_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 40 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_40_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi140psmra
+    short_code: hi140p40p
     short_name: 0.1" 40 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6929,7 +6824,7 @@ electronic_header_2d54_mm_4_pin:
     name: Electronic Header 2D54 Mm 4 Pin
     oomp_key: oomp_electronic_header_2d54_mm_4_pin
     part_number: ''
-    short_code: hi14p
+    short_code: hi14p4p
     short_name: 0.1" 4 Pin Header
     size: 2d54_mm
     symbol:
@@ -6959,7 +6854,7 @@ electronic_header_2d54_mm_4_pin_right_angle:
     name: Electronic Header 2D54 Mm 4 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_4_pin_right_angle
     part_number: ''
-    short_code: hi14pra
+    short_code: hi14p4p
     short_name: 0.1" 4 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -6992,7 +6887,7 @@ electronic_header_2d54_mm_4_pin_surface_mount:
     name: Electronic Header 2D54 Mm 4 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_4_pin_surface_mount
     part_number: ''
-    short_code: hi14psm
+    short_code: hi14p4p
     short_name: 0.1" 4 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -7025,7 +6920,7 @@ electronic_header_2d54_mm_4_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 4 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_4_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi14psmra
+    short_code: hi14p4p
     short_name: 0.1" 4 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7055,7 +6950,7 @@ electronic_header_2d54_mm_5_pin:
     name: Electronic Header 2D54 Mm 5 Pin
     oomp_key: oomp_electronic_header_2d54_mm_5_pin
     part_number: ''
-    short_code: hi15p
+    short_code: hi15p5p
     short_name: 0.1" 5 Pin Header
     size: 2d54_mm
     symbol:
@@ -7085,7 +6980,7 @@ electronic_header_2d54_mm_5_pin_right_angle:
     name: Electronic Header 2D54 Mm 5 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_5_pin_right_angle
     part_number: ''
-    short_code: hi15pra
+    short_code: hi15p5p
     short_name: 0.1" 5 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7118,7 +7013,7 @@ electronic_header_2d54_mm_5_pin_surface_mount:
     name: Electronic Header 2D54 Mm 5 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_5_pin_surface_mount
     part_number: ''
-    short_code: hi15psm
+    short_code: hi15p5p
     short_name: 0.1" 5 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -7151,7 +7046,7 @@ electronic_header_2d54_mm_5_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 5 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_5_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi15psmra
+    short_code: hi15p5p
     short_name: 0.1" 5 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7181,7 +7076,7 @@ electronic_header_2d54_mm_6_pin:
     name: Electronic Header 2D54 Mm 6 Pin
     oomp_key: oomp_electronic_header_2d54_mm_6_pin
     part_number: ''
-    short_code: hi16p
+    short_code: hi16p6p
     short_name: 0.1" 6 Pin Header
     size: 2d54_mm
     symbol:
@@ -7211,7 +7106,7 @@ electronic_header_2d54_mm_6_pin_right_angle:
     name: Electronic Header 2D54 Mm 6 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_6_pin_right_angle
     part_number: ''
-    short_code: hi16pra
+    short_code: hi16p6p
     short_name: 0.1" 6 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7244,7 +7139,7 @@ electronic_header_2d54_mm_6_pin_surface_mount:
     name: Electronic Header 2D54 Mm 6 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_6_pin_surface_mount
     part_number: ''
-    short_code: hi16psm
+    short_code: hi16p6p
     short_name: 0.1" 6 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -7277,7 +7172,7 @@ electronic_header_2d54_mm_6_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 6 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_6_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi16psmra
+    short_code: hi16p6p
     short_name: 0.1" 6 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7307,7 +7202,7 @@ electronic_header_2d54_mm_7_pin:
     name: Electronic Header 2D54 Mm 7 Pin
     oomp_key: oomp_electronic_header_2d54_mm_7_pin
     part_number: ''
-    short_code: hi17p
+    short_code: hi17p7p
     short_name: 0.1" 7 Pin Header
     size: 2d54_mm
     symbol:
@@ -7337,7 +7232,7 @@ electronic_header_2d54_mm_7_pin_right_angle:
     name: Electronic Header 2D54 Mm 7 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_7_pin_right_angle
     part_number: ''
-    short_code: hi17pra
+    short_code: hi17p7p
     short_name: 0.1" 7 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7370,7 +7265,7 @@ electronic_header_2d54_mm_7_pin_surface_mount:
     name: Electronic Header 2D54 Mm 7 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_7_pin_surface_mount
     part_number: ''
-    short_code: hi17psm
+    short_code: hi17p7p
     short_name: 0.1" 7 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -7403,7 +7298,7 @@ electronic_header_2d54_mm_7_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 7 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_7_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi17psmra
+    short_code: hi17p7p
     short_name: 0.1" 7 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7433,7 +7328,7 @@ electronic_header_2d54_mm_8_pin:
     name: Electronic Header 2D54 Mm 8 Pin
     oomp_key: oomp_electronic_header_2d54_mm_8_pin
     part_number: ''
-    short_code: hi18p
+    short_code: hi18p8p
     short_name: 0.1" 8 Pin Header
     size: 2d54_mm
     symbol:
@@ -7463,7 +7358,7 @@ electronic_header_2d54_mm_8_pin_right_angle:
     name: Electronic Header 2D54 Mm 8 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_8_pin_right_angle
     part_number: ''
-    short_code: hi18pra
+    short_code: hi18p8p
     short_name: 0.1" 8 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7496,7 +7391,7 @@ electronic_header_2d54_mm_8_pin_surface_mount:
     name: Electronic Header 2D54 Mm 8 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_8_pin_surface_mount
     part_number: ''
-    short_code: hi18psm
+    short_code: hi18p8p
     short_name: 0.1" 8 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -7529,7 +7424,7 @@ electronic_header_2d54_mm_8_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 8 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_8_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi18psmra
+    short_code: hi18p8p
     short_name: 0.1" 8 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7559,7 +7454,7 @@ electronic_header_2d54_mm_9_pin:
     name: Electronic Header 2D54 Mm 9 Pin
     oomp_key: oomp_electronic_header_2d54_mm_9_pin
     part_number: ''
-    short_code: hi19p
+    short_code: hi19p9p
     short_name: 0.1" 9 Pin Header
     size: 2d54_mm
     symbol:
@@ -7589,7 +7484,7 @@ electronic_header_2d54_mm_9_pin_right_angle:
     name: Electronic Header 2D54 Mm 9 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_9_pin_right_angle
     part_number: ''
-    short_code: hi19pra
+    short_code: hi19p9p
     short_name: 0.1" 9 Pin Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7622,7 +7517,7 @@ electronic_header_2d54_mm_9_pin_surface_mount:
     name: Electronic Header 2D54 Mm 9 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_9_pin_surface_mount
     part_number: ''
-    short_code: hi19psm
+    short_code: hi19p9p
     short_name: 0.1" 9 Pin Surface Mount Header
     size: 2d54_mm
     symbol:
@@ -7655,7 +7550,7 @@ electronic_header_2d54_mm_9_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm 9 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_9_pin_surface_mount_right_angle
     part_number: ''
-    short_code: hi19psmra
+    short_code: hi19p9p
     short_name: 0.1" 9 Pin Surface Mount Right Angle Header
     size: 2d54_mm
     symbol:
@@ -7681,7 +7576,7 @@ electronic_header_2d54_mm_jst_xh_10_pin:
     name: Electronic Header 2D54 Mm Jst Xh 10 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_10_pin
     part_number: ''
-    short_code: h10p
+    short_code: h10p10p
     short_name: Jst Xh 10 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7707,7 +7602,7 @@ electronic_header_2d54_mm_jst_xh_10_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 10 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_10_pin_right_angle
     part_number: ''
-    short_code: h10pra
+    short_code: h10p10p
     short_name: Jst Xh 10 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7733,7 +7628,7 @@ electronic_header_2d54_mm_jst_xh_10_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 10 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_10_pin_surface_mount
     part_number: ''
-    short_code: h10psm
+    short_code: h10p10p
     short_name: Jst Xh 10 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7759,7 +7654,7 @@ electronic_header_2d54_mm_jst_xh_10_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 10 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_10_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h10psmra
+    short_code: h10p10p
     short_name: Jst Xh 10 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7785,7 +7680,7 @@ electronic_header_2d54_mm_jst_xh_1_pin:
     name: Electronic Header 2D54 Mm Jst Xh 1 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_1_pin
     part_number: ''
-    short_code: h1p
+    short_code: h1p1p
     short_name: Jst Xh 1 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7811,7 +7706,7 @@ electronic_header_2d54_mm_jst_xh_1_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 1 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_1_pin_right_angle
     part_number: ''
-    short_code: h1pra
+    short_code: h1p1p
     short_name: Jst Xh 1 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7837,7 +7732,7 @@ electronic_header_2d54_mm_jst_xh_1_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 1 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_1_pin_surface_mount
     part_number: ''
-    short_code: h1psm
+    short_code: h1p1p
     short_name: Jst Xh 1 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7863,7 +7758,7 @@ electronic_header_2d54_mm_jst_xh_1_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 1 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_1_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h1psmra
+    short_code: h1p1p
     short_name: Jst Xh 1 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7889,7 +7784,7 @@ electronic_header_2d54_mm_jst_xh_2_pin:
     name: Electronic Header 2D54 Mm Jst Xh 2 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin
     part_number: ''
-    short_code: h2p
+    short_code: h2p2p
     short_name: Jst Xh 2 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7915,7 +7810,7 @@ electronic_header_2d54_mm_jst_xh_2_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 2 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin_right_angle
     part_number: ''
-    short_code: h2pra
+    short_code: h2p2p
     short_name: Jst Xh 2 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7941,7 +7836,7 @@ electronic_header_2d54_mm_jst_xh_2_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 2 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin_surface_mount
     part_number: ''
-    short_code: h2psm
+    short_code: h2p2p
     short_name: Jst Xh 2 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7967,7 +7862,7 @@ electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 2 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h2psmra
+    short_code: h2p2p
     short_name: Jst Xh 2 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -7993,7 +7888,7 @@ electronic_header_2d54_mm_jst_xh_3_pin:
     name: Electronic Header 2D54 Mm Jst Xh 3 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin
     part_number: ''
-    short_code: h3p
+    short_code: h3p3p
     short_name: Jst Xh 3 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8019,7 +7914,7 @@ electronic_header_2d54_mm_jst_xh_3_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 3 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin_right_angle
     part_number: ''
-    short_code: h3pra
+    short_code: h3p3p
     short_name: Jst Xh 3 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8045,7 +7940,7 @@ electronic_header_2d54_mm_jst_xh_3_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin_surface_mount
     part_number: ''
-    short_code: h3psm
+    short_code: h3p3p
     short_name: Jst Xh 3 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8071,7 +7966,7 @@ electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h3psmra
+    short_code: h3p3p
     short_name: Jst Xh 3 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8097,7 +7992,7 @@ electronic_header_2d54_mm_jst_xh_4_pin:
     name: Electronic Header 2D54 Mm Jst Xh 4 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_4_pin
     part_number: ''
-    short_code: h4p
+    short_code: h4p4p
     short_name: Jst Xh 4 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8123,7 +8018,7 @@ electronic_header_2d54_mm_jst_xh_4_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 4 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_4_pin_right_angle
     part_number: ''
-    short_code: h4pra
+    short_code: h4p4p
     short_name: Jst Xh 4 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8149,7 +8044,7 @@ electronic_header_2d54_mm_jst_xh_4_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 4 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_4_pin_surface_mount
     part_number: ''
-    short_code: h4psm
+    short_code: h4p4p
     short_name: Jst Xh 4 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8175,7 +8070,7 @@ electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 4 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h4psmra
+    short_code: h4p4p
     short_name: Jst Xh 4 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8201,7 +8096,7 @@ electronic_header_2d54_mm_jst_xh_5_pin:
     name: Electronic Header 2D54 Mm Jst Xh 5 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_5_pin
     part_number: ''
-    short_code: h5p
+    short_code: h5p5p
     short_name: Jst Xh 5 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8227,7 +8122,7 @@ electronic_header_2d54_mm_jst_xh_5_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 5 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_5_pin_right_angle
     part_number: ''
-    short_code: h5pra
+    short_code: h5p5p
     short_name: Jst Xh 5 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8253,7 +8148,7 @@ electronic_header_2d54_mm_jst_xh_5_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 5 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_5_pin_surface_mount
     part_number: ''
-    short_code: h5psm
+    short_code: h5p5p
     short_name: Jst Xh 5 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8279,7 +8174,7 @@ electronic_header_2d54_mm_jst_xh_5_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 5 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_5_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h5psmra
+    short_code: h5p5p
     short_name: Jst Xh 5 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8305,7 +8200,7 @@ electronic_header_2d54_mm_jst_xh_6_pin:
     name: Electronic Header 2D54 Mm Jst Xh 6 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_6_pin
     part_number: ''
-    short_code: h6p
+    short_code: h6p6p
     short_name: Jst Xh 6 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8331,7 +8226,7 @@ electronic_header_2d54_mm_jst_xh_6_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 6 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_6_pin_right_angle
     part_number: ''
-    short_code: h6pra
+    short_code: h6p6p
     short_name: Jst Xh 6 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8357,7 +8252,7 @@ electronic_header_2d54_mm_jst_xh_6_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 6 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_6_pin_surface_mount
     part_number: ''
-    short_code: h6psm
+    short_code: h6p6p
     short_name: Jst Xh 6 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8383,7 +8278,7 @@ electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 6 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h6psmra
+    short_code: h6p6p
     short_name: Jst Xh 6 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8409,7 +8304,7 @@ electronic_header_2d54_mm_jst_xh_7_pin:
     name: Electronic Header 2D54 Mm Jst Xh 7 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_7_pin
     part_number: ''
-    short_code: h7p
+    short_code: h7p7p
     short_name: Jst Xh 7 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8435,7 +8330,7 @@ electronic_header_2d54_mm_jst_xh_7_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 7 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_7_pin_right_angle
     part_number: ''
-    short_code: h7pra
+    short_code: h7p7p
     short_name: Jst Xh 7 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8461,7 +8356,7 @@ electronic_header_2d54_mm_jst_xh_7_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 7 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_7_pin_surface_mount
     part_number: ''
-    short_code: h7psm
+    short_code: h7p7p
     short_name: Jst Xh 7 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8487,7 +8382,7 @@ electronic_header_2d54_mm_jst_xh_7_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 7 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_7_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h7psmra
+    short_code: h7p7p
     short_name: Jst Xh 7 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8513,7 +8408,7 @@ electronic_header_2d54_mm_jst_xh_8_pin:
     name: Electronic Header 2D54 Mm Jst Xh 8 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_8_pin
     part_number: ''
-    short_code: h8p
+    short_code: h8p8p
     short_name: Jst Xh 8 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8539,7 +8434,7 @@ electronic_header_2d54_mm_jst_xh_8_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 8 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_8_pin_right_angle
     part_number: ''
-    short_code: h8pra
+    short_code: h8p8p
     short_name: Jst Xh 8 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8565,7 +8460,7 @@ electronic_header_2d54_mm_jst_xh_8_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 8 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_8_pin_surface_mount
     part_number: ''
-    short_code: h8psm
+    short_code: h8p8p
     short_name: Jst Xh 8 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8591,7 +8486,7 @@ electronic_header_2d54_mm_jst_xh_8_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 8 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_8_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h8psmra
+    short_code: h8p8p
     short_name: Jst Xh 8 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8617,7 +8512,7 @@ electronic_header_2d54_mm_jst_xh_9_pin:
     name: Electronic Header 2D54 Mm Jst Xh 9 Pin
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_9_pin
     part_number: ''
-    short_code: h9p
+    short_code: h9p9p
     short_name: Jst Xh 9 Pin Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8643,7 +8538,7 @@ electronic_header_2d54_mm_jst_xh_9_pin_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 9 Pin Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_9_pin_right_angle
     part_number: ''
-    short_code: h9pra
+    short_code: h9p9p
     short_name: Jst Xh 9 Pin Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8669,7 +8564,7 @@ electronic_header_2d54_mm_jst_xh_9_pin_surface_mount:
     name: Electronic Header 2D54 Mm Jst Xh 9 Pin Surface Mount
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_9_pin_surface_mount
     part_number: ''
-    short_code: h9psm
+    short_code: h9p9p
     short_name: Jst Xh 9 Pin Surface Mount Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8695,7 +8590,7 @@ electronic_header_2d54_mm_jst_xh_9_pin_surface_mount_right_angle:
     name: Electronic Header 2D54 Mm Jst Xh 9 Pin Surface Mount Right Angle
     oomp_key: oomp_electronic_header_2d54_mm_jst_xh_9_pin_surface_mount_right_angle
     part_number: ''
-    short_code: h9psmra
+    short_code: h9p9p
     short_name: Jst Xh 9 Pin Surface Mount Right Angle Header 2.54 Mm Pitch
     size: 2d54_mm_jst_xh
     symbol:
@@ -8724,7 +8619,7 @@ electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu:
     name: Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
     oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
     part_number: atmega328p_pu
-    short_code: id28at328
+    short_code: id28at328at328
     short_name: atmega328 28 pin dip
     size: dip_28
     symbol:
@@ -8753,7 +8648,7 @@ electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur:
     name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
     oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
     part_number: atmega328p_mur
-    short_code: imlf32at328
+    short_code: imlf32at328at328
     short_name: atmega328 32 pin mlf
     size: mlf_32
     symbol:
@@ -8778,7 +8673,7 @@ electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     name: Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
     oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
     part_number: atmega328p_mn
-    short_code: iq28at328
+    short_code: iq28at328at328
     short_name: atmega328 28 pin qfn
     size: qfn_28
     symbol:
@@ -8923,7 +8818,7 @@ electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_elect
             name: seg1
             number: '9'
             type: signal
-    short_code: isoic28waip1640
+    short_code: isoic28wsoic28waip1640
     short_name: 16x8 led matrix driver (aip1640)
     size: soic_28_wide
     type: ic
@@ -9015,7 +8910,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
             name: cts
             number: '9'
             type: signal
-    short_code: isp16ch340c
+    short_code: isp16sp16ch340c
     short_name: usb to serial converter (ch340c)
     size: sop_16
     symbol:
@@ -9044,7 +8939,7 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur:
     name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Aur
     oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
     part_number: atmega328p_aur
-    short_code: itq32at328
+    short_code: itq32at328at328
     short_name: atmega328 32 pin tqfp
     size: tqfp_32
     symbol:
@@ -9073,7 +8968,7 @@ electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr:
     name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmhr
     oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
     part_number: atmega328p_mmhr
-    short_code: ivq28at328
+    short_code: ivq28at328at328
     short_name: atmega328 28 pin vqfn
     size: vqfn_28
     symbol:
@@ -9157,7 +9052,7 @@ electronic_led_0603_green_tinted:
     name: Electronic Led 0603 Green Tinted
     oomp_key: oomp_electronic_led_0603_green_tinted
     part_number: ''
-    short_code: l6gt
+    short_code: l6gtt
     short_name: 0603 Greentinted Led
     size: '0603'
     symbol:
@@ -9213,7 +9108,7 @@ electronic_led_0603_red_tinted:
     name: Electronic Led 0603 Red Tinted
     oomp_key: oomp_electronic_led_0603_red_tinted
     part_number: ''
-    short_code: l6rt
+    short_code: l6rtt
     short_name: 0603 Redtinted Led
     size: '0603'
     symbol:
@@ -9241,7 +9136,7 @@ electronic_led_0603_tinted:
     name: Electronic Led 0603 Tinted
     oomp_key: oomp_electronic_led_0603_tinted
     part_number: ''
-    short_code: l6t
+    short_code: l6tt
     short_name: 0603 Tinted Led
     size: '0603'
     symbol:
@@ -9325,7 +9220,7 @@ electronic_led_10_mm_green_tinted:
     name: Electronic Led 10 Mm Green Tinted
     oomp_key: oomp_electronic_led_10_mm_green_tinted
     part_number: ''
-    short_code: l10gt
+    short_code: l10gtt
     short_name: 10 Mm Greentinted Led
     size: 10_mm
     symbol:
@@ -9381,7 +9276,7 @@ electronic_led_10_mm_red_tinted:
     name: Electronic Led 10 Mm Red Tinted
     oomp_key: oomp_electronic_led_10_mm_red_tinted
     part_number: ''
-    short_code: l10rt
+    short_code: l10rtt
     short_name: 10 Mm Redtinted Led
     size: 10_mm
     symbol:
@@ -9409,7 +9304,7 @@ electronic_led_10_mm_tinted:
     name: Electronic Led 10 Mm Tinted
     oomp_key: oomp_electronic_led_10_mm_tinted
     part_number: ''
-    short_code: l10t
+    short_code: l10tt
     short_name: 10 Mm Tinted Led
     size: 10_mm
     symbol:
@@ -9493,7 +9388,7 @@ electronic_led_5_mm_green_tinted:
     name: Electronic Led 5 Mm Green Tinted
     oomp_key: oomp_electronic_led_5_mm_green_tinted
     part_number: ''
-    short_code: l5gt
+    short_code: l5gtt
     short_name: 5 Mm Greentinted Led
     size: 5_mm
     symbol:
@@ -9549,7 +9444,7 @@ electronic_led_5_mm_red_tinted:
     name: Electronic Led 5 Mm Red Tinted
     oomp_key: oomp_electronic_led_5_mm_red_tinted
     part_number: ''
-    short_code: l5rt
+    short_code: l5rtt
     short_name: 5 Mm Redtinted Led
     size: 5_mm
     symbol:
@@ -9577,7 +9472,7 @@ electronic_led_5_mm_tinted:
     name: Electronic Led 5 Mm Tinted
     oomp_key: oomp_electronic_led_5_mm_tinted
     part_number: ''
-    short_code: l5t
+    short_code: l5tt
     short_name: 5 Mm Tinted Led
     size: 5_mm
     symbol:
@@ -9662,7 +9557,7 @@ electronic_pmic_sot_223_linear_1117_1_5v:
     name: Electronic Pmic Sot 223 Linear 1117 1 5V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5v
     part_number: ''
-    short_code: sot2231d5v
+    short_code: sot223sot223
     short_name: ''
     size: sot_223
     symbol:
@@ -9687,7 +9582,7 @@ electronic_pmic_sot_223_linear_1117_1_8v:
     name: Electronic Pmic Sot 223 Linear 1117 1 8V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8v
     part_number: ''
-    short_code: sot2231d8v
+    short_code: sot223sot223
     short_name: ''
     size: sot_223
     symbol:
@@ -9712,7 +9607,7 @@ electronic_pmic_sot_223_linear_1117_2_5v:
     name: Electronic Pmic Sot 223 Linear 1117 2 5V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5v
     part_number: ''
-    short_code: sot2232d5v
+    short_code: sot223sot223
     short_name: ''
     size: sot_223
     symbol:
@@ -9737,7 +9632,7 @@ electronic_pmic_sot_223_linear_1117_3_3v:
     name: Electronic Pmic Sot 223 Linear 1117 3 3V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3v
     part_number: ''
-    short_code: sot2233d3v
+    short_code: sot223sot223
     short_name: ''
     size: sot_223
     symbol:
@@ -9762,7 +9657,7 @@ electronic_pmic_sot_223_linear_1117_5v:
     name: Electronic Pmic Sot 223 Linear 1117 5V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5v
     part_number: ''
-    short_code: sot223
+    short_code: sot223sot223
     short_name: ''
     size: sot_223
     symbol:
@@ -9787,7 +9682,7 @@ electronic_pmic_sot_223_linear_1117_adj:
     name: Electronic Pmic Sot 223 Linear 1117 Adj
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
     part_number: ''
-    short_code: sot223
+    short_code: sot223sot223
     short_name: ''
     size: sot_223
     symbol:
@@ -9815,7 +9710,7 @@ electronic_resistor_0402_10000_ohm:
     name: Electronic Resistor 0402 10000 Ohm
     oomp_key: oomp_electronic_resistor_0402_10000_ohm
     part_number: ''
-    short_code: r6o103
+    short_code: r4o103o103
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -9842,7 +9737,7 @@ electronic_resistor_0402_1000_ohm:
     name: Electronic Resistor 0402 1000 Ohm
     oomp_key: oomp_electronic_resistor_0402_1000_ohm
     part_number: ''
-    short_code: r6o102
+    short_code: r4o102o102
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -9869,7 +9764,7 @@ electronic_resistor_0402_2200_ohm:
     name: Electronic Resistor 0402 2200 Ohm
     oomp_key: oomp_electronic_resistor_0402_2200_ohm
     part_number: ''
-    short_code: r6o222
+    short_code: r4o222o222
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -9896,7 +9791,7 @@ electronic_resistor_0402_220_ohm:
     name: Electronic Resistor 0402 220 Ohm
     oomp_key: oomp_electronic_resistor_0402_220_ohm
     part_number: ''
-    short_code: r6o221
+    short_code: r4o221o221
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -9923,7 +9818,7 @@ electronic_resistor_0402_330_ohm:
     name: Electronic Resistor 0402 330 Ohm
     oomp_key: oomp_electronic_resistor_0402_330_ohm
     part_number: ''
-    short_code: r6o331
+    short_code: r4o331o331
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -9950,7 +9845,7 @@ electronic_resistor_0402_560_ohm:
     name: Electronic Resistor 0402 560 Ohm
     oomp_key: oomp_electronic_resistor_0402_560_ohm
     part_number: ''
-    short_code: r6o561
+    short_code: r4o561o561
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -9981,7 +9876,7 @@ electronic_resistor_0603_10000_ohm:
     name: Electronic Resistor 0603 10000 Ohm
     oomp_key: oomp_electronic_resistor_0603_10000_ohm
     part_number: ''
-    short_code: r6o103
+    short_code: r6o103o103
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10012,7 +9907,7 @@ electronic_resistor_0603_1000_ohm:
     name: Electronic Resistor 0603 1000 Ohm
     oomp_key: oomp_electronic_resistor_0603_1000_ohm
     part_number: ''
-    short_code: r6o102
+    short_code: r6o102o102
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10043,7 +9938,7 @@ electronic_resistor_0603_2200_ohm:
     name: Electronic Resistor 0603 2200 Ohm
     oomp_key: oomp_electronic_resistor_0603_2200_ohm
     part_number: ''
-    short_code: r6o222
+    short_code: r6o222o222
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10074,7 +9969,7 @@ electronic_resistor_0603_220_ohm:
     name: Electronic Resistor 0603 220 Ohm
     oomp_key: oomp_electronic_resistor_0603_220_ohm
     part_number: ''
-    short_code: r6o221
+    short_code: r6o221o221
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10105,7 +10000,7 @@ electronic_resistor_0603_330_ohm:
     name: Electronic Resistor 0603 330 Ohm
     oomp_key: oomp_electronic_resistor_0603_330_ohm
     part_number: ''
-    short_code: r6o331
+    short_code: r6o331o331
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10136,7 +10031,7 @@ electronic_resistor_0603_560_ohm:
     name: Electronic Resistor 0603 560 Ohm
     oomp_key: oomp_electronic_resistor_0603_560_ohm
     part_number: ''
-    short_code: r6o561
+    short_code: r6o561o561
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10167,7 +10062,7 @@ electronic_resistor_0805_10000_ohm:
     name: Electronic Resistor 0805 10000 Ohm
     oomp_key: oomp_electronic_resistor_0805_10000_ohm
     part_number: ''
-    short_code: r8o103
+    short_code: r8o103o103
     size: 0805
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10198,7 +10093,7 @@ electronic_resistor_0805_1000_ohm:
     name: Electronic Resistor 0805 1000 Ohm
     oomp_key: oomp_electronic_resistor_0805_1000_ohm
     part_number: ''
-    short_code: r8o102
+    short_code: r8o102o102
     size: 0805
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10229,7 +10124,7 @@ electronic_resistor_0805_2200_ohm:
     name: Electronic Resistor 0805 2200 Ohm
     oomp_key: oomp_electronic_resistor_0805_2200_ohm
     part_number: ''
-    short_code: r8o222
+    short_code: r8o222o222
     size: 0805
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10260,7 +10155,7 @@ electronic_resistor_0805_220_ohm:
     name: Electronic Resistor 0805 220 Ohm
     oomp_key: oomp_electronic_resistor_0805_220_ohm
     part_number: ''
-    short_code: r8o221
+    short_code: r8o221o221
     size: 0805
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10291,7 +10186,7 @@ electronic_resistor_0805_330_ohm:
     name: Electronic Resistor 0805 330 Ohm
     oomp_key: oomp_electronic_resistor_0805_330_ohm
     part_number: ''
-    short_code: r8o331
+    short_code: r8o331o331
     size: 0805
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10322,7 +10217,7 @@ electronic_resistor_0805_560_ohm:
     name: Electronic Resistor 0805 560 Ohm
     oomp_key: oomp_electronic_resistor_0805_560_ohm
     part_number: ''
-    short_code: r8o561
+    short_code: r8o561o561
     size: 0805
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10353,7 +10248,7 @@ electronic_resistor_1206_10000_ohm:
     name: Electronic Resistor 1206 10000 Ohm
     oomp_key: oomp_electronic_resistor_1206_10000_ohm
     part_number: ''
-    short_code: r12o103
+    short_code: r12o103o103
     size: '1206'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10384,7 +10279,7 @@ electronic_resistor_1206_1000_ohm:
     name: Electronic Resistor 1206 1000 Ohm
     oomp_key: oomp_electronic_resistor_1206_1000_ohm
     part_number: ''
-    short_code: r12o102
+    short_code: r12o102o102
     size: '1206'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10415,7 +10310,7 @@ electronic_resistor_1206_2200_ohm:
     name: Electronic Resistor 1206 2200 Ohm
     oomp_key: oomp_electronic_resistor_1206_2200_ohm
     part_number: ''
-    short_code: r12o222
+    short_code: r12o222o222
     size: '1206'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10446,7 +10341,7 @@ electronic_resistor_1206_220_ohm:
     name: Electronic Resistor 1206 220 Ohm
     oomp_key: oomp_electronic_resistor_1206_220_ohm
     part_number: ''
-    short_code: r12o221
+    short_code: r12o221o221
     size: '1206'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10477,7 +10372,7 @@ electronic_resistor_1206_330_ohm:
     name: Electronic Resistor 1206 330 Ohm
     oomp_key: oomp_electronic_resistor_1206_330_ohm
     part_number: ''
-    short_code: r12o331
+    short_code: r12o331o331
     size: '1206'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10508,7 +10403,7 @@ electronic_resistor_1206_560_ohm:
     name: Electronic Resistor 1206 560 Ohm
     oomp_key: oomp_electronic_resistor_1206_560_ohm
     part_number: ''
-    short_code: r12o561
+    short_code: r12o561o561
     size: '1206'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10535,7 +10430,7 @@ electronic_resistor_quarter_watt_through_hole_10000_ohm:
     name: Electronic Resistor Quarter Watt Through Hole 10000 Ohm
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_10000_ohm
     part_number: ''
-    short_code: ro103
+    short_code: ro103o103
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10562,7 +10457,7 @@ electronic_resistor_quarter_watt_through_hole_1000_ohm:
     name: Electronic Resistor Quarter Watt Through Hole 1000 Ohm
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1000_ohm
     part_number: ''
-    short_code: ro102
+    short_code: ro102o102
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10589,7 +10484,7 @@ electronic_resistor_quarter_watt_through_hole_2200_ohm:
     name: Electronic Resistor Quarter Watt Through Hole 2200 Ohm
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_2200_ohm
     part_number: ''
-    short_code: ro222
+    short_code: ro222o222
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10616,7 +10511,7 @@ electronic_resistor_quarter_watt_through_hole_220_ohm:
     name: Electronic Resistor Quarter Watt Through Hole 220 Ohm
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_220_ohm
     part_number: ''
-    short_code: ro221
+    short_code: ro221o221
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10643,7 +10538,7 @@ electronic_resistor_quarter_watt_through_hole_330_ohm:
     name: Electronic Resistor Quarter Watt Through Hole 330 Ohm
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_330_ohm
     part_number: ''
-    short_code: ro331
+    short_code: ro331o331
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10670,7 +10565,7 @@ electronic_resistor_quarter_watt_through_hole_560_ohm:
     name: Electronic Resistor Quarter Watt Through Hole 560 Ohm
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_560_ohm
     part_number: ''
-    short_code: ro561
+    short_code: ro561o561
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -10694,7 +10589,7 @@ electronic_socket_usb_mini_surface_mount_only:
     name: Electronic Socket Usb Mini Surface Mount Only
     oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
     part_number: ''
-    short_code: scumnsmo
+    short_code: scumnsmosmo
     short_name: ''
     size: usb_mini
     symbol:

@@ -17,7 +17,7 @@ md5_6: 5b2b5d
 name: Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
 oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 part_number: atmega328p_pu
-short_code: id28at328
+short_code: id28at328at328
 short_name: atmega328 28 pin dip
 size: dip_28
 symbol:

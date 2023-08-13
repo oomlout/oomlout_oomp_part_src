@@ -16,7 +16,7 @@ md5_6: 8cfd91
 name: Electronic Capacitor 0603 100 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
 part_number: ''
-short_code: c6nf100
+short_code: c6nf100nf100
 size: '0603'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym

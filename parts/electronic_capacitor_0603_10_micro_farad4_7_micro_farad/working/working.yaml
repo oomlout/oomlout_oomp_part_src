@@ -16,7 +16,7 @@ md5_6: be7c1e
 name: Electronic Capacitor 0603 10 Micro Farad4 7 Micro Farad
 oomp_key: oomp_electronic_capacitor_0603_10_micro_farad4_7_micro_farad
 part_number: ''
-short_code: c6
+short_code: c66
 size: '0603'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
