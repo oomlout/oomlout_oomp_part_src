@@ -4,6 +4,10 @@ description_extra: 1_8v
 description_main: '1117'
 directory: parts/electronic_pmic_sot_223_linear_1117_1_8v
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_to_252_3_tabpin2//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_to_252_3_tabpin2
+    oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
 id: electronic_pmic_sot_223_linear_1117_1_8v
 manufacturer: ''
 md5: 0450603713decc03eb5619d27e424cc5
