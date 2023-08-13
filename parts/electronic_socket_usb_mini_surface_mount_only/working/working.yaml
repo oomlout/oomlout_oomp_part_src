@@ -4,6 +4,10 @@ description_extra: ''
 description_main: surface_mount_only
 directory: parts/electronic_socket_usb_mini_surface_mount_only
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
+    oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
 id: electronic_socket_usb_mini_surface_mount_only
 manufacturer: ''
 md5: 34c5c0be3324508572b94f980c1c9606

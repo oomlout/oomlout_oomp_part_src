@@ -4,6 +4,10 @@ description_extra: 3_3v
 description_main: '1117'
 directory: parts/electronic_pmic_sot_223_linear_1117_3_3v
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_223
 id: electronic_pmic_sot_223_linear_1117_3_3v
 manufacturer: ''
 md5: bb05b4251bbaa51e2632cecf23e7de51
