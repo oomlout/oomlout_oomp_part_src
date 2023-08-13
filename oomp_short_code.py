@@ -15,11 +15,12 @@ def get_short_code(**kwargs):
     replace_dict["type"]["button"] = "b"
     replace_dict["type"]["capacitor"] = "c"
     replace_dict["type"]["crystal"] = "x"
-    replace_dict["type"]["diode"] = "d"
     replace_dict["type"]["diode_schottky"] = "ds"
+    replace_dict["type"]["diode"] = "d"    
     replace_dict["type"]["ic"] = "i"
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["socket"] = "sc"
+    replace_dict["type"]["pmic"] = "pm"
     replace_dict["type"]["header"] = "h"
     replace_dict["type"]["breakout_board"] = "bb"
 
@@ -63,7 +64,7 @@ def get_short_code(**kwargs):
 
     #pmic and transistorsizes
     replace_dict["size"]["to_252"] = "t252"
-    replace_dict["size"]["sot_223"] = "sot223"
+    replace_dict["size"]["sot_223"] = "s223"
 
     ##### dimension sizes
     replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
@@ -83,6 +84,7 @@ def get_short_code(**kwargs):
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
     replace_dict["description_main"]["tinted"] = "t"
+    replace_dict["description_main"]["1117"] = "1117"
 
     replace_dict["description_main"]["surface_mount_only"] = "smo"
 

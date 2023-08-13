@@ -178,108 +178,108 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
         oomp_key: oomp_kicad_switch_sw_push
     type: button
-electronic_capacitor_0402_tantalum_100_nano_farad_16_volt:
+electronic_capacitor_0402_100_nano_farad:
     classification: electronic
-    color: tantalum
-    description_extra: 16_volt
+    color: ''
+    description_extra: ''
     description_main: 100_nano_farad
-    directory: parts/electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
+    directory: parts/electronic_capacitor_0402_100_nano_farad
     distributors: []
     filter: ''
     from_yaml: false
-    id: electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
+    id: electronic_capacitor_0402_100_nano_farad
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    md5: be360ba70c12e7b2f6c70b38698dd624
-    md5_10: be360ba70c
-    md5_5: be360
-    md5_6: be360b
-    name: Electronic Capacitor 0402 Tantalum 100 Nano Farad 16 Volt
-    oomp_key: oomp_electronic_capacitor_0402_tantalum_100_nano_farad_16_volt
+    md5: 59771c4331f6c67b3f60f46b5ec35ee3
+    md5_10: 59771c4331
+    md5_5: '59771'
+    md5_6: 59771c
+    name: Electronic Capacitor 0402 100 Nano Farad
+    oomp_key: oomp_electronic_capacitor_0402_100_nano_farad
     part_number: ''
-    short_code: c4tnf100
+    short_code: c4nf100
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
         oomp_key: oomp_kicad_device_c
     type: capacitor
-electronic_capacitor_0402_tantalum_10_nano_farad_16_volt:
+electronic_capacitor_0402_10_nano_farad:
     classification: electronic
-    color: tantalum
-    description_extra: 16_volt
+    color: ''
+    description_extra: ''
     description_main: 10_nano_farad
-    directory: parts/electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
+    directory: parts/electronic_capacitor_0402_10_nano_farad
     distributors: []
     filter: ''
     from_yaml: false
-    id: electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
+    id: electronic_capacitor_0402_10_nano_farad
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    md5: d69870f8923dd37c25733d5682f6074f
-    md5_10: d69870f892
-    md5_5: d6987
-    md5_6: d69870
-    name: Electronic Capacitor 0402 Tantalum 10 Nano Farad 16 Volt
-    oomp_key: oomp_electronic_capacitor_0402_tantalum_10_nano_farad_16_volt
+    md5: 6ab82773a09b6f3ae48a4a64e5fcce7c
+    md5_10: 6ab82773a0
+    md5_5: 6ab82
+    md5_6: 6ab827
+    name: Electronic Capacitor 0402 10 Nano Farad
+    oomp_key: oomp_electronic_capacitor_0402_10_nano_farad
     part_number: ''
-    short_code: c4tnf10
+    short_code: c4nf10
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
         oomp_key: oomp_kicad_device_c
     type: capacitor
-electronic_capacitor_0402_tantalum_1_micro_farad_16_volt:
+electronic_capacitor_0402_1_micro_farad:
     classification: electronic
-    color: tantalum
-    description_extra: 16_volt
+    color: ''
+    description_extra: ''
     description_main: 1_micro_farad
-    directory: parts/electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+    directory: parts/electronic_capacitor_0402_1_micro_farad
     distributors: []
     filter: ''
     from_yaml: false
-    id: electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+    id: electronic_capacitor_0402_1_micro_farad
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    md5: ec73e3f80e7f4f6a0be2a42bcfec0b2d
-    md5_10: ec73e3f80e
-    md5_5: ec73e
-    md5_6: ec73e3
-    name: Electronic Capacitor 0402 Tantalum 1 Micro Farad 16 Volt
-    oomp_key: oomp_electronic_capacitor_0402_tantalum_1_micro_farad_16_volt
+    md5: 161ca70ef0437b6bc72debadd501c34f
+    md5_10: 161ca70ef0
+    md5_5: 161ca
+    md5_6: 161ca7
+    name: Electronic Capacitor 0402 1 Micro Farad
+    oomp_key: oomp_electronic_capacitor_0402_1_micro_farad
     part_number: ''
-    short_code: c4tuf1
+    short_code: c4uf1
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
         oomp_key: oomp_kicad_device_c
     type: capacitor
-electronic_capacitor_0402_tantalum_22_nano_farad_16_volt:
+electronic_capacitor_0402_22_nano_farad:
     classification: electronic
-    color: tantalum
-    description_extra: 16_volt
+    color: ''
+    description_extra: ''
     description_main: 22_nano_farad
-    directory: parts/electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
+    directory: parts/electronic_capacitor_0402_22_nano_farad
     distributors: []
     filter: ''
     from_yaml: false
-    id: electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
+    id: electronic_capacitor_0402_22_nano_farad
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    md5: dc17a54212dba00845a3d2b00074d645
-    md5_10: dc17a54212
-    md5_5: dc17a
-    md5_6: dc17a5
-    name: Electronic Capacitor 0402 Tantalum 22 Nano Farad 16 Volt
-    oomp_key: oomp_electronic_capacitor_0402_tantalum_22_nano_farad_16_volt
+    md5: 1680a357aabbe40624f196a667c0e274
+    md5_10: 1680a357aa
+    md5_5: 1680a
+    md5_6: 1680a3
+    name: Electronic Capacitor 0402 22 Nano Farad
+    oomp_key: oomp_electronic_capacitor_0402_22_nano_farad
     part_number: ''
-    short_code: c4tnf22
+    short_code: c4nf22
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -390,9 +390,9 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     short_code: catuf4d7
     size: 3216_avx_a
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
-        oomp_key: oomp_kicad_device_c
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
+        oomp_key: oomp_kicad_device_c_polarized
     type: capacitor
 electronic_crystal_3215_2_pin_12_mega_hertz:
     classification: electronic
@@ -9557,7 +9557,7 @@ electronic_pmic_sot_223_linear_1117_1_5v:
     name: Electronic Pmic Sot 223 Linear 1117 1 5V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5v
     part_number: ''
-    short_code: sot2231d5v
+    short_code: pms22311171d5v
     short_name: ''
     size: sot_223
     symbol:
@@ -9582,7 +9582,7 @@ electronic_pmic_sot_223_linear_1117_1_8v:
     name: Electronic Pmic Sot 223 Linear 1117 1 8V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8v
     part_number: ''
-    short_code: sot2231d8v
+    short_code: pms22311171d8v
     short_name: ''
     size: sot_223
     symbol:
@@ -9607,7 +9607,7 @@ electronic_pmic_sot_223_linear_1117_2_5v:
     name: Electronic Pmic Sot 223 Linear 1117 2 5V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5v
     part_number: ''
-    short_code: sot2232d5v
+    short_code: pms22311172d5v
     short_name: ''
     size: sot_223
     symbol:
@@ -9632,7 +9632,7 @@ electronic_pmic_sot_223_linear_1117_3_3v:
     name: Electronic Pmic Sot 223 Linear 1117 3 3V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3v
     part_number: ''
-    short_code: sot2233d3v
+    short_code: pms22311173d3v
     short_name: ''
     size: sot_223
     symbol:
@@ -9657,7 +9657,7 @@ electronic_pmic_sot_223_linear_1117_5v:
     name: Electronic Pmic Sot 223 Linear 1117 5V
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5v
     part_number: ''
-    short_code: sot223
+    short_code: pms2231117
     short_name: ''
     size: sot_223
     symbol:
@@ -9682,7 +9682,7 @@ electronic_pmic_sot_223_linear_1117_adj:
     name: Electronic Pmic Sot 223 Linear 1117 Adj
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
     part_number: ''
-    short_code: sot223
+    short_code: pms2231117
     short_name: ''
     size: sot_223
     symbol:

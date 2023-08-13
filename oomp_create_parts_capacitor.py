@@ -22,7 +22,15 @@ def load_parts(**kwargs):
     part_details["kicad_reference"] = "C"
     parts.append(part_details)
 
+
+    import copy 
+    part_details = copy.deepcopy(part_details)
+    part_details["size"] = ["0402"]
+    part_details["description_main"] = ["100_nano_farad","1_micro_farad","10_nano_farad","22_nano_farad"]
+    parts.append(part_details)
+
     #tantalum capacitors
+
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "capacitor"
@@ -35,10 +43,6 @@ def load_parts(**kwargs):
     part_details["kicad_reference"] = "C"    
     parts.append(part_details)
 
-    import copy 
-    part_details = copy.deepcopy(part_details)
-    part_details["size"] = ["0402"]
-    part_details["description_main"] = ["100_nano_farad","1_micro_farad","10_nano_farad","22_nano_farad"]
 
     #add the part to the list of parts
     parts.append(part_details)

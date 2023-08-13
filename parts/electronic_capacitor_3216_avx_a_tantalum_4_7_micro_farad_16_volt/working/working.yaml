@@ -19,7 +19,7 @@ part_number: ''
 short_code: catuf4d7
 size: 3216_avx_a
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
-    oomp_key: oomp_kicad_device_c
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
+    oomp_key: oomp_kicad_device_c_polarized
 type: capacitor

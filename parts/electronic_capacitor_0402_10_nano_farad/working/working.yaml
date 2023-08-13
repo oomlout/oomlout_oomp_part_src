@@ -16,6 +16,10 @@ md5_6: 6ab827
 name: Electronic Capacitor 0402 10 Nano Farad
 oomp_key: oomp_electronic_capacitor_0402_10_nano_farad
 part_number: ''
-short_code: c6nf10
+short_code: c4nf10
 size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
 type: capacitor

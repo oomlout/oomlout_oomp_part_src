@@ -24,9 +24,16 @@ def get_symbols(**kwargs):
     matches.append(match)
 
     ###### capacitor
+    
     match = {}
     match["type"] = "capacitor"
+    match["color"] = ""
     match["symbol_name"] = f"kicad_device_c"
+    matches.append(match)
+    match = {}
+    match["type"] = "capacitor"
+    match["color"] = "tantalum"
+    match["symbol_name"] = f"kicad_device_c_polarized"
     matches.append(match)
 
     ###### crystal
