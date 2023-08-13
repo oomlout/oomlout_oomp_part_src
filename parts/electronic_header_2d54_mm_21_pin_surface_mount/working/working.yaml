@@ -21,7 +21,7 @@ md5_6: '344455'
 name: Electronic Header 2D54 Mm 21 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_21_pin_surface_mount
 part_number: ''
-short_code: hi121p21p
+short_code: hi121psm
 short_name: 0.1" 21 Pin Surface Mount Header
 size: 2d54_mm
 symbol:

@@ -20,7 +20,7 @@ md5_6: 0fe784
 name: Electronic Resistor 0603 220 Ohm
 oomp_key: oomp_electronic_resistor_0603_220_ohm
 part_number: ''
-short_code: r6o221o221
+short_code: r6o221
 size: '0603'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

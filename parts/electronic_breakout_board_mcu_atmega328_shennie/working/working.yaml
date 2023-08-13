@@ -140,7 +140,7 @@ pins:
         name: d6
         number: '9'
         type: signal
-short_code: bbat328at328
+short_code: bbat328
 short_name: ''
 size: ''
 symbol:

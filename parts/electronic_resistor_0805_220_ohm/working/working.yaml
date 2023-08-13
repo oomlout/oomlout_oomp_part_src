@@ -20,7 +20,7 @@ md5_6: 5b162a
 name: Electronic Resistor 0805 220 Ohm
 oomp_key: oomp_electronic_resistor_0805_220_ohm
 part_number: ''
-short_code: r8o221o221
+short_code: r8o221
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

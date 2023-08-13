@@ -20,7 +20,7 @@ md5_6: 5ca593
 name: Electronic Resistor 0603 330 Ohm
 oomp_key: oomp_electronic_resistor_0603_330_ohm
 part_number: ''
-short_code: r6o331o331
+short_code: r6o331
 size: '0603'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

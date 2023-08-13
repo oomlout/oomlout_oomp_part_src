@@ -16,7 +16,7 @@ md5_6: a9a5e9
 name: Electronic Resistor Quarter Watt Through Hole 2200 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_2200_ohm
 part_number: ''
-short_code: ro222o222
+short_code: ro222
 size: quarter_watt_through_hole
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

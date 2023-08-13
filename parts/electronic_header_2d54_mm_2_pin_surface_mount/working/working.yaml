@@ -21,7 +21,7 @@ md5_6: 83ae66
 name: Electronic Header 2D54 Mm 2 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_2_pin_surface_mount
 part_number: ''
-short_code: hi12p2p
+short_code: hi12psm
 short_name: 0.1" 2 Pin Surface Mount Header
 size: 2d54_mm
 symbol:

@@ -156,7 +156,9 @@ def get_short_code(**kwargs):
             if name == "description_extra":
                 if "package_marking" in kwargs_copy[name]:
                     replace_value = f'pm{kwargs_copy["description_extra"].replace("package_marking_","")}'    
-                    pass                
+                    pass 
+                else:
+                    replace_value = replace_dict[name][kwargs_copy[name]]                   
             else:
                 replace_value = replace_dict[name][kwargs_copy[name]]
             #add the replace value to the short code            

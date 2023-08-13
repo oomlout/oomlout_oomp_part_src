@@ -20,7 +20,7 @@ md5_6: 459cf3
 name: Electronic Resistor 1206 220 Ohm
 oomp_key: oomp_electronic_resistor_1206_220_ohm
 part_number: ''
-short_code: r12o221o221
+short_code: r12o221
 size: '1206'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

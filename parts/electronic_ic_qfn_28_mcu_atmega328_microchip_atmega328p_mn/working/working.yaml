@@ -13,7 +13,7 @@ md5_6: 4e3ceb
 name: Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
 oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 part_number: atmega328p_mn
-short_code: iq28at328at328
+short_code: iq28at328
 short_name: atmega328 28 pin qfn
 size: qfn_28
 symbol:

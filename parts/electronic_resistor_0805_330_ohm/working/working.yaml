@@ -20,7 +20,7 @@ md5_6: ef20c6
 name: Electronic Resistor 0805 330 Ohm
 oomp_key: oomp_electronic_resistor_0805_330_ohm
 part_number: ''
-short_code: r8o331o331
+short_code: r8o331
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

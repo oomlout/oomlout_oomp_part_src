@@ -14,7 +14,7 @@ md5_6: '122638'
 name: Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin_surface_mount
 part_number: ''
-short_code: h3p3p
+short_code: h3psm
 short_name: Jst Xh 3 Pin Surface Mount Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
 symbol:

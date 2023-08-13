@@ -20,7 +20,7 @@ md5_6: c20cc4
 name: Electronic Resistor 0805 2200 Ohm
 oomp_key: oomp_electronic_resistor_0805_2200_ohm
 part_number: ''
-short_code: r8o222o222
+short_code: r8o222
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

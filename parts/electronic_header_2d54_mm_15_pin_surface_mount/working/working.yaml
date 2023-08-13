@@ -21,7 +21,7 @@ md5_6: 0b02ac
 name: Electronic Header 2D54 Mm 15 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_15_pin_surface_mount
 part_number: ''
-short_code: hi115p15p
+short_code: hi115psm
 short_name: 0.1" 15 Pin Surface Mount Header
 size: 2d54_mm
 symbol:
