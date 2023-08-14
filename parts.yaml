@@ -426,83 +426,71 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
         oomp_key: oomp_kicad_device_c_polarized
     type: capacitor
-electronic_crystal_3213_3_pin_12_mega_hertz:
+electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz:
     classification: electronic
-    color: 3_pin
+    color: 3_pin_ground_pin_2
     description_extra: ''
     description_main: 12_mega_hertz
-    directory: parts/electronic_crystal_3213_3_pin_12_mega_hertz
+    directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
-    id: electronic_crystal_3213_3_pin_12_mega_hertz
+    id: electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    md5: 4c51960938b0c4e29ef9acea9a256e52
-    md5_10: 4c51960938
-    md5_5: 4c519
-    md5_6: 4c5196
-    name: Electronic Crystal 3213 3 Pin 12 Mega Hertz
-    oomp_key: oomp_electronic_crystal_3213_3_pin_12_mega_hertz
+    md5: 133c3f85cd5714444657f176f97a046b
+    md5_10: 133c3f85cd
+    md5_5: 133c3
+    md5_6: 133c3f
+    name: Electronic Crystal 3213 3 Pin Ground Pin 2 12 Mega Hertz
+    oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
     part_number: ''
     short_code: xmhz12
     size: '3213'
     type: crystal
-electronic_crystal_3213_3_pin_16_mega_hertz:
+electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz:
     classification: electronic
-    color: 3_pin
+    color: 3_pin_ground_pin_2
     description_extra: ''
     description_main: 16_mega_hertz
-    directory: parts/electronic_crystal_3213_3_pin_16_mega_hertz
+    directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
-    id: electronic_crystal_3213_3_pin_16_mega_hertz
+    id: electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    md5: e99dbe13f830820031c1e5e50fddd1f1
-    md5_10: e99dbe13f8
-    md5_5: e99db
-    md5_6: e99dbe
-    name: Electronic Crystal 3213 3 Pin 16 Mega Hertz
-    oomp_key: oomp_electronic_crystal_3213_3_pin_16_mega_hertz
+    md5: 19a5613cf2ea5024dc0a4588deb23f94
+    md5_10: 19a5613cf2
+    md5_5: 19a56
+    md5_6: 19a561
+    name: Electronic Crystal 3213 3 Pin Ground Pin 2 16 Mega Hertz
+    oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
     part_number: ''
     short_code: xmhz16
     size: '3213'
     type: crystal
-electronic_crystal_3213_3_pin_8_mega_hertz:
+electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz:
     classification: electronic
-    color: 3_pin
+    color: 3_pin_ground_pin_2
     description_extra: ''
     description_main: 8_mega_hertz
-    directory: parts/electronic_crystal_3213_3_pin_8_mega_hertz
+    directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
-    id: electronic_crystal_3213_3_pin_8_mega_hertz
+    id: electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    md5: 89df70353e0a058199a6e93c5831d4a7
-    md5_10: 89df70353e
-    md5_5: 89df7
-    md5_6: 89df70
-    name: Electronic Crystal 3213 3 Pin 8 Mega Hertz
-    oomp_key: oomp_electronic_crystal_3213_3_pin_8_mega_hertz
+    md5: 10c22e22a789684b24f2fd2c36721bbc
+    md5_10: 10c22e22a7
+    md5_5: 10c22
+    md5_6: 10c22e
+    name: Electronic Crystal 3213 3 Pin Ground Pin 2 8 Mega Hertz
+    oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
     part_number: ''
     short_code: xmhz8
     size: '3213'
