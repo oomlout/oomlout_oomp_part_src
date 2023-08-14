@@ -434,6 +434,10 @@ electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz:
     directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
     id: electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
     kicad_reference: x
@@ -448,6 +452,10 @@ electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz:
     part_number: ''
     short_code: xmhz12
     size: '3213'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
+        oomp_key: oomp_kicad_device_crystal_gnd2
     type: crystal
 electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz:
     classification: electronic
@@ -457,6 +465,10 @@ electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz:
     directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
     id: electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
     kicad_reference: x
@@ -471,6 +483,10 @@ electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz:
     part_number: ''
     short_code: xmhz16
     size: '3213'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
+        oomp_key: oomp_kicad_device_crystal_gnd2
     type: crystal
 electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz:
     classification: electronic
@@ -480,6 +496,10 @@ electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz:
     directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
     id: electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
     kicad_reference: x
@@ -494,6 +514,10 @@ electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz:
     part_number: ''
     short_code: xmhz8
     size: '3213'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
+        oomp_key: oomp_kicad_device_crystal_gnd2
     type: crystal
 electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     classification: electronic

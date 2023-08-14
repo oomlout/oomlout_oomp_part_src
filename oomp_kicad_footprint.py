@@ -40,7 +40,7 @@ def get_footprints(**kwargs):
     match = {}
     match["type"] = "crystal"
     match["size"] = "3213"
-    match["color"] = "3_pin"
+    match["color"] = "3_pin_ground_pin_2"
     match["footprint_name"] = "kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm"
     matches.append(match)
 
