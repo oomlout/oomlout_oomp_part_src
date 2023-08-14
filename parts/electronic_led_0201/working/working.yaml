@@ -1,0 +1,26 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0201
+kicad_reference: L
+manufacturer: ''
+md5: 734a19bea8740b6c233a98d84ee91ee7
+md5_10: 734a19bea8
+md5_5: 734a1
+md5_6: 734a19
+name: Electronic Led 0201
+oomp_key: oomp_electronic_led_0201
+part_number: ''
+short_code: l
+short_name: 0201 Led
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

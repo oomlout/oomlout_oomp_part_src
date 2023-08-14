@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 150_ohm
+directory: parts/electronic_resistor_1206_150_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+    oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
+from_yaml: false
+id: electronic_resistor_1206_150_ohm
+kicad_reference: R
+manufacturer: ''
+md5: a0b855d42dbefe9c0782ad778c37dc59
+md5_10: a0b855d42d
+md5_5: a0b85
+md5_6: a0b855
+name: Electronic Resistor 1206 150 Ohm
+oomp_key: oomp_electronic_resistor_1206_150_ohm
+part_number: ''
+short_code: r12o151
+size: '1206'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 68_ohm
+directory: parts/electronic_resistor_0201_68_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_68_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 9759e76ec8aa629ca0c40d23fc164cf1
+md5_10: 9759e76ec8
+md5_5: 9759e
+md5_6: 9759e7
+name: Electronic Resistor 0201 68 Ohm
+oomp_key: oomp_electronic_resistor_0201_68_ohm
+part_number: ''
+short_code: ro680
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

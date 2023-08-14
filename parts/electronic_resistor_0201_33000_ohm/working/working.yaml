@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33000_ohm
+directory: parts/electronic_resistor_0201_33000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_33000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 13c1e8fa37093837f2086747790e8c30
+md5_10: 13c1e8fa37
+md5_5: 13c1e
+md5_6: 13c1e8
+name: Electronic Resistor 0201 33000 Ohm
+oomp_key: oomp_electronic_resistor_0201_33000_ohm
+part_number: ''
+short_code: ro333
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

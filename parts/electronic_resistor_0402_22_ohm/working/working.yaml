@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_0402_22_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_22_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 6475a296bea487c84aca85f43c15a4da
+md5_10: 6475a296be
+md5_5: 6475a
+md5_6: 6475a2
+name: Electronic Resistor 0402 22 Ohm
+oomp_key: oomp_electronic_resistor_0402_22_ohm
+part_number: ''
+short_code: r4o220
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

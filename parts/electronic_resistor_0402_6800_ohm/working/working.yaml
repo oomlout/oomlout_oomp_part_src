@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 6800_ohm
+directory: parts/electronic_resistor_0402_6800_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_6800_ohm
+kicad_reference: R
+manufacturer: ''
+md5: bc6d5096a4148bc54279ced68bb55ff7
+md5_10: bc6d5096a4
+md5_5: bc6d5
+md5_6: bc6d50
+name: Electronic Resistor 0402 6800 Ohm
+oomp_key: oomp_electronic_resistor_0402_6800_ohm
+part_number: ''
+short_code: r4o682
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

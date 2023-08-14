@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1200_ohm
+directory: parts/electronic_resistor_0201_1200_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_1200_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 72c084bde1638748b43ea6bab2f0441e
+md5_10: 72c084bde1
+md5_5: 72c08
+md5_6: 72c084
+name: Electronic Resistor 0201 1200 Ohm
+oomp_key: oomp_electronic_resistor_0201_1200_ohm
+part_number: ''
+short_code: ro122
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

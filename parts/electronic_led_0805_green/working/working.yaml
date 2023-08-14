@@ -1,0 +1,26 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_green
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0805_green
+kicad_reference: L
+manufacturer: ''
+md5: 86fed6a509f645111309ee5e446eb91f
+md5_10: 86fed6a509
+md5_5: 86fed
+md5_6: 86fed6
+name: Electronic Led 0805 Green
+oomp_key: oomp_electronic_led_0805_green
+part_number: ''
+short_code: l8g
+short_name: 0805 Green Led
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1200_ohm
+directory: parts/electronic_resistor_0603_1200_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+from_yaml: false
+id: electronic_resistor_0603_1200_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 1db8ad8f32185976b5c1e17c2c2e6b7e
+md5_10: 1db8ad8f32
+md5_5: 1db8a
+md5_6: 1db8ad
+name: Electronic Resistor 0603 1200 Ohm
+oomp_key: oomp_electronic_resistor_0603_1200_ohm
+part_number: ''
+short_code: r6o122
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 82_ohm
+directory: parts/electronic_resistor_0201_82_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_82_ohm
+kicad_reference: R
+manufacturer: ''
+md5: d46f6f304d29058a7d5d7d9bf88b2c8c
+md5_10: d46f6f304d
+md5_5: d46f6
+md5_6: d46f6f
+name: Electronic Resistor 0201 82 Ohm
+oomp_key: oomp_electronic_resistor_0201_82_ohm
+part_number: ''
+short_code: ro820
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

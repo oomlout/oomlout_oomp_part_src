@@ -1,0 +1,26 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_1206
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_1206
+kicad_reference: L
+manufacturer: ''
+md5: 6216927724aa54d0807a6a8b918f128f
+md5_10: '6216927724'
+md5_5: '62169'
+md5_6: '621692'
+name: Electronic Led 1206
+oomp_key: oomp_electronic_led_1206
+part_number: ''
+short_code: l12
+short_name: 1206 Led
+size: '1206'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

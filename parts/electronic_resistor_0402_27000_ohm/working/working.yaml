@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27000_ohm
+directory: parts/electronic_resistor_0402_27000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_27000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 252262294840cf0527433c0eccb1bb93
+md5_10: '2522622948'
+md5_5: '25226'
+md5_6: '252262'
+name: Electronic Resistor 0402 27000 Ohm
+oomp_key: oomp_electronic_resistor_0402_27000_ohm
+part_number: ''
+short_code: r4o273
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

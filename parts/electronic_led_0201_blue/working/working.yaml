@@ -1,0 +1,26 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0201_blue
+kicad_reference: L
+manufacturer: ''
+md5: d0617d68781887fb57b1a60020a83dc5
+md5_10: d0617d6878
+md5_5: d0617
+md5_6: d0617d
+name: Electronic Led 0201 Blue
+oomp_key: oomp_electronic_led_0201_blue
+part_number: ''
+short_code: l
+short_name: 0201 Blue Led
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

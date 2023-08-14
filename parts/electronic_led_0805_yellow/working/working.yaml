@@ -1,0 +1,26 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_yellow
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0805_yellow
+kicad_reference: L
+manufacturer: ''
+md5: 5c87ad5a4f3215668066a822e24d75cf
+md5_10: 5c87ad5a4f
+md5_5: 5c87a
+md5_6: 5c87ad
+name: Electronic Led 0805 Yellow
+oomp_key: oomp_electronic_led_0805_yellow
+part_number: ''
+short_code: l8
+short_name: 0805 Yellow Led
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

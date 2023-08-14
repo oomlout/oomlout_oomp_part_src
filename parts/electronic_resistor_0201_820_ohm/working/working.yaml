@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 820_ohm
+directory: parts/electronic_resistor_0201_820_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_820_ohm
+kicad_reference: R
+manufacturer: ''
+md5: ea44f726246dc0c99500106f1315752a
+md5_10: ea44f72624
+md5_5: ea44f
+md5_6: ea44f7
+name: Electronic Resistor 0201 820 Ohm
+oomp_key: oomp_electronic_resistor_0201_820_ohm
+part_number: ''
+short_code: ro821
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

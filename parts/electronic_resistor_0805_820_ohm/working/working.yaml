@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 820_ohm
+directory: parts/electronic_resistor_0805_820_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+from_yaml: false
+id: electronic_resistor_0805_820_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 10be28dcd22ae7fd56c30c3ed836861f
+md5_10: 10be28dcd2
+md5_5: 10be2
+md5_6: 10be28
+name: Electronic Resistor 0805 820 Ohm
+oomp_key: oomp_electronic_resistor_0805_820_ohm
+part_number: ''
+short_code: r8o821
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

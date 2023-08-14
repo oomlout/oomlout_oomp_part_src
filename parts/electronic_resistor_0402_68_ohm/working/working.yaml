@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 68_ohm
+directory: parts/electronic_resistor_0402_68_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_68_ohm
+kicad_reference: R
+manufacturer: ''
+md5: c8a2f5c8d2a612131492a2f423769963
+md5_10: c8a2f5c8d2
+md5_5: c8a2f
+md5_6: c8a2f5
+name: Electronic Resistor 0402 68 Ohm
+oomp_key: oomp_electronic_resistor_0402_68_ohm
+part_number: ''
+short_code: r4o680
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12_ohm
+directory: parts/electronic_resistor_0402_12_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_12_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 77b9917b0f9e31b4afa36ad766f5043e
+md5_10: 77b9917b0f
+md5_5: 77b99
+md5_6: 77b991
+name: Electronic Resistor 0402 12 Ohm
+oomp_key: oomp_electronic_resistor_0402_12_ohm
+part_number: ''
+short_code: r4o120
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2700_ohm
+directory: parts/electronic_resistor_0805_2700_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+from_yaml: false
+id: electronic_resistor_0805_2700_ohm
+kicad_reference: R
+manufacturer: ''
+md5: e2a6cb282a0ae5141a58cf1ad664fc7f
+md5_10: e2a6cb282a
+md5_5: e2a6c
+md5_6: e2a6cb
+name: Electronic Resistor 0805 2700 Ohm
+oomp_key: oomp_electronic_resistor_0805_2700_ohm
+part_number: ''
+short_code: r8o272
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

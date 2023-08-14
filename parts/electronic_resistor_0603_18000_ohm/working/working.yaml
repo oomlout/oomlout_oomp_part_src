@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 18000_ohm
+directory: parts/electronic_resistor_0603_18000_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+from_yaml: false
+id: electronic_resistor_0603_18000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: fa25d22bae4c69eda8634ce0e9716b1a
+md5_10: fa25d22bae
+md5_5: fa25d
+md5_6: fa25d2
+name: Electronic Resistor 0603 18000 Ohm
+oomp_key: oomp_electronic_resistor_0603_18000_ohm
+part_number: ''
+short_code: r6o183
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

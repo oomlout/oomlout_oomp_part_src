@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_0201_22_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_22_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 7a12ec4ecfcb8ec3544253851f5681f0
+md5_10: 7a12ec4ecf
+md5_5: 7a12e
+md5_6: 7a12ec
+name: Electronic Resistor 0201 22 Ohm
+oomp_key: oomp_electronic_resistor_0201_22_ohm
+part_number: ''
+short_code: ro220
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

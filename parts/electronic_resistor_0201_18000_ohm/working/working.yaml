@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 18000_ohm
+directory: parts/electronic_resistor_0201_18000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_18000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 435cc9c7d7a26101c06d4a7fd2484c46
+md5_10: 435cc9c7d7
+md5_5: 435cc
+md5_6: 435cc9
+name: Electronic Resistor 0201 18000 Ohm
+oomp_key: oomp_electronic_resistor_0201_18000_ohm
+part_number: ''
+short_code: ro183
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

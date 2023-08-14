@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 470_ohm
+directory: parts/electronic_resistor_0201_470_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_470_ohm
+kicad_reference: R
+manufacturer: ''
+md5: e8babb9acd0c694f34a1e9342f029709
+md5_10: e8babb9acd
+md5_5: e8bab
+md5_6: e8babb
+name: Electronic Resistor 0201 470 Ohm
+oomp_key: oomp_electronic_resistor_0201_470_ohm
+part_number: ''
+short_code: ro471
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

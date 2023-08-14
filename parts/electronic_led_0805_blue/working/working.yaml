@@ -1,0 +1,26 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0805_blue
+kicad_reference: L
+manufacturer: ''
+md5: 5b158c0d2eb94016b924a7e2a0befe8b
+md5_10: 5b158c0d2e
+md5_5: 5b158
+md5_6: 5b158c
+name: Electronic Led 0805 Blue
+oomp_key: oomp_electronic_led_0805_blue
+part_number: ''
+short_code: l8
+short_name: 0805 Blue Led
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

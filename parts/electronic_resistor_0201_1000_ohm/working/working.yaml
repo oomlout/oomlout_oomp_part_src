@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1000_ohm
+directory: parts/electronic_resistor_0201_1000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_1000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 7d3edbc4f53a165405c54f8660a29681
+md5_10: 7d3edbc4f5
+md5_5: 7d3ed
+md5_6: 7d3edb
+name: Electronic Resistor 0201 1000 Ohm
+oomp_key: oomp_electronic_resistor_0201_1000_ohm
+part_number: ''
+short_code: ro102
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

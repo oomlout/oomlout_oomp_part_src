@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 8200_ohm
+directory: parts/electronic_resistor_0201_8200_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_8200_ohm
+kicad_reference: R
+manufacturer: ''
+md5: a484862aba1bc0bb7354c64c5faefbb0
+md5_10: a484862aba
+md5_5: a4848
+md5_6: a48486
+name: Electronic Resistor 0201 8200 Ohm
+oomp_key: oomp_electronic_resistor_0201_8200_ohm
+part_number: ''
+short_code: ro822
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

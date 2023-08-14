@@ -13,9 +13,9 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "led"
-    part_details["size"] = ["5_mm","10_mm","0603"]
-    part_details["color"] = ["","red","green"]
-    part_details["description_main"] = ["","tinted"]
+    part_details["size"] = ["3_mm","5_mm","10_mm","0201","0402","0603","0805","1206"]
+    part_details["color"] = ["","red","green","blue","yellow"]
+    part_details["description_main"] = [""]
     part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""

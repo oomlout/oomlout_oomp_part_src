@@ -1,0 +1,30 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_blue
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+    oomp_key: oomp_kicad_led_tht_led_d10_0mm
+from_yaml: false
+id: electronic_led_10_mm_blue
+kicad_reference: L
+manufacturer: ''
+md5: 78055f06d160820fbae0757e8a0f65f1
+md5_10: 78055f06d1
+md5_5: '78055'
+md5_6: 78055f
+name: Electronic Led 10 Mm Blue
+oomp_key: oomp_electronic_led_10_mm_blue
+part_number: ''
+short_code: l10
+short_name: 10 Mm Blue Led
+size: 10_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

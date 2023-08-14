@@ -24,6 +24,7 @@ def clone_data_files():
     repo_list = []
     repo_list.append("https://github.com/oomlout/oomlout_oomp_footprint_bot")
     repo_list.append("https://github.com/oomlout/oomlout_oomp_symbol_bot")
+    repo_list.append("https://github.com/oomlout/oomlout_oomp_project_bot")
 
     #if tmp/ doesn't exist create it
     
@@ -52,6 +53,9 @@ def load_parts(**kwargs):
 
 def save_parts(**kwargs):
     oomp_create_parts.save_parts_to_yaml(**kwargs)
+
+def save_parts_to_individual_yaml_files(**kwargs):
+    oomp_create_parts.save_parts_to_individual_yaml_files(**kwargs)
 
 def create_parts_readme_old():
     print("creating parts readme")

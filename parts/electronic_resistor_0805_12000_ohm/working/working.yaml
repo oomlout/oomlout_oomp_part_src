@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12000_ohm
+directory: parts/electronic_resistor_0805_12000_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+from_yaml: false
+id: electronic_resistor_0805_12000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 791b04924e3545dfbae6cfb69f9d98a6
+md5_10: 791b04924e
+md5_5: 791b0
+md5_6: 791b04
+name: Electronic Resistor 0805 12000 Ohm
+oomp_key: oomp_electronic_resistor_0805_12000_ohm
+part_number: ''
+short_code: r8o123
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 56000_ohm
+directory: parts/electronic_resistor_0402_56000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_56000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 3bf2f2bf9d3afa36d46508934731a7be
+md5_10: 3bf2f2bf9d
+md5_5: 3bf2f
+md5_6: 3bf2f2
+name: Electronic Resistor 0402 56000 Ohm
+oomp_key: oomp_electronic_resistor_0402_56000_ohm
+part_number: ''
+short_code: r4o563
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

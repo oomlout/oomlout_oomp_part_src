@@ -40,3 +40,14 @@ def save_parts_to_yaml(**kwargs):
     import yaml
     with open("parts.yaml", "w") as outfile:
         yaml.dump(oomp.parts, outfile, indent=4)
+
+def save_parts_to_individual_yaml_files(**kwargs):
+    print("saving parts to yaml")
+    import yaml
+    for part_id in oomp.parts:
+        part = oomp.parts[part_id]
+        del part['make_files']
+        yaml_file = f"parts/{part_id}/working/working.yaml"
+        with open(yaml_file, "w") as outfile:
+            print(f"writing {yaml_file}")
+            yaml.dump(part, outfile, indent=4)

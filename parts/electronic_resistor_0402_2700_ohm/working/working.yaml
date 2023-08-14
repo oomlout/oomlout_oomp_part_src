@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2700_ohm
+directory: parts/electronic_resistor_0402_2700_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_2700_ohm
+kicad_reference: R
+manufacturer: ''
+md5: a79f6548696873334016d9ad3ba271b2
+md5_10: a79f654869
+md5_5: a79f6
+md5_6: a79f65
+name: Electronic Resistor 0402 2700 Ohm
+oomp_key: oomp_electronic_resistor_0402_2700_ohm
+part_number: ''
+short_code: r4o272
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

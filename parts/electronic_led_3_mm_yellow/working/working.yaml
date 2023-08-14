@@ -1,0 +1,26 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_3_mm_yellow
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_3_mm_yellow
+kicad_reference: L
+manufacturer: ''
+md5: 46a6ba779ea221e73a34edd69dc9e28e
+md5_10: 46a6ba779e
+md5_5: 46a6b
+md5_6: 46a6ba
+name: Electronic Led 3 Mm Yellow
+oomp_key: oomp_electronic_led_3_mm_yellow
+part_number: ''
+short_code: l3
+short_name: 3 Mm Yellow Led
+size: 3_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

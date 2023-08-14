@@ -1,0 +1,30 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_blue
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+    oomp_key: oomp_kicad_led_smd_led_0603_1608metric
+from_yaml: false
+id: electronic_led_0603_blue
+kicad_reference: L
+manufacturer: ''
+md5: 9674f50c150069fafacfa3671b299b20
+md5_10: 9674f50c15
+md5_5: 9674f
+md5_6: 9674f5
+name: Electronic Led 0603 Blue
+oomp_key: oomp_electronic_led_0603_blue
+part_number: ''
+short_code: l6
+short_name: 0603 Blue Led
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27_ohm
+directory: parts/electronic_resistor_1206_27_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+    oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
+from_yaml: false
+id: electronic_resistor_1206_27_ohm
+kicad_reference: R
+manufacturer: ''
+md5: e9296aab31fa1924c539ba3939b87a07
+md5_10: e9296aab31
+md5_5: e9296
+md5_6: e9296a
+name: Electronic Resistor 1206 27 Ohm
+oomp_key: oomp_electronic_resistor_1206_27_ohm
+part_number: ''
+short_code: r12o270
+size: '1206'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

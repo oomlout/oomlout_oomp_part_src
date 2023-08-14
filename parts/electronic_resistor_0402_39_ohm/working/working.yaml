@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39_ohm
+directory: parts/electronic_resistor_0402_39_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_39_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 051e9a1de9c9dd8e87376ad32a06db17
+md5_10: 051e9a1de9
+md5_5: 051e9
+md5_6: 051e9a
+name: Electronic Resistor 0402 39 Ohm
+oomp_key: oomp_electronic_resistor_0402_39_ohm
+part_number: ''
+short_code: r4o390
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

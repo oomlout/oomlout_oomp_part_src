@@ -1,0 +1,26 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201_red
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0201_red
+kicad_reference: L
+manufacturer: ''
+md5: 0a5fb3aebfea3215d424df51e0177a19
+md5_10: 0a5fb3aebf
+md5_5: 0a5fb
+md5_6: 0a5fb3
+name: Electronic Led 0201 Red
+oomp_key: oomp_electronic_led_0201_red
+part_number: ''
+short_code: lr
+short_name: 0201 Red Led
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

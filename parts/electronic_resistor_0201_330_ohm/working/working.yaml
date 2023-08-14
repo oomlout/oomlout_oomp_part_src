@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 330_ohm
+directory: parts/electronic_resistor_0201_330_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0201_330_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 703156f2a2502e33d0f4689497b065c3
+md5_10: 703156f2a2
+md5_5: '70315'
+md5_6: '703156'
+name: Electronic Resistor 0201 330 Ohm
+oomp_key: oomp_electronic_resistor_0201_330_ohm
+part_number: ''
+short_code: ro331
+size: '0201'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

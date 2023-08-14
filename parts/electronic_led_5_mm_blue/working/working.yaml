@@ -1,0 +1,30 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm_blue
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+    oomp_key: oomp_kicad_led_tht_led_d5_0mm
+from_yaml: false
+id: electronic_led_5_mm_blue
+kicad_reference: L
+manufacturer: ''
+md5: ce34411c59ac93ef3b913e98d5574849
+md5_10: ce34411c59
+md5_5: ce344
+md5_6: ce3441
+name: Electronic Led 5 Mm Blue
+oomp_key: oomp_electronic_led_5_mm_blue
+part_number: ''
+short_code: l5
+short_name: 5 Mm Blue Led
+size: 5_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

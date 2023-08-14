@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22000_ohm
+directory: parts/electronic_resistor_0805_22000_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+from_yaml: false
+id: electronic_resistor_0805_22000_ohm
+kicad_reference: R
+manufacturer: ''
+md5: 40edf4b4fd5ce67c1d0c60636752654a
+md5_10: 40edf4b4fd
+md5_5: 40edf
+md5_6: 40edf4
+name: Electronic Resistor 0805 22000 Ohm
+oomp_key: oomp_electronic_resistor_0805_22000_ohm
+part_number: ''
+short_code: r8o223
+size: 0805
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

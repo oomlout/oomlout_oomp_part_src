@@ -1,0 +1,25 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 150_ohm
+directory: parts/electronic_resistor_0402_150_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_0402_150_ohm
+kicad_reference: R
+manufacturer: ''
+md5: ae6b63be42faf45d4b8646e326bebaa2
+md5_10: ae6b63be42
+md5_5: ae6b6
+md5_6: ae6b63
+name: Electronic Resistor 0402 150 Ohm
+oomp_key: oomp_electronic_resistor_0402_150_ohm
+part_number: ''
+short_code: r4o151
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor

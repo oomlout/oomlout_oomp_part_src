@@ -1,0 +1,26 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_1206_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_1206_blue
+kicad_reference: L
+manufacturer: ''
+md5: b479a89f585074b74fefdd18b419f86a
+md5_10: b479a89f58
+md5_5: b479a
+md5_6: b479a8
+name: Electronic Led 1206 Blue
+oomp_key: oomp_electronic_led_1206_blue
+part_number: ''
+short_code: l12
+short_name: 1206 Blue Led
+size: '1206'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led
