@@ -193,7 +193,7 @@ def add_part(**kwargs):
                 import os.path
                 if os.path.isfile("src/" + id + "_" + file_type):
                     import shutil
-                    shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/" + file_type)
+                    shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/working/" + file_type)
 
         
 
