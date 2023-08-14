@@ -23,6 +23,7 @@ def load_parts(**kwargs):
             resistor_values.append(resistor_string)
     resistor_values.append("10000000_ohm")
     resistor_values.append("1000000_ohm")
+    resistor_values.append("100000_ohm")
 
 
     #define a part 

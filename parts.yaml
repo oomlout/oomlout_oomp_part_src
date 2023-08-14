@@ -10523,6 +10523,33 @@ electronic_resistor_0201_1000000_ohm:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
         oomp_key: oomp_kicad_device_r
     type: resistor
+electronic_resistor_0201_100000_ohm:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100000_ohm
+    directory: parts/electronic_resistor_0201_100000_ohm
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_resistor_0201_100000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 2841761d57f8749b807a69f15974243d
+    md5_10: 2841761d57
+    md5_5: '28417'
+    md5_6: '284176'
+    name: Electronic Resistor 0201 100000 Ohm
+    oomp_key: oomp_electronic_resistor_0201_100000_ohm
+    part_number: ''
+    short_code: ro104
+    size: '0201'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
 electronic_resistor_0201_10000_ohm:
     classification: electronic
     color: ''
@@ -11867,6 +11894,33 @@ electronic_resistor_0402_1000000_ohm:
     oomp_key: oomp_electronic_resistor_0402_1000000_ohm
     part_number: ''
     short_code: r4o105
+    size: '0402'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+electronic_resistor_0402_100000_ohm:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100000_ohm
+    directory: parts/electronic_resistor_0402_100000_ohm
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_resistor_0402_100000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: bd55c028a0228f5cc2da2c9bffe6e19e
+    md5_10: bd55c028a0
+    md5_5: bd55c
+    md5_6: bd55c0
+    name: Electronic Resistor 0402 100000 Ohm
+    oomp_key: oomp_electronic_resistor_0402_100000_ohm
+    part_number: ''
+    short_code: r4o104
     size: '0402'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -13225,6 +13279,37 @@ electronic_resistor_0603_1000000_ohm:
     oomp_key: oomp_electronic_resistor_0603_1000000_ohm
     part_number: ''
     short_code: r6o105
+    size: '0603'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+electronic_resistor_0603_100000_ohm:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100000_ohm
+    directory: parts/electronic_resistor_0603_100000_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+        oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+    from_yaml: false
+    id: electronic_resistor_0603_100000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 9dbf6458e71042acf5a2526f1c5abdad
+    md5_10: 9dbf6458e7
+    md5_5: 9dbf6
+    md5_6: 9dbf64
+    name: Electronic Resistor 0603 100000 Ohm
+    oomp_key: oomp_electronic_resistor_0603_100000_ohm
+    part_number: ''
+    short_code: r6o104
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -14781,6 +14866,37 @@ electronic_resistor_0805_1000000_ohm:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
         oomp_key: oomp_kicad_device_r
     type: resistor
+electronic_resistor_0805_100000_ohm:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100000_ohm
+    directory: parts/electronic_resistor_0805_100000_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+    from_yaml: false
+    id: electronic_resistor_0805_100000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 39961fecb40bb84c260f2331fb54696a
+    md5_10: 39961fecb4
+    md5_5: '39961'
+    md5_6: 39961f
+    name: Electronic Resistor 0805 100000 Ohm
+    oomp_key: oomp_electronic_resistor_0805_100000_ohm
+    part_number: ''
+    short_code: r8o104
+    size: 0805
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
 electronic_resistor_0805_10000_ohm:
     classification: electronic
     color: ''
@@ -16331,6 +16447,37 @@ electronic_resistor_1206_1000000_ohm:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
         oomp_key: oomp_kicad_device_r
     type: resistor
+electronic_resistor_1206_100000_ohm:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100000_ohm
+    directory: parts/electronic_resistor_1206_100000_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
+    from_yaml: false
+    id: electronic_resistor_1206_100000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 65e6862e9ea3460c7934067c47dfd9f2
+    md5_10: 65e6862e9e
+    md5_5: 65e68
+    md5_6: 65e686
+    name: Electronic Resistor 1206 100000 Ohm
+    oomp_key: oomp_electronic_resistor_1206_100000_ohm
+    part_number: ''
+    short_code: r12o104
+    size: '1206'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
 electronic_resistor_1206_10000_ohm:
     classification: electronic
     color: ''
@@ -17875,6 +18022,37 @@ electronic_resistor_quarter_watt_through_hole_1000000_ohm:
     oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1000000_ohm
     part_number: ''
     short_code: ro105
+    size: quarter_watt_through_hole
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+electronic_resistor_quarter_watt_through_hole_100000_ohm:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 100000_ohm
+    directory: parts/electronic_resistor_quarter_watt_through_hole_100000_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+    from_yaml: false
+    id: electronic_resistor_quarter_watt_through_hole_100000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: a0145e1779153c6df3729398189ffed2
+    md5_10: a0145e1779
+    md5_5: a0145
+    md5_6: a0145e
+    name: Electronic Resistor Quarter Watt Through Hole 100000 Ohm
+    oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_100000_ohm
+    part_number: ''
+    short_code: ro104
     size: quarter_watt_through_hole
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
