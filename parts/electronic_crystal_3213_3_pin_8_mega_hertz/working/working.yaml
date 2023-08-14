@@ -1,0 +1,25 @@
+classification: electronic
+color: 3_pin
+description_extra: ''
+description_main: 8_mega_hertz
+directory: parts/electronic_crystal_3213_3_pin_8_mega_hertz
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+    oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+from_yaml: false
+id: electronic_crystal_3213_3_pin_8_mega_hertz
+kicad_reference: x
+manufacturer: ''
+md5: 89df70353e0a058199a6e93c5831d4a7
+md5_10: 89df70353e
+md5_5: 89df7
+md5_6: 89df70
+name: Electronic Crystal 3213 3 Pin 8 Mega Hertz
+oomp_key: oomp_electronic_crystal_3213_3_pin_8_mega_hertz
+part_number: ''
+short_code: xmhz8
+size: '3213'
+type: crystal

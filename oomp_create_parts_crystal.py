@@ -13,9 +13,9 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "crystal"
-    part_details["size"] = ["3215"]
-    part_details["color"] = ["2_pin"]
-    part_details["description_main"] = ["12_mega_hertz","16_mega_hertz"]
+    part_details["size"] = ["3213"]
+    part_details["color"] = ["3_pin"]
+    part_details["description_main"] = ["12_mega_hertz","8_mega_hertz","16_mega_hertz"]
     part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""

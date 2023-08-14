@@ -36,6 +36,15 @@ def get_footprints(**kwargs):
     match["footprint_name"] = "kicad_capacitor_smd_c_0402_1005metric"
     matches.append(match)
 
+    #crystal
+    match = {}
+    match["type"] = "crystal"
+    match["size"] = "3213"
+    match["color"] = "3_pin"
+    match["footprint_name"] = "kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm"
+    matches.append(match)
+
+
     ###### header
     #for pins 1-40
     for pin_count in range(1, 41):
