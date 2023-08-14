@@ -127,6 +127,24 @@ def get_footprints(**kwargs):
     match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm"
     matches.append(match)  
 
+    ###### led
+    match = {}
+    match["type"] = "led"
+    match["size"] = "5_mm"
+    match["footprint_name"] = f"kicad_led_tht_led_d5_0mm"
+    matches.append(match)  
+    match = {}
+    match["type"] = "led"
+    match["size"] = "10_mm"
+    match["footprint_name"] = f"kicad_led_tht_led_d10_0mm"
+    matches.append(match)  
+    match = {}
+    match["type"] = "led"
+    match["size"] = "0603"
+    match["footprint_name"] = f"kicad_led_smd_led_0603_1608metric"
+    matches.append(match)  
+
+
     ###### sod
     match = {}
     match["size"] = "sod_123"

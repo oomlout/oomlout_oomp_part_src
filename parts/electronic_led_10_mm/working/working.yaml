@@ -5,6 +5,10 @@ description_main: ''
 directory: parts/electronic_led_10_mm
 distributors: []
 filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+    oomp_key: oomp_kicad_led_tht_led_d10_0mm
 from_yaml: false
 id: electronic_led_10_mm
 kicad_reference: L

@@ -39,6 +39,7 @@ def get_short_code(**kwargs):
     replace_dict["size"]["0805"] = "8"
     replace_dict["size"]["1206"] = "12"
     replace_dict["size"]["3215"] = "3215"
+    replace_dict["size"]["3213"] = "3213"
     replace_dict["size"]["3216_avx_a"] = "a"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
     replace_dict["size"]["sod_123"] = "sod123"

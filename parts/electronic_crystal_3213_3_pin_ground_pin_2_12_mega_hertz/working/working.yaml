@@ -20,7 +20,7 @@ md5_6: 133c3f
 name: Electronic Crystal 3213 3 Pin Ground Pin 2 12 Mega Hertz
 oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
 part_number: ''
-short_code: xmhz12
+short_code: x3213mhz12
 size: '3213'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym

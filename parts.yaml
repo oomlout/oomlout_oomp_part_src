@@ -450,7 +450,7 @@ electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz:
     name: Electronic Crystal 3213 3 Pin Ground Pin 2 12 Mega Hertz
     oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
     part_number: ''
-    short_code: xmhz12
+    short_code: x3213mhz12
     size: '3213'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
@@ -481,7 +481,7 @@ electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz:
     name: Electronic Crystal 3213 3 Pin Ground Pin 2 16 Mega Hertz
     oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
     part_number: ''
-    short_code: xmhz16
+    short_code: x3213mhz16
     size: '3213'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
@@ -512,7 +512,7 @@ electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz:
     name: Electronic Crystal 3213 3 Pin Ground Pin 2 8 Mega Hertz
     oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
     part_number: ''
-    short_code: xmhz8
+    short_code: x3213mhz8
     size: '3213'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
@@ -9063,6 +9063,10 @@ electronic_led_0603:
     directory: parts/electronic_led_0603
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+        oomp_key: oomp_kicad_led_smd_led_0603_1608metric
     from_yaml: false
     id: electronic_led_0603
     kicad_reference: L
@@ -9091,6 +9095,10 @@ electronic_led_0603_green:
     directory: parts/electronic_led_0603_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+        oomp_key: oomp_kicad_led_smd_led_0603_1608metric
     from_yaml: false
     id: electronic_led_0603_green
     kicad_reference: L
@@ -9119,6 +9127,10 @@ electronic_led_0603_green_tinted:
     directory: parts/electronic_led_0603_green_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+        oomp_key: oomp_kicad_led_smd_led_0603_1608metric
     from_yaml: false
     id: electronic_led_0603_green_tinted
     kicad_reference: L
@@ -9147,6 +9159,10 @@ electronic_led_0603_red:
     directory: parts/electronic_led_0603_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+        oomp_key: oomp_kicad_led_smd_led_0603_1608metric
     from_yaml: false
     id: electronic_led_0603_red
     kicad_reference: L
@@ -9175,6 +9191,10 @@ electronic_led_0603_red_tinted:
     directory: parts/electronic_led_0603_red_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+        oomp_key: oomp_kicad_led_smd_led_0603_1608metric
     from_yaml: false
     id: electronic_led_0603_red_tinted
     kicad_reference: L
@@ -9203,6 +9223,10 @@ electronic_led_0603_tinted:
     directory: parts/electronic_led_0603_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+        oomp_key: oomp_kicad_led_smd_led_0603_1608metric
     from_yaml: false
     id: electronic_led_0603_tinted
     kicad_reference: L
@@ -9231,6 +9255,10 @@ electronic_led_10_mm:
     directory: parts/electronic_led_10_mm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+        oomp_key: oomp_kicad_led_tht_led_d10_0mm
     from_yaml: false
     id: electronic_led_10_mm
     kicad_reference: L
@@ -9259,6 +9287,10 @@ electronic_led_10_mm_green:
     directory: parts/electronic_led_10_mm_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+        oomp_key: oomp_kicad_led_tht_led_d10_0mm
     from_yaml: false
     id: electronic_led_10_mm_green
     kicad_reference: L
@@ -9287,6 +9319,10 @@ electronic_led_10_mm_green_tinted:
     directory: parts/electronic_led_10_mm_green_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+        oomp_key: oomp_kicad_led_tht_led_d10_0mm
     from_yaml: false
     id: electronic_led_10_mm_green_tinted
     kicad_reference: L
@@ -9315,6 +9351,10 @@ electronic_led_10_mm_red:
     directory: parts/electronic_led_10_mm_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+        oomp_key: oomp_kicad_led_tht_led_d10_0mm
     from_yaml: false
     id: electronic_led_10_mm_red
     kicad_reference: L
@@ -9343,6 +9383,10 @@ electronic_led_10_mm_red_tinted:
     directory: parts/electronic_led_10_mm_red_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+        oomp_key: oomp_kicad_led_tht_led_d10_0mm
     from_yaml: false
     id: electronic_led_10_mm_red_tinted
     kicad_reference: L
@@ -9371,6 +9415,10 @@ electronic_led_10_mm_tinted:
     directory: parts/electronic_led_10_mm_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+        oomp_key: oomp_kicad_led_tht_led_d10_0mm
     from_yaml: false
     id: electronic_led_10_mm_tinted
     kicad_reference: L
@@ -9399,6 +9447,10 @@ electronic_led_5_mm:
     directory: parts/electronic_led_5_mm
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+        oomp_key: oomp_kicad_led_tht_led_d5_0mm
     from_yaml: false
     id: electronic_led_5_mm
     kicad_reference: L
@@ -9427,6 +9479,10 @@ electronic_led_5_mm_green:
     directory: parts/electronic_led_5_mm_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+        oomp_key: oomp_kicad_led_tht_led_d5_0mm
     from_yaml: false
     id: electronic_led_5_mm_green
     kicad_reference: L
@@ -9455,6 +9511,10 @@ electronic_led_5_mm_green_tinted:
     directory: parts/electronic_led_5_mm_green_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+        oomp_key: oomp_kicad_led_tht_led_d5_0mm
     from_yaml: false
     id: electronic_led_5_mm_green_tinted
     kicad_reference: L
@@ -9483,6 +9543,10 @@ electronic_led_5_mm_red:
     directory: parts/electronic_led_5_mm_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+        oomp_key: oomp_kicad_led_tht_led_d5_0mm
     from_yaml: false
     id: electronic_led_5_mm_red
     kicad_reference: L
@@ -9511,6 +9575,10 @@ electronic_led_5_mm_red_tinted:
     directory: parts/electronic_led_5_mm_red_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+        oomp_key: oomp_kicad_led_tht_led_d5_0mm
     from_yaml: false
     id: electronic_led_5_mm_red_tinted
     kicad_reference: L
@@ -9539,6 +9607,10 @@ electronic_led_5_mm_tinted:
     directory: parts/electronic_led_5_mm_tinted
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+        oomp_key: oomp_kicad_led_tht_led_d5_0mm
     from_yaml: false
     id: electronic_led_5_mm_tinted
     kicad_reference: L
