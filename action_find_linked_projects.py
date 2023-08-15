@@ -13,6 +13,7 @@ def main():
     #import projects from yaml
     import yaml
     with open(projects_yaml, 'r') as stream:
+        print(f"loading projects from {projects_yaml}")
         projects = yaml.load(stream, Loader=yaml.FullLoader)
 
     for project_id in projects:

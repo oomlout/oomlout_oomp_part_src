@@ -87,6 +87,140 @@ def load_parts(**kwargs):
     part_details["notes"] = []
     parts.append(part_details) 
 
+    ic_340c = part_details
+    import copy
+    part_details = copy.deepcopy(ic_340c)
+    part_details["size"] = ["sop_16"]
+    part_details["part_number"] = "ch340g"
+    part_details["short_name"] = "usb to serial converter (ch340g)"
+    pins = part_details["pins"]
+    pins["7"] = ({"name": "xi", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "xo", "number": "8", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+
+    
+    part_details = copy.deepcopy(ic_340c)
+    part_details["size"] = ["sop_16"]
+    part_details["part_number"] = "ch340b"
+    part_details["short_name"] = "usb to serial converter (ch340b)"
+    pins = part_details["pins"]
+    pins["7"] = ({"name": "rst", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "nc", "number": "8", "type": "signal"})
+    pins["15"] = ({"name": "tnow", "number": "15", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+
+
+    part_details = copy.deepcopy(ic_340c)
+    part_details["size"] = ["ssop_20"]
+    part_details["part_number"] = "ch340t"
+    part_details["short_name"] = "usb to serial converter (ch340t)"
+    pins = {}
+    pins["1"] = ({"name": "cko", "number": "1", "type": "signal"})
+    pins["2"] = ({"name": "act", "number": "2", "type": "signal"})
+    pins["3"] = ({"name": "txd", "number": "3", "type": "signal"})
+    pins["4"] = ({"name": "rxd", "number": "4", "type": "signal"})
+    pins["5"] = ({"name": "v3", "number": "5", "type": "signal"})
+    pins["6"] = ({"name": "ud_plus", "number": "6", "type": "gnd"})
+    pins["7"] = ({"name": "ud_negative", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "gnd", "number": "8", "type": "signal"})
+    pins["9"] = ({"name": "xi", "number": "9", "type": "signal"})
+    pins["10"] = ({"name": "xo", "number": "10", "type": "signal"})
+    pins["11"] = ({"name": "cts", "number": "11", "type": "signal"})
+    pins["12"] = ({"name": "dsr", "number": "12", "type": "signal"})
+    pins["13"] = ({"name": "ri", "number": "13", "type": "signal"})
+    pins["14"] = ({"name": "dcd", "number": "14", "type": "signal"})
+    pins["15"] = ({"name": "dtr", "number": "15", "type": "signal"})
+    pins["16"] = ({"name": "rts", "number": "16", "type": "signal"})
+    pins["17"] = ({"name": "tnow", "number": "16", "type": "signal"})
+    pins["18"] = ({"name": "r232", "number": "16", "type": "signal"})
+    pins["19"] = ({"name": "vcc", "number": "16", "type": "signal"})
+    pins["20"] = ({"name": "nos", "number": "16", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+
+    part_details = copy.deepcopy(ic_340c)
+    part_details["size"] = ["essop_10"]
+    part_details["part_number"] = "ch340k"
+    part_details["short_name"] = "usb to serial converter (ch340k)"
+    pins = {}
+    pins["1"] = ({"name": "gnd", "number": "1", "type": "signal"})
+    pins["2"] = ({"name": "ud_plus", "number": "2", "type": "signal"})
+    pins["3"] = ({"name": "ud_negative", "number": "3", "type": "signal"})
+    pins["4"] = ({"name": "gnd", "number": "4", "type": "signal"})
+    pins["5"] = ({"name": "cts", "number": "5", "type": "signal"})
+    pins["6"] = ({"name": "rts", "number": "6", "type": "gnd"})
+    pins["7"] = ({"name": "vcc", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "txd", "number": "8", "type": "signal"})
+    pins["9"] = ({"name": "rxd", "number": "9", "type": "signal"})
+    pins["10"] = ({"name": "v3", "number": "10", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details)
+
+    
+    part_details = copy.deepcopy(ic_340c)
+    part_details["size"] = ["msop_10"]
+    part_details["part_number"] = "ch340e"
+    part_details["short_name"] = "usb to serial converter (ch340e)"
+    pins = {}
+    pins["1"] = ({"name": "ud_plus", "number": "1", "type": "signal"})
+    pins["2"] = ({"name": "ud_negative", "number": "2", "type": "signal"})
+    pins["3"] = ({"name": "gnd", "number": "3", "type": "signal"})
+    pins["4"] = ({"name": "rts", "number": "4", "type": "signal"})
+    pins["5"] = ({"name": "cts", "number": "5", "type": "signal"})
+    pins["6"] = ({"name": "tnow", "number": "6", "type": "gnd"})
+    pins["7"] = ({"name": "vcc", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "rxd", "number": "8", "type": "signal"})
+    pins["9"] = ({"name": "txd", "number": "9", "type": "signal"})
+    pins["10"] = ({"name": "v3", "number": "10", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+    
+    ic_340e = part_details
+    
+    part_details = copy.deepcopy(ic_340e)
+    part_details["size"] = ["msop_10"]
+    part_details["part_number"] = "ch340x"
+    part_details["short_name"] = "usb to serial converter (ch340x)"
+    pins = part_details["pins"]
+    pins["6"] = ({"name": "tnow_dtr", "number": "6", "type": "gnd"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+    
+    part_details = copy.deepcopy(ic_340c)
+    part_details["size"] = ["sop_8"]
+    part_details["part_number"] = "ch340n"
+    part_details["short_name"] = "usb to serial converter (ch340n)"
+    pins = {}
+    pins["1"] = ({"name": "ud_plus", "number": "1", "type": "signal"})
+    pins["2"] = ({"name": "ud_negative", "number": "2", "type": "signal"})
+    pins["3"] = ({"name": "gnd", "number": "3", "type": "signal"})
+    pins["4"] = ({"name": "rts", "number": "4", "type": "signal"})
+    pins["5"] = ({"name": "vcc", "number": "5", "type": "signal"})
+    pins["6"] = ({"name": "txd", "number": "6", "type": "gnd"})
+    pins["7"] = ({"name": "rxd", "number": "7", "type": "signal"})
+    pins["8"] = ({"name": "v3", "number": "8", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+    
+
+
+
     ##### led drivers
     ##### aip1640 led matrix driver
     part_details = {}
