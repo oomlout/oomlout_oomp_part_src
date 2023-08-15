@@ -7,7 +7,7 @@ distributors:
 -   id: distributor_lcsc
     link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
     name: LCSC
-    part_number: C82650
+    part_number: c7464026
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm

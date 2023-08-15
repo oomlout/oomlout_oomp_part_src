@@ -8712,7 +8712,11 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c968586
     id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
     kicad_reference: U
     make_files: true
@@ -8805,7 +8809,11 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c99652
     id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     kicad_reference: U
     make_files: true
@@ -9099,7 +9107,11 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c81010
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
@@ -9195,7 +9207,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     -   id: distributor_lcsc
         link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
         name: LCSC
-        part_number: C82650
+        part_number: c7464026
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
@@ -9291,7 +9303,11 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c14267
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
@@ -9383,7 +9399,11 @@ electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c2977777
     id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
     kicad_reference: U
     make_files: true
@@ -9439,7 +9459,11 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c8689
     id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
     kicad_reference: U
     make_files: true

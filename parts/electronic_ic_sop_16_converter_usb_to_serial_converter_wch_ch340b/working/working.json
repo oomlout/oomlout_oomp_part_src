@@ -98,7 +98,14 @@
     "directory": "parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b",
     "name": "Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340B",
     "short_code": "isp16",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "c81010",
+            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "md5": "ea28b63f284b0c72f54f9c49ad14c793",
     "md5_5": "ea28b",
     "md5_6": "ea28b6",
