@@ -2,27 +2,23 @@ classification: electronic
 color: converter
 description_extra: ''
 description_main: usb_to_serial_converter
-directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
-    name: LCSC
-    part_number: C82650
+directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
     oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
-id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
 kicad_reference: U
 manufacturer: wch
-md5: 8b394cfe55fb40b61533e33d89af18b7
-md5_10: 8b394cfe55
-md5_5: 8b394
-md5_6: 8b394c
-name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C
+md5: 0f3b38de4bb8ab11ae1d9cca34a3b7af
+md5_10: 0f3b38de4b
+md5_5: 0f3b3
+md5_6: 0f3b38
+name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340G
 notes: []
-oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
-part_number: ch340c
+oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+part_number: ch340g
 pins:
     '1':
         name: gnd
@@ -77,22 +73,18 @@ pins:
         number: '6'
         type: gnd
     '7':
-        name: not_connected
+        name: xi
         number: '7'
         type: signal
     '8':
-        name: out
+        name: xo
         number: '8'
         type: signal
     '9':
         name: cts
         number: '9'
         type: signal
-short_code: isp16ch340c
-short_name: usb to serial converter (ch340c)
+short_code: isp16
+short_name: usb to serial converter (ch340g)
 size: sop_16
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340c//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c
-    oomp_key: oomp_kicad_interface_usb_ch340c
 type: ic

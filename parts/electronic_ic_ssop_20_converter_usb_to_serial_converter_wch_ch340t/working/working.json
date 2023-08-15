@@ -1,113 +1,126 @@
 {
     "classification": "electronic",
     "type": "ic",
-    "size": "sop_16",
+    "size": "ssop_20",
     "color": "converter",
     "description_main": "usb_to_serial_converter",
     "description_extra": "",
     "manufacturer": "wch",
-    "part_number": "ch340c",
+    "part_number": "ch340t",
     "make_files": true,
-    "short_name": "usb to serial converter (ch340c)",
+    "short_name": "usb to serial converter (ch340t)",
     "pins": {
         "1": {
-            "name": "gnd",
+            "name": "cko",
             "number": "1",
             "type": "signal"
         },
         "2": {
-            "name": "txd",
+            "name": "act",
             "number": "2",
             "type": "signal"
         },
         "3": {
-            "name": "rxd",
+            "name": "txd",
             "number": "3",
             "type": "signal"
         },
         "4": {
-            "name": "v3",
+            "name": "rxd",
             "number": "4",
             "type": "signal"
         },
         "5": {
-            "name": "ud_plus",
+            "name": "v3",
             "number": "5",
             "type": "signal"
         },
         "6": {
-            "name": "ud_negative",
+            "name": "ud_plus",
             "number": "6",
             "type": "gnd"
         },
         "7": {
-            "name": "not_connected",
+            "name": "ud_negative",
             "number": "7",
             "type": "signal"
         },
         "8": {
-            "name": "out",
+            "name": "gnd",
             "number": "8",
             "type": "signal"
         },
         "9": {
-            "name": "cts",
+            "name": "xi",
             "number": "9",
             "type": "signal"
         },
         "10": {
-            "name": "dsr",
+            "name": "xo",
             "number": "10",
             "type": "signal"
         },
         "11": {
-            "name": "ri",
+            "name": "cts",
             "number": "11",
             "type": "signal"
         },
         "12": {
-            "name": "dcd",
+            "name": "dsr",
             "number": "12",
             "type": "signal"
         },
         "13": {
-            "name": "dtr",
+            "name": "ri",
             "number": "13",
             "type": "signal"
         },
         "14": {
-            "name": "rts",
+            "name": "dcd",
             "number": "14",
             "type": "signal"
         },
         "15": {
-            "name": "rs232",
+            "name": "dtr",
             "number": "15",
             "type": "signal"
         },
         "16": {
+            "name": "rts",
+            "number": "16",
+            "type": "signal"
+        },
+        "17": {
+            "name": "tnow",
+            "number": "16",
+            "type": "signal"
+        },
+        "18": {
+            "name": "r232",
+            "number": "16",
+            "type": "signal"
+        },
+        "19": {
             "name": "vcc",
+            "number": "16",
+            "type": "signal"
+        },
+        "20": {
+            "name": "nos",
             "number": "16",
             "type": "signal"
         }
     },
     "kicad_reference": "U",
     "notes": [],
-    "id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
-    "oomp_key": "oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
-    "directory": "parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
-    "name": "Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C",
-    "short_code": "isp16ch340c",
-    "distributors": [
-        {
-            "name": "LCSC",
-            "part_number": "C82650",
-            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
-            "id": "distributor_lcsc"
-        }
-    ],
-    "md5": "8b394cfe55fb40b61533e33d89af18b7",
-    "md5_5": "8b394",
-    "md5_6": "8b394c",
-    "md5_10": "8b394cfe55"
+    "id": "electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t",
+    "oomp_key": "oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t",
+    "directory": "parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t",
+    "name": "Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T",
+    "short_code": "i",
+    "distributors": [],
+    "md5": "e07223f3446f9e6a9ed62db546344b87",
+    "md5_5": "e0722",
+    "md5_6": "e07223",
+    "md5_10": "e07223f344"
 }

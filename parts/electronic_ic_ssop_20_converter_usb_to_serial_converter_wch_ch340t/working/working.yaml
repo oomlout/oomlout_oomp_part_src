@@ -1,0 +1,102 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+distributors: []
+id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+kicad_reference: U
+manufacturer: wch
+md5: e07223f3446f9e6a9ed62db546344b87
+md5_10: e07223f344
+md5_5: e0722
+md5_6: e07223
+name: Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T
+notes: []
+oomp_key: oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+part_number: ch340t
+pins:
+    '1':
+        name: cko
+        number: '1'
+        type: signal
+    '10':
+        name: xo
+        number: '10'
+        type: signal
+    '11':
+        name: cts
+        number: '11'
+        type: signal
+    '12':
+        name: dsr
+        number: '12'
+        type: signal
+    '13':
+        name: ri
+        number: '13'
+        type: signal
+    '14':
+        name: dcd
+        number: '14'
+        type: signal
+    '15':
+        name: dtr
+        number: '15'
+        type: signal
+    '16':
+        name: rts
+        number: '16'
+        type: signal
+    '17':
+        name: tnow
+        number: '16'
+        type: signal
+    '18':
+        name: r232
+        number: '16'
+        type: signal
+    '19':
+        name: vcc
+        number: '16'
+        type: signal
+    '2':
+        name: act
+        number: '2'
+        type: signal
+    '20':
+        name: nos
+        number: '16'
+        type: signal
+    '3':
+        name: txd
+        number: '3'
+        type: signal
+    '4':
+        name: rxd
+        number: '4'
+        type: signal
+    '5':
+        name: v3
+        number: '5'
+        type: signal
+    '6':
+        name: ud_plus
+        number: '6'
+        type: gnd
+    '7':
+        name: ud_negative
+        number: '7'
+        type: signal
+    '8':
+        name: gnd
+        number: '8'
+        type: signal
+    '9':
+        name: xi
+        number: '9'
+        type: signal
+short_code: i
+short_name: usb to serial converter (ch340t)
+size: ssop_20
+type: ic

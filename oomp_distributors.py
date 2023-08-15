@@ -11,6 +11,8 @@ def get_lcsc(**kwargs):
     matches = []
     matches.append({"id":"electronic_ic_sop_28_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",
                   "part_number": "C82650"})
+    matches.append({"id":"electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+                  "part_number": "C82650"})
 
     distributors = []
     for match in matches:
