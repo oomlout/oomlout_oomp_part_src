@@ -17,7 +17,7 @@ def get_lcsc(**kwargs):
                   "part_number": "c14267"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340e",
                   "part_number": "c99652"})
-    matches.append({"id":"econverter_usb_to_serial_converter_wch_ch340x",
+    matches.append({"id":"converter_usb_to_serial_converter_wch_ch340x",
                   "part_number": "c3035748"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340t",
                   "part_number": "c8689"})
