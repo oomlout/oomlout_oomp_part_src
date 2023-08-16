@@ -8901,6 +8901,10 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     short_code: i
     short_name: usb to serial converter (ch340e)
     size: msop_10
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340e//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340e
+        oomp_key: oomp_kicad_interface_usb_ch340e
     type: ic
 electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     classification: electronic
@@ -8969,6 +8973,10 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     short_code: i
     short_name: usb to serial converter (ch340x)
     size: msop_10
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x
+        oomp_key: oomp_kicad_interface_usb_ch340x
     type: ic
 electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     classification: electronic
@@ -9231,6 +9239,10 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
     short_code: isp16
     short_name: usb to serial converter (ch340b)
     size: sop_16
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340b//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340b
+        oomp_key: oomp_kicad_interface_usb_ch340b
     type: ic
 electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     classification: electronic
@@ -9427,6 +9439,10 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
     short_code: isp16
     short_name: usb to serial converter (ch340g)
     size: sop_16
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340g//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340g
+        oomp_key: oomp_kicad_interface_usb_ch340g
     type: ic
 electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n:
     classification: electronic
@@ -9595,6 +9611,10 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
     short_code: i
     short_name: usb to serial converter (ch340t)
     size: ssop_20
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t
+        oomp_key: oomp_kicad_interface_usb_ch340t
     type: ic
 electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur:
     classification: electronic

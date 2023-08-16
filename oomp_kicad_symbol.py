@@ -93,10 +93,13 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_m"
     matches.append(match)
     
-    match = {}
-    match["part_number"] = "ch340c"
-    match["symbol_name"] = f"kicad_interface_usb_ch340c"
-    matches.append(match)
+    ###### ch340
+    models = ["c","g","b","t","e","x"] ###### no k symbol yet
+    for model in models:
+        match = {}
+        match["part_number"] = f"ch340{model}"
+        match["symbol_name"] = f"kicad_interface_usb_ch340{model}"
+        matches.append(match)
     
 
 

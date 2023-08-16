@@ -91,4 +91,8 @@ pins:
 short_code: isp16
 short_name: usb to serial converter (ch340g)
 size: sop_16
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340g//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340g
+    oomp_key: oomp_kicad_interface_usb_ch340g
 type: ic

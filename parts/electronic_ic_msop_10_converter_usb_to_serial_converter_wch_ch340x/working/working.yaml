@@ -63,4 +63,8 @@ pins:
 short_code: i
 short_name: usb to serial converter (ch340x)
 size: msop_10
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x
+    oomp_key: oomp_kicad_interface_usb_ch340x
 type: ic
