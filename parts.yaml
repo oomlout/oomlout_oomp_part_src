@@ -364,6 +364,37 @@ electronic_capacitor_0603_10_micro_farad4_7_micro_farad:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
         oomp_key: oomp_kicad_device_c
     type: capacitor
+electronic_capacitor_0603_10_nano_farad:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 10_nano_farad
+    directory: parts/electronic_capacitor_0603_10_nano_farad
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
+        oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
+    from_yaml: false
+    id: electronic_capacitor_0603_10_nano_farad
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    md5: 33c290430a925ac7c87bd31db1d1a8b7
+    md5_10: 33c290430a
+    md5_5: 33c29
+    md5_6: 33c290
+    name: Electronic Capacitor 0603 10 Nano Farad
+    oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
+    part_number: ''
+    short_code: c6nf10
+    size: '0603'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
 electronic_capacitor_0603_1_micro_farad:
     classification: electronic
     color: ''
@@ -8877,7 +8908,11 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     description_extra: ''
     description_main: usb_to_serial_converter
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: c3035748
     id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
     kicad_reference: U
     make_files: true

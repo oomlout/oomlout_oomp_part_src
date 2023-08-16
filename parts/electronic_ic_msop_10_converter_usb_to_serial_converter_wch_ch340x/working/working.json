@@ -68,7 +68,14 @@
     "directory": "parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x",
     "name": "Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X",
     "short_code": "i",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "c3035748",
+            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "md5": "0f210323ca1152360fceeb82b02d755c",
     "md5_5": "0f210",
     "md5_6": "0f2103",
