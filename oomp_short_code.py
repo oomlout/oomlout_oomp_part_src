@@ -124,6 +124,10 @@ def get_short_code(**kwargs):
 
         ###### atmega
     replace_dict["description_main"]["atmega328"] = "at328"
+        ###### ch340
+    models = ["c","g","b","t","e","x"] ###### no k symbol yet
+    for mod in models:
+        replace_dict["description_main"][f"ch340{mod}"] = f"ch340{mod}"
 
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""
