@@ -15,7 +15,7 @@ def load_parts(**kwargs):
     part_details["type"] = "capacitor"
     part_details["size"] = ["0603"]
     part_details["color"] = [""]
-    part_details["description_main"] = ["100_nano_farad","10_nano_farad","1_micro_farad","10_micro_farad""4_7_micro_farad"]
+    part_details["description_main"] = ["22_pico_farad","100_nano_farad","10_nano_farad","1_micro_farad","10_micro_farad""4_7_micro_farad"]
     part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
@@ -26,7 +26,7 @@ def load_parts(**kwargs):
     import copy 
     part_details = copy.deepcopy(part_details)
     part_details["size"] = ["0402"]
-    part_details["description_main"] = ["100_nano_farad","1_micro_farad","10_nano_farad","22_nano_farad"]
+    part_details["description_main"] = ["100_nano_farad","1_micro_farad","10_nano_farad","22_nano_farad","22_pico_farad"]
     parts.append(part_details)
 
     #tantalum capacitors

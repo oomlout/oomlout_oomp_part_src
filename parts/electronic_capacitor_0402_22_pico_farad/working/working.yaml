@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_pico_farad
+directory: parts/electronic_capacitor_0402_22_pico_farad
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric
+    oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric
+from_yaml: false
+id: electronic_capacitor_0402_22_pico_farad
+kicad_reference: C
+manufacturer: ''
+md5: 8008269b2a82f75ac1033a8691959122
+md5_10: 8008269b2a
+md5_5: '80082'
+md5_6: '800826'
+name: Electronic Capacitor 0402 22 Pico Farad
+oomp_key: oomp_electronic_capacitor_0402_22_pico_farad
+part_number: ''
+short_code: c4pf22
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
+type: capacitor

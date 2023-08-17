@@ -99,7 +99,7 @@ def get_symbols(**kwargs):
     matches.append(match)
     
     ###### ch340
-    models = ["c","g","b","t","e","x"] ###### no k symbol yet
+    models = ["c","g","t","e","x"] ###### no k,b symbol yet
     for model in models:
         match = {}
         match["part_number"] = f"ch340{model}"
