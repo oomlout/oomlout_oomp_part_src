@@ -18,4 +18,8 @@ oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hert
 part_number: ''
 short_code: xcr3213mhz16
 size: '3213'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
+    oomp_key: oomp_kicad_device_crystal_gnd2
 type: ceramic_resonator
