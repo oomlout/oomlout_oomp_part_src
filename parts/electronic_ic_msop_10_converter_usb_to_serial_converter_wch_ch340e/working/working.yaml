@@ -60,7 +60,7 @@ pins:
         name: txd
         number: '9'
         type: signal
-short_code: i
+short_code: ich340e
 short_name: usb to serial converter (ch340e)
 size: msop_10
 symbol:

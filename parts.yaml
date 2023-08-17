@@ -8898,7 +8898,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
             name: txd
             number: '9'
             type: signal
-    short_code: i
+    short_code: ich340e
     short_name: usb to serial converter (ch340e)
     size: msop_10
     symbol:
@@ -8970,7 +8970,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
             name: txd
             number: '9'
             type: signal
-    short_code: i
+    short_code: ich340x
     short_name: usb to serial converter (ch340x)
     size: msop_10
     symbol:
@@ -9236,7 +9236,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
             name: cts
             number: '9'
             type: signal
-    short_code: isp16
+    short_code: isp16ch340b
     short_name: usb to serial converter (ch340b)
     size: sop_16
     symbol:
@@ -9436,7 +9436,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
             name: cts
             number: '9'
             type: signal
-    short_code: isp16
+    short_code: isp16ch340g
     short_name: usb to serial converter (ch340g)
     size: sop_16
     symbol:
@@ -9608,7 +9608,7 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
             name: xi
             number: '9'
             type: signal
-    short_code: i
+    short_code: ich340t
     short_name: usb to serial converter (ch340t)
     size: ssop_20
     symbol:

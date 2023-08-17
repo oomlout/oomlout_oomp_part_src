@@ -88,7 +88,7 @@ pins:
         name: cts
         number: '9'
         type: signal
-short_code: isp16
+short_code: isp16ch340b
 short_name: usb to serial converter (ch340b)
 size: sop_16
 symbol:

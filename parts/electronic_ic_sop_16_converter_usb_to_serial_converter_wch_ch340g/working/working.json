@@ -97,7 +97,7 @@
     "oomp_key": "oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g",
     "directory": "parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g",
     "name": "Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340G",
-    "short_code": "isp16",
+    "short_code": "isp16ch340g",
     "distributors": [
         {
             "name": "LCSC",

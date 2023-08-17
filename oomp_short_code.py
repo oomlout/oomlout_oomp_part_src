@@ -124,11 +124,7 @@ def get_short_code(**kwargs):
 
         ###### atmega
     replace_dict["description_main"]["atmega328"] = "at328"
-        ###### ch340
-    models = ["c","g","b","t","e","x"] ###### no k symbol yet
-    for mod in models:
-        replace_dict["description_main"][f"ch340{mod}"] = f"ch340{mod}"
-
+    
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""
 
@@ -151,7 +147,11 @@ def get_short_code(**kwargs):
 
     replace_dict["part_number"] = {}
     replace_dict["part_number"]["aip1640"] = "aip1640"
-    replace_dict["part_number"]["ch340c"] = "ch340c"
+        ###### ch340
+    models = ["c","g","b","t","e","x"] ###### no k symbol yet
+    for mod in models:
+        replace_dict["part_number"][f"ch340{mod}"] = f"ch340{mod}"
+
 
     #make a copy of kwargs
     kwargs_copy = kwargs.copy()
