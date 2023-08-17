@@ -457,99 +457,75 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
         oomp_key: oomp_kicad_device_c_polarized
     type: capacitor
-electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz:
+electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz:
     classification: electronic
     color: 3_pin_ground_pin_2
     description_extra: ''
     description_main: 12_mega_hertz
-    directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
+    directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
-    id: electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
+    id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    md5: 133c3f85cd5714444657f176f97a046b
-    md5_10: 133c3f85cd
-    md5_5: 133c3
-    md5_6: 133c3f
-    name: Electronic Crystal 3213 3 Pin Ground Pin 2 12 Mega Hertz
-    oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz
+    md5: 7a66154160ed05623cf4b7ab5853ac4e
+    md5_10: 7a66154160
+    md5_5: 7a661
+    md5_6: 7a6615
+    name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz
+    oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
     part_number: ''
-    short_code: x3213mhz12
+    short_code: xcr3213mhz12
     size: '3213'
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
-        oomp_key: oomp_kicad_device_crystal_gnd2
-    type: crystal
-electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz:
+    type: ceramic_resonator
+electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz:
     classification: electronic
     color: 3_pin_ground_pin_2
     description_extra: ''
     description_main: 16_mega_hertz
-    directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
+    directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
-    id: electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
+    id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    md5: 19a5613cf2ea5024dc0a4588deb23f94
-    md5_10: 19a5613cf2
-    md5_5: 19a56
-    md5_6: 19a561
-    name: Electronic Crystal 3213 3 Pin Ground Pin 2 16 Mega Hertz
-    oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz
+    md5: ebaebba3b264fd4a342d970d6a4f461e
+    md5_10: ebaebba3b2
+    md5_5: ebaeb
+    md5_6: ebaebb
+    name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz
+    oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
     part_number: ''
-    short_code: x3213mhz16
+    short_code: xcr3213mhz16
     size: '3213'
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
-        oomp_key: oomp_kicad_device_crystal_gnd2
-    type: crystal
-electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz:
+    type: ceramic_resonator
+electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz:
     classification: electronic
     color: 3_pin_ground_pin_2
     description_extra: ''
     description_main: 8_mega_hertz
-    directory: parts/electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
+    directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
     distributors: []
     filter: ''
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
-    id: electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
+    id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    md5: 10c22e22a789684b24f2fd2c36721bbc
-    md5_10: 10c22e22a7
-    md5_5: 10c22
-    md5_6: 10c22e
-    name: Electronic Crystal 3213 3 Pin Ground Pin 2 8 Mega Hertz
-    oomp_key: oomp_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz
+    md5: fbf4f6bd8d89a3cb1a67c8e2973297b3
+    md5_10: fbf4f6bd8d
+    md5_5: fbf4f
+    md5_6: fbf4f6
+    name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz
+    oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
     part_number: ''
-    short_code: x3213mhz8
+    short_code: xcr3213mhz8
     size: '3213'
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
-        oomp_key: oomp_kicad_device_crystal_gnd2
-    type: crystal
+    type: ceramic_resonator
 electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     classification: electronic
     color: ''

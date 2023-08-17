@@ -12,7 +12,7 @@ def load_parts(**kwargs):
     #define a part 
     part_details = {}
     part_details["classification"] = "electronic"
-    part_details["type"] = "crystal"
+    part_details["type"] = "ceramic_resonator"
     part_details["size"] = ["3213"]
     part_details["color"] = ["3_pin_ground_pin_2"]
     part_details["description_main"] = ["12_mega_hertz","8_mega_hertz","16_mega_hertz"]

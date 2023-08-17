@@ -15,6 +15,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["button"] = "b"
     replace_dict["type"]["capacitor"] = "c"
     replace_dict["type"]["crystal"] = "x"
+    replace_dict["type"]["ceramic_resonator"] = "xcr"
     replace_dict["type"]["diode_schottky"] = "ds"
     replace_dict["type"]["diode"] = "d"    
     replace_dict["type"]["ic"] = "i"
