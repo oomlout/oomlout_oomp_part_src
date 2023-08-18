@@ -20,7 +20,7 @@ md5_6: bfa6ff
 name: Electronic Nettie 3 Nets Through Hole
 oomp_key: oomp_electronic_nettie_3_nets_through_hole
 part_number: ''
-short_code: ''
+short_code: nt3
 size: 3_nets
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym

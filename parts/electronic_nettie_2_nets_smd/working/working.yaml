@@ -20,7 +20,7 @@ md5_6: 4ef35d
 name: Electronic Nettie 2 Nets Smd
 oomp_key: oomp_electronic_nettie_2_nets_smd
 part_number: ''
-short_code: ''
+short_code: nt2
 size: 2_nets
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym

@@ -7738,6 +7738,10 @@ electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x20_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x20_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x20_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     classification: electronic
@@ -7759,6 +7763,10 @@ electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x22_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x22_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x22_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     classification: electronic
@@ -7780,6 +7788,10 @@ electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x24_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x24_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x24_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     classification: electronic
@@ -7801,6 +7813,10 @@ electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x26_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x26_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x26_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     classification: electronic
@@ -7822,6 +7838,10 @@ electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x28_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x28_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x28_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     classification: electronic
@@ -7843,6 +7863,10 @@ electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x30_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x30_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x30_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     classification: electronic
@@ -7864,6 +7888,10 @@ electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x32_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x32_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x32_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     classification: electronic
@@ -7885,6 +7913,10 @@ electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x34_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x34_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x34_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     classification: electronic
@@ -7906,6 +7938,10 @@ electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x36_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x36_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x36_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     classification: electronic
@@ -7927,6 +7963,10 @@ electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x38_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x38_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x38_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     classification: electronic
@@ -7948,6 +7988,10 @@ electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x04_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x04_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x04_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     classification: electronic
@@ -7969,6 +8013,10 @@ electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x06_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x06_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x06_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     classification: electronic
@@ -7990,6 +8038,10 @@ electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x08_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x08_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x08_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     classification: electronic
@@ -8011,6 +8063,10 @@ electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x10_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x10_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x10_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     classification: electronic
@@ -8032,6 +8088,10 @@ electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x12_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x12_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x12_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     classification: electronic
@@ -8053,6 +8113,10 @@ electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x14_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x14_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x14_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     classification: electronic
@@ -8074,6 +8138,10 @@ electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x16_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x16_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x16_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     classification: electronic
@@ -8095,6 +8163,10 @@ electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     part_number: ''
     short_code: h
     size: 2d54_mm_dual_row
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x18_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x18_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x18_odd_even
     type: header
 electronic_header_2d54_mm_jst_xh_10_pin:
     classification: electronic
@@ -11362,7 +11434,7 @@ electronic_nettie_2_nets_smd:
     name: Electronic Nettie 2 Nets Smd
     oomp_key: oomp_electronic_nettie_2_nets_smd
     part_number: ''
-    short_code: ''
+    short_code: nt2
     size: 2_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
@@ -11393,7 +11465,7 @@ electronic_nettie_2_nets_through_hole:
     name: Electronic Nettie 2 Nets Through Hole
     oomp_key: oomp_electronic_nettie_2_nets_through_hole
     part_number: ''
-    short_code: ''
+    short_code: nt2
     size: 2_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
@@ -11424,7 +11496,7 @@ electronic_nettie_3_nets_smd:
     name: Electronic Nettie 3 Nets Smd
     oomp_key: oomp_electronic_nettie_3_nets_smd
     part_number: ''
-    short_code: ''
+    short_code: nt3
     size: 3_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym
@@ -11455,7 +11527,7 @@ electronic_nettie_3_nets_through_hole:
     name: Electronic Nettie 3 Nets Through Hole
     oomp_key: oomp_electronic_nettie_3_nets_through_hole
     part_number: ''
-    short_code: ''
+    short_code: nt3
     size: 3_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym
@@ -11486,7 +11558,7 @@ electronic_nettie_4_nets_smd:
     name: Electronic Nettie 4 Nets Smd
     oomp_key: oomp_electronic_nettie_4_nets_smd
     part_number: ''
-    short_code: ''
+    short_code: nt4
     size: 4_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
@@ -11517,7 +11589,7 @@ electronic_nettie_4_nets_through_hole:
     name: Electronic Nettie 4 Nets Through Hole
     oomp_key: oomp_electronic_nettie_4_nets_through_hole
     part_number: ''
-    short_code: ''
+    short_code: nt4
     size: 4_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym

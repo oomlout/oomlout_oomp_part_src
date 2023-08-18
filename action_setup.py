@@ -7,8 +7,7 @@ def main():
     oomp.clone_data_files()
     filter = "resistor"
     filter = ""
-    oom
-    p.load_parts(from_yaml=False, make_files=True, filter=filter)
+    oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
 
     oom_kicad.push_to_git()
