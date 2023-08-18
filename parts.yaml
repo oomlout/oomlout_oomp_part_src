@@ -7736,7 +7736,7 @@ electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X10 Dual Row 20 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
     part_number: ''
-    short_code: hi12x2x10p
+    short_code: hi12x10p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x20_odd_even//working/working.kicad_sym
@@ -7761,7 +7761,7 @@ electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X11 Dual Row 22 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin
     part_number: ''
-    short_code: hi12x2x11p
+    short_code: hi12x11p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x22_odd_even//working/working.kicad_sym
@@ -7786,7 +7786,7 @@ electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X12 Dual Row 24 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin
     part_number: ''
-    short_code: hi12x2x12p
+    short_code: hi12x12p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x24_odd_even//working/working.kicad_sym
@@ -7811,7 +7811,7 @@ electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X13 Dual Row 26 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
     part_number: ''
-    short_code: hi12x2x13p
+    short_code: hi12x13p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x26_odd_even//working/working.kicad_sym
@@ -7836,7 +7836,7 @@ electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X14 Dual Row 28 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
     part_number: ''
-    short_code: hi12x2x14p
+    short_code: hi12x14p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x28_odd_even//working/working.kicad_sym
@@ -7861,7 +7861,7 @@ electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X15 Dual Row 30 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
     part_number: ''
-    short_code: hi12x2x15p
+    short_code: hi12x15p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x30_odd_even//working/working.kicad_sym
@@ -7886,7 +7886,7 @@ electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X16 Dual Row 32 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin
     part_number: ''
-    short_code: hi12x2x16p
+    short_code: hi12x16p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x32_odd_even//working/working.kicad_sym
@@ -7911,7 +7911,7 @@ electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X17 Dual Row 34 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
     part_number: ''
-    short_code: hi12x2x17p
+    short_code: hi12x17p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x34_odd_even//working/working.kicad_sym
@@ -7936,7 +7936,7 @@ electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X18 Dual Row 36 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
     part_number: ''
-    short_code: hi12x2x18p
+    short_code: hi12x18p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x36_odd_even//working/working.kicad_sym
@@ -7961,7 +7961,7 @@ electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X19 Dual Row 38 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
     part_number: ''
-    short_code: hi12x2x19p
+    short_code: hi12x19p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x38_odd_even//working/working.kicad_sym
@@ -7986,7 +7986,7 @@ electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X2 Dual Row 4 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
     part_number: ''
-    short_code: hi12x2x2p
+    short_code: hi12x2p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x04_odd_even//working/working.kicad_sym
@@ -8011,7 +8011,7 @@ electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin
     part_number: ''
-    short_code: hi12x2x3p
+    short_code: hi12x3p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x06_odd_even//working/working.kicad_sym
@@ -8036,7 +8036,7 @@ electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X4 Dual Row 8 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
     part_number: ''
-    short_code: hi12x2x4p
+    short_code: hi12x4p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x08_odd_even//working/working.kicad_sym
@@ -8061,7 +8061,7 @@ electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X5 Dual Row 10 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin
     part_number: ''
-    short_code: hi12x2x5p
+    short_code: hi12x5p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x10_odd_even//working/working.kicad_sym
@@ -8086,7 +8086,7 @@ electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X6 Dual Row 12 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
     part_number: ''
-    short_code: hi12x2x6p
+    short_code: hi12x6p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x12_odd_even//working/working.kicad_sym
@@ -8111,7 +8111,7 @@ electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X7 Dual Row 14 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
     part_number: ''
-    short_code: hi12x2x7p
+    short_code: hi12x7p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x14_odd_even//working/working.kicad_sym
@@ -8136,7 +8136,7 @@ electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X8 Dual Row 16 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
     part_number: ''
-    short_code: hi12x2x8p
+    short_code: hi12x8p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x16_odd_even//working/working.kicad_sym
@@ -8161,7 +8161,7 @@ electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     name: Electronic Header 2D54 Mm Dual Row 2X9 Dual Row 18 Pin
     oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
     part_number: ''
-    short_code: hi12x2x9p
+    short_code: hi12x9p
     size: 2d54_mm_dual_row
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x18_odd_even//working/working.kicad_sym

@@ -14,7 +14,7 @@ md5_6: cede0b
 name: Electronic Header 2D54 Mm Dual Row 2X17 Dual Row 34 Pin
 oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
 part_number: ''
-short_code: hi12x2x17p
+short_code: hi12x17p
 size: 2d54_mm_dual_row
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x34_odd_even//working/working.kicad_sym
