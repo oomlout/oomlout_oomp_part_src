@@ -20,6 +20,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["diode"] = "d"    
     replace_dict["type"]["ic"] = "i"
     replace_dict["type"]["mounting_hole"] = "mh"
+    replace_dict["type"]["nettie"] = "nt"
     replace_dict["type"]["socket"] = "sc"
     replace_dict["type"]["pmic"] = "pm"
     replace_dict["type"]["header"] = "h"
@@ -49,6 +50,11 @@ def get_short_code(**kwargs):
     replace_dict["size"]["usb_micro"] = "umc"
     replace_dict["size"]["usb_c"] = "uc"
 
+    ###### nettie
+    options = ["2","3","4"]
+    for option in options:
+        replace_dict["size"][f"{option}_nets"] = f"{option}" 
+    
     for i in range(4, 28, 2):
         replace_dict["size"][f"soic_{i}"] = f"so{i}"
         replace_dict["size"][f"sop_{i}"] = f"sp{i}"
