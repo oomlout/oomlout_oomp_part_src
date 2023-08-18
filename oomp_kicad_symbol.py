@@ -117,23 +117,14 @@ def get_symbols(**kwargs):
     matches.append(match)
 
     ###### nettie
-
-    match = {}    
-    match["type"] = "nettie"
-    match["size"] = "2_nets"
-    match["symbol_name"] = f"kicad_device_net_2"
-    matches.append(match)
-    match = {}    
-    match["type"] = "nettie"
-    match["size"] = "3_nets"
-    match["symbol_name"] = f"kicad_device_net_3"
-    matches.append(match)
-    match = {}    
-    match["type"] = "nettie"
-    match["size"] = "4_nets"
-    match["symbol_name"] = f"kicad_device_net_4"
-    matches.append(match)
-
+    nets = ["2","3","4"] 
+    for net in nets:
+        match = {}    
+        match["type"] = "nettie"
+        match["size"] = f"{net}_nets"
+        match["symbol_name"] = f"kicad_device_nettie_{net}"
+        matches.append(match)
+    
 
     ###### pmic
     

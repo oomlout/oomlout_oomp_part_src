@@ -10987,9 +10987,9 @@ electronic_nettie_2_nets_smd:
     short_code: ''
     size: 2_nets
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_2//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_2
-        oomp_key: oomp_kicad_device_net_2
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_2
+        oomp_key: oomp_kicad_device_nettie_2
     type: nettie
 electronic_nettie_2_nets_through_hole:
     classification: electronic
@@ -11018,9 +11018,9 @@ electronic_nettie_2_nets_through_hole:
     short_code: ''
     size: 2_nets
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_2//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_2
-        oomp_key: oomp_kicad_device_net_2
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_2
+        oomp_key: oomp_kicad_device_nettie_2
     type: nettie
 electronic_nettie_3_nets_smd:
     classification: electronic
@@ -11049,9 +11049,9 @@ electronic_nettie_3_nets_smd:
     short_code: ''
     size: 3_nets
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_3//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_3
-        oomp_key: oomp_kicad_device_net_3
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_3
+        oomp_key: oomp_kicad_device_nettie_3
     type: nettie
 electronic_nettie_3_nets_through_hole:
     classification: electronic
@@ -11080,9 +11080,9 @@ electronic_nettie_3_nets_through_hole:
     short_code: ''
     size: 3_nets
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_3//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_3
-        oomp_key: oomp_kicad_device_net_3
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_3
+        oomp_key: oomp_kicad_device_nettie_3
     type: nettie
 electronic_nettie_4_nets_smd:
     classification: electronic
@@ -11111,9 +11111,9 @@ electronic_nettie_4_nets_smd:
     short_code: ''
     size: 4_nets
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_4//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_4
-        oomp_key: oomp_kicad_device_net_4
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
+        oomp_key: oomp_kicad_device_nettie_4
     type: nettie
 electronic_nettie_4_nets_through_hole:
     classification: electronic
@@ -11142,9 +11142,9 @@ electronic_nettie_4_nets_through_hole:
     short_code: ''
     size: 4_nets
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_4//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_4
-        oomp_key: oomp_kicad_device_net_4
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
+        oomp_key: oomp_kicad_device_nettie_4
     type: nettie
 electronic_pmic_sot_223_linear_1117_1_5v:
     classification: electronic

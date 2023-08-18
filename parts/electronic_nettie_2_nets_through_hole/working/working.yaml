@@ -23,7 +23,7 @@ part_number: ''
 short_code: ''
 size: 2_nets
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_2//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_2
-    oomp_key: oomp_kicad_device_net_2
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_2
+    oomp_key: oomp_kicad_device_nettie_2
 type: nettie
