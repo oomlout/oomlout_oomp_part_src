@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: smd
+directory: parts/electronic_nettie_4_nets_smd
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm
+    oomp_key: oomp_kicad_nettie_nettie_4_smd_pad0_5mm
+from_yaml: false
+id: electronic_nettie_4_nets_smd
+kicad_reference: ''
+manufacturer: ''
+md5: cd720732d76fb973d0de468f71781e99
+md5_10: cd720732d7
+md5_5: cd720
+md5_6: cd7207
+name: Electronic Nettie 4 Nets Smd
+oomp_key: oomp_electronic_nettie_4_nets_smd
+part_number: ''
+short_code: ''
+size: 4_nets
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_4//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_4
+    oomp_key: oomp_kicad_device_net_4
+type: nettie

@@ -116,6 +116,25 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_device_led"
     matches.append(match)
 
+    ###### nettie
+
+    match = {}    
+    match["type"] = "nettie"
+    match["size"] = "2_nets"
+    match["symbol_name"] = f"kicad_device_net_2"
+    matches.append(match)
+    match = {}    
+    match["type"] = "nettie"
+    match["size"] = "3_nets"
+    match["symbol_name"] = f"kicad_device_net_3"
+    matches.append(match)
+    match = {}    
+    match["type"] = "nettie"
+    match["size"] = "4_nets"
+    match["symbol_name"] = f"kicad_device_net_4"
+    matches.append(match)
+
+
     ###### pmic
     
     voltage_pairs = []

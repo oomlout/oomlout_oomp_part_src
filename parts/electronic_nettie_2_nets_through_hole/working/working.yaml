@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: through_hole
+directory: parts/electronic_nettie_2_nets_through_hole
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_2_tht_pad0_3mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_tht_pad0_3mm
+    oomp_key: oomp_kicad_nettie_nettie_2_tht_pad0_3mm
+from_yaml: false
+id: electronic_nettie_2_nets_through_hole
+kicad_reference: ''
+manufacturer: ''
+md5: c86bdf842046e81ba413e322d79ac3dc
+md5_10: c86bdf8420
+md5_5: c86bd
+md5_6: c86bdf
+name: Electronic Nettie 2 Nets Through Hole
+oomp_key: oomp_electronic_nettie_2_nets_through_hole
+part_number: ''
+short_code: ''
+size: 2_nets
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_2//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_2
+    oomp_key: oomp_kicad_device_net_2
+type: nettie

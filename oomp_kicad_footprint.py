@@ -145,6 +145,24 @@ def get_footprints(**kwargs):
     matches.append(match)  
 
 
+    ###### nettie
+    nets = ["2","3","4"]
+    for net in nets:
+        match = {}
+        match["type"] = "nettie"
+        match["size"] = f"{net}_nets"
+        match["description_main"] = "smd"
+        match["footprint_name"] = f"kicad_nettie_nettie_{net}_smd_pad0_5mm"
+        matches.append(match)  
+        match = {}
+        match["type"] = "nettie"
+        match["size"] = f"{net}_nets"
+        match["description_main"] = "through_hole"
+        match["footprint_name"] = f"kicad_nettie_nettie_{net}_tht_pad0_3mm"
+        matches.append(match)  
+
+
+
     ###### sod
     match = {}
     match["size"] = "sod_123"

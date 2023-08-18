@@ -10960,6 +10960,192 @@ electronic_mounting_hole_m6:
     symbol:
     - *id002
     type: mounting_hole
+electronic_nettie_2_nets_smd:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: smd
+    directory: parts/electronic_nettie_2_nets_smd
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_2_smd_pad0_5mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_smd_pad0_5mm
+        oomp_key: oomp_kicad_nettie_nettie_2_smd_pad0_5mm
+    from_yaml: false
+    id: electronic_nettie_2_nets_smd
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    md5: 4ef35d1f2d790456123942109a5f27e9
+    md5_10: 4ef35d1f2d
+    md5_5: 4ef35
+    md5_6: 4ef35d
+    name: Electronic Nettie 2 Nets Smd
+    oomp_key: oomp_electronic_nettie_2_nets_smd
+    part_number: ''
+    short_code: ''
+    size: 2_nets
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_2
+        oomp_key: oomp_kicad_device_net_2
+    type: nettie
+electronic_nettie_2_nets_through_hole:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: through_hole
+    directory: parts/electronic_nettie_2_nets_through_hole
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_2_tht_pad0_3mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_tht_pad0_3mm
+        oomp_key: oomp_kicad_nettie_nettie_2_tht_pad0_3mm
+    from_yaml: false
+    id: electronic_nettie_2_nets_through_hole
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    md5: c86bdf842046e81ba413e322d79ac3dc
+    md5_10: c86bdf8420
+    md5_5: c86bd
+    md5_6: c86bdf
+    name: Electronic Nettie 2 Nets Through Hole
+    oomp_key: oomp_electronic_nettie_2_nets_through_hole
+    part_number: ''
+    short_code: ''
+    size: 2_nets
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_2//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_2
+        oomp_key: oomp_kicad_device_net_2
+    type: nettie
+electronic_nettie_3_nets_smd:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: smd
+    directory: parts/electronic_nettie_3_nets_smd
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_smd_pad0_5mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_smd_pad0_5mm
+        oomp_key: oomp_kicad_nettie_nettie_3_smd_pad0_5mm
+    from_yaml: false
+    id: electronic_nettie_3_nets_smd
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    md5: 494314f1c04b845b745ce0bd6ae8e357
+    md5_10: 494314f1c0
+    md5_5: '49431'
+    md5_6: '494314'
+    name: Electronic Nettie 3 Nets Smd
+    oomp_key: oomp_electronic_nettie_3_nets_smd
+    part_number: ''
+    short_code: ''
+    size: 3_nets
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_3//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_3
+        oomp_key: oomp_kicad_device_net_3
+    type: nettie
+electronic_nettie_3_nets_through_hole:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: through_hole
+    directory: parts/electronic_nettie_3_nets_through_hole
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_tht_pad0_3mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_tht_pad0_3mm
+        oomp_key: oomp_kicad_nettie_nettie_3_tht_pad0_3mm
+    from_yaml: false
+    id: electronic_nettie_3_nets_through_hole
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    md5: bfa6ff6edd982b6107b4a71433ca5d67
+    md5_10: bfa6ff6edd
+    md5_5: bfa6f
+    md5_6: bfa6ff
+    name: Electronic Nettie 3 Nets Through Hole
+    oomp_key: oomp_electronic_nettie_3_nets_through_hole
+    part_number: ''
+    short_code: ''
+    size: 3_nets
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_3//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_3
+        oomp_key: oomp_kicad_device_net_3
+    type: nettie
+electronic_nettie_4_nets_smd:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: smd
+    directory: parts/electronic_nettie_4_nets_smd
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm
+        oomp_key: oomp_kicad_nettie_nettie_4_smd_pad0_5mm
+    from_yaml: false
+    id: electronic_nettie_4_nets_smd
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    md5: cd720732d76fb973d0de468f71781e99
+    md5_10: cd720732d7
+    md5_5: cd720
+    md5_6: cd7207
+    name: Electronic Nettie 4 Nets Smd
+    oomp_key: oomp_electronic_nettie_4_nets_smd
+    part_number: ''
+    short_code: ''
+    size: 4_nets
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_4//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_4
+        oomp_key: oomp_kicad_device_net_4
+    type: nettie
+electronic_nettie_4_nets_through_hole:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: through_hole
+    directory: parts/electronic_nettie_4_nets_through_hole
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm
+        oomp_key: oomp_kicad_nettie_nettie_4_tht_pad0_3mm
+    from_yaml: false
+    id: electronic_nettie_4_nets_through_hole
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    md5: ac52abec84c9c9c28eb15db0ca925cd9
+    md5_10: ac52abec84
+    md5_5: ac52a
+    md5_6: ac52ab
+    name: Electronic Nettie 4 Nets Through Hole
+    oomp_key: oomp_electronic_nettie_4_nets_through_hole
+    part_number: ''
+    short_code: ''
+    size: 4_nets
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_net_4//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_net_4
+        oomp_key: oomp_kicad_device_net_4
+    type: nettie
 electronic_pmic_sot_223_linear_1117_1_5v:
     classification: electronic
     color: linear
