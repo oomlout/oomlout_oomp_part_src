@@ -14,7 +14,7 @@ md5_6: 6453e9
 name: Electronic Header 2D54 Mm Dual Row 2X10 Dual Row 20 Pin
 oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
 part_number: ''
-short_code: h
+short_code: hi12x2x10p
 size: 2d54_mm_dual_row
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x20_odd_even//working/working.kicad_sym

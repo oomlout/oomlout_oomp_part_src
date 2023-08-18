@@ -31,6 +31,7 @@ def get_short_code(**kwargs):
     for mm in range(1, 100):
         replace_dict["size"][f"{mm}_mm"] = f"{mm}"
     replace_dict["size"][f"2d54_mm"] = f"i1"
+    replace_dict["size"][f"2d54_mm_dual_row"] = f"i12x"
     #loop for m1 to m10
     for m in range(1, 10):
         replace_dict["size"][f"m{m}"] = f"m{m}"
@@ -100,6 +101,11 @@ def get_short_code(**kwargs):
     for pin_count in range(1, 41):
         replace_dict["description_main"][f"{pin_count}_pin"] = f"{pin_count}p"
     
+    
+    #for 2x 
+    for pin_count in range(2, 40, 2):
+        replace_dict["description_main"][f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"] = f"2x{int(pin_count/2)}p"
+
     #frequenzy
     frequencys = []
     frequencys.append(["hertz","hz"])
