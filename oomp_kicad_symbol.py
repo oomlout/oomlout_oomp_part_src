@@ -79,11 +79,13 @@ def get_symbols(**kwargs):
     # for dual row
     for pin_count in range(2, 40, 2):
         pin_s = str(pin_count).zfill(2)
+        pin_sx2 = str(int(pin_count/2)).zfill(2)
+        
         match = {}
         match["classification"] = "electronic"
         match["type"] = "header"
         match["description_main"] = f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"
-        match["symbol_name"]  = f"kicad_connector_generic_conn_02x{pin_s}_odd_even"
+        match["symbol_name"]  = f"kicad_connector_generic_conn_02x{pin_sx2}_odd_even"
         matches.append(match)
 
 

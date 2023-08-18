@@ -7739,9 +7739,9 @@ electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin:
     short_code: hi12x10p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x20_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x20_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x20_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x10_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x10_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x10_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     classification: electronic
@@ -7764,9 +7764,9 @@ electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     short_code: hi12x11p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x22_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x22_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x22_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x11_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x11_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x11_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     classification: electronic
@@ -7789,9 +7789,9 @@ electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     short_code: hi12x12p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x24_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x24_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x24_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x12_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x12_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x12_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     classification: electronic
@@ -7814,9 +7814,9 @@ electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     short_code: hi12x13p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x26_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x26_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x26_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x13_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x13_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x13_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     classification: electronic
@@ -7839,9 +7839,9 @@ electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     short_code: hi12x14p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x28_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x28_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x28_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x14_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x14_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x14_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     classification: electronic
@@ -7864,9 +7864,9 @@ electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     short_code: hi12x15p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x30_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x30_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x30_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x15_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x15_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x15_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     classification: electronic
@@ -7889,9 +7889,9 @@ electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     short_code: hi12x16p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x32_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x32_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x32_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x16_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x16_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x16_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     classification: electronic
@@ -7914,9 +7914,9 @@ electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     short_code: hi12x17p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x34_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x34_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x34_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x17_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x17_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x17_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     classification: electronic
@@ -7939,9 +7939,9 @@ electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     short_code: hi12x18p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x36_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x36_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x36_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x18_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x18_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x18_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     classification: electronic
@@ -7964,9 +7964,9 @@ electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     short_code: hi12x19p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x38_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x38_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x38_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x19_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x19_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x19_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     classification: electronic
@@ -7989,9 +7989,9 @@ electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     short_code: hi12x2p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x04_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x04_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x04_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x02_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x02_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x02_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     classification: electronic
@@ -8014,9 +8014,9 @@ electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     short_code: hi12x3p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x06_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x06_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x06_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x03_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x03_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x03_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     classification: electronic
@@ -8039,9 +8039,9 @@ electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     short_code: hi12x4p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x08_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x08_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x08_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x04_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x04_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x04_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     classification: electronic
@@ -8064,9 +8064,9 @@ electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     short_code: hi12x5p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x10_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x10_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x10_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x05_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x05_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x05_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     classification: electronic
@@ -8089,9 +8089,9 @@ electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     short_code: hi12x6p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x12_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x12_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x12_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x06_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x06_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x06_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     classification: electronic
@@ -8114,9 +8114,9 @@ electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     short_code: hi12x7p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x14_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x14_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x14_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x07_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x07_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x07_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     classification: electronic
@@ -8139,9 +8139,9 @@ electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     short_code: hi12x8p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x16_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x16_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x16_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x08_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x08_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x08_odd_even
     type: header
 electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     classification: electronic
@@ -8164,9 +8164,9 @@ electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     short_code: hi12x9p
     size: 2d54_mm_dual_row
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x18_odd_even//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x18_odd_even
-        oomp_key: oomp_kicad_connector_generic_conn_02x18_odd_even
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x09_odd_even//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x09_odd_even
+        oomp_key: oomp_kicad_connector_generic_conn_02x09_odd_even
     type: header
 electronic_header_2d54_mm_jst_xh_10_pin:
     classification: electronic
