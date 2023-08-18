@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm_dual_row",
+    "color": "",
+    "description_main": "2x7_dual_row_14_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin",
+    "oomp_key": "oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin",
+    "directory": "parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin",
+    "name": "Electronic Header 2D54 Mm Dual Row 2X7 Dual Row 14 Pin",
+    "short_code": "h",
+    "distributors": [],
+    "md5": "2aa1469365b5bf2d61f9d555069c9091",
+    "md5_5": "2aa14",
+    "md5_6": "2aa146",
+    "md5_10": "2aa1469365"
+}

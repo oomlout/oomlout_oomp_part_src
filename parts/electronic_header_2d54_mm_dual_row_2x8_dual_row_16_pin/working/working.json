@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm_dual_row",
+    "color": "",
+    "description_main": "2x8_dual_row_16_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin",
+    "oomp_key": "oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin",
+    "directory": "parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin",
+    "name": "Electronic Header 2D54 Mm Dual Row 2X8 Dual Row 16 Pin",
+    "short_code": "h",
+    "distributors": [],
+    "md5": "4128a251a40e93f740cd84850a7ce6f3",
+    "md5_5": "4128a",
+    "md5_6": "4128a2",
+    "md5_10": "4128a251a4"
+}

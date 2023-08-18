@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x19_dual_row_38_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+kicad_reference: J
+manufacturer: ''
+md5: f5f0a88651c883c402509b1b0224d1c6
+md5_10: f5f0a88651
+md5_5: f5f0a
+md5_6: f5f0a8
+name: Electronic Header 2D54 Mm Dual Row 2X19 Dual Row 38 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header

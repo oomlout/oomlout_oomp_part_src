@@ -7718,6 +7718,384 @@ electronic_header_2d54_mm_9_pin_surface_mount_right_angle:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
         oomp_key: oomp_kicad_connector_conn_01x09_pin
     type: header
+electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x10_dual_row_20_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 6453e98ade0e2bfe5d52b833f74ad911
+    md5_10: 6453e98ade
+    md5_5: 6453e
+    md5_6: 6453e9
+    name: Electronic Header 2D54 Mm Dual Row 2X10 Dual Row 20 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x11_dual_row_22_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: ffb9e4aef1b67efe190b3605a398414e
+    md5_10: ffb9e4aef1
+    md5_5: ffb9e
+    md5_6: ffb9e4
+    name: Electronic Header 2D54 Mm Dual Row 2X11 Dual Row 22 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x12_dual_row_24_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 52b4b3ebf2624d0b04e5badd2c6da75d
+    md5_10: 52b4b3ebf2
+    md5_5: 52b4b
+    md5_6: 52b4b3
+    name: Electronic Header 2D54 Mm Dual Row 2X12 Dual Row 24 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x13_dual_row_26_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 9b01ce2640daccb0a65936bc72f1449f
+    md5_10: 9b01ce2640
+    md5_5: 9b01c
+    md5_6: 9b01ce
+    name: Electronic Header 2D54 Mm Dual Row 2X13 Dual Row 26 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x14_dual_row_28_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: ee493dbc3318772a79863ec683544aed
+    md5_10: ee493dbc33
+    md5_5: ee493
+    md5_6: ee493d
+    name: Electronic Header 2D54 Mm Dual Row 2X14 Dual Row 28 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x15_dual_row_30_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 077dd67afec1be79446fcba53c54fce8
+    md5_10: 077dd67afe
+    md5_5: 077dd
+    md5_6: 077dd6
+    name: Electronic Header 2D54 Mm Dual Row 2X15 Dual Row 30 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x16_dual_row_32_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 7a237ba6a9a37237c8e25de6ead6c6a0
+    md5_10: 7a237ba6a9
+    md5_5: 7a237
+    md5_6: 7a237b
+    name: Electronic Header 2D54 Mm Dual Row 2X16 Dual Row 32 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x17_dual_row_34_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: cede0b523656d2345fc43b6493ba5a4f
+    md5_10: cede0b5236
+    md5_5: cede0
+    md5_6: cede0b
+    name: Electronic Header 2D54 Mm Dual Row 2X17 Dual Row 34 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x18_dual_row_36_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 33780b05e6dbc1c715b32b3f54920cdc
+    md5_10: 33780b05e6
+    md5_5: '33780'
+    md5_6: 33780b
+    name: Electronic Header 2D54 Mm Dual Row 2X18 Dual Row 36 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x19_dual_row_38_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: f5f0a88651c883c402509b1b0224d1c6
+    md5_10: f5f0a88651
+    md5_5: f5f0a
+    md5_6: f5f0a8
+    name: Electronic Header 2D54 Mm Dual Row 2X19 Dual Row 38 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x2_dual_row_4_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 8b90130b49219a6847a5db6fd1b1821c
+    md5_10: 8b90130b49
+    md5_5: 8b901
+    md5_6: 8b9013
+    name: Electronic Header 2D54 Mm Dual Row 2X2 Dual Row 4 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x3_dual_row_6_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: e2fe8e334470bcf64d4406c7b75303d7
+    md5_10: e2fe8e3344
+    md5_5: e2fe8
+    md5_6: e2fe8e
+    name: Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x4_dual_row_8_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 3eed9c0ecb12c9d1e000a543cbdbd6db
+    md5_10: 3eed9c0ecb
+    md5_5: 3eed9
+    md5_6: 3eed9c
+    name: Electronic Header 2D54 Mm Dual Row 2X4 Dual Row 8 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x5_dual_row_10_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: edb222f5ff5d22b860f4b290bf8286e8
+    md5_10: edb222f5ff
+    md5_5: edb22
+    md5_6: edb222
+    name: Electronic Header 2D54 Mm Dual Row 2X5 Dual Row 10 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x6_dual_row_12_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: f7c36cfd6917a64d191e56bfb2c12421
+    md5_10: f7c36cfd69
+    md5_5: f7c36
+    md5_6: f7c36c
+    name: Electronic Header 2D54 Mm Dual Row 2X6 Dual Row 12 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x7_dual_row_14_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 2aa1469365b5bf2d61f9d555069c9091
+    md5_10: 2aa1469365
+    md5_5: 2aa14
+    md5_6: 2aa146
+    name: Electronic Header 2D54 Mm Dual Row 2X7 Dual Row 14 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x8_dual_row_16_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 4128a251a40e93f740cd84850a7ce6f3
+    md5_10: 4128a251a4
+    md5_5: 4128a
+    md5_6: 4128a2
+    name: Electronic Header 2D54 Mm Dual Row 2X8 Dual Row 16 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
+electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 2x9_dual_row_18_pin
+    directory: parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
+    distributors: []
+    id: electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
+    kicad_reference: J
+    make_files: true
+    manufacturer: ''
+    md5: 756af66162cd63264c2280f225d28515
+    md5_10: 756af66162
+    md5_5: 756af
+    md5_6: 756af6
+    name: Electronic Header 2D54 Mm Dual Row 2X9 Dual Row 18 Pin
+    oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
+    part_number: ''
+    short_code: h
+    size: 2d54_mm_dual_row
+    type: header
 electronic_header_2d54_mm_jst_xh_10_pin:
     classification: electronic
     color: ''

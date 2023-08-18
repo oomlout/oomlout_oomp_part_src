@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x8_dual_row_16_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
+kicad_reference: J
+manufacturer: ''
+md5: 4128a251a40e93f740cd84850a7ce6f3
+md5_10: 4128a251a4
+md5_5: 4128a
+md5_6: 4128a2
+name: Electronic Header 2D54 Mm Dual Row 2X8 Dual Row 16 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header

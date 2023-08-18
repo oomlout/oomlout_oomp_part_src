@@ -55,8 +55,8 @@ def load_parts(**kwargs):
     part_details["color"] = [""]
     part_details["description_main"] = []
     # add 1- 40 _pin
-    for pin_count in range(2, 40, 2):
-        part_details["description_main"].append(f"2x{pin_count/2}_dual_row_{pin_count}_pin")
+    for pin_count in range(4, 40, 2):
+        part_details["description_main"].append(f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin")
     #part_details["description_extra"] = ["right_angle","surface_mount","","surface_mount_right_angle"]
     part_details["description_extra"] = [""]
     part_details["manufacturer"] = ""

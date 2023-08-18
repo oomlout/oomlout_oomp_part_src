@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x10_dual_row_20_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
+kicad_reference: J
+manufacturer: ''
+md5: 6453e98ade0e2bfe5d52b833f74ad911
+md5_10: 6453e98ade
+md5_5: 6453e
+md5_6: 6453e9
+name: Electronic Header 2D54 Mm Dual Row 2X10 Dual Row 20 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header

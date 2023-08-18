@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "header",
+    "size": "2d54_mm_dual_row",
+    "color": "",
+    "description_main": "2x3_dual_row_6_pin",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "kicad_reference": "J",
+    "id": "electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin",
+    "oomp_key": "oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin",
+    "directory": "parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin",
+    "name": "Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin",
+    "short_code": "h",
+    "distributors": [],
+    "md5": "e2fe8e334470bcf64d4406c7b75303d7",
+    "md5_5": "e2fe8",
+    "md5_6": "e2fe8e",
+    "md5_10": "e2fe8e3344"
+}

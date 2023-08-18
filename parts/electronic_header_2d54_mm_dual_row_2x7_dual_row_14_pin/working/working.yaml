@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x7_dual_row_14_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
+kicad_reference: J
+manufacturer: ''
+md5: 2aa1469365b5bf2d61f9d555069c9091
+md5_10: 2aa1469365
+md5_5: 2aa14
+md5_6: 2aa146
+name: Electronic Header 2D54 Mm Dual Row 2X7 Dual Row 14 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header

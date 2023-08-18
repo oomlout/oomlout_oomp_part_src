@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x13_dual_row_26_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
+kicad_reference: J
+manufacturer: ''
+md5: 9b01ce2640daccb0a65936bc72f1449f
+md5_10: 9b01ce2640
+md5_5: 9b01c
+md5_6: 9b01ce
+name: Electronic Header 2D54 Mm Dual Row 2X13 Dual Row 26 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header

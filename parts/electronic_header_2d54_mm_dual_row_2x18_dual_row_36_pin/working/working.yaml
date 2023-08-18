@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x18_dual_row_36_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
+kicad_reference: J
+manufacturer: ''
+md5: 33780b05e6dbc1c715b32b3f54920cdc
+md5_10: 33780b05e6
+md5_5: '33780'
+md5_6: 33780b
+name: Electronic Header 2D54 Mm Dual Row 2X18 Dual Row 36 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header

@@ -1,0 +1,19 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2x14_dual_row_28_pin
+directory: parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
+distributors: []
+id: electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
+kicad_reference: J
+manufacturer: ''
+md5: ee493dbc3318772a79863ec683544aed
+md5_10: ee493dbc33
+md5_5: ee493
+md5_6: ee493d
+name: Electronic Header 2D54 Mm Dual Row 2X14 Dual Row 28 Pin
+oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
+part_number: ''
+short_code: h
+size: 2d54_mm_dual_row
+type: header
