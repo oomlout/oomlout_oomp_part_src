@@ -92,6 +92,18 @@ def get_footprints(**kwargs):
             match["footprint_name"] = f"kicad_connector_jst_jst_sh_sm{pin_s}b_srss_tb_1x{pin_s}_1mp_p1_00mm_horizontal"
             matches.append(match) 
 
+    #dual row
+    for pin_count in range(4, 40, 2):
+        pin_s = str(pin_count).zfill(2)
+        pin_s2x = str(int(pin_count/2)).zfill(2)
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm_dual_row"
+        match["description_main"] = f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"
+        match["description_extra"] = ""
+        match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_vertical"
+        matches.append(match) 
+
     ###### ic
 
     match = {}

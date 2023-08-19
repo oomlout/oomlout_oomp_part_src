@@ -7741,6 +7741,10 @@ electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin:
     description_main: 2x10_dual_row_20_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin
     kicad_reference: J
     make_files: true
@@ -7766,6 +7770,10 @@ electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     description_main: 2x11_dual_row_22_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin
     kicad_reference: J
     make_files: true
@@ -7791,6 +7799,10 @@ electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     description_main: 2x12_dual_row_24_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin
     kicad_reference: J
     make_files: true
@@ -7816,6 +7828,10 @@ electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     description_main: 2x13_dual_row_26_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
     kicad_reference: J
     make_files: true
@@ -7841,6 +7857,10 @@ electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     description_main: 2x14_dual_row_28_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
     kicad_reference: J
     make_files: true
@@ -7866,6 +7886,10 @@ electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     description_main: 2x15_dual_row_30_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
     kicad_reference: J
     make_files: true
@@ -7891,6 +7915,10 @@ electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     description_main: 2x16_dual_row_32_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin
     kicad_reference: J
     make_files: true
@@ -7916,6 +7944,10 @@ electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     description_main: 2x17_dual_row_34_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin
     kicad_reference: J
     make_files: true
@@ -7941,6 +7973,10 @@ electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     description_main: 2x18_dual_row_36_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin
     kicad_reference: J
     make_files: true
@@ -7966,6 +8002,10 @@ electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     description_main: 2x19_dual_row_38_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
     kicad_reference: J
     make_files: true
@@ -7991,6 +8031,10 @@ electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     description_main: 2x2_dual_row_4_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
     kicad_reference: J
     make_files: true
@@ -8016,6 +8060,10 @@ electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     description_main: 2x3_dual_row_6_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin
     kicad_reference: J
     make_files: true
@@ -8041,6 +8089,10 @@ electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     description_main: 2x4_dual_row_8_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
     kicad_reference: J
     make_files: true
@@ -8066,6 +8118,10 @@ electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     description_main: 2x5_dual_row_10_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin
     kicad_reference: J
     make_files: true
@@ -8091,6 +8147,10 @@ electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     description_main: 2x6_dual_row_12_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
     kicad_reference: J
     make_files: true
@@ -8116,6 +8176,10 @@ electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     description_main: 2x7_dual_row_14_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin
     kicad_reference: J
     make_files: true
@@ -8141,6 +8205,10 @@ electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     description_main: 2x8_dual_row_16_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin
     kicad_reference: J
     make_files: true
@@ -8166,6 +8234,10 @@ electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     description_main: 2x9_dual_row_18_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_vertical//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_vertical
     id: electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
     kicad_reference: J
     make_files: true

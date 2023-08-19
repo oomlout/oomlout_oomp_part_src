@@ -4,6 +4,10 @@ description_extra: ''
 description_main: 2x14_dual_row_28_pin
 directory: parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical
 id: electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
 kicad_reference: J
 manufacturer: ''
