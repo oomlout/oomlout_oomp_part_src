@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "pmic",
+    "size": "sot_223",
+    "color": "linear",
+    "description_main": "1117",
+    "description_extra": "1_8_volt",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "id": "electronic_pmic_sot_223_linear_1117_1_8_volt",
+    "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_1_8_volt",
+    "directory": "parts/electronic_pmic_sot_223_linear_1117_1_8_volt",
+    "name": "Electronic Pmic Sot 223 Linear 1117 1 8 Volt",
+    "short_code": "pms2231117",
+    "distributors": [],
+    "md5": "1ae2ec9bc6ca9d86e38f14487d5958be",
+    "md5_5": "1ae2e",
+    "md5_6": "1ae2ec",
+    "md5_10": "1ae2ec9bc6"
+}

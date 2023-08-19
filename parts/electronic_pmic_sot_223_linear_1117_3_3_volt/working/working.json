@@ -1,0 +1,22 @@
+{
+    "classification": "electronic",
+    "type": "pmic",
+    "size": "sot_223",
+    "color": "linear",
+    "description_main": "1117",
+    "description_extra": "3_3_volt",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "id": "electronic_pmic_sot_223_linear_1117_3_3_volt",
+    "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_3_3_volt",
+    "directory": "parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
+    "name": "Electronic Pmic Sot 223 Linear 1117 3 3 Volt",
+    "short_code": "pms22311173d3v",
+    "distributors": [],
+    "md5": "24ed557c93e5cb4d939bb45cf16d2762",
+    "md5_5": "24ed5",
+    "md5_6": "24ed55",
+    "md5_10": "24ed557c93"
+}

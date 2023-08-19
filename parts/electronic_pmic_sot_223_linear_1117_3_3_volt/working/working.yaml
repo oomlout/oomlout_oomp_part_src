@@ -1,0 +1,23 @@
+classification: electronic
+color: linear
+description_extra: 3_3_volt
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_3_3_volt
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+id: electronic_pmic_sot_223_linear_1117_3_3_volt
+manufacturer: ''
+md5: 24ed557c93e5cb4d939bb45cf16d2762
+md5_10: 24ed557c93
+md5_5: 24ed5
+md5_6: 24ed55
+name: Electronic Pmic Sot 223 Linear 1117 3 3 Volt
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt
+part_number: ''
+short_code: pms22311173d3v
+short_name: ''
+size: sot_223
+type: pmic

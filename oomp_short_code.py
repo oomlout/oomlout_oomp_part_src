@@ -144,11 +144,13 @@ def get_short_code(**kwargs):
     #package_marking
     #needs to be in the loop
 
-    replace_dict["description_extra"]["1_5v"] = "1d5v"
+    replace_dict["description_extra"]["1_5_volt"] = "1d5v"
     replace_dict["description_extra"]["1_8v"] = "1d8v"
-    replace_dict["description_extra"]["2_5v"] = "2d5v"
-    replace_dict["description_extra"]["2_85v"] = "2d85v"
-    replace_dict["description_extra"]["3_3v"] = "3d3v"
+    replace_dict["description_extra"]["2_5_volt"] = "2d5v"
+    replace_dict["description_extra"]["2_85_volt"] = "2d85v"
+    replace_dict["description_extra"]["3_3_volt"] = "3d3v"
+    for volt in range(1, 500):
+        replace_dict["description_extra"][f"{volt}_volt"] = f"{volt}v"
 
     ## header ones
     replace_dict["description_extra"]["right_angle"] = "ra"

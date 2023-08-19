@@ -512,7 +512,7 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
     part_number: ''
-    short_code: catuf4d7
+    short_code: catuf4d716v
     size: 3216_avx_a
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
@@ -11596,150 +11596,130 @@ electronic_nettie_4_nets_through_hole:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
         oomp_key: oomp_kicad_device_nettie_4
     type: nettie
-electronic_pmic_sot_223_linear_1117_1_5v:
+electronic_pmic_sot_223_linear_1117_1_5_volt:
     classification: electronic
     color: linear
-    description_extra: 1_5v
+    description_extra: 1_5_volt
     description_main: '1117'
-    directory: parts/electronic_pmic_sot_223_linear_1117_1_5v
+    directory: parts/electronic_pmic_sot_223_linear_1117_1_5_volt
     distributors: []
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
         oomp_key: oomp_kicad_package_to_sot_smd_sot_223
-    id: electronic_pmic_sot_223_linear_1117_1_5v
+    id: electronic_pmic_sot_223_linear_1117_1_5_volt
     make_files: true
     manufacturer: ''
-    md5: c0df20efe7937b88583f63473a14eb21
-    md5_10: c0df20efe7
-    md5_5: c0df2
-    md5_6: c0df20
-    name: Electronic Pmic Sot 223 Linear 1117 1 5V
-    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5v
+    md5: 6dc5a408f889c1eeeef36d9b6bef6012
+    md5_10: 6dc5a408f8
+    md5_5: 6dc5a
+    md5_6: 6dc5a4
+    name: Electronic Pmic Sot 223 Linear 1117 1 5 Volt
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5_volt
     part_number: ''
     short_code: pms22311171d5v
     short_name: ''
     size: sot_223
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_15//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_15
-        oomp_key: oomp_kicad_regulator_linear_ap1117_15
     type: pmic
-electronic_pmic_sot_223_linear_1117_1_8v:
+electronic_pmic_sot_223_linear_1117_1_8_volt:
     classification: electronic
     color: linear
-    description_extra: 1_8v
+    description_extra: 1_8_volt
     description_main: '1117'
-    directory: parts/electronic_pmic_sot_223_linear_1117_1_8v
+    directory: parts/electronic_pmic_sot_223_linear_1117_1_8_volt
     distributors: []
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
         oomp_key: oomp_kicad_package_to_sot_smd_sot_223
-    id: electronic_pmic_sot_223_linear_1117_1_8v
+    id: electronic_pmic_sot_223_linear_1117_1_8_volt
     make_files: true
     manufacturer: ''
-    md5: 0450603713decc03eb5619d27e424cc5
-    md5_10: '0450603713'
-    md5_5: '04506'
-    md5_6: '045060'
-    name: Electronic Pmic Sot 223 Linear 1117 1 8V
-    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8v
-    part_number: ''
-    short_code: pms22311171d8v
-    short_name: ''
-    size: sot_223
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_18//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_18
-        oomp_key: oomp_kicad_regulator_linear_ap1117_18
-    type: pmic
-electronic_pmic_sot_223_linear_1117_2_5v:
-    classification: electronic
-    color: linear
-    description_extra: 2_5v
-    description_main: '1117'
-    directory: parts/electronic_pmic_sot_223_linear_1117_2_5v
-    distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
-    id: electronic_pmic_sot_223_linear_1117_2_5v
-    make_files: true
-    manufacturer: ''
-    md5: 8b74539494cbe83b7e01c4b5a91c5523
-    md5_10: 8b74539494
-    md5_5: 8b745
-    md5_6: 8b7453
-    name: Electronic Pmic Sot 223 Linear 1117 2 5V
-    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5v
-    part_number: ''
-    short_code: pms22311172d5v
-    short_name: ''
-    size: sot_223
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_25//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_25
-        oomp_key: oomp_kicad_regulator_linear_ap1117_25
-    type: pmic
-electronic_pmic_sot_223_linear_1117_3_3v:
-    classification: electronic
-    color: linear
-    description_extra: 3_3v
-    description_main: '1117'
-    directory: parts/electronic_pmic_sot_223_linear_1117_3_3v
-    distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
-    id: electronic_pmic_sot_223_linear_1117_3_3v
-    make_files: true
-    manufacturer: ''
-    md5: bb05b4251bbaa51e2632cecf23e7de51
-    md5_10: bb05b4251b
-    md5_5: bb05b
-    md5_6: bb05b4
-    name: Electronic Pmic Sot 223 Linear 1117 3 3V
-    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3v
-    part_number: ''
-    short_code: pms22311173d3v
-    short_name: ''
-    size: sot_223
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33
-        oomp_key: oomp_kicad_regulator_linear_ap1117_33
-    type: pmic
-electronic_pmic_sot_223_linear_1117_5v:
-    classification: electronic
-    color: linear
-    description_extra: 5v
-    description_main: '1117'
-    directory: parts/electronic_pmic_sot_223_linear_1117_5v
-    distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
-    id: electronic_pmic_sot_223_linear_1117_5v
-    make_files: true
-    manufacturer: ''
-    md5: ca675d823ff5d365cc30f3fe5d88c8bd
-    md5_10: ca675d823f
-    md5_5: ca675
-    md5_6: ca675d
-    name: Electronic Pmic Sot 223 Linear 1117 5V
-    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5v
+    md5: 1ae2ec9bc6ca9d86e38f14487d5958be
+    md5_10: 1ae2ec9bc6
+    md5_5: 1ae2e
+    md5_6: 1ae2ec
+    name: Electronic Pmic Sot 223 Linear 1117 1 8 Volt
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8_volt
     part_number: ''
     short_code: pms2231117
     short_name: ''
     size: sot_223
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
-        oomp_key: oomp_kicad_regulator_linear_ap1117_50
+    type: pmic
+electronic_pmic_sot_223_linear_1117_2_5_volt:
+    classification: electronic
+    color: linear
+    description_extra: 2_5_volt
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_2_5_volt
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    id: electronic_pmic_sot_223_linear_1117_2_5_volt
+    make_files: true
+    manufacturer: ''
+    md5: 53edd7c9f0df3cebd77a55ecf56ac34b
+    md5_10: 53edd7c9f0
+    md5_5: 53edd
+    md5_6: 53edd7
+    name: Electronic Pmic Sot 223 Linear 1117 2 5 Volt
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5_volt
+    part_number: ''
+    short_code: pms22311172d5v
+    short_name: ''
+    size: sot_223
+    type: pmic
+electronic_pmic_sot_223_linear_1117_3_3_volt:
+    classification: electronic
+    color: linear
+    description_extra: 3_3_volt
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_3_3_volt
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    id: electronic_pmic_sot_223_linear_1117_3_3_volt
+    make_files: true
+    manufacturer: ''
+    md5: 24ed557c93e5cb4d939bb45cf16d2762
+    md5_10: 24ed557c93
+    md5_5: 24ed5
+    md5_6: 24ed55
+    name: Electronic Pmic Sot 223 Linear 1117 3 3 Volt
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt
+    part_number: ''
+    short_code: pms22311173d3v
+    short_name: ''
+    size: sot_223
+    type: pmic
+electronic_pmic_sot_223_linear_1117_5_volt:
+    classification: electronic
+    color: linear
+    description_extra: 5_volt
+    description_main: '1117'
+    directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    id: electronic_pmic_sot_223_linear_1117_5_volt
+    make_files: true
+    manufacturer: ''
+    md5: f26ce0b91db98ace92559b334d2cc5a6
+    md5_10: f26ce0b91d
+    md5_5: f26ce
+    md5_6: f26ce0
+    name: Electronic Pmic Sot 223 Linear 1117 5 Volt
+    oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
+    part_number: ''
+    short_code: pms22311175v
+    short_name: ''
+    size: sot_223
     type: pmic
 electronic_pmic_sot_223_linear_1117_adj:
     classification: electronic

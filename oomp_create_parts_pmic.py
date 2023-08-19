@@ -22,7 +22,7 @@ def load_parts(**kwargs):
     part_details["size"] = ["sot_223"]
     part_details["color"] = ["linear"]
     part_details["description_main"] = "1117"
-    part_details["description_extra"] = ["1_5v","1_8v","2_5v","3_3v","5v","adj"]
+    part_details["description_extra"] = ["1_5_volt","1_8_volt","2_5_volt","3_3_volt","5_volt","adj"]
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
     part_details["short_name"] = ""    
