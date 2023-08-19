@@ -160,6 +160,10 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
     -   name: lcsc
         part_number: C7450623
         url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
+        oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
     make_files: true
     manufacturer: ''
@@ -527,6 +531,10 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz:
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
     id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
     kicad_reference: x
@@ -554,6 +562,10 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz:
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
     id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
     kicad_reference: x
@@ -581,6 +593,10 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz:
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+        oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     from_yaml: false
     id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
     kicad_reference: x

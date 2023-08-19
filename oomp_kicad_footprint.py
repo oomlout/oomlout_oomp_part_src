@@ -17,6 +17,13 @@ def get_footprints(**kwargs):
     match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
     matches.append(match)
     
+    ###### button
+    match = {}
+    match["type"] = "button"
+    match["size"] = "3_5_mm_x_6_mm_x_2_5_mm"
+    match["footprint_name"] = "kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs"
+    matches.append(match)
+
     ###### capacitor
     match = {}
     match["type"] = "capacitor"
@@ -38,7 +45,7 @@ def get_footprints(**kwargs):
 
     #crystal
     match = {}
-    match["type"] = "crystal"
+    match["type"] = "ceramic_resonator"
     match["size"] = "3213"
     match["color"] = "3_pin_ground_pin_2"
     match["footprint_name"] = "kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm"
