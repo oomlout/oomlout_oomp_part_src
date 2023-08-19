@@ -142,11 +142,11 @@ def get_symbols(**kwargs):
     ###### pmic
     
     voltage_pairs = []
-    voltage_pairs.append(["1_5v","15"])
-    voltage_pairs.append(["1_8v","18"])
-    voltage_pairs.append(["2_5v","25"])
-    voltage_pairs.append(["3_3v","33"])
-    voltage_pairs.append(["5v","50"])
+    voltage_pairs.append(["1_5_volt","15"])
+    voltage_pairs.append(["1_8_volt","18"])
+    voltage_pairs.append(["2_5_volt","25"])
+    voltage_pairs.append(["3_3_volt","33"])
+    voltage_pairs.append(["5_volt","50"])
     voltage_pairs.append(["adj","adj"])
     for pair in voltage_pairs:
         match = {}

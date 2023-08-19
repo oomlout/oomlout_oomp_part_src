@@ -11620,6 +11620,10 @@ electronic_pmic_sot_223_linear_1117_1_5_volt:
     short_code: pms22311171d5v
     short_name: ''
     size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_15//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_15
+        oomp_key: oomp_kicad_regulator_linear_ap1117_15
     type: pmic
 electronic_pmic_sot_223_linear_1117_1_8_volt:
     classification: electronic
@@ -11645,6 +11649,10 @@ electronic_pmic_sot_223_linear_1117_1_8_volt:
     short_code: pms2231117
     short_name: ''
     size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_18//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_18
+        oomp_key: oomp_kicad_regulator_linear_ap1117_18
     type: pmic
 electronic_pmic_sot_223_linear_1117_2_5_volt:
     classification: electronic
@@ -11670,6 +11678,10 @@ electronic_pmic_sot_223_linear_1117_2_5_volt:
     short_code: pms22311172d5v
     short_name: ''
     size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_25//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_25
+        oomp_key: oomp_kicad_regulator_linear_ap1117_25
     type: pmic
 electronic_pmic_sot_223_linear_1117_3_3_volt:
     classification: electronic
@@ -11695,6 +11707,10 @@ electronic_pmic_sot_223_linear_1117_3_3_volt:
     short_code: pms22311173d3v
     short_name: ''
     size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33
+        oomp_key: oomp_kicad_regulator_linear_ap1117_33
     type: pmic
 electronic_pmic_sot_223_linear_1117_5_volt:
     classification: electronic
@@ -11720,6 +11736,10 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     short_code: pms22311175v
     short_name: ''
     size: sot_223
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
+        oomp_key: oomp_kicad_regulator_linear_ap1117_50
     type: pmic
 electronic_pmic_sot_223_linear_1117_adj:
     classification: electronic
