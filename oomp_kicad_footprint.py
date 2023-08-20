@@ -112,6 +112,8 @@ def get_footprints(**kwargs):
     match["footprint_name"] = f"kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm"
     matches.append(match)  
 
+    
+
     #for pins 1-40
     ###### is dip
     for pin_count in range(2, 40, 2):

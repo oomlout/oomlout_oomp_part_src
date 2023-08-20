@@ -132,7 +132,7 @@ def create_symbol_library():
                     property.value = f'https://github.com/oomlout/oomlout_oomp_v3/parts/{part["id"]}/datasheet.pdf'
                 if property.key == "Footprint":
                     pass
-                    property.value = symbol_output_name
+                    property.value = f"oomlout_oomp_part_kicad_footprints:{symbol_output_name}"
                 if property.key == "Reference":
                     pass
                     property.value = part.get("kicad_reference", "J")
