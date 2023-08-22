@@ -28,11 +28,12 @@ def load_parts(**kwargs):
     part_details["short_name"] = ""    
     parts.append(part_details)
     pins = {}
-    pins["1"] = ({"name": "gnd", "number": "1", "type": "signal"})
-    pins["2"] = ({"name": "txd", "number": "2", "type": "signal"})
-    pins["3"] = ({"name": "rxd", "number": "3", "type": "signal"})
-    pins["4"] = ({"name": "v3", "number": "4", "type": "signal"})
-    pins["5"] = ({"name": "ud_plus", "number": "5", "type": "signal"})
+    pins["pin_1"] = ({"name": "vbus", "number": "1", "type": "power"})
+    pins["pin_2"] = ({"name": "usb_negative", "number": "2", "type": "signal"})
+    pins["pin_3"] = ({"name": "usb_positive", "number": "3", "type": "signal"})
+    pins["pin_4"] = ({"name": "id", "number": "4", "type": "signal"})
+    pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "power"})
+    pins["pin_6"] = ({"name": "shield", "number": "6", "type": "signal"})
     part_details["pins"] = pins
     
 

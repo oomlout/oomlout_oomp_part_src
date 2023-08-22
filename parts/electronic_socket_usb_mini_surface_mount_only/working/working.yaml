@@ -18,25 +18,29 @@ name: Electronic Socket Usb Mini Surface Mount Only
 oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
 part_number: ''
 pins:
-    '1':
-        name: gnd
+    pin_1:
+        name: vbus
         number: '1'
-        type: signal
-    '2':
-        name: txd
+        type: power
+    pin_2:
+        name: usb_negative
         number: '2'
         type: signal
-    '3':
-        name: rxd
+    pin_3:
+        name: usb_positive
         number: '3'
         type: signal
-    '4':
-        name: v3
+    pin_4:
+        name: id
         number: '4'
         type: signal
-    '5':
-        name: ud_plus
+    pin_5:
+        name: gnd
         number: '5'
+        type: power
+    pin_6:
+        name: shield
+        number: '6'
         type: signal
 short_code: scumnsmo
 short_name: ''

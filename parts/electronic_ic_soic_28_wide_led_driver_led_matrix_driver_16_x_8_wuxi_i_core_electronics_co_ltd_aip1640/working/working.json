@@ -10,142 +10,142 @@
     "make_files": true,
     "short_name": "16x8 led matrix driver (aip1640)",
     "pins": {
-        "1": {
+        "pin_1": {
             "name": "grid12",
             "number": "1",
             "type": "signal"
         },
-        "2": {
+        "pin_2": {
             "name": "grid13",
             "number": "2",
             "type": "signal"
         },
-        "3": {
+        "pin_3": {
             "name": "grid14",
             "number": "3",
             "type": "signal"
         },
-        "4": {
+        "pin_4": {
             "name": "grid15",
             "number": "4",
             "type": "signal"
         },
-        "5": {
+        "pin_5": {
             "name": "grid16",
             "number": "5",
             "type": "signal"
         },
-        "6": {
+        "pin_6": {
             "name": "vss",
             "number": "6",
             "type": "gnd"
         },
-        "7": {
+        "pin_7": {
             "name": "din",
             "number": "7",
             "type": "signal"
         },
-        "8": {
+        "pin_8": {
             "name": "sclk",
             "number": "8",
             "type": "signal"
         },
-        "9": {
+        "pin_9": {
             "name": "seg1",
             "number": "9",
             "type": "signal"
         },
-        "10": {
+        "pin_10": {
             "name": "seg2",
             "number": "10",
             "type": "signal"
         },
-        "11": {
+        "pin_11": {
             "name": "seg3",
             "number": "11",
             "type": "signal"
         },
-        "12": {
+        "pin_12": {
             "name": "seg4",
             "number": "12",
             "type": "signal"
         },
-        "13": {
+        "pin_13": {
             "name": "seg5",
             "number": "13",
             "type": "signal"
         },
-        "14": {
+        "pin_14": {
             "name": "seg6",
             "number": "14",
             "type": "signal"
         },
-        "15": {
+        "pin_15": {
             "name": "seg7",
             "number": "15",
             "type": "signal"
         },
-        "16": {
+        "pin_16": {
             "name": "seg8",
             "number": "16",
             "type": "signal"
         },
-        "17": {
+        "pin_17": {
             "name": "vdd",
             "number": "17",
             "type": "power"
         },
-        "18": {
+        "pin_18": {
             "name": "grid1",
             "number": "18",
             "type": "signal"
         },
-        "19": {
+        "pin_19": {
             "name": "grid2",
             "number": "19",
             "type": "signal"
         },
-        "20": {
+        "pin_20": {
             "name": "grid3",
             "number": "20",
             "type": "signal"
         },
-        "21": {
+        "pin_21": {
             "name": "grid4",
             "number": "21",
             "type": "signal"
         },
-        "22": {
+        "pin_22": {
             "name": "grid5",
             "number": "22",
             "type": "signal"
         },
-        "23": {
+        "pin_23": {
             "name": "grid6",
             "number": "23",
             "type": "signal"
         },
-        "24": {
+        "pin_24": {
             "name": "grid7",
             "number": "24",
             "type": "signal"
         },
-        "25": {
+        "pin_25": {
             "name": "grid8",
             "number": "25",
             "type": "signal"
         },
-        "26": {
+        "pin_26": {
             "name": "grid9",
             "number": "26",
             "type": "signal"
         },
-        "27": {
+        "pin_27": {
             "name": "grid10",
             "number": "27",
             "type": "signal"
         },
-        "28": {
+        "pin_28": {
             "name": "grid11",
             "number": "28",
             "type": "signal"
