@@ -44,15 +44,19 @@ def clone_data_files():
 def load_parts(**kwargs):
     global add_part_filter
     from_yaml = kwargs.get("from_yaml", True)
+    from_pickle = kwargs.get("from_pickle", False)
     filter = kwargs.get("filter", "")
     add_part_filter = filter
     if from_yaml:
         oomp_create_parts.load_parts_from_yaml(**kwargs)
+    elif from_pickle:
+        oomp_create_parts.load_parts_from_pickle(**kwargs)
     else:
         oomp_create_parts.load_parts(**kwargs)
 
 def save_parts(**kwargs):
     oomp_create_parts.save_parts_to_yaml(**kwargs)
+    oomp_create_parts.save_parts_to_pickle(**kwargs)
 
 def save_parts_to_individual_yaml_files(**kwargs):
     oomp_create_parts.save_parts_to_individual_yaml_files(**kwargs)

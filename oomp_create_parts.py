@@ -36,10 +36,28 @@ def load_parts_from_yaml(**kwargs):
         parts = yaml.load(infile, Loader=yaml.FullLoader)
     oomp.parts = parts
 
+def load_parts_from_pickle(**kwargs):
+    print("loading parts from yaml")
+    import yaml
+    file_pickle = "tmp/parts.pickle"
+    if not os.path.exists(file_pickle):
+        print(f"file {file_pickle} does not exist")
+        return
+    with open(file_pickle, "r") as infile:
+        parts = yaml.load(infile, Loader=yaml.FullLoader)
+    oomp.parts = parts
+
 def save_parts_to_yaml(**kwargs):
     print("saving parts to yaml")
     import yaml
     with open("parts.yaml", "w") as outfile:
+        yaml.dump(oomp.parts, outfile, indent=4)
+
+def save_parts_to_pickle(**kwargs):
+    print("saving parts to pickle")
+    import yaml
+    file_pickle = "tmp/parts.pickle"
+    with open(file_pickle, "w") as outfile:
         yaml.dump(oomp.parts, outfile, indent=4)
 
 def save_parts_to_individual_yaml_files(**kwargs):

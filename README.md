@@ -48,4 +48,5 @@ This is composed of up to eight parts. Not all parts are neccesary and are in fu
 * action_setup.py -- gets everything setup
 * action_copy_src_to_directories.py -- copy the details from the src directory to the various directories
 * action_generate_outputs -- generates symbol library and footprint library and readmes
+* action_generate_pinouts.py -- check all footprints for parts, if the part has a footprint, check if it has a pinout svg, if it does if it has pin names replace them and create.
 * action_find_linked_projects.py -- add all the projects that use each part to the yaml
