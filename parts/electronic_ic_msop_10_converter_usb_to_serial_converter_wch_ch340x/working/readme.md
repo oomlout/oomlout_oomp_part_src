@@ -12,7 +12,7 @@ short_code: ich340x
 * manucaturer -- wch
 * part_number -- ch340x
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : ud_plus

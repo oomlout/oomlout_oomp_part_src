@@ -12,7 +12,7 @@ short_code: isoic28waip1640
 * manucaturer -- wuxi_i_core_electronics_co_ltd
 * part_number -- aip1640
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : grid12

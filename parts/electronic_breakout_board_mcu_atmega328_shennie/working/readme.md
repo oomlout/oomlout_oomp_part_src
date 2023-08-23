@@ -12,7 +12,7 @@ short_code: bbat328
 * manucaturer -- 
 * part_number -- 
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : tx1

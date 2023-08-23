@@ -3,6 +3,8 @@ import oom_base
 
 
 def main():
+    overwrite = True
+    #overwrite = False
     #go through all files in symbols/
     import os
     count = 1   
@@ -18,7 +20,7 @@ def main():
                         #generate the image at this resolution
                         filename = os.path.join(root, name, file)
                         #print(filename)
-                        oom_base.generate_image(filename=filename, resolution=resolution)
+                        oom_base.generate_image(filename=filename, resolution=resolution, overwrite=overwrite)
                     pass
                     count += 1
                     #print a dot every 1000 files

@@ -59,7 +59,7 @@ def main():
                     oom_svg.svg_dict_replace(svg_infile=svg_infile,svg_outfile=svg_outfile,svg_dict=svg_dict)
                     file_in = svg_outfile
                     oom_svg.svg_make_pdf(file_in=file_in)
-                    oom_svg.svg_make_png(file_in=file_in)
+                    oom_svg.svg_make_png(file_in=file_in, export_dpi=2400)
                     pass
                 else:
                     x=2

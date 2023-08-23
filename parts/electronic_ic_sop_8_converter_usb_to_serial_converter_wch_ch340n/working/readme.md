@@ -12,7 +12,7 @@ short_code: isp8
 * manucaturer -- wch
 * part_number -- ch340n
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : ud_plus

@@ -4,6 +4,7 @@ import jinja2
 
 def main(**kwargs):
     oomp.load_parts(from_pickle = True)
+    count = 1
     for part_id in oomp.parts:
         part = oomp.parts[part_id]
         directory = part.get("directory","")
@@ -31,7 +32,10 @@ def main(**kwargs):
         markdown_string = jinja2.Template(markdown_string).render(part2)
         with open(file_readme, "w") as outfile:
             outfile.write(markdown_string)
-        x=1
+        count += 1
+        # print a . for every 100
+        if count % 100 == 0:
+            print(".", end="", flush=True)
     
 
 def flatten_dict(d, parent_key='', separator='_'):

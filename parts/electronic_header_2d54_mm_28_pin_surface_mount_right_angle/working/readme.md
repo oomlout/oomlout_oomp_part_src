@@ -12,7 +12,7 @@ short_code: hi128psmra
 * manucaturer -- 
 * part_number -- 
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 ## symbol

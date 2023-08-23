@@ -12,7 +12,7 @@ short_code: scumnsmo
 * manucaturer -- 
 * part_number -- 
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : vbus

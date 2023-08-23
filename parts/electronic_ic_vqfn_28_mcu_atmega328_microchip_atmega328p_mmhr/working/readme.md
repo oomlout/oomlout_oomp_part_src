@@ -12,7 +12,7 @@ short_code: ivq28at328
 * manucaturer -- microchip
 * part_number -- atmega328p_mmhr
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 ## symbol

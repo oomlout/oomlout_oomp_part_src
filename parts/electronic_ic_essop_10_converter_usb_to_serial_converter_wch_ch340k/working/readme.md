@@ -12,7 +12,7 @@ short_code: i
 * manucaturer -- wch
 * part_number -- ch340k
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : gnd

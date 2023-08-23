@@ -12,7 +12,7 @@ short_code: isp16ch340b
 * manucaturer -- wch
 * part_number -- ch340b
 ## pinout
-![](working_pinout_600.png)
+![](working_pinout_600.png)  
 List of Pins:
 
 * 1 : gnd
