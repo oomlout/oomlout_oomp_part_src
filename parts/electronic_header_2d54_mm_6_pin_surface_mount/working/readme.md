@@ -19,15 +19,15 @@ List of Pins:
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x06_pin
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin/working
 
 
 ## footprint
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical/working
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left/working

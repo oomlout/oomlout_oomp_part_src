@@ -29,7 +29,7 @@ List of Pins:
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_interface_usb_ch340e
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340e
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340e/working
 
 
 ## footprint

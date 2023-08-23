@@ -19,15 +19,15 @@ List of Pins:
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x05_pin
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin/working
 
 
 ## footprint
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical/working
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal/working

@@ -49,11 +49,11 @@ List of Pins:
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x/working
 
 
 ## footprint
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes/working
