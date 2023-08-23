@@ -34,12 +34,12 @@ List of Pins:
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_interface_usb_ch340c
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c/working
+oomp_key: oomp_kicad_interface_usb_ch340c  
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c/working  
 
 
 ## footprint
 
 ![](footprint/0/working/working_600.png)  
-oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm/working
+oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm/working  

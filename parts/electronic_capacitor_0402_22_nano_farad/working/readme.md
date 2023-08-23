@@ -18,12 +18,12 @@ List of Pins:
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_device_c
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working
+oomp_key: oomp_kicad_device_c  
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
 
 
 ## footprint
 
 ![](footprint/0/working/working_600.png)  
-oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric/working
+oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric/working  

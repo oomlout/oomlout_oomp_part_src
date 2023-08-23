@@ -18,8 +18,8 @@ List of Pins:
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_mechanical_mountinghole
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole/working
+oomp_key: oomp_kicad_mechanical_mountinghole  
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole/working  
 
 
 ## footprint

@@ -24,12 +24,12 @@ List of Pins:
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_connector_usb_b_mini
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini/working
+oomp_key: oomp_kicad_connector_usb_b_mini  
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini/working  
 
 
 ## footprint
 
 ![](footprint/0/working/working_600.png)  
-oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal/working
+oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal/working  
