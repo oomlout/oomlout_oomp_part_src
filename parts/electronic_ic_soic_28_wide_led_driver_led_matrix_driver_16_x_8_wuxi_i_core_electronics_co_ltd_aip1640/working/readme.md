@@ -1,39 +1,53 @@
-# OOMP Part  
-## Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640  
-  
-oomp key: oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640 | 
-| full id | electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640 | 
-| short code | isoic28waip1640 | 
-| short link<br>(not yet working) | http://oom.lt/isoic28waip1640<br>http://oom.lt/0f044 | 
-| oomp key | oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640 | 
-| md5_5 | 0f044 | 
-| md5_10 | 0f044b55d7 | 
-| md5 | 0f044b55d79afe75a134069d87ede35f | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | ic | 
-| 3 size | soic_28_wide | 
-| 4 color | led_driver | 
-| 5 description main | led_matrix_driver_16_x_8 | 
-| 6 description extra |  | 
-| 7 manufacturer | wuxi_i_core_electronics_co_ltd | 
-| 8 part number | aip1640 | 
-### Symbol  
-### Footprint  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm | 
-| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm | 
-| directory | oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm//working/working.kicad_mod | 
-### Images  
+# Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640
+oomp_key: oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640  
+
+short_code: isoic28waip1640
+## naming details
+* classification -- electronic
+* type -- ic
+* size -- soic_28_wide
+* color -- led_driver
+* description_main -- led_matrix_driver_16_x_8
+* description_extra -- 
+* manucaturer -- wuxi_i_core_electronics_co_ltd
+* part_number -- aip1640
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+* 1 : grid12
+* 2 : grid13
+* 3 : grid14
+* 4 : grid15
+* 5 : grid16
+* 6 : vss
+* 7 : din
+* 8 : sclk
+* 9 : seg1
+* 10 : seg2
+* 11 : seg3
+* 12 : seg4
+* 13 : seg5
+* 14 : seg6
+* 15 : seg7
+* 16 : seg8
+* 17 : vdd
+* 18 : grid1
+* 19 : grid2
+* 20 : grid3
+* 21 : grid4
+* 22 : grid5
+* 23 : grid6
+* 24 : grid7
+* 25 : grid8
+* 26 : grid9
+* 27 : grid10
+* 28 : grid11
+## symbol
+
+
+## footprint
+
+![](footprint/0/working/working_600.png)
+oomp_key: oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm

@@ -1,0 +1,31 @@
+# {{ name }}
+oomp_key: {{ oomp_key }}  
+{{ description }}
+short_code: {{ short_code }}
+## naming details
+* classification -- {{classification}}
+* type -- {{type}}
+* size -- {{ size }}
+* color -- {{ color }}
+* description_main -- {{ description_main }}
+* description_extra -- {{ description_extra }}
+* manucaturer -- {{ manufacturer }}
+* part_number -- {{ part_number }}
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+{% for pin_name, pin_info in pins.items() %}
+* {{ pin_info.number }} : {{ pin_info.name }}{% endfor %}
+## symbol
+{% for foot in symbol%}
+![](symbol/0/working/working_600.png)
+oomp_key: {{ foot.oomp_key }}
+link: {{ foot.link }}
+{% endfor %}
+
+## footprint
+{% for foot in footprint%}
+![](footprint/0/working/working_600.png)
+oomp_key: {{ foot.oomp_key }}
+link: {{ foot.link }}
+{% endfor %}

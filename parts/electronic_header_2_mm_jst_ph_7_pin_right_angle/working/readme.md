@@ -1,39 +1,25 @@
-# OOMP Part  
-## Electronic Header 2 Mm Jst Ph 7 Pin Right Angle  
-  
-oomp key: oomp_electronic_header_2_mm_jst_ph_7_pin_right_angle  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Header 2 Mm Jst Ph 7 Pin Right Angle | 
-| full id | electronic_header_2_mm_jst_ph_7_pin_right_angle | 
-| short code | h7pra | 
-| short link<br>(not yet working) | http://oom.lt/h7pra<br>http://oom.lt/35c45 | 
-| oomp key | oomp_electronic_header_2_mm_jst_ph_7_pin_right_angle | 
-| md5_5 | 35c45 | 
-| md5_10 | 35c45080f2 | 
-| md5 | 35c45080f20bbbe012093d7649b029e2 | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | header | 
-| 3 size | 2_mm_jst_ph | 
-| 4 color |  | 
-| 5 description main | 7_pin | 
-| 6 description extra | right_angle | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_conn_01x07_pin | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym | 
-### Footprint  
-### Images  
+# Electronic Header 2 Mm Jst Ph 7 Pin Right Angle
+oomp_key: oomp_electronic_header_2_mm_jst_ph_7_pin_right_angle  
+
+short_code: h7pra
+## naming details
+* classification -- electronic
+* type -- header
+* size -- 2_mm_jst_ph
+* color -- 
+* description_main -- 7_pin
+* description_extra -- right_angle
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_conn_01x07_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin
+
+
+## footprint

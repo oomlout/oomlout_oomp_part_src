@@ -1,39 +1,25 @@
-# OOMP Part  
-## Electronic Header 1 Mm Jst Sh 5 Pin  
-  
-oomp key: oomp_electronic_header_1_mm_jst_sh_5_pin  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Header 1 Mm Jst Sh 5 Pin | 
-| full id | electronic_header_1_mm_jst_sh_5_pin | 
-| short code | h5p | 
-| short link<br>(not yet working) | http://oom.lt/h5p<br>http://oom.lt/714ba | 
-| oomp key | oomp_electronic_header_1_mm_jst_sh_5_pin | 
-| md5_5 | 714ba | 
-| md5_10 | 714badd76f | 
-| md5 | 714badd76f7a08cc1678c18f7da02e99 | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | header | 
-| 3 size | 1_mm_jst_sh | 
-| 4 color |  | 
-| 5 description main | 5_pin | 
-| 6 description extra |  | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_conn_01x05_pin | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x05_pin//working/working.kicad_sym | 
-### Footprint  
-### Images  
+# Electronic Header 1 Mm Jst Sh 5 Pin
+oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin  
+
+short_code: h5p
+## naming details
+* classification -- electronic
+* type -- header
+* size -- 1_mm_jst_sh
+* color -- 
+* description_main -- 5_pin
+* description_extra -- 
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_conn_01x05_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin
+
+
+## footprint

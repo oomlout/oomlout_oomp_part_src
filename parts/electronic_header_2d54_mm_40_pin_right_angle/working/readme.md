@@ -1,44 +1,29 @@
-# OOMP Part  
-## Electronic Header 2D54 Mm 40 Pin Right Angle  
-  
-oomp key: oomp_electronic_header_2d54_mm_40_pin_right_angle  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Header 2D54 Mm 40 Pin Right Angle | 
-| full id | electronic_header_2d54_mm_40_pin_right_angle | 
-| short code | hi140pra | 
-| short link<br>(not yet working) | http://oom.lt/hi140pra<br>http://oom.lt/752d8 | 
-| oomp key | oomp_electronic_header_2d54_mm_40_pin_right_angle | 
-| md5_5 | 752d8 | 
-| md5_10 | 752d84fee1 | 
-| md5 | 752d84fee18d48c657993f0e03f1fabd | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | header | 
-| 3 size | 2d54_mm | 
-| 4 color |  | 
-| 5 description main | 40_pin | 
-| 6 description extra | right_angle | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_conn_01x40_pin | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x40_pin | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x40_pin//working/working.kicad_sym | 
-### Footprint  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical | 
-| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical | 
-| directory | oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical//working/working.kicad_mod | 
-### Images  
+# Electronic Header 2D54 Mm 40 Pin Right Angle
+oomp_key: oomp_electronic_header_2d54_mm_40_pin_right_angle  
+
+short_code: hi140pra
+## naming details
+* classification -- electronic
+* type -- header
+* size -- 2d54_mm
+* color -- 
+* description_main -- 40_pin
+* description_extra -- right_angle
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_conn_01x40_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x40_pin
+
+
+## footprint
+
+![](footprint/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical

@@ -1,39 +1,29 @@
-# OOMP Part  
-## Electronic Led 0603 Green  
-  
-oomp key: oomp_electronic_led_0603_green  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Led 0603 Green | 
-| full id | electronic_led_0603_green | 
-| short code | l6g | 
-| short link<br>(not yet working) | http://oom.lt/l6g<br>http://oom.lt/b4e82 | 
-| oomp key | oomp_electronic_led_0603_green | 
-| md5_5 | b4e82 | 
-| md5_10 | b4e8235ce2 | 
-| md5 | b4e8235ce213fd0badfc8ca2c6c558de | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | led | 
-| 3 size | 0603 | 
-| 4 color | green | 
-| 5 description main |  | 
-| 6 description extra |  | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_device_led | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym | 
-### Footprint  
-### Images  
+# Electronic Led 0603 Green
+oomp_key: oomp_electronic_led_0603_green  
+
+short_code: l6g
+## naming details
+* classification -- electronic
+* type -- led
+* size -- 0603
+* color -- green
+* description_main -- 
+* description_extra -- 
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_device_led
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+
+
+## footprint
+
+![](footprint/0/working/working_600.png)
+oomp_key: oomp_kicad_led_smd_led_0603_1608metric
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric

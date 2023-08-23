@@ -1,39 +1,25 @@
-# OOMP Part  
-## Electronic Header 2 Mm Jst Ph 3 Pin Surface Mount  
-  
-oomp key: oomp_electronic_header_2_mm_jst_ph_3_pin_surface_mount  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Header 2 Mm Jst Ph 3 Pin Surface Mount | 
-| full id | electronic_header_2_mm_jst_ph_3_pin_surface_mount | 
-| short code | h3psm | 
-| short link<br>(not yet working) | http://oom.lt/h3psm<br>http://oom.lt/b9b24 | 
-| oomp key | oomp_electronic_header_2_mm_jst_ph_3_pin_surface_mount | 
-| md5_5 | b9b24 | 
-| md5_10 | b9b24f0879 | 
-| md5 | b9b24f08799a3a30a9208d96970e6b28 | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | header | 
-| 3 size | 2_mm_jst_ph | 
-| 4 color |  | 
-| 5 description main | 3_pin | 
-| 6 description extra | surface_mount | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_conn_01x03_pin | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x03_pin | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x03_pin//working/working.kicad_sym | 
-### Footprint  
-### Images  
+# Electronic Header 2 Mm Jst Ph 3 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_mm_jst_ph_3_pin_surface_mount  
+
+short_code: h3psm
+## naming details
+* classification -- electronic
+* type -- header
+* size -- 2_mm_jst_ph
+* color -- 
+* description_main -- 3_pin
+* description_extra -- surface_mount
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_conn_01x03_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x03_pin
+
+
+## footprint

@@ -1,49 +1,33 @@
-# OOMP Part  
-## Electronic Header 2D54 Mm 16 Pin Surface Mount  
-  
-oomp key: oomp_electronic_header_2d54_mm_16_pin_surface_mount  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Header 2D54 Mm 16 Pin Surface Mount | 
-| full id | electronic_header_2d54_mm_16_pin_surface_mount | 
-| short code | hi116psm | 
-| short link<br>(not yet working) | http://oom.lt/hi116psm<br>http://oom.lt/e4279 | 
-| oomp key | oomp_electronic_header_2d54_mm_16_pin_surface_mount | 
-| md5_5 | e4279 | 
-| md5_10 | e427950102 | 
-| md5 | e427950102c1433d04fae138bd1d3010 | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | header | 
-| 3 size | 2d54_mm | 
-| 4 color |  | 
-| 5 description main | 16_pin | 
-| 6 description extra | surface_mount | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_conn_01x16_pin | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x16_pin | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x16_pin//working/working.kicad_sym | 
-### Footprint  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical | 
-| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical | 
-| directory | oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical//working/working.kicad_mod | 
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin | 
-| link | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin | 
-| directory | oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin//working/working.kicad_mod | 
-### Images  
+# Electronic Header 2D54 Mm 16 Pin Surface Mount
+oomp_key: oomp_electronic_header_2d54_mm_16_pin_surface_mount  
+
+short_code: hi116psm
+## naming details
+* classification -- electronic
+* type -- header
+* size -- 2d54_mm
+* color -- 
+* description_main -- 16_pin
+* description_extra -- surface_mount
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_conn_01x16_pin
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x16_pin
+
+
+## footprint
+
+![](footprint/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
+
+![](footprint/0/working/working_600.png)
+oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left

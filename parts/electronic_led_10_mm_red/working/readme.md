@@ -1,39 +1,29 @@
-# OOMP Part  
-## Electronic Led 10 Mm Red  
-  
-oomp key: oomp_electronic_led_10_mm_red  
-  
-### Part Details  
-  
-[![working.jpg](working_600.jpg)](working.jpg)  
-  
-#### Important Bits  
-| name | value | 
-| --- | --- | 
-| name | Electronic Led 10 Mm Red | 
-| full id | electronic_led_10_mm_red | 
-| short code | l10r | 
-| short link<br>(not yet working) | http://oom.lt/l10r<br>http://oom.lt/f3ee3 | 
-| oomp key | oomp_electronic_led_10_mm_red | 
-| md5_5 | f3ee3 | 
-| md5_10 | f3ee341dcc | 
-| md5 | f3ee341dcc022670fa172c7f658f6966 | 
-#### ID Composition  
-| name | value | 
-| --- | --- | 
-| 1 classification | electronic | 
-| 2 type | led | 
-| 3 size | 10_mm | 
-| 4 color | red | 
-| 5 description main |  | 
-| 6 description extra |  | 
-| 7 manufacturer |  | 
-| 8 part number |  | 
-### Symbol  
-| name | value | 
-| --- | --- | 
-| oomp_key | oomp_kicad_device_led | 
-| link | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led | 
-| directory | oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym | 
-### Footprint  
-### Images  
+# Electronic Led 10 Mm Red
+oomp_key: oomp_electronic_led_10_mm_red  
+
+short_code: l10r
+## naming details
+* classification -- electronic
+* type -- led
+* size -- 10_mm
+* color -- red
+* description_main -- 
+* description_extra -- 
+* manucaturer -- 
+* part_number -- 
+## pinout
+![](working_pinout_600.png)
+List of Pins:
+
+## symbol
+
+![](symbol/0/working/working_600.png)
+oomp_key: oomp_kicad_device_led
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+
+
+## footprint
+
+![](footprint/0/working/working_600.png)
+oomp_key: oomp_kicad_led_tht_led_d10_0mm
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
