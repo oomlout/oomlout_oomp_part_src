@@ -53,3 +53,4 @@ This is composed of up to eight parts. Not all parts are neccesary and are in fu
 * action_generate_readme.py -- generate the readmes using pelican
 * action_copy_footprints_and_symbols.py -- copy the footprint and symbol files to the right directory
 * action_generate_list_of_used_footprints_and_symbols.py -- make a yaml of the used footprints and symbols (used_footprints.yaml and used_symbols.yaml)
+* action_generate_readme_index.py -- generate the index for navigtaing the readmes
