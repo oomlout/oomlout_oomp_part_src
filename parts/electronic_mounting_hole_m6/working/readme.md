@@ -17,21 +17,21 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)
+![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_mechanical_mountinghole
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole
 
 
 ## footprint
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6

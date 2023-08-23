@@ -17,13 +17,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)
+![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x08_pin
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin
 
 
 ## footprint
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_jst_jst_sh_sm08b_srss_tb_1x08_1mp_p1_00mm_horizontal
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm08b_srss_tb_1x08_1mp_p1_00mm_horizontal

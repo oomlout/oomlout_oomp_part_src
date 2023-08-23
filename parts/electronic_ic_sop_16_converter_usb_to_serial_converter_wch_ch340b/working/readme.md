@@ -36,6 +36,6 @@ List of Pins:
 
 ## footprint
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm

@@ -17,13 +17,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)
+![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_generic_conn_02x08_odd_even
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x08_odd_even
 
 
 ## footprint
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical

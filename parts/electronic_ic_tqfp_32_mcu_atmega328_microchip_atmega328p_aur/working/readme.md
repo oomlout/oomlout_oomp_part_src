@@ -17,13 +17,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)
+![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
 
 
 ## footprint
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm

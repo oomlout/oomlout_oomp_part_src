@@ -47,13 +47,13 @@ List of Pins:
 * 30 : vin
 ## symbol
 
-![](symbol/0/working/working_600.png)
+![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x
 
 
 ## footprint
 
-![](footprint/0/working/working_600.png)
+![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes
