@@ -96,7 +96,7 @@ def create_symbol_library():
                 pins = sym.pins
                 for pin in pins:
                     index = pin.name.replace("Pin_", "")
-                    pin.name = "   " + part["pins"][index]["name"]
+                    pin.name = "   " + part["pins"][f"pin_{index}"]["name"]
         if symbol != None:
             #change the name
             symbol.pinNamesHide = False

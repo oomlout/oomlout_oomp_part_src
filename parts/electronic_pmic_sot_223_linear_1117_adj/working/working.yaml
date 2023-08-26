@@ -5,9 +5,9 @@ description_main: '1117'
 directory: parts/electronic_pmic_sot_223_linear_1117_adj
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-    oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
 id: electronic_pmic_sot_223_linear_1117_adj
 manufacturer: ''
 md5: cdc5644737274c72642f6d91b99a7aaa

@@ -11693,9 +11693,9 @@ electronic_pmic_sot_223_linear_1117_1_5_volt:
     directory: parts/electronic_pmic_sot_223_linear_1117_1_5_volt
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_1_5_volt
     make_files: true
     manufacturer: ''
@@ -11722,9 +11722,9 @@ electronic_pmic_sot_223_linear_1117_1_8_volt:
     directory: parts/electronic_pmic_sot_223_linear_1117_1_8_volt
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_1_8_volt
     make_files: true
     manufacturer: ''
@@ -11751,9 +11751,9 @@ electronic_pmic_sot_223_linear_1117_2_5_volt:
     directory: parts/electronic_pmic_sot_223_linear_1117_2_5_volt
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_2_5_volt
     make_files: true
     manufacturer: ''
@@ -11780,9 +11780,9 @@ electronic_pmic_sot_223_linear_1117_3_3_volt:
     directory: parts/electronic_pmic_sot_223_linear_1117_3_3_volt
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_3_3_volt
     make_files: true
     manufacturer: ''
@@ -11809,9 +11809,9 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_5_volt
     make_files: true
     manufacturer: ''
@@ -11838,9 +11838,9 @@ electronic_pmic_sot_223_linear_1117_adj:
     directory: parts/electronic_pmic_sot_223_linear_1117_adj
     distributors: []
     footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223
-        oomp_key: oomp_kicad_package_to_sot_smd_sot_223
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+        oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
     id: electronic_pmic_sot_223_linear_1117_adj
     make_files: true
     manufacturer: ''

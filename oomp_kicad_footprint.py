@@ -262,7 +262,7 @@ def get_footprints(**kwargs):
     ###### transistor and pmic sizes
     match = {}
     match["size"] = "sot_223"
-    match["footprint_name"] = f"kicad_package_to_sot_smd_sot_223"
+    match["footprint_name"] = f"kicad_package_to_sot_smd_sot_223_3_tabpin2"
     matches.append(match)  
     
 

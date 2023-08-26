@@ -6,7 +6,7 @@ import oom_kicad
 
 def main():
 
-    oomp.load_parts(from_yaml=True)   
+    oomp.load_parts(from_pickle=True)   
     
     for root, dirs, files in os.walk("parts"):
         #go through all files
