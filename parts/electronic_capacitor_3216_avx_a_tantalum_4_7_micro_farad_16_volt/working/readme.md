@@ -11,9 +11,6 @@ short_code: catuf4d716v
 * description_extra -- 16_volt
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C7187](https://lcsc.com/product-detail/C7187.html)  

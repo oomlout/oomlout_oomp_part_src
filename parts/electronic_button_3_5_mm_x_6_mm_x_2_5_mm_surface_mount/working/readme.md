@@ -11,9 +11,6 @@ short_code: b3560s
 * description_extra -- 
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C2845294](https://lcsc.com/product-detail/C2845294.html)  

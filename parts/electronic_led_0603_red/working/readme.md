@@ -11,9 +11,6 @@ short_code: l6r
 * description_extra -- 
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C965799](https://lcsc.com/product-detail/C965799.html)  

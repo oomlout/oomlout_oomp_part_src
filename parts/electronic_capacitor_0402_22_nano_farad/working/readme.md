@@ -11,9 +11,6 @@ short_code: c4nf22
 * description_extra -- 
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

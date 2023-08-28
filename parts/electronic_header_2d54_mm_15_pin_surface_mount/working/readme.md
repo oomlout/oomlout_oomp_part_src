@@ -11,9 +11,6 @@ short_code: hi115psm
 * description_extra -- surface_mount
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

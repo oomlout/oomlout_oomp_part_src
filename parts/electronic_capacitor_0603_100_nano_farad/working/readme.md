@@ -11,9 +11,6 @@ short_code: c6nf100
 * description_extra -- 
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C14663A](https://lcsc.com/product-detail/C14663A.html)  

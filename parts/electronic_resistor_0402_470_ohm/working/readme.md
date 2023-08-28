@@ -11,9 +11,6 @@ short_code: r4o471
 * description_extra -- 
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

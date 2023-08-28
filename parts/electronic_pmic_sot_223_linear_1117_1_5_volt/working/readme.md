@@ -11,9 +11,6 @@ short_code: pms22311171d5v
 * description_extra -- 1_5_volt
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

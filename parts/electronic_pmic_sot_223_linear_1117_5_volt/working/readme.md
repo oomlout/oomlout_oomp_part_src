@@ -11,9 +11,6 @@ short_code: pms22311175v
 * description_extra -- 5_volt
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C347223](https://lcsc.com/product-detail/C347223.html)  

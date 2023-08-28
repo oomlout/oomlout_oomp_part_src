@@ -11,9 +11,6 @@ short_code: h9psmra
 * description_extra -- surface_mount_right_angle
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

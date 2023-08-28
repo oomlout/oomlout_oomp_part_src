@@ -11,9 +11,6 @@ short_code: imlf32at328
 * description_extra -- 
 * manucaturer -- microchip
 * part_number -- atmega328p_mu
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

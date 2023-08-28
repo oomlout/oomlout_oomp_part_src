@@ -11,9 +11,6 @@ short_code: hi11pra
 * description_extra -- right_angle
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

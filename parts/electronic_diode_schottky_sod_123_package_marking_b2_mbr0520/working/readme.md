@@ -11,9 +11,6 @@ short_code: dssod123pmb2
 * description_extra -- package_marking_b2
 * manucaturer -- 
 * part_number -- mbr0520
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C77335](https://lcsc.com/product-detail/C77335.html)  

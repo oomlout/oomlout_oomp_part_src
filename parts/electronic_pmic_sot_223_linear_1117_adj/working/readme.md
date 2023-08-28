@@ -11,9 +11,6 @@ short_code: pms2231117
 * description_extra -- adj
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

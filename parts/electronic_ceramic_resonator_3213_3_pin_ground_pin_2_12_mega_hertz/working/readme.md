@@ -11,9 +11,6 @@ short_code: xcr3213mhz12
 * description_extra -- 
 * manucaturer -- 
 * part_number -- 
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C341520](https://lcsc.com/product-detail/C341520.html)  

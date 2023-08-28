@@ -11,9 +11,6 @@ short_code: iq28at328
 * description_extra -- 
 * manucaturer -- microchip
 * part_number -- atmega328p_mn
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 
 

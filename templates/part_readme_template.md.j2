@@ -11,10 +11,10 @@ short_code: {{ p.short_code }}
 * description_extra -- {{ p.description_extra }}
 * manucaturer -- {{ p.manufacturer }}
 * part_number -- {{ p.part_number }}
-## pinout
+{% if p.pins %}## pinout
 ![](working_pinout_600.png)  
 List of Pins:
-{% if p.pins %}{% for pin_name, pin_info in p.pins.items() %}
+{% for pin_name, pin_info in p.pins.items() %}
 * {{ pin_info.number }} : {{ pin_info.name }}{% endfor %}{% endif %}
 {% if p.distributors %}## distributors
 {% for distributor in p.distributors %}* [{{ distributor.name }}-{{ distributor.part_number }}]({{ distributor.link }})  

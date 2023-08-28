@@ -11,9 +11,6 @@ short_code: itq32at328
 * description_extra -- 
 * manucaturer -- microchip
 * part_number -- atmega328p_au
-## pinout
-![](working_pinout_600.png)  
-List of Pins:
 
 ## distributors
 * [LCSC-C14877](https://lcsc.com/product-detail/C14877.html)  
