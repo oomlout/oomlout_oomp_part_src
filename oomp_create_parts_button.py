@@ -32,9 +32,6 @@ def load_parts(**kwargs):
     
     
 
-    #add the part to the list of parts
-    parts.append(part_details)
-
     
     oomp.add_parts(parts, make_files=make_files)
     

@@ -31,12 +31,15 @@ List of Pins:
 * 14 : rts
 * 15 : rs232
 * 16 : vcc
+## distributors
+* [LCSC-c14267](https://lcsc.com/product-detail/c14267.html)  
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_interface_usb_ch340g  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340g/working  
-
 
 ## footprint
 

@@ -15,12 +15,20 @@ short_code: dssod123pmb2
 ![](working_pinout_600.png)  
 List of Pins:
 
+## distributors
+* [LCSC-C77335](https://lcsc.com/product-detail/C77335.html)  
+* [LCSC-C475717](https://lcsc.com/product-detail/C475717.html)  
+
+## manufacturers
+* [Jiangsu Changjing Electronics Technology Co., Ltd.-MBR0520]()  
+* [Shikues-MBR0520]()  
+* [onsemi-MBR0520LT3G]()  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_d_schottky  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d_schottky/working  
-
 
 ## footprint
 

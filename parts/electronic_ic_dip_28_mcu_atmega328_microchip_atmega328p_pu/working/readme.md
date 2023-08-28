@@ -15,12 +15,13 @@ short_code: id28at328
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328p_p  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328p_p/working  
-
 
 ## footprint
 

@@ -15,12 +15,17 @@ short_code: catuf4d716v
 ![](working_pinout_600.png)  
 List of Pins:
 
+## distributors
+* [LCSC-C7187](https://lcsc.com/product-detail/C7187.html)  
+
+## manufacturers
+* [Kyocera-TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ)  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_c_polarized  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized/working  
-
 
 ## footprint
 

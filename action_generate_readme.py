@@ -21,10 +21,7 @@ def main(**kwargs):
         ##### sanitize part
         import copy
         part2 = copy.deepcopy(part)
-        check_items = ["pins", "footprint", "symbol"]
-        for check_item in check_items:
-            if check_item not in part2:
-                part2[check_item] = {}
+        
         
 
 

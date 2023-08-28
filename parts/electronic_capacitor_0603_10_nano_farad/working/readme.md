@@ -15,12 +15,15 @@ short_code: c6nf10
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+## manufacturers
+* [Yageo-CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
-
 
 ## footprint
 

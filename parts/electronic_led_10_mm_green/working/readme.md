@@ -15,12 +15,13 @@ short_code: l10g
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
-
 
 ## footprint
 

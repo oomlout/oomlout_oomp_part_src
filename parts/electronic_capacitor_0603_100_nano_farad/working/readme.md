@@ -15,12 +15,19 @@ short_code: c6nf100
 ![](working_pinout_600.png)  
 List of Pins:
 
+## distributors
+* [LCSC-C14663A](https://lcsc.com/product-detail/C14663A.html)  
+* [LCSC-C30926](https://lcsc.com/product-detail/C30926.html)  
+
+## manufacturers
+* [Samsung-CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNNC)  
+* [Yageo-CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104)  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
-
 
 ## footprint
 

@@ -1,5 +1,5 @@
-# Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmhr
-oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr  
+# Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
+oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh  
 
 short_code: ivq28at328
 ## naming details
@@ -10,16 +10,12 @@ short_code: ivq28at328
 * description_main -- atmega328
 * description_extra -- 
 * manucaturer -- microchip
-* part_number -- atmega328p_mmhr
+* part_number -- atmega328p_mmh
 ## pinout
 ![](working_pinout_600.png)  
 List of Pins:
 
-## symbol
 
-![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm  
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm/working  
 
 
 ## footprint

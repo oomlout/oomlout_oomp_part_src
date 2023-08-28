@@ -21,12 +21,13 @@ List of Pins:
 * 4 : id
 * 5 : gnd
 * 6 : shield
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_b_mini  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini/working  
-
 
 ## footprint
 

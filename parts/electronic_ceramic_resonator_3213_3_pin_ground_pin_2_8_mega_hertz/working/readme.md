@@ -15,12 +15,13 @@ short_code: xcr3213mhz8
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_crystal_gnd2  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2/working  
-
 
 ## footprint
 

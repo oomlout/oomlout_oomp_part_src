@@ -16,12 +16,15 @@ short_code: c6pf22
 List of Pins:
 
 
+## manufacturers
+* [HCTL-TC-3601L-2.5-260G]()  
+* [Yageo-CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
-
 
 ## footprint
 

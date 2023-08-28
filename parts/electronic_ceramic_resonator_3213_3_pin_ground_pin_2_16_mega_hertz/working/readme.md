@@ -15,12 +15,17 @@ short_code: xcr3213mhz16
 ![](working_pinout_600.png)  
 List of Pins:
 
+## distributors
+* [LCSC-C882605](https://lcsc.com/product-detail/C882605.html)  
+
+## manufacturers
+* [Murata-CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0)  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_crystal_gnd2  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2/working  
-
 
 ## footprint
 

@@ -31,7 +31,9 @@ List of Pins:
 * 14 : rts
 * 15 : tnow
 * 16 : vcc
-## symbol
+## distributors
+* [LCSC-c81010](https://lcsc.com/product-detail/c81010.html)  
+
 
 
 ## footprint

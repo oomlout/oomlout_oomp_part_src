@@ -49,10 +49,13 @@ def load_parts(**kwargs):
     filter = kwargs.get("filter", "")
     add_part_filter = filter
     if from_pickle:
+        print ("loading parts from pickle")
         oomp_create_parts.load_parts_from_pickle(**kwargs)
     elif from_yaml:
+        print ("loading parts from yaml")
         oomp_create_parts.load_parts_from_yaml(**kwargs)
     else:
+        print ("loading parts from module")
         oomp_create_parts.load_parts(**kwargs)
 
 def save_parts(**kwargs):

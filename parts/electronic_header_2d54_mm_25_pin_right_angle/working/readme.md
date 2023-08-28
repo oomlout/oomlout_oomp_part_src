@@ -15,12 +15,13 @@ short_code: hi125pra
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x25_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x25_pin/working  
-
 
 ## footprint
 

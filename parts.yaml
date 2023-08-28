@@ -164,10 +164,6 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
         link: https://lcsc.com/product-detail/C2845294.html
         name: LCSC
         part_number: C2845294
-    -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/C2845294.html
-        name: LCSC
-        part_number: C2845294
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs

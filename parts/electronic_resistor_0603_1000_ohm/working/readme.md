@@ -15,12 +15,16 @@ short_code: r6o102
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+## manufacturers
+* [Uniroyal-0603WAF1001T5E]()  
+* [Yageo-RC0603FR-071KL](https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-071KL)  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
-
 
 ## footprint
 

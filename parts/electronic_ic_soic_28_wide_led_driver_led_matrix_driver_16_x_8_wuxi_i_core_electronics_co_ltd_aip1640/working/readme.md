@@ -43,7 +43,7 @@ List of Pins:
 * 26 : grid9
 * 27 : grid10
 * 28 : grid11
-## symbol
+
 
 
 ## footprint

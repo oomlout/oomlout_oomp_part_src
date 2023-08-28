@@ -15,12 +15,17 @@ short_code: l6r
 ![](working_pinout_600.png)  
 List of Pins:
 
+## distributors
+* [LCSC-C965799](https://lcsc.com/product-detail/C965799.html)  
+
+## manufacturers
+* [XINGLIGHT-XL-1608SURC-06]()  
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
-
 
 ## footprint
 

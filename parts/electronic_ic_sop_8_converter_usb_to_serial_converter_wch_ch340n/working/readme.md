@@ -23,7 +23,8 @@ List of Pins:
 * 6 : txd
 * 7 : rxd
 * 8 : v3
-## symbol
+## distributors
+* [LCSC-c2977777](https://lcsc.com/product-detail/c2977777.html)  
 
 
-## footprint
+

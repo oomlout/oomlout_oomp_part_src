@@ -1,5 +1,5 @@
-# Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
-oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur  
+# Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
+oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu  
 
 short_code: imlf32at328
 ## naming details
@@ -10,16 +10,12 @@ short_code: imlf32at328
 * description_main -- atmega328
 * description_extra -- 
 * manucaturer -- microchip
-* part_number -- atmega328p_mur
+* part_number -- atmega328p_mu
 ## pinout
 ![](working_pinout_600.png)  
 List of Pins:
 
-## symbol
 
-![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m  
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m/working  
 
 
 ## footprint

@@ -15,14 +15,8 @@ short_code: b3560s
 ![](working_pinout_600.png)  
 List of Pins:
 
-
 ## distributors
-
-* [lcsc]()  
-
-* [LCSC](https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html)  
-
-* [LCSC](https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html)  
+* [LCSC-C2845294](https://lcsc.com/product-detail/C2845294.html)  
 
 
 ## symbol
@@ -30,7 +24,6 @@ List of Pins:
 ![](symbol/0/working/working_600.png)  
 oomp_key: oomp_kicad_switch_sw_push  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push/working  
-
 
 ## footprint
 
