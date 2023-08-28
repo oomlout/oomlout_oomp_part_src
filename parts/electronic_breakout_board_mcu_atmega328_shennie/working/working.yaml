@@ -12,6 +12,7 @@ footprint:
 id: electronic_breakout_board_mcu_atmega328_shennie
 kicad_reference: U
 manufacturer: ''
+manufacturers: []
 md5: 09dfb71639ea7f3aaca031501c5571c4
 md5_10: 09dfb71639
 md5_5: 09dfb

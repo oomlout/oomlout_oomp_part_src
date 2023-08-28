@@ -11,6 +11,7 @@ distributors:
 id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
 kicad_reference: U
 manufacturer: wch
+manufacturers: []
 md5: 720e79ba82a5c6f254f73ddb976ddcc2
 md5_10: 720e79ba82
 md5_5: 720e7

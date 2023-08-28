@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_resistor_0402_100_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: 5115eb5c6144e661f58cec2948671275
 md5_10: 5115eb5c61
 md5_5: 5115e

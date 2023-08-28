@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 kicad_reference: D
 manufacturer: ''
+manufacturers: []
 md5: fd1bfba95edbbb6f03cb0e465b2a0493
 md5_10: fd1bfba95e
 md5_5: fd1bf

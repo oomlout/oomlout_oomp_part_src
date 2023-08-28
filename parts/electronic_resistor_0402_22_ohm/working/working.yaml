@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_resistor_0402_22_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: 6475a296bea487c84aca85f43c15a4da
 md5_10: 6475a296be
 md5_5: 6475a

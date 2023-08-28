@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_led_10_mm
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: bab4a73f335cebcc40b339010dc83b72
 md5_10: bab4a73f33
 md5_5: bab4a

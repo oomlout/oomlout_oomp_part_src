@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_0805_180_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: 40b16c7f97bab9d7362c6d9e91699e2f
 md5_10: 40b16c7f97
 md5_5: 40b16

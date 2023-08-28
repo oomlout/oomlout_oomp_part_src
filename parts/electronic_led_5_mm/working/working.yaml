@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_led_5_mm
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: 7297cd778d1471689ae0db398d716719
 md5_10: 7297cd778d
 md5_5: 7297c

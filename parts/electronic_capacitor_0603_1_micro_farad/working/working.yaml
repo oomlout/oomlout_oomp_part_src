@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_capacitor_0603_1_micro_farad
 kicad_reference: C
 manufacturer: ''
+manufacturers: []
 md5: e7a23d9cf44072293b500995f0cdb585
 md5_10: e7a23d9cf4
 md5_5: e7a23

@@ -1,0 +1,30 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4_7_micro_farad
+directory: parts/electronic_capacitor_0603_4_7_micro_farad
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
+    oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
+from_yaml: false
+id: electronic_capacitor_0603_4_7_micro_farad
+kicad_reference: C
+manufacturer: ''
+manufacturers: []
+md5: 6ab38cdcab2221adc1a931e09497a8b8
+md5_10: 6ab38cdcab
+md5_5: 6ab38
+md5_6: 6ab38c
+name: Electronic Capacitor 0603 4 7 Micro Farad
+oomp_key: oomp_electronic_capacitor_0603_4_7_micro_farad
+part_number: ''
+short_code: c6uf4d7
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
+type: capacitor

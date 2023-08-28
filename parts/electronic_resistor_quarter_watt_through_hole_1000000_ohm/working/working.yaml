@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_quarter_watt_through_hole_1000000_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: e1e9e50cbb6b8502cd89c50387dce983
 md5_10: e1e9e50cbb
 md5_5: e1e9e

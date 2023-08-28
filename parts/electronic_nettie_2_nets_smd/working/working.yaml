@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_nettie_2_nets_smd
 kicad_reference: ''
 manufacturer: ''
+manufacturers: []
 md5: 4ef35d1f2d790456123942109a5f27e9
 md5_10: 4ef35d1f2d
 md5_5: 4ef35

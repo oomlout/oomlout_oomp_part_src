@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_nettie_3_nets_through_hole
 kicad_reference: ''
 manufacturer: ''
+manufacturers: []
 md5: bfa6ff6edd982b6107b4a71433ca5d67
 md5_10: bfa6ff6edd
 md5_5: bfa6f

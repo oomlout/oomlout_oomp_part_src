@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_led_0201_blue
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: d0617d68781887fb57b1a60020a83dc5
 md5_10: d0617d6878
 md5_5: d0617

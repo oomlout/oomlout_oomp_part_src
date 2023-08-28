@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_nettie_4_nets_smd
 kicad_reference: ''
 manufacturer: ''
+manufacturers: []
 md5: cd720732d76fb973d0de468f71781e99
 md5_10: cd720732d7
 md5_5: cd720

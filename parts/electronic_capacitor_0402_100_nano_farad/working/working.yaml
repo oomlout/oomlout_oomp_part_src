@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_capacitor_0402_100_nano_farad
 kicad_reference: C
 manufacturer: ''
+manufacturers: []
 md5: 59771c4331f6c67b3f60f46b5ec35ee3
 md5_10: 59771c4331
 md5_5: '59771'

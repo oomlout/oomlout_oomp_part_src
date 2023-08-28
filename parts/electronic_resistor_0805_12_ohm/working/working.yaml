@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_0805_12_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: 092133c2583796ec0be32fc203288dc9
 md5_10: 092133c258
 md5_5: 09213

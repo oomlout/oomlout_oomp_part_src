@@ -37,19 +37,19 @@ def load_parts(**kwargs):
     
     part_details = copy.deepcopy(part_details)
     part_details["size"] = ["vqfn_28"]
-    part_details["part_number"] = "atmega328p_mmhr"
+    part_details["part_number"] = "atmega328p_mmh"
     part_details["short_name"] = "atmega328 28 pin vqfn"
     parts.append(part_details) 
     
     part_details = copy.deepcopy(part_details)
     part_details["size"] = ["mlf_32"]
-    part_details["part_number"] = "atmega328p_mur"
+    part_details["part_number"] = "atmega328p_mu"
     part_details["short_name"] = "atmega328 32 pin mlf"
     parts.append(part_details)    
     
     part_details = copy.deepcopy(part_details)
     part_details["size"] = ["tqfp_32"]
-    part_details["part_number"] = "atmega328p_aur"
+    part_details["part_number"] = "atmega328p_au"
     part_details["short_name"] = "atmega328 32 pin tqfp"
     parts.append(part_details) 
 

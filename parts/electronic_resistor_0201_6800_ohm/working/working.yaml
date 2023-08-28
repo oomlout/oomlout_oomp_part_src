@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_resistor_0201_6800_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: 6e61e24408adf26324121374f4a51478
 md5_10: 6e61e24408
 md5_5: 6e61e

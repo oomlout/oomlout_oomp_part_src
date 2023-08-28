@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_capacitor_0603_22_pico_farad
 kicad_reference: C
 manufacturer: ''
+manufacturers: []
 md5: ed43fc9f13c024e0a26ef47e97a61fd1
 md5_10: ed43fc9f13
 md5_5: ed43f

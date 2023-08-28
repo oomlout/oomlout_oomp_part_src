@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_led_3_mm_green
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: 6b2621821d0a1bfef913831a2f11c3b5
 md5_10: 6b2621821d
 md5_5: 6b262

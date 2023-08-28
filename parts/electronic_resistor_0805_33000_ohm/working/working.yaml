@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_0805_33000_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: ce98ee403690bd5c44c51168006c182c
 md5_10: ce98ee4036
 md5_5: ce98e

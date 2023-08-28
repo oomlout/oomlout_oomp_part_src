@@ -11,6 +11,7 @@ distributors:
 id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 kicad_reference: U
 manufacturer: wch
+manufacturers: []
 md5: e07223f3446f9e6a9ed62db546344b87
 md5_10: e07223f344
 md5_5: e0722

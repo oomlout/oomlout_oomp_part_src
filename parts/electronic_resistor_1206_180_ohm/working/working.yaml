@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_1206_180_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: ac299614ff01d7d9bfd57fe84a5cfdc2
 md5_10: ac299614ff
 md5_5: ac299

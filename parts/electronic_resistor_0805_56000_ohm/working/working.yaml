@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_0805_56000_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: f38d53888801644b112fc29416c4fa79
 md5_10: f38d538888
 md5_5: f38d5

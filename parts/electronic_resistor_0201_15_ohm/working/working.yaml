@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_resistor_0201_15_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: e705cf7eb744a8901eaa82a07577c10e
 md5_10: e705cf7eb7
 md5_5: e705c

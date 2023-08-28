@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
 kicad_reference: x
 manufacturer: ''
+manufacturers: []
 md5: fbf4f6bd8d89a3cb1a67c8e2973297b3
 md5_10: fbf4f6bd8d
 md5_5: fbf4f

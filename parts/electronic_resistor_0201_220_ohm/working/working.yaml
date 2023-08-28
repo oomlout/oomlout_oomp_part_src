@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_resistor_0201_220_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: b238f1f80dd2adc471784e231c1f543c
 md5_10: b238f1f80d
 md5_5: b238f

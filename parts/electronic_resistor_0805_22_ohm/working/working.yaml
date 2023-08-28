@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_0805_22_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: c33a61c68af64528846264e1c3e8f986
 md5_10: c33a61c68a
 md5_5: c33a6

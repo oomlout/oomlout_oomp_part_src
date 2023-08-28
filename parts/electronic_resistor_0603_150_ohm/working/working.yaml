@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_resistor_0603_150_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: 84ae3b7d321743959fbe1139ae63bfc2
 md5_10: 84ae3b7d32
 md5_5: 84ae3

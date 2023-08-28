@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_led_0603_blue
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: 9674f50c150069fafacfa3671b299b20
 md5_10: 9674f50c15
 md5_5: 9674f

@@ -14,6 +14,7 @@ electronic_breakout_board_mcu_atmega328_shennie:
     kicad_reference: U
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 09dfb71639ea7f3aaca031501c5571c4
     md5_10: 09dfb71639
     md5_5: 09dfb
@@ -168,6 +169,7 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
     id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: daac5353b33e60c79876e2262b80147e
     md5_10: daac5353b3
     md5_5: daac5
@@ -200,6 +202,7 @@ electronic_capacitor_0402_100_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 59771c4331f6c67b3f60f46b5ec35ee3
     md5_10: 59771c4331
     md5_5: '59771'
@@ -231,6 +234,7 @@ electronic_capacitor_0402_10_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6ab82773a09b6f3ae48a4a64e5fcce7c
     md5_10: 6ab82773a0
     md5_5: 6ab82
@@ -262,6 +266,7 @@ electronic_capacitor_0402_1_micro_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 161ca70ef0437b6bc72debadd501c34f
     md5_10: 161ca70ef0
     md5_5: 161ca
@@ -293,6 +298,7 @@ electronic_capacitor_0402_22_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1680a357aabbe40624f196a667c0e274
     md5_10: 1680a357aa
     md5_5: 1680a
@@ -324,6 +330,7 @@ electronic_capacitor_0402_22_pico_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8008269b2a82f75ac1033a8691959122
     md5_10: 8008269b2a
     md5_5: '80082'
@@ -355,6 +362,7 @@ electronic_capacitor_0603_100_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8cfd91c8b4af505f5c4d796bc12d1d16
     md5_10: 8cfd91c8b4
     md5_5: 8cfd9
@@ -369,12 +377,12 @@ electronic_capacitor_0603_100_nano_farad:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
         oomp_key: oomp_kicad_device_c
     type: capacitor
-electronic_capacitor_0603_10_micro_farad4_7_micro_farad:
+electronic_capacitor_0603_10_micro_farad:
     classification: electronic
     color: ''
     description_extra: ''
-    description_main: 10_micro_farad4_7_micro_farad
-    directory: parts/electronic_capacitor_0603_10_micro_farad4_7_micro_farad
+    description_main: 10_micro_farad
+    directory: parts/electronic_capacitor_0603_10_micro_farad
     distributors: []
     filter: ''
     footprint:
@@ -382,18 +390,19 @@ electronic_capacitor_0603_10_micro_farad4_7_micro_farad:
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
         oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
     from_yaml: false
-    id: electronic_capacitor_0603_10_micro_farad4_7_micro_farad
+    id: electronic_capacitor_0603_10_micro_farad
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    md5: be7c1e20e446c9bc83182d3701e8cc03
-    md5_10: be7c1e20e4
-    md5_5: be7c1
-    md5_6: be7c1e
-    name: Electronic Capacitor 0603 10 Micro Farad4 7 Micro Farad
-    oomp_key: oomp_electronic_capacitor_0603_10_micro_farad4_7_micro_farad
+    manufacturers: []
+    md5: 01a6930e31d97cf8bcaabfe951e94821
+    md5_10: 01a6930e31
+    md5_5: 01a69
+    md5_6: 01a693
+    name: Electronic Capacitor 0603 10 Micro Farad
+    oomp_key: oomp_electronic_capacitor_0603_10_micro_farad
     part_number: ''
-    short_code: c6
+    short_code: c6uf10
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -417,6 +426,7 @@ electronic_capacitor_0603_10_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 33c290430a925ac7c87bd31db1d1a8b7
     md5_10: 33c290430a
     md5_5: 33c29
@@ -448,6 +458,7 @@ electronic_capacitor_0603_1_micro_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e7a23d9cf44072293b500995f0cdb585
     md5_10: e7a23d9cf4
     md5_5: e7a23
@@ -479,6 +490,7 @@ electronic_capacitor_0603_22_pico_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ed43fc9f13c024e0a26ef47e97a61fd1
     md5_10: ed43fc9f13
     md5_5: ed43f
@@ -487,6 +499,38 @@ electronic_capacitor_0603_22_pico_farad:
     oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
     part_number: ''
     short_code: c6pf22
+    size: '0603'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+        oomp_key: oomp_kicad_device_c
+    type: capacitor
+electronic_capacitor_0603_4_7_micro_farad:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 4_7_micro_farad
+    directory: parts/electronic_capacitor_0603_4_7_micro_farad
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
+        oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
+    from_yaml: false
+    id: electronic_capacitor_0603_4_7_micro_farad
+    kicad_reference: C
+    make_files: true
+    manufacturer: ''
+    manufacturers: []
+    md5: 6ab38cdcab2221adc1a931e09497a8b8
+    md5_10: 6ab38cdcab
+    md5_5: 6ab38
+    md5_6: 6ab38c
+    name: Electronic Capacitor 0603 4 7 Micro Farad
+    oomp_key: oomp_electronic_capacitor_0603_4_7_micro_farad
+    part_number: ''
+    short_code: c6uf4d7
     size: '0603'
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
@@ -510,6 +554,7 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     kicad_reference: C
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 951eebab538d3a391eb9ef33560a6b6b
     md5_10: 951eebab53
     md5_5: 951ee
@@ -541,6 +586,7 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz:
     kicad_reference: x
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7a66154160ed05623cf4b7ab5853ac4e
     md5_10: 7a66154160
     md5_5: 7a661
@@ -572,6 +618,7 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz:
     kicad_reference: x
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ebaebba3b264fd4a342d970d6a4f461e
     md5_10: ebaebba3b2
     md5_5: ebaeb
@@ -603,6 +650,7 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz:
     kicad_reference: x
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fbf4f6bd8d89a3cb1a67c8e2973297b3
     md5_10: fbf4f6bd8d
     md5_5: fbf4f
@@ -634,6 +682,7 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     kicad_reference: D
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fd1bfba95edbbb6f03cb0e465b2a0493
     md5_10: fd1bfba95e
     md5_5: fd1bf
@@ -659,6 +708,7 @@ electronic_header_1_mm_jst_sh_10_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 57d506f85244f4a71a57323b59701090
     md5_10: 57d506f852
     md5_5: 57d50
@@ -685,6 +735,7 @@ electronic_header_1_mm_jst_sh_10_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b29134715ec9520e144241713de7770d
     md5_10: b29134715e
     md5_5: b2913
@@ -711,6 +762,7 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c55a433e60de35223d8099ac380205d3
     md5_10: c55a433e60
     md5_5: c55a4
@@ -741,6 +793,7 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a5d918c0b8320b129ac488715bf4593a
     md5_10: a5d918c0b8
     md5_5: a5d91
@@ -767,6 +820,7 @@ electronic_header_1_mm_jst_sh_1_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6802ab9f6ce96bfafad7d6a675cc7c08
     md5_10: 6802ab9f6c
     md5_5: 6802a
@@ -793,6 +847,7 @@ electronic_header_1_mm_jst_sh_1_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 65ccd09e22a6b02da63cb65d00fec88f
     md5_10: 65ccd09e22
     md5_5: 65ccd
@@ -819,6 +874,7 @@ electronic_header_1_mm_jst_sh_1_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d0f7f3cdd0eeb2da71aabcfd93443ac4
     md5_10: d0f7f3cdd0
     md5_5: d0f7f
@@ -845,6 +901,7 @@ electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d8e443f92a459c58d71e5dd9f47b25a2
     md5_10: d8e443f92a
     md5_5: d8e44
@@ -871,6 +928,7 @@ electronic_header_1_mm_jst_sh_2_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fec2957096997053cf9962f7c46b04c8
     md5_10: fec2957096
     md5_5: fec29
@@ -897,6 +955,7 @@ electronic_header_1_mm_jst_sh_2_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e1c3b4135fabc281b9fdf1541019eaed
     md5_10: e1c3b4135f
     md5_5: e1c3b
@@ -923,6 +982,7 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 27353995e7b694fe8ee36a94261c618a
     md5_10: 27353995e7
     md5_5: '27353'
@@ -953,6 +1013,7 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b2ef5e80cc3cc2efc7191be597c89007
     md5_10: b2ef5e80cc
     md5_5: b2ef5
@@ -979,6 +1040,7 @@ electronic_header_1_mm_jst_sh_3_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 384a99b5042511933c8c5e6e404b87ee
     md5_10: 384a99b504
     md5_5: 384a9
@@ -1005,6 +1067,7 @@ electronic_header_1_mm_jst_sh_3_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 670fe01a6afe6a7ad83f6af973e5d291
     md5_10: 670fe01a6a
     md5_5: 670fe
@@ -1031,6 +1094,7 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4f48be0f10f6f95f2e37222254faae42
     md5_10: 4f48be0f10
     md5_5: 4f48b
@@ -1061,6 +1125,7 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f8650f316ba5d2c2484f5444500fcf5a
     md5_10: f8650f316b
     md5_5: f8650
@@ -1087,6 +1152,7 @@ electronic_header_1_mm_jst_sh_4_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5088c2e57626fa5b0ec774e3c713a8c2
     md5_10: 5088c2e576
     md5_5: 5088c
@@ -1113,6 +1179,7 @@ electronic_header_1_mm_jst_sh_4_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 06dbbbc8d092a132d691c78f606ba9f9
     md5_10: 06dbbbc8d0
     md5_5: 06dbb
@@ -1139,6 +1206,7 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a679e860a819577244ae5cd400e79203
     md5_10: a679e860a8
     md5_5: a679e
@@ -1169,6 +1237,7 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: adfe7739de3f358940b6ffe82829763f
     md5_10: adfe7739de
     md5_5: adfe7
@@ -1195,6 +1264,7 @@ electronic_header_1_mm_jst_sh_5_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 714badd76f7a08cc1678c18f7da02e99
     md5_10: 714badd76f
     md5_5: 714ba
@@ -1221,6 +1291,7 @@ electronic_header_1_mm_jst_sh_5_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f03a372d9b46004ab957dcca0304085a
     md5_10: f03a372d9b
     md5_5: f03a3
@@ -1247,6 +1318,7 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c820e730a0b4955cce9ffd4df166c7c6
     md5_10: c820e730a0
     md5_5: c820e
@@ -1277,6 +1349,7 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: af554da37be509b88081a95a39cfeda0
     md5_10: af554da37b
     md5_5: af554
@@ -1303,6 +1376,7 @@ electronic_header_1_mm_jst_sh_6_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 15eb691df3ff9f9145747978a073ebe9
     md5_10: 15eb691df3
     md5_5: 15eb6
@@ -1329,6 +1403,7 @@ electronic_header_1_mm_jst_sh_6_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 20e505db1433c088797f25e39a563357
     md5_10: 20e505db14
     md5_5: 20e50
@@ -1355,6 +1430,7 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 60628a62dc19146d0dc1b7f8792dfb76
     md5_10: 60628a62dc
     md5_5: '60628'
@@ -1385,6 +1461,7 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a5fcbe77cce947fd19b46eec74179034
     md5_10: a5fcbe77cc
     md5_5: a5fcb
@@ -1411,6 +1488,7 @@ electronic_header_1_mm_jst_sh_7_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3901b74f0bcfec5408951580f4702d1c
     md5_10: 3901b74f0b
     md5_5: 3901b
@@ -1437,6 +1515,7 @@ electronic_header_1_mm_jst_sh_7_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e7fdd701cbaf13aa88b9e6243e3ed2aa
     md5_10: e7fdd701cb
     md5_5: e7fdd
@@ -1463,6 +1542,7 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 197c8f4709f8257a15b2f554b2d11f85
     md5_10: 197c8f4709
     md5_5: 197c8
@@ -1493,6 +1573,7 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9ca7b3f936efc0aaf745cecc64c2a58d
     md5_10: 9ca7b3f936
     md5_5: 9ca7b
@@ -1519,6 +1600,7 @@ electronic_header_1_mm_jst_sh_8_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a8dffcc55fb8006eedaacf8f3b6bd02f
     md5_10: a8dffcc55f
     md5_5: a8dff
@@ -1545,6 +1627,7 @@ electronic_header_1_mm_jst_sh_8_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3be4e77298bc44507195be010d72835a
     md5_10: 3be4e77298
     md5_5: 3be4e
@@ -1571,6 +1654,7 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ff3161c7d8f065f7f00bf6bf9c79e3d4
     md5_10: ff3161c7d8
     md5_5: ff316
@@ -1601,6 +1685,7 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5edabfa81f30624211df279c1553de3c
     md5_10: 5edabfa81f
     md5_5: 5edab
@@ -1627,6 +1712,7 @@ electronic_header_1_mm_jst_sh_9_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9f53b9d18c6e26867ede74e3628c96bc
     md5_10: 9f53b9d18c
     md5_5: 9f53b
@@ -1653,6 +1739,7 @@ electronic_header_1_mm_jst_sh_9_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8eeca8f7b26c1eda6d04b142e414d9ae
     md5_10: 8eeca8f7b2
     md5_5: 8eeca
@@ -1679,6 +1766,7 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3392cfc59fa2610bf5afa029c396cd3b
     md5_10: 3392cfc59f
     md5_5: 3392c
@@ -1709,6 +1797,7 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b3b7ebe08ada490a5787e2e427a8b0a7
     md5_10: b3b7ebe08a
     md5_5: b3b7e
@@ -1735,6 +1824,7 @@ electronic_header_2_mm_jst_ph_10_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c6c034e070cd314d8561c3681dc7eb97
     md5_10: c6c034e070
     md5_5: c6c03
@@ -1761,6 +1851,7 @@ electronic_header_2_mm_jst_ph_10_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d4bd146c29393c4d78a82d3a00313082
     md5_10: d4bd146c29
     md5_5: d4bd1
@@ -1787,6 +1878,7 @@ electronic_header_2_mm_jst_ph_10_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fc71a1f318a0e14506620a2e3d220604
     md5_10: fc71a1f318
     md5_5: fc71a
@@ -1813,6 +1905,7 @@ electronic_header_2_mm_jst_ph_10_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9b922dc6f57f204818d5744743039a31
     md5_10: 9b922dc6f5
     md5_5: 9b922
@@ -1839,6 +1932,7 @@ electronic_header_2_mm_jst_ph_1_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6f8d9ec42defa247403cdaffd1189a68
     md5_10: 6f8d9ec42d
     md5_5: 6f8d9
@@ -1865,6 +1959,7 @@ electronic_header_2_mm_jst_ph_1_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d26727a2974155d8ef02af1cc4127be3
     md5_10: d26727a297
     md5_5: d2672
@@ -1891,6 +1986,7 @@ electronic_header_2_mm_jst_ph_1_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2e0915a69a5123b6ca61706d100023a7
     md5_10: 2e0915a69a
     md5_5: 2e091
@@ -1917,6 +2013,7 @@ electronic_header_2_mm_jst_ph_1_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1d3aa3c042efdfb460a4829c727da25f
     md5_10: 1d3aa3c042
     md5_5: 1d3aa
@@ -1943,6 +2040,7 @@ electronic_header_2_mm_jst_ph_2_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f7ab959210105888f34f9c113808fb23
     md5_10: f7ab959210
     md5_5: f7ab9
@@ -1969,6 +2067,7 @@ electronic_header_2_mm_jst_ph_2_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1fb2e7ce38d437e9ef505394c3417363
     md5_10: 1fb2e7ce38
     md5_5: 1fb2e
@@ -1995,6 +2094,7 @@ electronic_header_2_mm_jst_ph_2_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fbbf10ca772afb76622597b3cfc02221
     md5_10: fbbf10ca77
     md5_5: fbbf1
@@ -2021,6 +2121,7 @@ electronic_header_2_mm_jst_ph_2_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 78e053ceac474be9b0d1da86e45eae46
     md5_10: 78e053ceac
     md5_5: 78e05
@@ -2047,6 +2148,7 @@ electronic_header_2_mm_jst_ph_3_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 23fb031c473daf067dba169e8adb7c01
     md5_10: 23fb031c47
     md5_5: 23fb0
@@ -2073,6 +2175,7 @@ electronic_header_2_mm_jst_ph_3_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 04a5524f47667596eef256662f84726d
     md5_10: 04a5524f47
     md5_5: 04a55
@@ -2099,6 +2202,7 @@ electronic_header_2_mm_jst_ph_3_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b9b24f08799a3a30a9208d96970e6b28
     md5_10: b9b24f0879
     md5_5: b9b24
@@ -2125,6 +2229,7 @@ electronic_header_2_mm_jst_ph_3_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4302011fa45e14f9fad312e9d39b85c5
     md5_10: 4302011fa4
     md5_5: '43020'
@@ -2151,6 +2256,7 @@ electronic_header_2_mm_jst_ph_4_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2bbcc2f726c680129660e2cc72b3bcb0
     md5_10: 2bbcc2f726
     md5_5: 2bbcc
@@ -2177,6 +2283,7 @@ electronic_header_2_mm_jst_ph_4_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7941c7b75a6af331af5cf75964844196
     md5_10: 7941c7b75a
     md5_5: 7941c
@@ -2203,6 +2310,7 @@ electronic_header_2_mm_jst_ph_4_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3913ab7f2f21ef39577157794f7ba4bf
     md5_10: 3913ab7f2f
     md5_5: 3913a
@@ -2229,6 +2337,7 @@ electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bec26d70f8870e40f4716fd0369e3d3f
     md5_10: bec26d70f8
     md5_5: bec26
@@ -2255,6 +2364,7 @@ electronic_header_2_mm_jst_ph_5_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7e927823021ec49d15a3c8910048322e
     md5_10: 7e92782302
     md5_5: 7e927
@@ -2281,6 +2391,7 @@ electronic_header_2_mm_jst_ph_5_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3914c3c1f19c55f06b7cfd729c73b737
     md5_10: 3914c3c1f1
     md5_5: 3914c
@@ -2307,6 +2418,7 @@ electronic_header_2_mm_jst_ph_5_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fd4631c77f96c9842c5a3f787de9674b
     md5_10: fd4631c77f
     md5_5: fd463
@@ -2333,6 +2445,7 @@ electronic_header_2_mm_jst_ph_5_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d07ec539edcb79ea438dc98f57fd172b
     md5_10: d07ec539ed
     md5_5: d07ec
@@ -2359,6 +2472,7 @@ electronic_header_2_mm_jst_ph_6_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4392b69dd57203e67cac8a32dfdf29af
     md5_10: 4392b69dd5
     md5_5: 4392b
@@ -2385,6 +2499,7 @@ electronic_header_2_mm_jst_ph_6_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e6da2b8c74228208fc51564f7999a55e
     md5_10: e6da2b8c74
     md5_5: e6da2
@@ -2411,6 +2526,7 @@ electronic_header_2_mm_jst_ph_6_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0dc3fdb738fbc2093d58e7ac61f1d2e6
     md5_10: 0dc3fdb738
     md5_5: 0dc3f
@@ -2437,6 +2553,7 @@ electronic_header_2_mm_jst_ph_6_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a6dacde032045b7a9a6554919bcea21c
     md5_10: a6dacde032
     md5_5: a6dac
@@ -2463,6 +2580,7 @@ electronic_header_2_mm_jst_ph_7_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 537c1c1544838a04341dd997f633fa22
     md5_10: 537c1c1544
     md5_5: 537c1
@@ -2489,6 +2607,7 @@ electronic_header_2_mm_jst_ph_7_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 35c45080f20bbbe012093d7649b029e2
     md5_10: 35c45080f2
     md5_5: 35c45
@@ -2515,6 +2634,7 @@ electronic_header_2_mm_jst_ph_7_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 616448a8cb679820af237eb9ecbf3395
     md5_10: 616448a8cb
     md5_5: '61644'
@@ -2541,6 +2661,7 @@ electronic_header_2_mm_jst_ph_7_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: dc43ba98577ad8c545624838fe9a5083
     md5_10: dc43ba9857
     md5_5: dc43b
@@ -2567,6 +2688,7 @@ electronic_header_2_mm_jst_ph_8_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1c1224f193ed2f790e12d95d5632dc81
     md5_10: 1c1224f193
     md5_5: 1c122
@@ -2593,6 +2715,7 @@ electronic_header_2_mm_jst_ph_8_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 63c44171ce493ae2de598b12d92242c5
     md5_10: 63c44171ce
     md5_5: 63c44
@@ -2619,6 +2742,7 @@ electronic_header_2_mm_jst_ph_8_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d7384642e6945263310fa76bb079e38f
     md5_10: d7384642e6
     md5_5: d7384
@@ -2645,6 +2769,7 @@ electronic_header_2_mm_jst_ph_8_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 94b9b06b37f17f2e2c12c4de63560f40
     md5_10: 94b9b06b37
     md5_5: 94b9b
@@ -2671,6 +2796,7 @@ electronic_header_2_mm_jst_ph_9_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: be2167e393876d0e20de1c84aad54018
     md5_10: be2167e393
     md5_5: be216
@@ -2697,6 +2823,7 @@ electronic_header_2_mm_jst_ph_9_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 98867d2abb3503eacc7a8ce9a7026f0a
     md5_10: 98867d2abb
     md5_5: '98867'
@@ -2723,6 +2850,7 @@ electronic_header_2_mm_jst_ph_9_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b188700193adb447092e574eac0f1b5a
     md5_10: b188700193
     md5_5: b1887
@@ -2749,6 +2877,7 @@ electronic_header_2_mm_jst_ph_9_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f86b74a26f778d9a0c2f34510c2c7fbf
     md5_10: f86b74a26f
     md5_5: f86b7
@@ -2779,6 +2908,7 @@ electronic_header_2d54_mm_10_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 303a3ae374a9c8ee9c9554c743750a8f
     md5_10: 303a3ae374
     md5_5: 303a3
@@ -2809,6 +2939,7 @@ electronic_header_2d54_mm_10_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f84552700b1ab4d39bf42c832b96f9b9
     md5_10: f84552700b
     md5_5: f8455
@@ -2842,6 +2973,7 @@ electronic_header_2d54_mm_10_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9b431aa8fc3d4e4ddd011be31cb9db86
     md5_10: 9b431aa8fc
     md5_5: 9b431
@@ -2875,6 +3007,7 @@ electronic_header_2d54_mm_10_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f796a09a646916059a9bc84606511211
     md5_10: f796a09a64
     md5_5: f796a
@@ -2905,6 +3038,7 @@ electronic_header_2d54_mm_11_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ca9068c454fbd117610801b2ce34378b
     md5_10: ca9068c454
     md5_5: ca906
@@ -2935,6 +3069,7 @@ electronic_header_2d54_mm_11_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 72471303fec80dc3b046189c5a761124
     md5_10: 72471303fe
     md5_5: '72471'
@@ -2968,6 +3103,7 @@ electronic_header_2d54_mm_11_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 815ed605d82b564c45791aa9f4741f9f
     md5_10: 815ed605d8
     md5_5: 815ed
@@ -3001,6 +3137,7 @@ electronic_header_2d54_mm_11_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cfe95c41d5c6d708cfad13432856fb30
     md5_10: cfe95c41d5
     md5_5: cfe95
@@ -3031,6 +3168,7 @@ electronic_header_2d54_mm_12_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 07fd4d2337cd85cd558a2060204646ee
     md5_10: 07fd4d2337
     md5_5: 07fd4
@@ -3061,6 +3199,7 @@ electronic_header_2d54_mm_12_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7ba6c53936e0b288415e391d6a1a3b2b
     md5_10: 7ba6c53936
     md5_5: 7ba6c
@@ -3094,6 +3233,7 @@ electronic_header_2d54_mm_12_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9eab674040cd35cf77ecdcd874b0c135
     md5_10: 9eab674040
     md5_5: 9eab6
@@ -3127,6 +3267,7 @@ electronic_header_2d54_mm_12_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 91d979ee5b1080442a8586ad74ba3c94
     md5_10: 91d979ee5b
     md5_5: 91d97
@@ -3157,6 +3298,7 @@ electronic_header_2d54_mm_13_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 77edefa7033678fb80724089aa5e04d2
     md5_10: 77edefa703
     md5_5: 77ede
@@ -3187,6 +3329,7 @@ electronic_header_2d54_mm_13_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 535ee4f426604e701cd68fb40e87d37d
     md5_10: 535ee4f426
     md5_5: 535ee
@@ -3220,6 +3363,7 @@ electronic_header_2d54_mm_13_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9d30d21a115fc09400e17432281eb6c9
     md5_10: 9d30d21a11
     md5_5: 9d30d
@@ -3253,6 +3397,7 @@ electronic_header_2d54_mm_13_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7bade89fb40bfbc03709a37246706552
     md5_10: 7bade89fb4
     md5_5: 7bade
@@ -3283,6 +3428,7 @@ electronic_header_2d54_mm_14_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7b47053a9c1e69a67725851bbac28a7b
     md5_10: 7b47053a9c
     md5_5: 7b470
@@ -3313,6 +3459,7 @@ electronic_header_2d54_mm_14_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a25e2f0253809e820f52c6615291f21f
     md5_10: a25e2f0253
     md5_5: a25e2
@@ -3346,6 +3493,7 @@ electronic_header_2d54_mm_14_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 435fec5ba758a05ea923a51ca35412be
     md5_10: 435fec5ba7
     md5_5: 435fe
@@ -3379,6 +3527,7 @@ electronic_header_2d54_mm_14_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 86769990c188d0baa9dd344440a61fdc
     md5_10: 86769990c1
     md5_5: '86769'
@@ -3409,6 +3558,7 @@ electronic_header_2d54_mm_15_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ccffd7988a0b3da1fe56f23b24b20f28
     md5_10: ccffd7988a
     md5_5: ccffd
@@ -3439,6 +3589,7 @@ electronic_header_2d54_mm_15_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a296f7cff624116e7ad5b77a671e82d2
     md5_10: a296f7cff6
     md5_5: a296f
@@ -3472,6 +3623,7 @@ electronic_header_2d54_mm_15_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0b02ac6d0eb7847fd4235dd8be00e834
     md5_10: 0b02ac6d0e
     md5_5: 0b02a
@@ -3505,6 +3657,7 @@ electronic_header_2d54_mm_15_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ba6caccc28ba8fdd79ca802eef905c9b
     md5_10: ba6caccc28
     md5_5: ba6ca
@@ -3535,6 +3688,7 @@ electronic_header_2d54_mm_16_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 052ffebdec4e1bb6a0f3ab8eff16a610
     md5_10: 052ffebdec
     md5_5: 052ff
@@ -3565,6 +3719,7 @@ electronic_header_2d54_mm_16_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9f1f3b5c12e344cbb4ee7d160754e84e
     md5_10: 9f1f3b5c12
     md5_5: 9f1f3
@@ -3598,6 +3753,7 @@ electronic_header_2d54_mm_16_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e427950102c1433d04fae138bd1d3010
     md5_10: e427950102
     md5_5: e4279
@@ -3631,6 +3787,7 @@ electronic_header_2d54_mm_16_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 544a7a2edd1c3ebadefaedd46a924ea5
     md5_10: 544a7a2edd
     md5_5: 544a7
@@ -3661,6 +3818,7 @@ electronic_header_2d54_mm_17_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a43e83b4c1cc3dbfa541ae8decf2b8fc
     md5_10: a43e83b4c1
     md5_5: a43e8
@@ -3691,6 +3849,7 @@ electronic_header_2d54_mm_17_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cf3669e90120059b536cd4b149827b3c
     md5_10: cf3669e901
     md5_5: cf366
@@ -3724,6 +3883,7 @@ electronic_header_2d54_mm_17_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 83494971dd0517ce882064bed5e29b09
     md5_10: 83494971dd
     md5_5: '83494'
@@ -3757,6 +3917,7 @@ electronic_header_2d54_mm_17_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: feb2ac3fd170b796ce4374ae82c4360c
     md5_10: feb2ac3fd1
     md5_5: feb2a
@@ -3787,6 +3948,7 @@ electronic_header_2d54_mm_18_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 10001c1d8eeeada59b7451e9a27125ca
     md5_10: 10001c1d8e
     md5_5: '10001'
@@ -3817,6 +3979,7 @@ electronic_header_2d54_mm_18_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7836585f0a2d898e298bbb16677c8762
     md5_10: 7836585f0a
     md5_5: '78365'
@@ -3850,6 +4013,7 @@ electronic_header_2d54_mm_18_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 176824bff0398ca7cc587269da7b4b76
     md5_10: 176824bff0
     md5_5: '17682'
@@ -3883,6 +4047,7 @@ electronic_header_2d54_mm_18_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 58287de56bcb4d3e86675006f86bda9a
     md5_10: 58287de56b
     md5_5: '58287'
@@ -3913,6 +4078,7 @@ electronic_header_2d54_mm_19_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7c92fc5b4f4d53a12068fda4a560e3eb
     md5_10: 7c92fc5b4f
     md5_5: 7c92f
@@ -3943,6 +4109,7 @@ electronic_header_2d54_mm_19_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 88b6f8f83e6a9dd4cb7831d51cc06246
     md5_10: 88b6f8f83e
     md5_5: 88b6f
@@ -3976,6 +4143,7 @@ electronic_header_2d54_mm_19_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c1517d5c8f2187c44f9772abe023b0b1
     md5_10: c1517d5c8f
     md5_5: c1517
@@ -4009,6 +4177,7 @@ electronic_header_2d54_mm_19_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c08805262a72823535bc0c35440481a5
     md5_10: c08805262a
     md5_5: c0880
@@ -4039,6 +4208,7 @@ electronic_header_2d54_mm_1_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1cdee8ad472b5d534510a36758980d4d
     md5_10: 1cdee8ad47
     md5_5: 1cdee
@@ -4069,6 +4239,7 @@ electronic_header_2d54_mm_1_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a53ab0f35d1e4e0e2cd81a81e0d3863e
     md5_10: a53ab0f35d
     md5_5: a53ab
@@ -4099,6 +4270,7 @@ electronic_header_2d54_mm_1_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: eb048422bb7ffc702dd8d2dba1b6481c
     md5_10: eb048422bb
     md5_5: eb048
@@ -4129,6 +4301,7 @@ electronic_header_2d54_mm_1_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d33bf55ea57cb4547b429203e3a1db54
     md5_10: d33bf55ea5
     md5_5: d33bf
@@ -4159,6 +4332,7 @@ electronic_header_2d54_mm_20_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1a3631e2adaadb1b2bd8e91f87dc9d53
     md5_10: 1a3631e2ad
     md5_5: 1a363
@@ -4189,6 +4363,7 @@ electronic_header_2d54_mm_20_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5c192b2893fd90d9feab74ed4498a716
     md5_10: 5c192b2893
     md5_5: 5c192
@@ -4222,6 +4397,7 @@ electronic_header_2d54_mm_20_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ef8971f60c94927e179115b416f80dd0
     md5_10: ef8971f60c
     md5_5: ef897
@@ -4255,6 +4431,7 @@ electronic_header_2d54_mm_20_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 70f29ba51c15c13f5e5aca90d0e4eefa
     md5_10: 70f29ba51c
     md5_5: 70f29
@@ -4285,6 +4462,7 @@ electronic_header_2d54_mm_21_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e18aa5cb8b963ddfc8cf41072280f096
     md5_10: e18aa5cb8b
     md5_5: e18aa
@@ -4315,6 +4493,7 @@ electronic_header_2d54_mm_21_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f8a95c80743065ff7c8b19e273c7a441
     md5_10: f8a95c8074
     md5_5: f8a95
@@ -4348,6 +4527,7 @@ electronic_header_2d54_mm_21_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 34445571d3b81cc899e06d1d3e75b0ad
     md5_10: 34445571d3
     md5_5: '34445'
@@ -4378,6 +4558,7 @@ electronic_header_2d54_mm_21_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 630d95dc5cc2786254b9a54035f7eafb
     md5_10: 630d95dc5c
     md5_5: 630d9
@@ -4408,6 +4589,7 @@ electronic_header_2d54_mm_22_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d084dbf073c2aaf4594d6bd3a289d198
     md5_10: d084dbf073
     md5_5: d084d
@@ -4438,6 +4620,7 @@ electronic_header_2d54_mm_22_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: df0d527fdcd53ef7dff00a69b43fe309
     md5_10: df0d527fdc
     md5_5: df0d5
@@ -4471,6 +4654,7 @@ electronic_header_2d54_mm_22_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d69431aff8fbe9554d89603d680f0e60
     md5_10: d69431aff8
     md5_5: d6943
@@ -4501,6 +4685,7 @@ electronic_header_2d54_mm_22_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0965e42f75e0d6f4723561b062b93617
     md5_10: 0965e42f75
     md5_5: 0965e
@@ -4531,6 +4716,7 @@ electronic_header_2d54_mm_23_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 05a0b5e28fd86904de626599dd3b5d12
     md5_10: 05a0b5e28f
     md5_5: 05a0b
@@ -4561,6 +4747,7 @@ electronic_header_2d54_mm_23_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c5f77af2654e3dcc99cd9a2c1c290c83
     md5_10: c5f77af265
     md5_5: c5f77
@@ -4594,6 +4781,7 @@ electronic_header_2d54_mm_23_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 305b8c9782d370ea48604d08765b4406
     md5_10: 305b8c9782
     md5_5: 305b8
@@ -4624,6 +4812,7 @@ electronic_header_2d54_mm_23_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8a0090da9c16ffab7cc1aaccd42e1da3
     md5_10: 8a0090da9c
     md5_5: 8a009
@@ -4654,6 +4843,7 @@ electronic_header_2d54_mm_24_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fd9067e1308999d6c945486748d87d2d
     md5_10: fd9067e130
     md5_5: fd906
@@ -4684,6 +4874,7 @@ electronic_header_2d54_mm_24_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9b47ed1b1aa816856bfbd52ba35db736
     md5_10: 9b47ed1b1a
     md5_5: 9b47e
@@ -4717,6 +4908,7 @@ electronic_header_2d54_mm_24_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6726d39baa215ae86656b689332e33f8
     md5_10: 6726d39baa
     md5_5: 6726d
@@ -4747,6 +4939,7 @@ electronic_header_2d54_mm_24_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 38d6fae87a436f3430554ee985906821
     md5_10: 38d6fae87a
     md5_5: 38d6f
@@ -4777,6 +4970,7 @@ electronic_header_2d54_mm_25_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ca4623dc8e469812f5037685f992e75b
     md5_10: ca4623dc8e
     md5_5: ca462
@@ -4807,6 +5001,7 @@ electronic_header_2d54_mm_25_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 66602a2a9ab11a5794d71fb40b68dfd7
     md5_10: 66602a2a9a
     md5_5: '66602'
@@ -4840,6 +5035,7 @@ electronic_header_2d54_mm_25_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 401cf4eac2bf62f0b48043d031f7fe58
     md5_10: 401cf4eac2
     md5_5: 401cf
@@ -4870,6 +5066,7 @@ electronic_header_2d54_mm_25_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3a81dde92d250e822868f0d1333a932a
     md5_10: 3a81dde92d
     md5_5: 3a81d
@@ -4900,6 +5097,7 @@ electronic_header_2d54_mm_26_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 799215cbcb63459b3dbab07adbdc24cc
     md5_10: 799215cbcb
     md5_5: '79921'
@@ -4930,6 +5128,7 @@ electronic_header_2d54_mm_26_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b3265f6b959df4dbdfb988f41b60f70b
     md5_10: b3265f6b95
     md5_5: b3265
@@ -4963,6 +5162,7 @@ electronic_header_2d54_mm_26_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 46b6dcc904f831b2b4a7cefafdf8c119
     md5_10: 46b6dcc904
     md5_5: 46b6d
@@ -4993,6 +5193,7 @@ electronic_header_2d54_mm_26_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e1c357d34bd8fdc17537c9d39a984907
     md5_10: e1c357d34b
     md5_5: e1c35
@@ -5023,6 +5224,7 @@ electronic_header_2d54_mm_27_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3bc12c1e7ebf39ac9e9cecc3d3d33410
     md5_10: 3bc12c1e7e
     md5_5: 3bc12
@@ -5053,6 +5255,7 @@ electronic_header_2d54_mm_27_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 88a641082e5c5390ef58ea6dba29f7d7
     md5_10: 88a641082e
     md5_5: 88a64
@@ -5086,6 +5289,7 @@ electronic_header_2d54_mm_27_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4c1b2b2ed4181802d57e9f7c90446e15
     md5_10: 4c1b2b2ed4
     md5_5: 4c1b2
@@ -5116,6 +5320,7 @@ electronic_header_2d54_mm_27_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b9674e4adc0bea8809cb1aa467d94f19
     md5_10: b9674e4adc
     md5_5: b9674
@@ -5146,6 +5351,7 @@ electronic_header_2d54_mm_28_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c7d1825b5a4404e5b5d71b17012d7787
     md5_10: c7d1825b5a
     md5_5: c7d18
@@ -5176,6 +5382,7 @@ electronic_header_2d54_mm_28_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7b21b9b829626e7f179b31a0a7305cc1
     md5_10: 7b21b9b829
     md5_5: 7b21b
@@ -5209,6 +5416,7 @@ electronic_header_2d54_mm_28_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 35863eaf42a6d7b0b7b101887e63361d
     md5_10: 35863eaf42
     md5_5: '35863'
@@ -5239,6 +5447,7 @@ electronic_header_2d54_mm_28_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e5cd7c7cc1df3144317d28e43be9360c
     md5_10: e5cd7c7cc1
     md5_5: e5cd7
@@ -5269,6 +5478,7 @@ electronic_header_2d54_mm_29_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a0bd98b3c21869715d409c2f7fa54ed8
     md5_10: a0bd98b3c2
     md5_5: a0bd9
@@ -5299,6 +5509,7 @@ electronic_header_2d54_mm_29_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6892f3ccf0d6e5abf0f0aee1193698df
     md5_10: 6892f3ccf0
     md5_5: 6892f
@@ -5332,6 +5543,7 @@ electronic_header_2d54_mm_29_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e2998a8e4b7ebba889554c48f079ae33
     md5_10: e2998a8e4b
     md5_5: e2998
@@ -5362,6 +5574,7 @@ electronic_header_2d54_mm_29_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c4430f71995d34057bf38013b3a85eee
     md5_10: c4430f7199
     md5_5: c4430
@@ -5392,6 +5605,7 @@ electronic_header_2d54_mm_2_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2b64b1a51c08e5987bb8b978c3b6b1ed
     md5_10: 2b64b1a51c
     md5_5: 2b64b
@@ -5422,6 +5636,7 @@ electronic_header_2d54_mm_2_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: aee9249298324da1e1dd6fbc13b5bfd7
     md5_10: aee9249298
     md5_5: aee92
@@ -5455,6 +5670,7 @@ electronic_header_2d54_mm_2_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 83ae664d6ecae85dd4b9832dbd044768
     md5_10: 83ae664d6e
     md5_5: 83ae6
@@ -5485,6 +5701,7 @@ electronic_header_2d54_mm_2_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 581579c516f40d149c599841bf83cf63
     md5_10: 581579c516
     md5_5: '58157'
@@ -5515,6 +5732,7 @@ electronic_header_2d54_mm_30_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ec9c0d5c3d5215671b275705b622daf6
     md5_10: ec9c0d5c3d
     md5_5: ec9c0
@@ -5545,6 +5763,7 @@ electronic_header_2d54_mm_30_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d8ae70d949fcb2c72b185a0457476aa6
     md5_10: d8ae70d949
     md5_5: d8ae7
@@ -5578,6 +5797,7 @@ electronic_header_2d54_mm_30_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2abe7da258d4d89204150ce58d20eefb
     md5_10: 2abe7da258
     md5_5: 2abe7
@@ -5608,6 +5828,7 @@ electronic_header_2d54_mm_30_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 20f09126dfc0a0c80e14e4246c68b510
     md5_10: 20f09126df
     md5_5: 20f09
@@ -5638,6 +5859,7 @@ electronic_header_2d54_mm_31_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3f92b4eaeae188c38b0b6283926a641c
     md5_10: 3f92b4eaea
     md5_5: 3f92b
@@ -5668,6 +5890,7 @@ electronic_header_2d54_mm_31_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5d5b79efa6d4097232595e421182045c
     md5_10: 5d5b79efa6
     md5_5: 5d5b7
@@ -5701,6 +5924,7 @@ electronic_header_2d54_mm_31_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f604310400b19d7935b5e4ee6b1cb438
     md5_10: f604310400
     md5_5: f6043
@@ -5731,6 +5955,7 @@ electronic_header_2d54_mm_31_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a2dbf0fb3730a786173058c4ac6d348d
     md5_10: a2dbf0fb37
     md5_5: a2dbf
@@ -5761,6 +5986,7 @@ electronic_header_2d54_mm_32_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 656b9153a0bf824ddee8a153a48ec542
     md5_10: 656b9153a0
     md5_5: 656b9
@@ -5791,6 +6017,7 @@ electronic_header_2d54_mm_32_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6884a0cd3e8def9c32cedb876d3b4744
     md5_10: 6884a0cd3e
     md5_5: 6884a
@@ -5824,6 +6051,7 @@ electronic_header_2d54_mm_32_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 73d7ccdb506a7c2ac038a2937179ee45
     md5_10: 73d7ccdb50
     md5_5: 73d7c
@@ -5854,6 +6082,7 @@ electronic_header_2d54_mm_32_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1e2ebf8bc7d79d7ef56409c9975cc710
     md5_10: 1e2ebf8bc7
     md5_5: 1e2eb
@@ -5884,6 +6113,7 @@ electronic_header_2d54_mm_33_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b323a3b9f49a03162913ac107f314fc9
     md5_10: b323a3b9f4
     md5_5: b323a
@@ -5914,6 +6144,7 @@ electronic_header_2d54_mm_33_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ce455458903560e081dcfa5c80c180ed
     md5_10: ce45545890
     md5_5: ce455
@@ -5947,6 +6178,7 @@ electronic_header_2d54_mm_33_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 317640bcac7b87b36acc02a2e7fb118b
     md5_10: 317640bcac
     md5_5: '31764'
@@ -5977,6 +6209,7 @@ electronic_header_2d54_mm_33_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7a12f81be1faae0b17d5037bf5f0884b
     md5_10: 7a12f81be1
     md5_5: 7a12f
@@ -6007,6 +6240,7 @@ electronic_header_2d54_mm_34_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3d2b951bb0a8a0ec9f35f002320c97be
     md5_10: 3d2b951bb0
     md5_5: 3d2b9
@@ -6037,6 +6271,7 @@ electronic_header_2d54_mm_34_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: adfc2e3e5b143bda35594f0e8b19a590
     md5_10: adfc2e3e5b
     md5_5: adfc2
@@ -6070,6 +6305,7 @@ electronic_header_2d54_mm_34_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7b1a280ceecc7a672b5820049aecd205
     md5_10: 7b1a280cee
     md5_5: 7b1a2
@@ -6100,6 +6336,7 @@ electronic_header_2d54_mm_34_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1bf57bc5eb3a4707940defe3484e96d6
     md5_10: 1bf57bc5eb
     md5_5: 1bf57
@@ -6130,6 +6367,7 @@ electronic_header_2d54_mm_35_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 242430b8bda7493d352e8c0439ca19ac
     md5_10: 242430b8bd
     md5_5: '24243'
@@ -6160,6 +6398,7 @@ electronic_header_2d54_mm_35_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 25d121c4b8ba4783971c71f280af63c6
     md5_10: 25d121c4b8
     md5_5: 25d12
@@ -6193,6 +6432,7 @@ electronic_header_2d54_mm_35_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6c1c80159755e969c7203421165d3ead
     md5_10: 6c1c801597
     md5_5: 6c1c8
@@ -6223,6 +6463,7 @@ electronic_header_2d54_mm_35_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 247273e8dac8d3fb0f8c3bf0db0bb06d
     md5_10: 247273e8da
     md5_5: '24727'
@@ -6253,6 +6494,7 @@ electronic_header_2d54_mm_36_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 219ad0ec8696ffa6daf11f66618216b7
     md5_10: 219ad0ec86
     md5_5: 219ad
@@ -6283,6 +6525,7 @@ electronic_header_2d54_mm_36_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 46440a37a5fd875d69e7f12d4dc82bb6
     md5_10: 46440a37a5
     md5_5: '46440'
@@ -6316,6 +6559,7 @@ electronic_header_2d54_mm_36_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 57b225f90f5121ed5f9a2d5f5518644d
     md5_10: 57b225f90f
     md5_5: 57b22
@@ -6346,6 +6590,7 @@ electronic_header_2d54_mm_36_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 685dd64c573f3f8f1de7577b053d386c
     md5_10: 685dd64c57
     md5_5: 685dd
@@ -6376,6 +6621,7 @@ electronic_header_2d54_mm_37_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ed502d8a5aee7d89840e79392a7c6230
     md5_10: ed502d8a5a
     md5_5: ed502
@@ -6406,6 +6652,7 @@ electronic_header_2d54_mm_37_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 720d9f188debad713ed93964aba14c33
     md5_10: 720d9f188d
     md5_5: 720d9
@@ -6439,6 +6686,7 @@ electronic_header_2d54_mm_37_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: dc8eb424b38388f92e4ccd00800aa5b2
     md5_10: dc8eb424b3
     md5_5: dc8eb
@@ -6469,6 +6717,7 @@ electronic_header_2d54_mm_37_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 52cc31220fd2fe3d29f545d7da9ef6c8
     md5_10: 52cc31220f
     md5_5: 52cc3
@@ -6499,6 +6748,7 @@ electronic_header_2d54_mm_38_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: dc39265fa10bebb41c8da72bc24badde
     md5_10: dc39265fa1
     md5_5: dc392
@@ -6529,6 +6779,7 @@ electronic_header_2d54_mm_38_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4bd6dcf0a104f581c77d4f53682d1696
     md5_10: 4bd6dcf0a1
     md5_5: 4bd6d
@@ -6562,6 +6813,7 @@ electronic_header_2d54_mm_38_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e26a0172b772864bf3d953bd7a363eff
     md5_10: e26a0172b7
     md5_5: e26a0
@@ -6592,6 +6844,7 @@ electronic_header_2d54_mm_38_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f3a2fa3ed78613c0bf954140fd080559
     md5_10: f3a2fa3ed7
     md5_5: f3a2f
@@ -6622,6 +6875,7 @@ electronic_header_2d54_mm_39_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b35cc8d220e2efdf397d09e9f18592fc
     md5_10: b35cc8d220
     md5_5: b35cc
@@ -6652,6 +6906,7 @@ electronic_header_2d54_mm_39_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 238ebcaba2100b0b323b0732106f7f42
     md5_10: 238ebcaba2
     md5_5: 238eb
@@ -6685,6 +6940,7 @@ electronic_header_2d54_mm_39_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9366874521975ea70be9204aca225ffc
     md5_10: '9366874521'
     md5_5: '93668'
@@ -6715,6 +6971,7 @@ electronic_header_2d54_mm_39_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f46e89c741316e2f58f86b95649ab453
     md5_10: f46e89c741
     md5_5: f46e8
@@ -6745,6 +7002,7 @@ electronic_header_2d54_mm_3_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7a0820dd7a4bc942af6b194c86f26329
     md5_10: 7a0820dd7a
     md5_5: 7a082
@@ -6775,6 +7033,7 @@ electronic_header_2d54_mm_3_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 64f7c3b17ff0b0601fdc3dd325824934
     md5_10: 64f7c3b17f
     md5_5: 64f7c
@@ -6808,6 +7067,7 @@ electronic_header_2d54_mm_3_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5343dc506b7f5a07663ca72937792835
     md5_10: 5343dc506b
     md5_5: 5343d
@@ -6841,6 +7101,7 @@ electronic_header_2d54_mm_3_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1b3fc30c4fd317a12ef2a47bcc5d1280
     md5_10: 1b3fc30c4f
     md5_5: 1b3fc
@@ -6871,6 +7132,7 @@ electronic_header_2d54_mm_40_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 728aa54e67c9cc57aceebfaab6ee7fc7
     md5_10: 728aa54e67
     md5_5: 728aa
@@ -6901,6 +7163,7 @@ electronic_header_2d54_mm_40_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 752d84fee18d48c657993f0e03f1fabd
     md5_10: 752d84fee1
     md5_5: 752d8
@@ -6934,6 +7197,7 @@ electronic_header_2d54_mm_40_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 81c9a00b2a54f0ec2a416aeb0504fe0b
     md5_10: 81c9a00b2a
     md5_5: 81c9a
@@ -6964,6 +7228,7 @@ electronic_header_2d54_mm_40_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0fa1a514779d0d36d6c7b42ae66e5fcd
     md5_10: 0fa1a51477
     md5_5: 0fa1a
@@ -6994,6 +7259,7 @@ electronic_header_2d54_mm_4_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: abf4a48d70242475a316a5286456d6cf
     md5_10: abf4a48d70
     md5_5: abf4a
@@ -7024,6 +7290,7 @@ electronic_header_2d54_mm_4_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 75684628beb23225bd373265161c829a
     md5_10: 75684628be
     md5_5: '75684'
@@ -7057,6 +7324,7 @@ electronic_header_2d54_mm_4_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: defd1752805f9705bde33d7147366f16
     md5_10: defd175280
     md5_5: defd1
@@ -7090,6 +7358,7 @@ electronic_header_2d54_mm_4_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 70c04371aa6a2bc1e9cde142ebdd5cea
     md5_10: 70c04371aa
     md5_5: 70c04
@@ -7120,6 +7389,7 @@ electronic_header_2d54_mm_5_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f32ac7e7cdbc3dd7d8771f74993cb8d3
     md5_10: f32ac7e7cd
     md5_5: f32ac
@@ -7150,6 +7420,7 @@ electronic_header_2d54_mm_5_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6dc288626bac53e41898982aef5ed7b5
     md5_10: 6dc288626b
     md5_5: 6dc28
@@ -7183,6 +7454,7 @@ electronic_header_2d54_mm_5_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: feae7ce61cb91ecc93cc33a60ae0e73e
     md5_10: feae7ce61c
     md5_5: feae7
@@ -7216,6 +7488,7 @@ electronic_header_2d54_mm_5_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b1ace710e91fe44f160f6a14511f815d
     md5_10: b1ace710e9
     md5_5: b1ace
@@ -7246,6 +7519,7 @@ electronic_header_2d54_mm_6_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8d109fb876773c177c2f8ed893ccbc38
     md5_10: 8d109fb876
     md5_5: 8d109
@@ -7276,6 +7550,7 @@ electronic_header_2d54_mm_6_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9cdd15a7b371c5929fea99c6b2504624
     md5_10: 9cdd15a7b3
     md5_5: 9cdd1
@@ -7309,6 +7584,7 @@ electronic_header_2d54_mm_6_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1879739ff6dfa88fde5ee7902c3e5c04
     md5_10: 1879739ff6
     md5_5: '18797'
@@ -7342,6 +7618,7 @@ electronic_header_2d54_mm_6_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 424b30546f4384025669847f38ffeef8
     md5_10: 424b30546f
     md5_5: 424b3
@@ -7372,6 +7649,7 @@ electronic_header_2d54_mm_7_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3ec4f6b038e80616dddb516e80005ccc
     md5_10: 3ec4f6b038
     md5_5: 3ec4f
@@ -7402,6 +7680,7 @@ electronic_header_2d54_mm_7_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fc8f39d1a9d23189e4b191397f43ced9
     md5_10: fc8f39d1a9
     md5_5: fc8f3
@@ -7435,6 +7714,7 @@ electronic_header_2d54_mm_7_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 76e2338f176179bc46ed65229f8b4561
     md5_10: 76e2338f17
     md5_5: 76e23
@@ -7468,6 +7748,7 @@ electronic_header_2d54_mm_7_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7a27089f74989abeb88ddc0eda8aa7f2
     md5_10: 7a27089f74
     md5_5: 7a270
@@ -7498,6 +7779,7 @@ electronic_header_2d54_mm_8_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 850fa76b0f4646eee2767adc1505530d
     md5_10: 850fa76b0f
     md5_5: 850fa
@@ -7528,6 +7810,7 @@ electronic_header_2d54_mm_8_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9e78842c7a8f99978ba1aaa1c3583294
     md5_10: 9e78842c7a
     md5_5: 9e788
@@ -7561,6 +7844,7 @@ electronic_header_2d54_mm_8_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8bebf6ba367d85bc764a5dd6d1893f20
     md5_10: 8bebf6ba36
     md5_5: 8bebf
@@ -7594,6 +7878,7 @@ electronic_header_2d54_mm_8_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9274ec9042dafbe737b964a6240ed1b5
     md5_10: 9274ec9042
     md5_5: 9274e
@@ -7624,6 +7909,7 @@ electronic_header_2d54_mm_9_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a557bfa5baa9707c7bd6e2f1b950c15a
     md5_10: a557bfa5ba
     md5_5: a557b
@@ -7654,6 +7940,7 @@ electronic_header_2d54_mm_9_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0b257cbd29ba5a76743e24267f1070f8
     md5_10: 0b257cbd29
     md5_5: 0b257
@@ -7687,6 +7974,7 @@ electronic_header_2d54_mm_9_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 04ea2f576614970a3582f4655ec587c4
     md5_10: 04ea2f5766
     md5_5: 04ea2
@@ -7720,6 +8008,7 @@ electronic_header_2d54_mm_9_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9e1ed5a258b43f3326a75bb55e481360
     md5_10: 9e1ed5a258
     md5_5: 9e1ed
@@ -7750,6 +8039,7 @@ electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6453e98ade0e2bfe5d52b833f74ad911
     md5_10: 6453e98ade
     md5_5: 6453e
@@ -7779,6 +8069,7 @@ electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ffb9e4aef1b67efe190b3605a398414e
     md5_10: ffb9e4aef1
     md5_5: ffb9e
@@ -7808,6 +8099,7 @@ electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 52b4b3ebf2624d0b04e5badd2c6da75d
     md5_10: 52b4b3ebf2
     md5_5: 52b4b
@@ -7837,6 +8129,7 @@ electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9b01ce2640daccb0a65936bc72f1449f
     md5_10: 9b01ce2640
     md5_5: 9b01c
@@ -7866,6 +8159,7 @@ electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ee493dbc3318772a79863ec683544aed
     md5_10: ee493dbc33
     md5_5: ee493
@@ -7895,6 +8189,7 @@ electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 077dd67afec1be79446fcba53c54fce8
     md5_10: 077dd67afe
     md5_5: 077dd
@@ -7924,6 +8219,7 @@ electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7a237ba6a9a37237c8e25de6ead6c6a0
     md5_10: 7a237ba6a9
     md5_5: 7a237
@@ -7953,6 +8249,7 @@ electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cede0b523656d2345fc43b6493ba5a4f
     md5_10: cede0b5236
     md5_5: cede0
@@ -7982,6 +8279,7 @@ electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 33780b05e6dbc1c715b32b3f54920cdc
     md5_10: 33780b05e6
     md5_5: '33780'
@@ -8011,6 +8309,7 @@ electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f5f0a88651c883c402509b1b0224d1c6
     md5_10: f5f0a88651
     md5_5: f5f0a
@@ -8040,6 +8339,7 @@ electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8b90130b49219a6847a5db6fd1b1821c
     md5_10: 8b90130b49
     md5_5: 8b901
@@ -8069,6 +8369,7 @@ electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e2fe8e334470bcf64d4406c7b75303d7
     md5_10: e2fe8e3344
     md5_5: e2fe8
@@ -8098,6 +8399,7 @@ electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3eed9c0ecb12c9d1e000a543cbdbd6db
     md5_10: 3eed9c0ecb
     md5_5: 3eed9
@@ -8127,6 +8429,7 @@ electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: edb222f5ff5d22b860f4b290bf8286e8
     md5_10: edb222f5ff
     md5_5: edb22
@@ -8156,6 +8459,7 @@ electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f7c36cfd6917a64d191e56bfb2c12421
     md5_10: f7c36cfd69
     md5_5: f7c36
@@ -8185,6 +8489,7 @@ electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2aa1469365b5bf2d61f9d555069c9091
     md5_10: 2aa1469365
     md5_5: 2aa14
@@ -8214,6 +8519,7 @@ electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4128a251a40e93f740cd84850a7ce6f3
     md5_10: 4128a251a4
     md5_5: 4128a
@@ -8243,6 +8549,7 @@ electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 756af66162cd63264c2280f225d28515
     md5_10: 756af66162
     md5_5: 756af
@@ -8268,6 +8575,7 @@ electronic_header_2d54_mm_jst_xh_10_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: daeadc012da2693a2b51ef123d416f44
     md5_10: daeadc012d
     md5_5: daead
@@ -8294,6 +8602,7 @@ electronic_header_2d54_mm_jst_xh_10_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d270f8238c6ab002c38398967914901b
     md5_10: d270f8238c
     md5_5: d270f
@@ -8320,6 +8629,7 @@ electronic_header_2d54_mm_jst_xh_10_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1e6e36c2b8ee3773f94eeadcd5af22d2
     md5_10: 1e6e36c2b8
     md5_5: 1e6e3
@@ -8346,6 +8656,7 @@ electronic_header_2d54_mm_jst_xh_10_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 14f638b1700280bec558869e937180c6
     md5_10: 14f638b170
     md5_5: 14f63
@@ -8372,6 +8683,7 @@ electronic_header_2d54_mm_jst_xh_1_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7bbc5ec7450eb8bbaa78f814c50a850b
     md5_10: 7bbc5ec745
     md5_5: 7bbc5
@@ -8398,6 +8710,7 @@ electronic_header_2d54_mm_jst_xh_1_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ef611c9bcfdd26f66a0c667aaad778c2
     md5_10: ef611c9bcf
     md5_5: ef611
@@ -8424,6 +8737,7 @@ electronic_header_2d54_mm_jst_xh_1_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a41c6e9d8606caed16c3fb28777c3a2c
     md5_10: a41c6e9d86
     md5_5: a41c6
@@ -8450,6 +8764,7 @@ electronic_header_2d54_mm_jst_xh_1_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0e6ec3034738c6dc1e7d1ba323c04d80
     md5_10: 0e6ec30347
     md5_5: 0e6ec
@@ -8476,6 +8791,7 @@ electronic_header_2d54_mm_jst_xh_2_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: eb2bc8225c22f8a5bb71ee686352fdbf
     md5_10: eb2bc8225c
     md5_5: eb2bc
@@ -8502,6 +8818,7 @@ electronic_header_2d54_mm_jst_xh_2_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8443bb47c2a780123ea51964ee03a3bf
     md5_10: 8443bb47c2
     md5_5: 8443b
@@ -8528,6 +8845,7 @@ electronic_header_2d54_mm_jst_xh_2_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c599a555cc880fa96ce0ebd1f40b76de
     md5_10: c599a555cc
     md5_5: c599a
@@ -8554,6 +8872,7 @@ electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0f1d0d5c4cd066fe601e6769a378c1f6
     md5_10: 0f1d0d5c4c
     md5_5: 0f1d0
@@ -8580,6 +8899,7 @@ electronic_header_2d54_mm_jst_xh_3_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a3aa2b426886c86c99ab1ec90816fb22
     md5_10: a3aa2b4268
     md5_5: a3aa2
@@ -8606,6 +8926,7 @@ electronic_header_2d54_mm_jst_xh_3_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e51061fdb0962afcfdbe5d3ba3ec2a32
     md5_10: e51061fdb0
     md5_5: e5106
@@ -8632,6 +8953,7 @@ electronic_header_2d54_mm_jst_xh_3_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1226380b62ae185d85cf55afe4b0752b
     md5_10: 1226380b62
     md5_5: '12263'
@@ -8658,6 +8980,7 @@ electronic_header_2d54_mm_jst_xh_3_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f151a44228d3168a7fb44e596a396f68
     md5_10: f151a44228
     md5_5: f151a
@@ -8684,6 +9007,7 @@ electronic_header_2d54_mm_jst_xh_4_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e9da78811caf0eb72db78a3834402357
     md5_10: e9da78811c
     md5_5: e9da7
@@ -8710,6 +9034,7 @@ electronic_header_2d54_mm_jst_xh_4_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8e9c9e43ad88199bc6e47d537235b56f
     md5_10: 8e9c9e43ad
     md5_5: 8e9c9
@@ -8736,6 +9061,7 @@ electronic_header_2d54_mm_jst_xh_4_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0dbd8060f8806524bbb501384d1fd227
     md5_10: 0dbd8060f8
     md5_5: 0dbd8
@@ -8762,6 +9088,7 @@ electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c492b1ac7dc4f013b08e47149f8a9b06
     md5_10: c492b1ac7d
     md5_5: c492b
@@ -8788,6 +9115,7 @@ electronic_header_2d54_mm_jst_xh_5_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ec42dd27d22f69ff365f3e0ae79bab68
     md5_10: ec42dd27d2
     md5_5: ec42d
@@ -8814,6 +9142,7 @@ electronic_header_2d54_mm_jst_xh_5_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4ad1f1fc9f5d29c88c04afb3c9d1fbdd
     md5_10: 4ad1f1fc9f
     md5_5: 4ad1f
@@ -8840,6 +9169,7 @@ electronic_header_2d54_mm_jst_xh_5_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 44461088e22c96b36dbc8c36b616df67
     md5_10: 44461088e2
     md5_5: '44461'
@@ -8866,6 +9196,7 @@ electronic_header_2d54_mm_jst_xh_5_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3a00652bffe77fdf41920cc4e025296a
     md5_10: 3a00652bff
     md5_5: 3a006
@@ -8892,6 +9223,7 @@ electronic_header_2d54_mm_jst_xh_6_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 67e46889a4d385f9d908af10deae9e21
     md5_10: 67e46889a4
     md5_5: 67e46
@@ -8918,6 +9250,7 @@ electronic_header_2d54_mm_jst_xh_6_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d66a8219238bbdcc3a350466cd43007a
     md5_10: d66a821923
     md5_5: d66a8
@@ -8944,6 +9277,7 @@ electronic_header_2d54_mm_jst_xh_6_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 500bcdb0b97d531ef9d2533549272437
     md5_10: 500bcdb0b9
     md5_5: 500bc
@@ -8970,6 +9304,7 @@ electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ef95a6e35d72130ac7c974a828d48cf4
     md5_10: ef95a6e35d
     md5_5: ef95a
@@ -8996,6 +9331,7 @@ electronic_header_2d54_mm_jst_xh_7_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9a3b8cc860e7c7d383c925c08731197b
     md5_10: 9a3b8cc860
     md5_5: 9a3b8
@@ -9022,6 +9358,7 @@ electronic_header_2d54_mm_jst_xh_7_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4664fafe35c9ad8805bd37f1f571807b
     md5_10: 4664fafe35
     md5_5: 4664f
@@ -9048,6 +9385,7 @@ electronic_header_2d54_mm_jst_xh_7_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 41b843c3803d80ab800da831f57304fe
     md5_10: 41b843c380
     md5_5: 41b84
@@ -9074,6 +9412,7 @@ electronic_header_2d54_mm_jst_xh_7_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ffeb9c73d7df3f6c9dec07ad843ae512
     md5_10: ffeb9c73d7
     md5_5: ffeb9
@@ -9100,6 +9439,7 @@ electronic_header_2d54_mm_jst_xh_8_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0e667e576fa3ec6beeb52ecb999f974a
     md5_10: 0e667e576f
     md5_5: 0e667
@@ -9126,6 +9466,7 @@ electronic_header_2d54_mm_jst_xh_8_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 17f828e813593b8ea2bd216845390119
     md5_10: 17f828e813
     md5_5: 17f82
@@ -9152,6 +9493,7 @@ electronic_header_2d54_mm_jst_xh_8_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 376c10deaf26003de68fccbc73cf6969
     md5_10: 376c10deaf
     md5_5: 376c1
@@ -9178,6 +9520,7 @@ electronic_header_2d54_mm_jst_xh_8_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a64bcd242f65cbaa3af67607ab4b934a
     md5_10: a64bcd242f
     md5_5: a64bc
@@ -9204,6 +9547,7 @@ electronic_header_2d54_mm_jst_xh_9_pin:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 59fcfc9a20d67e6a413b94158d8fb6d2
     md5_10: 59fcfc9a20
     md5_5: 59fcf
@@ -9230,6 +9574,7 @@ electronic_header_2d54_mm_jst_xh_9_pin_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 828dd7d66d449e3e378e94386a385b35
     md5_10: 828dd7d66d
     md5_5: 828dd
@@ -9256,6 +9601,7 @@ electronic_header_2d54_mm_jst_xh_9_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 045584686e7d0b594b46b78649594bc6
     md5_10: 045584686e
     md5_5: 04558
@@ -9282,6 +9628,7 @@ electronic_header_2d54_mm_jst_xh_9_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: dd93db066ddc8016995031572478715b
     md5_10: dd93db066d
     md5_5: dd93d
@@ -9311,6 +9658,7 @@ electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu:
     id: electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
     make_files: true
     manufacturer: microchip
+    manufacturers: []
     md5: 5b2b5de6dc21043bec6c02133654d333
     md5_10: 5b2b5de6dc
     md5_5: 5b2b5
@@ -9341,6 +9689,7 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: c2a455d7f4d3be956b8a5b8101644d3d
     md5_10: c2a455d7f4
     md5_5: c2a45
@@ -9394,34 +9743,31 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     short_name: usb to serial converter (ch340k)
     size: essop_10
     type: ic
-electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur:
+electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu:
     classification: electronic
     color: mcu
     description_extra: ''
     description_main: atmega328
-    directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
     distributors: []
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
         oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
-    id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
     make_files: true
     manufacturer: microchip
-    md5: b802d6a3b9fd3d65125bca9ef558c5ec
-    md5_10: b802d6a3b9
-    md5_5: b802d
-    md5_6: b802d6
-    name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
-    oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
-    part_number: atmega328p_mur
+    manufacturers: []
+    md5: d6a4452edcde90237afb3d93a423b538
+    md5_10: d6a4452edc
+    md5_5: d6a44
+    md5_6: d6a445
+    name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
+    oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+    part_number: atmega328p_mu
     short_code: imlf32at328
     short_name: atmega328 32 pin mlf
     size: mlf_32
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
     type: ic
 electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     classification: electronic
@@ -9438,6 +9784,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: 720e79ba82a5c6f254f73ddb976ddcc2
     md5_10: 720e79ba82
     md5_5: 720e7
@@ -9510,6 +9857,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: 0f210323ca1152360fceeb82b02d755c
     md5_10: 0f210323ca
     md5_5: 0f210
@@ -9577,6 +9925,7 @@ electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     id: electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
     make_files: true
     manufacturer: microchip
+    manufacturers: []
     md5: 4e3cebccf7cb76a5984fa97b7a893de9
     md5_10: 4e3cebccf7
     md5_5: 4e3ce
@@ -9607,6 +9956,7 @@ electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_elect
     kicad_reference: U
     make_files: true
     manufacturer: wuxi_i_core_electronics_co_ltd
+    manufacturers: []
     md5: 0f044b55d79afe75a134069d87ede35f
     md5_10: 0f044b55d7
     md5_5: 0f044
@@ -9752,6 +10102,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: ea28b63f284b0c72f54f9c49ad14c793
     md5_10: ea28b63f28
     md5_5: ea28b
@@ -9848,6 +10199,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: 8b394cfe55fb40b61533e33d89af18b7
     md5_10: 8b394cfe55
     md5_5: 8b394
@@ -9948,6 +10300,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: 0f3b38de4bb8ab11ae1d9cca34a3b7af
     md5_10: 0f3b38de4b
     md5_5: 0f3b3
@@ -10044,6 +10397,7 @@ electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: ad943042c130da51dd0876d34a6d99a2
     md5_10: ad943042c1
     md5_5: ad943
@@ -10104,6 +10458,7 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
     kicad_reference: U
     make_files: true
     manufacturer: wch
+    manufacturers: []
     md5: e07223f3446f9e6a9ed62db546344b87
     md5_10: e07223f344
     md5_5: e0722
@@ -10201,63 +10556,57 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t
         oomp_key: oomp_kicad_interface_usb_ch340t
     type: ic
-electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur:
+electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     classification: electronic
     color: mcu
     description_extra: ''
     description_main: atmega328
-    directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+    directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     distributors: []
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
         oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
-    id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+    id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     make_files: true
     manufacturer: microchip
-    md5: 0ef260de677934fd9e6ad05b3f7553fd
-    md5_10: 0ef260de67
-    md5_5: 0ef26
-    md5_6: 0ef260
-    name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Aur
-    oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
-    part_number: atmega328p_aur
+    manufacturers: []
+    md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
+    md5_10: 16166fb725
+    md5_5: '16166'
+    md5_6: 16166f
+    name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
+    oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    part_number: atmega328p_au
     short_code: itq32at328
     short_name: atmega328 32 pin tqfp
     size: tqfp_32
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
     type: ic
-electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr:
+electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh:
     classification: electronic
     color: mcu
     description_extra: ''
     description_main: atmega328
-    directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
+    directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
     distributors: []
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
         oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
-    id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
+    id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
     make_files: true
     manufacturer: microchip
-    md5: 6c8bcd0f25753505259b60d74042e09b
-    md5_10: 6c8bcd0f25
-    md5_5: 6c8bc
-    md5_6: 6c8bcd
-    name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmhr
-    oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr
-    part_number: atmega328p_mmhr
+    manufacturers: []
+    md5: 5c1e39c0204a190c5ee2c8d7d640acf5
+    md5_10: 5c1e39c020
+    md5_5: 5c1e3
+    md5_6: 5c1e39
+    name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
+    oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+    part_number: atmega328p_mmh
     short_code: ivq28at328
     short_name: atmega328 28 pin vqfn
     size: vqfn_28
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
-        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
     type: ic
 electronic_led_0201:
     classification: electronic
@@ -10272,6 +10621,7 @@ electronic_led_0201:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 734a19bea8740b6c233a98d84ee91ee7
     md5_10: 734a19bea8
     md5_5: 734a1
@@ -10300,6 +10650,7 @@ electronic_led_0201_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d0617d68781887fb57b1a60020a83dc5
     md5_10: d0617d6878
     md5_5: d0617
@@ -10328,6 +10679,7 @@ electronic_led_0201_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8ac6d3b3539fcf933a0fac5ad6c0ca54
     md5_10: 8ac6d3b353
     md5_5: 8ac6d
@@ -10356,6 +10708,7 @@ electronic_led_0201_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0a5fb3aebfea3215d424df51e0177a19
     md5_10: 0a5fb3aebf
     md5_5: 0a5fb
@@ -10384,6 +10737,7 @@ electronic_led_0201_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d0163386b840278f8f80458358f032d8
     md5_10: d0163386b8
     md5_5: d0163
@@ -10412,6 +10766,7 @@ electronic_led_0402:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d33b648a8a749fae6a9a74b760467fb2
     md5_10: d33b648a8a
     md5_5: d33b6
@@ -10440,6 +10795,7 @@ electronic_led_0402_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 22b454129ac0ad6c1c9401f368da8327
     md5_10: 22b454129a
     md5_5: 22b45
@@ -10468,6 +10824,7 @@ electronic_led_0402_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fcfe4f59874d0faff0697e455e42d253
     md5_10: fcfe4f5987
     md5_5: fcfe4
@@ -10496,6 +10853,7 @@ electronic_led_0402_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d0f95d29bb59bddbdbd52caa32e5e745
     md5_10: d0f95d29bb
     md5_5: d0f95
@@ -10524,6 +10882,7 @@ electronic_led_0402_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 115c9ceb124bbc3083a529c9871f5f89
     md5_10: 115c9ceb12
     md5_5: 115c9
@@ -10556,6 +10915,7 @@ electronic_led_0603:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 410f696910ba2a47e5f550535c378f01
     md5_10: 410f696910
     md5_5: 410f6
@@ -10588,6 +10948,7 @@ electronic_led_0603_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9674f50c150069fafacfa3671b299b20
     md5_10: 9674f50c15
     md5_5: 9674f
@@ -10620,6 +10981,7 @@ electronic_led_0603_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b4e8235ce213fd0badfc8ca2c6c558de
     md5_10: b4e8235ce2
     md5_5: b4e82
@@ -10652,6 +11014,7 @@ electronic_led_0603_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 255611ec8565e66dea88d4fba9421c6d
     md5_10: 255611ec85
     md5_5: '25561'
@@ -10684,6 +11047,7 @@ electronic_led_0603_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 27dbb49a7267d86fab8e1a25638fda98
     md5_10: 27dbb49a72
     md5_5: 27dbb
@@ -10712,6 +11076,7 @@ electronic_led_0805:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8d664d2da680e32744834a87427c5377
     md5_10: 8d664d2da6
     md5_5: 8d664
@@ -10740,6 +11105,7 @@ electronic_led_0805_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5b158c0d2eb94016b924a7e2a0befe8b
     md5_10: 5b158c0d2e
     md5_5: 5b158
@@ -10768,6 +11134,7 @@ electronic_led_0805_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 86fed6a509f645111309ee5e446eb91f
     md5_10: 86fed6a509
     md5_5: 86fed
@@ -10796,6 +11163,7 @@ electronic_led_0805_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fb973f60131a78a8c7072cbdb940a30b
     md5_10: fb973f6013
     md5_5: fb973
@@ -10824,6 +11192,7 @@ electronic_led_0805_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5c87ad5a4f3215668066a822e24d75cf
     md5_10: 5c87ad5a4f
     md5_5: 5c87a
@@ -10856,6 +11225,7 @@ electronic_led_10_mm:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bab4a73f335cebcc40b339010dc83b72
     md5_10: bab4a73f33
     md5_5: bab4a
@@ -10888,6 +11258,7 @@ electronic_led_10_mm_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 78055f06d160820fbae0757e8a0f65f1
     md5_10: 78055f06d1
     md5_5: '78055'
@@ -10920,6 +11291,7 @@ electronic_led_10_mm_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5f6525ecafb65df19e6187ca04358bfa
     md5_10: 5f6525ecaf
     md5_5: 5f652
@@ -10952,6 +11324,7 @@ electronic_led_10_mm_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f3ee341dcc022670fa172c7f658f6966
     md5_10: f3ee341dcc
     md5_5: f3ee3
@@ -10984,6 +11357,7 @@ electronic_led_10_mm_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c57d40b259d49c26851da1f60ac9dc14
     md5_10: c57d40b259
     md5_5: c57d4
@@ -11012,6 +11386,7 @@ electronic_led_1206:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6216927724aa54d0807a6a8b918f128f
     md5_10: '6216927724'
     md5_5: '62169'
@@ -11040,6 +11415,7 @@ electronic_led_1206_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b479a89f585074b74fefdd18b419f86a
     md5_10: b479a89f58
     md5_5: b479a
@@ -11068,6 +11444,7 @@ electronic_led_1206_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 27ecfb7045a092ae26a1371a4b28a62a
     md5_10: 27ecfb7045
     md5_5: 27ecf
@@ -11096,6 +11473,7 @@ electronic_led_1206_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b55edc6836edaa74c7f0496d6e407293
     md5_10: b55edc6836
     md5_5: b55ed
@@ -11124,6 +11502,7 @@ electronic_led_1206_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 487cc6fa62d15dd9e507708889fecbfb
     md5_10: 487cc6fa62
     md5_5: 487cc
@@ -11152,6 +11531,7 @@ electronic_led_3_mm:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1c2ecd94ecf44c4e06ef99b0051681bf
     md5_10: 1c2ecd94ec
     md5_5: 1c2ec
@@ -11180,6 +11560,7 @@ electronic_led_3_mm_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 727504b3d7e6048c1e699c4c01cdf2b5
     md5_10: 727504b3d7
     md5_5: '72750'
@@ -11208,6 +11589,7 @@ electronic_led_3_mm_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6b2621821d0a1bfef913831a2f11c3b5
     md5_10: 6b2621821d
     md5_5: 6b262
@@ -11236,6 +11618,7 @@ electronic_led_3_mm_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 980c8083e7b9b5f447d02f59149c299a
     md5_10: 980c8083e7
     md5_5: 980c8
@@ -11264,6 +11647,7 @@ electronic_led_3_mm_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 46a6ba779ea221e73a34edd69dc9e28e
     md5_10: 46a6ba779e
     md5_5: 46a6b
@@ -11296,6 +11680,7 @@ electronic_led_5_mm:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7297cd778d1471689ae0db398d716719
     md5_10: 7297cd778d
     md5_5: 7297c
@@ -11328,6 +11713,7 @@ electronic_led_5_mm_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ce34411c59ac93ef3b913e98d5574849
     md5_10: ce34411c59
     md5_5: ce344
@@ -11360,6 +11746,7 @@ electronic_led_5_mm_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b71b9c3a298ae961a34c3856d35b694e
     md5_10: b71b9c3a29
     md5_5: b71b9
@@ -11392,6 +11779,7 @@ electronic_led_5_mm_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 30578ce27beae920469b86e05a198be3
     md5_10: 30578ce27b
     md5_5: '30578'
@@ -11424,6 +11812,7 @@ electronic_led_5_mm_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7691c8dbc32bf87910d702b3b3fd7df4
     md5_10: 7691c8dbc3
     md5_5: 7691c
@@ -11450,6 +11839,7 @@ electronic_mounting_hole_m3:
     kicad_reference: H
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 872f01e756948c570b070f1966ea2f26
     md5_10: 872f01e756
     md5_5: 872f0
@@ -11485,6 +11875,7 @@ electronic_mounting_hole_m6:
     kicad_reference: H
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fbea6534b8834126a7a8dd2e02368bd1
     md5_10: fbea6534b8
     md5_5: fbea6
@@ -11516,6 +11907,7 @@ electronic_nettie_2_nets_smd:
     kicad_reference: ''
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4ef35d1f2d790456123942109a5f27e9
     md5_10: 4ef35d1f2d
     md5_5: 4ef35
@@ -11547,6 +11939,7 @@ electronic_nettie_2_nets_through_hole:
     kicad_reference: ''
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c86bdf842046e81ba413e322d79ac3dc
     md5_10: c86bdf8420
     md5_5: c86bd
@@ -11578,6 +11971,7 @@ electronic_nettie_3_nets_smd:
     kicad_reference: ''
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 494314f1c04b845b745ce0bd6ae8e357
     md5_10: 494314f1c0
     md5_5: '49431'
@@ -11609,6 +12003,7 @@ electronic_nettie_3_nets_through_hole:
     kicad_reference: ''
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bfa6ff6edd982b6107b4a71433ca5d67
     md5_10: bfa6ff6edd
     md5_5: bfa6f
@@ -11640,6 +12035,7 @@ electronic_nettie_4_nets_smd:
     kicad_reference: ''
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cd720732d76fb973d0de468f71781e99
     md5_10: cd720732d7
     md5_5: cd720
@@ -11671,6 +12067,7 @@ electronic_nettie_4_nets_through_hole:
     kicad_reference: ''
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ac52abec84c9c9c28eb15db0ca925cd9
     md5_10: ac52abec84
     md5_5: ac52a
@@ -11699,6 +12096,7 @@ electronic_pmic_sot_223_linear_1117_1_5_volt:
     id: electronic_pmic_sot_223_linear_1117_1_5_volt
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6dc5a408f889c1eeeef36d9b6bef6012
     md5_10: 6dc5a408f8
     md5_5: 6dc5a
@@ -11728,6 +12126,7 @@ electronic_pmic_sot_223_linear_1117_1_8_volt:
     id: electronic_pmic_sot_223_linear_1117_1_8_volt
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1ae2ec9bc6ca9d86e38f14487d5958be
     md5_10: 1ae2ec9bc6
     md5_5: 1ae2e
@@ -11757,6 +12156,7 @@ electronic_pmic_sot_223_linear_1117_2_5_volt:
     id: electronic_pmic_sot_223_linear_1117_2_5_volt
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 53edd7c9f0df3cebd77a55ecf56ac34b
     md5_10: 53edd7c9f0
     md5_5: 53edd
@@ -11786,6 +12186,7 @@ electronic_pmic_sot_223_linear_1117_3_3_volt:
     id: electronic_pmic_sot_223_linear_1117_3_3_volt
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 24ed557c93e5cb4d939bb45cf16d2762
     md5_10: 24ed557c93
     md5_5: 24ed5
@@ -11815,6 +12216,7 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     id: electronic_pmic_sot_223_linear_1117_5_volt
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f26ce0b91db98ace92559b334d2cc5a6
     md5_10: f26ce0b91d
     md5_5: f26ce
@@ -11844,6 +12246,7 @@ electronic_pmic_sot_223_linear_1117_adj:
     id: electronic_pmic_sot_223_linear_1117_adj
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cdc5644737274c72642f6d91b99a7aaa
     md5_10: cdc5644737
     md5_5: cdc56
@@ -11872,6 +12275,7 @@ electronic_resistor_0201_10000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: eb63616d41950f699727591bbd4cb3c5
     md5_10: eb63616d41
     md5_5: eb636
@@ -11899,6 +12303,7 @@ electronic_resistor_0201_1000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bd0164c25fa7070a4c56c0c88b152d73
     md5_10: bd0164c25f
     md5_5: bd016
@@ -11926,6 +12331,7 @@ electronic_resistor_0201_100000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2841761d57f8749b807a69f15974243d
     md5_10: 2841761d57
     md5_5: '28417'
@@ -11953,6 +12359,7 @@ electronic_resistor_0201_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 483fd99947df66b7ab468738add0d1af
     md5_10: 483fd99947
     md5_5: 483fd
@@ -11980,6 +12387,7 @@ electronic_resistor_0201_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7d3edbc4f53a165405c54f8660a29681
     md5_10: 7d3edbc4f5
     md5_5: 7d3ed
@@ -12007,6 +12415,7 @@ electronic_resistor_0201_100_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f2026482a1dc7d66f97269197301686a
     md5_10: f2026482a1
     md5_5: f2026
@@ -12034,6 +12443,7 @@ electronic_resistor_0201_10_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ffce46901c230c62d4fd697281fa739a
     md5_10: ffce46901c
     md5_5: ffce4
@@ -12061,6 +12471,7 @@ electronic_resistor_0201_12000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 56b09454929b2f1171a57fbf797d6d8f
     md5_10: 56b0945492
     md5_5: 56b09
@@ -12088,6 +12499,7 @@ electronic_resistor_0201_1200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 72c084bde1638748b43ea6bab2f0441e
     md5_10: 72c084bde1
     md5_5: 72c08
@@ -12115,6 +12527,7 @@ electronic_resistor_0201_120_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 497fea9b9a4bc18b40f176b147f74b40
     md5_10: 497fea9b9a
     md5_5: 497fe
@@ -12142,6 +12555,7 @@ electronic_resistor_0201_12_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2fb500e4a7cbc2c1c61acd8fccdb8f00
     md5_10: 2fb500e4a7
     md5_5: 2fb50
@@ -12169,6 +12583,7 @@ electronic_resistor_0201_15000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4c89d72580b174e92d1ecefe6517c95f
     md5_10: 4c89d72580
     md5_5: 4c89d
@@ -12196,6 +12611,7 @@ electronic_resistor_0201_1500_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 087d40a1b1b982ba532f7645705e1190
     md5_10: 087d40a1b1
     md5_5: 087d4
@@ -12223,6 +12639,7 @@ electronic_resistor_0201_150_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 941db78b467ff73cf051da0c3ad52c7f
     md5_10: 941db78b46
     md5_5: 941db
@@ -12250,6 +12667,7 @@ electronic_resistor_0201_15_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e705cf7eb744a8901eaa82a07577c10e
     md5_10: e705cf7eb7
     md5_5: e705c
@@ -12277,6 +12695,7 @@ electronic_resistor_0201_18000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 435cc9c7d7a26101c06d4a7fd2484c46
     md5_10: 435cc9c7d7
     md5_5: 435cc
@@ -12304,6 +12723,7 @@ electronic_resistor_0201_1800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b7ea3fe27a4eadddd46c9ef3eb142349
     md5_10: b7ea3fe27a
     md5_5: b7ea3
@@ -12331,6 +12751,7 @@ electronic_resistor_0201_180_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3adf2d5f1f075a056d44108348a3ca43
     md5_10: 3adf2d5f1f
     md5_5: 3adf2
@@ -12358,6 +12779,7 @@ electronic_resistor_0201_18_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: eb976abb57848dfc6abdf5574e80f73b
     md5_10: eb976abb57
     md5_5: eb976
@@ -12385,6 +12807,7 @@ electronic_resistor_0201_22000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 19e1b665ffaa636cefcad8f465d02313
     md5_10: 19e1b665ff
     md5_5: 19e1b
@@ -12412,6 +12835,7 @@ electronic_resistor_0201_2200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 264ba5dcce62226b1802c1adb9bece20
     md5_10: 264ba5dcce
     md5_5: 264ba
@@ -12439,6 +12863,7 @@ electronic_resistor_0201_220_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b238f1f80dd2adc471784e231c1f543c
     md5_10: b238f1f80d
     md5_5: b238f
@@ -12466,6 +12891,7 @@ electronic_resistor_0201_22_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7a12ec4ecfcb8ec3544253851f5681f0
     md5_10: 7a12ec4ecf
     md5_5: 7a12e
@@ -12493,6 +12919,7 @@ electronic_resistor_0201_27000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1dd972add56e09828da5f5c8675665e3
     md5_10: 1dd972add5
     md5_5: 1dd97
@@ -12520,6 +12947,7 @@ electronic_resistor_0201_2700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8f749000c63b0d4735dd7747f421d27a
     md5_10: 8f749000c6
     md5_5: 8f749
@@ -12547,6 +12975,7 @@ electronic_resistor_0201_270_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4b2be0922eb2866eaedb9816d7381327
     md5_10: 4b2be0922e
     md5_5: 4b2be
@@ -12574,6 +13003,7 @@ electronic_resistor_0201_27_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ea129158b1345564ad096ca691fdcfcd
     md5_10: ea129158b1
     md5_5: ea129
@@ -12601,6 +13031,7 @@ electronic_resistor_0201_33000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 13c1e8fa37093837f2086747790e8c30
     md5_10: 13c1e8fa37
     md5_5: 13c1e
@@ -12628,6 +13059,7 @@ electronic_resistor_0201_3300_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7d82195986cd8e7a04b75a7d8365bf46
     md5_10: 7d82195986
     md5_5: 7d821
@@ -12655,6 +13087,7 @@ electronic_resistor_0201_330_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 703156f2a2502e33d0f4689497b065c3
     md5_10: 703156f2a2
     md5_5: '70315'
@@ -12682,6 +13115,7 @@ electronic_resistor_0201_33_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b040250fc4baab3147145596f7b841ca
     md5_10: b040250fc4
     md5_5: b0402
@@ -12709,6 +13143,7 @@ electronic_resistor_0201_39000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 37cd74b1b0110870c6c1841648cddc2a
     md5_10: 37cd74b1b0
     md5_5: 37cd7
@@ -12736,6 +13171,7 @@ electronic_resistor_0201_3900_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3d5f84104865192cdf962b8554c42ef3
     md5_10: 3d5f841048
     md5_5: 3d5f8
@@ -12763,6 +13199,7 @@ electronic_resistor_0201_390_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f421d2f94c62c3ad3f5a104e65cc099a
     md5_10: f421d2f94c
     md5_5: f421d
@@ -12790,6 +13227,7 @@ electronic_resistor_0201_39_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5ce55f7a191553ef2668a8494151ca8f
     md5_10: 5ce55f7a19
     md5_5: 5ce55
@@ -12817,6 +13255,7 @@ electronic_resistor_0201_47000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a6ab09962d33f50c4a1b3a9c68ac80f6
     md5_10: a6ab09962d
     md5_5: a6ab0
@@ -12844,6 +13283,7 @@ electronic_resistor_0201_4700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0cc095c76a6d11d8bb49bc9053257eaf
     md5_10: 0cc095c76a
     md5_5: 0cc09
@@ -12871,6 +13311,7 @@ electronic_resistor_0201_470_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e8babb9acd0c694f34a1e9342f029709
     md5_10: e8babb9acd
     md5_5: e8bab
@@ -12898,6 +13339,7 @@ electronic_resistor_0201_47_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5f674a796a7925154bc50df40afedb97
     md5_10: 5f674a796a
     md5_5: 5f674
@@ -12925,6 +13367,7 @@ electronic_resistor_0201_56000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6acc420b7bf7251b1479cd2589a553b9
     md5_10: 6acc420b7b
     md5_5: 6acc4
@@ -12952,6 +13395,7 @@ electronic_resistor_0201_5600_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 592e1a115978f85aef8c2ccc9afa0d8f
     md5_10: 592e1a1159
     md5_5: 592e1
@@ -12979,6 +13423,7 @@ electronic_resistor_0201_560_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1e228d96d284e28734dab6c33e5cfc0d
     md5_10: 1e228d96d2
     md5_5: 1e228
@@ -13006,6 +13451,7 @@ electronic_resistor_0201_56_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c487e53883bc71599782f165ad4e19cd
     md5_10: c487e53883
     md5_5: c487e
@@ -13033,6 +13479,7 @@ electronic_resistor_0201_68000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6550d3e8d3554dbcdb8206f6baa17777
     md5_10: 6550d3e8d3
     md5_5: 6550d
@@ -13060,6 +13507,7 @@ electronic_resistor_0201_6800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6e61e24408adf26324121374f4a51478
     md5_10: 6e61e24408
     md5_5: 6e61e
@@ -13087,6 +13535,7 @@ electronic_resistor_0201_680_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 373d945785c04c3622aa474d1db3d635
     md5_10: 373d945785
     md5_5: 373d9
@@ -13114,6 +13563,7 @@ electronic_resistor_0201_68_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9759e76ec8aa629ca0c40d23fc164cf1
     md5_10: 9759e76ec8
     md5_5: 9759e
@@ -13141,6 +13591,7 @@ electronic_resistor_0201_82000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1c82122eed55e31a1eeb1f78474d683d
     md5_10: 1c82122eed
     md5_5: 1c821
@@ -13168,6 +13619,7 @@ electronic_resistor_0201_8200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a484862aba1bc0bb7354c64c5faefbb0
     md5_10: a484862aba
     md5_5: a4848
@@ -13195,6 +13647,7 @@ electronic_resistor_0201_820_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ea44f726246dc0c99500106f1315752a
     md5_10: ea44f72624
     md5_5: ea44f
@@ -13222,6 +13675,7 @@ electronic_resistor_0201_82_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d46f6f304d29058a7d5d7d9bf88b2c8c
     md5_10: d46f6f304d
     md5_5: d46f6
@@ -13249,6 +13703,7 @@ electronic_resistor_0402_10000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7e8ad18b1267e55b97907530e3058d86
     md5_10: 7e8ad18b12
     md5_5: 7e8ad
@@ -13276,6 +13731,7 @@ electronic_resistor_0402_1000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fa9a06781bf3c9af13f5f2efede8414a
     md5_10: fa9a06781b
     md5_5: fa9a0
@@ -13303,6 +13759,7 @@ electronic_resistor_0402_100000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bd55c028a0228f5cc2da2c9bffe6e19e
     md5_10: bd55c028a0
     md5_5: bd55c
@@ -13330,6 +13787,7 @@ electronic_resistor_0402_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 809c3c0eebd9db9a8729102e6b3027c7
     md5_10: 809c3c0eeb
     md5_5: 809c3
@@ -13357,6 +13815,7 @@ electronic_resistor_0402_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 70cb9a65beb74c5b856215050b7c3469
     md5_10: 70cb9a65be
     md5_5: 70cb9
@@ -13384,6 +13843,7 @@ electronic_resistor_0402_100_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5115eb5c6144e661f58cec2948671275
     md5_10: 5115eb5c61
     md5_5: 5115e
@@ -13411,6 +13871,7 @@ electronic_resistor_0402_10_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 63d68b26f18096c818c6093bdaaf74b1
     md5_10: 63d68b26f1
     md5_5: 63d68
@@ -13438,6 +13899,7 @@ electronic_resistor_0402_12000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 381511d69703c3ea4e5fa68e04475b46
     md5_10: 381511d697
     md5_5: '38151'
@@ -13465,6 +13927,7 @@ electronic_resistor_0402_1200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 413868e86c1750d1d020376955945d9a
     md5_10: 413868e86c
     md5_5: '41386'
@@ -13492,6 +13955,7 @@ electronic_resistor_0402_120_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 726f82b1739070d32eed96f6321da117
     md5_10: 726f82b173
     md5_5: 726f8
@@ -13519,6 +13983,7 @@ electronic_resistor_0402_12_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 77b9917b0f9e31b4afa36ad766f5043e
     md5_10: 77b9917b0f
     md5_5: 77b99
@@ -13546,6 +14011,7 @@ electronic_resistor_0402_15000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b387113bb701a1d8fa4ca06bec5ef652
     md5_10: b387113bb7
     md5_5: b3871
@@ -13573,6 +14039,7 @@ electronic_resistor_0402_1500_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1e91dd264b58aff044eadaf0f91b45fa
     md5_10: 1e91dd264b
     md5_5: 1e91d
@@ -13600,6 +14067,7 @@ electronic_resistor_0402_150_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ae6b63be42faf45d4b8646e326bebaa2
     md5_10: ae6b63be42
     md5_5: ae6b6
@@ -13627,6 +14095,7 @@ electronic_resistor_0402_15_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4549d4cb03545b2d971f82f2e61049c2
     md5_10: 4549d4cb03
     md5_5: 4549d
@@ -13654,6 +14123,7 @@ electronic_resistor_0402_18000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 836886f54c4c76e4e15e8b007a8c57d0
     md5_10: 836886f54c
     md5_5: '83688'
@@ -13681,6 +14151,7 @@ electronic_resistor_0402_1800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6873b430fbe23935d34fe1d82520c13f
     md5_10: 6873b430fb
     md5_5: 6873b
@@ -13708,6 +14179,7 @@ electronic_resistor_0402_180_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7cf0fca36f3b2c551b3e35dc6376628a
     md5_10: 7cf0fca36f
     md5_5: 7cf0f
@@ -13735,6 +14207,7 @@ electronic_resistor_0402_18_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a9dd7411b96181381dbbba60cd360aca
     md5_10: a9dd7411b9
     md5_5: a9dd7
@@ -13762,6 +14235,7 @@ electronic_resistor_0402_22000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 74ff819e3dbb5c9d5b36eac9b1607055
     md5_10: 74ff819e3d
     md5_5: 74ff8
@@ -13789,6 +14263,7 @@ electronic_resistor_0402_2200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 67c39c37d57e5587bec2f7026841eb42
     md5_10: 67c39c37d5
     md5_5: 67c39
@@ -13816,6 +14291,7 @@ electronic_resistor_0402_220_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e307804ecda357eb9881fbdfdbe3a02c
     md5_10: e307804ecd
     md5_5: e3078
@@ -13843,6 +14319,7 @@ electronic_resistor_0402_22_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6475a296bea487c84aca85f43c15a4da
     md5_10: 6475a296be
     md5_5: 6475a
@@ -13870,6 +14347,7 @@ electronic_resistor_0402_27000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 252262294840cf0527433c0eccb1bb93
     md5_10: '2522622948'
     md5_5: '25226'
@@ -13897,6 +14375,7 @@ electronic_resistor_0402_2700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a79f6548696873334016d9ad3ba271b2
     md5_10: a79f654869
     md5_5: a79f6
@@ -13924,6 +14403,7 @@ electronic_resistor_0402_270_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b836b9d168fffa13b55b42208100fb52
     md5_10: b836b9d168
     md5_5: b836b
@@ -13951,6 +14431,7 @@ electronic_resistor_0402_27_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 03eda3159cf4ecc41770c0ea8aacf6bc
     md5_10: 03eda3159c
     md5_5: 03eda
@@ -13978,6 +14459,7 @@ electronic_resistor_0402_33000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e4150f2a2602aedae30a876ff69b3e27
     md5_10: e4150f2a26
     md5_5: e4150
@@ -14005,6 +14487,7 @@ electronic_resistor_0402_3300_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fcf53e6757cae71916db06c02bd039fd
     md5_10: fcf53e6757
     md5_5: fcf53
@@ -14032,6 +14515,7 @@ electronic_resistor_0402_330_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6a15cd4ddfffdcef378baf6bcfac050b
     md5_10: 6a15cd4ddf
     md5_5: 6a15c
@@ -14059,6 +14543,7 @@ electronic_resistor_0402_33_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0e842667082879cfc5fa5e73edccd4d1
     md5_10: 0e84266708
     md5_5: 0e842
@@ -14086,6 +14571,7 @@ electronic_resistor_0402_39000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 98195244940a4b8b644df1e5a8848ec0
     md5_10: '9819524494'
     md5_5: '98195'
@@ -14113,6 +14599,7 @@ electronic_resistor_0402_3900_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a39da3c2b0054df7f33a1f70ef536f52
     md5_10: a39da3c2b0
     md5_5: a39da
@@ -14140,6 +14627,7 @@ electronic_resistor_0402_390_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9d059da8937dbcbb2228979929bba104
     md5_10: 9d059da893
     md5_5: 9d059
@@ -14167,6 +14655,7 @@ electronic_resistor_0402_39_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 051e9a1de9c9dd8e87376ad32a06db17
     md5_10: 051e9a1de9
     md5_5: 051e9
@@ -14194,6 +14683,7 @@ electronic_resistor_0402_47000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ea4b8729353a98822f221c82eb6e3aaf
     md5_10: ea4b872935
     md5_5: ea4b8
@@ -14221,6 +14711,7 @@ electronic_resistor_0402_4700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b5dd74ab93cea496596d628179ee139e
     md5_10: b5dd74ab93
     md5_5: b5dd7
@@ -14248,6 +14739,7 @@ electronic_resistor_0402_470_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3458cec1d0791a109907cdb57810c407
     md5_10: 3458cec1d0
     md5_5: 3458c
@@ -14275,6 +14767,7 @@ electronic_resistor_0402_47_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e2dc1458882112f26abc9824a2eb5b0e
     md5_10: e2dc145888
     md5_5: e2dc1
@@ -14302,6 +14795,7 @@ electronic_resistor_0402_56000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3bf2f2bf9d3afa36d46508934731a7be
     md5_10: 3bf2f2bf9d
     md5_5: 3bf2f
@@ -14329,6 +14823,7 @@ electronic_resistor_0402_5600_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8b307b2f986c4efca7666f0676203e4a
     md5_10: 8b307b2f98
     md5_5: 8b307
@@ -14356,6 +14851,7 @@ electronic_resistor_0402_560_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 36544347913bccfd754a9e0d94d69903
     md5_10: '3654434791'
     md5_5: '36544'
@@ -14383,6 +14879,7 @@ electronic_resistor_0402_56_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: dae10787b183629e9ce36a37dec958ea
     md5_10: dae10787b1
     md5_5: dae10
@@ -14410,6 +14907,7 @@ electronic_resistor_0402_68000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f0c1d5ea423fd2a0884cb88ff19c2e56
     md5_10: f0c1d5ea42
     md5_5: f0c1d
@@ -14437,6 +14935,7 @@ electronic_resistor_0402_6800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bc6d5096a4148bc54279ced68bb55ff7
     md5_10: bc6d5096a4
     md5_5: bc6d5
@@ -14464,6 +14963,7 @@ electronic_resistor_0402_680_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7bcc213feb320a61f529a8467b045787
     md5_10: 7bcc213feb
     md5_5: 7bcc2
@@ -14491,6 +14991,7 @@ electronic_resistor_0402_68_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c8a2f5c8d2a612131492a2f423769963
     md5_10: c8a2f5c8d2
     md5_5: c8a2f
@@ -14518,6 +15019,7 @@ electronic_resistor_0402_82000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 02af0001021282ab1114d5ab3b066b0a
     md5_10: 02af000102
     md5_5: 02af0
@@ -14545,6 +15047,7 @@ electronic_resistor_0402_8200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1f38f736ceea0a172528cbc3e7e0cc0f
     md5_10: 1f38f736ce
     md5_5: 1f38f
@@ -14572,6 +15075,7 @@ electronic_resistor_0402_820_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2edc8cfb980d0f82c4e4b19521512ff9
     md5_10: 2edc8cfb98
     md5_5: 2edc8
@@ -14599,6 +15103,7 @@ electronic_resistor_0402_82_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9a8de94ae6d80203f82236e690c34386
     md5_10: 9a8de94ae6
     md5_5: 9a8de
@@ -14630,6 +15135,7 @@ electronic_resistor_0603_10000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 704d7d3d2ce4918849d089aad22f1d8b
     md5_10: 704d7d3d2c
     md5_5: 704d7
@@ -14661,6 +15167,7 @@ electronic_resistor_0603_1000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 75f37014023b2e3d1d68b5c21e2384c2
     md5_10: 75f3701402
     md5_5: 75f37
@@ -14692,6 +15199,7 @@ electronic_resistor_0603_100000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 9dbf6458e71042acf5a2526f1c5abdad
     md5_10: 9dbf6458e7
     md5_5: 9dbf6
@@ -14723,6 +15231,7 @@ electronic_resistor_0603_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 98b9ca34207fb0534abeb029e2151ce1
     md5_10: 98b9ca3420
     md5_5: 98b9c
@@ -14754,6 +15263,7 @@ electronic_resistor_0603_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 01afabf1a1678439fdd5ce5dd9569083
     md5_10: 01afabf1a1
     md5_5: 01afa
@@ -14785,6 +15295,7 @@ electronic_resistor_0603_100_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 560a9abfe6baee6dda04d14bc7f86ae5
     md5_10: 560a9abfe6
     md5_5: 560a9
@@ -14816,6 +15327,7 @@ electronic_resistor_0603_10_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 51a509beb2e30d40643cbbd2fcd6b2bc
     md5_10: 51a509beb2
     md5_5: 51a50
@@ -14847,6 +15359,7 @@ electronic_resistor_0603_12000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f4743d64d64d1052565128f801a40012
     md5_10: f4743d64d6
     md5_5: f4743
@@ -14878,6 +15391,7 @@ electronic_resistor_0603_1200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1db8ad8f32185976b5c1e17c2c2e6b7e
     md5_10: 1db8ad8f32
     md5_5: 1db8a
@@ -14909,6 +15423,7 @@ electronic_resistor_0603_120_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 82582879835ed17e8220b08da98d776b
     md5_10: '8258287983'
     md5_5: '82582'
@@ -14940,6 +15455,7 @@ electronic_resistor_0603_12_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1559b840fa49ec0552d6dc48b9015f46
     md5_10: 1559b840fa
     md5_5: 1559b
@@ -14971,6 +15487,7 @@ electronic_resistor_0603_15000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4eb5f5818a59e3b01b74829d48ec7319
     md5_10: 4eb5f5818a
     md5_5: 4eb5f
@@ -15002,6 +15519,7 @@ electronic_resistor_0603_1500_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2f65c7fd066796b3b282d88267550b17
     md5_10: 2f65c7fd06
     md5_5: 2f65c
@@ -15033,6 +15551,7 @@ electronic_resistor_0603_150_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 84ae3b7d321743959fbe1139ae63bfc2
     md5_10: 84ae3b7d32
     md5_5: 84ae3
@@ -15064,6 +15583,7 @@ electronic_resistor_0603_15_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 05511c3fcfdbe07a8bd55fe3a41c9a6c
     md5_10: 05511c3fcf
     md5_5: '05511'
@@ -15095,6 +15615,7 @@ electronic_resistor_0603_18000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fa25d22bae4c69eda8634ce0e9716b1a
     md5_10: fa25d22bae
     md5_5: fa25d
@@ -15126,6 +15647,7 @@ electronic_resistor_0603_1800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 24d8c5d2a9edcd1f71993944de62f590
     md5_10: 24d8c5d2a9
     md5_5: 24d8c
@@ -15157,6 +15679,7 @@ electronic_resistor_0603_180_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8e42ecfeef71c8a7c3374c9e3e3e5c12
     md5_10: 8e42ecfeef
     md5_5: 8e42e
@@ -15188,6 +15711,7 @@ electronic_resistor_0603_18_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ff567d1e398c99cad62578d4bc64c61a
     md5_10: ff567d1e39
     md5_5: ff567
@@ -15219,6 +15743,7 @@ electronic_resistor_0603_22000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1fe71377ebe9401bc8abc6de4392fd9c
     md5_10: 1fe71377eb
     md5_5: 1fe71
@@ -15250,6 +15775,7 @@ electronic_resistor_0603_2200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3124032f8066a1155c800fc6b165948a
     md5_10: 3124032f80
     md5_5: '31240'
@@ -15281,6 +15807,7 @@ electronic_resistor_0603_220_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0fe784240d0f7d5415a100c0e85df134
     md5_10: 0fe784240d
     md5_5: 0fe78
@@ -15312,6 +15839,7 @@ electronic_resistor_0603_22_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c05ffab15f6ad66dd4e8eea25cb8b135
     md5_10: c05ffab15f
     md5_5: c05ff
@@ -15343,6 +15871,7 @@ electronic_resistor_0603_27000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 385d5933f6035f21b574b7b3cbd9bbcd
     md5_10: 385d5933f6
     md5_5: 385d5
@@ -15374,6 +15903,7 @@ electronic_resistor_0603_2700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: aa96c6374435919a1464d5820cc94c70
     md5_10: aa96c63744
     md5_5: aa96c
@@ -15405,6 +15935,7 @@ electronic_resistor_0603_270_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a1e4a9296ab2da74a9b8302510b1d429
     md5_10: a1e4a9296a
     md5_5: a1e4a
@@ -15436,6 +15967,7 @@ electronic_resistor_0603_27_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e595d51196291047fe02e340c3d9d489
     md5_10: e595d51196
     md5_5: e595d
@@ -15467,6 +15999,7 @@ electronic_resistor_0603_33000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 596e08d199919dbb023da564d3cfd93e
     md5_10: 596e08d199
     md5_5: 596e0
@@ -15498,6 +16031,7 @@ electronic_resistor_0603_3300_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 24b74f09ef4d73197c1599bbc11d9403
     md5_10: 24b74f09ef
     md5_5: 24b74
@@ -15529,6 +16063,7 @@ electronic_resistor_0603_330_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5ca593d15951b92a6ad1b19b156e6052
     md5_10: 5ca593d159
     md5_5: 5ca59
@@ -15560,6 +16095,7 @@ electronic_resistor_0603_33_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0a830d5e2694bbb990e62591e7d7df06
     md5_10: 0a830d5e26
     md5_5: 0a830
@@ -15591,6 +16127,7 @@ electronic_resistor_0603_39000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c60bfbc9533310382a360d07dbf1af29
     md5_10: c60bfbc953
     md5_5: c60bf
@@ -15622,6 +16159,7 @@ electronic_resistor_0603_3900_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5dfedec8d4f34f6f9a501eff45db9706
     md5_10: 5dfedec8d4
     md5_5: 5dfed
@@ -15653,6 +16191,7 @@ electronic_resistor_0603_390_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a4f2994a90a3ad77bd8423f384df31f5
     md5_10: a4f2994a90
     md5_5: a4f29
@@ -15684,6 +16223,7 @@ electronic_resistor_0603_39_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a487b1d10264fcca08552359a0019ee1
     md5_10: a487b1d102
     md5_5: a487b
@@ -15715,6 +16255,7 @@ electronic_resistor_0603_47000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cb6d6ecee78f82a38c256f006416138b
     md5_10: cb6d6ecee7
     md5_5: cb6d6
@@ -15746,6 +16287,7 @@ electronic_resistor_0603_4700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 778076e905b7338186dcc4c3b8b6d0e2
     md5_10: 778076e905
     md5_5: '77807'
@@ -15777,6 +16319,7 @@ electronic_resistor_0603_470_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1f653906e6ebed17383536eb90a58a79
     md5_10: 1f653906e6
     md5_5: 1f653
@@ -15808,6 +16351,7 @@ electronic_resistor_0603_47_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a7ac6cea85b8741f6175603c741dd065
     md5_10: a7ac6cea85
     md5_5: a7ac6
@@ -15839,6 +16383,7 @@ electronic_resistor_0603_56000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5e9924be9b909bac468394fc7c214ff3
     md5_10: 5e9924be9b
     md5_5: 5e992
@@ -15870,6 +16415,7 @@ electronic_resistor_0603_5600_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 18de6fe05df36c4c720f1bdff76c0fc7
     md5_10: 18de6fe05d
     md5_5: 18de6
@@ -15901,6 +16447,7 @@ electronic_resistor_0603_560_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 18768550518624924d81808590b67894
     md5_10: '1876855051'
     md5_5: '18768'
@@ -15932,6 +16479,7 @@ electronic_resistor_0603_56_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 136ec9dac0a4e671f7539fe7ba653d85
     md5_10: 136ec9dac0
     md5_5: 136ec
@@ -15963,6 +16511,7 @@ electronic_resistor_0603_68000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6a92e2163000563ae928b5f30e82dd7e
     md5_10: 6a92e21630
     md5_5: 6a92e
@@ -15994,6 +16543,7 @@ electronic_resistor_0603_6800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d033b82a6ecb46124f963e3ef936333e
     md5_10: d033b82a6e
     md5_5: d033b
@@ -16025,6 +16575,7 @@ electronic_resistor_0603_680_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 03b8f9275efd5904234d746eadf836d9
     md5_10: 03b8f9275e
     md5_5: 03b8f
@@ -16056,6 +16607,7 @@ electronic_resistor_0603_68_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e9d76e74a0491580aa3cf15c25b95642
     md5_10: e9d76e74a0
     md5_5: e9d76
@@ -16087,6 +16639,7 @@ electronic_resistor_0603_82000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 40bbdf03cb5704f45d93c6d05398ae35
     md5_10: 40bbdf03cb
     md5_5: 40bbd
@@ -16118,6 +16671,7 @@ electronic_resistor_0603_8200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a922b947dccc0108e3a430583ba2666b
     md5_10: a922b947dc
     md5_5: a922b
@@ -16149,6 +16703,7 @@ electronic_resistor_0603_820_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 872386c8c2d0cbe6d86ef71cae501d24
     md5_10: 872386c8c2
     md5_5: '87238'
@@ -16180,6 +16735,7 @@ electronic_resistor_0603_82_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 825d758ddacd4f1e05a6eb369c752271
     md5_10: 825d758dda
     md5_5: 825d7
@@ -16211,6 +16767,7 @@ electronic_resistor_0805_10000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 07c0ee9099ded4edc752d2ece54f33bc
     md5_10: 07c0ee9099
     md5_5: 07c0e
@@ -16242,6 +16799,7 @@ electronic_resistor_0805_1000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c27a2f9b99a71e314faf59d36ca19114
     md5_10: c27a2f9b99
     md5_5: c27a2
@@ -16273,6 +16831,7 @@ electronic_resistor_0805_100000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 39961fecb40bb84c260f2331fb54696a
     md5_10: 39961fecb4
     md5_5: '39961'
@@ -16304,6 +16863,7 @@ electronic_resistor_0805_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 231e3bb5f9ad13dc1bdde838e2850d71
     md5_10: 231e3bb5f9
     md5_5: 231e3
@@ -16335,6 +16895,7 @@ electronic_resistor_0805_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ea892e10b7f3a4e4f941f7283e29d5e3
     md5_10: ea892e10b7
     md5_5: ea892
@@ -16366,6 +16927,7 @@ electronic_resistor_0805_100_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 45c66bbd2d20ad9836e12d2661c0f7c9
     md5_10: 45c66bbd2d
     md5_5: 45c66
@@ -16397,6 +16959,7 @@ electronic_resistor_0805_10_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: baacdb6df1f55620376f7a44eadb27c8
     md5_10: baacdb6df1
     md5_5: baacd
@@ -16428,6 +16991,7 @@ electronic_resistor_0805_12000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 791b04924e3545dfbae6cfb69f9d98a6
     md5_10: 791b04924e
     md5_5: 791b0
@@ -16459,6 +17023,7 @@ electronic_resistor_0805_1200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: aa2f8b96df64cd27de8261faef9c4187
     md5_10: aa2f8b96df
     md5_5: aa2f8
@@ -16490,6 +17055,7 @@ electronic_resistor_0805_120_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6a9c168866fbcf3d4f6e25b56adcce7a
     md5_10: 6a9c168866
     md5_5: 6a9c1
@@ -16521,6 +17087,7 @@ electronic_resistor_0805_12_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 092133c2583796ec0be32fc203288dc9
     md5_10: 092133c258
     md5_5: 09213
@@ -16552,6 +17119,7 @@ electronic_resistor_0805_15000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 090281697a7ec652f8a222546c8b65fa
     md5_10: 090281697a
     md5_5: 09028
@@ -16583,6 +17151,7 @@ electronic_resistor_0805_1500_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7966161bbcfc330e7ad8348260404a99
     md5_10: 7966161bbc
     md5_5: '79661'
@@ -16614,6 +17183,7 @@ electronic_resistor_0805_150_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b8458e703cf9ac2b5caaeb6772023400
     md5_10: b8458e703c
     md5_5: b8458
@@ -16645,6 +17215,7 @@ electronic_resistor_0805_15_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 78f49120ede58e890784b01b31777d32
     md5_10: 78f49120ed
     md5_5: 78f49
@@ -16676,6 +17247,7 @@ electronic_resistor_0805_18000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 669f3f1f1b51fa4123291bb8dbdbca0e
     md5_10: 669f3f1f1b
     md5_5: 669f3
@@ -16707,6 +17279,7 @@ electronic_resistor_0805_1800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 70eadfc5ff0aecc6978e8854a84315ca
     md5_10: 70eadfc5ff
     md5_5: 70ead
@@ -16738,6 +17311,7 @@ electronic_resistor_0805_180_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 40b16c7f97bab9d7362c6d9e91699e2f
     md5_10: 40b16c7f97
     md5_5: 40b16
@@ -16769,6 +17343,7 @@ electronic_resistor_0805_18_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1a24cb8fb73f59ce7e0a05a71b6ccbad
     md5_10: 1a24cb8fb7
     md5_5: 1a24c
@@ -16800,6 +17375,7 @@ electronic_resistor_0805_22000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 40edf4b4fd5ce67c1d0c60636752654a
     md5_10: 40edf4b4fd
     md5_5: 40edf
@@ -16831,6 +17407,7 @@ electronic_resistor_0805_2200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c20cc43324d6079bb754f4e66a98df43
     md5_10: c20cc43324
     md5_5: c20cc
@@ -16862,6 +17439,7 @@ electronic_resistor_0805_220_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5b162aff3983302412c35d3a6a14a2a3
     md5_10: 5b162aff39
     md5_5: 5b162
@@ -16893,6 +17471,7 @@ electronic_resistor_0805_22_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c33a61c68af64528846264e1c3e8f986
     md5_10: c33a61c68a
     md5_5: c33a6
@@ -16924,6 +17503,7 @@ electronic_resistor_0805_27000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ee6333676e00dc2ea8b51fbee04ad578
     md5_10: ee6333676e
     md5_5: ee633
@@ -16955,6 +17535,7 @@ electronic_resistor_0805_2700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e2a6cb282a0ae5141a58cf1ad664fc7f
     md5_10: e2a6cb282a
     md5_5: e2a6c
@@ -16986,6 +17567,7 @@ electronic_resistor_0805_270_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f5c2b8589a3fd009e07dda1161ecb8c4
     md5_10: f5c2b8589a
     md5_5: f5c2b
@@ -17017,6 +17599,7 @@ electronic_resistor_0805_27_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f8f4b5bf5547ca8aa94a87d2c5128597
     md5_10: f8f4b5bf55
     md5_5: f8f4b
@@ -17048,6 +17631,7 @@ electronic_resistor_0805_33000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ce98ee403690bd5c44c51168006c182c
     md5_10: ce98ee4036
     md5_5: ce98e
@@ -17079,6 +17663,7 @@ electronic_resistor_0805_3300_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5e7c51e42d18f0d6d6b8796800bb7aa7
     md5_10: 5e7c51e42d
     md5_5: 5e7c5
@@ -17110,6 +17695,7 @@ electronic_resistor_0805_330_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ef20c6de86ae2e9ed674523d5a9c7e77
     md5_10: ef20c6de86
     md5_5: ef20c
@@ -17141,6 +17727,7 @@ electronic_resistor_0805_33_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 276d4d51fbbda02b36edddec1ec0c58a
     md5_10: 276d4d51fb
     md5_5: 276d4
@@ -17172,6 +17759,7 @@ electronic_resistor_0805_39000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 054758a25340131f9fbb8aff1aa2b7aa
     md5_10: 054758a253
     md5_5: '05475'
@@ -17203,6 +17791,7 @@ electronic_resistor_0805_3900_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 111e7acc921fc81374c204fd4b201dde
     md5_10: 111e7acc92
     md5_5: 111e7
@@ -17234,6 +17823,7 @@ electronic_resistor_0805_390_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 57e1280a4a53dd631f56d26ec27678a7
     md5_10: 57e1280a4a
     md5_5: 57e12
@@ -17265,6 +17855,7 @@ electronic_resistor_0805_39_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 09654c8063094b37d33bfd5d38e90780
     md5_10: 09654c8063
     md5_5: 09654
@@ -17296,6 +17887,7 @@ electronic_resistor_0805_47000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 81c7401a66b976078d382963965334dd
     md5_10: 81c7401a66
     md5_5: 81c74
@@ -17327,6 +17919,7 @@ electronic_resistor_0805_4700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5206fd609ee46efab6b3474c10c7f51c
     md5_10: 5206fd609e
     md5_5: 5206f
@@ -17358,6 +17951,7 @@ electronic_resistor_0805_470_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e70afe72a2784ebaa25ee6191e171a0c
     md5_10: e70afe72a2
     md5_5: e70af
@@ -17389,6 +17983,7 @@ electronic_resistor_0805_47_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 92b1552cd0ac15f6b87328b902d8696b
     md5_10: 92b1552cd0
     md5_5: 92b15
@@ -17420,6 +18015,7 @@ electronic_resistor_0805_56000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f38d53888801644b112fc29416c4fa79
     md5_10: f38d538888
     md5_5: f38d5
@@ -17451,6 +18047,7 @@ electronic_resistor_0805_5600_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1f1a079921c40414f0d38545af5e36c6
     md5_10: 1f1a079921
     md5_5: 1f1a0
@@ -17482,6 +18079,7 @@ electronic_resistor_0805_560_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2c77597a937c3b42455c416f00938ca6
     md5_10: 2c77597a93
     md5_5: 2c775
@@ -17513,6 +18111,7 @@ electronic_resistor_0805_56_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f429e1817e003d01daa0b5010c6230da
     md5_10: f429e1817e
     md5_5: f429e
@@ -17544,6 +18143,7 @@ electronic_resistor_0805_68000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 766568a1ece1a6ca893b06c745fc3f22
     md5_10: 766568a1ec
     md5_5: '76656'
@@ -17575,6 +18175,7 @@ electronic_resistor_0805_6800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 489ec8ba0e6187444771235aa674616e
     md5_10: 489ec8ba0e
     md5_5: 489ec
@@ -17606,6 +18207,7 @@ electronic_resistor_0805_680_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1081b5bf38e568b3f8d272e3bfa1a1ed
     md5_10: 1081b5bf38
     md5_5: 1081b
@@ -17637,6 +18239,7 @@ electronic_resistor_0805_68_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3a67184bfadbf9e93b3a86c608549034
     md5_10: 3a67184bfa
     md5_5: 3a671
@@ -17668,6 +18271,7 @@ electronic_resistor_0805_82000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 55a93055916cd522eb51824f1694d003
     md5_10: 55a9305591
     md5_5: 55a93
@@ -17699,6 +18303,7 @@ electronic_resistor_0805_8200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 842e0ecc56de39b394dec22797d1f521
     md5_10: 842e0ecc56
     md5_5: 842e0
@@ -17730,6 +18335,7 @@ electronic_resistor_0805_820_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 10be28dcd22ae7fd56c30c3ed836861f
     md5_10: 10be28dcd2
     md5_5: 10be2
@@ -17761,6 +18367,7 @@ electronic_resistor_0805_82_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2015cf70ca1f279a7f82f7b202242289
     md5_10: 2015cf70ca
     md5_5: 2015c
@@ -17792,6 +18399,7 @@ electronic_resistor_1206_10000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6d9ae0df9157c82244ad12d08de69127
     md5_10: 6d9ae0df91
     md5_5: 6d9ae
@@ -17823,6 +18431,7 @@ electronic_resistor_1206_1000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 31813013b984f1aacb31a4605c532a99
     md5_10: 31813013b9
     md5_5: '31813'
@@ -17854,6 +18463,7 @@ electronic_resistor_1206_100000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 65e6862e9ea3460c7934067c47dfd9f2
     md5_10: 65e6862e9e
     md5_5: 65e68
@@ -17885,6 +18495,7 @@ electronic_resistor_1206_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4463392d1bb23c1a300be2f63b87415b
     md5_10: 4463392d1b
     md5_5: '44633'
@@ -17916,6 +18527,7 @@ electronic_resistor_1206_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6feac05d0905254475195a1d5b317ee8
     md5_10: 6feac05d09
     md5_5: 6feac
@@ -17947,6 +18559,7 @@ electronic_resistor_1206_100_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 03805d2b3c281a8512e015622aa8211c
     md5_10: 03805d2b3c
     md5_5: 03805
@@ -17978,6 +18591,7 @@ electronic_resistor_1206_10_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 312d179af2eacb76ba5428d8c1c2794b
     md5_10: 312d179af2
     md5_5: 312d1
@@ -18009,6 +18623,7 @@ electronic_resistor_1206_12000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2d38533070b9a1e08d29064d673c405d
     md5_10: 2d38533070
     md5_5: 2d385
@@ -18040,6 +18655,7 @@ electronic_resistor_1206_1200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d4cd7a272e8133695661ffce44790a10
     md5_10: d4cd7a272e
     md5_5: d4cd7
@@ -18071,6 +18687,7 @@ electronic_resistor_1206_120_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8485d9d82ce8a4b9eec0782b28a43d1e
     md5_10: 8485d9d82c
     md5_5: 8485d
@@ -18102,6 +18719,7 @@ electronic_resistor_1206_12_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 05efec3ca24f6e55f09dd5b682a23035
     md5_10: 05efec3ca2
     md5_5: 05efe
@@ -18133,6 +18751,7 @@ electronic_resistor_1206_15000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 988b6e2db078b77b4c4c964fe6df68d1
     md5_10: 988b6e2db0
     md5_5: 988b6
@@ -18164,6 +18783,7 @@ electronic_resistor_1206_1500_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0c32a095f8d98bb97a2cab20f946add1
     md5_10: 0c32a095f8
     md5_5: 0c32a
@@ -18195,6 +18815,7 @@ electronic_resistor_1206_150_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a0b855d42dbefe9c0782ad778c37dc59
     md5_10: a0b855d42d
     md5_5: a0b85
@@ -18226,6 +18847,7 @@ electronic_resistor_1206_15_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 52b792020019d9a5df0785491e26fac2
     md5_10: 52b7920200
     md5_5: 52b79
@@ -18257,6 +18879,7 @@ electronic_resistor_1206_18000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c84dfd680aba2c05f41047fb95f03f58
     md5_10: c84dfd680a
     md5_5: c84df
@@ -18288,6 +18911,7 @@ electronic_resistor_1206_1800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 464c63a8c6b683f545f00aed89126a92
     md5_10: 464c63a8c6
     md5_5: 464c6
@@ -18319,6 +18943,7 @@ electronic_resistor_1206_180_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ac299614ff01d7d9bfd57fe84a5cfdc2
     md5_10: ac299614ff
     md5_5: ac299
@@ -18350,6 +18975,7 @@ electronic_resistor_1206_18_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 697272f32978c4e8f9b73ed5d2e5d2a0
     md5_10: 697272f329
     md5_5: '69727'
@@ -18381,6 +19007,7 @@ electronic_resistor_1206_22000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 556549c3e486f44b43fc0f5483487d2f
     md5_10: 556549c3e4
     md5_5: '55654'
@@ -18412,6 +19039,7 @@ electronic_resistor_1206_2200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: dee45bb538be34dace16d94da13c3851
     md5_10: dee45bb538
     md5_5: dee45
@@ -18443,6 +19071,7 @@ electronic_resistor_1206_220_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 459cf37186b49eff5d13533320e573bc
     md5_10: 459cf37186
     md5_5: 459cf
@@ -18474,6 +19103,7 @@ electronic_resistor_1206_22_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 95c0a23c931e464dad4c1883518628d8
     md5_10: 95c0a23c93
     md5_5: 95c0a
@@ -18505,6 +19135,7 @@ electronic_resistor_1206_27000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f1e2dddaa7478f0365f2748c0640e127
     md5_10: f1e2dddaa7
     md5_5: f1e2d
@@ -18536,6 +19167,7 @@ electronic_resistor_1206_2700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 856f42b4443a8b2625023742fb35d69c
     md5_10: 856f42b444
     md5_5: 856f4
@@ -18567,6 +19199,7 @@ electronic_resistor_1206_270_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 14ed91a0a9e4e4e2567505007ba99922
     md5_10: 14ed91a0a9
     md5_5: 14ed9
@@ -18598,6 +19231,7 @@ electronic_resistor_1206_27_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e9296aab31fa1924c539ba3939b87a07
     md5_10: e9296aab31
     md5_5: e9296
@@ -18629,6 +19263,7 @@ electronic_resistor_1206_33000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2d135db6a28d44a2e45aeb15984ab2ba
     md5_10: 2d135db6a2
     md5_5: 2d135
@@ -18660,6 +19295,7 @@ electronic_resistor_1206_3300_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f05e80b6a7c182213bdf2901c6b467d5
     md5_10: f05e80b6a7
     md5_5: f05e8
@@ -18691,6 +19327,7 @@ electronic_resistor_1206_330_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 19072055ecd7f86fd8941ae53296c7d0
     md5_10: 19072055ec
     md5_5: '19072'
@@ -18722,6 +19359,7 @@ electronic_resistor_1206_33_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e699d1028a49b5d76e0713643b68a01f
     md5_10: e699d1028a
     md5_5: e699d
@@ -18753,6 +19391,7 @@ electronic_resistor_1206_39000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f9eee76ea3fbcf9c96d499a4227d9809
     md5_10: f9eee76ea3
     md5_5: f9eee
@@ -18784,6 +19423,7 @@ electronic_resistor_1206_3900_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3056d139a3e788a4c1c74fce4150a6ae
     md5_10: 3056d139a3
     md5_5: 3056d
@@ -18815,6 +19455,7 @@ electronic_resistor_1206_390_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3892165c27d3ba9285829f8446ef4594
     md5_10: 3892165c27
     md5_5: '38921'
@@ -18846,6 +19487,7 @@ electronic_resistor_1206_39_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 44df20dd61bbf857544c2f9a22cfef8b
     md5_10: 44df20dd61
     md5_5: 44df2
@@ -18877,6 +19519,7 @@ electronic_resistor_1206_47000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4b30873173297cb61386144da6cbd1ee
     md5_10: 4b30873173
     md5_5: 4b308
@@ -18908,6 +19551,7 @@ electronic_resistor_1206_4700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 0e0e60a10a66471fa196a435d4060cb6
     md5_10: 0e0e60a10a
     md5_5: 0e0e6
@@ -18939,6 +19583,7 @@ electronic_resistor_1206_470_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: cfd492863e66c263e3b0353242ed50d9
     md5_10: cfd492863e
     md5_5: cfd49
@@ -18970,6 +19615,7 @@ electronic_resistor_1206_47_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fd1d4641deb5294bd8f721084de3d44e
     md5_10: fd1d4641de
     md5_5: fd1d4
@@ -19001,6 +19647,7 @@ electronic_resistor_1206_56000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1f86336d7d2acd279c6db0795372b565
     md5_10: 1f86336d7d
     md5_5: 1f863
@@ -19032,6 +19679,7 @@ electronic_resistor_1206_5600_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e0e12a21d139396a83049fb95b331898
     md5_10: e0e12a21d1
     md5_5: e0e12
@@ -19063,6 +19711,7 @@ electronic_resistor_1206_560_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c4d11235bc116ccb2b63dea694673a97
     md5_10: c4d11235bc
     md5_5: c4d11
@@ -19094,6 +19743,7 @@ electronic_resistor_1206_56_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a94a30da230875a553befa00615f8b9c
     md5_10: a94a30da23
     md5_5: a94a3
@@ -19125,6 +19775,7 @@ electronic_resistor_1206_68000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 80931314dcd011ad9a1a9d12d9f9b4b6
     md5_10: 80931314dc
     md5_5: '80931'
@@ -19156,6 +19807,7 @@ electronic_resistor_1206_6800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d4eea0f1e125f657ffdad95de24e4e75
     md5_10: d4eea0f1e1
     md5_5: d4eea
@@ -19187,6 +19839,7 @@ electronic_resistor_1206_680_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1aa70e29a9387c41f928465af8b9f87e
     md5_10: 1aa70e29a9
     md5_5: 1aa70
@@ -19218,6 +19871,7 @@ electronic_resistor_1206_68_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7d4df5b46b5b7021eb6d13fd65b3c319
     md5_10: 7d4df5b46b
     md5_5: 7d4df
@@ -19249,6 +19903,7 @@ electronic_resistor_1206_82000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 647d2ad2c712e978b5a91439c66f99df
     md5_10: 647d2ad2c7
     md5_5: 647d2
@@ -19280,6 +19935,7 @@ electronic_resistor_1206_8200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 52205c2e321366f853cfc9a636c24970
     md5_10: 52205c2e32
     md5_5: '52205'
@@ -19311,6 +19967,7 @@ electronic_resistor_1206_820_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 77f11f33c0f7c8ea605a799733290bf7
     md5_10: 77f11f33c0
     md5_5: 77f11
@@ -19342,6 +19999,7 @@ electronic_resistor_1206_82_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 00b538c70601ffc15364ce55f3b00624
     md5_10: 00b538c706
     md5_5: 00b53
@@ -19373,6 +20031,7 @@ electronic_resistor_quarter_watt_through_hole_10000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 972df61d5f2e0e378dd748728b734967
     md5_10: 972df61d5f
     md5_5: 972df
@@ -19404,6 +20063,7 @@ electronic_resistor_quarter_watt_through_hole_1000000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e1e9e50cbb6b8502cd89c50387dce983
     md5_10: e1e9e50cbb
     md5_5: e1e9e
@@ -19435,6 +20095,7 @@ electronic_resistor_quarter_watt_through_hole_100000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a0145e1779153c6df3729398189ffed2
     md5_10: a0145e1779
     md5_5: a0145
@@ -19466,6 +20127,7 @@ electronic_resistor_quarter_watt_through_hole_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 298368ba0909f3303a285f66f9e087df
     md5_10: 298368ba09
     md5_5: '29836'
@@ -19497,6 +20159,7 @@ electronic_resistor_quarter_watt_through_hole_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 12132587667339ef98566e39de721347
     md5_10: '1213258766'
     md5_5: '12132'
@@ -19528,6 +20191,7 @@ electronic_resistor_quarter_watt_through_hole_100_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8f9579c7ff270452712651ec8396284b
     md5_10: 8f9579c7ff
     md5_5: 8f957
@@ -19559,6 +20223,7 @@ electronic_resistor_quarter_watt_through_hole_10_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b69fc96daa91b8a87e332857a64a7d70
     md5_10: b69fc96daa
     md5_5: b69fc
@@ -19590,6 +20255,7 @@ electronic_resistor_quarter_watt_through_hole_12000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5c6d739ec8c202ed2d7f1197e55bd068
     md5_10: 5c6d739ec8
     md5_5: 5c6d7
@@ -19621,6 +20287,7 @@ electronic_resistor_quarter_watt_through_hole_1200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: c86d3b56cb5f4ad5f489e57640cab2c6
     md5_10: c86d3b56cb
     md5_5: c86d3
@@ -19652,6 +20319,7 @@ electronic_resistor_quarter_watt_through_hole_120_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: aafdc8042bb6c655f663360ce5305057
     md5_10: aafdc8042b
     md5_5: aafdc
@@ -19683,6 +20351,7 @@ electronic_resistor_quarter_watt_through_hole_12_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1e45ff93511e3f31f38c920973e850ab
     md5_10: 1e45ff9351
     md5_5: 1e45f
@@ -19714,6 +20383,7 @@ electronic_resistor_quarter_watt_through_hole_15000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 17b056637c7abcd02e702ebe74b6e14e
     md5_10: 17b056637c
     md5_5: 17b05
@@ -19745,6 +20415,7 @@ electronic_resistor_quarter_watt_through_hole_1500_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ce5f3e23a07a4d0f2bb28e2640c86819
     md5_10: ce5f3e23a0
     md5_5: ce5f3
@@ -19776,6 +20447,7 @@ electronic_resistor_quarter_watt_through_hole_150_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 01096dbc33a9fd78a3766ce80708bb23
     md5_10: 01096dbc33
     md5_5: 01096
@@ -19807,6 +20479,7 @@ electronic_resistor_quarter_watt_through_hole_15_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4cf920e6eedfed81a109ce509bc01b7c
     md5_10: 4cf920e6ee
     md5_5: 4cf92
@@ -19838,6 +20511,7 @@ electronic_resistor_quarter_watt_through_hole_18000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 45fbaffc27e2ddd46e7e7029c83cc762
     md5_10: 45fbaffc27
     md5_5: 45fba
@@ -19869,6 +20543,7 @@ electronic_resistor_quarter_watt_through_hole_1800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 6cf52305c9d7b45ab6e296ac6a4d999c
     md5_10: 6cf52305c9
     md5_5: 6cf52
@@ -19900,6 +20575,7 @@ electronic_resistor_quarter_watt_through_hole_180_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 59af46ec7f66277fa45469ffd37ba989
     md5_10: 59af46ec7f
     md5_5: 59af4
@@ -19931,6 +20607,7 @@ electronic_resistor_quarter_watt_through_hole_18_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8bf0419b5255796ae519c97ac1b7cec1
     md5_10: 8bf0419b52
     md5_5: 8bf04
@@ -19962,6 +20639,7 @@ electronic_resistor_quarter_watt_through_hole_22000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 05962d9dd161a5985c8685cf0a4bbc88
     md5_10: 05962d9dd1
     md5_5: 05962
@@ -19993,6 +20671,7 @@ electronic_resistor_quarter_watt_through_hole_2200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a9a5e963795b53da9bd25aaf17232a5d
     md5_10: a9a5e96379
     md5_5: a9a5e
@@ -20024,6 +20703,7 @@ electronic_resistor_quarter_watt_through_hole_220_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 8010ecd1695c54b8410d3c60e7a20ebb
     md5_10: 8010ecd169
     md5_5: 8010e
@@ -20055,6 +20735,7 @@ electronic_resistor_quarter_watt_through_hole_22_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 7946f61974411c32c06d965b36302c02
     md5_10: 7946f61974
     md5_5: 7946f
@@ -20086,6 +20767,7 @@ electronic_resistor_quarter_watt_through_hole_27000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e45c162d59ecac1d1d70389751256cf5
     md5_10: e45c162d59
     md5_5: e45c1
@@ -20117,6 +20799,7 @@ electronic_resistor_quarter_watt_through_hole_2700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d13229a9d2d328245514c4f864151623
     md5_10: d13229a9d2
     md5_5: d1322
@@ -20148,6 +20831,7 @@ electronic_resistor_quarter_watt_through_hole_270_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 150345065222aceed6101543d21f42ff
     md5_10: '1503450652'
     md5_5: '15034'
@@ -20179,6 +20863,7 @@ electronic_resistor_quarter_watt_through_hole_27_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 984967d33cbd0c2558ce25231e929984
     md5_10: 984967d33c
     md5_5: '98496'
@@ -20210,6 +20895,7 @@ electronic_resistor_quarter_watt_through_hole_33000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: ae2a7820f35b7384222f704479d15460
     md5_10: ae2a7820f3
     md5_5: ae2a7
@@ -20241,6 +20927,7 @@ electronic_resistor_quarter_watt_through_hole_3300_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: bb6da470b1ccd507d830d71be560b84d
     md5_10: bb6da470b1
     md5_5: bb6da
@@ -20272,6 +20959,7 @@ electronic_resistor_quarter_watt_through_hole_330_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3c119be7a2243936733916e16cf6f41f
     md5_10: 3c119be7a2
     md5_5: 3c119
@@ -20303,6 +20991,7 @@ electronic_resistor_quarter_watt_through_hole_33_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d7dc893039af054dbab894fdef7af17d
     md5_10: d7dc893039
     md5_5: d7dc8
@@ -20334,6 +21023,7 @@ electronic_resistor_quarter_watt_through_hole_39000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e1afa25b48fa5395f6a760072cce737b
     md5_10: e1afa25b48
     md5_5: e1afa
@@ -20365,6 +21055,7 @@ electronic_resistor_quarter_watt_through_hole_3900_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 87c5421cb3e4b824c9dc5e99bd59aae5
     md5_10: 87c5421cb3
     md5_5: 87c54
@@ -20396,6 +21087,7 @@ electronic_resistor_quarter_watt_through_hole_390_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e30b56ec694e8b65a60e4046ca856c62
     md5_10: e30b56ec69
     md5_5: e30b5
@@ -20427,6 +21119,7 @@ electronic_resistor_quarter_watt_through_hole_39_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a07b944a60247b46a34617dc36e3e7e7
     md5_10: a07b944a60
     md5_5: a07b9
@@ -20458,6 +21151,7 @@ electronic_resistor_quarter_watt_through_hole_47000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: f95637493422ebd7c986cafc6985e0f0
     md5_10: f956374934
     md5_5: f9563
@@ -20489,6 +21183,7 @@ electronic_resistor_quarter_watt_through_hole_4700_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: b323516987a924c4a942f77453108183
     md5_10: b323516987
     md5_5: b3235
@@ -20520,6 +21215,7 @@ electronic_resistor_quarter_watt_through_hole_470_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4bacced02d4a44e1c2562058886c27f7
     md5_10: 4bacced02d
     md5_5: 4bacc
@@ -20551,6 +21247,7 @@ electronic_resistor_quarter_watt_through_hole_47_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 96a2e95af6ff8b88ef51c63c8738ba58
     md5_10: 96a2e95af6
     md5_5: 96a2e
@@ -20582,6 +21279,7 @@ electronic_resistor_quarter_watt_through_hole_56000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: d278e89e63dc7ac7261fe5e9deb1a14c
     md5_10: d278e89e63
     md5_5: d278e
@@ -20613,6 +21311,7 @@ electronic_resistor_quarter_watt_through_hole_5600_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 1e6a71ac6c141fd7e8a8ff72a8db6aee
     md5_10: 1e6a71ac6c
     md5_5: 1e6a7
@@ -20644,6 +21343,7 @@ electronic_resistor_quarter_watt_through_hole_560_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2ddd1186cd26fd7388b061f06e737f71
     md5_10: 2ddd1186cd
     md5_5: 2ddd1
@@ -20675,6 +21375,7 @@ electronic_resistor_quarter_watt_through_hole_56_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 5b6923439645134c5655983ef54e29e1
     md5_10: 5b69234396
     md5_5: 5b692
@@ -20706,6 +21407,7 @@ electronic_resistor_quarter_watt_through_hole_68000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: e01b81e6da290a274cbb929e74a5b38b
     md5_10: e01b81e6da
     md5_5: e01b8
@@ -20737,6 +21439,7 @@ electronic_resistor_quarter_watt_through_hole_6800_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: a143e8d4635b9da5dbb1dee8eb576d77
     md5_10: a143e8d463
     md5_5: a143e
@@ -20768,6 +21471,7 @@ electronic_resistor_quarter_watt_through_hole_680_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 493f590bafb0562c77787772b180fd65
     md5_10: 493f590baf
     md5_5: 493f5
@@ -20799,6 +21503,7 @@ electronic_resistor_quarter_watt_through_hole_68_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: af5cfc3e81a31677a4c2927502f28c1c
     md5_10: af5cfc3e81
     md5_5: af5cf
@@ -20830,6 +21535,7 @@ electronic_resistor_quarter_watt_through_hole_82000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 4ba72e7781f1682a8648984aefd48956
     md5_10: 4ba72e7781
     md5_5: 4ba72
@@ -20861,6 +21567,7 @@ electronic_resistor_quarter_watt_through_hole_8200_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: fdc5a8331cb8c3020f569f8fad4e6b1d
     md5_10: fdc5a8331c
     md5_5: fdc5a
@@ -20892,6 +21599,7 @@ electronic_resistor_quarter_watt_through_hole_820_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 2e05d6879500d66cf8d5f4aea22c0efb
     md5_10: 2e05d68795
     md5_5: 2e05d
@@ -20923,6 +21631,7 @@ electronic_resistor_quarter_watt_through_hole_82_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 3450d47bdad2075fb644b08427010a8f
     md5_10: 3450d47bda
     md5_5: 3450d
@@ -20951,6 +21660,7 @@ electronic_socket_usb_mini_surface_mount_only:
     id: electronic_socket_usb_mini_surface_mount_only
     make_files: true
     manufacturer: ''
+    manufacturers: []
     md5: 34c5c0be3324508572b94f980c1c9606
     md5_10: 34c5c0be33
     md5_5: 34c5c

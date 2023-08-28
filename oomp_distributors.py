@@ -9,8 +9,42 @@ def get_distributors(**kwargs):
 def get_lcsc(**kwargs):
 
     matches = []
+    ###### matrix driver and assorte d ics
     matches.append({"id":"electronic_ic_sop_28_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",
                   "part_number": "c82650"})
+
+    # button
+    matches.append({"id":"oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
+                  "part_number": "C2845294"})
+
+    # capacitor
+    part = "oomp_electronic_capacitor_0603_100_nano_farad"
+    matches.append({"id":part, "part_number": "C14663"})
+    matches.append({"id":part, "part_number": "C30926"})
+
+    matches.append({"id":"oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt",
+                    "part_number": "C7187"})
+    
+    # ceramic resonator
+    matches.append({"id":"oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz",
+                    "part_number": "C341520"})
+    matches.append({"id":"oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz",
+                    "part_number": "C882605"})
+    
+    # diode
+    matches.append({"id":"oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
+                    "part_number": "C77335"})
+    matches.append({"id":"oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
+                    "part_number": "C475717"})
+
+    # ic
+    #      atmega328
+    matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+                  "part_number": "C14877"})
+    matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+                  "part_number": "C618816"})
+    
+    #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
                   "part_number": "c7464026"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340g",
@@ -27,6 +61,22 @@ def get_lcsc(**kwargs):
                   "part_number": "c968586"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340b",
                   "part_number": "c81010"})
+    
+    # led
+    matches.append({"id":"oomp_electronic_led_0603_red",
+                  "part_number": "C965799"})
+    
+    # pmic
+    #      1117
+    matches.append({"id":"oomp_electronic_pmic_sot_223_linear_1117_5_volt",
+                    "part_number": "C347223"})
+
+    # resistors
+    matches.append({"id":"resistor_0603_1k_ohm",
+                  "part_number": "C21190"})
+    matches.append({"id":"resistor_0603_1k_ohm",
+                  "part_number": "C22548"})
+    
 
     distributors = []
     for match in matches:

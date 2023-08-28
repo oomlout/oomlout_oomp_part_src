@@ -5,6 +5,7 @@ import oomp_kicad_symbol
 import oomp_short_code
 import oomp_short_name
 import oomp_distributors
+import oomp_manufacturers
 
 import os
 import oom_markdown
@@ -160,8 +161,9 @@ def add_part(**kwargs):
 
 
         #add distributors from a function get_distributors in oomp_distributors.py
-        
         kwargs = oomp_distributors.get_distributors(**kwargs)
+
+        kwargs = oomp_manufacturers.get_manufacturers(**kwargs)
 
 
 

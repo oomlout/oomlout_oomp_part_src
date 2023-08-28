@@ -10,6 +10,7 @@ footprint:
     oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
 id: electronic_pmic_sot_223_linear_1117_1_5_volt
 manufacturer: ''
+manufacturers: []
 md5: 6dc5a408f889c1eeeef36d9b6bef6012
 md5_10: 6dc5a408f8
 md5_5: 6dc5a

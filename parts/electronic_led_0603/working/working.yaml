@@ -13,6 +13,7 @@ from_yaml: false
 id: electronic_led_0603
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: 410f696910ba2a47e5f550535c378f01
 md5_10: 410f696910
 md5_5: 410f6

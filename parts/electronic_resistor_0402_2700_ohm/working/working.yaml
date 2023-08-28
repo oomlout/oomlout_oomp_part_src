@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_resistor_0402_2700_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturers: []
 md5: a79f6548696873334016d9ad3ba271b2
 md5_10: a79f654869
 md5_5: a79f6

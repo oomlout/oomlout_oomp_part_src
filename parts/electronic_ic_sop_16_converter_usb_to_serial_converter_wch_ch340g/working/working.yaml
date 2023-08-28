@@ -15,6 +15,7 @@ footprint:
 id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
 kicad_reference: U
 manufacturer: wch
+manufacturers: []
 md5: 0f3b38de4bb8ab11ae1d9cca34a3b7af
 md5_10: 0f3b38de4b
 md5_5: 0f3b3

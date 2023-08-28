@@ -9,6 +9,7 @@ from_yaml: false
 id: electronic_led_0402_green
 kicad_reference: L
 manufacturer: ''
+manufacturers: []
 md5: fcfe4f59874d0faff0697e455e42d253
 md5_10: fcfe4f5987
 md5_5: fcfe4

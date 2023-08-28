@@ -1,0 +1,23 @@
+{
+    "classification": "electronic",
+    "type": "ic",
+    "size": "tqfp_32",
+    "color": "mcu",
+    "description_main": "atmega328",
+    "description_extra": "",
+    "manufacturer": "microchip",
+    "part_number": "atmega328p_au",
+    "make_files": true,
+    "short_name": "atmega328 32 pin tqfp",
+    "id": "electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+    "oomp_key": "oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+    "directory": "parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+    "name": "Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au",
+    "short_code": "itq32at328",
+    "distributors": [],
+    "manufacturers": [],
+    "md5": "16166fb725b2a6d4d2a6cc8dfeeccaf7",
+    "md5_5": "16166",
+    "md5_6": "16166f",
+    "md5_10": "16166fb725"
+}
