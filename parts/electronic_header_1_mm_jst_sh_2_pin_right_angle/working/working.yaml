@@ -4,6 +4,7 @@ description_extra: right_angle
 description_main: 2_pin
 directory: parts/electronic_header_1_mm_jst_sh_2_pin_right_angle
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_right_angle/working
 id: electronic_header_1_mm_jst_sh_2_pin_right_angle
 kicad_reference: J
 manufacturer: ''

@@ -13,6 +13,7 @@
     "kicad_reference": "R",
     "id": "electronic_resistor_0805_15_ohm",
     "oomp_key": "oomp_electronic_resistor_0805_15_ohm",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15_ohm/working",
     "directory": "parts/electronic_resistor_0805_15_ohm",
     "name": "Electronic Resistor 0805 15 Ohm",
     "short_code": "r8o150",

@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_10_mm",
     "oomp_key": "oomp_electronic_led_10_mm",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working",
     "directory": "parts/electronic_led_10_mm",
     "name": "Electronic Led 10 Mm",
     "short_code": "l10",

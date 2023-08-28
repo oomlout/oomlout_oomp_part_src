@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_0805",
     "oomp_key": "oomp_electronic_led_0805",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805/working",
     "directory": "parts/electronic_led_0805",
     "name": "Electronic Led 0805",
     "short_code": "l8",

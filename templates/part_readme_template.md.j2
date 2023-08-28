@@ -16,6 +16,11 @@ short_code: {{ short_code }}
 List of Pins:
 {% for pin_name, pin_info in pins.items() %}
 * {{ pin_info.number }} : {{ pin_info.name }}{% endfor %}
+## distributors
+{% for distributor in distributors %}
+* [{{ distributor.name }}]({{ distributor.link }})  
+{% endfor %}
+
 ## symbol
 {% for foot in symbol%}
 ![](symbol/0/working/working_600.png)  

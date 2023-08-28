@@ -13,6 +13,7 @@
     "kicad_reference": "x",
     "id": "electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz",
     "oomp_key": "oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working",
     "directory": "parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz",
     "name": "Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz",
     "short_code": "xcr3213mhz8",

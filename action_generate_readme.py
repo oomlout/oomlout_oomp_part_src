@@ -13,7 +13,7 @@ def main(**kwargs):
             return
         directory = f"{directory}/working"
         file_readme = os.path.join(directory,"readme.md")
-        template_file = f"templates/part_readme_template.j2"
+        template_file = f"templates/part_readme_template.md.j2"
         part_flat = flatten_dict(part)
         markdown_string = ""
         with open(template_file, "r") as infile:

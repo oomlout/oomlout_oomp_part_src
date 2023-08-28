@@ -11,6 +11,7 @@
     "kicad_reference": "J",
     "id": "electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle",
     "oomp_key": "oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working",
     "directory": "parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle",
     "name": "Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle",
     "short_code": "h4psmra",

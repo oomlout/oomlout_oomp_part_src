@@ -13,6 +13,7 @@
     "kicad_reference": "R",
     "id": "electronic_resistor_quarter_watt_through_hole_3900_ohm",
     "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_3900_ohm",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3900_ohm/working",
     "directory": "parts/electronic_resistor_quarter_watt_through_hole_3900_ohm",
     "name": "Electronic Resistor Quarter Watt Through Hole 3900 Ohm",
     "short_code": "ro392",

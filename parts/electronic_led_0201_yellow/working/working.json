@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_0201_yellow",
     "oomp_key": "oomp_electronic_led_0201_yellow",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_yellow/working",
     "directory": "parts/electronic_led_0201_yellow",
     "name": "Electronic Led 0201 Yellow",
     "short_code": "l",

@@ -8,6 +8,7 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
     oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working
 id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 manufacturer: microchip
 manufacturers: []

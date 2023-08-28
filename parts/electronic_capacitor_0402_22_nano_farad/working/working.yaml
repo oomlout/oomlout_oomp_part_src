@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric
     oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working
 id: electronic_capacitor_0402_22_nano_farad
 kicad_reference: C
 manufacturer: ''

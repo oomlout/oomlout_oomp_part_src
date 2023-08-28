@@ -8,6 +8,7 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dip_dip_28_w7_62mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dip_dip_28_w7_62mm
     oomp_key: oomp_kicad_package_dip_dip_28_w7_62mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working
 id: electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 manufacturer: microchip
 manufacturers: []

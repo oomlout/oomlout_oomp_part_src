@@ -166,6 +166,7 @@
     "notes": [],
     "id": "electronic_breakout_board_mcu_atmega328_shennie",
     "oomp_key": "oomp_electronic_breakout_board_mcu_atmega328_shennie",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working",
     "directory": "parts/electronic_breakout_board_mcu_atmega328_shennie",
     "name": "Electronic Breakout Board Mcu Atmega328 Shennie",
     "short_code": "bbat328",

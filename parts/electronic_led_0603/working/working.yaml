@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
     oomp_key: oomp_kicad_led_smd_led_0603_1608metric
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working
 id: electronic_led_0603
 kicad_reference: L
 manufacturer: ''

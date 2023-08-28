@@ -13,6 +13,7 @@
     "kicad_reference": "",
     "id": "electronic_nettie_3_nets_through_hole",
     "oomp_key": "oomp_electronic_nettie_3_nets_through_hole",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working",
     "directory": "parts/electronic_nettie_3_nets_through_hole",
     "name": "Electronic Nettie 3 Nets Through Hole",
     "short_code": "nt3",

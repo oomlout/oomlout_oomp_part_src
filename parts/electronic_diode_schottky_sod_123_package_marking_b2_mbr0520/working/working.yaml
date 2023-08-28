@@ -18,6 +18,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
     oomp_key: oomp_kicad_diode_smd_d_sod_123
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working
 id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 kicad_reference: D
 manufacturer: ''

@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
     oomp_key: oomp_kicad_led_tht_led_d5_0mm
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working
 id: electronic_led_5_mm_blue
 kicad_reference: L
 manufacturer: ''

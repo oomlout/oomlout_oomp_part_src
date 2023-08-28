@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_0201_blue",
     "oomp_key": "oomp_electronic_led_0201_blue",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue/working",
     "directory": "parts/electronic_led_0201_blue",
     "name": "Electronic Led 0201 Blue",
     "short_code": "l",

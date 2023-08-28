@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_smd_pad0_5mm
     oomp_key: oomp_kicad_nettie_nettie_3_smd_pad0_5mm
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working
 id: electronic_nettie_3_nets_smd
 kicad_reference: ''
 manufacturer: ''

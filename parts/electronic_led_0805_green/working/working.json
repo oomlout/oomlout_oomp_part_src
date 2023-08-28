@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_0805_green",
     "oomp_key": "oomp_electronic_led_0805_green",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working",
     "directory": "parts/electronic_led_0805_green",
     "name": "Electronic Led 0805 Green",
     "short_code": "l8g",

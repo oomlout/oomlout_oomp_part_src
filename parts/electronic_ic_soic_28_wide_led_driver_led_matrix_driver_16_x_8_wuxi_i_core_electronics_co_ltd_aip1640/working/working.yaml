@@ -8,6 +8,7 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm
     oomp_key: oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working
 id: electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 kicad_reference: U
 manufacturer: wuxi_i_core_electronics_co_ltd

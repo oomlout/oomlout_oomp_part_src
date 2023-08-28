@@ -19,6 +19,7 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working
 id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
 manufacturer: ''
 manufacturers: []

@@ -13,6 +13,7 @@
     "kicad_reference": "R",
     "id": "electronic_resistor_0603_12_ohm",
     "oomp_key": "oomp_electronic_resistor_0603_12_ohm",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_12_ohm/working",
     "directory": "parts/electronic_resistor_0603_12_ohm",
     "name": "Electronic Resistor 0603 12 Ohm",
     "short_code": "r6o120",

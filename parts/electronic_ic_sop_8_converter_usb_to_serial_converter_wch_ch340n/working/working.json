@@ -55,6 +55,7 @@
     "notes": [],
     "id": "electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n",
     "oomp_key": "oomp_electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working",
     "directory": "parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n",
     "name": "Electronic Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N",
     "short_code": "isp8",

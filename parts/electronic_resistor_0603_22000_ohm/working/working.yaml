@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
     oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working
 id: electronic_resistor_0603_22000_ohm
 kicad_reference: R
 manufacturer: ''

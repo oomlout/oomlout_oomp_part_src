@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
     oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working
 id: electronic_resistor_1206_100000_ohm
 kicad_reference: R
 manufacturer: ''

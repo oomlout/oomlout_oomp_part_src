@@ -11,6 +11,7 @@
     "kicad_reference": "J",
     "id": "electronic_header_2_mm_jst_ph_8_pin",
     "oomp_key": "oomp_electronic_header_2_mm_jst_ph_8_pin",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_8_pin/working",
     "directory": "parts/electronic_header_2_mm_jst_ph_8_pin",
     "name": "Electronic Header 2 Mm Jst Ph 8 Pin",
     "short_code": "h8p",

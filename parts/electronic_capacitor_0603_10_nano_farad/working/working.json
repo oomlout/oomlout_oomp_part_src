@@ -13,6 +13,7 @@
     "kicad_reference": "C",
     "id": "electronic_capacitor_0603_10_nano_farad",
     "oomp_key": "oomp_electronic_capacitor_0603_10_nano_farad",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working",
     "directory": "parts/electronic_capacitor_0603_10_nano_farad",
     "name": "Electronic Capacitor 0603 10 Nano Farad",
     "short_code": "c6nf10",

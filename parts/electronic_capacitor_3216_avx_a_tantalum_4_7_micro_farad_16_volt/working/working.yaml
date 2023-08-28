@@ -14,6 +14,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a
     oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working
 id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 kicad_reference: C
 manufacturer: ''

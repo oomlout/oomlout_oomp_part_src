@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_3_mm_yellow",
     "oomp_key": "oomp_electronic_led_3_mm_yellow",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working",
     "directory": "parts/electronic_led_3_mm_yellow",
     "name": "Electronic Led 3 Mm Yellow",
     "short_code": "l3",

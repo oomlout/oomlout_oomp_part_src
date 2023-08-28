@@ -13,6 +13,7 @@
     "kicad_reference": "D",
     "id": "electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
     "oomp_key": "oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working",
     "directory": "parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
     "name": "Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520",
     "short_code": "dssod123pmb2",

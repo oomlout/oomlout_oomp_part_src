@@ -43,6 +43,7 @@
     },
     "id": "electronic_socket_usb_mini_surface_mount_only",
     "oomp_key": "oomp_electronic_socket_usb_mini_surface_mount_only",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working",
     "directory": "parts/electronic_socket_usb_mini_surface_mount_only",
     "name": "Electronic Socket Usb Mini Surface Mount Only",
     "short_code": "scumnsmo",

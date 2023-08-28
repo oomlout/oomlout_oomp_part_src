@@ -11,6 +11,7 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal
     oomp_key: oomp_kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount_right_angle/working
 id: electronic_header_2d54_mm_7_pin_surface_mount_right_angle
 kicad_reference: J
 manufacturer: ''

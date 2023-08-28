@@ -14,6 +14,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz/working
 id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
 kicad_reference: x
 manufacturer: ''

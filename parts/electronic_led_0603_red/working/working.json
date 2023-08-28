@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_0603_red",
     "oomp_key": "oomp_electronic_led_0603_red",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_red/working",
     "directory": "parts/electronic_led_0603_red",
     "name": "Electronic Led 0603 Red",
     "short_code": "l6r",

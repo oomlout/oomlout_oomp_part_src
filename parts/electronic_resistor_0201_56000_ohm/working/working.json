@@ -13,6 +13,7 @@
     "kicad_reference": "R",
     "id": "electronic_resistor_0201_56000_ohm",
     "oomp_key": "oomp_electronic_resistor_0201_56000_ohm",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_56000_ohm/working",
     "directory": "parts/electronic_resistor_0201_56000_ohm",
     "name": "Electronic Resistor 0201 56000 Ohm",
     "short_code": "ro563",

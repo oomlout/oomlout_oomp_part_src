@@ -11,6 +11,7 @@
     "kicad_reference": "J",
     "id": "electronic_header_2d54_mm_jst_xh_9_pin_surface_mount",
     "oomp_key": "oomp_electronic_header_2d54_mm_jst_xh_9_pin_surface_mount",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount/working",
     "directory": "parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount",
     "name": "Electronic Header 2D54 Mm Jst Xh 9 Pin Surface Mount",
     "short_code": "h9psm",

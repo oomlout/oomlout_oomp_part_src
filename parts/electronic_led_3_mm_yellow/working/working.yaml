@@ -6,6 +6,7 @@ directory: parts/electronic_led_3_mm_yellow
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working
 id: electronic_led_3_mm_yellow
 kicad_reference: L
 manufacturer: ''

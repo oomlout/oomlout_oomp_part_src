@@ -13,6 +13,7 @@
     "kicad_reference": "L",
     "id": "electronic_led_3_mm_red",
     "oomp_key": "oomp_electronic_led_3_mm_red",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_red/working",
     "directory": "parts/electronic_led_3_mm_red",
     "name": "Electronic Led 3 Mm Red",
     "short_code": "l3r",

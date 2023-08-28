@@ -10,6 +10,7 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_tht_pad0_3mm
     oomp_key: oomp_kicad_nettie_nettie_2_tht_pad0_3mm
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working
 id: electronic_nettie_2_nets_through_hole
 kicad_reference: ''
 manufacturer: ''

@@ -4,6 +4,7 @@ description_extra: ''
 description_main: ''
 directory: parts/electronic_mounting_hole_m3
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working
 id: electronic_mounting_hole_m3
 kicad_reference: H
 manufacturer: ''

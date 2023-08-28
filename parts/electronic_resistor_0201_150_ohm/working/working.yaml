@@ -6,6 +6,7 @@ directory: parts/electronic_resistor_0201_150_ohm
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_150_ohm/working
 id: electronic_resistor_0201_150_ohm
 kicad_reference: R
 manufacturer: ''

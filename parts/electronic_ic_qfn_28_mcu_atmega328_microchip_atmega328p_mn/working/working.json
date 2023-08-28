@@ -11,6 +11,7 @@
     "short_name": "atmega328 28 pin qfn",
     "id": "electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn",
     "oomp_key": "oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working",
     "directory": "parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn",
     "name": "Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn",
     "short_code": "iq28at328",
