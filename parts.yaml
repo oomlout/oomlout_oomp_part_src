@@ -164,11 +164,11 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
         part_number: C7450623
         url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C2845294.html
         name: LCSC
         part_number: C2845294
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C2845294.html
         name: LCSC
         part_number: C2845294
     footprint:
@@ -368,11 +368,11 @@ electronic_capacitor_0603_100_nano_farad:
     directory: parts/electronic_capacitor_0603_100_nano_farad
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C14663A.html
         name: LCSC
         part_number: C14663A
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C30926.html
         name: LCSC
         part_number: C30926
     filter: ''
@@ -594,7 +594,7 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C7187.html
         name: LCSC
         part_number: C7187
     filter: ''
@@ -635,7 +635,7 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz:
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C341520.html
         name: LCSC
         part_number: C341520
     filter: ''
@@ -676,7 +676,7 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz:
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C882605.html
         name: LCSC
         part_number: C882605
     filter: ''
@@ -750,11 +750,11 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C77335.html
         name: LCSC
         part_number: C77335
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C475717.html
         name: LCSC
         part_number: C475717
     filter: ''
@@ -10079,7 +10079,7 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c968586.html
         name: LCSC
         part_number: c968586
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working
@@ -10176,7 +10176,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c99652.html
         name: LCSC
         part_number: c99652
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working
@@ -10250,7 +10250,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c3035748.html
         name: LCSC
         part_number: c3035748
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working
@@ -10494,7 +10494,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c81010.html
         name: LCSC
         part_number: c81010
     footprint:
@@ -10592,7 +10592,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c7464026.html
         name: LCSC
         part_number: c7464026
     footprint:
@@ -10694,7 +10694,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c14267.html
         name: LCSC
         part_number: c14267
     footprint:
@@ -10796,7 +10796,7 @@ electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n:
     directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c2977777.html
         name: LCSC
         part_number: c2977777
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working
@@ -10858,7 +10858,7 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
     directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/c8689.html
         name: LCSC
         part_number: c8689
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working
@@ -10972,11 +10972,11 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C14877.html
         name: LCSC
         part_number: C14877
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C618816.html
         name: LCSC
         part_number: C618816
     footprint:
@@ -11444,7 +11444,7 @@ electronic_led_0603_red:
     directory: parts/electronic_led_0603_red
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C965799.html
         name: LCSC
         part_number: C965799
     filter: ''
@@ -12696,7 +12696,7 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        link: https://lcsc.com/product-detail/C347223.html
         name: LCSC
         part_number: C347223
     footprint:

@@ -5,11 +5,11 @@ description_main: atmega328
 directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C14877.html
     name: LCSC
     part_number: C14877
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C618816.html
     name: LCSC
     part_number: C618816
 footprint:

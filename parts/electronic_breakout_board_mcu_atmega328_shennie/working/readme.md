@@ -45,6 +45,7 @@ List of Pins:
 * 28 : rst
 * 29 : gnd
 * 30 : vin
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  

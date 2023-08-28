@@ -5,11 +5,11 @@ description_main: ''
 directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C77335.html
     name: LCSC
     part_number: C77335
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C475717.html
     name: LCSC
     part_number: C475717
 filter: ''

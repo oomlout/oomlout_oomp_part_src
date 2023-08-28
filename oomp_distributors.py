@@ -85,7 +85,7 @@ def get_lcsc(**kwargs):
             distributor_match = {}
             distributor_match["name"] = "LCSC"
             distributor_match["part_number"] = match["part_number"]
-            distributor_match["link"] = "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html"
+            distributor_match["link"] = f"https://lcsc.com/product-detail/{match['part_number']}.html"
             distributor_match["id"] = "distributor_lcsc"            
             distributors.append(distributor_match)
     

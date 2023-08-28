@@ -5,7 +5,7 @@ description_main: 4_7_micro_farad
 directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C7187.html
     name: LCSC
     part_number: C7187
 filter: ''

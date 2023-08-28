@@ -5,11 +5,11 @@ description_main: 100_nano_farad
 directory: parts/electronic_capacitor_0603_100_nano_farad
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C14663A.html
     name: LCSC
     part_number: C14663A
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C30926.html
     name: LCSC
     part_number: C30926
 filter: ''

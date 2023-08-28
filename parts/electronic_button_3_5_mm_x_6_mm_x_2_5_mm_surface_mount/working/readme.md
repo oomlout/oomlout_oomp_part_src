@@ -15,6 +15,16 @@ short_code: b3560s
 ![](working_pinout_600.png)  
 List of Pins:
 
+
+## distributors
+
+* [lcsc]()  
+
+* [LCSC](https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html)  
+
+* [LCSC](https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html)  
+
+
 ## symbol
 
 ![](symbol/0/working/working_600.png)  

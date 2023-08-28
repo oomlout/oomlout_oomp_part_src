@@ -5,7 +5,7 @@ description_main: 12_mega_hertz
 directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C341520.html
     name: LCSC
     part_number: C341520
 filter: ''

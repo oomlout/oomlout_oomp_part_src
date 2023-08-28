@@ -1,35 +1,34 @@
-# {{ name }}
-oomp_key: {{ oomp_key }}  
-{{ description }}
-short_code: {{ short_code }}
+# {{ p.name }}
+oomp_key: {{ p.oomp_key }}  
+{{ p.description }}
+short_code: {{ p.short_code }}
 ## naming details
-* classification -- {{classification}}
-* type -- {{type}}
-* size -- {{ size }}
-* color -- {{ color }}
-* description_main -- {{ description_main }}
-* description_extra -- {{ description_extra }}
-* manucaturer -- {{ manufacturer }}
-* part_number -- {{ part_number }}
+* classification -- {{p.classification}}
+* type -- {{p.type}}
+* size -- {{ p.size }}
+* color -- {{ p.color }}
+* description_main -- {{ p.description_main }}
+* description_extra -- {{ p.description_extra }}
+* manucaturer -- {{ p.manufacturer }}
+* part_number -- {{ p.part_number }}
 ## pinout
 ![](working_pinout_600.png)  
 List of Pins:
-{% for pin_name, pin_info in pins.items() %}
+{% for pin_name, pin_info in p.pins.items() %}
 * {{ pin_info.number }} : {{ pin_info.name }}{% endfor %}
+{% if p.distributors %}
 ## distributors
-{% for distributor in distributors %}
-* [{{ distributor.name }}]({{ distributor.link }})  
-{% endfor %}
-
+{% for distributor in p.distributors %}* [{{ distributor.name }}]({{ distributor.link }})  {% endfor %}
+{% endif %}
 ## symbol
-{% for foot in symbol%}
+{% for foot in p.symbol%}
 ![](symbol/0/working/working_600.png)  
 oomp_key: {{ foot.oomp_key }}  
 link: {{ foot.link }}/working  
 {% endfor %}
 
 ## footprint
-{% for foot in footprint%}
+{% for foot in p.footprint%}
 ![](footprint/0/working/working_600.png)  
 oomp_key: {{ foot.oomp_key }}  
 link: {{ foot.link }}/working  

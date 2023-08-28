@@ -29,7 +29,7 @@ def main(**kwargs):
 
 
 
-        markdown_string = jinja2.Template(markdown_string).render(part2)
+        markdown_string = jinja2.Template(markdown_string).render(p=part2)
         with open(file_readme, "w") as outfile:
             outfile.write(markdown_string)
         count += 1

@@ -5,7 +5,7 @@ description_main: usb_to_serial_converter
 directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/c81010.html
     name: LCSC
     part_number: c81010
 footprint:

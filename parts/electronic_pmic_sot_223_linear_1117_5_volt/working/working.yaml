@@ -5,7 +5,7 @@ description_main: '1117'
 directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    link: https://lcsc.com/product-detail/C347223.html
     name: LCSC
     part_number: C347223
 footprint:
