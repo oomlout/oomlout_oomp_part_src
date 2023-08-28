@@ -3,7 +3,11 @@ color: red
 description_extra: ''
 description_main: ''
 directory: parts/electronic_led_0603_red
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C965799
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -13,7 +17,11 @@ from_yaml: false
 id: electronic_led_0603_red
 kicad_reference: L
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_xinglight
+    link: ''
+    name: XINGLIGHT
+    part_number: XL-1608SURC-06
 md5: 255611ec8565e66dea88d4fba9421c6d
 md5_10: 255611ec85
 md5_5: '25561'

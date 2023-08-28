@@ -13,7 +13,11 @@ from_yaml: false
 id: electronic_capacitor_0603_10_nano_farad
 kicad_reference: C
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103
+    name: Yageo
+    part_number: CC0603KRX7R9BB103
 md5: 33c290430a925ac7c87bd31db1d1a8b7
 md5_10: 33c290430a
 md5_5: 33c29

@@ -3,7 +3,11 @@ color: 3_pin_ground_pin_2
 description_extra: ''
 description_main: 16_mega_hertz
 directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C882605
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
@@ -13,7 +17,11 @@ from_yaml: false
 id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
 kicad_reference: x
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_murata
+    link: https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0
+    name: Murata
+    part_number: CSTNE16M0VH3C000R0
 md5: ebaebba3b264fd4a342d970d6a4f461e
 md5_10: ebaebba3b2
 md5_5: ebaeb

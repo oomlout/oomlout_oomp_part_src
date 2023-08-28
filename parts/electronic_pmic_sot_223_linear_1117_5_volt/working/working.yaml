@@ -3,14 +3,22 @@ color: linear
 description_extra: 5_volt
 description_main: '1117'
 directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C347223
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
     oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
 id: electronic_pmic_sot_223_linear_1117_5_volt
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_umw_youtai_semiconductor_co_ltd
+    link: ''
+    name: UMW(Youtai Semiconductor Co., Ltd.)
+    part_number: AMS1117-5.0
 md5: f26ce0b91db98ace92559b334d2cc5a6
 md5_10: f26ce0b91d
 md5_5: f26ce

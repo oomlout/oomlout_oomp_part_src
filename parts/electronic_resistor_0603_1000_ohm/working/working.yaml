@@ -13,7 +13,15 @@ from_yaml: false
 id: electronic_resistor_0603_1000_ohm
 kicad_reference: R
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 0603WAF1001T5E
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-071KL
+    name: Yageo
+    part_number: RC0603FR-071KL
 md5: 01afabf1a1678439fdd5ce5dd9569083
 md5_10: 01afabf1a1
 md5_5: 01afa

@@ -7,6 +7,14 @@ distributors:
 -   name: lcsc
     part_number: C7450623
     url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C2845294
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C2845294
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs

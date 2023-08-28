@@ -16,8 +16,22 @@
     "directory": "parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz",
     "name": "Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz",
     "short_code": "xcr3213mhz16",
-    "distributors": [],
-    "manufacturers": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C882605",
+            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
+            "id": "distributor_lcsc"
+        }
+    ],
+    "manufacturers": [
+        {
+            "name": "Murata",
+            "part_number": "CSTNE16M0VH3C000R0",
+            "link": "https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0",
+            "id": "manufacturer_murata"
+        }
+    ],
     "md5": "ebaebba3b264fd4a342d970d6a4f461e",
     "md5_5": "ebaeb",
     "md5_6": "ebaebb",

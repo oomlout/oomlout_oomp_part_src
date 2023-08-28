@@ -17,7 +17,14 @@
     "name": "Electronic Capacitor 0603 10 Nano Farad",
     "short_code": "c6nf10",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Yageo",
+            "part_number": "CC0603KRX7R9BB103",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "33c290430a925ac7c87bd31db1d1a8b7",
     "md5_5": "33c29",
     "md5_6": "33c290",

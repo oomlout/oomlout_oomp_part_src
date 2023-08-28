@@ -3,7 +3,15 @@ color: ''
 description_extra: package_marking_b2
 description_main: ''
 directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C77335
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C475717
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
@@ -13,7 +21,19 @@ from_yaml: false
 id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 kicad_reference: D
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_jiangsu_changjing_electronics_technology_co_ltd
+    link: ''
+    name: Jiangsu Changjing Electronics Technology Co., Ltd.
+    part_number: MBR0520
+-   id: manufacturer_shikues
+    link: ''
+    name: Shikues
+    part_number: MBR0520
+-   id: manufacturer_onsemi
+    link: ''
+    name: onsemi
+    part_number: MBR0520LT3G
 md5: fd1bfba95edbbb6f03cb0e465b2a0493
 md5_10: fd1bfba95e
 md5_5: fd1bf

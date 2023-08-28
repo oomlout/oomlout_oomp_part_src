@@ -21,7 +21,7 @@ def get_kyocera(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = "Kyocera"
             manufacturer_match["part_number"] = match["part_number"]
@@ -83,7 +83,7 @@ def get_lcsc(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = match["name"]
             manufacturer_match["part_number"] = match["part_number"]
@@ -112,7 +112,7 @@ def get_microchip(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = "Microchip"
             manufacturer_match["part_number"] = match["part_number"]
@@ -143,7 +143,7 @@ def get_murata(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = "Murata"
             manufacturer_match["part_number"] = match["part_number"]
@@ -169,7 +169,7 @@ def get_samsung(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = "Samsung"
             manufacturer_match["part_number"] = match["part_number"]
@@ -195,7 +195,7 @@ def get_uniroyal(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = "Uniroyal"
             manufacturer_match["part_number"] = match["part_number"]
@@ -229,7 +229,7 @@ def get_yageo(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             manufacturer_match = {}
             manufacturer_match["name"] = "Yageo"
             manufacturer_match["part_number"] = match["part_number"]

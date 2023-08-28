@@ -14,6 +14,18 @@
             "name": "lcsc",
             "part_number": "C7450623",
             "url": "https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2845294",
+            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2845294",
+            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
+            "id": "distributor_lcsc"
         }
     ],
     "id": "electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",

@@ -162,6 +162,14 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
     -   name: lcsc
         part_number: C7450623
         url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C2845294
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C2845294
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
@@ -351,7 +359,15 @@ electronic_capacitor_0603_100_nano_farad:
     description_extra: ''
     description_main: 100_nano_farad
     directory: parts/electronic_capacitor_0603_100_nano_farad
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C14663A
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C30926
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
@@ -362,7 +378,15 @@ electronic_capacitor_0603_100_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_samsung
+        link: https://product.samsungsem.com/mlcc/CL10B104KB8NNNC
+        name: Samsung
+        part_number: CL10B104KB8NNNC
+    -   id: manufacturer_yageo
+        link: https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104
+        name: Yageo
+        part_number: CC0603KRX7R9BB104
     md5: 8cfd91c8b4af505f5c4d796bc12d1d16
     md5_10: 8cfd91c8b4
     md5_5: 8cfd9
@@ -426,7 +450,11 @@ electronic_capacitor_0603_10_nano_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_yageo
+        link: https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103
+        name: Yageo
+        part_number: CC0603KRX7R9BB103
     md5: 33c290430a925ac7c87bd31db1d1a8b7
     md5_10: 33c290430a
     md5_5: 33c29
@@ -490,7 +518,15 @@ electronic_capacitor_0603_22_pico_farad:
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_hctl
+        link: ''
+        name: HCTL
+        part_number: TC-3601L-2.5-260G
+    -   id: manufacturer_yageo
+        link: https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220
+        name: Yageo
+        part_number: CC0603JRNPO9BN220
     md5: ed43fc9f13c024e0a26ef47e97a61fd1
     md5_10: ed43fc9f13
     md5_5: ed43f
@@ -543,7 +579,11 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     description_extra: 16_volt
     description_main: 4_7_micro_farad
     directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C7187
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a//working/working.kicad_mod
@@ -554,7 +594,11 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     kicad_reference: C
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_kyocera
+        link: https://search.kyocera-avx.com/search/TAJA475K016RNJ
+        name: Kyocera
+        part_number: TAJA475K016RNJ
     md5: 951eebab538d3a391eb9ef33560a6b6b
     md5_10: 951eebab53
     md5_5: 951ee
@@ -575,7 +619,11 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz:
     description_extra: ''
     description_main: 12_mega_hertz
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C341520
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
@@ -586,7 +634,11 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz:
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_murata
+        link: https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE12M0G550000R0
+        name: Murata
+        part_number: CSTNE12M0G550000R0
     md5: 7a66154160ed05623cf4b7ab5853ac4e
     md5_10: 7a66154160
     md5_5: 7a661
@@ -607,7 +659,11 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz:
     description_extra: ''
     description_main: 16_mega_hertz
     directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C882605
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
@@ -618,7 +674,11 @@ electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz:
     kicad_reference: x
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_murata
+        link: https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0
+        name: Murata
+        part_number: CSTNE16M0VH3C000R0
     md5: ebaebba3b264fd4a342d970d6a4f461e
     md5_10: ebaebba3b2
     md5_5: ebaeb
@@ -671,7 +731,15 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     description_extra: package_marking_b2
     description_main: ''
     directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C77335
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C475717
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
@@ -682,7 +750,19 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     kicad_reference: D
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jiangsu_changjing_electronics_technology_co_ltd
+        link: ''
+        name: Jiangsu Changjing Electronics Technology Co., Ltd.
+        part_number: MBR0520
+    -   id: manufacturer_shikues
+        link: ''
+        name: Shikues
+        part_number: MBR0520
+    -   id: manufacturer_onsemi
+        link: ''
+        name: onsemi
+        part_number: MBR0520LT3G
     md5: fd1bfba95edbbb6f03cb0e465b2a0493
     md5_10: fd1bfba95e
     md5_5: fd1bf
@@ -10562,7 +10642,15 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     description_extra: ''
     description_main: atmega328
     directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C14877
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C618816
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
@@ -10570,7 +10658,15 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     make_files: true
     manufacturer: microchip
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_microchip
+        link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU
+        name: Microchip
+        part_number: ATMEGA328P-AU
+    -   id: manufacturer_microchip
+        link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR
+        name: Microchip
+        part_number: ATMEGA328P-AUR
     md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
     md5_10: 16166fb725
     md5_5: '16166'
@@ -11003,7 +11099,11 @@ electronic_led_0603_red:
     description_extra: ''
     description_main: ''
     directory: parts/electronic_led_0603_red
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C965799
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -11014,7 +11114,11 @@ electronic_led_0603_red:
     kicad_reference: L
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_xinglight
+        link: ''
+        name: XINGLIGHT
+        part_number: XL-1608SURC-06
     md5: 255611ec8565e66dea88d4fba9421c6d
     md5_10: 255611ec85
     md5_5: '25561'
@@ -12208,7 +12312,11 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     description_extra: 5_volt
     description_main: '1117'
     directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+        name: LCSC
+        part_number: C347223
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
@@ -12216,7 +12324,11 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     id: electronic_pmic_sot_223_linear_1117_5_volt
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_umw_youtai_semiconductor_co_ltd
+        link: ''
+        name: UMW(Youtai Semiconductor Co., Ltd.)
+        part_number: AMS1117-5.0
     md5: f26ce0b91db98ace92559b334d2cc5a6
     md5_10: f26ce0b91d
     md5_5: f26ce
@@ -15263,7 +15375,15 @@ electronic_resistor_0603_1000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_uniroyal
+        link: ''
+        name: Uniroyal
+        part_number: 0603WAF1001T5E
+    -   id: manufacturer_yageo
+        link: https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-071KL
+        name: Yageo
+        part_number: RC0603FR-071KL
     md5: 01afabf1a1678439fdd5ce5dd9569083
     md5_10: 01afabf1a1
     md5_5: 01afa

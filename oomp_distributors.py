@@ -19,7 +19,7 @@ def get_lcsc(**kwargs):
 
     # capacitor
     part = "oomp_electronic_capacitor_0603_100_nano_farad"
-    matches.append({"id":part, "part_number": "C14663"})
+    matches.append({"id":part, "part_number": "C14663A"})
     matches.append({"id":part, "part_number": "C30926"})
 
     matches.append({"id":"oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt",
@@ -81,7 +81,7 @@ def get_lcsc(**kwargs):
     distributors = []
     for match in matches:
         #jus check th id
-        if match["id"] in kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             distributor_match = {}
             distributor_match["name"] = "LCSC"
             distributor_match["part_number"] = match["part_number"]
@@ -110,7 +110,7 @@ def get_aliexpress(**kwargs):
     distributors = []
     for match in matches:
         #jus check th id
-        if match["id"] == kwargs["id"]:
+        if match["id"].replace("oomp_","") in kwargs["id"]:
             distributor_match = {}
             distributor_match["name"] = "AliExpress"
             distributor_match["part_number"] = f'search: {match["part_number"]}'

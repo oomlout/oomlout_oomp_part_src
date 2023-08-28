@@ -14,8 +14,22 @@
     "directory": "parts/electronic_pmic_sot_223_linear_1117_5_volt",
     "name": "Electronic Pmic Sot 223 Linear 1117 5 Volt",
     "short_code": "pms22311175v",
-    "distributors": [],
-    "manufacturers": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C347223",
+            "link": "https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html",
+            "id": "distributor_lcsc"
+        }
+    ],
+    "manufacturers": [
+        {
+            "name": "UMW(Youtai Semiconductor Co., Ltd.)",
+            "part_number": "AMS1117-5.0",
+            "link": "",
+            "id": "manufacturer_umw_youtai_semiconductor_co_ltd"
+        }
+    ],
     "md5": "f26ce0b91db98ace92559b334d2cc5a6",
     "md5_5": "f26ce",
     "md5_6": "f26ce0",

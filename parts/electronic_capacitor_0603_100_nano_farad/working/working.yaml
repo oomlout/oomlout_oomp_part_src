@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 100_nano_farad
 directory: parts/electronic_capacitor_0603_100_nano_farad
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C14663A
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C30926
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
@@ -13,7 +21,15 @@ from_yaml: false
 id: electronic_capacitor_0603_100_nano_farad
 kicad_reference: C
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_samsung
+    link: https://product.samsungsem.com/mlcc/CL10B104KB8NNNC
+    name: Samsung
+    part_number: CL10B104KB8NNNC
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104
+    name: Yageo
+    part_number: CC0603KRX7R9BB104
 md5: 8cfd91c8b4af505f5c4d796bc12d1d16
 md5_10: 8cfd91c8b4
 md5_5: 8cfd9

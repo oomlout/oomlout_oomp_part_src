@@ -3,14 +3,30 @@ color: mcu
 description_extra: ''
 description_main: atmega328
 directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C14877
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/LED-Drivers_AIP1640_C82650.html
+    name: LCSC
+    part_number: C618816
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
     oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
 id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 manufacturer: microchip
-manufacturers: []
+manufacturers:
+-   id: manufacturer_microchip
+    link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU
+    name: Microchip
+    part_number: ATMEGA328P-AU
+-   id: manufacturer_microchip
+    link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR
+    name: Microchip
+    part_number: ATMEGA328P-AUR
 md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
 md5_10: 16166fb725
 md5_5: '16166'

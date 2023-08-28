@@ -13,7 +13,15 @@ from_yaml: false
 id: electronic_capacitor_0603_22_pico_farad
 kicad_reference: C
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_hctl
+    link: ''
+    name: HCTL
+    part_number: TC-3601L-2.5-260G
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220
+    name: Yageo
+    part_number: CC0603JRNPO9BN220
 md5: ed43fc9f13c024e0a26ef47e97a61fd1
 md5_10: ed43fc9f13
 md5_5: ed43f

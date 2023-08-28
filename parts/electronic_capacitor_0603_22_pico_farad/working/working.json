@@ -17,7 +17,20 @@
     "name": "Electronic Capacitor 0603 22 Pico Farad",
     "short_code": "c6pf22",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "HCTL",
+            "part_number": "TC-3601L-2.5-260G",
+            "link": "",
+            "id": "manufacturer_hctl"
+        },
+        {
+            "name": "Yageo",
+            "part_number": "CC0603JRNPO9BN220",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "ed43fc9f13c024e0a26ef47e97a61fd1",
     "md5_5": "ed43f",
     "md5_6": "ed43fc",
