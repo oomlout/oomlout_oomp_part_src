@@ -160,9 +160,6 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
     description_main: ''
     directory: parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
     distributors:
-    -   name: lcsc
-        part_number: C7450623
-        url: https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html
     -   id: distributor_lcsc
         link: https://lcsc.com/product-detail/C2845294.html
         name: LCSC

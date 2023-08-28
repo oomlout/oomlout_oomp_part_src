@@ -27,11 +27,6 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["short_name"] = ""  
     part_details["distributors"] = []
-    distributor = {}
-    distributor["name"] = "lcsc"
-    distributor["part_number"] = "C7450623"
-    distributor["url"] = "https://lcsc.com/product-detail/Tactile-Switches_Tactile-Switches_C7450623.html"
-    part_details["distributors"].append(distributor)
     parts.append(part_details)
 
     

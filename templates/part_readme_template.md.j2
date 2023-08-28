@@ -18,7 +18,8 @@ List of Pins:
 * {{ pin_info.number }} : {{ pin_info.name }}{% endfor %}
 {% if p.distributors %}
 ## distributors
-{% for distributor in p.distributors %}* [{{ distributor.name }}]({{ distributor.link }})  {% endfor %}
+{% for distributor in p.distributors %}* [{{ distributor.name }}-{{ distributor.part_number }}]({{ distributor.link }})  
+{% endfor %}
 {% endif %}
 ## symbol
 {% for foot in p.symbol%}
