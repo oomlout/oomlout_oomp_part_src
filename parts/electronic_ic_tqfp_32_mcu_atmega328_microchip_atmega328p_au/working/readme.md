@@ -16,12 +16,12 @@
 * part_number -- atmega328p_au
 
 ## distributors
-* [LCSC-C14877](https://lcsc.com/product-detail/C14877.html)  
-* [LCSC-C618816](https://lcsc.com/product-detail/C618816.html)  
+* [LCSC - C14877](https://lcsc.com/product-detail/C14877.html)  
+* [LCSC - C618816](https://lcsc.com/product-detail/C618816.html)  
 
 ## manufacturers
-* [Microchip-ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)  
-* [Microchip-ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR)  
+* [Microchip - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)  
+* [Microchip - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR)  
 
 
 ## footprint

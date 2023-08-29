@@ -35,7 +35,7 @@ List of Pins:
 * 15 : tnow
 * 16 : vcc
 ## distributors
-* [LCSC-c81010](https://lcsc.com/product-detail/c81010.html)  
+* [LCSC - c81010](https://lcsc.com/product-detail/c81010.html)  
 
 
 

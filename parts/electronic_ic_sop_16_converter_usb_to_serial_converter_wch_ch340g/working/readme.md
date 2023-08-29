@@ -35,7 +35,7 @@ List of Pins:
 * 15 : rs232
 * 16 : vcc
 ## distributors
-* [LCSC-c14267](https://lcsc.com/product-detail/c14267.html)  
+* [LCSC - c14267](https://lcsc.com/product-detail/c14267.html)  
 
 
 ## symbol

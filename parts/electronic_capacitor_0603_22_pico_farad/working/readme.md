@@ -17,8 +17,8 @@
 
 
 ## manufacturers
-* [HCTL-TC-3601L-2.5-260G]()  
-* [Yageo-CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)  
+* [HCTL - TC-3601L-2.5-260G]()  
+* [Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)  
 
 ## symbol
 

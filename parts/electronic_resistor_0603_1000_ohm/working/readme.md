@@ -17,8 +17,8 @@
 
 
 ## manufacturers
-* [Uniroyal-0603WAF1001T5E]()  
-* [Yageo-RC0603FR-071KL](https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-071KL)  
+* [Uniroyal - 0603WAF1001T5E]()  
+* [Yageo - RC0603FR-071KL](https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-071KL)  
 
 ## symbol
 

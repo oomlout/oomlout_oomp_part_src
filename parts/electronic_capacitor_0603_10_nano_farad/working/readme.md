@@ -17,7 +17,7 @@
 
 
 ## manufacturers
-* [Yageo-CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)  
+* [Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)  
 
 ## symbol
 

@@ -16,10 +16,10 @@
 * part_number -- 
 
 ## distributors
-* [LCSC-C341520](https://lcsc.com/product-detail/C341520.html)  
+* [LCSC - C341520](https://lcsc.com/product-detail/C341520.html)  
 
 ## manufacturers
-* [Murata-CSTNE12M0G550000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE12M0G550000R0)  
+* [Murata - CSTNE12M0G550000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE12M0G550000R0)  
 
 ## symbol
 

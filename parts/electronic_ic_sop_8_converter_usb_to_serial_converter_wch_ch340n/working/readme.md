@@ -27,7 +27,7 @@ List of Pins:
 * 7 : rxd
 * 8 : v3
 ## distributors
-* [LCSC-c2977777](https://lcsc.com/product-detail/c2977777.html)  
+* [LCSC - c2977777](https://lcsc.com/product-detail/c2977777.html)  
 
 
 
