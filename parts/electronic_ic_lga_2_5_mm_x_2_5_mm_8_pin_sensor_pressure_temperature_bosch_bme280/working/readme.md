@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280 
-* short_code: i
+* short_code: isn280
 * md5_6: a3697f  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working  
 ## naming details
@@ -86,7 +86,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working | 
 | directory | parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280 | 
 | name | Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280 | 
-| short_code | i | 
+| short_code | isn280 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C92489', 'link': 'https://lcsc.com/product-detail/C92489.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Bosch', 'part_number': 'BME280', 'link': 'https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/', 'id': 'manufacturer_bosch'}] | 
 | md5 | a3697f01237d79885aae438ef33a55dd | 

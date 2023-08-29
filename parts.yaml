@@ -10199,7 +10199,7 @@ electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
             name: vdd
             number: '8'
             type: power
-    short_code: i
+    short_code: isn280
     short_name: bosch sensortec bme280 pressure and temperature sensor
     size: lga_2_5_mm_x_2_5_mm_8_pin
     symbol:

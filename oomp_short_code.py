@@ -46,6 +46,7 @@ def get_short_code(**kwargs):
     replace_dict["size"]["3216_avx_a"] = "a"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
     replace_dict["size"]["sod_123"] = "sod123"
+    #replace_dict["size"]["lga_2_5_mm_x_2_5_mm_8_pin"] = "lg8"
     
     replace_dict["size"]["usb_mini"] = "umn"
     replace_dict["size"]["usb_micro"] = "umc"
@@ -89,6 +90,7 @@ def get_short_code(**kwargs):
     replace_dict["color"]["green"] = "g"
     replace_dict["color"]["surface_mount"] = "s"
     replace_dict["color"]["tantalum"] = "t"
+    replace_dict["color"]["sensor"] = "sn"
 
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
@@ -96,6 +98,8 @@ def get_short_code(**kwargs):
     replace_dict["description_main"]["1117"] = "1117"
 
     replace_dict["description_main"]["surface_mount_only"] = "smo"
+
+    #replace_dict["description_main"]["pressure_temperature"] = "pt"
 
     #add for _pin 1-40
     for pin_count in range(1, 41):
@@ -162,6 +166,7 @@ def get_short_code(**kwargs):
 
     replace_dict["part_number"] = {}
     replace_dict["part_number"]["aip1640"] = "aip1640"
+    replace_dict["part_number"]["bme280"] = "280"
         ###### ch340
     models = ["c","g","b","t","e","x"] ###### no k symbol yet
     for mod in models:

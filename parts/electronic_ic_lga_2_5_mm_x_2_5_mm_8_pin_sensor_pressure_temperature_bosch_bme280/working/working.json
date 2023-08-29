@@ -56,7 +56,7 @@
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working",
     "directory": "parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
     "name": "Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280",
-    "short_code": "i",
+    "short_code": "isn280",
     "distributors": [
         {
             "name": "LCSC",
