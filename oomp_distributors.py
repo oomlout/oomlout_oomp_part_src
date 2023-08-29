@@ -45,7 +45,7 @@ def get_lcsc(**kwargs):
                   "part_number": "C618816"})
     
     #      sensors
-    matches.append({"id":"oomp_electronic_ic_lga_8_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
+    matches.append({"id":"oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
 
     #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
