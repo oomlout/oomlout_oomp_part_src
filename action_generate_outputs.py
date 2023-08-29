@@ -6,6 +6,9 @@ import oom_kicad
 
 def main():
 
+    git_commit = False
+    #git_commit = True
+
     oomp.load_parts(from_pickle=True)   
     
     for root, dirs, files in os.walk("parts"):
@@ -26,10 +29,13 @@ def main():
     
     
     oomp_kicad.create_footprint_library()
-    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_footprints")
+    if git_commit:
+        oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_footprints")
     oomp_kicad.create_symbol_library()
-    oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_symbols")
-    oom_kicad.push_to_git()
+    if git_commit:
+        oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_symbols")
+    if git_commit:
+        oom_kicad.push_to_git()
 
 
 

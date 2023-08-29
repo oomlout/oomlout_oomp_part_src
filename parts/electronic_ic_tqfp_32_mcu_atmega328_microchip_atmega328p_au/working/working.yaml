@@ -38,4 +38,8 @@ part_number: atmega328p_au
 short_code: itq32at328
 short_name: atmega328 32 pin tqfp
 size: tqfp_32
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
 type: ic

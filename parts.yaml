@@ -10233,6 +10233,10 @@ electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu:
     short_code: imlf32at328
     short_name: atmega328 32 pin mlf
     size: mlf_32
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
     type: ic
 electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     classification: electronic
@@ -11072,6 +11076,10 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     short_code: itq32at328
     short_name: atmega328 32 pin tqfp
     size: tqfp_32
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
     type: ic
 electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh:
     classification: electronic
@@ -11099,6 +11107,10 @@ electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh:
     short_code: ivq28at328
     short_name: atmega328 28 pin vqfn
     size: vqfn_28
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
+        oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
     type: ic
 electronic_led_0201:
     classification: electronic

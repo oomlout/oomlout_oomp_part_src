@@ -22,4 +22,8 @@ part_number: atmega328p_mu
 short_code: imlf32at328
 short_name: atmega328 32 pin mlf
 size: mlf_32
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
+    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
 type: ic

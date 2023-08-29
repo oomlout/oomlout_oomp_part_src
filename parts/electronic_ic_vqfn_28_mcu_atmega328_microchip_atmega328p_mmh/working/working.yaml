@@ -22,4 +22,8 @@ part_number: atmega328p_mmh
 short_code: ivq28at328
 short_name: atmega328 28 pin vqfn
 size: vqfn_28
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
+    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
 type: ic

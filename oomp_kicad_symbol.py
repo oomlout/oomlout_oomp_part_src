@@ -100,15 +100,15 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_p"
     matches.append(match)
     match = {}
-    match["part_number"] = "atmega328p_mmhr"
+    match["part_number"] = "atmega328p_mmh"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_mm"
     matches.append(match)
     match = {}
-    match["part_number"] = "atmega328p_aur"
+    match["part_number"] = "atmega328p_au"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_a"
     matches.append(match)
     match = {}
-    match["part_number"] = "atmega328p_mur"
+    match["part_number"] = "atmega328p_mu"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_m"
     matches.append(match)
     
