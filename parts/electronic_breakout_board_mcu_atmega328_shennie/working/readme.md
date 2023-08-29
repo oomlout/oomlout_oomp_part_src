@@ -1,6 +1,6 @@
 # Electronic Breakout Board Mcu Atmega328 Shennie
 oomp_key: oomp_electronic_breakout_board_mcu_atmega328_shennie 
- ![](image_400.jpg) 
+ ![](working_400.jpg) 
 
 A popular arduino compatible atmega328 board from aliexpress
 short_code: bbat328
