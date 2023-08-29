@@ -1,7 +1,7 @@
 # Electronic Resistor 0402 820 Ohm
-oomp_key: oomp_electronic_resistor_0402_820_ohm 
 
   
+* oomp_key: oomp_electronic_resistor_0402_820_ohm 
 * short_code: r4o821
 * md5_6: 2edc8c  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_820_ohm/working  
@@ -36,7 +36,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_0402_820_ohm | 

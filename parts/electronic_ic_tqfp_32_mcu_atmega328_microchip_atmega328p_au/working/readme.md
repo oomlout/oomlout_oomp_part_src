@@ -1,7 +1,7 @@
 # Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
-oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au 
 
   
+* oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au 
 * short_code: itq32at328
 * md5_6: 16166f  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working  

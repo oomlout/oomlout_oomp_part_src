@@ -1,7 +1,7 @@
 # Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340G
-oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g 
 
   
+* oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g 
 * short_code: isp16ch340g
 * md5_6: 0f3b38  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g/working  

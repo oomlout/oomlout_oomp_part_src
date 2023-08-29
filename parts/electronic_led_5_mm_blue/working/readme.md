@@ -1,7 +1,7 @@
 # Electronic Led 5 Mm Blue
-oomp_key: oomp_electronic_led_5_mm_blue 
 
   
+* oomp_key: oomp_electronic_led_5_mm_blue 
 * short_code: l5
 * md5_6: ce3441  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working  
@@ -41,7 +41,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_5_mm_blue | 

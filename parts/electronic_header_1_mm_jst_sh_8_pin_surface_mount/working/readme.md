@@ -1,7 +1,7 @@
 # Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount
-oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin_surface_mount 
 
   
+* oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin_surface_mount 
 * short_code: h8psm
 * md5_6: ff3161  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working  

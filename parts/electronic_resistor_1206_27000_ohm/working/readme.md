@@ -1,7 +1,7 @@
 # Electronic Resistor 1206 27000 Ohm
-oomp_key: oomp_electronic_resistor_1206_27000_ohm 
 
   
+* oomp_key: oomp_electronic_resistor_1206_27000_ohm 
 * short_code: r12o273
 * md5_6: f1e2dd  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_27000_ohm/working  
@@ -41,7 +41,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_1206_27000_ohm | 

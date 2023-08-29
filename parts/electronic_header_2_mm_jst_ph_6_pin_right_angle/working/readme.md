@@ -1,7 +1,7 @@
 # Electronic Header 2 Mm Jst Ph 6 Pin Right Angle
-oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin_right_angle 
 
   
+* oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin_right_angle 
 * short_code: h6pra
 * md5_6: e6da2b  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_6_pin_right_angle/working  

@@ -1,7 +1,7 @@
 # Electronic Header 2 Mm Jst Ph 8 Pin
-oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin 
 
   
+* oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin 
 * short_code: h8p
 * md5_6: 1c1224  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_8_pin/working  

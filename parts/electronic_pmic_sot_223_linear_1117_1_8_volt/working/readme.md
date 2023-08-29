@@ -1,7 +1,7 @@
 # Electronic Pmic Sot 223 Linear 1117 1 8 Volt
-oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8_volt 
 
   
+* oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8_volt 
 * short_code: pms2231117
 * md5_6: 1ae2ec  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt/working  

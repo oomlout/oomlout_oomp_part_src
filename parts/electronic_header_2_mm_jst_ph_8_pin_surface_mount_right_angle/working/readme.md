@@ -1,7 +1,7 @@
 # Electronic Header 2 Mm Jst Ph 8 Pin Surface Mount Right Angle
-oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin_surface_mount_right_angle 
 
   
+* oomp_key: oomp_electronic_header_2_mm_jst_ph_8_pin_surface_mount_right_angle 
 * short_code: h8psmra
 * md5_6: 94b9b0  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_8_pin_surface_mount_right_angle/working  

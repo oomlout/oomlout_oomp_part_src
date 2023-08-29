@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 39 Pin
-oomp_key: oomp_electronic_header_2d54_mm_39_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_39_pin 
 * short_code: hi139p
 * md5_6: b35cc8  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_39_pin/working  

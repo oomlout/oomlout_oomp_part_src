@@ -1,7 +1,7 @@
 # Electronic Header 2 Mm Jst Ph 6 Pin
-oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin 
 
   
+* oomp_key: oomp_electronic_header_2_mm_jst_ph_6_pin 
 * short_code: h6p
 * md5_6: 4392b6  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_6_pin/working  

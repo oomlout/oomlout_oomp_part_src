@@ -173,7 +173,8 @@ def get_samsung(**kwargs):
             manufacturer_match = {}
             manufacturer_match["name"] = "Samsung"
             manufacturer_match["part_number"] = match["part_number"]
-            manufacturer_match["link"] = f"https://product.samsungsem.com/mlcc/{match['part_number']}"
+            link_num = match["part_number"][0:-1]
+            manufacturer_match["link"] = f"https://product.samsungsem.com/mlcc/{link_num}.do"
             manufacturer_match["id"] = "manufacturer_samsung"            
             manufacturers.append(manufacturer_match)
     

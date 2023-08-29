@@ -1,7 +1,7 @@
 # Electronic Resistor Quarter Watt Through Hole 470 Ohm
-oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_470_ohm 
 
   
+* oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_470_ohm 
 * short_code: ro471
 * md5_6: 4bacce  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_470_ohm/working  
@@ -41,7 +41,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_quarter_watt_through_hole_470_ohm | 

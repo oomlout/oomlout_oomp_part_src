@@ -1,7 +1,7 @@
 # Electronic Header 1 Mm Jst Sh 3 Pin
-oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin 
 
   
+* oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin 
 * short_code: h3p
 * md5_6: 384a99  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin/working  

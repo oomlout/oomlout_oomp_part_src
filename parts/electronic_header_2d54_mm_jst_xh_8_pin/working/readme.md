@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm Jst Xh 8 Pin
-oomp_key: oomp_electronic_header_2d54_mm_jst_xh_8_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_jst_xh_8_pin 
 * short_code: h8p
 * md5_6: 0e667e  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_8_pin/working  

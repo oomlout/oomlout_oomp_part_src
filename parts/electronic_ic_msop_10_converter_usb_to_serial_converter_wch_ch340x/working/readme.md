@@ -1,7 +1,7 @@
 # Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X
-oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x 
 
   
+* oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x 
 * short_code: ich340x
 * md5_6: 0f2103  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working  

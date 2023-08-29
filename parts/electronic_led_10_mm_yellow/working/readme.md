@@ -1,7 +1,7 @@
 # Electronic Led 10 Mm Yellow
-oomp_key: oomp_electronic_led_10_mm_yellow 
 
   
+* oomp_key: oomp_electronic_led_10_mm_yellow 
 * short_code: l10
 * md5_6: c57d40  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working  
@@ -41,7 +41,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_10_mm_yellow | 

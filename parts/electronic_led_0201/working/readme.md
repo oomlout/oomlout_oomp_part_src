@@ -1,7 +1,7 @@
 # Electronic Led 0201
-oomp_key: oomp_electronic_led_0201 
 
   
+* oomp_key: oomp_electronic_led_0201 
 * short_code: l
 * md5_6: 734a19  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working  
@@ -36,7 +36,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_0201 | 

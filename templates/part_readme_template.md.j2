@@ -21,10 +21,10 @@ List of Pins:
 {% for pin_name, pin_info in p.pins.items() %}
 * {{ pin_info.number }} : {{ pin_info.name }}{% endfor %}{% endif %}
 {% if p.distributors %}## distributors
-{% for distributor in p.distributors %}* [{{ distributor.name }}-{{ distributor.part_number }}]({{ distributor.link }})  
+{% for distributor in p.distributors %}* [{{ distributor.name }} - {{ distributor.part_number }}]({{ distributor.link }})  
 {% endfor %}{% endif %}
 {% if p.manufacturers %}## manufacturers
-{% for manufacturer in p.manufacturers %}* [{{ manufacturer.name }}-{{ manufacturer.part_number }}]({{ manufacturer.link }})  
+{% for manufacturer in p.manufacturers %}* [{{ manufacturer.name }} - {{ manufacturer.part_number }}]({{ manufacturer.link }})  
 {% endfor %}{% endif %}
 {% if p.symbol %}## symbol
 {% for foot in p.symbol%}

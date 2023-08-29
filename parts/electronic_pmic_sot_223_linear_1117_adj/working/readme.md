@@ -1,7 +1,7 @@
 # Electronic Pmic Sot 223 Linear 1117 Adj
-oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj 
 
   
+* oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj 
 * short_code: pms2231117
 * md5_6: cdc564  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working  

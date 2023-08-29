@@ -1,7 +1,7 @@
 # Electronic Header 1 Mm Jst Sh 1 Pin Surface Mount
-oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin_surface_mount 
 
   
+* oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin_surface_mount 
 * short_code: h1psm
 * md5_6: d0f7f3  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_1_pin_surface_mount/working  

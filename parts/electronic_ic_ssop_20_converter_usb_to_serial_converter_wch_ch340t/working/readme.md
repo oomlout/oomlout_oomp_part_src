@@ -1,7 +1,7 @@
 # Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T
-oomp_key: oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t 
 
   
+* oomp_key: oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t 
 * short_code: ich340t
 * md5_6: e07223  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working  

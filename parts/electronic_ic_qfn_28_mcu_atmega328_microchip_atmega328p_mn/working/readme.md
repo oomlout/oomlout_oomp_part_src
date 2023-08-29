@@ -1,7 +1,7 @@
 # Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
-oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn 
 
   
+* oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn 
 * short_code: iq28at328
 * md5_6: 4e3ceb  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working  

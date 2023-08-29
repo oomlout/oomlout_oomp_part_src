@@ -1,7 +1,7 @@
 # Electronic Header 1 Mm Jst Sh 10 Pin
-oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin 
 
   
+* oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin 
 * short_code: h10p
 * md5_6: 57d506  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin/working  

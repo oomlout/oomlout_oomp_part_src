@@ -1,7 +1,7 @@
 # Electronic Resistor 0201 4700 Ohm
-oomp_key: oomp_electronic_resistor_0201_4700_ohm 
 
   
+* oomp_key: oomp_electronic_resistor_0201_4700_ohm 
 * short_code: ro472
 * md5_6: 0cc095  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working  
@@ -36,7 +36,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_0201_4700_ohm | 

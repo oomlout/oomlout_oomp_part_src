@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm Jst Xh 3 Pin Surface Mount
-oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin_surface_mount 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_jst_xh_3_pin_surface_mount 
 * short_code: h3psm
 * md5_6: 122638  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_3_pin_surface_mount/working  

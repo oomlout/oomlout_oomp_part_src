@@ -1,7 +1,7 @@
 # Electronic Resistor 0402 220 Ohm
-oomp_key: oomp_electronic_resistor_0402_220_ohm 
 
   
+* oomp_key: oomp_electronic_resistor_0402_220_ohm 
 * short_code: r4o221
 * md5_6: e30780  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_220_ohm/working  
@@ -36,7 +36,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_0402_220_ohm | 

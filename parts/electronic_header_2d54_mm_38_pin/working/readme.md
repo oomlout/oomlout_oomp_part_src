@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 38 Pin
-oomp_key: oomp_electronic_header_2d54_mm_38_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_38_pin 
 * short_code: hi138p
 * md5_6: dc3926  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_38_pin/working  

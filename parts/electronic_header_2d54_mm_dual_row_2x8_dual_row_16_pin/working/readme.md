@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm Dual Row 2X8 Dual Row 16 Pin
-oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin 
 * short_code: hi12x8p
 * md5_6: 4128a2  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin/working  

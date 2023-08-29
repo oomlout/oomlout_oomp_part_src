@@ -1,7 +1,7 @@
 # Electronic Led 3 Mm Green
-oomp_key: oomp_electronic_led_3_mm_green 
 
   
+* oomp_key: oomp_electronic_led_3_mm_green 
 * short_code: l3g
 * md5_6: 6b2621  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working  
@@ -36,7 +36,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_3_mm_green | 

@@ -1,7 +1,7 @@
 # Electronic Led 0805 Green
-oomp_key: oomp_electronic_led_0805_green 
 
   
+* oomp_key: oomp_electronic_led_0805_green 
 * short_code: l8g
 * md5_6: 86fed6  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working  
@@ -36,7 +36,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_0805_green | 

@@ -1,7 +1,7 @@
 # Electronic Header 2 Mm Jst Ph 4 Pin Surface Mount Right Angle
-oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle 
 
   
+* oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle 
 * short_code: h4psmra
 * md5_6: bec26d  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_4_pin_surface_mount_right_angle/working  

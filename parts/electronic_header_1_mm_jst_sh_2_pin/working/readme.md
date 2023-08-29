@@ -1,7 +1,7 @@
 # Electronic Header 1 Mm Jst Sh 2 Pin
-oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin 
 
   
+* oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin 
 * short_code: h2p
 * md5_6: fec295  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin/working  
