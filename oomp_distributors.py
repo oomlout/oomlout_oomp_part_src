@@ -44,6 +44,9 @@ def get_lcsc(**kwargs):
     matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
                   "part_number": "C618816"})
     
+    #      sensors
+    matches.append({"id":"oomp_electronic_ic_lga_8_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
+
     #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
                   "part_number": "c7464026"})

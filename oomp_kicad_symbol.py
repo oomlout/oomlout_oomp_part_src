@@ -90,6 +90,7 @@ def get_symbols(**kwargs):
 
 
     ###### ic
+    #      atmega328
     match = {}
     match["part_number"] = "atmega328p_pu"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328p_p"
@@ -111,6 +112,12 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_m"
     matches.append(match)
     
+    #      bme280
+    match = {}
+    match["part_number"] = "bme280"
+    match["symbol_name"] = f"kicad_sensor_bme280"
+    matches.append(match)
+
     ###### ch340
     models = ["c","g","t","e","x"] ###### no k,b symbol yet
     for model in models:

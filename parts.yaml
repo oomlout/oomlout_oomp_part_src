@@ -10134,6 +10134,71 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     short_name: usb to serial converter (ch340k)
     size: essop_10
     type: ic
+electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280:
+    classification: electronic
+    color: sensor
+    description_extra: ''
+    description_main: pressure_temperature
+    directory: parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering
+        oomp_key: oomp_kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working
+    id: electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+    make_files: true
+    manufacturer: bosch
+    manufacturers: []
+    md5: a3697f01237d79885aae438ef33a55dd
+    md5_10: a3697f0123
+    md5_5: a3697
+    md5_6: a3697f
+    name: Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch
+        Bme280
+    oomp_key: oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+    part_number: bme280
+    pins:
+        pin_1:
+            name: gnd
+            number: '1'
+            type: power
+        pin_2:
+            name: csb
+            number: '2'
+            type: signal
+        pin_3:
+            name: sdi
+            number: '3'
+            type: signal
+        pin_4:
+            name: sck
+            number: '4'
+            type: signal
+        pin_5:
+            name: sdo
+            number: '5'
+            type: signal
+        pin_6:
+            name: vddio
+            number: '6'
+            type: power
+        pin_7:
+            name: gnd
+            number: '7'
+            type: power
+        pin_8:
+            name: vdd
+            number: '8'
+            type: power
+    short_code: i
+    short_name: bosch sensortec bme280 pressure and temperature sensor
+    size: lga_2_5_mm_x_2_5_mm_8_pin
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_sensor_bme280//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_sensor_bme280
+        oomp_key: oomp_kicad_sensor_bme280
+    type: ic
 electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu:
     classification: electronic
     color: mcu

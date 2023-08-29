@@ -53,6 +53,31 @@ def load_parts(**kwargs):
     part_details["short_name"] = "atmega328 32 pin tqfp"
     parts.append(part_details) 
 
+    # sensors
+    #  bosch
+    #   bme280
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["lga_2_5_mm_x_2_5_mm_8_pin"]
+    part_details["color"] = ["sensor"]
+    part_details["description_main"] = "pressure_temperature"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "bosch"
+    part_details["part_number"] = "bme280"
+    part_details["short_name"] = "bosch sensortec bme280 pressure and temperature sensor"    
+    pins = {}
+    pins["pin_1"] = ({"name": "gnd", "number": "1", "type": "power"})
+    pins["pin_2"] = ({"name": "csb", "number": "2", "type": "signal"})
+    pins["pin_3"] = ({"name": "sdi", "number": "3", "type": "signal"})
+    pins["pin_4"] = ({"name": "sck", "number": "4", "type": "signal"})
+    pins["pin_5"] = ({"name": "sdo", "number": "5", "type": "signal"})
+    pins["pin_6"] = ({"name": "vddio", "number": "6", "type": "power"})
+    pins["pin_7"] = ({"name": "gnd", "number": "7", "type": "power"})
+    pins["pin_8"] = ({"name": "vdd", "number": "8", "type": "power"})
+    part_details["pins"] = pins
+
+    parts.append(part_details)
 
     ###### usb to serial bridge
     part_details = {}

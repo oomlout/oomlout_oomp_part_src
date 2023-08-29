@@ -1,0 +1,66 @@
+{
+    "classification": "electronic",
+    "type": "ic",
+    "size": "lga_2_5_mm_x_2_5_mm_8_pin",
+    "color": "sensor",
+    "description_main": "pressure_temperature",
+    "description_extra": "",
+    "manufacturer": "bosch",
+    "part_number": "bme280",
+    "make_files": true,
+    "short_name": "bosch sensortec bme280 pressure and temperature sensor",
+    "pins": {
+        "pin_1": {
+            "name": "gnd",
+            "number": "1",
+            "type": "power"
+        },
+        "pin_2": {
+            "name": "csb",
+            "number": "2",
+            "type": "signal"
+        },
+        "pin_3": {
+            "name": "sdi",
+            "number": "3",
+            "type": "signal"
+        },
+        "pin_4": {
+            "name": "sck",
+            "number": "4",
+            "type": "signal"
+        },
+        "pin_5": {
+            "name": "sdo",
+            "number": "5",
+            "type": "signal"
+        },
+        "pin_6": {
+            "name": "vddio",
+            "number": "6",
+            "type": "power"
+        },
+        "pin_7": {
+            "name": "gnd",
+            "number": "7",
+            "type": "power"
+        },
+        "pin_8": {
+            "name": "vdd",
+            "number": "8",
+            "type": "power"
+        }
+    },
+    "id": "electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
+    "oomp_key": "oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working",
+    "directory": "parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
+    "name": "Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280",
+    "short_code": "i",
+    "distributors": [],
+    "manufacturers": [],
+    "md5": "a3697f01237d79885aae438ef33a55dd",
+    "md5_5": "a3697",
+    "md5_6": "a3697f",
+    "md5_10": "a3697f0123"
+}

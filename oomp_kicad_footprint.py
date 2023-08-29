@@ -125,6 +125,12 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_package_dip_dip_{pin_s}_w7_62mm"
         matches.append(match)  
 
+    ###### ic lga
+    match = {}
+    match["size"] = "lga_2_5_mm_x_2_5_mm_8_pin"
+    match["footprint_name"] = f"kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering"
+    matches.append(match) 
+
     ###### ic mlf (also called vqfn by microchip)
     match = {}
     match["size"] = "mlf_32"
