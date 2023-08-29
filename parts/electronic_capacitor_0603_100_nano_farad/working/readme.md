@@ -1,7 +1,10 @@
 # Electronic Capacitor 0603 100 Nano Farad
-oomp_key: oomp_electronic_capacitor_0603_100_nano_farad  
+oomp_key: oomp_electronic_capacitor_0603_100_nano_farad 
+
 
 short_code: c6nf100
+md5_6: 8cfd91
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working
 ## naming details
 * classification -- electronic
 * type -- capacitor
@@ -31,3 +34,33 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric/working  
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | capacitor | 
+| size | 0603 | 
+| color |  | 
+| description_main | 100_nano_farad | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | C | 
+| id | electronic_capacitor_0603_100_nano_farad | 
+| oomp_key | oomp_electronic_capacitor_0603_100_nano_farad | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working | 
+| directory | parts/electronic_capacitor_0603_100_nano_farad | 
+| name | Electronic Capacitor 0603 100 Nano Farad | 
+| short_code | c6nf100 | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C14663A', 'link': 'https://lcsc.com/product-detail/C14663A.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C30926', 'link': 'https://lcsc.com/product-detail/C30926.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'Samsung', 'part_number': 'CL10B104KB8NNNC', 'link': 'https://product.samsungsem.com/mlcc/CL10B104KB8NNNC', 'id': 'manufacturer_samsung'}, {'name': 'Yageo', 'part_number': 'CC0603KRX7R9BB104', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104', 'id': 'manufacturer_yageo'}] | 
+| md5 | 8cfd91c8b4af505f5c4d796bc12d1d16 | 
+| md5_5 | 8cfd9 | 
+| md5_6 | 8cfd91 | 
+| md5_10 | 8cfd91c8b4 | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym'}] | 

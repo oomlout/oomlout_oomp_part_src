@@ -1,7 +1,10 @@
 # Electronic Led 0805 Red
-oomp_key: oomp_electronic_led_0805_red  
+oomp_key: oomp_electronic_led_0805_red 
+
 
 short_code: l8r
+md5_6: fb973f
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working
 ## naming details
 * classification -- electronic
 * type -- led
@@ -20,3 +23,33 @@ short_code: l8r
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | led | 
+| size | 0805 | 
+| color | red | 
+| description_main |  | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | L | 
+| id | electronic_led_0805_red | 
+| oomp_key | oomp_electronic_led_0805_red | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working | 
+| directory | parts/electronic_led_0805_red | 
+| name | Electronic Led 0805 Red | 
+| short_code | l8r | 
+| short_name | 0805 Red Led | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | fb973f60131a78a8c7072cbdb940a30b | 
+| md5_5 | fb973 | 
+| md5_6 | fb973f | 
+| md5_10 | fb973f6013 | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

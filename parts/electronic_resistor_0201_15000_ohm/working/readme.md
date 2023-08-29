@@ -1,7 +1,10 @@
 # Electronic Resistor 0201 15000 Ohm
-oomp_key: oomp_electronic_resistor_0201_15000_ohm  
+oomp_key: oomp_electronic_resistor_0201_15000_ohm 
+
 
 short_code: ro153
+md5_6: 4c89d7
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15000_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -20,3 +23,32 @@ short_code: ro153
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 0201 | 
+| color |  | 
+| description_main | 15000_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_0201_15000_ohm | 
+| oomp_key | oomp_electronic_resistor_0201_15000_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15000_ohm/working | 
+| directory | parts/electronic_resistor_0201_15000_ohm | 
+| name | Electronic Resistor 0201 15000 Ohm | 
+| short_code | ro153 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 4c89d72580b174e92d1ecefe6517c95f | 
+| md5_5 | 4c89d | 
+| md5_6 | 4c89d7 | 
+| md5_10 | 4c89d72580 | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

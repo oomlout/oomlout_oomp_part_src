@@ -1,7 +1,10 @@
 # Electronic Resistor 0603 390 Ohm
-oomp_key: oomp_electronic_resistor_0603_390_ohm  
+oomp_key: oomp_electronic_resistor_0603_390_ohm 
+
 
 short_code: r6o391
+md5_6: a4f299
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_390_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -25,3 +28,33 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric/working  
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 0603 | 
+| color |  | 
+| description_main | 390_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_0603_390_ohm | 
+| oomp_key | oomp_electronic_resistor_0603_390_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_390_ohm/working | 
+| directory | parts/electronic_resistor_0603_390_ohm | 
+| name | Electronic Resistor 0603 390 Ohm | 
+| short_code | r6o391 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | a4f2994a90a3ad77bd8423f384df31f5 | 
+| md5_5 | a4f29 | 
+| md5_6 | a4f299 | 
+| md5_10 | a4f2994a90 | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

@@ -1,7 +1,10 @@
 # Electronic Resistor 0201 1000000 Ohm
-oomp_key: oomp_electronic_resistor_0201_1000000_ohm  
+oomp_key: oomp_electronic_resistor_0201_1000000_ohm 
+
 
 short_code: ro105
+md5_6: bd0164
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1000000_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -20,3 +23,32 @@ short_code: ro105
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 0201 | 
+| color |  | 
+| description_main | 1000000_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_0201_1000000_ohm | 
+| oomp_key | oomp_electronic_resistor_0201_1000000_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1000000_ohm/working | 
+| directory | parts/electronic_resistor_0201_1000000_ohm | 
+| name | Electronic Resistor 0201 1000000 Ohm | 
+| short_code | ro105 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | bd0164c25fa7070a4c56c0c88b152d73 | 
+| md5_5 | bd016 | 
+| md5_6 | bd0164 | 
+| md5_10 | bd0164c25f | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

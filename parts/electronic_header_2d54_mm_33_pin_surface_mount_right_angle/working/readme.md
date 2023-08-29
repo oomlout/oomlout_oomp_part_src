@@ -1,7 +1,10 @@
 # Electronic Header 2D54 Mm 33 Pin Surface Mount Right Angle
-oomp_key: oomp_electronic_header_2d54_mm_33_pin_surface_mount_right_angle  
+oomp_key: oomp_electronic_header_2d54_mm_33_pin_surface_mount_right_angle 
+
 
 short_code: hi133psmra
+md5_6: 7a12f8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_33_pin_surface_mount_right_angle/working
 ## naming details
 * classification -- electronic
 * type -- header
@@ -25,3 +28,32 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical/working  
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | header | 
+| size | 2d54_mm | 
+| color |  | 
+| description_main | 33_pin | 
+| description_extra | surface_mount_right_angle | 
+| manufacturer |  | 
+| part_number |  | 
+| kicad_reference | J | 
+| id | electronic_header_2d54_mm_33_pin_surface_mount_right_angle | 
+| oomp_key | oomp_electronic_header_2d54_mm_33_pin_surface_mount_right_angle | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_33_pin_surface_mount_right_angle/working | 
+| directory | parts/electronic_header_2d54_mm_33_pin_surface_mount_right_angle | 
+| name | Electronic Header 2D54 Mm 33 Pin Surface Mount Right Angle | 
+| short_code | hi133psmra | 
+| short_name | 0.1" 33 Pin Surface Mount Right Angle Header | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 7a12f81be1faae0b17d5037bf5f0884b | 
+| md5_5 | 7a12f | 
+| md5_6 | 7a12f8 | 
+| md5_10 | 7a12f81be1 | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x33_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x33_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x33_pin//working/working.kicad_sym'}] | 

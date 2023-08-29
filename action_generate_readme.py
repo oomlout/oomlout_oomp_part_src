@@ -1,12 +1,14 @@
 import os
 import oomp
 import jinja2
+import oom_markdown
 
 def main(**kwargs):
     oomp.load_parts(from_pickle = True)
     count = 1
     for part_id in oomp.parts:
         part = oomp.parts[part_id]
+        part.pop("make_files", None)
         directory = part.get("directory","")
         if directory == "":
             print(f"part {part_id} has no directory")
@@ -15,6 +17,12 @@ def main(**kwargs):
         file_readme = os.path.join(directory,"readme.md")
         template_file = f"templates/part_readme_template.md.j2"
         part_flat = flatten_dict(part)
+        part["flat_dict"] = oom_markdown.get_table_dict(data=part_flat)
+        # add all the files as a list
+        part["files"] = []
+        for file in os.listdir(directory):
+            part["files"].append(file)
+        
         markdown_string = ""
         with open(template_file, "r") as infile:
             markdown_string = infile.read()

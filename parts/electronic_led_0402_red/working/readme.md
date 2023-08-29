@@ -1,7 +1,10 @@
 # Electronic Led 0402 Red
-oomp_key: oomp_electronic_led_0402_red  
+oomp_key: oomp_electronic_led_0402_red 
+
 
 short_code: l4r
+md5_6: d0f95d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working
 ## naming details
 * classification -- electronic
 * type -- led
@@ -20,3 +23,33 @@ short_code: l4r
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | led | 
+| size | 0402 | 
+| color | red | 
+| description_main |  | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | L | 
+| id | electronic_led_0402_red | 
+| oomp_key | oomp_electronic_led_0402_red | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working | 
+| directory | parts/electronic_led_0402_red | 
+| name | Electronic Led 0402 Red | 
+| short_code | l4r | 
+| short_name | 0402 Red Led | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | d0f95d29bb59bddbdbd52caa32e5e745 | 
+| md5_5 | d0f95 | 
+| md5_6 | d0f95d | 
+| md5_10 | d0f95d29bb | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

@@ -1,7 +1,10 @@
 # Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C
-oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c  
+oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c 
+
 
 short_code: isp16ch340c
+md5_6: 8b394c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working
 ## naming details
 * classification -- electronic
 * type -- ic
@@ -46,3 +49,81 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm/working  
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | ic | 
+| size | sop_16 | 
+| color | converter | 
+| description_main | usb_to_serial_converter | 
+| description_extra |  | 
+| manufacturer | wch | 
+| part_number | ch340c | 
+| short_name | usb to serial converter (ch340c) | 
+| pins_pin_1_name | gnd | 
+| pins_pin_1_number | 1 | 
+| pins_pin_1_type | signal | 
+| pins_pin_2_name | txd | 
+| pins_pin_2_number | 2 | 
+| pins_pin_2_type | signal | 
+| pins_pin_3_name | rxd | 
+| pins_pin_3_number | 3 | 
+| pins_pin_3_type | signal | 
+| pins_pin_4_name | v3 | 
+| pins_pin_4_number | 4 | 
+| pins_pin_4_type | signal | 
+| pins_pin_5_name | ud_plus | 
+| pins_pin_5_number | 5 | 
+| pins_pin_5_type | signal | 
+| pins_pin_6_name | ud_negative | 
+| pins_pin_6_number | 6 | 
+| pins_pin_6_type | gnd | 
+| pins_pin_7_name | not_connected | 
+| pins_pin_7_number | 7 | 
+| pins_pin_7_type | signal | 
+| pins_pin_8_name | out | 
+| pins_pin_8_number | 8 | 
+| pins_pin_8_type | signal | 
+| pins_pin_9_name | cts | 
+| pins_pin_9_number | 9 | 
+| pins_pin_9_type | signal | 
+| pins_pin_10_name | dsr | 
+| pins_pin_10_number | 10 | 
+| pins_pin_10_type | signal | 
+| pins_pin_11_name | ri | 
+| pins_pin_11_number | 11 | 
+| pins_pin_11_type | signal | 
+| pins_pin_12_name | dcd | 
+| pins_pin_12_number | 12 | 
+| pins_pin_12_type | signal | 
+| pins_pin_13_name | dtr | 
+| pins_pin_13_number | 13 | 
+| pins_pin_13_type | signal | 
+| pins_pin_14_name | rts | 
+| pins_pin_14_number | 14 | 
+| pins_pin_14_type | signal | 
+| pins_pin_15_name | rs232 | 
+| pins_pin_15_number | 15 | 
+| pins_pin_15_type | signal | 
+| pins_pin_16_name | vcc | 
+| pins_pin_16_number | 16 | 
+| pins_pin_16_type | signal | 
+| kicad_reference | U | 
+| notes | [] | 
+| id | electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
+| oomp_key | oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working | 
+| directory | parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
+| name | Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C | 
+| short_code | isp16ch340c | 
+| distributors | [{'name': 'LCSC', 'part_number': 'c7464026', 'link': 'https://lcsc.com/product-detail/c7464026.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [] | 
+| md5 | 8b394cfe55fb40b61533e33d89af18b7 | 
+| md5_5 | 8b394 | 
+| md5_6 | 8b394c | 
+| md5_10 | 8b394cfe55 | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c', 'oomp_key': 'oomp_kicad_interface_usb_ch340c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340c//working/working.kicad_sym'}] | 

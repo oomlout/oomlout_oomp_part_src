@@ -1,7 +1,10 @@
 # Electronic Header 2D54 Mm Jst Xh 2 Pin
-oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin  
+oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin 
+
 
 short_code: h2p
+md5_6: eb2bc8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin/working
 ## naming details
 * classification -- electronic
 * type -- header
@@ -20,3 +23,31 @@ short_code: h2p
 oomp_key: oomp_kicad_connector_conn_01x02_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | header | 
+| size | 2d54_mm_jst_xh | 
+| color |  | 
+| description_main | 2_pin | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| kicad_reference | J | 
+| id | electronic_header_2d54_mm_jst_xh_2_pin | 
+| oomp_key | oomp_electronic_header_2d54_mm_jst_xh_2_pin | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin/working | 
+| directory | parts/electronic_header_2d54_mm_jst_xh_2_pin | 
+| name | Electronic Header 2D54 Mm Jst Xh 2 Pin | 
+| short_code | h2p | 
+| short_name | Jst Xh 2 Pin Header 2.54 Mm Pitch | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | eb2bc8225c22f8a5bb71ee686352fdbf | 
+| md5_5 | eb2bc | 
+| md5_6 | eb2bc8 | 
+| md5_10 | eb2bc8225c | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x02_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym'}] | 

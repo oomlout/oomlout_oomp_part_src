@@ -1,7 +1,10 @@
 # Electronic Header 1 Mm Jst Sh 7 Pin
-oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin  
+oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin 
+
 
 short_code: h7p
+md5_6: 3901b7
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin/working
 ## naming details
 * classification -- electronic
 * type -- header
@@ -20,3 +23,31 @@ short_code: h7p
 oomp_key: oomp_kicad_connector_conn_01x07_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | header | 
+| size | 1_mm_jst_sh | 
+| color |  | 
+| description_main | 7_pin | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| kicad_reference | J | 
+| id | electronic_header_1_mm_jst_sh_7_pin | 
+| oomp_key | oomp_electronic_header_1_mm_jst_sh_7_pin | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin/working | 
+| directory | parts/electronic_header_1_mm_jst_sh_7_pin | 
+| name | Electronic Header 1 Mm Jst Sh 7 Pin | 
+| short_code | h7p | 
+| short_name | Jst Sh 7 Pin Header 1 Mm Pitch | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 3901b74f0bcfec5408951580f4702d1c | 
+| md5_5 | 3901b | 
+| md5_6 | 3901b7 | 
+| md5_10 | 3901b74f0b | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x07_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym'}] | 

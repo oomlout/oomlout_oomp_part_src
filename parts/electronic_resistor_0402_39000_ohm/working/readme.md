@@ -1,7 +1,10 @@
 # Electronic Resistor 0402 39000 Ohm
-oomp_key: oomp_electronic_resistor_0402_39000_ohm  
+oomp_key: oomp_electronic_resistor_0402_39000_ohm 
+
 
 short_code: r4o393
+md5_6: 981952
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -20,3 +23,32 @@ short_code: r4o393
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 0402 | 
+| color |  | 
+| description_main | 39000_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_0402_39000_ohm | 
+| oomp_key | oomp_electronic_resistor_0402_39000_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working | 
+| directory | parts/electronic_resistor_0402_39000_ohm | 
+| name | Electronic Resistor 0402 39000 Ohm | 
+| short_code | r4o393 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 98195244940a4b8b644df1e5a8848ec0 | 
+| md5_5 | 98195 | 
+| md5_6 | 981952 | 
+| md5_10 | 9819524494 | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

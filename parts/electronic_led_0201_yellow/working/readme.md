@@ -1,7 +1,10 @@
 # Electronic Led 0201 Yellow
-oomp_key: oomp_electronic_led_0201_yellow  
+oomp_key: oomp_electronic_led_0201_yellow 
+
 
 short_code: l
+md5_6: d01633
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_yellow/working
 ## naming details
 * classification -- electronic
 * type -- led
@@ -20,3 +23,33 @@ short_code: l
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | led | 
+| size | 0201 | 
+| color | yellow | 
+| description_main |  | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | L | 
+| id | electronic_led_0201_yellow | 
+| oomp_key | oomp_electronic_led_0201_yellow | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_yellow/working | 
+| directory | parts/electronic_led_0201_yellow | 
+| name | Electronic Led 0201 Yellow | 
+| short_code | l | 
+| short_name | 0201 Yellow Led | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | d0163386b840278f8f80458358f032d8 | 
+| md5_5 | d0163 | 
+| md5_6 | d01633 | 
+| md5_10 | d0163386b8 | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

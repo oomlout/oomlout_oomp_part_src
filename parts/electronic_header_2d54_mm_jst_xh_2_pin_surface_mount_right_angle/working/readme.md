@@ -1,7 +1,10 @@
 # Electronic Header 2D54 Mm Jst Xh 2 Pin Surface Mount Right Angle
-oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle  
+oomp_key: oomp_electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle 
+
 
 short_code: h2psmra
+md5_6: 0f1d0d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle/working
 ## naming details
 * classification -- electronic
 * type -- header
@@ -20,3 +23,31 @@ short_code: h2psmra
 oomp_key: oomp_kicad_connector_conn_01x02_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | header | 
+| size | 2d54_mm_jst_xh | 
+| color |  | 
+| description_main | 2_pin | 
+| description_extra | surface_mount_right_angle | 
+| manufacturer |  | 
+| part_number |  | 
+| kicad_reference | J | 
+| id | electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle | 
+| oomp_key | oomp_electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle/working | 
+| directory | parts/electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle | 
+| name | Electronic Header 2D54 Mm Jst Xh 2 Pin Surface Mount Right Angle | 
+| short_code | h2psmra | 
+| short_name | Jst Xh 2 Pin Surface Mount Right Angle Header 2.54 Mm Pitch | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 0f1d0d5c4cd066fe601e6769a378c1f6 | 
+| md5_5 | 0f1d0 | 
+| md5_6 | 0f1d0d | 
+| md5_10 | 0f1d0d5c4c | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x02_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym'}] | 

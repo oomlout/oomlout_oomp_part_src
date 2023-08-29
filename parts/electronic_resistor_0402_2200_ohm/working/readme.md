@@ -1,7 +1,10 @@
 # Electronic Resistor 0402 2200 Ohm
-oomp_key: oomp_electronic_resistor_0402_2200_ohm  
+oomp_key: oomp_electronic_resistor_0402_2200_ohm 
+
 
 short_code: r4o222
+md5_6: 67c39c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_2200_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -20,3 +23,32 @@ short_code: r4o222
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 0402 | 
+| color |  | 
+| description_main | 2200_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_0402_2200_ohm | 
+| oomp_key | oomp_electronic_resistor_0402_2200_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_2200_ohm/working | 
+| directory | parts/electronic_resistor_0402_2200_ohm | 
+| name | Electronic Resistor 0402 2200 Ohm | 
+| short_code | r4o222 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 67c39c37d57e5587bec2f7026841eb42 | 
+| md5_5 | 67c39 | 
+| md5_6 | 67c39c | 
+| md5_10 | 67c39c37d5 | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

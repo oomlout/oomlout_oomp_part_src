@@ -1,7 +1,10 @@
 # Electronic Resistor 1206 100 Ohm
-oomp_key: oomp_electronic_resistor_1206_100_ohm  
+oomp_key: oomp_electronic_resistor_1206_100_ohm 
+
 
 short_code: r12o101
+md5_6: 03805d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -25,3 +28,33 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric/working  
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 1206 | 
+| color |  | 
+| description_main | 100_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_1206_100_ohm | 
+| oomp_key | oomp_electronic_resistor_1206_100_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100_ohm/working | 
+| directory | parts/electronic_resistor_1206_100_ohm | 
+| name | Electronic Resistor 1206 100 Ohm | 
+| short_code | r12o101 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 03805d2b3c281a8512e015622aa8211c | 
+| md5_5 | 03805 | 
+| md5_6 | 03805d | 
+| md5_10 | 03805d2b3c | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

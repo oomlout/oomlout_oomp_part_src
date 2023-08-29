@@ -1,7 +1,11 @@
 # {{ p.name }}
-oomp_key: {{ p.oomp_key }}  
+oomp_key: {{ p.oomp_key }} 
+{% if "working.jpg" in p.files %} ![](image_400.jpg) 
+{% endif %}
 {{ p.description }}
 short_code: {{ p.short_code }}
+md5_6: {{ p.md5_6 }}
+github_link: {{ p.github_link }}
 ## naming details
 * classification -- {{p.classification}}
 * type -- {{p.type}}
@@ -34,3 +38,5 @@ link: {{ foot.link }}/working
 oomp_key: {{ foot.oomp_key }}  
 link: {{ foot.link }}/working  
 {% endfor %}{% endif %}
+## full_summary
+{{ p.flat_dict }}

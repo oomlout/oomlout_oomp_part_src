@@ -1,7 +1,10 @@
 # Electronic Resistor 0402 3300 Ohm
-oomp_key: oomp_electronic_resistor_0402_3300_ohm  
+oomp_key: oomp_electronic_resistor_0402_3300_ohm 
+
 
 short_code: r4o332
+md5_6: fcf53e
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working
 ## naming details
 * classification -- electronic
 * type -- resistor
@@ -20,3 +23,32 @@ short_code: r4o332
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | resistor | 
+| size | 0402 | 
+| color |  | 
+| description_main | 3300_ohm | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| from_yaml | False | 
+| filter |  | 
+| kicad_reference | R | 
+| id | electronic_resistor_0402_3300_ohm | 
+| oomp_key | oomp_electronic_resistor_0402_3300_ohm | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working | 
+| directory | parts/electronic_resistor_0402_3300_ohm | 
+| name | Electronic Resistor 0402 3300 Ohm | 
+| short_code | r4o332 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | fcf53e6757cae71916db06c02bd039fd | 
+| md5_5 | fcf53 | 
+| md5_6 | fcf53e | 
+| md5_10 | fcf53e6757 | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 
