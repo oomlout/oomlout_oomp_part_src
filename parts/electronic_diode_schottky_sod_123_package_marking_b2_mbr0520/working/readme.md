@@ -1,7 +1,7 @@
 # Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
-oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 
 
   
+* oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 
 * short_code: dssod123pmb2
 * md5_6: fd1bfb  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working  
@@ -48,7 +48,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | description_extra | package_marking_b2 | 
 | manufacturer |  | 
 | part_number | mbr0520 | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | D | 
 | id | electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 | 

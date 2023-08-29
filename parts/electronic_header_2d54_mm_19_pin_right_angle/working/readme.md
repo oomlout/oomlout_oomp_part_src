@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 19 Pin Right Angle
-oomp_key: oomp_electronic_header_2d54_mm_19_pin_right_angle 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_19_pin_right_angle 
 * short_code: hi119pra
 * md5_6: 88b6f8  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_19_pin_right_angle/working  

@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 7 Pin Surface Mount
-oomp_key: oomp_electronic_header_2d54_mm_7_pin_surface_mount 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_7_pin_surface_mount 
 * short_code: hi17psm
 * md5_6: 76e233  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working  

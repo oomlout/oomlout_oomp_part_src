@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 12 Pin
-oomp_key: oomp_electronic_header_2d54_mm_12_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_12_pin 
 * short_code: hi112p
 * md5_6: 07fd4d  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_12_pin/working  

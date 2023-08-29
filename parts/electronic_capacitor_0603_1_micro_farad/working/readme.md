@@ -1,7 +1,7 @@
 # Electronic Capacitor 0603 1 Micro Farad
-oomp_key: oomp_electronic_capacitor_0603_1_micro_farad 
 
   
+* oomp_key: oomp_electronic_capacitor_0603_1_micro_farad 
 * short_code: c6uf1
 * md5_6: e7a23d  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working  
@@ -41,7 +41,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| from_yaml | False | 
 | filter |  | 
 | kicad_reference | C | 
 | id | electronic_capacitor_0603_1_micro_farad | 

@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 6 Pin
-oomp_key: oomp_electronic_header_2d54_mm_6_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_6_pin 
 * short_code: hi16p
 * md5_6: 8d109f  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin/working  

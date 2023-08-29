@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 19 Pin
-oomp_key: oomp_electronic_header_2d54_mm_19_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_19_pin 
 * short_code: hi119p
 * md5_6: 7c92fc  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_19_pin/working  

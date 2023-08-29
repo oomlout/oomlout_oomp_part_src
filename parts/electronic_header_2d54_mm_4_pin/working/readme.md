@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 4 Pin
-oomp_key: oomp_electronic_header_2d54_mm_4_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_4_pin 
 * short_code: hi14p
 * md5_6: abf4a4  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_4_pin/working  

@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 3 Pin Right Angle
-oomp_key: oomp_electronic_header_2d54_mm_3_pin_right_angle 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_3_pin_right_angle 
 * short_code: hi13pra
 * md5_6: 64f7c3  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_right_angle/working  

@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 1 Pin Surface Mount Right Angle
-oomp_key: oomp_electronic_header_2d54_mm_1_pin_surface_mount_right_angle 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_1_pin_surface_mount_right_angle 
 * short_code: hi11psmra
 * md5_6: d33bf5  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_surface_mount_right_angle/working  

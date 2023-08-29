@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 13 Pin
-oomp_key: oomp_electronic_header_2d54_mm_13_pin 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_13_pin 
 * short_code: hi113p
 * md5_6: 77edef  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_13_pin/working  

@@ -1,7 +1,7 @@
 # Electronic Header 2D54 Mm 4 Pin Surface Mount
-oomp_key: oomp_electronic_header_2d54_mm_4_pin_surface_mount 
 
   
+* oomp_key: oomp_electronic_header_2d54_mm_4_pin_surface_mount 
 * short_code: hi14psm
 * md5_6: defd17  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_4_pin_surface_mount/working  

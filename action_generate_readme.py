@@ -9,6 +9,7 @@ def main(**kwargs):
     for part_id in oomp.parts:
         part = oomp.parts[part_id]
         part.pop("make_files", None)
+        part.pop("from_yaml", None)
         directory = part.get("directory","")
         if directory == "":
             print(f"part {part_id} has no directory")
