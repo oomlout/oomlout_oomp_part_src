@@ -1,10 +1,10 @@
 # Electronic Led 5 Mm Red
 oomp_key: oomp_electronic_led_5_mm_red 
 
-
-short_code: l5r
-md5_6: 30578c
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red/working
+  
+* short_code: l5r
+* md5_6: 30578c  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red/working  
 ## naming details
 * classification -- electronic
 * type -- led

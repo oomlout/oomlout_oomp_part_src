@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 33000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_33000_ohm 
 
-
-short_code: ro333
-md5_6: ae2a78
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_33000_ohm/working
+  
+* short_code: ro333
+* md5_6: ae2a78  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_33000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

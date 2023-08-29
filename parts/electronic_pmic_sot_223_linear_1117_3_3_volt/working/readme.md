@@ -1,10 +1,10 @@
 # Electronic Pmic Sot 223 Linear 1117 3 3 Volt
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt 
 
-
-short_code: pms22311173d3v
-md5_6: 24ed55
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working
+  
+* short_code: pms22311173d3v
+* md5_6: 24ed55  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working  
 ## naming details
 * classification -- electronic
 * type -- pmic

@@ -1,10 +1,10 @@
 # Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K
 oomp_key: oomp_electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k 
 
-
-short_code: i
-md5_6: c2a455
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working
+  
+* short_code: i
+* md5_6: c2a455  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working  
 ## naming details
 * classification -- electronic
 * type -- ic

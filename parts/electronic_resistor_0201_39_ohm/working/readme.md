@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 39 Ohm
 oomp_key: oomp_electronic_resistor_0201_39_ohm 
 
-
-short_code: ro390
-md5_6: 5ce55f
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working
+  
+* short_code: ro390
+* md5_6: 5ce55f  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

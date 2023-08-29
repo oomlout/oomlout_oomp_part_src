@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 27000 Ohm
 oomp_key: oomp_electronic_resistor_0402_27000_ohm 
 
-
-short_code: r4o273
-md5_6: 252262
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27000_ohm/working
+  
+* short_code: r4o273
+* md5_6: 252262  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

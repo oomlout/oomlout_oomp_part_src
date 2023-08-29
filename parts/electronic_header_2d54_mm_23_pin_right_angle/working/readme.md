@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 23 Pin Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_23_pin_right_angle 
 
-
-short_code: hi123pra
-md5_6: c5f77a
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_23_pin_right_angle/working
+  
+* short_code: hi123pra
+* md5_6: c5f77a  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_23_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

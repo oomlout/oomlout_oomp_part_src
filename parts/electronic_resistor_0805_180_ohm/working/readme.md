@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 180 Ohm
 oomp_key: oomp_electronic_resistor_0805_180_ohm 
 
-
-short_code: r8o181
-md5_6: 40b16c
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_180_ohm/working
+  
+* short_code: r8o181
+* md5_6: 40b16c  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_180_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

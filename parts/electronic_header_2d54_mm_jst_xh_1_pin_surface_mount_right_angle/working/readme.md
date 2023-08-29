@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm Jst Xh 1 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_jst_xh_1_pin_surface_mount_right_angle 
 
-
-short_code: h1psmra
-md5_6: 0e6ec3
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_1_pin_surface_mount_right_angle/working
+  
+* short_code: h1psmra
+* md5_6: 0e6ec3  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_1_pin_surface_mount_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

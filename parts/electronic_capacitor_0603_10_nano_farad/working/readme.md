@@ -1,10 +1,10 @@
 # Electronic Capacitor 0603 10 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_10_nano_farad 
 
-
-short_code: c6nf10
-md5_6: 33c290
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working
+  
+* short_code: c6nf10
+* md5_6: 33c290  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

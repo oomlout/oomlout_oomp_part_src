@@ -1,10 +1,10 @@
 # Electronic Resistor 0603 4700 Ohm
 oomp_key: oomp_electronic_resistor_0603_4700_ohm 
 
-
-short_code: r6o472
-md5_6: 778076
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_4700_ohm/working
+  
+* short_code: r6o472
+* md5_6: 778076  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_4700_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

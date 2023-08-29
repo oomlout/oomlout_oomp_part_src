@@ -1,10 +1,10 @@
 # Electronic Header 1 Mm Jst Sh 7 Pin
 oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin 
 
-
-short_code: h7p
-md5_6: 3901b7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin/working
+  
+* short_code: h7p
+* md5_6: 3901b7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

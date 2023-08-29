@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 8 Pin Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_8_pin_right_angle 
 
-
-short_code: hi18pra
-md5_6: 9e7884
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_8_pin_right_angle/working
+  
+* short_code: hi18pra
+* md5_6: 9e7884  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_8_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

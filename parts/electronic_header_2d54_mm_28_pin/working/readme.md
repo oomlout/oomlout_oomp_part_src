@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 28 Pin
 oomp_key: oomp_electronic_header_2d54_mm_28_pin 
 
-
-short_code: hi128p
-md5_6: c7d182
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_28_pin/working
+  
+* short_code: hi128p
+* md5_6: c7d182  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_28_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

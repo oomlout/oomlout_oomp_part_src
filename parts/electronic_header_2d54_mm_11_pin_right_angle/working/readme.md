@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 11 Pin Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_11_pin_right_angle 
 
-
-short_code: hi111pra
-md5_6: 724713
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_11_pin_right_angle/working
+  
+* short_code: hi111pra
+* md5_6: 724713  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_11_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

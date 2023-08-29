@@ -1,10 +1,10 @@
 # Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
 oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu 
 
-
-short_code: id28at328
-md5_6: 5b2b5d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working
+  
+* short_code: id28at328
+* md5_6: 5b2b5d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working  
 ## naming details
 * classification -- electronic
 * type -- ic

@@ -1,10 +1,10 @@
 # Electronic Led 3 Mm Green
 oomp_key: oomp_electronic_led_3_mm_green 
 
-
-short_code: l3g
-md5_6: 6b2621
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working
+  
+* short_code: l3g
+* md5_6: 6b2621  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working  
 ## naming details
 * classification -- electronic
 * type -- led

@@ -1,10 +1,10 @@
 # Electronic Socket Usb Mini Surface Mount Only
 oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only 
 
-
-short_code: scumnsmo
-md5_6: 34c5c0
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working
+  
+* short_code: scumnsmo
+* md5_6: 34c5c0  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working  
 ## naming details
 * classification -- electronic
 * type -- socket

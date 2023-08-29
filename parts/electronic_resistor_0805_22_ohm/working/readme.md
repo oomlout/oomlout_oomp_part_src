@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 22 Ohm
 oomp_key: oomp_electronic_resistor_0805_22_ohm 
 
-
-short_code: r8o220
-md5_6: c33a61
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working
+  
+* short_code: r8o220
+* md5_6: c33a61  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 150 Ohm
 oomp_key: oomp_electronic_resistor_0402_150_ohm 
 
-
-short_code: r4o151
-md5_6: ae6b63
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_150_ohm/working
+  
+* short_code: r4o151
+* md5_6: ae6b63  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_150_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

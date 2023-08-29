@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 15 Pin
 oomp_key: oomp_electronic_header_2d54_mm_15_pin 
 
-
-short_code: hi115p
-md5_6: ccffd7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_15_pin/working
+  
+* short_code: hi115p
+* md5_6: ccffd7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_15_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

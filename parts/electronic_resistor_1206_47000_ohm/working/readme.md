@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 47000 Ohm
 oomp_key: oomp_electronic_resistor_1206_47000_ohm 
 
-
-short_code: r12o473
-md5_6: 4b3087
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working
+  
+* short_code: r12o473
+* md5_6: 4b3087  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

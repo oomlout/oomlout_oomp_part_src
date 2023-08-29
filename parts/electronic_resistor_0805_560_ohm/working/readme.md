@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 560 Ohm
 oomp_key: oomp_electronic_resistor_0805_560_ohm 
 
-
-short_code: r8o561
-md5_6: 2c7759
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_560_ohm/working
+  
+* short_code: r8o561
+* md5_6: 2c7759  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_560_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

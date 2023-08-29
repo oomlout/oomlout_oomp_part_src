@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 1 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_1_pin_surface_mount 
 
-
-short_code: hi11psm
-md5_6: eb0484
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_surface_mount/working
+  
+* short_code: hi11psm
+* md5_6: eb0484  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_surface_mount/working  
 ## naming details
 * classification -- electronic
 * type -- header

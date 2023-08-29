@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 8200 Ohm
 oomp_key: oomp_electronic_resistor_0805_8200_ohm 
 
-
-short_code: r8o822
-md5_6: 842e0e
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_8200_ohm/working
+  
+* short_code: r8o822
+* md5_6: 842e0e  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_8200_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 12 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_12_ohm 
 
-
-short_code: ro120
-md5_6: 1e45ff
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_12_ohm/working
+  
+* short_code: ro120
+* md5_6: 1e45ff  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_12_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

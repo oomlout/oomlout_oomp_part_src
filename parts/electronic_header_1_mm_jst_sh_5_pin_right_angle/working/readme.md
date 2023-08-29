@@ -1,10 +1,10 @@
 # Electronic Header 1 Mm Jst Sh 5 Pin Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin_right_angle 
 
-
-short_code: h5pra
-md5_6: f03a37
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_right_angle/working
+  
+* short_code: h5pra
+* md5_6: f03a37  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

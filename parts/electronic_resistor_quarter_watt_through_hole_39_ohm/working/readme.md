@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 39 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_39_ohm 
 
-
-short_code: ro390
-md5_6: a07b94
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_39_ohm/working
+  
+* short_code: ro390
+* md5_6: a07b94  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_39_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

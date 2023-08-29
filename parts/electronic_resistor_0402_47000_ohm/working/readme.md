@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 47000 Ohm
 oomp_key: oomp_electronic_resistor_0402_47000_ohm 
 
-
-short_code: r4o473
-md5_6: ea4b87
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working
+  
+* short_code: r4o473
+* md5_6: ea4b87  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

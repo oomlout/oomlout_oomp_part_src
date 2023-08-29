@@ -1,10 +1,10 @@
 # Electronic Led 0402 Red
 oomp_key: oomp_electronic_led_0402_red 
 
-
-short_code: l4r
-md5_6: d0f95d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working
+  
+* short_code: l4r
+* md5_6: d0f95d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working  
 ## naming details
 * classification -- electronic
 * type -- led

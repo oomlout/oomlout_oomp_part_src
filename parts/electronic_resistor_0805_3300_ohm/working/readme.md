@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 3300 Ohm
 oomp_key: oomp_electronic_resistor_0805_3300_ohm 
 
-
-short_code: r8o332
-md5_6: 5e7c51
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_3300_ohm/working
+  
+* short_code: r8o332
+* md5_6: 5e7c51  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_3300_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

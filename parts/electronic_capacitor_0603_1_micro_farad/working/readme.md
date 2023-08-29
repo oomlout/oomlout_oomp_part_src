@@ -1,10 +1,10 @@
 # Electronic Capacitor 0603 1 Micro Farad
 oomp_key: oomp_electronic_capacitor_0603_1_micro_farad 
 
-
-short_code: c6uf1
-md5_6: e7a23d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working
+  
+* short_code: c6uf1
+* md5_6: e7a23d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

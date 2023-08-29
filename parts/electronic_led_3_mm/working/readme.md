@@ -1,10 +1,10 @@
 # Electronic Led 3 Mm
 oomp_key: oomp_electronic_led_3_mm 
 
-
-short_code: l3
-md5_6: 1c2ecd
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working
+  
+* short_code: l3
+* md5_6: 1c2ecd  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working  
 ## naming details
 * classification -- electronic
 * type -- led

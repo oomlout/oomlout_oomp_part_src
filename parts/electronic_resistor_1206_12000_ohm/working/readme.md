@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 12000 Ohm
 oomp_key: oomp_electronic_resistor_1206_12000_ohm 
 
-
-short_code: r12o123
-md5_6: 2d3853
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12000_ohm/working
+  
+* short_code: r12o123
+* md5_6: 2d3853  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

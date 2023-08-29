@@ -1,10 +1,10 @@
 # Electronic Led 5 Mm Green
 oomp_key: oomp_electronic_led_5_mm_green 
 
-
-short_code: l5g
-md5_6: b71b9c
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_green/working
+  
+* short_code: l5g
+* md5_6: b71b9c  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_green/working  
 ## naming details
 * classification -- electronic
 * type -- led

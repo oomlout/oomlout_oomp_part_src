@@ -1,10 +1,10 @@
 # Electronic Nettie 2 Nets Smd
 oomp_key: oomp_electronic_nettie_2_nets_smd 
 
-
-short_code: nt2
-md5_6: 4ef35d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd/working
+  
+* short_code: nt2
+* md5_6: 4ef35d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd/working  
 ## naming details
 * classification -- electronic
 * type -- nettie

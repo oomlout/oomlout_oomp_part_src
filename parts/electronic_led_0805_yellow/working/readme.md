@@ -1,10 +1,10 @@
 # Electronic Led 0805 Yellow
 oomp_key: oomp_electronic_led_0805_yellow 
 
-
-short_code: l8
-md5_6: 5c87ad
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working
+  
+* short_code: l8
+* md5_6: 5c87ad  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working  
 ## naming details
 * classification -- electronic
 * type -- led

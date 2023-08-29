@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 150 Ohm
 oomp_key: oomp_electronic_resistor_1206_150_ohm 
 
-
-short_code: r12o151
-md5_6: a0b855
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_150_ohm/working
+  
+* short_code: r12o151
+* md5_6: a0b855  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_150_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

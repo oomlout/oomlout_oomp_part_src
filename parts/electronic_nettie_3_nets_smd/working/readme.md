@@ -1,10 +1,10 @@
 # Electronic Nettie 3 Nets Smd
 oomp_key: oomp_electronic_nettie_3_nets_smd 
 
-
-short_code: nt3
-md5_6: 494314
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working
+  
+* short_code: nt3
+* md5_6: 494314  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working  
 ## naming details
 * classification -- electronic
 * type -- nettie

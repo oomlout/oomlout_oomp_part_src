@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 17 Pin Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_17_pin_right_angle 
 
-
-short_code: hi117pra
-md5_6: cf3669
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin_right_angle/working
+  
+* short_code: hi117pra
+* md5_6: cf3669  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

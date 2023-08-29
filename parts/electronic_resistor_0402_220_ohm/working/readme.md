@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 220 Ohm
 oomp_key: oomp_electronic_resistor_0402_220_ohm 
 
-
-short_code: r4o221
-md5_6: e30780
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_220_ohm/working
+  
+* short_code: r4o221
+* md5_6: e30780  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_220_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

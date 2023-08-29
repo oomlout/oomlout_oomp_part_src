@@ -1,10 +1,10 @@
 # Electronic Led 0603
 oomp_key: oomp_electronic_led_0603 
 
-
-short_code: l6
-md5_6: 410f69
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working
+  
+* short_code: l6
+* md5_6: 410f69  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working  
 ## naming details
 * classification -- electronic
 * type -- led

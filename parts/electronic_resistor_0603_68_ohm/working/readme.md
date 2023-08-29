@@ -1,10 +1,10 @@
 # Electronic Resistor 0603 68 Ohm
 oomp_key: oomp_electronic_resistor_0603_68_ohm 
 
-
-short_code: r6o680
-md5_6: e9d76e
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68_ohm/working
+  
+* short_code: r6o680
+* md5_6: e9d76e  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

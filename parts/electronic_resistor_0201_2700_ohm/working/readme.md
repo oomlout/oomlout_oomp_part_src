@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 2700 Ohm
 oomp_key: oomp_electronic_resistor_0201_2700_ohm 
 
-
-short_code: ro272
-md5_6: 8f7490
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700_ohm/working
+  
+* short_code: ro272
+* md5_6: 8f7490  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

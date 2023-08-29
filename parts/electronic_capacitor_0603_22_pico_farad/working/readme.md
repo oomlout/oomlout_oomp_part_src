@@ -1,10 +1,10 @@
 # Electronic Capacitor 0603 22 Pico Farad
 oomp_key: oomp_electronic_capacitor_0603_22_pico_farad 
 
-
-short_code: c6pf22
-md5_6: ed43fc
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working
+  
+* short_code: c6pf22
+* md5_6: ed43fc  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

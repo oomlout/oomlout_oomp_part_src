@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 68 Ohm
 oomp_key: oomp_electronic_resistor_1206_68_ohm 
 
-
-short_code: r12o680
-md5_6: 7d4df5
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_68_ohm/working
+  
+* short_code: r12o680
+* md5_6: 7d4df5  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_68_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

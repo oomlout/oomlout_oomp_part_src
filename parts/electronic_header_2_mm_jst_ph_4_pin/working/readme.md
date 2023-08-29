@@ -1,10 +1,10 @@
 # Electronic Header 2 Mm Jst Ph 4 Pin
 oomp_key: oomp_electronic_header_2_mm_jst_ph_4_pin 
 
-
-short_code: h4p
-md5_6: 2bbcc2
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_4_pin/working
+  
+* short_code: h4p
+* md5_6: 2bbcc2  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_4_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

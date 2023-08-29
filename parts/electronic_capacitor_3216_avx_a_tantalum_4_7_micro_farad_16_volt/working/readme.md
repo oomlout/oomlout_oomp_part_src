@@ -1,10 +1,10 @@
 # Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
 oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt 
 
-
-short_code: catuf4d716v
-md5_6: 951eeb
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working
+  
+* short_code: catuf4d716v
+* md5_6: 951eeb  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

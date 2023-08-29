@@ -1,10 +1,10 @@
 # Electronic Header 1 Mm Jst Sh 8 Pin
 oomp_key: oomp_electronic_header_1_mm_jst_sh_8_pin 
 
-
-short_code: h8p
-md5_6: a8dffc
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin/working
+  
+* short_code: h8p
+* md5_6: a8dffc  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

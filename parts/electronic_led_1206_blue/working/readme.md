@@ -1,10 +1,10 @@
 # Electronic Led 1206 Blue
 oomp_key: oomp_electronic_led_1206_blue 
 
-
-short_code: l12
-md5_6: b479a8
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working
+  
+* short_code: l12
+* md5_6: b479a8  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working  
 ## naming details
 * classification -- electronic
 * type -- led

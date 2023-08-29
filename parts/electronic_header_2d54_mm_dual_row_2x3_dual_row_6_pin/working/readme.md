@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin
 oomp_key: oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin 
 
-
-short_code: hi12x3p
-md5_6: e2fe8e
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin/working
+  
+* short_code: hi12x3p
+* md5_6: e2fe8e  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

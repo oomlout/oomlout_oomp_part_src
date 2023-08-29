@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 39000 Ohm
 oomp_key: oomp_electronic_resistor_0201_39000_ohm 
 
-
-short_code: ro393
-md5_6: 37cd74
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39000_ohm/working
+  
+* short_code: ro393
+* md5_6: 37cd74  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

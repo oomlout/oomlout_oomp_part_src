@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 150 Ohm
 oomp_key: oomp_electronic_resistor_0201_150_ohm 
 
-
-short_code: ro151
-md5_6: 941db7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_150_ohm/working
+  
+* short_code: ro151
+* md5_6: 941db7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_150_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

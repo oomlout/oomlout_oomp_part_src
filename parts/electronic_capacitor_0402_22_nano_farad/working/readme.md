@@ -1,10 +1,10 @@
 # Electronic Capacitor 0402 22 Nano Farad
 oomp_key: oomp_electronic_capacitor_0402_22_nano_farad 
 
-
-short_code: c4nf22
-md5_6: 1680a3
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working
+  
+* short_code: c4nf22
+* md5_6: 1680a3  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

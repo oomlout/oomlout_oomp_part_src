@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 27 Ohm
 oomp_key: oomp_electronic_resistor_0201_27_ohm 
 
-
-short_code: ro270
-md5_6: ea1291
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_27_ohm/working
+  
+* short_code: ro270
+* md5_6: ea1291  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_27_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

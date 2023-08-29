@@ -1,10 +1,10 @@
 # Electronic Led 10 Mm
 oomp_key: oomp_electronic_led_10_mm 
 
-
-short_code: l10
-md5_6: bab4a7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working
+  
+* short_code: l10
+* md5_6: bab4a7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working  
 ## naming details
 * classification -- electronic
 * type -- led

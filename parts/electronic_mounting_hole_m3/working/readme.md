@@ -1,10 +1,10 @@
 # Electronic Mounting Hole M3
 oomp_key: oomp_electronic_mounting_hole_m3 
 
-
-short_code: mhm3
-md5_6: 872f01
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working
+  
+* short_code: mhm3
+* md5_6: 872f01  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working  
 ## naming details
 * classification -- electronic
 * type -- mounting_hole

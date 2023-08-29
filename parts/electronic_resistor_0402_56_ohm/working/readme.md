@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 56 Ohm
 oomp_key: oomp_electronic_resistor_0402_56_ohm 
 
-
-short_code: r4o560
-md5_6: dae107
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_56_ohm/working
+  
+* short_code: r4o560
+* md5_6: dae107  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_56_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

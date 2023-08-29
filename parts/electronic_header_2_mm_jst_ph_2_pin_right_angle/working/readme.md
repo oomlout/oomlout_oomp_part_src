@@ -1,10 +1,10 @@
 # Electronic Header 2 Mm Jst Ph 2 Pin Right Angle
 oomp_key: oomp_electronic_header_2_mm_jst_ph_2_pin_right_angle 
 
-
-short_code: h2pra
-md5_6: 1fb2e7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_2_pin_right_angle/working
+  
+* short_code: h2pra
+* md5_6: 1fb2e7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_2_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

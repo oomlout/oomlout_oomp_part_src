@@ -1,10 +1,10 @@
 # Electronic Led 0402 Green
 oomp_key: oomp_electronic_led_0402_green 
 
-
-short_code: l4g
-md5_6: fcfe4f
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working
+  
+* short_code: l4g
+* md5_6: fcfe4f  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working  
 ## naming details
 * classification -- electronic
 * type -- led

@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 180 Ohm
 oomp_key: oomp_electronic_resistor_1206_180_ohm 
 
-
-short_code: r12o181
-md5_6: ac2996
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_180_ohm/working
+  
+* short_code: r12o181
+* md5_6: ac2996  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_180_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

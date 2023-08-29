@@ -1,10 +1,10 @@
 # Electronic Mounting Hole M6
 oomp_key: oomp_electronic_mounting_hole_m6 
 
-
-short_code: mhm6
-md5_6: fbea65
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working
+  
+* short_code: mhm6
+* md5_6: fbea65  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working  
 ## naming details
 * classification -- electronic
 * type -- mounting_hole

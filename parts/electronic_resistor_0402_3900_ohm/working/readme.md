@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 3900 Ohm
 oomp_key: oomp_electronic_resistor_0402_3900_ohm 
 
-
-short_code: r4o392
-md5_6: a39da3
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3900_ohm/working
+  
+* short_code: r4o392
+* md5_6: a39da3  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3900_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

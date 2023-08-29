@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 18000 Ohm
 oomp_key: oomp_electronic_resistor_1206_18000_ohm 
 
-
-short_code: r12o183
-md5_6: c84dfd
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_18000_ohm/working
+  
+* short_code: r12o183
+* md5_6: c84dfd  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_18000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

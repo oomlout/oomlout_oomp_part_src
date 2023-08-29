@@ -1,10 +1,10 @@
 # Electronic Led 1206 Red
 oomp_key: oomp_electronic_led_1206_red 
 
-
-short_code: l12r
-md5_6: b55edc
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working
+  
+* short_code: l12r
+* md5_6: b55edc  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working  
 ## naming details
 * classification -- electronic
 * type -- led

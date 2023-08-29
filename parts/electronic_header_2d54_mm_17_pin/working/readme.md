@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 17 Pin
 oomp_key: oomp_electronic_header_2d54_mm_17_pin 
 
-
-short_code: hi117p
-md5_6: a43e83
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin/working
+  
+* short_code: hi117p
+* md5_6: a43e83  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

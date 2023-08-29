@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 180 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_180_ohm 
 
-
-short_code: ro181
-md5_6: 59af46
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_180_ohm/working
+  
+* short_code: ro181
+* md5_6: 59af46  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_180_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

@@ -1,10 +1,10 @@
 # Electronic Led 3 Mm Yellow
 oomp_key: oomp_electronic_led_3_mm_yellow 
 
-
-short_code: l3
-md5_6: 46a6ba
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working
+  
+* short_code: l3
+* md5_6: 46a6ba  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working  
 ## naming details
 * classification -- electronic
 * type -- led

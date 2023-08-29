@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 30 Pin
 oomp_key: oomp_electronic_header_2d54_mm_30_pin 
 
-
-short_code: hi130p
-md5_6: ec9c0d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_30_pin/working
+  
+* short_code: hi130p
+* md5_6: ec9c0d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_30_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

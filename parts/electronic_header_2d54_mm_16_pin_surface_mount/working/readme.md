@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 16 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_16_pin_surface_mount 
 
-
-short_code: hi116psm
-md5_6: e42795
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_16_pin_surface_mount/working
+  
+* short_code: hi116psm
+* md5_6: e42795  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_16_pin_surface_mount/working  
 ## naming details
 * classification -- electronic
 * type -- header

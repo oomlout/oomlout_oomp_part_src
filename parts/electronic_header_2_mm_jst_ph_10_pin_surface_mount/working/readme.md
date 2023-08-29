@@ -1,10 +1,10 @@
 # Electronic Header 2 Mm Jst Ph 10 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_mm_jst_ph_10_pin_surface_mount 
 
-
-short_code: h10psm
-md5_6: fc71a1
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_10_pin_surface_mount/working
+  
+* short_code: h10psm
+* md5_6: fc71a1  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_10_pin_surface_mount/working  
 ## naming details
 * classification -- electronic
 * type -- header

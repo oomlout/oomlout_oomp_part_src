@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 32 Pin
 oomp_key: oomp_electronic_header_2d54_mm_32_pin 
 
-
-short_code: hi132p
-md5_6: 656b91
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_32_pin/working
+  
+* short_code: hi132p
+* md5_6: 656b91  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_32_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

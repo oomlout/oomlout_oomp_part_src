@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 2200 Ohm
 oomp_key: oomp_electronic_resistor_1206_2200_ohm 
 
-
-short_code: r12o222
-md5_6: dee45b
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_2200_ohm/working
+  
+* short_code: r12o222
+* md5_6: dee45b  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_2200_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

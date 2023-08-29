@@ -1,10 +1,10 @@
 # Electronic Capacitor 0402 1 Micro Farad
 oomp_key: oomp_electronic_capacitor_0402_1_micro_farad 
 
-
-short_code: c4uf1
-md5_6: 161ca7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working
+  
+* short_code: c4uf1
+* md5_6: 161ca7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

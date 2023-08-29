@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 100000 Ohm
 oomp_key: oomp_electronic_resistor_1206_100000_ohm 
 
-
-short_code: r12o104
-md5_6: 65e686
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working
+  
+* short_code: r12o104
+* md5_6: 65e686  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

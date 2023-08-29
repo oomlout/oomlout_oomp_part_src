@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 22 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_22_ohm 
 
-
-short_code: ro220
-md5_6: 7946f6
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_22_ohm/working
+  
+* short_code: ro220
+* md5_6: 7946f6  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_22_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

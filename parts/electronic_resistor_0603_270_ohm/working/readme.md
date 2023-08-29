@@ -1,10 +1,10 @@
 # Electronic Resistor 0603 270 Ohm
 oomp_key: oomp_electronic_resistor_0603_270_ohm 
 
-
-short_code: r6o271
-md5_6: a1e4a9
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_270_ohm/working
+  
+* short_code: r6o271
+* md5_6: a1e4a9  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_270_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

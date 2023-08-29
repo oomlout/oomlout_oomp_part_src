@@ -1,10 +1,10 @@
 # Electronic Resistor 0603 2200 Ohm
 oomp_key: oomp_electronic_resistor_0603_2200_ohm 
 
-
-short_code: r6o222
-md5_6: 312403
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200_ohm/working
+  
+* short_code: r6o222
+* md5_6: 312403  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

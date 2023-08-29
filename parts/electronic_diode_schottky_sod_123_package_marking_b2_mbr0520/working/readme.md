@@ -1,10 +1,10 @@
 # Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
 oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 
 
-
-short_code: dssod123pmb2
-md5_6: fd1bfb
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working
+  
+* short_code: dssod123pmb2
+* md5_6: fd1bfb  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working  
 ## naming details
 * classification -- electronic
 * type -- diode_schottky

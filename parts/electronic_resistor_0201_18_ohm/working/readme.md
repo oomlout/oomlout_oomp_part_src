@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 18 Ohm
 oomp_key: oomp_electronic_resistor_0201_18_ohm 
 
-
-short_code: ro180
-md5_6: eb976a
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_18_ohm/working
+  
+* short_code: ro180
+* md5_6: eb976a  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_18_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

@@ -1,10 +1,10 @@
 # Electronic Led 0805 Red
 oomp_key: oomp_electronic_led_0805_red 
 
-
-short_code: l8r
-md5_6: fb973f
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working
+  
+* short_code: l8r
+* md5_6: fb973f  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working  
 ## naming details
 * classification -- electronic
 * type -- led

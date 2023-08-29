@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 4700 Ohm
 oomp_key: oomp_electronic_resistor_0201_4700_ohm 
 
-
-short_code: ro472
-md5_6: 0cc095
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working
+  
+* short_code: ro472
+* md5_6: 0cc095  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

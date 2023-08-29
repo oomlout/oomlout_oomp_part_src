@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm Jst Xh 4 Pin Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_jst_xh_4_pin_right_angle 
 
-
-short_code: h4pra
-md5_6: 8e9c9e
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin_right_angle/working
+  
+* short_code: h4pra
+* md5_6: 8e9c9e  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

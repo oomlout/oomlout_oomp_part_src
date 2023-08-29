@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 39 Ohm
 oomp_key: oomp_electronic_resistor_0805_39_ohm 
 
-
-short_code: r8o390
-md5_6: 09654c
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm/working
+  
+* short_code: r8o390
+* md5_6: 09654c  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

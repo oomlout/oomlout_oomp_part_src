@@ -1,10 +1,10 @@
 # Electronic Led 0201
 oomp_key: oomp_electronic_led_0201 
 
-
-short_code: l
-md5_6: 734a19
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working
+  
+* short_code: l
+* md5_6: 734a19  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working  
 ## naming details
 * classification -- electronic
 * type -- led

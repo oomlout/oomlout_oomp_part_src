@@ -1,10 +1,10 @@
 # Electronic Capacitor 0402 22 Pico Farad
 oomp_key: oomp_electronic_capacitor_0402_22_pico_farad 
 
-
-short_code: c4pf22
-md5_6: 800826
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working
+  
+* short_code: c4pf22
+* md5_6: 800826  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working  
 ## naming details
 * classification -- electronic
 * type -- capacitor

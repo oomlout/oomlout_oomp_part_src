@@ -1,11 +1,11 @@
 # Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
 oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount 
- ![](working_400.jpg) 
+ ![](working_600.jpg) 
 
-
-short_code: b3560s
-md5_6: daac53
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working
+  
+* short_code: b3560s
+* md5_6: daac53  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working  
 ## naming details
 * classification -- electronic
 * type -- button

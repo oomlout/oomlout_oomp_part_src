@@ -1,10 +1,10 @@
 # Electronic Led 0603 Green
 oomp_key: oomp_electronic_led_0603_green 
 
-
-short_code: l6g
-md5_6: b4e823
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working
+  
+* short_code: l6g
+* md5_6: b4e823  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working  
 ## naming details
 * classification -- electronic
 * type -- led

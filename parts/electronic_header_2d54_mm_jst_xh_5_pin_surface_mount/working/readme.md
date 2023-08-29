@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm Jst Xh 5 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_jst_xh_5_pin_surface_mount 
 
-
-short_code: h5psm
-md5_6: 444610
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin_surface_mount/working
+  
+* short_code: h5psm
+* md5_6: 444610  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin_surface_mount/working  
 ## naming details
 * classification -- electronic
 * type -- header

@@ -1,10 +1,10 @@
 # Electronic Led 10 Mm Blue
 oomp_key: oomp_electronic_led_10_mm_blue 
 
-
-short_code: l10
-md5_6: 78055f
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working
+  
+* short_code: l10
+* md5_6: 78055f  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working  
 ## naming details
 * classification -- electronic
 * type -- led

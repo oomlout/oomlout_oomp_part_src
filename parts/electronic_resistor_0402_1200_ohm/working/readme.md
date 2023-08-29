@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 1200 Ohm
 oomp_key: oomp_electronic_resistor_0402_1200_ohm 
 
-
-short_code: r4o122
-md5_6: 413868
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working
+  
+* short_code: r4o122
+* md5_6: 413868  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

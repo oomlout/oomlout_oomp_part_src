@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 10000 Ohm
 oomp_key: oomp_electronic_resistor_0201_10000_ohm 
 
-
-short_code: ro103
-md5_6: 483fd9
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_10000_ohm/working
+  
+* short_code: ro103
+* md5_6: 483fd9  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_10000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

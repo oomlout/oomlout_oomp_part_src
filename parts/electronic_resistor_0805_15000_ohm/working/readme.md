@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 15000 Ohm
 oomp_key: oomp_electronic_resistor_0805_15000_ohm 
 
-
-short_code: r8o153
-md5_6: 090281
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working
+  
+* short_code: r8o153
+* md5_6: 090281  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

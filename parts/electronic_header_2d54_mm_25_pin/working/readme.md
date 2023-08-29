@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm 25 Pin
 oomp_key: oomp_electronic_header_2d54_mm_25_pin 
 
-
-short_code: hi125p
-md5_6: ca4623
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_25_pin/working
+  
+* short_code: hi125p
+* md5_6: ca4623  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_25_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

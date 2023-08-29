@@ -1,10 +1,10 @@
 # Electronic Led 0201 Green
 oomp_key: oomp_electronic_led_0201_green 
 
-
-short_code: lg
-md5_6: 8ac6d3
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_green/working
+  
+* short_code: lg
+* md5_6: 8ac6d3  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_green/working  
 ## naming details
 * classification -- electronic
 * type -- led

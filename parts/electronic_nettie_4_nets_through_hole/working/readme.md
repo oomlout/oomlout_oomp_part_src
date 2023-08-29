@@ -1,10 +1,10 @@
 # Electronic Nettie 4 Nets Through Hole
 oomp_key: oomp_electronic_nettie_4_nets_through_hole 
 
-
-short_code: nt4
-md5_6: ac52ab
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working
+  
+* short_code: nt4
+* md5_6: ac52ab  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working  
 ## naming details
 * classification -- electronic
 * type -- nettie

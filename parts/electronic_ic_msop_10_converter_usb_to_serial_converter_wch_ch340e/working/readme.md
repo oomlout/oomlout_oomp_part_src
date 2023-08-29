@@ -1,10 +1,10 @@
 # Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E
 oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e 
 
-
-short_code: ich340e
-md5_6: 720e79
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working
+  
+* short_code: ich340e
+* md5_6: 720e79  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working  
 ## naming details
 * classification -- electronic
 * type -- ic

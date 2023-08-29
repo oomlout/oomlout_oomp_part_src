@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 15 Ohm
 oomp_key: oomp_electronic_resistor_0201_15_ohm 
 
-
-short_code: ro150
-md5_6: e705cf
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15_ohm/working
+  
+* short_code: ro150
+* md5_6: e705cf  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

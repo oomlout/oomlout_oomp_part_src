@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 47 Ohm
 oomp_key: oomp_electronic_resistor_0201_47_ohm 
 
-
-short_code: ro470
-md5_6: 5f674a
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working
+  
+* short_code: ro470
+* md5_6: 5f674a  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

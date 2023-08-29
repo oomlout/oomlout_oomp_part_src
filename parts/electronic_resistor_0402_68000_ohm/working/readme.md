@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 68000 Ohm
 oomp_key: oomp_electronic_resistor_0402_68000_ohm 
 
-
-short_code: r4o683
-md5_6: f0c1d5
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68000_ohm/working
+  
+* short_code: r4o683
+* md5_6: f0c1d5  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

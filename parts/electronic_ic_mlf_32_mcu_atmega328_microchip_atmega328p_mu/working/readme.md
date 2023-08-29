@@ -1,10 +1,10 @@
 # Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
 oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu 
 
-
-short_code: imlf32at328
-md5_6: d6a445
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working
+  
+* short_code: imlf32at328
+* md5_6: d6a445  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working  
 ## naming details
 * classification -- electronic
 * type -- ic

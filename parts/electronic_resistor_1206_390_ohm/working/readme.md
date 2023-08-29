@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 390 Ohm
 oomp_key: oomp_electronic_resistor_1206_390_ohm 
 
-
-short_code: r12o391
-md5_6: 389216
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_390_ohm/working
+  
+* short_code: r12o391
+* md5_6: 389216  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_390_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

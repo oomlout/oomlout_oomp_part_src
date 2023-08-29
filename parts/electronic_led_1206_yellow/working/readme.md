@@ -1,10 +1,10 @@
 # Electronic Led 1206 Yellow
 oomp_key: oomp_electronic_led_1206_yellow 
 
-
-short_code: l12
-md5_6: 487cc6
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working
+  
+* short_code: l12
+* md5_6: 487cc6  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working  
 ## naming details
 * classification -- electronic
 * type -- led

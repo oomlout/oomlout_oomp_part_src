@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 68000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_68000_ohm 
 
-
-short_code: ro683
-md5_6: e01b81
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm/working
+  
+* short_code: ro683
+* md5_6: e01b81  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

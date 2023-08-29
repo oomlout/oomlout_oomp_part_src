@@ -1,10 +1,10 @@
 # Electronic Resistor 0603 15 Ohm
 oomp_key: oomp_electronic_resistor_0603_15_ohm 
 
-
-short_code: r6o150
-md5_6: 05511c
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_15_ohm/working
+  
+* short_code: r6o150
+* md5_6: 05511c  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_15_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

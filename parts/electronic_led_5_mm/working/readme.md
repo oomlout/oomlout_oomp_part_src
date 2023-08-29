@@ -1,11 +1,11 @@
 # Electronic Led 5 Mm
 oomp_key: oomp_electronic_led_5_mm 
- ![](working_400.jpg) 
+ ![](working_600.jpg) 
 
-
-short_code: l5
-md5_6: 7297cd
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working
+  
+* short_code: l5
+* md5_6: 7297cd  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working  
 ## naming details
 * classification -- electronic
 * type -- led

@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 220 Ohm
 oomp_key: oomp_electronic_resistor_0201_220_ohm 
 
-
-short_code: ro221
-md5_6: b238f1
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220_ohm/working
+  
+* short_code: ro221
+* md5_6: b238f1  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

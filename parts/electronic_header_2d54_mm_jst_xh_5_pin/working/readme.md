@@ -1,10 +1,10 @@
 # Electronic Header 2D54 Mm Jst Xh 5 Pin
 oomp_key: oomp_electronic_header_2d54_mm_jst_xh_5_pin 
 
-
-short_code: h5p
-md5_6: ec42dd
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin/working
+  
+* short_code: h5p
+* md5_6: ec42dd  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin/working  
 ## naming details
 * classification -- electronic
 * type -- header

@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 33 Ohm
 oomp_key: oomp_electronic_resistor_0805_33_ohm 
 
-
-short_code: r8o330
-md5_6: 276d4d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_33_ohm/working
+  
+* short_code: r8o330
+* md5_6: 276d4d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_33_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 82 Ohm
 oomp_key: oomp_electronic_resistor_0402_82_ohm 
 
-
-short_code: r4o820
-md5_6: 9a8de9
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working
+  
+* short_code: r4o820
+* md5_6: 9a8de9  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

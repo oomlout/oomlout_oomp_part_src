@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 10000 Ohm
 oomp_key: oomp_electronic_resistor_0402_10000_ohm 
 
-
-short_code: r4o103
-md5_6: 809c3c
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000_ohm/working
+  
+* short_code: r4o103
+* md5_6: 809c3c  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

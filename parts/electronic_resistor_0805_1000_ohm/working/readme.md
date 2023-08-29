@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 1000 Ohm
 oomp_key: oomp_electronic_resistor_0805_1000_ohm 
 
-
-short_code: r8o102
-md5_6: ea892e
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1000_ohm/working
+  
+* short_code: r8o102
+* md5_6: ea892e  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

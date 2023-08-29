@@ -1,10 +1,10 @@
 # Electronic Resistor 1206 3300 Ohm
 oomp_key: oomp_electronic_resistor_1206_3300_ohm 
 
-
-short_code: r12o332
-md5_6: f05e80
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working
+  
+* short_code: r12o332
+* md5_6: f05e80  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

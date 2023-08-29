@@ -1,10 +1,10 @@
 # Electronic Header 1 Mm Jst Sh 1 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle 
 
-
-short_code: h1psmra
-md5_6: d8e443
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle/working
+  
+* short_code: h1psmra
+* md5_6: d8e443  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_1_pin_surface_mount_right_angle/working  
 ## naming details
 * classification -- electronic
 * type -- header

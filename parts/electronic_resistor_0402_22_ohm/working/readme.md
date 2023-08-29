@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 22 Ohm
 oomp_key: oomp_electronic_resistor_0402_22_ohm 
 
-
-short_code: r4o220
-md5_6: 6475a2
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working
+  
+* short_code: r4o220
+* md5_6: 6475a2  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

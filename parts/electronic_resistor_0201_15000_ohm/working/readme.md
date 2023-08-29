@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 15000 Ohm
 oomp_key: oomp_electronic_resistor_0201_15000_ohm 
 
-
-short_code: ro153
-md5_6: 4c89d7
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15000_ohm/working
+  
+* short_code: ro153
+* md5_6: 4c89d7  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15000_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

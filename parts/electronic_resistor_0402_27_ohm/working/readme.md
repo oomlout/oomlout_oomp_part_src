@@ -1,10 +1,10 @@
 # Electronic Resistor 0402 27 Ohm
 oomp_key: oomp_electronic_resistor_0402_27_ohm 
 
-
-short_code: r4o270
-md5_6: 03eda3
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working
+  
+* short_code: r4o270
+* md5_6: 03eda3  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

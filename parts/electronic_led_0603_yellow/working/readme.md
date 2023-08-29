@@ -1,10 +1,10 @@
 # Electronic Led 0603 Yellow
 oomp_key: oomp_electronic_led_0603_yellow 
 
-
-short_code: l6
-md5_6: 27dbb4
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working
+  
+* short_code: l6
+* md5_6: 27dbb4  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working  
 ## naming details
 * classification -- electronic
 * type -- led

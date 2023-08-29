@@ -1,10 +1,10 @@
 # Electronic Resistor Quarter Watt Through Hole 1200 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1200_ohm 
 
-
-short_code: ro122
-md5_6: c86d3b
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm/working
+  
+* short_code: ro122
+* md5_6: c86d3b  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

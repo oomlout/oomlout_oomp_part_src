@@ -1,10 +1,10 @@
 # Electronic Resistor 0805 3900 Ohm
 oomp_key: oomp_electronic_resistor_0805_3900_ohm 
 
-
-short_code: r8o392
-md5_6: 111e7a
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_3900_ohm/working
+  
+* short_code: r8o392
+* md5_6: 111e7a  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_3900_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

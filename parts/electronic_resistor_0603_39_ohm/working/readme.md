@@ -1,10 +1,10 @@
 # Electronic Resistor 0603 39 Ohm
 oomp_key: oomp_electronic_resistor_0603_39_ohm 
 
-
-short_code: r6o390
-md5_6: a487b1
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working
+  
+* short_code: r6o390
+* md5_6: a487b1  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

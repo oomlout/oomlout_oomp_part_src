@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 560 Ohm
 oomp_key: oomp_electronic_resistor_0201_560_ohm 
 
-
-short_code: ro561
-md5_6: 1e228d
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working
+  
+* short_code: ro561
+* md5_6: 1e228d  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor

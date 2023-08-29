@@ -1,10 +1,10 @@
 # Electronic Resistor 0201 3900 Ohm
 oomp_key: oomp_electronic_resistor_0201_3900_ohm 
 
-
-short_code: ro392
-md5_6: 3d5f84
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm/working
+  
+* short_code: ro392
+* md5_6: 3d5f84  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm/working  
 ## naming details
 * classification -- electronic
 * type -- resistor
