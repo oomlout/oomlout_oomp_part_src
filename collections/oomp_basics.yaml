@@ -13,7 +13,7 @@
 # diode
 - oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 # ic
-- oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+- oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 - oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
 # led
 - oomp_electronic_led_0603_red

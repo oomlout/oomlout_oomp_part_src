@@ -1,12 +1,32 @@
 import oomp
-
+import os
+import yaml
 
 
 def main(**kwargs):
     oomp.load_parts(from_pickle = True)
 
-    readme_contents = generate_readme(oomp.parts)
-    readme_file = "readme_index.md"
+    generate_index()
+    generate_collections(**kwargs)
+
+def generate_collections(**kwargs):
+    #get all the yaml filenames in colelctions directory
+    import glob
+    collection_files = glob.glob("collections/*.yaml")
+    for collection_file in collection_files:
+        just_filename = os.path.basename(collection_file)
+        filename = f"collections/{just_filename}.md"        
+        with open(collection_file, "r") as infile:
+            components = yaml.load(infile, Loader=yaml.FullLoader)
+        generate_index(components=components, filename=filename)
+
+def generate_index(**kwargs):
+    
+    filename = kwargs.get("filename", "readme_index.md")
+    components = kwargs.get("components", oomp.parts)
+    print(f"generating index {filename}")
+    readme_contents = generate_readme(components)
+    readme_file = filename
     with open(readme_file, "w") as outfile:
         outfile.write(readme_contents)
 
@@ -16,7 +36,15 @@ def generate_readme(components):
     index = {}
     # Group components based on hierarchy
     for component_id in components:
-        component = components[component_id]
+        #if components is a dict
+        if isinstance(components, dict):
+            component = components[component_id]
+        else:
+            try:
+                component = oomp.parts[component_id.replace("oomp_", "")]
+            except:
+                print(f"component {component_id} not found")
+                break
         classification = component["classification"]
         component_type = component["type"]
         size = component["size"]
@@ -35,7 +63,9 @@ def generate_readme(components):
     return_value = print_index(index)
     return return_value
 
- 
+
+
+
 # Print the index
 def print_index(index, indent=0):
     return_value = ""

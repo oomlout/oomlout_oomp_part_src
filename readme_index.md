@@ -14,7 +14,8 @@
 [oomp_electronic_capacitor_0603_100_nano_farad](parts/electronic_capacitor_0603_100_nano_farad/working)   
 [oomp_electronic_capacitor_0603_10_nano_farad](parts/electronic_capacitor_0603_10_nano_farad/working)   
 [oomp_electronic_capacitor_0603_1_micro_farad](parts/electronic_capacitor_0603_1_micro_farad/working)   
-[oomp_electronic_capacitor_0603_10_micro_farad4_7_micro_farad](parts/electronic_capacitor_0603_10_micro_farad4_7_micro_farad/working)   
+[oomp_electronic_capacitor_0603_10_micro_farad](parts/electronic_capacitor_0603_10_micro_farad/working)   
+[oomp_electronic_capacitor_0603_4_7_micro_farad](parts/electronic_capacitor_0603_4_7_micro_farad/working)   
 ### 0402   
 ####    
 [oomp_electronic_capacitor_0402_100_nano_farad](parts/electronic_capacitor_0402_100_nano_farad/working)   
@@ -353,13 +354,13 @@
 [oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)   
 ### vqfn_28   
 #### mcu   
-[oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr](parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmhr/working)   
+[oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)   
 ### mlf_32   
 #### mcu   
-[oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur](parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur/working)   
+[oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)   
 ### tqfp_32   
 #### mcu   
-[oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur](parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur/working)   
+[oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)   
 ### sop_16   
 #### converter   
 [oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)   
