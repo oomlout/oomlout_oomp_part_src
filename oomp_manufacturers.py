@@ -77,7 +77,7 @@ def get_lcsc(**kwargs):
                     "link": "",
                     "manufacturer_id": "manufacturer_onsemi"
                     })
-    matches.append({"id":"oomp_electronic_ic_lga_8_sensor_pressure_temperature_bosch_bme280",
+    matches.append({"id":"oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
                     "name":"Bosch",
                     "part_number": "BME280",
                     "link": "https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/",

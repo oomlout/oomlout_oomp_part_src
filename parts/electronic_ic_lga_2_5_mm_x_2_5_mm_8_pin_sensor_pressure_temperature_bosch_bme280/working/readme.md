@@ -29,6 +29,8 @@ List of Pins:
 ## distributors
 * [LCSC - C92489](https://lcsc.com/product-detail/C92489.html)  
 
+## manufacturers
+* [Bosch - BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)  
 
 ## symbol
 
@@ -86,7 +88,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | name | Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280 | 
 | short_code | i | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C92489', 'link': 'https://lcsc.com/product-detail/C92489.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'Bosch', 'part_number': 'BME280', 'link': 'https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/', 'id': 'manufacturer_bosch'}] | 
 | md5 | a3697f01237d79885aae438ef33a55dd | 
 | md5_5 | a3697 | 
 | md5_6 | a3697f | 

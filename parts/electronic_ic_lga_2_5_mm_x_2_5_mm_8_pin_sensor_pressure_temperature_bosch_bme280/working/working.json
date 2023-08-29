@@ -65,7 +65,14 @@
             "id": "distributor_lcsc"
         }
     ],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Bosch",
+            "part_number": "BME280",
+            "link": "https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/",
+            "id": "manufacturer_bosch"
+        }
+    ],
     "md5": "a3697f01237d79885aae438ef33a55dd",
     "md5_5": "a3697",
     "md5_6": "a3697f",

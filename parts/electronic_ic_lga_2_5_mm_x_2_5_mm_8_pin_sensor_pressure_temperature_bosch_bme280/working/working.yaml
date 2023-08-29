@@ -15,7 +15,11 @@ footprint:
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working
 id: electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
 manufacturer: bosch
-manufacturers: []
+manufacturers:
+-   id: manufacturer_bosch
+    link: https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/
+    name: Bosch
+    part_number: BME280
 md5: a3697f01237d79885aae438ef33a55dd
 md5_10: a3697f0123
 md5_5: a3697
