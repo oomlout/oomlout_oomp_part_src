@@ -35,7 +35,7 @@ List of Pins:
 * 15 : tnow
 * 16 : vcc
 ## distributors
-* [LCSC - c81010](https://lcsc.com/product-detail/c81010.html)  
+* [LCSC - C81010](https://lcsc.com/product-detail/C81010.html)  
 
 
 
@@ -114,7 +114,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | directory | parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b | 
 | name | Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340B | 
 | short_code | isp16ch340b | 
-| distributors | [{'name': 'LCSC', 'part_number': 'c81010', 'link': 'https://lcsc.com/product-detail/c81010.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C81010', 'link': 'https://lcsc.com/product-detail/C81010.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | ea28b63f284b0c72f54f9c49ad14c793 | 
 | md5_5 | ea28b | 

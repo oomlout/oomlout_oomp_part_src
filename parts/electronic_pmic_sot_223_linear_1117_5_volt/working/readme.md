@@ -54,6 +54,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_code | pms22311175v | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C347223', 'link': 'https://lcsc.com/product-detail/C347223.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'UMW(Youtai Semiconductor Co., Ltd.)', 'part_number': 'AMS1117-5.0', 'link': '', 'id': 'manufacturer_umw_youtai_semiconductor_co_ltd'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 12_mm | 
+| smd_tape_depth | 2_mm | 
+| smd_tape_pitch | 8_mm | 
 | md5 | f26ce0b91db98ace92559b334d2cc5a6 | 
 | md5_5 | f26ce | 
 | md5_6 | f26ce0 | 

@@ -53,12 +53,39 @@ def get_lcsc(**kwargs):
                     "link": "",
                     "manufacturer_id": "manufacturer_umw_youtai_semiconductor_co_ltd"
                     })
+    # led 0603
     matches.append({"id":"oomp_electronic_led_0603_red",
                     "name":"XINGLIGHT",
                     "part_number": "XL-1608SURC-06",
                     "link": "",
                     "manufacturer_id": "manufacturer_xinglight"
                     })
+    matches.append({"id":"oomp_electronic_led_0603_green",
+                    "name":"XINGLIGHT",
+                    "part_number": "XL-1608UGC-04",
+                    "link": "",
+                    "manufacturer_id": "manufacturer_xinglight"
+                    })
+    matches.append({"id":"oomp_electronic_led_0603_blue",
+                    "name":"XINGLIGHT",
+                    "part_number": "XL-1608UBC-04",
+                    "link": "",
+                    "manufacturer_id": "manufacturer_xinglight"
+                    })
+    matches.append({"id":"oomp_electronic_led_0603_yellow",
+                    "name":"XINGLIGHT",
+                    "part_number": "XL-1608UYC-06",
+                    "link": "",
+                    "manufacturer_id": "manufacturer_xinglight"
+                    })
+    
+    matches.append({"id":"oomp_electronic_led_0603_white",
+                    "name":"XINGLIGHT",
+                    "part_number": "XL-1608UWC-04",
+                    "link": "",
+                    "manufacturer_id": "manufacturer_xinglight"
+                    })
+    
     matches.append({"id":"oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
                     "name":"Jiangsu Changjing Electronics Technology Co., Ltd.",
                     "part_number": "MBR0520",
@@ -206,6 +233,8 @@ def get_uniroyal(**kwargs):
     matches = []
     matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
                   "part_number": "0603WAF1001T5E"})
+    matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
+                  "part_number": "0603WAF1002T5E"})
     
 
     manufacturers = []
@@ -241,6 +270,8 @@ def get_yageo(**kwargs):
     #resistors
     matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
                     "part_number": "RC0603FR-071KL"})
+    matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
+                    "part_number": "RC0603FR-0710KL"})
     
     manufacturers = []
     for match in matches:

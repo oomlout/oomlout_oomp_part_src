@@ -57,6 +57,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_code | c6nf100 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C14663A', 'link': 'https://lcsc.com/product-detail/C14663A.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C30926', 'link': 'https://lcsc.com/product-detail/C30926.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Samsung', 'part_number': 'CL10B104KB8NNNC', 'link': 'https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do', 'id': 'manufacturer_samsung'}, {'name': 'Yageo', 'part_number': 'CC0603KRX7R9BB104', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104', 'id': 'manufacturer_yageo'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 8cfd91c8b4af505f5c4d796bc12d1d16 | 
 | md5_5 | 8cfd9 | 
 | md5_6 | 8cfd91 | 

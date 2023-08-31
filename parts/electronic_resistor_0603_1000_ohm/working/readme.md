@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C21190](https://lcsc.com/product-detail/C21190.html)  
+* [LCSC - C22548](https://lcsc.com/product-detail/C22548.html)  
 
 ## manufacturers
 * [Uniroyal - 0603WAF1001T5E]()  
@@ -52,8 +55,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | directory | parts/electronic_resistor_0603_1000_ohm | 
 | name | Electronic Resistor 0603 1000 Ohm | 
 | short_code | r6o102 | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C21190', 'link': 'https://lcsc.com/product-detail/C21190.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C22548', 'link': 'https://lcsc.com/product-detail/C22548.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAF1001T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0603FR-071KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-071KL', 'id': 'manufacturer_yageo'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 01afabf1a1678439fdd5ce5dd9569083 | 
 | md5_5 | 01afa | 
 | md5_6 | 01afab | 

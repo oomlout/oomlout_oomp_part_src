@@ -17,6 +17,11 @@
 
 
 
+## symbol
+
+![](symbol/0/working/working_600.png)  
+oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m  
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m/working  
 
 ## footprint
 
@@ -50,3 +55,4 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | md5_6 | d6a445 | 
 | md5_10 | d6a4452edc | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328_m', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym'}] | 

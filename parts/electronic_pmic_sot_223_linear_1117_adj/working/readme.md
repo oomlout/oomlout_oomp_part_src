@@ -50,6 +50,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_code | pms2231117 | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 12_mm | 
+| smd_tape_depth | 2_mm | 
+| smd_tape_pitch | 8_mm | 
 | md5 | cdc5644737274c72642f6d91b99a7aaa | 
 | md5_5 | cdc56 | 
 | md5_6 | cdc564 | 

@@ -35,7 +35,7 @@ List of Pins:
 * 15 : rs232
 * 16 : vcc
 ## distributors
-* [LCSC - c7464026](https://lcsc.com/product-detail/c7464026.html)  
+* [LCSC - C7464026](https://lcsc.com/product-detail/C7464026.html)  
 
 
 ## symbol
@@ -119,7 +119,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | directory | parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
 | name | Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C | 
 | short_code | isp16ch340c | 
-| distributors | [{'name': 'LCSC', 'part_number': 'c7464026', 'link': 'https://lcsc.com/product-detail/c7464026.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C7464026', 'link': 'https://lcsc.com/product-detail/C7464026.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 8b394cfe55fb40b61533e33d89af18b7 | 
 | md5_5 | 8b394 | 

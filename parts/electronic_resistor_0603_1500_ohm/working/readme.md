@@ -51,6 +51,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_code | r6o152 | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 2f65c7fd066796b3b282d88267550b17 | 
 | md5_5 | 2f65c | 
 | md5_6 | 2f65c7 | 

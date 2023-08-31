@@ -3,7 +3,11 @@ color: green
 description_extra: ''
 description_main: ''
 directory: parts/electronic_led_0603_green
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C965804.html
+    name: LCSC
+    part_number: C965804
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -14,7 +18,11 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_led_0603_green
 kicad_reference: L
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_xinglight
+    link: ''
+    name: XINGLIGHT
+    part_number: XL-1608UGC-04
 md5: b4e8235ce213fd0badfc8ca2c6c558de
 md5_10: b4e8235ce2
 md5_5: b4e82

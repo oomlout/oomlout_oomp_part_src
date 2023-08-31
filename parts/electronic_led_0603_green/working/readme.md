@@ -15,7 +15,11 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C965804](https://lcsc.com/product-detail/C965804.html)  
 
+## manufacturers
+* [XINGLIGHT - XL-1608UGC-04]()  
 
 ## symbol
 
@@ -50,8 +54,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | name | Electronic Led 0603 Green | 
 | short_code | l6g | 
 | short_name | 0603 Green Led | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C965804', 'link': 'https://lcsc.com/product-detail/C965804.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608UGC-04', 'link': '', 'id': 'manufacturer_xinglight'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | b4e8235ce213fd0badfc8ca2c6c558de | 
 | md5_5 | b4e82 | 
 | md5_6 | b4e823 | 

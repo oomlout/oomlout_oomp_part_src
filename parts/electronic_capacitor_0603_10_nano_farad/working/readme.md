@@ -53,6 +53,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_code | c6nf10 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Yageo', 'part_number': 'CC0603KRX7R9BB103', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103', 'id': 'manufacturer_yageo'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 33c290430a925ac7c87bd31db1d1a8b7 | 
 | md5_5 | 33c29 | 
 | md5_6 | 33c290 | 

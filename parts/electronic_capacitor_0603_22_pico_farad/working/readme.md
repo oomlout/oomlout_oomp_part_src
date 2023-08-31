@@ -54,6 +54,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_code | c6pf22 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'HCTL', 'part_number': 'TC-3601L-2.5-260G', 'link': '', 'id': 'manufacturer_hctl'}, {'name': 'Yageo', 'part_number': 'CC0603JRNPO9BN220', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220', 'id': 'manufacturer_yageo'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | ed43fc9f13c024e0a26ef47e97a61fd1 | 
 | md5_5 | ed43f | 
 | md5_6 | ed43fc | 

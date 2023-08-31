@@ -29,7 +29,7 @@ List of Pins:
 * 9 : rxd
 * 10 : v3
 ## distributors
-* [LCSC - c968586](https://lcsc.com/product-detail/c968586.html)  
+* [LCSC - C968586](https://lcsc.com/product-detail/C968586.html)  
 
 
 
@@ -85,7 +85,7 @@ List of Pins:
 | directory | parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k | 
 | name | Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K | 
 | short_code | i | 
-| distributors | [{'name': 'LCSC', 'part_number': 'c968586', 'link': 'https://lcsc.com/product-detail/c968586.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C968586', 'link': 'https://lcsc.com/product-detail/C968586.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | c2a455d7f4d3be956b8a5b8101644d3d | 
 | md5_5 | c2a45 | 

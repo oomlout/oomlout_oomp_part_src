@@ -3,7 +3,11 @@ color: blue
 description_extra: ''
 description_main: ''
 directory: parts/electronic_led_0603_blue
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C965807.html
+    name: LCSC
+    part_number: C965807
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -14,7 +18,11 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_led_0603_blue
 kicad_reference: L
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_xinglight
+    link: ''
+    name: XINGLIGHT
+    part_number: XL-1608UBC-04
 md5: 9674f50c150069fafacfa3671b299b20
 md5_10: 9674f50c15
 md5_5: 9674f

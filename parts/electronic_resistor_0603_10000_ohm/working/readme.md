@@ -15,7 +15,13 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C98220](https://lcsc.com/product-detail/C98220.html)  
+* [LCSC - C25804](https://lcsc.com/product-detail/C25804.html)  
 
+## manufacturers
+* [Uniroyal - 0603WAF1002T5E]()  
+* [Yageo - RC0603FR-0710KL](https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-0710KL)  
 
 ## symbol
 
@@ -49,8 +55,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | directory | parts/electronic_resistor_0603_10000_ohm | 
 | name | Electronic Resistor 0603 10000 Ohm | 
 | short_code | r6o103 | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C98220', 'link': 'https://lcsc.com/product-detail/C98220.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C25804', 'link': 'https://lcsc.com/product-detail/C25804.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAF1002T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0603FR-0710KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-0710KL', 'id': 'manufacturer_yageo'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 98b9ca34207fb0534abeb029e2151ce1 | 
 | md5_5 | 98b9c | 
 | md5_6 | 98b9ca | 

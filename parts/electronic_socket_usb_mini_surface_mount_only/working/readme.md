@@ -24,7 +24,11 @@ List of Pins:
 * 4 : id
 * 5 : gnd
 * 6 : shield
+## distributors
+* [LCSC - C91144](https://lcsc.com/product-detail/C91144.html)  
 
+## manufacturers
+* [Korean Hroparts Elec - U-M-M5SS-W-2]()  
 
 ## symbol
 
@@ -75,8 +79,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | directory | parts/electronic_socket_usb_mini_surface_mount_only | 
 | name | Electronic Socket Usb Mini Surface Mount Only | 
 | short_code | scumnsmo | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C91144', 'link': 'https://lcsc.com/product-detail/C91144.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'Korean Hroparts Elec', 'part_number': 'U-M-M5SS-W-2', 'link': '', 'id': 'manufacturer_korean_hroparts_elec'}] | 
 | md5 | 34c5c0be3324508572b94f980c1c9606 | 
 | md5_5 | 34c5c | 
 | md5_6 | 34c5c0 | 

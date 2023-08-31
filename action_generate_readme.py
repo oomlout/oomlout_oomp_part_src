@@ -2,6 +2,7 @@ import os
 import oomp
 import jinja2
 import oom_markdown
+import oom_kicad
 
 def main(**kwargs):
     oomp.load_parts(from_pickle = True)
@@ -41,6 +42,7 @@ def main(**kwargs):
         if count % 100 == 0:
             print(".", end="", flush=True)
     
+    oom_kicad.push_to_git()
 
 def flatten_dict(d, parent_key='', separator='_'):
     items = []

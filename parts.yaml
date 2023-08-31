@@ -11481,7 +11481,11 @@ electronic_led_0603_blue:
     description_extra: ''
     description_main: ''
     directory: parts/electronic_led_0603_blue
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C965807.html
+        name: LCSC
+        part_number: C965807
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -11493,7 +11497,11 @@ electronic_led_0603_blue:
     kicad_reference: L
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_xinglight
+        link: ''
+        name: XINGLIGHT
+        part_number: XL-1608UBC-04
     md5: 9674f50c150069fafacfa3671b299b20
     md5_10: 9674f50c15
     md5_5: 9674f
@@ -11519,7 +11527,11 @@ electronic_led_0603_green:
     description_extra: ''
     description_main: ''
     directory: parts/electronic_led_0603_green
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C965804.html
+        name: LCSC
+        part_number: C965804
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -11531,7 +11543,11 @@ electronic_led_0603_green:
     kicad_reference: L
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_xinglight
+        link: ''
+        name: XINGLIGHT
+        part_number: XL-1608UGC-04
     md5: b4e8235ce213fd0badfc8ca2c6c558de
     md5_10: b4e8235ce2
     md5_5: b4e82
@@ -11603,7 +11619,11 @@ electronic_led_0603_yellow:
     description_extra: ''
     description_main: ''
     directory: parts/electronic_led_0603_yellow
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C965802.html
+        name: LCSC
+        part_number: C965802
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
@@ -11615,7 +11635,11 @@ electronic_led_0603_yellow:
     kicad_reference: L
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_xinglight
+        link: ''
+        name: XINGLIGHT
+        part_number: XL-1608UYC-06
     md5: 27dbb49a7267d86fab8e1a25638fda98
     md5_10: 27dbb49a72
     md5_5: 27dbb
@@ -15980,7 +16004,15 @@ electronic_resistor_0603_10000_ohm:
     description_extra: ''
     description_main: 10000_ohm
     directory: parts/electronic_resistor_0603_10000_ohm
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C98220.html
+        name: LCSC
+        part_number: C98220
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C25804.html
+        name: LCSC
+        part_number: C25804
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -15992,7 +16024,15 @@ electronic_resistor_0603_10000_ohm:
     kicad_reference: R
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_uniroyal
+        link: ''
+        name: Uniroyal
+        part_number: 0603WAF1002T5E
+    -   id: manufacturer_yageo
+        link: https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-0710KL
+        name: Yageo
+        part_number: RC0603FR-0710KL
     md5: 98b9ca34207fb0534abeb029e2151ce1
     md5_10: 98b9ca3420
     md5_5: 98b9c
@@ -16017,7 +16057,15 @@ electronic_resistor_0603_1000_ohm:
     description_extra: ''
     description_main: 1000_ohm
     directory: parts/electronic_resistor_0603_1000_ohm
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C21190.html
+        name: LCSC
+        part_number: C21190
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C22548.html
+        name: LCSC
+        part_number: C22548
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod

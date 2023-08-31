@@ -65,6 +65,7 @@ def get_packaging(**kwargs):
     
 
     ###### add smd magazine
+    ###### not working
     for match in matches:
         if "smd_tape_width" and "smd_tape_depth" in match:
             tape_width = match["smd_tape_width"].replace("_mm","")
@@ -78,7 +79,8 @@ def get_packaging(**kwargs):
             for size in sizes:
                 magazines.append(f"oobb_smd_magazine_{size}_{size}_{tape_width+2}_nm_{tape_width}_mm_tape_width_{tape_depth}_mm_tape_thickness_ex_{tape_depth_d}")
             if magazines != []:
-                match["smd_magazine"] = magazines
+                match["extra_data"].append = {"key": "smd_magazines", 
+                                            "value": magazines}
 
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to footprints
     for match in matches:

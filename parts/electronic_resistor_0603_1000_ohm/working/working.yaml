@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 1000_ohm
 directory: parts/electronic_resistor_0603_1000_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C21190.html
+    name: LCSC
+    part_number: C21190
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C22548.html
+    name: LCSC
+    part_number: C22548
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod

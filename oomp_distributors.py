@@ -68,6 +68,14 @@ def get_lcsc(**kwargs):
     # led
     matches.append({"id":"oomp_electronic_led_0603_red",
                   "part_number": "C965799"})
+    matches.append({"id":"oomp_electronic_led_0603_green",
+                  "part_number": "C965804"})
+    matches.append({"id":"oomp_electronic_led_0603_blue",
+                  "part_number": "C965807"})
+    matches.append({"id":"oomp_electronic_led_0603_yellow",
+                  "part_number": "C965802"})
+    matches.append({"id":"oomp_electronic_led_0603_white",
+                  "part_number": "C965808"})
     
     # pmic
     #      1117
@@ -75,10 +83,14 @@ def get_lcsc(**kwargs):
                     "part_number": "C347223"})
 
     # resistors
-    matches.append({"id":"resistor_0603_1k_ohm",
+    matches.append({"id":"resistor_0603_1000_ohm",
                   "part_number": "C21190"})
-    matches.append({"id":"resistor_0603_1k_ohm",
+    matches.append({"id":"resistor_0603_1000_ohm",
                   "part_number": "C22548"})
+    matches.append({"id":"resistor_0603_10000_ohm",
+                  "part_number": "C98220"})
+    matches.append({"id":"resistor_0603_10000_ohm",
+                  "part_number": "C25804"})
     
     # sockets
     #      usb

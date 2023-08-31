@@ -18,8 +18,22 @@
     "name": "Electronic Led 0603 Blue",
     "short_code": "l6",
     "short_name": "0603 Blue Led",
-    "distributors": [],
-    "manufacturers": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C965807",
+            "link": "https://lcsc.com/product-detail/C965807.html",
+            "id": "distributor_lcsc"
+        }
+    ],
+    "manufacturers": [
+        {
+            "name": "XINGLIGHT",
+            "part_number": "XL-1608UBC-04",
+            "link": "",
+            "id": "manufacturer_xinglight"
+        }
+    ],
     "package_style": "smd_tape",
     "smd_tape_width": "8_mm",
     "smd_tape_depth": "1_5_mm",

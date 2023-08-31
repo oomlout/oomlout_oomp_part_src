@@ -29,7 +29,7 @@ List of Pins:
 * 9 : txd
 * 10 : v3
 ## distributors
-* [LCSC - c3035748](https://lcsc.com/product-detail/c3035748.html)  
+* [LCSC - C3035748](https://lcsc.com/product-detail/C3035748.html)  
 
 
 ## symbol
@@ -90,7 +90,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x | 
 | name | Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X | 
 | short_code | ich340x | 
-| distributors | [{'name': 'LCSC', 'part_number': 'c3035748', 'link': 'https://lcsc.com/product-detail/c3035748.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C3035748', 'link': 'https://lcsc.com/product-detail/C3035748.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 0f210323ca1152360fceeb82b02d755c | 
 | md5_5 | 0f210 | 

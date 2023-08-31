@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 10000_ohm
 directory: parts/electronic_resistor_0603_10000_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C98220.html
+    name: LCSC
+    part_number: C98220
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25804.html
+    name: LCSC
+    part_number: C25804
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -14,7 +22,15 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_resistor_0603_10000_ohm
 kicad_reference: R
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 0603WAF1002T5E
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-0710KL
+    name: Yageo
+    part_number: RC0603FR-0710KL
 md5: 98b9ca34207fb0534abeb029e2151ce1
 md5_10: 98b9ca3420
 md5_5: 98b9c

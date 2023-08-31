@@ -56,6 +56,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | short_name | 0603 Red Led | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C965799', 'link': 'https://lcsc.com/product-detail/C965799.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608SURC-06', 'link': '', 'id': 'manufacturer_xinglight'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 255611ec8565e66dea88d4fba9421c6d | 
 | md5_5 | 25561 | 
 | md5_6 | 255611 | 

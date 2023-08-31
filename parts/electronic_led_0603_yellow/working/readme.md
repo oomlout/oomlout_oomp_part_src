@@ -15,7 +15,11 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C965802](https://lcsc.com/product-detail/C965802.html)  
 
+## manufacturers
+* [XINGLIGHT - XL-1608UYC-06]()  
 
 ## symbol
 
@@ -50,8 +54,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | name | Electronic Led 0603 Yellow | 
 | short_code | l6 | 
 | short_name | 0603 Yellow Led | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C965802', 'link': 'https://lcsc.com/product-detail/C965802.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608UYC-06', 'link': '', 'id': 'manufacturer_xinglight'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 27dbb49a7267d86fab8e1a25638fda98 | 
 | md5_5 | 27dbb | 
 | md5_6 | 27dbb4 | 

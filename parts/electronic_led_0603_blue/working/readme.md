@@ -15,7 +15,11 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C965807](https://lcsc.com/product-detail/C965807.html)  
 
+## manufacturers
+* [XINGLIGHT - XL-1608UBC-04]()  
 
 ## symbol
 
@@ -50,8 +54,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprnts
 | name | Electronic Led 0603 Blue | 
 | short_code | l6 | 
 | short_name | 0603 Blue Led | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C965807', 'link': 'https://lcsc.com/product-detail/C965807.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608UBC-04', 'link': '', 'id': 'manufacturer_xinglight'}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 9674f50c150069fafacfa3671b299b20 | 
 | md5_5 | 9674f | 
 | md5_6 | 9674f5 | 
