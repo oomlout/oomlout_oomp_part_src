@@ -63,9 +63,23 @@ def get_packaging(**kwargs):
     matches.append(match)
     
     
-    matches.append(match)
-    
-    
+
+    ###### add smd magazine
+    for match in matches:
+        if "smd_tape_width" and "smd_tape_depth" in match:
+            tape_width = match["smd_tape_width"].replace("_mm","")
+            tape_depth = match["smd_tape_depth"].replace("_mm","")
+            tape_depth_d = tape_depth.replace("_","d")
+            extra = {}
+            ##example
+            ## obb_smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+            sizes = ["03", "04", "05", "07", "09" ]
+            magazines = []
+            for size in sizes:
+                magazines.append(f"oobb_smd_magazine_{size}_{size}_{tape_width+2}_nm_{tape_width}_mm_tape_width_{tape_depth}_mm_tape_thickness_ex_{tape_depth_d}")
+            if magazines != []:
+                match["smd_magazine"] = magazines
+
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to footprints
     for match in matches:
         match_count = 0

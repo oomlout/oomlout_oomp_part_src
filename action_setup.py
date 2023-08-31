@@ -1,7 +1,5 @@
 import oomp
-
-
-import oom_kicad    
+  
 
 def main():
     oomp.clone_data_files()
