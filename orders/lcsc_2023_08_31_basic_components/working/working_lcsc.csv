@@ -1,0 +1,17 @@
+LCSC Part Number,Manufacture Part Number,Manufacturer,Customer NO.,Package,Description,RoHS,Order Qty.,Min\Mult Order Qty.,Unit Price,Order Price
+C14877,ATMEGA328P-AU,Microchip Tech,,TQFP-32(7x7),32KB 2KB FLASH 23 1.8V~5.5V AVR 20MHz TQFP-32(7x7)  Microcontroller Units (MCUs/MPUs/SOCs) ROHS,YES,1,1\1,2.431000,2.43
+C347223,AMS1117-5.0,"UMW(Youtai Semiconductor Co., Ltd.)",,SOT-223,1A 60dB@(120Hz) Fixed 5V Positive 18V SOT-223  Linear Voltage Regulators (LDO) ROHS,YES,30,10\10,0.039400,1.18
+C14267,CH340G,WCH(Jiangsu Qin Heng),,SOP-16,2Mbps Transceiver USB 2.0 SOP-16  USB ICs ROHS,YES,5,1\1,0.480500,2.40
+C7464026,CH340C,WCH(Jiangsu Qin Heng),,SOP-16," SOP-16  USB ICs ROHS",YES,5,1\1,0.547300,2.74
+C965799,XL-1608SURC-06,XINGLIGHT,,0603,Colorless transparence -30℃~+85℃ Positive post 617nm~621nm Red 120° 55mW 0603  Light Emitting Diodes (LED) ROHS,YES,4000,100\100,0.001800,7.20
+C965807,XL-1608UBC-04,XINGLIGHT,,0603,Colorless transparence -30℃~+85℃ Positive post 460nm~469nm blue 120° 80mW 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\100,0.003700,0.37
+C965802,XL-1608UYC-06,XINGLIGHT,,0603,Colorless transparence -30℃~+85℃ 589nm~591nm Positive post yellow 120° 55mW 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\100,0.005500,0.55
+C965804,XL-1608UGC-04,XINGLIGHT,,0603,Colorless transparence 516nm~525nm -30℃~+85℃ Positive post Emerald 120° 80mW 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\100,0.004000,0.40
+C22548,RC0603FR-071KL,YAGEO,,0603,100mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0603  Chip Resistor - Surface Mount ROHS,YES,5000,100\100,0.000600,3.00
+C98220,RC0603FR-0710KL,YAGEO,,0603,100mW Thick Film Resistors ±100ppm/℃ ±1% 10kΩ 0603  Chip Resistor - Surface Mount ROHS,YES,5000,100\100,0.000700,3.50
+C2845294,TC-3601L-2.5-260G,HCTL,,SMD,No NO 50mA 100000 Times 260gf 12V Brick nogging SPST SMD  Tactile Switches ROHS,YES,200,20\20,0.019200,3.84
+C882605,CSTNE16M0VH3C000R0,Murata Electronics,,SMD3213-3P,16MHz ±0.07% 15pF 40Ω SMD3213-3P  Ceramic Resonators ROHS,YES,5,5\5,0.361600,1.81
+C341520,CSTNE12M0G550000R0,Murata Electronics,,SMD3213-3P,12MHz ±0.5% 33pF 30Ω SMD3213-3P  Ceramic Resonators ROHS,YES,5,5\5,0.217100,1.09
+C77335,MBR0520,"Jiangsu Changjing Electronics Technology Co., Ltd.",,SOD-123,20V 450mV@500mA 500mA SOD-123  Schottky Barrier Diodes (SBD) ROHS,YES,100,20\20,0.032200,3.22
+C7187,TAJA475K016RNJ,Kyocera AVX,,CASE-A-3216,4.7uF 16V 4Ω@100kHz ±10% CASE-A-3216  Tantalum Capacitors ROHS,YES,50,5\5,0.078100,3.91
+C14663,CC0603KRX7R9BB104,YAGEO,,0603,50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,4000,100\100,0.001500,6.00
