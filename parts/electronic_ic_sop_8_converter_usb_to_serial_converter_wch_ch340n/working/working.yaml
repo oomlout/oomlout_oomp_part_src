@@ -5,9 +5,9 @@ description_main: usb_to_serial_converter
 directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/c2977777.html
+    link: https://lcsc.com/product-detail/C2977777.html
     name: LCSC
-    part_number: c2977777
+    part_number: C2977777
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working
 id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 kicad_reference: U

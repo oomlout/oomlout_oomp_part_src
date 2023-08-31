@@ -29,10 +29,14 @@ md5_5: '25561'
 md5_6: '255611'
 name: Electronic Led 0603 Red
 oomp_key: oomp_electronic_led_0603_red
+package_style: smd_tape
 part_number: ''
 short_code: l6r
 short_name: 0603 Red Led
 size: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

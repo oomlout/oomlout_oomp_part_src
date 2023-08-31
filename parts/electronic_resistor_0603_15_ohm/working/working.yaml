@@ -21,9 +21,13 @@ md5_5: '05511'
 md5_6: 05511c
 name: Electronic Resistor 0603 15 Ohm
 oomp_key: oomp_electronic_resistor_0603_15_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r6o150
 size: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

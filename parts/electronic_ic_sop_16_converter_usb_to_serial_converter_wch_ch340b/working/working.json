@@ -102,8 +102,8 @@
     "distributors": [
         {
             "name": "LCSC",
-            "part_number": "c81010",
-            "link": "https://lcsc.com/product-detail/c81010.html",
+            "part_number": "C81010",
+            "link": "https://lcsc.com/product-detail/C81010.html",
             "id": "distributor_lcsc"
         }
     ],

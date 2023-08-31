@@ -4,8 +4,10 @@ import oomp_kicad_footprint
 import oomp_kicad_symbol
 import oomp_short_code
 import oomp_short_name
+
 import oomp_distributors
 import oomp_manufacturers
+import oomp_packaging
 
 import os
 import oom_markdown
@@ -168,6 +170,8 @@ def add_part(**kwargs):
         kwargs = oomp_distributors.get_distributors(**kwargs)
 
         kwargs = oomp_manufacturers.get_manufacturers(**kwargs)
+
+        kwargs = oomp_packaging.get_packaging(**kwargs)
 
 
 

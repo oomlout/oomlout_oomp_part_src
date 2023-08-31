@@ -18,10 +18,14 @@ md5_5: cdc56
 md5_6: cdc564
 name: Electronic Pmic Sot 223 Linear 1117 Adj
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
+package_style: smd_tape
 part_number: ''
 short_code: pms2231117
 short_name: ''
 size: sot_223
+smd_tape_depth: 2_mm
+smd_tape_pitch: 8_mm
+smd_tape_width: 12_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj

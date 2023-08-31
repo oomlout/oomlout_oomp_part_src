@@ -32,6 +32,10 @@
             "id": "manufacturer_yageo"
         }
     ],
+    "package_style": "smd_tape",
+    "smd_tape_width": "8_mm",
+    "smd_tape_depth": "1_5_mm",
+    "smd_tape_pitch": "4_mm",
     "md5": "01afabf1a1678439fdd5ce5dd9569083",
     "md5_5": "01afa",
     "md5_6": "01afab",

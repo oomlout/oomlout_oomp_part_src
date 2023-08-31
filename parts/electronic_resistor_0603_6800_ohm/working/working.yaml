@@ -21,9 +21,13 @@ md5_5: d033b
 md5_6: d033b8
 name: Electronic Resistor 0603 6800 Ohm
 oomp_key: oomp_electronic_resistor_0603_6800_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r6o682
 size: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -84,6 +84,15 @@ def get_lcsc(**kwargs):
                     "manufacturer_id": "manufacturer_bosch"
                     })
 
+    ##### socket
+    #      usb
+    #            mini
+    matches.append({"id":"oomp_electronic_socket_usb_mini_surface_mount_only",
+                    "name":"Korean Hroparts Elec",
+                    "part_number": "U-M-M5SS-W-2",
+                    "link": "",
+                    "manufacturer_id": "manufacturer_korean_hroparts_elec"
+                    })
 
 
     manufacturers = []

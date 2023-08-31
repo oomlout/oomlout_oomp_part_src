@@ -49,21 +49,21 @@ def get_lcsc(**kwargs):
 
     #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
-                  "part_number": "c7464026"})
+                  "part_number": "C7464026"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340g",
-                  "part_number": "c14267"})
+                  "part_number": "C14267"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340e",
-                  "part_number": "c99652"})
+                  "part_number": "C99652"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340x",
-                  "part_number": "c3035748"})
+                  "part_number": "C3035748"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340t",
-                  "part_number": "c8689"})
+                  "part_number": "C8689"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340n",
-                  "part_number": "c2977777"})
+                  "part_number": "C2977777"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340k",
-                  "part_number": "c968586"})
+                  "part_number": "C968586"})
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340b",
-                  "part_number": "c81010"})
+                  "part_number": "C81010"})
     
     # led
     matches.append({"id":"oomp_electronic_led_0603_red",
@@ -79,6 +79,12 @@ def get_lcsc(**kwargs):
                   "part_number": "C21190"})
     matches.append({"id":"resistor_0603_1k_ohm",
                   "part_number": "C22548"})
+    
+    # sockets
+    #      usb
+    #            mini
+    matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
+                  "part_number": "C91144"})
     
 
     distributors = []

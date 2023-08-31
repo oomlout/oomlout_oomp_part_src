@@ -18,10 +18,14 @@ md5_5: 24ed5
 md5_6: 24ed55
 name: Electronic Pmic Sot 223 Linear 1117 3 3 Volt
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt
+package_style: smd_tape
 part_number: ''
 short_code: pms22311173d3v
 short_name: ''
 size: sot_223
+smd_tape_depth: 2_mm
+smd_tape_pitch: 8_mm
+smd_tape_width: 12_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33

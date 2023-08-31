@@ -5,9 +5,9 @@ description_main: usb_to_serial_converter
 directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/c7464026.html
+    link: https://lcsc.com/product-detail/C7464026.html
     name: LCSC
-    part_number: c7464026
+    part_number: C7464026
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm

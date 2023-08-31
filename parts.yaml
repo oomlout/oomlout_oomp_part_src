@@ -394,9 +394,13 @@ electronic_capacitor_0603_100_nano_farad:
     md5_6: 8cfd91
     name: Electronic Capacitor 0603 100 Nano Farad
     oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
+    package_style: smd_tape
     part_number: ''
     short_code: c6nf100
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
@@ -427,9 +431,13 @@ electronic_capacitor_0603_10_micro_farad:
     md5_6: 01a693
     name: Electronic Capacitor 0603 10 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_10_micro_farad
+    package_style: smd_tape
     part_number: ''
     short_code: c6uf10
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
@@ -464,9 +472,13 @@ electronic_capacitor_0603_10_nano_farad:
     md5_6: 33c290
     name: Electronic Capacitor 0603 10 Nano Farad
     oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
+    package_style: smd_tape
     part_number: ''
     short_code: c6nf10
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
@@ -497,9 +509,13 @@ electronic_capacitor_0603_1_micro_farad:
     md5_6: e7a23d
     name: Electronic Capacitor 0603 1 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_1_micro_farad
+    package_style: smd_tape
     part_number: ''
     short_code: c6uf1
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
@@ -538,9 +554,13 @@ electronic_capacitor_0603_22_pico_farad:
     md5_6: ed43fc
     name: Electronic Capacitor 0603 22 Pico Farad
     oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
+    package_style: smd_tape
     part_number: ''
     short_code: c6pf22
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
@@ -571,9 +591,13 @@ electronic_capacitor_0603_4_7_micro_farad:
     md5_6: 6ab38c
     name: Electronic Capacitor 0603 4 7 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_4_7_micro_farad
+    package_style: smd_tape
     part_number: ''
     short_code: c6uf4d7
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
@@ -10072,9 +10096,9 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c968586.html
+        link: https://lcsc.com/product-detail/C968586.html
         name: LCSC
-        part_number: c968586
+        part_number: C968586
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working
     id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
     kicad_reference: U
@@ -10246,9 +10270,9 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c99652.html
+        link: https://lcsc.com/product-detail/C99652.html
         name: LCSC
-        part_number: c99652
+        part_number: C99652
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working
     id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     kicad_reference: U
@@ -10320,9 +10344,9 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c3035748.html
+        link: https://lcsc.com/product-detail/C3035748.html
         name: LCSC
-        part_number: c3035748
+        part_number: C3035748
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working
     id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
     kicad_reference: U
@@ -10564,9 +10588,9 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c81010.html
+        link: https://lcsc.com/product-detail/C81010.html
         name: LCSC
-        part_number: c81010
+        part_number: C81010
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
@@ -10662,9 +10686,9 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c7464026.html
+        link: https://lcsc.com/product-detail/C7464026.html
         name: LCSC
-        part_number: c7464026
+        part_number: C7464026
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
@@ -10764,9 +10788,9 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c14267.html
+        link: https://lcsc.com/product-detail/C14267.html
         name: LCSC
-        part_number: c14267
+        part_number: C14267
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
@@ -10866,9 +10890,9 @@ electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n:
     directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c2977777.html
+        link: https://lcsc.com/product-detail/C2977777.html
         name: LCSC
-        part_number: c2977777
+        part_number: C2977777
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working
     id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
     kicad_reference: U
@@ -10928,9 +10952,9 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
     directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
     distributors:
     -   id: distributor_lcsc
-        link: https://lcsc.com/product-detail/c8689.html
+        link: https://lcsc.com/product-detail/C8689.html
         name: LCSC
-        part_number: c8689
+        part_number: C8689
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working
     id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
     kicad_reference: U
@@ -11072,6 +11096,7 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     md5_6: 16166f
     name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
     oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    package_style: tray
     part_number: atmega328p_au
     short_code: itq32at328
     short_name: atmega328 32 pin tqfp
@@ -11437,10 +11462,14 @@ electronic_led_0603:
     md5_6: 410f69
     name: Electronic Led 0603
     oomp_key: oomp_electronic_led_0603
+    package_style: smd_tape
     part_number: ''
     short_code: l6
     short_name: 0603 Led
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -11471,10 +11500,14 @@ electronic_led_0603_blue:
     md5_6: 9674f5
     name: Electronic Led 0603 Blue
     oomp_key: oomp_electronic_led_0603_blue
+    package_style: smd_tape
     part_number: ''
     short_code: l6
     short_name: 0603 Blue Led
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -11505,10 +11538,14 @@ electronic_led_0603_green:
     md5_6: b4e823
     name: Electronic Led 0603 Green
     oomp_key: oomp_electronic_led_0603_green
+    package_style: smd_tape
     part_number: ''
     short_code: l6g
     short_name: 0603 Green Led
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -11547,10 +11584,14 @@ electronic_led_0603_red:
     md5_6: '255611'
     name: Electronic Led 0603 Red
     oomp_key: oomp_electronic_led_0603_red
+    package_style: smd_tape
     part_number: ''
     short_code: l6r
     short_name: 0603 Red Led
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -11581,10 +11622,14 @@ electronic_led_0603_yellow:
     md5_6: 27dbb4
     name: Electronic Led 0603 Yellow
     oomp_key: oomp_electronic_led_0603_yellow
+    package_style: smd_tape
     part_number: ''
     short_code: l6
     short_name: 0603 Yellow Led
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -12664,10 +12709,14 @@ electronic_pmic_sot_223_linear_1117_1_5_volt:
     md5_6: 6dc5a4
     name: Electronic Pmic Sot 223 Linear 1117 1 5 Volt
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5_volt
+    package_style: smd_tape
     part_number: ''
     short_code: pms22311171d5v
     short_name: ''
     size: sot_223
+    smd_tape_depth: 2_mm
+    smd_tape_pitch: 8_mm
+    smd_tape_width: 12_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_15//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_15
@@ -12695,10 +12744,14 @@ electronic_pmic_sot_223_linear_1117_1_8_volt:
     md5_6: 1ae2ec
     name: Electronic Pmic Sot 223 Linear 1117 1 8 Volt
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8_volt
+    package_style: smd_tape
     part_number: ''
     short_code: pms2231117
     short_name: ''
     size: sot_223
+    smd_tape_depth: 2_mm
+    smd_tape_pitch: 8_mm
+    smd_tape_width: 12_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_18//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_18
@@ -12726,10 +12779,14 @@ electronic_pmic_sot_223_linear_1117_2_5_volt:
     md5_6: 53edd7
     name: Electronic Pmic Sot 223 Linear 1117 2 5 Volt
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5_volt
+    package_style: smd_tape
     part_number: ''
     short_code: pms22311172d5v
     short_name: ''
     size: sot_223
+    smd_tape_depth: 2_mm
+    smd_tape_pitch: 8_mm
+    smd_tape_width: 12_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_25//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_25
@@ -12757,10 +12814,14 @@ electronic_pmic_sot_223_linear_1117_3_3_volt:
     md5_6: 24ed55
     name: Electronic Pmic Sot 223 Linear 1117 3 3 Volt
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt
+    package_style: smd_tape
     part_number: ''
     short_code: pms22311173d3v
     short_name: ''
     size: sot_223
+    smd_tape_depth: 2_mm
+    smd_tape_pitch: 8_mm
+    smd_tape_width: 12_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33
@@ -12796,10 +12857,14 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     md5_6: f26ce0
     name: Electronic Pmic Sot 223 Linear 1117 5 Volt
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
+    package_style: smd_tape
     part_number: ''
     short_code: pms22311175v
     short_name: ''
     size: sot_223
+    smd_tape_depth: 2_mm
+    smd_tape_pitch: 8_mm
+    smd_tape_width: 12_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
@@ -12827,10 +12892,14 @@ electronic_pmic_sot_223_linear_1117_adj:
     md5_6: cdc564
     name: Electronic Pmic Sot 223 Linear 1117 Adj
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
+    package_style: smd_tape
     part_number: ''
     short_code: pms2231117
     short_name: ''
     size: sot_223
+    smd_tape_depth: 2_mm
+    smd_tape_pitch: 8_mm
+    smd_tape_width: 12_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj
@@ -15819,9 +15888,13 @@ electronic_resistor_0603_10000000_ohm:
     md5_6: 704d7d
     name: Electronic Resistor 0603 10000000 Ohm
     oomp_key: oomp_electronic_resistor_0603_10000000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o106
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -15852,9 +15925,13 @@ electronic_resistor_0603_1000000_ohm:
     md5_6: 75f370
     name: Electronic Resistor 0603 1000000 Ohm
     oomp_key: oomp_electronic_resistor_0603_1000000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o105
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -15885,9 +15962,13 @@ electronic_resistor_0603_100000_ohm:
     md5_6: 9dbf64
     name: Electronic Resistor 0603 100000 Ohm
     oomp_key: oomp_electronic_resistor_0603_100000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o104
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -15918,9 +15999,13 @@ electronic_resistor_0603_10000_ohm:
     md5_6: 98b9ca
     name: Electronic Resistor 0603 10000 Ohm
     oomp_key: oomp_electronic_resistor_0603_10000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o103
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -15959,9 +16044,13 @@ electronic_resistor_0603_1000_ohm:
     md5_6: 01afab
     name: Electronic Resistor 0603 1000 Ohm
     oomp_key: oomp_electronic_resistor_0603_1000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o102
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -15992,9 +16081,13 @@ electronic_resistor_0603_100_ohm:
     md5_6: 560a9a
     name: Electronic Resistor 0603 100 Ohm
     oomp_key: oomp_electronic_resistor_0603_100_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o101
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16025,9 +16118,13 @@ electronic_resistor_0603_10_ohm:
     md5_6: 51a509
     name: Electronic Resistor 0603 10 Ohm
     oomp_key: oomp_electronic_resistor_0603_10_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o100
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16058,9 +16155,13 @@ electronic_resistor_0603_12000_ohm:
     md5_6: f4743d
     name: Electronic Resistor 0603 12000 Ohm
     oomp_key: oomp_electronic_resistor_0603_12000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o123
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16091,9 +16192,13 @@ electronic_resistor_0603_1200_ohm:
     md5_6: 1db8ad
     name: Electronic Resistor 0603 1200 Ohm
     oomp_key: oomp_electronic_resistor_0603_1200_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o122
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16124,9 +16229,13 @@ electronic_resistor_0603_120_ohm:
     md5_6: '825828'
     name: Electronic Resistor 0603 120 Ohm
     oomp_key: oomp_electronic_resistor_0603_120_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o121
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16157,9 +16266,13 @@ electronic_resistor_0603_12_ohm:
     md5_6: 1559b8
     name: Electronic Resistor 0603 12 Ohm
     oomp_key: oomp_electronic_resistor_0603_12_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o120
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16190,9 +16303,13 @@ electronic_resistor_0603_15000_ohm:
     md5_6: 4eb5f5
     name: Electronic Resistor 0603 15000 Ohm
     oomp_key: oomp_electronic_resistor_0603_15000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o153
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16223,9 +16340,13 @@ electronic_resistor_0603_1500_ohm:
     md5_6: 2f65c7
     name: Electronic Resistor 0603 1500 Ohm
     oomp_key: oomp_electronic_resistor_0603_1500_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o152
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16256,9 +16377,13 @@ electronic_resistor_0603_150_ohm:
     md5_6: 84ae3b
     name: Electronic Resistor 0603 150 Ohm
     oomp_key: oomp_electronic_resistor_0603_150_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o151
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16289,9 +16414,13 @@ electronic_resistor_0603_15_ohm:
     md5_6: 05511c
     name: Electronic Resistor 0603 15 Ohm
     oomp_key: oomp_electronic_resistor_0603_15_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o150
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16322,9 +16451,13 @@ electronic_resistor_0603_18000_ohm:
     md5_6: fa25d2
     name: Electronic Resistor 0603 18000 Ohm
     oomp_key: oomp_electronic_resistor_0603_18000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o183
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16355,9 +16488,13 @@ electronic_resistor_0603_1800_ohm:
     md5_6: 24d8c5
     name: Electronic Resistor 0603 1800 Ohm
     oomp_key: oomp_electronic_resistor_0603_1800_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o182
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16388,9 +16525,13 @@ electronic_resistor_0603_180_ohm:
     md5_6: 8e42ec
     name: Electronic Resistor 0603 180 Ohm
     oomp_key: oomp_electronic_resistor_0603_180_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o181
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16421,9 +16562,13 @@ electronic_resistor_0603_18_ohm:
     md5_6: ff567d
     name: Electronic Resistor 0603 18 Ohm
     oomp_key: oomp_electronic_resistor_0603_18_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o180
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16454,9 +16599,13 @@ electronic_resistor_0603_22000_ohm:
     md5_6: 1fe713
     name: Electronic Resistor 0603 22000 Ohm
     oomp_key: oomp_electronic_resistor_0603_22000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o223
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16487,9 +16636,13 @@ electronic_resistor_0603_2200_ohm:
     md5_6: '312403'
     name: Electronic Resistor 0603 2200 Ohm
     oomp_key: oomp_electronic_resistor_0603_2200_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o222
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16520,9 +16673,13 @@ electronic_resistor_0603_220_ohm:
     md5_6: 0fe784
     name: Electronic Resistor 0603 220 Ohm
     oomp_key: oomp_electronic_resistor_0603_220_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o221
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16553,9 +16710,13 @@ electronic_resistor_0603_22_ohm:
     md5_6: c05ffa
     name: Electronic Resistor 0603 22 Ohm
     oomp_key: oomp_electronic_resistor_0603_22_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o220
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16586,9 +16747,13 @@ electronic_resistor_0603_27000_ohm:
     md5_6: 385d59
     name: Electronic Resistor 0603 27000 Ohm
     oomp_key: oomp_electronic_resistor_0603_27000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o273
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16619,9 +16784,13 @@ electronic_resistor_0603_2700_ohm:
     md5_6: aa96c6
     name: Electronic Resistor 0603 2700 Ohm
     oomp_key: oomp_electronic_resistor_0603_2700_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o272
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16652,9 +16821,13 @@ electronic_resistor_0603_270_ohm:
     md5_6: a1e4a9
     name: Electronic Resistor 0603 270 Ohm
     oomp_key: oomp_electronic_resistor_0603_270_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o271
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16685,9 +16858,13 @@ electronic_resistor_0603_27_ohm:
     md5_6: e595d5
     name: Electronic Resistor 0603 27 Ohm
     oomp_key: oomp_electronic_resistor_0603_27_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o270
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16718,9 +16895,13 @@ electronic_resistor_0603_33000_ohm:
     md5_6: 596e08
     name: Electronic Resistor 0603 33000 Ohm
     oomp_key: oomp_electronic_resistor_0603_33000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o333
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16751,9 +16932,13 @@ electronic_resistor_0603_3300_ohm:
     md5_6: 24b74f
     name: Electronic Resistor 0603 3300 Ohm
     oomp_key: oomp_electronic_resistor_0603_3300_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o332
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16784,9 +16969,13 @@ electronic_resistor_0603_330_ohm:
     md5_6: 5ca593
     name: Electronic Resistor 0603 330 Ohm
     oomp_key: oomp_electronic_resistor_0603_330_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o331
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16817,9 +17006,13 @@ electronic_resistor_0603_33_ohm:
     md5_6: 0a830d
     name: Electronic Resistor 0603 33 Ohm
     oomp_key: oomp_electronic_resistor_0603_33_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o330
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16850,9 +17043,13 @@ electronic_resistor_0603_39000_ohm:
     md5_6: c60bfb
     name: Electronic Resistor 0603 39000 Ohm
     oomp_key: oomp_electronic_resistor_0603_39000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o393
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16883,9 +17080,13 @@ electronic_resistor_0603_3900_ohm:
     md5_6: 5dfede
     name: Electronic Resistor 0603 3900 Ohm
     oomp_key: oomp_electronic_resistor_0603_3900_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o392
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16916,9 +17117,13 @@ electronic_resistor_0603_390_ohm:
     md5_6: a4f299
     name: Electronic Resistor 0603 390 Ohm
     oomp_key: oomp_electronic_resistor_0603_390_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o391
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16949,9 +17154,13 @@ electronic_resistor_0603_39_ohm:
     md5_6: a487b1
     name: Electronic Resistor 0603 39 Ohm
     oomp_key: oomp_electronic_resistor_0603_39_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o390
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -16982,9 +17191,13 @@ electronic_resistor_0603_47000_ohm:
     md5_6: cb6d6e
     name: Electronic Resistor 0603 47000 Ohm
     oomp_key: oomp_electronic_resistor_0603_47000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o473
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17015,9 +17228,13 @@ electronic_resistor_0603_4700_ohm:
     md5_6: '778076'
     name: Electronic Resistor 0603 4700 Ohm
     oomp_key: oomp_electronic_resistor_0603_4700_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o472
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17048,9 +17265,13 @@ electronic_resistor_0603_470_ohm:
     md5_6: 1f6539
     name: Electronic Resistor 0603 470 Ohm
     oomp_key: oomp_electronic_resistor_0603_470_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o471
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17081,9 +17302,13 @@ electronic_resistor_0603_47_ohm:
     md5_6: a7ac6c
     name: Electronic Resistor 0603 47 Ohm
     oomp_key: oomp_electronic_resistor_0603_47_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o470
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17114,9 +17339,13 @@ electronic_resistor_0603_56000_ohm:
     md5_6: 5e9924
     name: Electronic Resistor 0603 56000 Ohm
     oomp_key: oomp_electronic_resistor_0603_56000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o563
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17147,9 +17376,13 @@ electronic_resistor_0603_5600_ohm:
     md5_6: 18de6f
     name: Electronic Resistor 0603 5600 Ohm
     oomp_key: oomp_electronic_resistor_0603_5600_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o562
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17180,9 +17413,13 @@ electronic_resistor_0603_560_ohm:
     md5_6: '187685'
     name: Electronic Resistor 0603 560 Ohm
     oomp_key: oomp_electronic_resistor_0603_560_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o561
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17213,9 +17450,13 @@ electronic_resistor_0603_56_ohm:
     md5_6: 136ec9
     name: Electronic Resistor 0603 56 Ohm
     oomp_key: oomp_electronic_resistor_0603_56_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o560
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17246,9 +17487,13 @@ electronic_resistor_0603_68000_ohm:
     md5_6: 6a92e2
     name: Electronic Resistor 0603 68000 Ohm
     oomp_key: oomp_electronic_resistor_0603_68000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o683
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17279,9 +17524,13 @@ electronic_resistor_0603_6800_ohm:
     md5_6: d033b8
     name: Electronic Resistor 0603 6800 Ohm
     oomp_key: oomp_electronic_resistor_0603_6800_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o682
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17312,9 +17561,13 @@ electronic_resistor_0603_680_ohm:
     md5_6: 03b8f9
     name: Electronic Resistor 0603 680 Ohm
     oomp_key: oomp_electronic_resistor_0603_680_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o681
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17345,9 +17598,13 @@ electronic_resistor_0603_68_ohm:
     md5_6: e9d76e
     name: Electronic Resistor 0603 68 Ohm
     oomp_key: oomp_electronic_resistor_0603_68_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o680
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17378,9 +17635,13 @@ electronic_resistor_0603_82000_ohm:
     md5_6: 40bbdf
     name: Electronic Resistor 0603 82000 Ohm
     oomp_key: oomp_electronic_resistor_0603_82000_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o823
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17411,9 +17672,13 @@ electronic_resistor_0603_8200_ohm:
     md5_6: a922b9
     name: Electronic Resistor 0603 8200 Ohm
     oomp_key: oomp_electronic_resistor_0603_8200_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o822
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17444,9 +17709,13 @@ electronic_resistor_0603_820_ohm:
     md5_6: '872386'
     name: Electronic Resistor 0603 820 Ohm
     oomp_key: oomp_electronic_resistor_0603_820_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o821
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
@@ -17477,9 +17746,13 @@ electronic_resistor_0603_82_ohm:
     md5_6: 825d75
     name: Electronic Resistor 0603 82 Ohm
     oomp_key: oomp_electronic_resistor_0603_82_ohm
+    package_style: smd_tape
     part_number: ''
     short_code: r6o820
     size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

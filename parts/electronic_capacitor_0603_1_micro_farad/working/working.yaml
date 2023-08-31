@@ -21,9 +21,13 @@ md5_5: e7a23
 md5_6: e7a23d
 name: Electronic Capacitor 0603 1 Micro Farad
 oomp_key: oomp_electronic_capacitor_0603_1_micro_farad
+package_style: smd_tape
 part_number: ''
 short_code: c6uf1
 size: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
