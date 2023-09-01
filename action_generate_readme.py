@@ -35,6 +35,10 @@ def main(**kwargs):
         footprints = part2.get("footprint", [])
         for footprint in footprints:
             footprint["directory"] = footprint["directory"].replace("working.kicad_mod", "")
+            if "link" in footprint:
+                footprint["link"] = footprint["link"].replace("foootprntss","footprints")
+
+        
 
         markdown_string = jinja2.Template(markdown_string).render(p=part2)
         with open(file_readme, "w") as outfile:

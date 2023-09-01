@@ -27,7 +27,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_led_tht_led_d10_0mm  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm/working  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_tht_led_d10_0mm/working  
 
 ## full_summary
 | name | value | 

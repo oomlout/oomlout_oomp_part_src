@@ -27,7 +27,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric/working  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_smd_r_0805_2012metric/working  
 
 ## full_summary
 | name | value | 

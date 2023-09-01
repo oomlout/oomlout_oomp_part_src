@@ -53,7 +53,7 @@ List of Pins:
 
 ![](footprint/0/working/working_600.png)  
 oomp_key: oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm/working  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm/working  
 
 ## full_summary
 | name | value | 
