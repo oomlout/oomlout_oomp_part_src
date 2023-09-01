@@ -24,7 +24,10 @@ def main():
                         os.remove(dst)
                     #copy src to dst using shutil
                     
-                    shutil.copyfile(src, dst)
+                    try:
+                        shutil.copyfile(src, dst)
+                    except:
+                        print(f"could not copy {src} to {dst}")
                 
 
 
