@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 14_pin
+directory: parts/electronic_header_1d27_mm_14_pin
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_1_27mm_pinheader_1x14_p1_27mm_vertical//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_1_27mm_pinheader_1x14_p1_27mm_vertical
+    oomp_key: oomp_kicad_connector_pinheader_1_27mm_pinheader_1x14_p1_27mm_vertical
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_14_pin/working
+id: electronic_header_1d27_mm_14_pin
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+md5: 1a2aef2140c39b61911da17e50dd4cd3
+md5_10: 1a2aef2140
+md5_5: 1a2ae
+md5_6: 1a2aef
+name: Electronic Header 1D27 Mm 14 Pin
+oomp_key: oomp_electronic_header_1d27_mm_14_pin
+part_number: ''
+short_code: h14p
+size: 1d27_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x14_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x14_pin
+    oomp_key: oomp_kicad_connector_conn_01x14_pin
+type: header

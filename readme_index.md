@@ -199,6 +199,28 @@
 [oomp_electronic_header_2d54_mm_40_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_40_pin_surface_mount/working)   
 [oomp_electronic_header_2d54_mm_40_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_40_pin/working)   
 [oomp_electronic_header_2d54_mm_40_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_40_pin_surface_mount_right_angle/working)   
+### 1d27_mm   
+####    
+[oomp_electronic_header_1d27_mm_1_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_1_pin/working)   
+[oomp_electronic_header_1d27_mm_2_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_2_pin/working)   
+[oomp_electronic_header_1d27_mm_3_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_3_pin/working)   
+[oomp_electronic_header_1d27_mm_4_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_4_pin/working)   
+[oomp_electronic_header_1d27_mm_5_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_5_pin/working)   
+[oomp_electronic_header_1d27_mm_6_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_6_pin/working)   
+[oomp_electronic_header_1d27_mm_7_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_7_pin/working)   
+[oomp_electronic_header_1d27_mm_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_8_pin/working)   
+[oomp_electronic_header_1d27_mm_9_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_9_pin/working)   
+[oomp_electronic_header_1d27_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working)   
+[oomp_electronic_header_1d27_mm_11_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_11_pin/working)   
+[oomp_electronic_header_1d27_mm_12_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_12_pin/working)   
+[oomp_electronic_header_1d27_mm_13_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_13_pin/working)   
+[oomp_electronic_header_1d27_mm_14_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_14_pin/working)   
+[oomp_electronic_header_1d27_mm_15_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_15_pin/working)   
+[oomp_electronic_header_1d27_mm_16_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_16_pin/working)   
+[oomp_electronic_header_1d27_mm_17_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_17_pin/working)   
+[oomp_electronic_header_1d27_mm_18_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_18_pin/working)   
+[oomp_electronic_header_1d27_mm_19_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_19_pin/working)   
+[oomp_electronic_header_1d27_mm_20_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_20_pin/working)   
 ### 2_mm_jst_ph   
 ####    
 [oomp_electronic_header_2_mm_jst_ph_1_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_mm_jst_ph_1_pin_right_angle/working)   

@@ -1,0 +1,29 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12_pin
+directory: parts/electronic_header_1d27_mm_12_pin
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_1_27mm_pinheader_1x12_p1_27mm_vertical//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_1_27mm_pinheader_1x12_p1_27mm_vertical
+    oomp_key: oomp_kicad_connector_pinheader_1_27mm_pinheader_1x12_p1_27mm_vertical
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_12_pin/working
+id: electronic_header_1d27_mm_12_pin
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+md5: 19fcd4a82f52130b14ac5b56c643890e
+md5_10: 19fcd4a82f
+md5_5: 19fcd
+md5_6: 19fcd4
+name: Electronic Header 1D27 Mm 12 Pin
+oomp_key: oomp_electronic_header_1d27_mm_12_pin
+part_number: ''
+short_code: h12p
+size: 1d27_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x12_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x12_pin
+    oomp_key: oomp_kicad_connector_conn_01x12_pin
+type: header

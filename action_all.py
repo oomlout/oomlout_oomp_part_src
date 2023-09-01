@@ -14,7 +14,7 @@ def main():
     import action_generate_image_resolutions
     print("Generating image resolutions")
     action_generate_image_resolutions.main()
-    
+
     import action_copy_src_to_directories
     print("Copying src to directories")
     action_copy_src_to_directories.main()
@@ -27,6 +27,9 @@ def main():
     print("Generating readme index")
     action_generate_readme_index.main()    
     
+    import action_generate_outputs
+    print("Generating outputs")
+    action_generate_outputs.main()
 
     comment = "added auto index generation"
     #oom_git.push_to_git(comment=comment)

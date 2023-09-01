@@ -37,6 +37,10 @@ def get_lcsc(**kwargs):
     matches.append({"id":"oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
                     "part_number": "C475717"})
 
+    # header
+    matches.append({"id":"oomp_electronic_header_1d27_mm_6_pin",
+                    "part_number": "C2935946"})
+
     # ic
     #      atmega328
     matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",

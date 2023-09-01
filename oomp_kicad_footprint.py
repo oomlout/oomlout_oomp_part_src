@@ -82,6 +82,16 @@ def get_footprints(**kwargs):
             match["description_extra"] = "surface_mount_right_angle"
             match["footprint_name"] = f"kicad_connector_harwin_harwin_m20_890{pin_s}xx_1x{pin_s}_p2_54mm_horizontal"
             matches.append(match) 
+            
+        if pin_count < 21 and pin_count > 2 : ##skip the 10 plus varriants
+            match = {}
+            match["type"] = "header"
+            match["size"] = "1d27_mm"
+            match["description_main"] = f"{pin_count}_pin"
+            match["description_extra"] = ""
+            match["footprint_name"] = f"kicad_connector_pinheader_1_27mm_pinheader_1x{pin_s}_p1_27mm_vertical"
+            matches.append(match) 
+            
         if pin_count > 1: ##skip the 1 pin varriant
             #jst sh
             match = {}
