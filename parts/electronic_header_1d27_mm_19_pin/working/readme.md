@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_19_pin 
-* short_code: h19p
+* short_code: h1d2719p
 * md5_6: c3d876  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_19_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_19_pin/working | 
 | directory | parts/electronic_header_1d27_mm_19_pin | 
 | name | Electronic Header 1D27 Mm 19 Pin | 
-| short_code | h19p | 
+| short_code | h1d2719p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | c3d8769320e5fa6e08d6190eccad50b5 | 

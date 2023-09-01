@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_3_pin 
-* short_code: h3p
+* short_code: h1d273p
 * md5_6: 173b65  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_3_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_3_pin/working | 
 | directory | parts/electronic_header_1d27_mm_3_pin | 
 | name | Electronic Header 1D27 Mm 3 Pin | 
-| short_code | h3p | 
+| short_code | h1d273p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 173b65fe15927ed18b1237a238ba99f4 | 

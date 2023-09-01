@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_8_pin 
-* short_code: h8p
+* short_code: h1d278p
 * md5_6: 546235  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_8_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_8_pin/working | 
 | directory | parts/electronic_header_1d27_mm_8_pin | 
 | name | Electronic Header 1D27 Mm 8 Pin | 
-| short_code | h8p | 
+| short_code | h1d278p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 546235b23247c4056e104749efef73f2 | 

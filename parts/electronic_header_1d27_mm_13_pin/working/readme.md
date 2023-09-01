@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_13_pin 
-* short_code: h13p
+* short_code: h1d2713p
 * md5_6: f3bb94  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_13_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_13_pin/working | 
 | directory | parts/electronic_header_1d27_mm_13_pin | 
 | name | Electronic Header 1D27 Mm 13 Pin | 
-| short_code | h13p | 
+| short_code | h1d2713p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | f3bb94f619e5f34b25694247f456901e | 

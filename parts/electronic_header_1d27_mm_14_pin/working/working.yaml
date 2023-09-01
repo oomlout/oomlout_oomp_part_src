@@ -20,7 +20,7 @@ md5_6: 1a2aef
 name: Electronic Header 1D27 Mm 14 Pin
 oomp_key: oomp_electronic_header_1d27_mm_14_pin
 part_number: ''
-short_code: h14p
+short_code: h1d2714p
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x14_pin//working/working.kicad_sym

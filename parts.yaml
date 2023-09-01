@@ -1992,7 +1992,7 @@ electronic_header_1d27_mm_10_pin:
     name: Electronic Header 1D27 Mm 10 Pin
     oomp_key: oomp_electronic_header_1d27_mm_10_pin
     part_number: ''
-    short_code: h10p
+    short_code: h1d2710p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym
@@ -2023,7 +2023,7 @@ electronic_header_1d27_mm_11_pin:
     name: Electronic Header 1D27 Mm 11 Pin
     oomp_key: oomp_electronic_header_1d27_mm_11_pin
     part_number: ''
-    short_code: h11p
+    short_code: h1d2711p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x11_pin//working/working.kicad_sym
@@ -2054,7 +2054,7 @@ electronic_header_1d27_mm_12_pin:
     name: Electronic Header 1D27 Mm 12 Pin
     oomp_key: oomp_electronic_header_1d27_mm_12_pin
     part_number: ''
-    short_code: h12p
+    short_code: h1d2712p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x12_pin//working/working.kicad_sym
@@ -2085,7 +2085,7 @@ electronic_header_1d27_mm_13_pin:
     name: Electronic Header 1D27 Mm 13 Pin
     oomp_key: oomp_electronic_header_1d27_mm_13_pin
     part_number: ''
-    short_code: h13p
+    short_code: h1d2713p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x13_pin//working/working.kicad_sym
@@ -2116,7 +2116,7 @@ electronic_header_1d27_mm_14_pin:
     name: Electronic Header 1D27 Mm 14 Pin
     oomp_key: oomp_electronic_header_1d27_mm_14_pin
     part_number: ''
-    short_code: h14p
+    short_code: h1d2714p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x14_pin//working/working.kicad_sym
@@ -2147,7 +2147,7 @@ electronic_header_1d27_mm_15_pin:
     name: Electronic Header 1D27 Mm 15 Pin
     oomp_key: oomp_electronic_header_1d27_mm_15_pin
     part_number: ''
-    short_code: h15p
+    short_code: h1d2715p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x15_pin//working/working.kicad_sym
@@ -2178,7 +2178,7 @@ electronic_header_1d27_mm_16_pin:
     name: Electronic Header 1D27 Mm 16 Pin
     oomp_key: oomp_electronic_header_1d27_mm_16_pin
     part_number: ''
-    short_code: h16p
+    short_code: h1d2716p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x16_pin//working/working.kicad_sym
@@ -2209,7 +2209,7 @@ electronic_header_1d27_mm_17_pin:
     name: Electronic Header 1D27 Mm 17 Pin
     oomp_key: oomp_electronic_header_1d27_mm_17_pin
     part_number: ''
-    short_code: h17p
+    short_code: h1d2717p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x17_pin//working/working.kicad_sym
@@ -2240,7 +2240,7 @@ electronic_header_1d27_mm_18_pin:
     name: Electronic Header 1D27 Mm 18 Pin
     oomp_key: oomp_electronic_header_1d27_mm_18_pin
     part_number: ''
-    short_code: h18p
+    short_code: h1d2718p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x18_pin//working/working.kicad_sym
@@ -2271,7 +2271,7 @@ electronic_header_1d27_mm_19_pin:
     name: Electronic Header 1D27 Mm 19 Pin
     oomp_key: oomp_electronic_header_1d27_mm_19_pin
     part_number: ''
-    short_code: h19p
+    short_code: h1d2719p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x19_pin//working/working.kicad_sym
@@ -2298,7 +2298,7 @@ electronic_header_1d27_mm_1_pin:
     name: Electronic Header 1D27 Mm 1 Pin
     oomp_key: oomp_electronic_header_1d27_mm_1_pin
     part_number: ''
-    short_code: h1p
+    short_code: h1d271p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym
@@ -2329,7 +2329,7 @@ electronic_header_1d27_mm_20_pin:
     name: Electronic Header 1D27 Mm 20 Pin
     oomp_key: oomp_electronic_header_1d27_mm_20_pin
     part_number: ''
-    short_code: h20p
+    short_code: h1d2720p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x20_pin//working/working.kicad_sym
@@ -2356,7 +2356,7 @@ electronic_header_1d27_mm_2_pin:
     name: Electronic Header 1D27 Mm 2 Pin
     oomp_key: oomp_electronic_header_1d27_mm_2_pin
     part_number: ''
-    short_code: h2p
+    short_code: h1d272p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym
@@ -2387,7 +2387,7 @@ electronic_header_1d27_mm_3_pin:
     name: Electronic Header 1D27 Mm 3 Pin
     oomp_key: oomp_electronic_header_1d27_mm_3_pin
     part_number: ''
-    short_code: h3p
+    short_code: h1d273p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x03_pin//working/working.kicad_sym
@@ -2418,7 +2418,7 @@ electronic_header_1d27_mm_4_pin:
     name: Electronic Header 1D27 Mm 4 Pin
     oomp_key: oomp_electronic_header_1d27_mm_4_pin
     part_number: ''
-    short_code: h4p
+    short_code: h1d274p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x04_pin//working/working.kicad_sym
@@ -2449,7 +2449,7 @@ electronic_header_1d27_mm_5_pin:
     name: Electronic Header 1D27 Mm 5 Pin
     oomp_key: oomp_electronic_header_1d27_mm_5_pin
     part_number: ''
-    short_code: h5p
+    short_code: h1d275p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x05_pin//working/working.kicad_sym
@@ -2484,7 +2484,7 @@ electronic_header_1d27_mm_6_pin:
     name: Electronic Header 1D27 Mm 6 Pin
     oomp_key: oomp_electronic_header_1d27_mm_6_pin
     part_number: ''
-    short_code: h6p
+    short_code: h1d276p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym
@@ -2515,7 +2515,7 @@ electronic_header_1d27_mm_7_pin:
     name: Electronic Header 1D27 Mm 7 Pin
     oomp_key: oomp_electronic_header_1d27_mm_7_pin
     part_number: ''
-    short_code: h7p
+    short_code: h1d277p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym
@@ -2546,7 +2546,7 @@ electronic_header_1d27_mm_8_pin:
     name: Electronic Header 1D27 Mm 8 Pin
     oomp_key: oomp_electronic_header_1d27_mm_8_pin
     part_number: ''
-    short_code: h8p
+    short_code: h1d278p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym
@@ -2577,7 +2577,7 @@ electronic_header_1d27_mm_9_pin:
     name: Electronic Header 1D27 Mm 9 Pin
     oomp_key: oomp_electronic_header_1d27_mm_9_pin
     part_number: ''
-    short_code: h9p
+    short_code: h1d279p
     size: 1d27_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym

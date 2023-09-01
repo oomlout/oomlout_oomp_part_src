@@ -20,7 +20,7 @@ md5_6: d63f95
 name: Electronic Header 1D27 Mm 20 Pin
 oomp_key: oomp_electronic_header_1d27_mm_20_pin
 part_number: ''
-short_code: h20p
+short_code: h1d2720p
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x20_pin//working/working.kicad_sym

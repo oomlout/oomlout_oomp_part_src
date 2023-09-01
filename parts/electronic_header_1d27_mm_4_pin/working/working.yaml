@@ -20,7 +20,7 @@ md5_6: dd557d
 name: Electronic Header 1D27 Mm 4 Pin
 oomp_key: oomp_electronic_header_1d27_mm_4_pin
 part_number: ''
-short_code: h4p
+short_code: h1d274p
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x04_pin//working/working.kicad_sym

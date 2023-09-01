@@ -16,7 +16,7 @@ md5_6: efd3c9
 name: Electronic Header 1D27 Mm 2 Pin
 oomp_key: oomp_electronic_header_1d27_mm_2_pin
 part_number: ''
-short_code: h2p
+short_code: h1d272p
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym

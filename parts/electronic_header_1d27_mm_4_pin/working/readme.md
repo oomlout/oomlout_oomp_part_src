@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_4_pin 
-* short_code: h4p
+* short_code: h1d274p
 * md5_6: dd557d  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_4_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_4_pin/working | 
 | directory | parts/electronic_header_1d27_mm_4_pin | 
 | name | Electronic Header 1D27 Mm 4 Pin | 
-| short_code | h4p | 
+| short_code | h1d274p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | dd557d63080e9ab174926f1fa7ac372e | 

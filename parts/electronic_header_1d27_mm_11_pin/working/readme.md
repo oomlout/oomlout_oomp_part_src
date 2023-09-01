@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_11_pin 
-* short_code: h11p
+* short_code: h1d2711p
 * md5_6: 453552  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_11_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_11_pin/working | 
 | directory | parts/electronic_header_1d27_mm_11_pin | 
 | name | Electronic Header 1D27 Mm 11 Pin | 
-| short_code | h11p | 
+| short_code | h1d2711p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 4535520c7f1e277905b36a71aa7d7a1e | 

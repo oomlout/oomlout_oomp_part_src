@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_7_pin 
-* short_code: h7p
+* short_code: h1d277p
 * md5_6: 469ff7  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_7_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_7_pin/working | 
 | directory | parts/electronic_header_1d27_mm_7_pin | 
 | name | Electronic Header 1D27 Mm 7 Pin | 
-| short_code | h7p | 
+| short_code | h1d277p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 469ff7c3bbfe9dfc71b9600db7b20430 | 

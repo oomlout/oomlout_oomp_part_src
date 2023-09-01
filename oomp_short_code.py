@@ -30,8 +30,9 @@ def get_short_code(**kwargs):
     #loop for all mm sizes
     for mm in range(1, 100):
         replace_dict["size"][f"{mm}_mm"] = f"{mm}"
-    replace_dict["size"][f"2d54_mm"] = f"i1"
+    replace_dict["size"][f"2d54_mm"] = f"i1"    
     replace_dict["size"][f"2d54_mm_dual_row"] = f"i1"
+    replace_dict["size"][f"1d27_mm"] = f"1d27"
     #loop for m1 to m10
     for m in range(1, 10):
         replace_dict["size"][f"m{m}"] = f"m{m}"

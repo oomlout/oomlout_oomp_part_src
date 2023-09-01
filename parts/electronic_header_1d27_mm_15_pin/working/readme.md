@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_15_pin 
-* short_code: h15p
+* short_code: h1d2715p
 * md5_6: 76eea1  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_15_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_15_pin/working | 
 | directory | parts/electronic_header_1d27_mm_15_pin | 
 | name | Electronic Header 1D27 Mm 15 Pin | 
-| short_code | h15p | 
+| short_code | h1d2715p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 76eea1d13b50cb563589c9159f8ec782 | 

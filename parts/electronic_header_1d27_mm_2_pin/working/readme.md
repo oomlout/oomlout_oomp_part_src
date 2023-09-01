@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_2_pin 
-* short_code: h2p
+* short_code: h1d272p
 * md5_6: efd3c9  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_2_pin/working  
 ## naming details
@@ -42,7 +42,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_2_pin/working | 
 | directory | parts/electronic_header_1d27_mm_2_pin | 
 | name | Electronic Header 1D27 Mm 2 Pin | 
-| short_code | h2p | 
+| short_code | h1d272p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | efd3c9a64afb7e61f1ad814359305701 | 

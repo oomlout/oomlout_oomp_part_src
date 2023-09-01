@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_16_pin 
-* short_code: h16p
+* short_code: h1d2716p
 * md5_6: 595b90  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_16_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_16_pin/working | 
 | directory | parts/electronic_header_1d27_mm_16_pin | 
 | name | Electronic Header 1D27 Mm 16 Pin | 
-| short_code | h16p | 
+| short_code | h1d2716p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 595b9055e161712900e6dc2d04e8d1fd | 

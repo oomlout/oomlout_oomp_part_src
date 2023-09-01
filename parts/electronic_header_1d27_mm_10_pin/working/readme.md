@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_1d27_mm_10_pin 
-* short_code: h10p
+* short_code: h1d2710p
 * md5_6: f8c1c6  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working  
 ## naming details
@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working | 
 | directory | parts/electronic_header_1d27_mm_10_pin | 
 | name | Electronic Header 1D27 Mm 10 Pin | 
-| short_code | h10p | 
+| short_code | h1d2710p | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | f8c1c6941c25869662eb7908d8db7c14 | 
