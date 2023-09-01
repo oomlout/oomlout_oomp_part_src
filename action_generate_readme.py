@@ -32,7 +32,9 @@ def main(**kwargs):
         import copy
         part2 = copy.deepcopy(part)
         
-        
+        footprints = part2.get("footprint", [])
+        for footprint in footprints:
+            footprint["directory"] = footprint["directory"].replace("working.kicad_mod", "")
 
         markdown_string = jinja2.Template(markdown_string).render(p=part2)
         with open(file_readme, "w") as outfile:
