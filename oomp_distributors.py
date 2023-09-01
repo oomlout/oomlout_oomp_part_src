@@ -19,7 +19,7 @@ def get_lcsc(**kwargs):
 
     # capacitor
     part = "oomp_electronic_capacitor_0603_100_nano_farad"
-    matches.append({"id":part, "part_number": "C14663A"})
+    matches.append({"id":part, "part_number": "C14663"})
     matches.append({"id":part, "part_number": "C30926"})
 
     matches.append({"id":"oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt",

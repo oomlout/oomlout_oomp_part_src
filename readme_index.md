@@ -361,6 +361,9 @@
 ### tqfp_32   
 #### mcu   
 [oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)   
+### lga_2_5_mm_x_2_5_mm_8_pin   
+#### sensor   
+[oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)   
 ### sop_16   
 #### converter   
 [oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)   

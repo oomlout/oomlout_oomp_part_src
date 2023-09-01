@@ -46,6 +46,7 @@ This is composed of up to eight parts. Not all parts are neccesary and are in fu
 ## actions
 
 * action_setup.py -- gets everything setup
+* action_all.py -- runs through everything, creates parts, makes readmes makes readme index, does image reolutions, copies files
 * action_copy_src_to_directories.py -- copy the details from the src directory to the various directories
 * action_generate_outputs -- generates symbol library and footprint library and readmes
 * action_generate_pinouts.py -- check all footprints for parts, if the part has a footprint, check if it has a pinout svg, if it does if it has pin names replace them and create.
