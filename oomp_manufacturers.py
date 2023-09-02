@@ -1,14 +1,46 @@
 import oomp
 
 def get_manufacturers(**kwargs):
-    kwargs = get_kyocera(**kwargs)   
+    kwargs = get_jst(**kwargs)   
+    kwargs = get_kyocera(**kwargs)       
     kwargs = get_lcsc(**kwargs)
+
     kwargs = get_microchip(**kwargs)
     kwargs = get_murata(**kwargs)
     kwargs = get_samsung(**kwargs)
     kwargs = get_uniroyal(**kwargs)
     kwargs = get_yageo(**kwargs)
 
+
+    return kwargs
+
+def get_jst(**kwargs):
+    matches = []
+    for pins in range(2, 11):
+        pins_s = str(pins).zfill(2)
+        matches.append({"id":f"electronic_header_1_mm_jst_sh_{pins}}_pin_surface_mount",
+                  "part_number": f"BM{pins_s}B-SRSS-TB"})
+        matches.append({"id":f"electronic_header_1_mm_jst_sh_{pins}}_pin_surface_mount_right_angle",
+                  "part_number": f"SM{pins_s}B-SRSS-TB"})
+    
+
+    manufacturers = []
+    for match in matches:
+        #jus check th id
+        if match["id"].replace("oomp_","") in kwargs["id"]:
+            manufacturer_match = {}
+            manufacturer_match["name"] = "Kyocera"
+            manufacturer_match["part_number"] = match["part_number"]
+            manufacturer_match["link"] = f"https://search.kyocera-avx.com/search/{match['part_number']}"
+            manufacturer_match["id"] = "manufacturer_kyocera"            
+            manufacturers.append(manufacturer_match)
+    
+    #if there are no kwargs[distributers]
+    if "manufacturers" not in kwargs:
+        kwargs["manufacturers"] = []
+        
+    #add the manufacturers to kwargs[manufacturers]
+    kwargs["manufacturers"].extend(manufacturers)
 
     return kwargs
 

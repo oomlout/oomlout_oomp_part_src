@@ -43,18 +43,56 @@ def load_parts(**kwargs):
     #add the part to the list of parts
     parts.append(part_details)
 
-    #headers up to 10 pins
+    ###### jst
+    #      2d54 xh
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "header"
+    part_details["size"] = ["2d54_mm_jst_xh"]
+    part_details["color"] = [""]
+    part_details["description_main"] = []
+    # add 1- 10 _pin
+    for pin_count in range(2, 11):
+        part_details["description_main"].append(f"{pin_count}_pin")
+    part_details["description_extra"] = ["right_angle","surface_mount","","surface_mount_right_angle"]
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["kicad_reference"] = "J"
+    #add the part to the list of parts
+    parts.append(part_details)
+
+    """
+    
+    #      2 mm ph
     #define a part 
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "header"
-    part_details["size"] = ["2_mm_jst_ph","2d54_mm_jst_xh","1_mm_jst_sh"]
+    part_details["size"] = ["2_mm_jst_ph"]
     part_details["color"] = [""]
     part_details["description_main"] = []
     # add 1- 10 _pin
     for pin_count in range(1, 11):
         part_details["description_main"].append(f"{pin_count}_pin")
     part_details["description_extra"] = ["right_angle","surface_mount","","surface_mount_right_angle"]
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["kicad_reference"] = "J"
+    #add the part to the list of parts
+    parts.append(part_details)
+    """
+    
+    #      1_mm_sh    
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "header"
+    part_details["size"] = ["1_mm_jst_sh"]
+    part_details["color"] = [""]
+    part_details["description_main"] = []
+    # add 1- 10 _pin
+    for pin_count in range(2, 11):
+        part_details["description_main"].append(f"{pin_count}_pin")
+    part_details["description_extra"] = ["surface_mount","surface_mount_right_angle"]
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
     part_details["kicad_reference"] = "J"
