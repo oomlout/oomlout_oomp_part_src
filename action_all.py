@@ -19,6 +19,9 @@ def main():
     action_generate_image_resolutions.main()
 
     
+    import action_generate_pinouts
+    print("Generating pinouts")
+    action_generate_pinouts.main()
     
     import action_generate_readme
     print("Generating readme")
@@ -30,6 +33,7 @@ def main():
     import action_generate_outputs
     print("Generating outputs")
     action_generate_outputs.main()
+
 
     comment = "added auto index generation"
     #oom_git.push_to_git(comment=comment)

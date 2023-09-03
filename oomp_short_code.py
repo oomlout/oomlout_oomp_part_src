@@ -19,6 +19,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["diode_schottky"] = "ds"
     replace_dict["type"]["diode"] = "d"    
     replace_dict["type"]["ic"] = "i"
+    replace_dict["type"]["interposer"] = "in"
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["nettie"] = "nt"
     replace_dict["type"]["socket"] = "sc"
@@ -45,6 +46,7 @@ def get_short_code(**kwargs):
     replace_dict["size"]["3215"] = "3215"
     replace_dict["size"]["3213"] = "3213"
     replace_dict["size"]["3216_avx_a"] = "a"
+    replace_dict["size"]["soic_14_wide"] = "soic14w"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
     replace_dict["size"]["sod_123"] = "sod123"
     #replace_dict["size"]["lga_2_5_mm_x_2_5_mm_8_pin"] = "lg8"
@@ -95,6 +97,7 @@ def get_short_code(**kwargs):
 
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
+    replace_dict["description_main"]["i2c"] = "i2c"
     replace_dict["description_main"]["tinted"] = "t"
     replace_dict["description_main"]["1117"] = "1117"
 

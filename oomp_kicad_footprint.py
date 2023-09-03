@@ -117,6 +117,11 @@ def get_footprints(**kwargs):
     ###### ic
 
     match = {}
+    match["size"] = "soic_14_wide"
+    match["footprint"] = []
+    match["footprint_name"] = f"kicad_package_so_soic_14w_7_5x9mm_p1_27mm"
+    matches.append(match)  
+    match = {}
     match["size"] = "soic_28_wide"
     match["footprint"] = []
     match["footprint_name"] = f"kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm"

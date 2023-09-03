@@ -1,0 +1,87 @@
+classification: electronic
+color: ''
+description: An interposer between an i2c chip and a soic_14_wide package, The pins
+    are numbered in the reverse order of being expected because the footprint is used
+    as a mirror image, ie. it is the chip rather than a chuip being palced on it
+description_extra: ''
+description_main: i2c
+directory: parts/electronic_interposer_soic_14_wide_i2c
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+    oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c/working
+id: electronic_interposer_soic_14_wide_i2c
+kicad_reference: U
+manufacturer: ''
+manufacturers: []
+md5: 4154855421d4f1c8de607ae53b42a034
+md5_10: '4154855421'
+md5_5: '41548'
+md5_6: '415485'
+name: Electronic Interposer Soic 14 Wide I2C
+notes: []
+oomp_key: oomp_electronic_interposer_soic_14_wide_i2c
+part_number: ''
+pins:
+    pin_1:
+        name: pin_14
+        number: '1'
+        type: power
+    pin_10:
+        name: cs
+        number: '10'
+        type: signal
+    pin_11:
+        name: scl_3v3
+        number: '11'
+        type: signal
+    pin_12:
+        name: sda_3v3
+        number: '12'
+        type: signal
+    pin_13:
+        name: 3v3
+        number: '13'
+        type: signal
+    pin_14:
+        name: gnd
+        number: '14'
+        type: signal
+    pin_2:
+        name: pin_13
+        number: '2'
+        type: power
+    pin_3:
+        name: pin_12
+        number: '3'
+        type: signal
+    pin_4:
+        name: pin_11
+        number: '4'
+        type: signal
+    pin_5:
+        name: pin_10
+        number: '5'
+        type: signal
+    pin_6:
+        name: pin_9
+        number: '6'
+        type: signal
+    pin_7:
+        name: pin_8
+        number: '7'
+        type: signal
+    pin_8:
+        name: pin_7
+        number: '8'
+        type: signal
+    pin_9:
+        name: address
+        number: '9'
+        type: signal
+short_code: insoic14wi2c
+short_name: ''
+size: soic_14_wide
+type: interposer

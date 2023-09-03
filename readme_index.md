@@ -339,6 +339,10 @@
 ### soic_28_wide   
 #### led_driver   
 [oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)   
+## interposer   
+### soic_14_wide   
+####    
+[oomp_electronic_interposer_soic_14_wide_i2c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c/working)   
 ## led   
 ### 3_mm   
 ####    
