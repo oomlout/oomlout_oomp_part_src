@@ -79,7 +79,7 @@ def print_index(index, indent=0):
                 indentation = "  " * (indent + 1)
                 #return_value += indentation + "Link:", component.get("link", "") + "   \n"
                 url_base  = "https://github.com/oomlout/oomlout_oomp_part_src/tree/main"
-                return_value += f'[{component["oomp_key"]}]({url_base}/{component["directory"]}/working)   \n'
+                return_value += f'[{component["short_code"]} - {component["oomp_key"]}]({url_base}/{component["directory"]}/working)   \n'
                 #return_value += f'{indentation} Part Number:{component["part_number"]}   \n'
     return return_value                    
     
