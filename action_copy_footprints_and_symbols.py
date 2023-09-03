@@ -17,6 +17,8 @@ def main(** kwargs):
                 directory_item_src = f"tmp/{directory_item_original}"
                 #copy from src to dst overwrite if file exists using shutil
                 import shutil
+                #remove double slashes
+                directory_item_src = directory_item_src.replace("//","/")
                 shutil.copytree(directory_item_src, directory_item_dst, dirs_exist_ok=True)
                 print(f"copied {directory_item_src} to {directory_item_dst}")
                 count += 1

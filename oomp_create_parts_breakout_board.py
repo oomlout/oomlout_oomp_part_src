@@ -55,10 +55,6 @@ def load_parts(**kwargs):
     part_details["pins"] = pins
     part_details["kicad_reference"] = "U"
     part_details["notes"] = []
-    
-    
-
-    #add the part to the list of parts
     parts.append(part_details)
 
     

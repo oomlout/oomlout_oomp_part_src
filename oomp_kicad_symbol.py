@@ -136,6 +136,14 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_device_led"
     matches.append(match)
 
+    ###### mounting_hole
+
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "mounting_hole"
+    match["symbol_name"] = f"kicad_mechanical_mountinghole"
+    matches.append(match)
+
     ###### nettie
     nets = ["2","3","4"] 
     for net in nets:

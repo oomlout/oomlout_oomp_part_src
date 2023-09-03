@@ -220,22 +220,14 @@ def get_footprints(**kwargs):
     
 
 
-    ###### led
-
-    match = {}
-    match["classification"] = "electronic"
-    match["type"] = "led"
-    match["size"] = "5_mm"
-    match["footprint_name"] = f"kicad_led_tht_led_d5_00mm"
-    matches.append(match)  
-
     ###### mounting_holes
-
+    match = {}
     match["type"] = "mounting_hole"
     match["size"] = "m3"
     match["footprint_name"] = f"kicad_mountinghole_mountinghole_3_2mm_m3"
     matches.append(match)  
 
+    match = {}
     match["type"] = "mounting_hole"
     match["size"] = "m6"
     match["footprint_name"] = f"kicad_mountinghole_mountinghole_6_4mm_m6"
@@ -292,6 +284,9 @@ def get_footprints(**kwargs):
 
     footprints = []
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to footprints
+    if kwargs["type"] == "mounting_hole":    
+        pass
+
     for match in matches:
         if "footprint_name" in match:
             footprint_name = match["footprint_name"]

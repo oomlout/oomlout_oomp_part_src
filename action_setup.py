@@ -3,7 +3,7 @@ import oom_git
 
 def main():
     oomp.clone_data_files()
-    filter = "resistor"
+    filter = "mounting_hole"
     filter = ""
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()

@@ -165,6 +165,11 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["surface_mount"] = "sm"
     replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
 
+
+    # interposer ones
+    replace_dict["description_extra"]["helicopter"] = "heli"
+    replace_dict["description_extra"]["landing"] = "land"
+
     replace_dict["manufacturer"] = {}
     replace_dict["manufacturer"][""] = ""
 

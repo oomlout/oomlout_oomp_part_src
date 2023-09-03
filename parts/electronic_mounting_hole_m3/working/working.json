@@ -10,13 +10,6 @@
     "make_files": true,
     "kicad_reference": "H",
     "notes": [],
-    "symbol": [
-        {
-            "link": "https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole",
-            "oomp_key": "oomp_kicad_mechanical_mountinghole",
-            "directory": "oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym"
-        }
-    ],
     "id": "electronic_mounting_hole_m3",
     "oomp_key": "oomp_electronic_mounting_hole_m3",
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working",

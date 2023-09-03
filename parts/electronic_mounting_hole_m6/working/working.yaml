@@ -5,12 +5,9 @@ description_main: ''
 directory: parts/electronic_mounting_hole_m6
 distributors: []
 footprint:
-- &id001
-    directory: oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6
     oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
-- *id001
-- *id001
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working
 id: electronic_mounting_hole_m6
 kicad_reference: H

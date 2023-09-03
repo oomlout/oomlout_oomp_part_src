@@ -342,7 +342,8 @@
 ## interposer   
 ### soic_14_wide   
 ####    
-[oomp_electronic_interposer_soic_14_wide_i2c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c/working)   
+[oomp_electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)   
+[oomp_electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)   
 ## led   
 ### 3_mm   
 ####    

@@ -14,14 +14,16 @@ def main():
     print("Copying src to directories")
     action_copy_src_to_directories.main()
 
+
+    import action_generate_pinouts
+    print("Generating pinouts")
+    action_generate_pinouts.main()
+
     import action_generate_image_resolutions
     print("Generating image resolutions")
     action_generate_image_resolutions.main()
 
     
-    import action_generate_pinouts
-    print("Generating pinouts")
-    action_generate_pinouts.main()
     
     import action_generate_readme
     print("Generating readme")
