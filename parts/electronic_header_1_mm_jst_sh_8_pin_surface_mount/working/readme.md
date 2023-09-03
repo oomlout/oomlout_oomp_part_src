@@ -16,6 +16,8 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -45,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code | h8psm | 
 | short_name | Jst Sh 8 Pin Surface Mount Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM08B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | ff3161c7d8f065f7f00bf6bf9c79e3d4 | 
 | md5_5 | ff316 | 
 | md5_6 | ff3161 | 

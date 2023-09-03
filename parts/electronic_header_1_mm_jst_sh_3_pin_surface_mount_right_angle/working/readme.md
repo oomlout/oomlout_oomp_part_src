@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM03B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
+* [JST - SM03B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -50,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | h3psmra | 
 | short_name | Jst Sh 3 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM03B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}, {'name': 'JST', 'part_number': 'SM03B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | f8650f316ba5d2c2484f5444500fcf5a | 
 | md5_5 | f8650 | 
 | md5_6 | f8650f | 

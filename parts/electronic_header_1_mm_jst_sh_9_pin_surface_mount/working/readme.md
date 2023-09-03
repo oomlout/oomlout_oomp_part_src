@@ -16,6 +16,8 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -45,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code | h9psm | 
 | short_name | Jst Sh 9 Pin Surface Mount Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM09B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | 3392cfc59fa2610bf5afa029c396cd3b | 
 | md5_5 | 3392c | 
 | md5_6 | 3392cf | 

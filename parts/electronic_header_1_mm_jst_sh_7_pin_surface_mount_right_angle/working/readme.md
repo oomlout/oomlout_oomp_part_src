@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM07B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
+* [JST - SM07B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -50,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | h7psmra | 
 | short_name | Jst Sh 7 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM07B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}, {'name': 'JST', 'part_number': 'SM07B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | 9ca7b3f936efc0aaf745cecc64c2a58d | 
 | md5_5 | 9ca7b | 
 | md5_6 | 9ca7b3 | 

@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
+* [JST - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -50,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | h9psmra | 
 | short_name | Jst Sh 9 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM09B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}, {'name': 'JST', 'part_number': 'SM09B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | b3b7ebe08ada490a5787e2e427a8b0a7 | 
 | md5_5 | b3b7e | 
 | md5_6 | b3b7eb | 

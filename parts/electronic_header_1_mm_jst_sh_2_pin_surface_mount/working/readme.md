@@ -16,6 +16,8 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM02B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -45,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code | h2psm | 
 | short_name | Jst Sh 2 Pin Surface Mount Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM02B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | 27353995e7b694fe8ee36a94261c618a | 
 | md5_5 | 27353 | 
 | md5_6 | 273539 | 

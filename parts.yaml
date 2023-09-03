@@ -824,7 +824,11 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM10B-SRSS-TB
     md5: c55a433e60de35223d8099ac380205d3
     md5_10: c55a433e60
     md5_5: c55a4
@@ -856,7 +860,15 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM10B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM10B-SRSS-TB
     md5: a5d918c0b8320b129ac488715bf4593a
     md5_10: a5d918c0b8
     md5_5: a5d91
@@ -884,7 +896,11 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM02B-SRSS-TB
     md5: 27353995e7b694fe8ee36a94261c618a
     md5_10: 27353995e7
     md5_5: '27353'
@@ -916,7 +932,15 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM02B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM02B-SRSS-TB
     md5: b2ef5e80cc3cc2efc7191be597c89007
     md5_10: b2ef5e80cc
     md5_5: b2ef5
@@ -944,7 +968,11 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM03B-SRSS-TB
     md5: 4f48be0f10f6f95f2e37222254faae42
     md5_10: 4f48be0f10
     md5_5: 4f48b
@@ -976,7 +1004,15 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM03B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM03B-SRSS-TB
     md5: f8650f316ba5d2c2484f5444500fcf5a
     md5_10: f8650f316b
     md5_5: f8650
@@ -1004,7 +1040,11 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM04B-SRSS-TB
     md5: a679e860a819577244ae5cd400e79203
     md5_10: a679e860a8
     md5_5: a679e
@@ -1026,7 +1066,15 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle:
     description_extra: surface_mount_right_angle
     description_main: 4_pin
     directory: parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C145956.html
+        name: LCSC
+        part_number: C145956
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C2906270.html
+        name: LCSC
+        part_number: C2906270
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal//working/working.kicad_mod
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
@@ -1036,7 +1084,15 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM04B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM04B-SRSS-TB
     md5: adfe7739de3f358940b6ffe82829763f
     md5_10: adfe7739de
     md5_5: adfe7
@@ -1064,7 +1120,11 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM05B-SRSS-TB
     md5: c820e730a0b4955cce9ffd4df166c7c6
     md5_10: c820e730a0
     md5_5: c820e
@@ -1096,7 +1156,15 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM05B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM05B-SRSS-TB
     md5: af554da37be509b88081a95a39cfeda0
     md5_10: af554da37b
     md5_5: af554
@@ -1124,7 +1192,11 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM06B-SRSS-TB
     md5: 60628a62dc19146d0dc1b7f8792dfb76
     md5_10: 60628a62dc
     md5_5: '60628'
@@ -1156,7 +1228,15 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM06B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM06B-SRSS-TB
     md5: a5fcbe77cce947fd19b46eec74179034
     md5_10: a5fcbe77cc
     md5_5: a5fcb
@@ -1184,7 +1264,11 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM07B-SRSS-TB
     md5: 197c8f4709f8257a15b2f554b2d11f85
     md5_10: 197c8f4709
     md5_5: 197c8
@@ -1216,7 +1300,15 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM07B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM07B-SRSS-TB
     md5: 9ca7b3f936efc0aaf745cecc64c2a58d
     md5_10: 9ca7b3f936
     md5_5: 9ca7b
@@ -1244,7 +1336,11 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM08B-SRSS-TB
     md5: ff3161c7d8f065f7f00bf6bf9c79e3d4
     md5_10: ff3161c7d8
     md5_5: ff316
@@ -1276,7 +1372,15 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM08B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM08B-SRSS-TB
     md5: 5edabfa81f30624211df279c1553de3c
     md5_10: 5edabfa81f
     md5_5: 5edab
@@ -1304,7 +1408,11 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM09B-SRSS-TB
     md5: 3392cfc59fa2610bf5afa029c396cd3b
     md5_10: 3392cfc59f
     md5_5: 3392c
@@ -1336,7 +1444,15 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle:
     kicad_reference: J
     make_files: true
     manufacturer: ''
-    manufacturers: []
+    manufacturers:
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: BM09B-SRSS-TB
+    -   id: manufacturer_jst
+        link: https://www.jst-mfg.com/product/index.php?series=231
+        name: JST
+        part_number: SM09B-SRSS-TB
     md5: b3b7ebe08ada490a5787e2e427a8b0a7
     md5_10: b3b7ebe08a
     md5_5: b3b7e

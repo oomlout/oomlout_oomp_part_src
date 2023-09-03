@@ -16,6 +16,8 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -45,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code | h6psm | 
 | short_name | Jst Sh 6 Pin Surface Mount Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM06B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | 60628a62dc19146d0dc1b7f8792dfb76 | 
 | md5_5 | 60628 | 
 | md5_6 | 60628a | 

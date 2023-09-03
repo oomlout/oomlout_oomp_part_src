@@ -18,9 +18,9 @@ def get_jst(**kwargs):
     matches = []
     for pins in range(2, 11):
         pins_s = str(pins).zfill(2)
-        matches.append({"id":f"electronic_header_1_mm_jst_sh_{pins}}_pin_surface_mount",
+        matches.append({"id":f"electronic_header_1_mm_jst_sh_{pins}_pin_surface_mount",
                   "part_number": f"BM{pins_s}B-SRSS-TB"})
-        matches.append({"id":f"electronic_header_1_mm_jst_sh_{pins}}_pin_surface_mount_right_angle",
+        matches.append({"id":f"electronic_header_1_mm_jst_sh_{pins}_pin_surface_mount_right_angle",
                   "part_number": f"SM{pins_s}B-SRSS-TB"})
     
 
@@ -28,11 +28,15 @@ def get_jst(**kwargs):
     for match in matches:
         #jus check th id
         if match["id"].replace("oomp_","") in kwargs["id"]:
+
             manufacturer_match = {}
-            manufacturer_match["name"] = "Kyocera"
+            manufacturer_match["name"] = "JST"
             manufacturer_match["part_number"] = match["part_number"]
-            manufacturer_match["link"] = f"https://search.kyocera-avx.com/search/{match['part_number']}"
-            manufacturer_match["id"] = "manufacturer_kyocera"            
+            if "1_mm_jst_sh" in match["id"]:
+                manufacturer_match["link"] = f"https://www.jst-mfg.com/product/index.php?series=231"
+            else:
+                manufacturer_match["link"] = f"https://www.jst.com/?s={match['part_number']}"
+            manufacturer_match["id"] = "manufacturer_jst"            
             manufacturers.append(manufacturer_match)
     
     #if there are no kwargs[distributers]

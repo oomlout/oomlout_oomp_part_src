@@ -10,14 +10,14 @@ def main():
     print("Copying footprints and symbols")
     action_copy_footprints_and_symbols.main()
 
+    import action_copy_src_to_directories
+    print("Copying src to directories")
+    action_copy_src_to_directories.main()
 
     import action_generate_image_resolutions
     print("Generating image resolutions")
     action_generate_image_resolutions.main()
 
-    import action_copy_src_to_directories
-    print("Copying src to directories")
-    action_copy_src_to_directories.main()
     
     
     import action_generate_readme

@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
+* [JST - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -50,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | h6psmra | 
 | short_name | Jst Sh 6 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM06B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}, {'name': 'JST', 'part_number': 'SM06B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | a5fcbe77cce947fd19b46eec74179034 | 
 | md5_5 | a5fcb | 
 | md5_6 | a5fcbe | 

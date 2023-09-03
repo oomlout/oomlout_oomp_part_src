@@ -12,7 +12,15 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
 kicad_reference: J
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_jst
+    link: https://www.jst-mfg.com/product/index.php?series=231
+    name: JST
+    part_number: BM06B-SRSS-TB
+-   id: manufacturer_jst
+    link: https://www.jst-mfg.com/product/index.php?series=231
+    name: JST
+    part_number: SM06B-SRSS-TB
 md5: a5fcbe77cce947fd19b46eec74179034
 md5_10: a5fcbe77cc
 md5_5: a5fcb

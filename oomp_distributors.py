@@ -41,6 +41,17 @@ def get_lcsc(**kwargs):
     matches.append({"id":"oomp_electronic_header_1d27_mm_6_pin",
                     "part_number": "C2935946"})
 
+    #       jst
+    #            sh
+    matches.append({"id":"lectronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle",
+                    "part_number": "C145956"})
+    #matches.append({"id":"lectronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle",
+    #                "part_number": "C160404"})
+    matches.append({"id":"lectronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle",
+                    "part_number": "C2906270"})
+
+
+
     # ic
     #      atmega328
     matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",

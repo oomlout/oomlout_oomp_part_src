@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [JST - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
+* [JST - SM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -50,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | h8psmra | 
 | short_name | Jst Sh 8 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM08B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}, {'name': 'JST', 'part_number': 'SM08B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | 5edabfa81f30624211df279c1553de3c | 
 | md5_5 | 5edab | 
 | md5_6 | 5edabf | 

@@ -8,7 +8,11 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_header_1_mm_jst_sh_7_pin_surface_mount
 kicad_reference: J
 manufacturer: ''
-manufacturers: []
+manufacturers:
+-   id: manufacturer_jst
+    link: https://www.jst-mfg.com/product/index.php?series=231
+    name: JST
+    part_number: BM07B-SRSS-TB
 md5: 197c8f4709f8257a15b2f554b2d11f85
 md5_10: 197c8f4709
 md5_5: 197c8

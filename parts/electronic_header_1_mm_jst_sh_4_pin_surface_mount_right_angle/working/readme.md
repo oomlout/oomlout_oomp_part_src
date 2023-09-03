@@ -15,7 +15,13 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C145956](https://lcsc.com/product-detail/C145956.html)  
+* [LCSC - C2906270](https://lcsc.com/product-detail/C2906270.html)  
 
+## manufacturers
+* [JST - BM04B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
+* [JST - SM04B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  
 
 ## symbol
 
@@ -49,8 +55,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle | 
 | short_code | h4psmra | 
 | short_name | Jst Sh 4 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C145956', 'link': 'https://lcsc.com/product-detail/C145956.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C2906270', 'link': 'https://lcsc.com/product-detail/C2906270.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'JST', 'part_number': 'BM04B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}, {'name': 'JST', 'part_number': 'SM04B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | adfe7739de3f358940b6ffe82829763f | 
 | md5_5 | adfe7 | 
 | md5_6 | adfe77 | 
