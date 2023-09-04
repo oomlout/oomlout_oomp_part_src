@@ -93,5 +93,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | a3697 | 
 | md5_6 | a3697f | 
 | md5_10 | a3697f0123 | 
+| markdown_full | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[isn280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[Bosch - BME280<br>](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering', 'oomp_key': 'oomp_kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_sensor_bme280', 'oomp_key': 'oomp_kicad_sensor_bme280', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_sensor_bme280//working/working.kicad_sym'}] | 

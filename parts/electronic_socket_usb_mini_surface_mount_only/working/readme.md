@@ -85,5 +85,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 34c5c | 
 | md5_6 | 34c5c0 | 
 | md5_10 | 34c5c0be33 | 
+| markdown_full | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[Korean Hroparts Elec - U-M-M5SS-W-2<br>]() | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini', 'oomp_key': 'oomp_kicad_connector_usb_b_mini', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym'}] | 

@@ -52,4 +52,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | ff316 | 
 | md5_6 | ff3161 | 
 | md5_10 | ff3161c7d8 | 
+| markdown_full | [electronic_header_1_mm_jst_sh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working)<br>[h8psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working)<br>[JST - BM08B-SRSS-TB<br>](https://www.jst-mfg.com/product/index.php?series=231) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x08_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym'}] | 

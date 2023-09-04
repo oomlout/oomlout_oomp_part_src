@@ -55,5 +55,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 46440 | 
 | md5_6 | 46440a | 
 | md5_10 | 46440a37a5 | 
+| markdown_full | [electronic_header_2d54_mm_36_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_right_angle/working)<br>[hi136pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_right_angle/working)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x36_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x36_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x36_pin//working/working.kicad_sym'}] | 

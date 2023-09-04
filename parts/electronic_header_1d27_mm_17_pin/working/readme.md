@@ -54,5 +54,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 6d955 | 
 | md5_6 | 6d955d | 
 | md5_10 | 6d955dc2f9 | 
+| markdown_full | [electronic_header_1d27_mm_17_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_17_pin/working)<br>[h1d2717p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_17_pin/working)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_1_27mm_pinheader_1x17_p1_27mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_1_27mm_pinheader_1x17_p1_27mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_1_27mm_pinheader_1x17_p1_27mm_vertical//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x17_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x17_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x17_pin//working/working.kicad_sym'}] | 

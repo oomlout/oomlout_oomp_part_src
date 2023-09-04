@@ -50,4 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 6e61e | 
 | md5_6 | 6e61e2 | 
 | md5_10 | 6e61e24408 | 
+| markdown_full | [electronic_resistor_0201_6800_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working)<br>[ro682](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

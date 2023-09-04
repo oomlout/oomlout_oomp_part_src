@@ -52,4 +52,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 197c8 | 
 | md5_6 | 197c8f | 
 | md5_10 | 197c8f4709 | 
+| markdown_full | [electronic_header_1_mm_jst_sh_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount/working)<br>[h7psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount/working)<br>[JST - BM07B-SRSS-TB<br>](https://www.jst-mfg.com/product/index.php?series=231) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x07_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym'}] | 

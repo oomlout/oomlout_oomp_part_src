@@ -51,4 +51,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | fcfe4 | 
 | md5_6 | fcfe4f | 
 | md5_10 | fcfe4f5987 | 
+| markdown_full | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br>[l4g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

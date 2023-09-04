@@ -55,5 +55,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 49431 | 
 | md5_6 | 494314 | 
 | md5_10 | 494314f1c0 | 
+| markdown_full | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[nt3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_3_smd_pad0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_smd_pad0_5mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_3', 'oomp_key': 'oomp_kicad_device_nettie_3', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym'}] | 

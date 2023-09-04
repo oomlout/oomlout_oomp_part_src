@@ -62,5 +62,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | f26ce | 
 | md5_6 | f26ce0 | 
 | md5_10 | f26ce0b91d | 
+| markdown_full | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms22311175v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0<br>]() | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50', 'oomp_key': 'oomp_kicad_regulator_linear_ap1117_50', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym'}] | 

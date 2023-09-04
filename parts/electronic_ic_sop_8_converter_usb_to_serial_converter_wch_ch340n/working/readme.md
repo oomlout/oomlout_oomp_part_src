@@ -83,3 +83,4 @@ List of Pins:
 | md5_5 | ad943 | 
 | md5_6 | ad9430 | 
 | md5_10 | ad943042c1 | 
+| markdown_full | [electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working)<br>[isp8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working)<br> | 

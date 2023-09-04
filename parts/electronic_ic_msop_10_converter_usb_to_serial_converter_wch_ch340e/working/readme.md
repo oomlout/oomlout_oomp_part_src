@@ -96,4 +96,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 720e7 | 
 | md5_6 | 720e79 | 
 | md5_10 | 720e79ba82 | 
+| markdown_full | [electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[ich340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340e', 'oomp_key': 'oomp_kicad_interface_usb_ch340e', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340e//working/working.kicad_sym'}] | 

@@ -54,5 +54,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 5b2b5 | 
 | md5_6 | 5b2b5d | 
 | md5_10 | 5b2b5de6dc | 
+| markdown_full | [electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[id28at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dip_dip_28_w7_62mm', 'oomp_key': 'oomp_kicad_package_dip_dip_28_w7_62mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dip_dip_28_w7_62mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328p_p', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328p_p', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328p_p//working/working.kicad_sym'}] | 

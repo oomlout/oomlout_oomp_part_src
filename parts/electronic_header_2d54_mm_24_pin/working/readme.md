@@ -55,5 +55,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | fd906 | 
 | md5_6 | fd9067 | 
 | md5_10 | fd9067e130 | 
+| markdown_full | [electronic_header_2d54_mm_24_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working)<br>[hi124p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x24_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x24_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x24_pin//working/working.kicad_sym'}] | 

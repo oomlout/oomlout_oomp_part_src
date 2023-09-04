@@ -50,4 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 0f1d0 | 
 | md5_6 | 0f1d0d | 
 | md5_10 | 0f1d0d5c4c | 
+| markdown_full | [electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle/working)<br>[h2psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin_surface_mount_right_angle/working)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x02_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym'}] | 

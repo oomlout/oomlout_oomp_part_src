@@ -50,4 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 809c3 | 
 | md5_6 | 809c3c | 
 | md5_10 | 809c3c0eeb | 
+| markdown_full | [electronic_resistor_0402_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000_ohm/working)<br>[r4o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000_ohm/working)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

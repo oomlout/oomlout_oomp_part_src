@@ -91,3 +91,4 @@ List of Pins:
 | md5_5 | c2a45 | 
 | md5_6 | c2a455 | 
 | md5_10 | c2a455d7f4 | 
+| markdown_full | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br> | 
