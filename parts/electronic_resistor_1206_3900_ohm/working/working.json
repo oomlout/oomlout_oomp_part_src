@@ -17,7 +17,14 @@
     "directory": "parts/electronic_resistor_1206_3900_ohm",
     "name": "Electronic Resistor 1206 3900 Ohm",
     "short_code": "r12o392",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C26042",
+            "link": "https://lcsc.com/product-detail/C26042.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -36,5 +43,5 @@
     "md5_5": "3056d",
     "md5_6": "3056d1",
     "md5_10": "3056d139a3",
-    "markdown_full": "[electronic_resistor_1206_3900_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm/working)<br>[r12o392](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm/working)<br><br>[Uniroyal - 1206W4J0392T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0392T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0392T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0392T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0392T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0392T5E)]()[Yageo - RC1206JR-074KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-074KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-074KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-074KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-074KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-074KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-074KL)"
+    "markdown_full": "[electronic_resistor_1206_3900_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm/working)<br>[r12o392](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm/working)<br>[LCSC - C26042<br>](https://lcsc.com/product-detail/C26042.html)<br>[Uniroyal - 1206W4J0392T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0392T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0392T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0392T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0392T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0392T5E)]()[Yageo - RC1206JR-074KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-074KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-074KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-074KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-074KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-074KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-074KL)"
 }

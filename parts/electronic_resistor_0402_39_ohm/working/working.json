@@ -17,7 +17,20 @@
     "directory": "parts/electronic_resistor_0402_39_ohm",
     "name": "Electronic Resistor 0402 39 Ohm",
     "short_code": "r4o390",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C137875",
+            "link": "https://lcsc.com/product-detail/C137875.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C25164",
+            "link": "https://lcsc.com/product-detail/C25164.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -36,5 +49,5 @@
     "md5_5": "051e9",
     "md5_6": "051e9a",
     "md5_10": "051e9a1de9",
-    "markdown_full": "[electronic_resistor_0402_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39_ohm/working)<br>[r4o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39_ohm/working)<br><br>[Uniroyal - 0402WGJ0390TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0390TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0390TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0390TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0390TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0390TCE)]()[Yageo - RC0402JR-0739RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0739RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0739RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0739RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0739RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0739RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739RL)"
+    "markdown_full": "[electronic_resistor_0402_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39_ohm/working)<br>[r4o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39_ohm/working)<br>[LCSC - C137875<br>](https://lcsc.com/product-detail/C137875.html)[LCSC - C25164<br>](https://lcsc.com/product-detail/C25164.html)<br>[Uniroyal - 0402WGJ0390TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0390TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0390TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0390TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0390TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0390TCE)]()[Yageo - RC0402JR-0739RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0739RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0739RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0739RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0739RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0739RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739RL)"
 }

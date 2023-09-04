@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 270_ohm
 directory: parts/electronic_resistor_0402_270_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25155.html
+    name: LCSC
+    part_number: C25155
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137892.html
+    name: LCSC
+    part_number: C137892
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270_ohm/working
@@ -19,7 +27,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07270RL
     name: Yageo
     part_number: RC0402JR-07270RL
-markdown_full: '[electronic_resistor_0402_270_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270_ohm/working)<br>[r4o271](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0402_270_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270_ohm/working)<br>[r4o271](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270_ohm/working)<br>[LCSC
+    - C25155<br>](https://lcsc.com/product-detail/C25155.html)[LCSC - C137892<br>](https://lcsc.com/product-detail/C137892.html)<br>[Uniroyal
     - 0402WGJ0271TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0271TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0271TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0271TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0271TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0271TCE)]()[Yageo
     - RC0402JR-07270RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-07270RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-07270RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07270RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-07270RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-07270RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07270RL)'
 md5: b836b9d168fffa13b55b42208100fb52

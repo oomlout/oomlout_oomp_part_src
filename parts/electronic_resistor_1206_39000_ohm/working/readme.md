@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C137147](https://lcsc.com/product-detail/C137147.html)  
+* [LCSC - C270897](https://lcsc.com/product-detail/C270897.html)  
 
 ## manufacturers
 * [Uniroyal - 1206W4J0393T5E]()  
@@ -52,12 +55,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_39000_ohm | 
 | name | Electronic Resistor 1206 39000 Ohm | 
 | short_code | r12o393 | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C137147', 'link': 'https://lcsc.com/product-detail/C137147.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C270897', 'link': 'https://lcsc.com/product-detail/C270897.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0393T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC1206JR-0739KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739KL', 'id': 'manufacturer_yageo'}] | 
 | md5 | f9eee76ea3fbcf9c96d499a4227d9809 | 
 | md5_5 | f9eee | 
 | md5_6 | f9eee7 | 
 | md5_10 | f9eee76ea3 | 
-| markdown_full | [electronic_resistor_1206_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39000_ohm/working)<br>[r12o393](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39000_ohm/working)<br><br>[Uniroyal - 1206W4J0393T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0393T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0393T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0393T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0393T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0393T5E)]()[Yageo - RC1206JR-0739KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0739KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0739KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0739KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0739KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0739KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739KL) | 
+| markdown_full | [electronic_resistor_1206_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39000_ohm/working)<br>[r12o393](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39000_ohm/working)<br>[LCSC - C137147<br>](https://lcsc.com/product-detail/C137147.html)[LCSC - C270897<br>](https://lcsc.com/product-detail/C270897.html)<br>[Uniroyal - 1206W4J0393T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0393T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0393T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0393T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0393T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0393T5E)]()[Yageo - RC1206JR-0739KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0739KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0739KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0739KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0739KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0739KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739KL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

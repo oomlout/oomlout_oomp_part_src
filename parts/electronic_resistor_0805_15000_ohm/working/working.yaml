@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 15000_ohm
 directory: parts/electronic_resistor_0805_15000_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C114740.html
+    name: LCSC
+    part_number: C114740
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25620.html
+    name: LCSC
+    part_number: C25620
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
@@ -23,7 +31,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0715KL
     name: Yageo
     part_number: RC0805JR-0715KL
-markdown_full: '[electronic_resistor_0805_15000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[r8o153](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0805_15000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[r8o153](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[LCSC
+    - C114740<br>](https://lcsc.com/product-detail/C114740.html)[LCSC - C25620<br>](https://lcsc.com/product-detail/C25620.html)<br>[Uniroyal
     - 0805W8J0153T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0153T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0153T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0153T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0153T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0153T5E)]()[Yageo
     - RC0805JR-0715KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0715KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0715KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0715KL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0715KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0715KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0715KL)'
 md5: 090281697a7ec652f8a222546c8b65fa

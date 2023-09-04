@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 12_ohm
 directory: parts/electronic_resistor_0805_12_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25281.html
+    name: LCSC
+    part_number: C25281
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C185280.html
+    name: LCSC
+    part_number: C185280
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
@@ -23,7 +31,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0712RL
     name: Yageo
     part_number: RC0805JR-0712RL
-markdown_full: '[electronic_resistor_0805_12_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_12_ohm/working)<br>[r8o120](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_12_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0805_12_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_12_ohm/working)<br>[r8o120](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_12_ohm/working)<br>[LCSC
+    - C25281<br>](https://lcsc.com/product-detail/C25281.html)[LCSC - C185280<br>](https://lcsc.com/product-detail/C185280.html)<br>[Uniroyal
     - 0805W8J0120T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0120T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0120T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0120T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0120T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0120T5E)]()[Yageo
     - RC0805JR-0712RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0712RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0712RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0712RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0712RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0712RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0712RL)'
 md5: 092133c2583796ec0be32fc203288dc9

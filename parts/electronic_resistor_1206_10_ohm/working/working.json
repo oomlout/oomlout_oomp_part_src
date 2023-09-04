@@ -17,7 +17,20 @@
     "directory": "parts/electronic_resistor_1206_10_ohm",
     "name": "Electronic Resistor 1206 10 Ohm",
     "short_code": "r12o100",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C25349",
+            "link": "https://lcsc.com/product-detail/C25349.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C137208",
+            "link": "https://lcsc.com/product-detail/C137208.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -36,5 +49,5 @@
     "md5_5": "312d1",
     "md5_6": "312d17",
     "md5_10": "312d179af2",
-    "markdown_full": "[electronic_resistor_1206_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br>[r12o100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br><br>[Uniroyal - 1206W4J0100T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0100T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0100T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0100T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0100T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0100T5E)]()[Yageo - RC1206JR-0710RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0710RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0710RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0710RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0710RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0710RL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0710RL)"
+    "markdown_full": "[electronic_resistor_1206_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br>[r12o100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br>[LCSC - C25349<br>](https://lcsc.com/product-detail/C25349.html)[LCSC - C137208<br>](https://lcsc.com/product-detail/C137208.html)<br>[Uniroyal - 1206W4J0100T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0100T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0100T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0100T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0100T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0100T5E)]()[Yageo - RC1206JR-0710RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0710RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0710RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0710RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0710RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0710RL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0710RL)"
 }

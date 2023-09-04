@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 68_ohm
 directory: parts/electronic_resistor_0805_68_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137411.html
+    name: LCSC
+    part_number: C137411
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25325.html
+    name: LCSC
+    part_number: C25325
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
@@ -23,7 +31,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0768RL
     name: Yageo
     part_number: RC0805JR-0768RL
-markdown_full: '[electronic_resistor_0805_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_68_ohm/working)<br>[r8o680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_68_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0805_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_68_ohm/working)<br>[r8o680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_68_ohm/working)<br>[LCSC
+    - C137411<br>](https://lcsc.com/product-detail/C137411.html)[LCSC - C25325<br>](https://lcsc.com/product-detail/C25325.html)<br>[Uniroyal
     - 0805W8J0680T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0680T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0680T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0680T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0680T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0680T5E)]()[Yageo
     - RC0805JR-0768RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0768RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0768RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0768RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0768RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0768RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0768RL)'
 md5: 3a67184bfadbf9e93b3a86c608549034

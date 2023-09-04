@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C25329](https://lcsc.com/product-detail/C25329.html)  
+* [LCSC - C137400](https://lcsc.com/product-detail/C137400.html)  
 
 ## manufacturers
 * [Uniroyal - 0805W8J0820T5E]()  
@@ -52,12 +55,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_82_ohm | 
 | name | Electronic Resistor 0805 82 Ohm | 
 | short_code | r8o820 | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C25329', 'link': 'https://lcsc.com/product-detail/C25329.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137400', 'link': 'https://lcsc.com/product-detail/C137400.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0820T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0805JR-0782RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0782RL', 'id': 'manufacturer_yageo'}] | 
 | md5 | 2015cf70ca1f279a7f82f7b202242289 | 
 | md5_5 | 2015c | 
 | md5_6 | 2015cf | 
 | md5_10 | 2015cf70ca | 
-| markdown_full | [electronic_resistor_0805_82_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_82_ohm/working)<br>[r8o820](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_82_ohm/working)<br><br>[Uniroyal - 0805W8J0820T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0820T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0820T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0820T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0820T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0820T5E)]()[Yageo - RC0805JR-0782RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0782RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0782RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0782RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0782RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0782RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0782RL) | 
+| markdown_full | [electronic_resistor_0805_82_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_82_ohm/working)<br>[r8o820](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_82_ohm/working)<br>[LCSC - C25329<br>](https://lcsc.com/product-detail/C25329.html)[LCSC - C137400<br>](https://lcsc.com/product-detail/C137400.html)<br>[Uniroyal - 0805W8J0820T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0820T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0820T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0820T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0820T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0820T5E)]()[Yageo - RC0805JR-0782RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0782RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0782RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0782RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0782RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0782RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0782RL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

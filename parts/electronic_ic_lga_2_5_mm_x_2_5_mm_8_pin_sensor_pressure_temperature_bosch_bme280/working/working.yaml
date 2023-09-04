@@ -8,6 +8,10 @@ distributors:
     link: https://lcsc.com/product-detail/C92489.html
     name: LCSC
     part_number: C92489
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C92489.html
+    name: LCSC
+    part_number: C92489
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering
@@ -21,7 +25,8 @@ manufacturers:
     name: Bosch
     part_number: BME280
 markdown_full: '[electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[isn280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC
-    - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280<br>[(L)<br>](https://www.lcsc.com/search?q=BME280)[(D)<br>](https://www.digikey.com/en/products?,keywords=BME280)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)<br>](https://www.newark.com/search?st=BME280)[(SZ)<br>](https://so.szlcsc.com/global.html?k=BME280)](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)'
+    - C92489<br>](https://lcsc.com/product-detail/C92489.html)[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch
+    - BME280<br>[(L)<br>](https://www.lcsc.com/search?q=BME280)[(D)<br>](https://www.digikey.com/en/products?,keywords=BME280)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)<br>](https://www.newark.com/search?st=BME280)[(SZ)<br>](https://so.szlcsc.com/global.html?k=BME280)](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)'
 md5: a3697f01237d79885aae438ef33a55dd
 md5_10: a3697f0123
 md5_5: a3697

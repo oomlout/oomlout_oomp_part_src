@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 22000_ohm
 directory: parts/electronic_resistor_0402_22000_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25547.html
+    name: LCSC
+    part_number: C25547
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137898.html
+    name: LCSC
+    part_number: C137898
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22000_ohm/working
@@ -19,7 +27,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL
     name: Yageo
     part_number: RC0402JR-0722KL
-markdown_full: '[electronic_resistor_0402_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22000_ohm/working)<br>[r4o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22000_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0402_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22000_ohm/working)<br>[r4o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22000_ohm/working)<br>[LCSC
+    - C25547<br>](https://lcsc.com/product-detail/C25547.html)[LCSC - C137898<br>](https://lcsc.com/product-detail/C137898.html)<br>[Uniroyal
     - 0402WGJ0223TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0223TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0223TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0223TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0223TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0223TCE)]()[Yageo
     - RC0402JR-0722KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0722KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0722KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0722KL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0722KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0722KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL)'
 md5: 74ff819e3dbb5c9d5b36eac9b1607055

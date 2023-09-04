@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 10000_ohm
 directory: parts/electronic_resistor_1206_10000_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C1489.html
+    name: LCSC
+    part_number: C1489
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C136460.html
+    name: LCSC
+    part_number: C136460
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -23,7 +31,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0710KL
     name: Yageo
     part_number: RC1206JR-0710KL
-markdown_full: '[electronic_resistor_1206_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10000_ohm/working)<br>[r12o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10000_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_1206_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10000_ohm/working)<br>[r12o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10000_ohm/working)<br>[LCSC
+    - C1489<br>](https://lcsc.com/product-detail/C1489.html)[LCSC - C136460<br>](https://lcsc.com/product-detail/C136460.html)<br>[Uniroyal
     - 1206W4J0103T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0103T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0103T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0103T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0103T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0103T5E)]()[Yageo
     - RC1206JR-0710KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0710KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0710KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0710KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0710KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0710KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0710KL)'
 md5: 4463392d1bb23c1a300be2f63b87415b

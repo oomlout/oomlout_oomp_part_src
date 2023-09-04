@@ -5,13 +5,13 @@ description_main: 4_pin
 directory: parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C145956.html
-    name: LCSC
-    part_number: C145956
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C2906270.html
     name: LCSC
     part_number: C2906270
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C145956.html
+    name: LCSC
+    part_number: C145956
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
@@ -30,7 +30,7 @@ manufacturers:
     name: JST
     part_number: SM04B-SRSS-TB
 markdown_full: '[electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[h4psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[LCSC
-    - C145956<br>](https://lcsc.com/product-detail/C145956.html)[LCSC - C2906270<br>](https://lcsc.com/product-detail/C2906270.html)<br>[JST
+    - C2906270<br>](https://lcsc.com/product-detail/C2906270.html)[LCSC - C145956<br>](https://lcsc.com/product-detail/C145956.html)<br>[JST
     - BM04B-SRSS-TB<br>[(L)<br>](https://www.lcsc.com/search?q=BM04B-SRSS-TB)[(D)<br>](https://www.digikey.com/en/products?,keywords=BM04B-SRSS-TB)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=BM04B-SRSS-TB)[(N)<br>](https://www.newark.com/search?st=BM04B-SRSS-TB)[(SZ)<br>](https://so.szlcsc.com/global.html?k=BM04B-SRSS-TB)](https://www.jst-mfg.com/product/index.php?series=231)[JST
     - SM04B-SRSS-TB<br>[(L)<br>](https://www.lcsc.com/search?q=SM04B-SRSS-TB)[(D)<br>](https://www.digikey.com/en/products?,keywords=SM04B-SRSS-TB)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=SM04B-SRSS-TB)[(N)<br>](https://www.newark.com/search?st=SM04B-SRSS-TB)[(SZ)<br>](https://so.szlcsc.com/global.html?k=SM04B-SRSS-TB)](https://www.jst-mfg.com/product/index.php?series=231)'
 md5: adfe7739de3f358940b6ffe82829763f

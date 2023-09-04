@@ -15,6 +15,8 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C2779738](https://lcsc.com/product-detail/C2779738.html)  
 
 ## manufacturers
 * [Uniroyal - NQ01WMJ0821TEE]()  
@@ -46,11 +48,11 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0201_820_ohm | 
 | name | Electronic Resistor 0201 820 Ohm | 
 | short_code | ro821 | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2779738', 'link': 'https://lcsc.com/product-detail/C2779738.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0821TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
 | md5 | ea44f726246dc0c99500106f1315752a | 
 | md5_5 | ea44f | 
 | md5_6 | ea44f7 | 
 | md5_10 | ea44f72624 | 
-| markdown_full | [electronic_resistor_0201_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br>[ro821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br><br>[Uniroyal - NQ01WMJ0821TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0821TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0821TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0821TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0821TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0821TEE)]() | 
+| markdown_full | [electronic_resistor_0201_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br>[ro821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br>[LCSC - C2779738<br>](https://lcsc.com/product-detail/C2779738.html)<br>[Uniroyal - NQ01WMJ0821TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0821TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0821TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0821TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0821TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0821TEE)]() | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

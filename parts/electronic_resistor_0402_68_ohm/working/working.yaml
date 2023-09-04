@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 68_ohm
 directory: parts/electronic_resistor_0402_68_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25178.html
+    name: LCSC
+    part_number: C25178
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137848.html
+    name: LCSC
+    part_number: C137848
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working
@@ -19,7 +27,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL
     name: Yageo
     part_number: RC0402JR-0768RL
-markdown_full: '[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[r4o680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[r4o680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[LCSC
+    - C25178<br>](https://lcsc.com/product-detail/C25178.html)[LCSC - C137848<br>](https://lcsc.com/product-detail/C137848.html)<br>[Uniroyal
     - 0402WGJ0680TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0680TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0680TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0680TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0680TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0680TCE)]()[Yageo
     - RC0402JR-0768RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0768RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0768RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0768RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0768RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0768RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL)'
 md5: c8a2f5c8d2a612131492a2f423769963

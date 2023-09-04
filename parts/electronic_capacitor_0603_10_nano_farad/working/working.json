@@ -17,7 +17,14 @@
     "directory": "parts/electronic_capacitor_0603_10_nano_farad",
     "name": "Electronic Capacitor 0603 10 Nano Farad",
     "short_code": "c6nf10",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C100042",
+            "link": "https://lcsc.com/product-detail/C100042.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Yageo",
@@ -34,5 +41,5 @@
     "md5_5": "33c29",
     "md5_6": "33c290",
     "md5_10": "33c290430a",
-    "markdown_full": "[electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br>[c6nf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br><br>[Yageo - CC0603KRX7R9BB103<br>[(L)<br>](https://www.lcsc.com/search?q=CC0603KRX7R9BB103)[(D)<br>](https://www.digikey.com/en/products?,keywords=CC0603KRX7R9BB103)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB103)[(N)<br>](https://www.newark.com/search?st=CC0603KRX7R9BB103)[(SZ)<br>](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB103)](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)"
+    "markdown_full": "[electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br>[c6nf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br>[LCSC - C100042<br>](https://lcsc.com/product-detail/C100042.html)<br>[Yageo - CC0603KRX7R9BB103<br>[(L)<br>](https://www.lcsc.com/search?q=CC0603KRX7R9BB103)[(D)<br>](https://www.digikey.com/en/products?,keywords=CC0603KRX7R9BB103)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB103)[(N)<br>](https://www.newark.com/search?st=CC0603KRX7R9BB103)[(SZ)<br>](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB103)](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)"
 }

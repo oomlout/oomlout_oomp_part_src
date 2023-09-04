@@ -3,7 +3,11 @@ color: ''
 description_extra: ''
 description_main: 68_ohm
 directory: parts/electronic_resistor_0201_68_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2779736.html
+    name: LCSC
+    part_number: C2779736
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working
@@ -15,8 +19,9 @@ manufacturers:
     link: ''
     name: Uniroyal
     part_number: NQ01WMJ0680TEE
-markdown_full: '[electronic_resistor_0201_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[ro680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br><br>[Uniroyal
-    - NQ01WMJ0680TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0680TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0680TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0680TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0680TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0680TEE)]()'
+markdown_full: '[electronic_resistor_0201_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[ro680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[LCSC
+    - C2779736<br>](https://lcsc.com/product-detail/C2779736.html)<br>[Uniroyal -
+    NQ01WMJ0680TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0680TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0680TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0680TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0680TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0680TEE)]()'
 md5: 9759e76ec8aa629ca0c40d23fc164cf1
 md5_10: 9759e76ec8
 md5_5: 9759e

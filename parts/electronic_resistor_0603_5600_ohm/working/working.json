@@ -17,7 +17,14 @@
     "directory": "parts/electronic_resistor_0603_5600_ohm",
     "name": "Electronic Resistor 0603 5600 Ohm",
     "short_code": "r6o562",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C26001",
+            "link": "https://lcsc.com/product-detail/C26001.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -40,5 +47,5 @@
     "md5_5": "18de6",
     "md5_6": "18de6f",
     "md5_10": "18de6fe05d",
-    "markdown_full": "[electronic_resistor_0603_5600_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_5600_ohm/working)<br>[r6o562](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_5600_ohm/working)<br><br>[Uniroyal - 0603WAJ0562T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0562T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0562T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0562T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0562T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0562T5E)]()[Yageo - RC0603JR-076KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-076KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-076KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-076KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-076KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-076KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-076KL)"
+    "markdown_full": "[electronic_resistor_0603_5600_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_5600_ohm/working)<br>[r6o562](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_5600_ohm/working)<br>[LCSC - C26001<br>](https://lcsc.com/product-detail/C26001.html)<br>[Uniroyal - 0603WAJ0562T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0562T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0562T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0562T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0562T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0562T5E)]()[Yageo - RC0603JR-076KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-076KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-076KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-076KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-076KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-076KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-076KL)"
 }

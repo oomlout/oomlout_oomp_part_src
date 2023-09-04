@@ -17,7 +17,20 @@
     "directory": "parts/electronic_resistor_0805_18000_ohm",
     "name": "Electronic Resistor 0805 18000 Ohm",
     "short_code": "r8o183",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C137468",
+            "link": "https://lcsc.com/product-detail/C137468.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C25622",
+            "link": "https://lcsc.com/product-detail/C25622.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -36,5 +49,5 @@
     "md5_5": "669f3",
     "md5_6": "669f3f",
     "md5_10": "669f3f1f1b",
-    "markdown_full": "[electronic_resistor_0805_18000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[r8o183](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br><br>[Uniroyal - 0805W8J0183T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0183T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0183T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0183T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0183T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0183T5E)]()[Yageo - RC0805JR-0718KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0718KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0718KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0718KL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0718KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0718KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0718KL)"
+    "markdown_full": "[electronic_resistor_0805_18000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[r8o183](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[LCSC - C137468<br>](https://lcsc.com/product-detail/C137468.html)[LCSC - C25622<br>](https://lcsc.com/product-detail/C25622.html)<br>[Uniroyal - 0805W8J0183T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0183T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0183T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0183T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0183T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0183T5E)]()[Yageo - RC0805JR-0718KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0718KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0718KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0718KL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0718KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0718KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0718KL)"
 }

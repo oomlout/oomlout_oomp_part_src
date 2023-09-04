@@ -115,7 +115,7 @@ def get_lcsc(**kwargs):
     
     ###### auto gen
 
-        matches.append({"id":"electronic_capacitor_0603_22_pico_farad",
+    matches.append({"id":"electronic_capacitor_0603_22_pico_farad",
                   "part_number": "C2845294"})
 
     matches.append({"id":"electronic_capacitor_0603_22_pico_farad",

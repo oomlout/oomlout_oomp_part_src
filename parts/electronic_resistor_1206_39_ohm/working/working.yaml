@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 39_ohm
 directory: parts/electronic_resistor_1206_39_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25379.html
+    name: LCSC
+    part_number: C25379
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137146.html
+    name: LCSC
+    part_number: C137146
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -23,7 +31,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739RL
     name: Yageo
     part_number: RC1206JR-0739RL
-markdown_full: '[electronic_resistor_1206_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39_ohm/working)<br>[r12o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_1206_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39_ohm/working)<br>[r12o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_39_ohm/working)<br>[LCSC
+    - C25379<br>](https://lcsc.com/product-detail/C25379.html)[LCSC - C137146<br>](https://lcsc.com/product-detail/C137146.html)<br>[Uniroyal
     - 1206W4J0390T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0390T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0390T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0390T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0390T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0390T5E)]()[Yageo
     - RC1206JR-0739RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0739RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0739RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0739RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0739RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0739RL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739RL)'
 md5: 44df20dd61bbf857544c2f9a22cfef8b

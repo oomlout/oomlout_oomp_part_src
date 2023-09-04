@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 3300_ohm
 directory: parts/electronic_resistor_0603_3300_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137628.html
+    name: LCSC
+    part_number: C137628
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25995.html
+    name: LCSC
+    part_number: C25995
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -23,7 +31,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-073KL
     name: Yageo
     part_number: RC0603JR-073KL
-markdown_full: '[electronic_resistor_0603_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br>[r6o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0603_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br>[r6o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br>[LCSC
+    - C137628<br>](https://lcsc.com/product-detail/C137628.html)[LCSC - C25995<br>](https://lcsc.com/product-detail/C25995.html)<br>[Uniroyal
     - 0603WAJ0332T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0332T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0332T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0332T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0332T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0332T5E)]()[Yageo
     - RC0603JR-073KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-073KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-073KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-073KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-073KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-073KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-073KL)'
 md5: 24b74f09ef4d73197c1599bbc11d9403

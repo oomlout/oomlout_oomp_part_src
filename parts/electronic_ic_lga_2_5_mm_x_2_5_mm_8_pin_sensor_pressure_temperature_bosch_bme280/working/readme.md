@@ -28,6 +28,7 @@ List of Pins:
 * 8 : vdd
 ## distributors
 * [LCSC - C92489](https://lcsc.com/product-detail/C92489.html)  
+* [LCSC - C92489](https://lcsc.com/product-detail/C92489.html)  
 
 ## manufacturers
 * [Bosch - BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)  
@@ -87,12 +88,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280 | 
 | name | Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280 | 
 | short_code | isn280 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C92489', 'link': 'https://lcsc.com/product-detail/C92489.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C92489', 'link': 'https://lcsc.com/product-detail/C92489.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C92489', 'link': 'https://lcsc.com/product-detail/C92489.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Bosch', 'part_number': 'BME280', 'link': 'https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/', 'id': 'manufacturer_bosch'}] | 
 | md5 | a3697f01237d79885aae438ef33a55dd | 
 | md5_5 | a3697 | 
 | md5_6 | a3697f | 
 | md5_10 | a3697f0123 | 
-| markdown_full | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[isn280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280<br>[(L)<br>](https://www.lcsc.com/search?q=BME280)[(D)<br>](https://www.digikey.com/en/products?,keywords=BME280)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)<br>](https://www.newark.com/search?st=BME280)[(SZ)<br>](https://so.szlcsc.com/global.html?k=BME280)](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/) | 
+| markdown_full | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[isn280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280<br>[(L)<br>](https://www.lcsc.com/search?q=BME280)[(D)<br>](https://www.digikey.com/en/products?,keywords=BME280)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)<br>](https://www.newark.com/search?st=BME280)[(SZ)<br>](https://so.szlcsc.com/global.html?k=BME280)](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering', 'oomp_key': 'oomp_kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_sensor_bme280', 'oomp_key': 'oomp_kicad_sensor_bme280', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_sensor_bme280//working/working.kicad_sym'}] | 

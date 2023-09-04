@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C23344](https://lcsc.com/product-detail/C23344.html)  
+* [LCSC - C115416](https://lcsc.com/product-detail/C115416.html)  
 
 ## manufacturers
 * [Uniroyal - 0603WAJ0223T5E]()  
@@ -52,7 +55,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0603_22000_ohm | 
 | name | Electronic Resistor 0603 22000 Ohm | 
 | short_code | r6o223 | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C23344', 'link': 'https://lcsc.com/product-detail/C23344.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C115416', 'link': 'https://lcsc.com/product-detail/C115416.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAJ0223T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0603JR-0722KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0722KL', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
@@ -62,6 +65,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 1fe71 | 
 | md5_6 | 1fe713 | 
 | md5_10 | 1fe71377eb | 
-| markdown_full | [electronic_resistor_0603_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br>[r6o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br><br>[Uniroyal - 0603WAJ0223T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0223T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0223T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0223T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0223T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0223T5E)]()[Yageo - RC0603JR-0722KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0722KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0722KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0722KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0722KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0722KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0722KL) | 
+| markdown_full | [electronic_resistor_0603_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br>[r6o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br>[LCSC - C23344<br>](https://lcsc.com/product-detail/C23344.html)[LCSC - C115416<br>](https://lcsc.com/product-detail/C115416.html)<br>[Uniroyal - 0603WAJ0223T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0223T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0223T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0223T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0223T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0223T5E)]()[Yageo - RC0603JR-0722KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0722KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0722KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0722KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0722KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0722KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0722KL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

@@ -17,7 +17,20 @@
     "directory": "parts/electronic_resistor_0402_22_ohm",
     "name": "Electronic Resistor 0402 22 Ohm",
     "short_code": "r4o220",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C25152",
+            "link": "https://lcsc.com/product-detail/C25152.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C93929",
+            "link": "https://lcsc.com/product-detail/C93929.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -36,5 +49,5 @@
     "md5_5": "6475a",
     "md5_6": "6475a2",
     "md5_10": "6475a296be",
-    "markdown_full": "[electronic_resistor_0402_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[r4o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br><br>[Uniroyal - 0402WGJ0220TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0220TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0220TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0220TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0220TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0220TCE)]()[Yageo - RC0402JR-0722RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0722RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0722RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0722RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0722RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0722RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722RL)"
+    "markdown_full": "[electronic_resistor_0402_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[r4o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[LCSC - C25152<br>](https://lcsc.com/product-detail/C25152.html)[LCSC - C93929<br>](https://lcsc.com/product-detail/C93929.html)<br>[Uniroyal - 0402WGJ0220TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0220TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0220TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0220TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0220TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0220TCE)]()[Yageo - RC0402JR-0722RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0722RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0722RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0722RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0722RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0722RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722RL)"
 }

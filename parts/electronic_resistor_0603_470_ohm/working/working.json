@@ -17,7 +17,20 @@
     "directory": "parts/electronic_resistor_0603_470_ohm",
     "name": "Electronic Resistor 0603 470 Ohm",
     "short_code": "r6o471",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C25241",
+            "link": "https://lcsc.com/product-detail/C25241.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C114433",
+            "link": "https://lcsc.com/product-detail/C114433.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -40,5 +53,5 @@
     "md5_5": "1f653",
     "md5_6": "1f6539",
     "md5_10": "1f653906e6",
-    "markdown_full": "[electronic_resistor_0603_470_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_470_ohm/working)<br>[r6o471](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_470_ohm/working)<br><br>[Uniroyal - 0603WAJ0471T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0471T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0471T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0471T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0471T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0471T5E)]()[Yageo - RC0603JR-07470RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-07470RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-07470RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07470RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-07470RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-07470RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07470RL)"
+    "markdown_full": "[electronic_resistor_0603_470_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_470_ohm/working)<br>[r6o471](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_470_ohm/working)<br>[LCSC - C25241<br>](https://lcsc.com/product-detail/C25241.html)[LCSC - C114433<br>](https://lcsc.com/product-detail/C114433.html)<br>[Uniroyal - 0603WAJ0471T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0471T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0471T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0471T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0471T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0471T5E)]()[Yageo - RC0603JR-07470RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-07470RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-07470RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07470RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-07470RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-07470RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07470RL)"
 }

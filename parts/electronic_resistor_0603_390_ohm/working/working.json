@@ -17,7 +17,20 @@
     "directory": "parts/electronic_resistor_0603_390_ohm",
     "name": "Electronic Resistor 0603 390 Ohm",
     "short_code": "r6o391",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C137632",
+            "link": "https://lcsc.com/product-detail/C137632.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C25235",
+            "link": "https://lcsc.com/product-detail/C25235.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -40,5 +53,5 @@
     "md5_5": "a4f29",
     "md5_6": "a4f299",
     "md5_10": "a4f2994a90",
-    "markdown_full": "[electronic_resistor_0603_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_390_ohm/working)<br>[r6o391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_390_ohm/working)<br><br>[Uniroyal - 0603WAJ0391T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0391T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0391T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0391T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0391T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0391T5E)]()[Yageo - RC0603JR-07390RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-07390RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-07390RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07390RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-07390RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-07390RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07390RL)"
+    "markdown_full": "[electronic_resistor_0603_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_390_ohm/working)<br>[r6o391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_390_ohm/working)<br>[LCSC - C137632<br>](https://lcsc.com/product-detail/C137632.html)[LCSC - C25235<br>](https://lcsc.com/product-detail/C25235.html)<br>[Uniroyal - 0603WAJ0391T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0391T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0391T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0391T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0391T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0391T5E)]()[Yageo - RC0603JR-07390RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-07390RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-07390RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07390RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-07390RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-07390RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07390RL)"
 }

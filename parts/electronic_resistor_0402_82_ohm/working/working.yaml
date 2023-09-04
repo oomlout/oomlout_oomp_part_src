@@ -3,7 +3,15 @@ color: ''
 description_extra: ''
 description_main: 82_ohm
 directory: parts/electronic_resistor_0402_82_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25181.html
+    name: LCSC
+    part_number: C25181
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137835.html
+    name: LCSC
+    part_number: C137835
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working
@@ -19,7 +27,8 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0782RL
     name: Yageo
     part_number: RC0402JR-0782RL
-markdown_full: '[electronic_resistor_0402_82_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working)<br>[r4o820](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0402_82_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working)<br>[r4o820](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm/working)<br>[LCSC
+    - C25181<br>](https://lcsc.com/product-detail/C25181.html)[LCSC - C137835<br>](https://lcsc.com/product-detail/C137835.html)<br>[Uniroyal
     - 0402WGJ0820TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0820TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0820TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0820TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0820TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0820TCE)]()[Yageo
     - RC0402JR-0782RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0782RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0782RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0782RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0782RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0782RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0782RL)'
 md5: 9a8de94ae6d80203f82236e690c34386
