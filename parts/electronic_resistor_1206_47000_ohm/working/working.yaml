@@ -5,13 +5,13 @@ description_main: 47000_ohm
 directory: parts/electronic_resistor_1206_47000_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C136469.html
-    name: LCSC
-    part_number: C136469
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C25664.html
     name: LCSC
     part_number: C25664
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C136469.html
+    name: LCSC
+    part_number: C136469
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -32,10 +32,10 @@ manufacturers:
     name: Yageo
     part_number: RC1206JR-0747KL
 markdown_full: '[electronic_resistor_1206_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br>[r12o473](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br>[LCSC
-    - C136469<br>](https://lcsc.com/product-detail/C136469.html)[LCSC - C25664<br>](https://lcsc.com/product-detail/C25664.html)<br>[Uniroyal
-    - 1206W4J0473T5E]() [(L)<br>](https://www.lcsc.com/search?q=1206W4J0473T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0473T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0473T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0473T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0473T5E)<br>[Yageo
+    - C25664<br>](https://lcsc.com/product-detail/C25664.html)[LCSC - C136469<br>](https://lcsc.com/product-detail/C136469.html)<br>[Uniroyal
+    - 1206W4J0473T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0473T5E)[(D)  ](https://www.digikey.com/en/products?,keywords=1206W4J0473T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0473T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0473T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0473T5E)<br>[Yageo
     - RC1206JR-0747KL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0747KL)
-    [(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0747KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0747KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0747KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0747KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0747KL)<br>'
+    [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0747KL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC1206JR-0747KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0747KL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0747KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0747KL)<br>'
 md5: 4b30873173297cb61386144da6cbd1ee
 md5_10: 4b30873173
 md5_5: 4b308

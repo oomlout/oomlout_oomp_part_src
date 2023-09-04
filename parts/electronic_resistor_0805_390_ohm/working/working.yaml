@@ -5,13 +5,13 @@ description_main: 390_ohm
 directory: parts/electronic_resistor_0805_390_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137441.html
-    name: LCSC
-    part_number: C137441
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C25310.html
     name: LCSC
     part_number: C25310
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C137441.html
+    name: LCSC
+    part_number: C137441
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
@@ -32,10 +32,10 @@ manufacturers:
     name: Yageo
     part_number: RC0805JR-07390RL
 markdown_full: '[electronic_resistor_0805_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_390_ohm/working)<br>[r8o391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_390_ohm/working)<br>[LCSC
-    - C137441<br>](https://lcsc.com/product-detail/C137441.html)[LCSC - C25310<br>](https://lcsc.com/product-detail/C25310.html)<br>[Uniroyal
-    - 0805W8J0391T5E]() [(L)<br>](https://www.lcsc.com/search?q=0805W8J0391T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0391T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0391T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0391T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0391T5E)<br>[Yageo
+    - C25310<br>](https://lcsc.com/product-detail/C25310.html)[LCSC - C137441<br>](https://lcsc.com/product-detail/C137441.html)<br>[Uniroyal
+    - 0805W8J0391T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0391T5E)[(D)  ](https://www.digikey.com/en/products?,keywords=0805W8J0391T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0391T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0391T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0391T5E)<br>[Yageo
     - RC0805JR-07390RL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07390RL)
-    [(L)<br>](https://www.lcsc.com/search?q=RC0805JR-07390RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-07390RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-07390RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-07390RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-07390RL)<br>'
+    [(L)  ](https://www.lcsc.com/search?q=RC0805JR-07390RL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC0805JR-07390RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-07390RL)[(N)  ](https://www.newark.com/search?st=RC0805JR-07390RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-07390RL)<br>'
 md5: 57e1280a4a53dd631f56d26ec27678a7
 md5_10: 57e1280a4a
 md5_5: 57e12

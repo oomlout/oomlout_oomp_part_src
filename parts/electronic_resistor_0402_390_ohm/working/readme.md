@@ -16,8 +16,8 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C163442](https://lcsc.com/product-detail/C163442.html)  
 * [LCSC - C25163](https://lcsc.com/product-detail/C25163.html)  
+* [LCSC - C163442](https://lcsc.com/product-detail/C163442.html)  
 
 ## manufacturers
 * [Uniroyal - 0402WGJ0391TCE]()  
@@ -50,11 +50,11 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_390_ohm | 
 | name | Electronic Resistor 0402 390 Ohm | 
 | short_code | r4o391 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C163442', 'link': 'https://lcsc.com/product-detail/C163442.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C25163', 'link': 'https://lcsc.com/product-detail/C25163.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C25163', 'link': 'https://lcsc.com/product-detail/C25163.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C163442', 'link': 'https://lcsc.com/product-detail/C163442.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0391TCE', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0402JR-07390RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07390RL', 'id': 'manufacturer_yageo'}] | 
 | md5 | 9d059da8937dbcbb2228979929bba104 | 
 | md5_5 | 9d059 | 
 | md5_6 | 9d059d | 
 | md5_10 | 9d059da893 | 
-| markdown_full | [electronic_resistor_0402_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working)<br>[r4o391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working)<br>[LCSC - C163442<br>](https://lcsc.com/product-detail/C163442.html)[LCSC - C25163<br>](https://lcsc.com/product-detail/C25163.html)<br>[Uniroyal - 0402WGJ0391TCE]() [(L)<br>](https://www.lcsc.com/search?q=0402WGJ0391TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0391TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0391TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0391TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0391TCE)<br>[Yageo - RC0402JR-07390RL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07390RL) [(L)<br>](https://www.lcsc.com/search?q=RC0402JR-07390RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-07390RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07390RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-07390RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-07390RL)<br> | 
+| markdown_full | [electronic_resistor_0402_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working)<br>[r4o391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working)<br>[LCSC - C25163<br>](https://lcsc.com/product-detail/C25163.html)[LCSC - C163442<br>](https://lcsc.com/product-detail/C163442.html)<br>[Uniroyal - 0402WGJ0391TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0391TCE)[(D)  ](https://www.digikey.com/en/products?,keywords=0402WGJ0391TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0391TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0391TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0391TCE)<br>[Yageo - RC0402JR-07390RL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07390RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07390RL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC0402JR-07390RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07390RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07390RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07390RL)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

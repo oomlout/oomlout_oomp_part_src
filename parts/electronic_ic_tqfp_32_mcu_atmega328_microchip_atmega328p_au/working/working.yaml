@@ -5,10 +5,6 @@ description_main: atmega328
 directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C618816.html
-    name: LCSC
-    part_number: C618816
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C14877.html
     name: LCSC
     part_number: C14877
@@ -20,6 +16,10 @@ distributors:
     link: https://lcsc.com/product-detail/C14877.html
     name: LCSC
     part_number: C14877
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C618816.html
+    name: LCSC
+    part_number: C618816
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
@@ -37,10 +37,10 @@ manufacturers:
     name: Microchip
     part_number: ATMEGA328P-AUR
 markdown_full: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)<br>[itq32at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)<br>[LCSC
-    - C618816<br>](https://lcsc.com/product-detail/C618816.html)[LCSC - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC
-    - C618816<br>](https://lcsc.com/product-detail/C618816.html)[LCSC - C14877<br>](https://lcsc.com/product-detail/C14877.html)<br>[Microchip
-    - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU) [(L)<br>](https://www.lcsc.com/search?q=ATMEGA328P-AU)[(D)<br>](https://www.digikey.com/en/products?,keywords=ATMEGA328P-AU)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AU)[(N)<br>](https://www.newark.com/search?st=ATMEGA328P-AU)[(SZ)<br>](https://so.szlcsc.com/global.html?k=ATMEGA328P-AU)<br>[Microchip
-    - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR) [(L)<br>](https://www.lcsc.com/search?q=ATMEGA328P-AUR)[(D)<br>](https://www.digikey.com/en/products?,keywords=ATMEGA328P-AUR)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AUR)[(N)<br>](https://www.newark.com/search?st=ATMEGA328P-AUR)[(SZ)<br>](https://so.szlcsc.com/global.html?k=ATMEGA328P-AUR)<br>'
+    - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC - C618816<br>](https://lcsc.com/product-detail/C618816.html)[LCSC
+    - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip
+    - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU) [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AU)[(D)  ](https://www.digikey.com/en/products?,keywords=ATMEGA328P-AU)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AU)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AU)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AU)<br>[Microchip
+    - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR) [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AUR)[(D)  ](https://www.digikey.com/en/products?,keywords=ATMEGA328P-AUR)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AUR)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AUR)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AUR)<br>'
 md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
 md5_10: 16166fb725
 md5_5: '16166'

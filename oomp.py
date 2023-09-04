@@ -588,7 +588,7 @@ def get_markdown_summaries(**kwargs):
             for search_type in search_types:
                 text = f"({search_types[search_type]['letter']})"
                 link = f"{search_types[search_type]['search_link_front']}{manufacturer_1_part_number}{search_types[search_type]['search_link_back']}"
-                search_links += oom_markdown.get_link(link=f"{link}",text=f"{text}<br>")
+                search_links += oom_markdown.get_link(link=f"{link}",text=f"{text}  ")
 
             text = f"{manufacturer_1_name} - {manufacturer_1_part_number}"
             manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}")

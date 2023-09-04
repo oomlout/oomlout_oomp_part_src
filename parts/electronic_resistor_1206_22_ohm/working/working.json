@@ -20,14 +20,14 @@
     "distributors": [
         {
             "name": "LCSC",
-            "part_number": "C114950",
-            "link": "https://lcsc.com/product-detail/C114950.html",
+            "part_number": "C25364",
+            "link": "https://lcsc.com/product-detail/C25364.html",
             "id": "distributor_lcsc"
         },
         {
             "name": "LCSC",
-            "part_number": "C25364",
-            "link": "https://lcsc.com/product-detail/C25364.html",
+            "part_number": "C114950",
+            "link": "https://lcsc.com/product-detail/C114950.html",
             "id": "distributor_lcsc"
         }
     ],
@@ -49,5 +49,5 @@
     "md5_5": "95c0a",
     "md5_6": "95c0a2",
     "md5_10": "95c0a23c93",
-    "markdown_full": "[electronic_resistor_1206_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22_ohm/working)<br>[r12o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22_ohm/working)<br>[LCSC - C114950<br>](https://lcsc.com/product-detail/C114950.html)[LCSC - C25364<br>](https://lcsc.com/product-detail/C25364.html)<br>[Uniroyal - 1206W4J0220T5E]() [(L)<br>](https://www.lcsc.com/search?q=1206W4J0220T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0220T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0220T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0220T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0220T5E)<br>[Yageo - RC1206JR-0722RL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722RL) [(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0722RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0722RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0722RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0722RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0722RL)<br>"
+    "markdown_full": "[electronic_resistor_1206_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22_ohm/working)<br>[r12o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22_ohm/working)<br>[LCSC - C25364<br>](https://lcsc.com/product-detail/C25364.html)[LCSC - C114950<br>](https://lcsc.com/product-detail/C114950.html)<br>[Uniroyal - 1206W4J0220T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0220T5E)[(D)  ](https://www.digikey.com/en/products?,keywords=1206W4J0220T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0220T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0220T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0220T5E)<br>[Yageo - RC1206JR-0722RL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722RL) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0722RL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC1206JR-0722RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0722RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0722RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0722RL)<br>"
 }

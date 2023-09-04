@@ -20,14 +20,14 @@
     "distributors": [
         {
             "name": "LCSC",
-            "part_number": "C105637",
-            "link": "https://lcsc.com/product-detail/C105637.html",
+            "part_number": "C25928",
+            "link": "https://lcsc.com/product-detail/C25928.html",
             "id": "distributor_lcsc"
         },
         {
             "name": "LCSC",
-            "part_number": "C25928",
-            "link": "https://lcsc.com/product-detail/C25928.html",
+            "part_number": "C105637",
+            "link": "https://lcsc.com/product-detail/C105637.html",
             "id": "distributor_lcsc"
         }
     ],
@@ -49,5 +49,5 @@
     "md5_5": "41386",
     "md5_6": "413868",
     "md5_10": "413868e86c",
-    "markdown_full": "[electronic_resistor_0402_1200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working)<br>[r4o122](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working)<br>[LCSC - C105637<br>](https://lcsc.com/product-detail/C105637.html)[LCSC - C25928<br>](https://lcsc.com/product-detail/C25928.html)<br>[Uniroyal - 0402WGJ0122TCE]() [(L)<br>](https://www.lcsc.com/search?q=0402WGJ0122TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0122TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0122TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0122TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0122TCE)<br>[Yageo - RC0402JR-071KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071KL) [(L)<br>](https://www.lcsc.com/search?q=RC0402JR-071KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-071KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-071KL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-071KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-071KL)<br>"
+    "markdown_full": "[electronic_resistor_0402_1200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working)<br>[r4o122](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working)<br>[LCSC - C25928<br>](https://lcsc.com/product-detail/C25928.html)[LCSC - C105637<br>](https://lcsc.com/product-detail/C105637.html)<br>[Uniroyal - 0402WGJ0122TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0122TCE)[(D)  ](https://www.digikey.com/en/products?,keywords=0402WGJ0122TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0122TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0122TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0122TCE)<br>[Yageo - RC0402JR-071KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071KL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-071KL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC0402JR-071KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-071KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-071KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-071KL)<br>"
 }

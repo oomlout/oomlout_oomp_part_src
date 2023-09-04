@@ -5,13 +5,13 @@ description_main: 1800_ohm
 directory: parts/electronic_resistor_0805_1800_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C114748.html
-    name: LCSC
-    part_number: C114748
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C26016.html
     name: LCSC
     part_number: C26016
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C114748.html
+    name: LCSC
+    part_number: C114748
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
@@ -32,10 +32,10 @@ manufacturers:
     name: Yageo
     part_number: RC0805JR-072KL
 markdown_full: '[electronic_resistor_0805_1800_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1800_ohm/working)<br>[r8o182](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1800_ohm/working)<br>[LCSC
-    - C114748<br>](https://lcsc.com/product-detail/C114748.html)[LCSC - C26016<br>](https://lcsc.com/product-detail/C26016.html)<br>[Uniroyal
-    - 0805W8J0182T5E]() [(L)<br>](https://www.lcsc.com/search?q=0805W8J0182T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0182T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0182T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0182T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0182T5E)<br>[Yageo
+    - C26016<br>](https://lcsc.com/product-detail/C26016.html)[LCSC - C114748<br>](https://lcsc.com/product-detail/C114748.html)<br>[Uniroyal
+    - 0805W8J0182T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0182T5E)[(D)  ](https://www.digikey.com/en/products?,keywords=0805W8J0182T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0182T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0182T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0182T5E)<br>[Yageo
     - RC0805JR-072KL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-072KL)
-    [(L)<br>](https://www.lcsc.com/search?q=RC0805JR-072KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-072KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-072KL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-072KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-072KL)<br>'
+    [(L)  ](https://www.lcsc.com/search?q=RC0805JR-072KL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC0805JR-072KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-072KL)[(N)  ](https://www.newark.com/search?st=RC0805JR-072KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-072KL)<br>'
 md5: 70eadfc5ff0aecc6978e8854a84315ca
 md5_10: 70eadfc5ff
 md5_5: 70ead

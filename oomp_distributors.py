@@ -1302,8 +1302,12 @@ def get_lcsc(**kwargs):
 
     #########
 
-    #remove duplicates from matches
-    matches = [dict(t) for t in {tuple(d.items()) for d in matches}]
+    #remove duplicates from matches where the id and part number are the same
+    for match in matches:
+        for match2 in matches:
+            if match["id"] == match2["id"] and match["part_number"] == match2["part_number"] and match != match2:
+                matches.remove(match2)
+    
 
     distributors = []
     for match in matches:

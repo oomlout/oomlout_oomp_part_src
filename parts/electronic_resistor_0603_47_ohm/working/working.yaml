@@ -5,13 +5,13 @@ description_main: 47_ohm
 directory: parts/electronic_resistor_0603_47_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C114684.html
-    name: LCSC
-    part_number: C114684
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C1211.html
     name: LCSC
     part_number: C1211
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C114684.html
+    name: LCSC
+    part_number: C114684
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -32,10 +32,10 @@ manufacturers:
     name: Yageo
     part_number: RC0603JR-0747RL
 markdown_full: '[electronic_resistor_0603_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br>[r6o470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br>[LCSC
-    - C114684<br>](https://lcsc.com/product-detail/C114684.html)[LCSC - C1211<br>](https://lcsc.com/product-detail/C1211.html)<br>[Uniroyal
-    - 0603WAJ0470T5E]() [(L)<br>](https://www.lcsc.com/search?q=0603WAJ0470T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0470T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0470T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0470T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0470T5E)<br>[Yageo
+    - C1211<br>](https://lcsc.com/product-detail/C1211.html)[LCSC - C114684<br>](https://lcsc.com/product-detail/C114684.html)<br>[Uniroyal
+    - 0603WAJ0470T5E]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0470T5E)[(D)  ](https://www.digikey.com/en/products?,keywords=0603WAJ0470T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0470T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0470T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0470T5E)<br>[Yageo
     - RC0603JR-0747RL](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0747RL)
-    [(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0747RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0747RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0747RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0747RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0747RL)<br>'
+    [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0747RL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC0603JR-0747RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0747RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0747RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0747RL)<br>'
 md5: a7ac6cea85b8741f6175603c741dd065
 md5_10: a7ac6cea85
 md5_5: a7ac6
