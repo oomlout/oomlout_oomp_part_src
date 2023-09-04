@@ -188,6 +188,9 @@ def add_part(**kwargs):
         parts_md5_10[kwargs["md5_10"]] = id
         
 
+        kwargs = get_markdown_summaries(**kwargs)
+
+
         ## print part nicely indented by six spaces
         ### print("      " + str(kwargs).replace(", ", ",\n      "))
 
@@ -509,7 +512,63 @@ def get_images(**kwargs):
 
 
 
+def get_markdown_summaries(**kwargs):
+    import oom_markdown
+    id = kwargs.get("id","none")
+    github_link = kwargs.get("github_link","none")
+    short_code = kwargs.get("short_code","none")
 
+    distributors = kwargs.get("distributors",[])
+    manufacturers = kwargs.get("manufacturers",[])
+
+    pass
+    """
+    short code (link)"""
+
+    short_link = oom_markdown.get_link(link=f"{github_link}",text=f"{short_code}")
+    id_link = oom_markdown.get_link(link=f"{github_link}",text=f"{id}")
+
+    distributor_link = ""
+    max_dist = 6
+    if len(distributors) > 0:
+        for x in range(min(len(distributors),max_dist)):
+            distributor_1_name = distributors[x]["name"]
+            distributor_1_link = distributors[x]['link']
+            distributor_1_part_number = distributors[x]['part_number']
+            text = f"{distributor_1_name} - {distributor_1_part_number}"
+            distributor_link += oom_markdown.get_link(link=f"{distributor_1_link}",text=f"{text}<br>")
+    if len(distributors) > max_dist:
+        text += f"and {len(distributors)-max_dist} more"
+        link = github_link
+        distributor_link += oom_markdown.get_link(link=f"{link}",text=f"{text}<br>")
+
+    ## do the same for manufacturers
+    manufacturer_link = ""
+    max_manu = 6
+    if len(manufacturers) > 0:
+        for x in range(min(len(manufacturers),max_dist)):
+            manufacturer_1_name = manufacturers[x]["name"]
+            manufacturer_1_link = manufacturers[x]['link']
+            manufacturer_1_part_number = manufacturers[x]['part_number']
+            text = f"{manufacturer_1_name} - {manufacturer_1_part_number}"
+            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}<br>")
+    if len(manufacturers) > max_dist:
+        text += f"and {len(manufacturers)-max_dist} more"
+        link = github_link
+        manufacturer_link += oom_markdown.get_link(link=f"{link}",text=f"{text}<br>")
+
+
+
+
+
+
+    markdown_full = f"{id_link}<br>{short_link}<br>{manufacturer_link}"
+    
+
+
+
+
+    return kwargs
 
 
     
