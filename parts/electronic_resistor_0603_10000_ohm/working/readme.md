@@ -16,10 +16,10 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C25804](https://lcsc.com/product-detail/C25804.html)  
-* [LCSC - C15401](https://lcsc.com/product-detail/C15401.html)  
 * [LCSC - C99198](https://lcsc.com/product-detail/C99198.html)  
 * [LCSC - C98220](https://lcsc.com/product-detail/C98220.html)  
+* [LCSC - C15401](https://lcsc.com/product-detail/C15401.html)  
+* [LCSC - C25804](https://lcsc.com/product-detail/C25804.html)  
 
 ## manufacturers
 * [Uniroyal - 0603WAJ0103T5E]()  
@@ -57,7 +57,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0603_10000_ohm | 
 | name | Electronic Resistor 0603 10000 Ohm | 
 | short_code | r6o103 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25804', 'link': 'https://lcsc.com/product-detail/C25804.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C15401', 'link': 'https://lcsc.com/product-detail/C15401.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C99198', 'link': 'https://lcsc.com/product-detail/C99198.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C98220', 'link': 'https://lcsc.com/product-detail/C98220.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C99198', 'link': 'https://lcsc.com/product-detail/C99198.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C98220', 'link': 'https://lcsc.com/product-detail/C98220.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C15401', 'link': 'https://lcsc.com/product-detail/C15401.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C25804', 'link': 'https://lcsc.com/product-detail/C25804.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAJ0103T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0603JR-0710KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
@@ -67,6 +67,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 98b9c | 
 | md5_6 | 98b9ca | 
 | md5_10 | 98b9ca3420 | 
-| markdown_full | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[r6o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)[LCSC - C98220<br>](https://lcsc.com/product-detail/C98220.html)<br>[Uniroyal - 0603WAJ0103T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0103T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0103T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0103T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0103T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0103T5E)]()[Yageo - RC0603JR-0710KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0710KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0710KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0710KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0710KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0710KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL) | 
+| markdown_full | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[r6o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)[LCSC - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)<br>[Uniroyal - 0603WAJ0103T5E]() [(L)<br>](https://www.lcsc.com/search?q=0603WAJ0103T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0103T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0103T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0103T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0103T5E)<br>[Yageo - RC0603JR-0710KL](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL) [(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0710KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0710KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0710KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0710KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0710KL)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

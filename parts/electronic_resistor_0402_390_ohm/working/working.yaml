@@ -5,13 +5,13 @@ description_main: 390_ohm
 directory: parts/electronic_resistor_0402_390_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25163.html
-    name: LCSC
-    part_number: C25163
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C163442.html
     name: LCSC
     part_number: C163442
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25163.html
+    name: LCSC
+    part_number: C25163
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working
@@ -28,9 +28,10 @@ manufacturers:
     name: Yageo
     part_number: RC0402JR-07390RL
 markdown_full: '[electronic_resistor_0402_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working)<br>[r4o391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm/working)<br>[LCSC
-    - C25163<br>](https://lcsc.com/product-detail/C25163.html)[LCSC - C163442<br>](https://lcsc.com/product-detail/C163442.html)<br>[Uniroyal
-    - 0402WGJ0391TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0391TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0391TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0391TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0391TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0391TCE)]()[Yageo
-    - RC0402JR-07390RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-07390RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-07390RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07390RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-07390RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-07390RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07390RL)'
+    - C163442<br>](https://lcsc.com/product-detail/C163442.html)[LCSC - C25163<br>](https://lcsc.com/product-detail/C25163.html)<br>[Uniroyal
+    - 0402WGJ0391TCE]() [(L)<br>](https://www.lcsc.com/search?q=0402WGJ0391TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0391TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0391TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0391TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0391TCE)<br>[Yageo
+    - RC0402JR-07390RL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07390RL)
+    [(L)<br>](https://www.lcsc.com/search?q=RC0402JR-07390RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-07390RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07390RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-07390RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-07390RL)<br>'
 md5: 9d059da8937dbcbb2228979929bba104
 md5_10: 9d059da893
 md5_5: 9d059

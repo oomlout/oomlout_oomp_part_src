@@ -5,13 +5,13 @@ description_main: 22_pico_farad
 directory: parts/electronic_capacitor_0603_22_pico_farad
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2845294.html
-    name: LCSC
-    part_number: C2845294
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C105620.html
     name: LCSC
     part_number: C105620
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2845294.html
+    name: LCSC
+    part_number: C2845294
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
@@ -32,9 +32,10 @@ manufacturers:
     name: Yageo
     part_number: CC0603JRNPO9BN220
 markdown_full: '[electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[c6pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[LCSC
-    - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)[LCSC - C105620<br>](https://lcsc.com/product-detail/C105620.html)<br>[HCTL
-    - TC-3601L-2.5-260G<br>[(L)<br>](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)<br>](https://www.digikey.com/en/products?,keywords=TC-3601L-2.5-260G)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)<br>](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)<br>](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)]()[Yageo
-    - CC0603JRNPO9BN220<br>[(L)<br>](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)<br>](https://www.digikey.com/en/products?,keywords=CC0603JRNPO9BN220)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)<br>](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)<br>](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)'
+    - C105620<br>](https://lcsc.com/product-detail/C105620.html)[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br>[HCTL
+    - TC-3601L-2.5-260G]() [(L)<br>](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)<br>](https://www.digikey.com/en/products?,keywords=TC-3601L-2.5-260G)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)<br>](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)<br>](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo
+    - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)
+    [(L)<br>](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)<br>](https://www.digikey.com/en/products?,keywords=CC0603JRNPO9BN220)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)<br>](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)<br>](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br>'
 md5: ed43fc9f13c024e0a26ef47e97a61fd1
 md5_10: ed43fc9f13
 md5_5: ed43f

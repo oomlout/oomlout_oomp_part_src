@@ -5,13 +5,13 @@ description_main: 12_ohm
 directory: parts/electronic_resistor_1206_12_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25352.html
-    name: LCSC
-    part_number: C25352
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C137202.html
     name: LCSC
     part_number: C137202
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25352.html
+    name: LCSC
+    part_number: C25352
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -32,9 +32,10 @@ manufacturers:
     name: Yageo
     part_number: RC1206JR-0712RL
 markdown_full: '[electronic_resistor_1206_12_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12_ohm/working)<br>[r12o120](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12_ohm/working)<br>[LCSC
-    - C25352<br>](https://lcsc.com/product-detail/C25352.html)[LCSC - C137202<br>](https://lcsc.com/product-detail/C137202.html)<br>[Uniroyal
-    - 1206W4J0120T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0120T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0120T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0120T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0120T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0120T5E)]()[Yageo
-    - RC1206JR-0712RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0712RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0712RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0712RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0712RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0712RL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0712RL)'
+    - C137202<br>](https://lcsc.com/product-detail/C137202.html)[LCSC - C25352<br>](https://lcsc.com/product-detail/C25352.html)<br>[Uniroyal
+    - 1206W4J0120T5E]() [(L)<br>](https://www.lcsc.com/search?q=1206W4J0120T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0120T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0120T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0120T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0120T5E)<br>[Yageo
+    - RC1206JR-0712RL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0712RL)
+    [(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0712RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0712RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0712RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0712RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0712RL)<br>'
 md5: 05efec3ca24f6e55f09dd5b682a23035
 md5_10: 05efec3ca2
 md5_5: 05efe

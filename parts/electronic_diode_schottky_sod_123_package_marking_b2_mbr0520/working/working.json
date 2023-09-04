@@ -20,12 +20,6 @@
     "distributors": [
         {
             "name": "LCSC",
-            "part_number": "C77335",
-            "link": "https://lcsc.com/product-detail/C77335.html",
-            "id": "distributor_lcsc"
-        },
-        {
-            "name": "LCSC",
             "part_number": "C475717",
             "link": "https://lcsc.com/product-detail/C475717.html",
             "id": "distributor_lcsc"
@@ -40,6 +34,12 @@
             "name": "LCSC",
             "part_number": "C165467",
             "link": "https://lcsc.com/product-detail/C165467.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C77335",
+            "link": "https://lcsc.com/product-detail/C77335.html",
             "id": "distributor_lcsc"
         }
     ],
@@ -67,5 +67,5 @@
     "md5_5": "fd1bf",
     "md5_6": "fd1bfb",
     "md5_10": "fd1bfba95e",
-    "markdown_full": "[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C165467<br>](https://lcsc.com/product-detail/C165467.html)<br>[Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520<br>[(L)<br>](https://www.lcsc.com/search?q=MBR0520)[(D)<br>](https://www.digikey.com/en/products?,keywords=MBR0520)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)<br>](https://www.newark.com/search?st=MBR0520)[(SZ)<br>](https://so.szlcsc.com/global.html?k=MBR0520)]()[Shikues - MBR0520<br>[(L)<br>](https://www.lcsc.com/search?q=MBR0520)[(D)<br>](https://www.digikey.com/en/products?,keywords=MBR0520)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)<br>](https://www.newark.com/search?st=MBR0520)[(SZ)<br>](https://so.szlcsc.com/global.html?k=MBR0520)]()[onsemi - MBR0520LT3G<br>[(L)<br>](https://www.lcsc.com/search?q=MBR0520LT3G)[(D)<br>](https://www.digikey.com/en/products?,keywords=MBR0520LT3G)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=MBR0520LT3G)[(N)<br>](https://www.newark.com/search?st=MBR0520LT3G)[(SZ)<br>](https://so.szlcsc.com/global.html?k=MBR0520LT3G)]()"
+    "markdown_full": "[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C165467<br>](https://lcsc.com/product-detail/C165467.html)[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)<br>[Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520]() [(L)<br>](https://www.lcsc.com/search?q=MBR0520)[(D)<br>](https://www.digikey.com/en/products?,keywords=MBR0520)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)<br>](https://www.newark.com/search?st=MBR0520)[(SZ)<br>](https://so.szlcsc.com/global.html?k=MBR0520)<br>[Shikues - MBR0520]() [(L)<br>](https://www.lcsc.com/search?q=MBR0520)[(D)<br>](https://www.digikey.com/en/products?,keywords=MBR0520)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)<br>](https://www.newark.com/search?st=MBR0520)[(SZ)<br>](https://so.szlcsc.com/global.html?k=MBR0520)<br>[onsemi - MBR0520LT3G]() [(L)<br>](https://www.lcsc.com/search?q=MBR0520LT3G)[(D)<br>](https://www.digikey.com/en/products?,keywords=MBR0520LT3G)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=MBR0520LT3G)[(N)<br>](https://www.newark.com/search?st=MBR0520LT3G)[(SZ)<br>](https://so.szlcsc.com/global.html?k=MBR0520LT3G)<br>"
 }

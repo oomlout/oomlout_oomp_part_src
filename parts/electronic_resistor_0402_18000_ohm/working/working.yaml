@@ -5,13 +5,13 @@ description_main: 18000_ohm
 directory: parts/electronic_resistor_0402_18000_ohm
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25542.html
-    name: LCSC
-    part_number: C25542
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C137912.html
     name: LCSC
     part_number: C137912
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C25542.html
+    name: LCSC
+    part_number: C25542
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18000_ohm/working
@@ -28,9 +28,10 @@ manufacturers:
     name: Yageo
     part_number: RC0402JR-0718KL
 markdown_full: '[electronic_resistor_0402_18000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18000_ohm/working)<br>[r4o183](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18000_ohm/working)<br>[LCSC
-    - C25542<br>](https://lcsc.com/product-detail/C25542.html)[LCSC - C137912<br>](https://lcsc.com/product-detail/C137912.html)<br>[Uniroyal
-    - 0402WGJ0183TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0183TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0183TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0183TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0183TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0183TCE)]()[Yageo
-    - RC0402JR-0718KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0718KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0718KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0718KL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0718KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0718KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0718KL)'
+    - C137912<br>](https://lcsc.com/product-detail/C137912.html)[LCSC - C25542<br>](https://lcsc.com/product-detail/C25542.html)<br>[Uniroyal
+    - 0402WGJ0183TCE]() [(L)<br>](https://www.lcsc.com/search?q=0402WGJ0183TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0183TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0183TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0183TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0183TCE)<br>[Yageo
+    - RC0402JR-0718KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0718KL)
+    [(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0718KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0718KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0718KL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0718KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0718KL)<br>'
 md5: 836886f54c4c76e4e15e8b007a8c57d0
 md5_10: 836886f54c
 md5_5: '83688'

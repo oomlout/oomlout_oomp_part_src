@@ -16,8 +16,8 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C25294](https://lcsc.com/product-detail/C25294.html)  
 * [LCSC - C114742](https://lcsc.com/product-detail/C114742.html)  
+* [LCSC - C25294](https://lcsc.com/product-detail/C25294.html)  
 
 ## manufacturers
 * [Uniroyal - 0805W8J0221T5E]()  
@@ -55,12 +55,12 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_220_ohm | 
 | name | Electronic Resistor 0805 220 Ohm | 
 | short_code | r8o221 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25294', 'link': 'https://lcsc.com/product-detail/C25294.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C114742', 'link': 'https://lcsc.com/product-detail/C114742.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C114742', 'link': 'https://lcsc.com/product-detail/C114742.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C25294', 'link': 'https://lcsc.com/product-detail/C25294.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0221T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0805JR-07220RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07220RL', 'id': 'manufacturer_yageo'}] | 
 | md5 | 5b162aff3983302412c35d3a6a14a2a3 | 
 | md5_5 | 5b162 | 
 | md5_6 | 5b162a | 
 | md5_10 | 5b162aff39 | 
-| markdown_full | [electronic_resistor_0805_220_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_220_ohm/working)<br>[r8o221](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_220_ohm/working)<br>[LCSC - C25294<br>](https://lcsc.com/product-detail/C25294.html)[LCSC - C114742<br>](https://lcsc.com/product-detail/C114742.html)<br>[Uniroyal - 0805W8J0221T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0221T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0221T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0221T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0221T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0221T5E)]()[Yageo - RC0805JR-07220RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-07220RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-07220RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-07220RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-07220RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-07220RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07220RL) | 
+| markdown_full | [electronic_resistor_0805_220_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_220_ohm/working)<br>[r8o221](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_220_ohm/working)<br>[LCSC - C114742<br>](https://lcsc.com/product-detail/C114742.html)[LCSC - C25294<br>](https://lcsc.com/product-detail/C25294.html)<br>[Uniroyal - 0805W8J0221T5E]() [(L)<br>](https://www.lcsc.com/search?q=0805W8J0221T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0221T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0221T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0221T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0221T5E)<br>[Yageo - RC0805JR-07220RL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07220RL) [(L)<br>](https://www.lcsc.com/search?q=RC0805JR-07220RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-07220RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-07220RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-07220RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-07220RL)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

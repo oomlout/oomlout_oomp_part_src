@@ -591,7 +591,8 @@ def get_markdown_summaries(**kwargs):
                 search_links += oom_markdown.get_link(link=f"{link}",text=f"{text}<br>")
 
             text = f"{manufacturer_1_name} - {manufacturer_1_part_number}"
-            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}<br>{search_links}")
+            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}")
+            manufacturer_link += f" {search_links}<br>"
     if len(manufacturers) > max_dist:
         text += f"and {len(manufacturers)-max_dist} more"
         link = github_link
@@ -603,7 +604,9 @@ def get_markdown_summaries(**kwargs):
 
 
     markdown_full = f"{id_link}<br>{short_link}<br>{distributor_link}<br>{manufacturer_link}"
-    
+
+    sourcing_full = f"{distributor_link}<br>{manufacturer_link}"
+
 
     kwargs["markdown_full"] = markdown_full
 
