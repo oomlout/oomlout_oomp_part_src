@@ -18,7 +18,32 @@
     "name": "Electronic Resistor 0603 3300 Ohm",
     "short_code": "r6o332",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0402WAF3301T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0603WAF3301T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0805WAF3301T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "1206WAF3301T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        }
+    ],
     "package_style": "smd_tape",
     "smd_tape_width": "8_mm",
     "smd_tape_depth": "1_5_mm",
@@ -27,5 +52,5 @@
     "md5_5": "24b74",
     "md5_6": "24b74f",
     "md5_10": "24b74f09ef",
-    "markdown_full": "[electronic_resistor_0603_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br>[r6o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0603_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br>[r6o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm/working)<br><br>[Uniroyal - 0402WAF3301T5E<br>]()[Uniroyal - 0603WAF3301T5E<br>]()[Uniroyal - 0805WAF3301T5E<br>]()[Uniroyal - 1206WAF3301T5E<br>]()"
 }

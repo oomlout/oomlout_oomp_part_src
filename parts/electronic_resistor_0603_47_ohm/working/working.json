@@ -18,7 +18,32 @@
     "name": "Electronic Resistor 0603 47 Ohm",
     "short_code": "r6o470",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0402WAF47-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0603WAF47-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0805WAF47-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "1206WAF47-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        }
+    ],
     "package_style": "smd_tape",
     "smd_tape_width": "8_mm",
     "smd_tape_depth": "1_5_mm",
@@ -27,5 +52,5 @@
     "md5_5": "a7ac6",
     "md5_6": "a7ac6c",
     "md5_10": "a7ac6cea85",
-    "markdown_full": "[electronic_resistor_0603_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br>[r6o470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0603_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br>[r6o470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br><br>[Uniroyal - 0402WAF47-1T5E<br>]()[Uniroyal - 0603WAF47-1T5E<br>]()[Uniroyal - 0805WAF47-1T5E<br>]()[Uniroyal - 1206WAF47-1T5E<br>]()"
 }

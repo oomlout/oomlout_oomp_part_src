@@ -14,8 +14,26 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_resistor_0603_12_ohm
 kicad_reference: R
 manufacturer: ''
-manufacturers: []
-markdown_full: '[electronic_resistor_0603_12_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_12_ohm/working)<br>[r6o120](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_12_ohm/working)<br><br>'
+manufacturers:
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 0402WAF12-1T5E
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 0603WAF12-1T5E
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 0805WAF12-1T5E
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 1206WAF12-1T5E
+markdown_full: '[electronic_resistor_0603_12_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_12_ohm/working)<br>[r6o120](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_12_ohm/working)<br><br>[Uniroyal
+    - 0402WAF12-1T5E<br>]()[Uniroyal - 0603WAF12-1T5E<br>]()[Uniroyal - 0805WAF12-1T5E<br>]()[Uniroyal
+    - 1206WAF12-1T5E<br>]()'
 md5: 1559b840fa49ec0552d6dc48b9015f46
 md5_10: 1559b840fa
 md5_5: 1559b

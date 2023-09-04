@@ -267,11 +267,27 @@ def get_samsung(**kwargs):
 
 def get_uniroyal(**kwargs):
     matches = []
-    matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
-                  "part_number": "0603WAF1001T5E"})
-    matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
-                  "part_number": "0603WAF1002T5E"})
-    
+
+    sizes = ["0201", "0402", "0603", "0805", "1206"]
+    base_values = [10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82]
+
+    #matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
+    #              "part_number": "0603WAF1001T5E"})
+    #matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
+    #              "part_number": "0603WAF1002T5E"})
+    num_decades = 4
+    resistor_values = []
+    for size in sizes:
+        for i in range(num_decades):
+            for base in base_values:
+                value = base * (10 ** i)
+                resistor_string = f"{value}_ohm"
+                id = f"oomp_electronic_resistor_0603_{resistor_string}"
+                first_three_digits = str(value)[0:3]
+                number_of_trailing_zeros = len(str(value)) - 3
+                part_number = f"{size}WAF{first_three_digits}{number_of_trailing_zeros}T5E"
+                matches.append({"id":id,
+                                "part_number": part_number})
 
     manufacturers = []
     for match in matches:

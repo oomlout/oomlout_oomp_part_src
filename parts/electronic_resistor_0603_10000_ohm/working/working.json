@@ -34,7 +34,25 @@
     "manufacturers": [
         {
             "name": "Uniroyal",
+            "part_number": "0402WAF1002T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
             "part_number": "0603WAF1002T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0805WAF1002T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "1206WAF1002T5E",
             "link": "",
             "id": "manufacturer_uniroyal"
         },
@@ -53,5 +71,5 @@
     "md5_5": "98b9c",
     "md5_6": "98b9ca",
     "md5_10": "98b9ca3420",
-    "markdown_full": "[electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[r6o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)<br>[Uniroyal - 0603WAF1002T5E<br>]()[Yageo - RC0603FR-0710KL<br>](https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-0710KL)"
+    "markdown_full": "[electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[r6o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)<br>[Uniroyal - 0402WAF1002T5E<br>]()[Uniroyal - 0603WAF1002T5E<br>]()[Uniroyal - 0805WAF1002T5E<br>]()[Uniroyal - 1206WAF1002T5E<br>]()[Yageo - RC0603FR-0710KL<br>](https://www.yageo.com/en/Chart/Download/pdf/RC0603FR-0710KL)"
 }

@@ -18,7 +18,32 @@
     "name": "Electronic Resistor 0603 22 Ohm",
     "short_code": "r6o220",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0402WAF22-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0603WAF22-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0805WAF22-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "1206WAF22-1T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        }
+    ],
     "package_style": "smd_tape",
     "smd_tape_width": "8_mm",
     "smd_tape_depth": "1_5_mm",
@@ -27,5 +52,5 @@
     "md5_5": "c05ff",
     "md5_6": "c05ffa",
     "md5_10": "c05ffab15f",
-    "markdown_full": "[electronic_resistor_0603_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22_ohm/working)<br>[r6o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0603_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22_ohm/working)<br>[r6o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22_ohm/working)<br><br>[Uniroyal - 0402WAF22-1T5E<br>]()[Uniroyal - 0603WAF22-1T5E<br>]()[Uniroyal - 0805WAF22-1T5E<br>]()[Uniroyal - 1206WAF22-1T5E<br>]()"
 }

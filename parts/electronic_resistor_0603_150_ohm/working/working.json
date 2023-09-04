@@ -18,7 +18,32 @@
     "name": "Electronic Resistor 0603 150 Ohm",
     "short_code": "r6o151",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0402WAF1500T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0603WAF1500T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0805WAF1500T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "1206WAF1500T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        }
+    ],
     "package_style": "smd_tape",
     "smd_tape_width": "8_mm",
     "smd_tape_depth": "1_5_mm",
@@ -27,5 +52,5 @@
     "md5_5": "84ae3",
     "md5_6": "84ae3b",
     "md5_10": "84ae3b7d32",
-    "markdown_full": "[electronic_resistor_0603_150_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_150_ohm/working)<br>[r6o151](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_150_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0603_150_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_150_ohm/working)<br>[r6o151](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_150_ohm/working)<br><br>[Uniroyal - 0402WAF1500T5E<br>]()[Uniroyal - 0603WAF1500T5E<br>]()[Uniroyal - 0805WAF1500T5E<br>]()[Uniroyal - 1206WAF1500T5E<br>]()"
 }
