@@ -50,5 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 41b84 | 
 | md5_6 | 41b843 | 
 | md5_10 | 41b843c380 | 
-| markdown_full | [electronic_header_2d54_mm_jst_xh_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount/working)<br>[h7psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount/working)<br><br> | 
+| markdown_full | [electronic_header_2d54_mm_jst_xh_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount/working)<br>[h7psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm Jst Xh 7 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x07_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym'}] | 

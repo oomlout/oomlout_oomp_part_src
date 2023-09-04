@@ -17,7 +17,6 @@
 
 ## distributors
 * [LCSC - C965804](https://lcsc.com/product-detail/C965804.html)  
-* [LCSC - C965804](https://lcsc.com/product-detail/C965804.html)  
 
 ## manufacturers
 * [XINGLIGHT - XL-1608UGC-04]()  
@@ -55,7 +54,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Led 0603 Green | 
 | short_code | l6g | 
 | short_name | 0603 Green Led | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C965804', 'link': 'https://lcsc.com/product-detail/C965804.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C965804', 'link': 'https://lcsc.com/product-detail/C965804.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C965804', 'link': 'https://lcsc.com/product-detail/C965804.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608UGC-04', 'link': '', 'id': 'manufacturer_xinglight'}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
@@ -65,6 +64,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | b4e82 | 
 | md5_6 | b4e823 | 
 | md5_10 | b4e8235ce2 | 
-| markdown_full | [electronic_led_0603_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[l6g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[LCSC - C965804<br>](https://lcsc.com/product-detail/C965804.html)[LCSC - C965804<br>](https://lcsc.com/product-detail/C965804.html)<br>[XINGLIGHT - XL-1608UGC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UGC-04)[(D)  ](https://www.digikey.com/en/products?,keywords=XL-1608UGC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UGC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UGC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UGC-04)<br> | 
+| markdown_full | [electronic_led_0603_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[l6g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[Electronic Led 0603 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[LCSC - C965804<br>](https://lcsc.com/product-detail/C965804.html)<br>[XINGLIGHT - XL-1608UGC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UGC-04)[(D)  ](https://www.digikey.com/en/products?,keywords=XL-1608UGC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UGC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UGC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UGC-04)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric', 'oomp_key': 'oomp_kicad_led_smd_led_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

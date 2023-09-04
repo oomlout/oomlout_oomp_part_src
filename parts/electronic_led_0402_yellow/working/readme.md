@@ -51,5 +51,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 115c9 | 
 | md5_6 | 115c9c | 
 | md5_10 | 115c9ceb12 | 
-| markdown_full | [electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br> | 
+| markdown_full | [electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[Electronic Led 0402 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

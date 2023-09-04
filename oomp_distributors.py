@@ -14,31 +14,31 @@ def get_lcsc(**kwargs):
                   "part_number": "c82650"})
 
     # button
-    matches.append({"id":"oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
+    matches.append({"id":"electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
                   "part_number": "C2845294"})
 
     # capacitor
-    part = "oomp_electronic_capacitor_0603_100_nano_farad"
+    part = "electronic_capacitor_0603_100_nano_farad"
     matches.append({"id":part, "part_number": "C14663"})
     matches.append({"id":part, "part_number": "C30926"})
 
-    matches.append({"id":"oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt",
+    matches.append({"id":"electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt",
                     "part_number": "C7187"})
     
     # ceramic resonator
-    matches.append({"id":"oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz",
+    matches.append({"id":"electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz",
                     "part_number": "C341520"})
-    matches.append({"id":"oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz",
+    matches.append({"id":"electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz",
                     "part_number": "C882605"})
     
     # diode
-    matches.append({"id":"oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
+    matches.append({"id":"electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
                     "part_number": "C77335"})
-    matches.append({"id":"oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
+    matches.append({"id":"electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
                     "part_number": "C475717"})
 
     # header
-    matches.append({"id":"oomp_electronic_header_1d27_mm_6_pin",
+    matches.append({"id":"electronic_header_1d27_mm_6_pin",
                     "part_number": "C2935946"})
 
     #       jst
@@ -54,13 +54,13 @@ def get_lcsc(**kwargs):
 
     # ic
     #      atmega328
-    matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+    matches.append({"id":"electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
                   "part_number": "C14877"})
-    matches.append({"id":"oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
+    matches.append({"id":"electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
                   "part_number": "C618816"})
     
     #      sensors
-    matches.append({"id":"oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
+    matches.append({"id":"electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
 
     #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
@@ -81,20 +81,20 @@ def get_lcsc(**kwargs):
                   "part_number": "C81010"})
     
     # led
-    matches.append({"id":"oomp_electronic_led_0603_red",
+    matches.append({"id":"electronic_led_0603_red",
                   "part_number": "C965799"})
-    matches.append({"id":"oomp_electronic_led_0603_green",
+    matches.append({"id":"electronic_led_0603_green",
                   "part_number": "C965804"})
-    matches.append({"id":"oomp_electronic_led_0603_blue",
+    matches.append({"id":"electronic_led_0603_blue",
                   "part_number": "C965807"})
-    matches.append({"id":"oomp_electronic_led_0603_yellow",
+    matches.append({"id":"electronic_led_0603_yellow",
                   "part_number": "C965802"})
-    matches.append({"id":"oomp_electronic_led_0603_white",
+    matches.append({"id":"electronic_led_0603_white",
                   "part_number": "C965808"})
     
     # pmic
     #      1117
-    matches.append({"id":"oomp_electronic_pmic_sot_223_linear_1117_5_volt",
+    matches.append({"id":"electronic_pmic_sot_223_linear_1117_5_volt",
                     "part_number": "C347223"})
 
     # resistors
@@ -1303,16 +1303,17 @@ def get_lcsc(**kwargs):
     #########
 
     #remove duplicates from matches where the id and part number are the same
-    for match in matches:
-        for match2 in matches:
-            if match["id"] == match2["id"] and match["part_number"] == match2["part_number"] and match != match2:
-                matches.remove(match2)
-    
+    old_matches = matches.copy()
+    new_matches = []    
+    for match in old_matches:
+        if match not in new_matches:
+            new_matches.append(match)
+    matches = new_matches
 
     distributors = []
     for match in matches:
         #jus check th id
-        if match["id"].replace("oomp_","") in kwargs["id"]:
+        if match["id"].replace("","") in kwargs["id"]:
             distributor_match = {}
             distributor_match["name"] = "LCSC"
             distributor_match["part_number"] = match["part_number"]
@@ -1341,7 +1342,7 @@ def get_aliexpress(**kwargs):
     distributors = []
     for match in matches:
         #jus check th id
-        if match["id"].replace("oomp_","") in kwargs["id"]:
+        if match["id"].replace("","") in kwargs["id"]:
             distributor_match = {}
             distributor_match["name"] = "AliExpress"
             distributor_match["part_number"] = f'search: {match["part_number"]}'

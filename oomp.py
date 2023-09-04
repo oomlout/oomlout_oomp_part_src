@@ -515,6 +515,7 @@ def get_images(**kwargs):
 def get_markdown_summaries(**kwargs):
     import oom_markdown
     id = kwargs.get("id","none")
+    name = kwargs.get("name","none")
     github_link = kwargs.get("github_link","none")
     short_code = kwargs.get("short_code","none")
 
@@ -527,6 +528,7 @@ def get_markdown_summaries(**kwargs):
 
     short_link = oom_markdown.get_link(link=f"{github_link}",text=f"{short_code}")
     id_link = oom_markdown.get_link(link=f"{github_link}",text=f"{id}")
+    name_link = oom_markdown.get_link(link=f"{github_link}",text=f"{name}")
 
     distributor_link = ""
     max_dist = 6
@@ -603,7 +605,7 @@ def get_markdown_summaries(**kwargs):
 
 
 
-    markdown_full = f"{id_link}<br>{short_link}<br>{distributor_link}<br>{manufacturer_link}"
+    markdown_full = f"{id_link}<br>{short_link}<br>{name_link}<br>{distributor_link}<br>{manufacturer_link}"
 
     sourcing_full = f"{distributor_link}<br>{manufacturer_link}"
 

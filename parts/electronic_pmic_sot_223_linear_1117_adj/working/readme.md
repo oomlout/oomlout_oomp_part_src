@@ -58,6 +58,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | cdc56 | 
 | md5_6 | cdc564 | 
 | md5_10 | cdc5644737 | 
-| markdown_full | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> | 
+| markdown_full | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj', 'oomp_key': 'oomp_kicad_regulator_linear_ap1117_adj', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym'}] | 

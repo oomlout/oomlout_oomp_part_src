@@ -50,5 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | daead | 
 | md5_6 | daeadc | 
 | md5_10 | daeadc012d | 
-| markdown_full | [electronic_header_2d54_mm_jst_xh_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_10_pin/working)<br>[h10p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_10_pin/working)<br><br> | 
+| markdown_full | [electronic_header_2d54_mm_jst_xh_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_10_pin/working)<br>[h10p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_10_pin/working)<br>[Electronic Header 2D54 Mm Jst Xh 10 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_10_pin/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x10_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x10_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym'}] | 

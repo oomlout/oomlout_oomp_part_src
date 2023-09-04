@@ -51,5 +51,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 1c2ec | 
 | md5_6 | 1c2ecd | 
 | md5_10 | 1c2ecd94ec | 
-| markdown_full | [electronic_led_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br>[l3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br><br> | 
+| markdown_full | [electronic_led_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br>[l3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br>[Electronic Led 3 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

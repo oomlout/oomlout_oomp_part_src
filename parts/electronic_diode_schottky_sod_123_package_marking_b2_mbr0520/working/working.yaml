@@ -13,14 +13,6 @@ distributors:
     name: LCSC
     part_number: C475717
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C77335.html
-    name: LCSC
-    part_number: C77335
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C77335.html
-    name: LCSC
-    part_number: C77335
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C165467.html
     name: LCSC
     part_number: C165467
@@ -47,9 +39,9 @@ manufacturers:
     link: ''
     name: onsemi
     part_number: MBR0520LT3G
-markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC
+markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[Electronic
+    Diode Schottky Sod 123 Package Marking B2 Mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC
     - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)[LCSC
-    - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC
     - C165467<br>](https://lcsc.com/product-detail/C165467.html)<br>[Jiangsu Changjing
     Electronics Technology Co., Ltd. - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?,keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[Shikues
     - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?,keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[onsemi
