@@ -16,6 +16,8 @@
 * part_number -- 
 
 
+## manufacturers
+* [Uniroyal - NQ01WMJ0472TEE]()  
 
 ## symbol
 
@@ -45,10 +47,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 4700 Ohm | 
 | short_code | ro472 | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0472TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
 | md5 | 0cc095c76a6d11d8bb49bc9053257eaf | 
 | md5_5 | 0cc09 | 
 | md5_6 | 0cc095 | 
 | md5_10 | 0cc095c76a | 
-| markdown_full | [electronic_resistor_0201_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working)<br>[ro472](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working)<br><br> | 
+| markdown_full | [electronic_resistor_0201_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working)<br>[ro472](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700_ohm/working)<br><br>[Uniroyal - NQ01WMJ0472TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0472TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0472TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0472TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0472TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0472TEE)]() | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

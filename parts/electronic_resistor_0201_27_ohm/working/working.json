@@ -18,10 +18,17 @@
     "name": "Electronic Resistor 0201 27 Ohm",
     "short_code": "ro270",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "NQ01WMJ0270TEE",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        }
+    ],
     "md5": "ea129158b1345564ad096ca691fdcfcd",
     "md5_5": "ea129",
     "md5_6": "ea1291",
     "md5_10": "ea129158b1",
-    "markdown_full": "[electronic_resistor_0201_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_27_ohm/working)<br>[ro270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_27_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0201_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_27_ohm/working)<br>[ro270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_27_ohm/working)<br><br>[Uniroyal - NQ01WMJ0270TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0270TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0270TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0270TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0270TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0270TEE)]()"
 }

@@ -18,10 +18,23 @@
     "name": "Electronic Resistor 1206 1000 Ohm",
     "short_code": "r12o102",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "1206W4J0102T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Yageo",
+            "part_number": "RC1206JR-071KL",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-071KL",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "6feac05d0905254475195a1d5b317ee8",
     "md5_5": "6feac",
     "md5_6": "6feac0",
     "md5_10": "6feac05d09",
-    "markdown_full": "[electronic_resistor_1206_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br>[r12o102](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_1206_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br>[r12o102](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br><br>[Uniroyal - 1206W4J0102T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0102T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0102T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0102T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0102T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0102T5E)]()[Yageo - RC1206JR-071KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-071KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-071KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-071KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-071KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-071KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-071KL)"
 }

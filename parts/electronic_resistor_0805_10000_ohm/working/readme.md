@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [Uniroyal - 0805W8J0103T5E]()  
+* [Yageo - RC0805JR-0710KL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0710KL)  
 
 ## symbol
 
@@ -50,11 +53,11 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Resistor 0805 10000 Ohm | 
 | short_code | r8o103 | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0103T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0805JR-0710KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0710KL', 'id': 'manufacturer_yageo'}] | 
 | md5 | 231e3bb5f9ad13dc1bdde838e2850d71 | 
 | md5_5 | 231e3 | 
 | md5_6 | 231e3b | 
 | md5_10 | 231e3bb5f9 | 
-| markdown_full | [electronic_resistor_0805_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10000_ohm/working)<br>[r8o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10000_ohm/working)<br><br> | 
+| markdown_full | [electronic_resistor_0805_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10000_ohm/working)<br>[r8o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10000_ohm/working)<br><br>[Uniroyal - 0805W8J0103T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0103T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0103T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0103T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0103T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0103T5E)]()[Yageo - RC0805JR-0710KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0710KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0710KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0710KL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0710KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0710KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0710KL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

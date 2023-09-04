@@ -18,22 +18,14 @@ manufacturers:
 -   id: manufacturer_uniroyal
     link: ''
     name: Uniroyal
-    part_number: 0402WAF47-1T5E
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    part_number: 0603WAF47-1T5E
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    part_number: 0805WAF47-1T5E
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    part_number: 1206WAF47-1T5E
+    part_number: 0603WAJ0470T5E
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0747RL
+    name: Yageo
+    part_number: RC0603JR-0747RL
 markdown_full: '[electronic_resistor_0603_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br>[r6o470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm/working)<br><br>[Uniroyal
-    - 0402WAF47-1T5E<br>]()[Uniroyal - 0603WAF47-1T5E<br>]()[Uniroyal - 0805WAF47-1T5E<br>]()[Uniroyal
-    - 1206WAF47-1T5E<br>]()'
+    - 0603WAJ0470T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0470T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0470T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0470T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0470T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0470T5E)]()[Yageo
+    - RC0603JR-0747RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0747RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0747RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0747RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0747RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0747RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0747RL)'
 md5: a7ac6cea85b8741f6175603c741dd065
 md5_10: a7ac6cea85
 md5_5: a7ac6

@@ -550,8 +550,48 @@ def get_markdown_summaries(**kwargs):
             manufacturer_1_name = manufacturers[x]["name"]
             manufacturer_1_link = manufacturers[x]['link']
             manufacturer_1_part_number = manufacturers[x]['part_number']
+
+            
+            search_types = {}
+            search_types["lcsc"] ={
+                                    "name": "lcsc",
+                                    "letter": "L",
+                                    "search_link_front":"https://www.lcsc.com/search?q=",
+                                    "search_link_back":"",
+            }
+            search_types["digikey"] ={
+                                    "name": "digikey",
+                                    "letter": "D",
+                                    "search_link_front":"https://www.digikey.com/en/products?,keywords=",
+                                    "search_link_back":""
+            }
+            search_types["mouser"] ={
+                                    "name": "mouser",
+                                    "letter": "M",
+                                    "search_link_front":"https://www.mouser.com/Search/Refine?Keyword=",
+                                    "search_link_back":""
+            }
+            search_types["newark"] ={
+                                    "name": "newark",
+                                    "letter": "N",
+                                    "search_link_front":"https://www.newark.com/search?st=",
+                                    "search_link_back":"",
+            }
+            search_types["szlcsc"] ={
+                                    "name": "szlcsc",
+                                    "letter": "SZ",
+                                    "search_link_front":"https://so.szlcsc.com/global.html?k=",
+                                    "search_link_back":""
+            }
+
+            search_links = ""
+            for search_type in search_types:
+                text = f"({search_types[search_type]['letter']})"
+                link = f"{search_types[search_type]['search_link_front']}{manufacturer_1_part_number}{search_types[search_type]['search_link_back']}"
+                search_links += oom_markdown.get_link(link=f"{link}",text=f"{text}<br>")
+
             text = f"{manufacturer_1_name} - {manufacturer_1_part_number}"
-            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}<br>")
+            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}<br>{search_links}")
     if len(manufacturers) > max_dist:
         text += f"and {len(manufacturers)-max_dist} more"
         link = github_link

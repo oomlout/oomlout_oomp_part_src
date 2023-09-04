@@ -16,6 +16,8 @@
 * part_number -- 
 
 
+## manufacturers
+* [Uniroyal - NQ01WMJ0391TEE]()  
 
 ## symbol
 
@@ -45,10 +47,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 390 Ohm | 
 | short_code | ro391 | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0391TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
 | md5 | f421d2f94c62c3ad3f5a104e65cc099a | 
 | md5_5 | f421d | 
 | md5_6 | f421d2 | 
 | md5_10 | f421d2f94c | 
-| markdown_full | [electronic_resistor_0201_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_390_ohm/working)<br>[ro391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_390_ohm/working)<br><br> | 
+| markdown_full | [electronic_resistor_0201_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_390_ohm/working)<br>[ro391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_390_ohm/working)<br><br>[Uniroyal - NQ01WMJ0391TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0391TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0391TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0391TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0391TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0391TEE)]() | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

@@ -17,10 +17,8 @@
 
 
 ## manufacturers
-* [Uniroyal - 0402WAF1800T5E]()  
-* [Uniroyal - 0603WAF1800T5E]()  
-* [Uniroyal - 0805WAF1800T5E]()  
-* [Uniroyal - 1206WAF1800T5E]()  
+* [Uniroyal - 0603WAJ0181T5E]()  
+* [Yageo - RC0603JR-07180RL](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07180RL)  
 
 ## symbol
 
@@ -55,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Resistor 0603 180 Ohm | 
 | short_code | r6o181 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WAF1800T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Uniroyal', 'part_number': '0603WAF1800T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Uniroyal', 'part_number': '0805WAF1800T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Uniroyal', 'part_number': '1206WAF1800T5E', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAJ0181T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0603JR-07180RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07180RL', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
 | smd_tape_depth | 1_5_mm | 
@@ -64,6 +62,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 8e42e | 
 | md5_6 | 8e42ec | 
 | md5_10 | 8e42ecfeef | 
-| markdown_full | [electronic_resistor_0603_180_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_180_ohm/working)<br>[r6o181](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_180_ohm/working)<br><br>[Uniroyal - 0402WAF1800T5E<br>]()[Uniroyal - 0603WAF1800T5E<br>]()[Uniroyal - 0805WAF1800T5E<br>]()[Uniroyal - 1206WAF1800T5E<br>]() | 
+| markdown_full | [electronic_resistor_0603_180_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_180_ohm/working)<br>[r6o181](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_180_ohm/working)<br><br>[Uniroyal - 0603WAJ0181T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0181T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0181T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0181T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0181T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0181T5E)]()[Yageo - RC0603JR-07180RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-07180RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-07180RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07180RL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-07180RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-07180RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07180RL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

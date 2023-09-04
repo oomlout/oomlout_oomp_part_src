@@ -18,10 +18,23 @@
     "name": "Electronic Resistor 1206 22000 Ohm",
     "short_code": "r12o223",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "1206W4J0223T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Yageo",
+            "part_number": "RC1206JR-0722KL",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722KL",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "556549c3e486f44b43fc0f5483487d2f",
     "md5_5": "55654",
     "md5_6": "556549",
     "md5_10": "556549c3e4",
-    "markdown_full": "[electronic_resistor_1206_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[r12o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_1206_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[r12o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br><br>[Uniroyal - 1206W4J0223T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0223T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0223T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0223T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0223T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0223T5E)]()[Yageo - RC1206JR-0722KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0722KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0722KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0722KL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0722KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0722KL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722KL)"
 }

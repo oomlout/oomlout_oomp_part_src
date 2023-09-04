@@ -16,6 +16,9 @@
 * part_number -- 
 
 
+## manufacturers
+* [Uniroyal - 0402WGJ0823TCE]()  
+* [Yageo - RC0402JR-0782KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0782KL)  
 
 ## symbol
 
@@ -45,10 +48,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0402 82000 Ohm | 
 | short_code | r4o823 | 
 | distributors | [] | 
-| manufacturers | [] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0823TCE', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0402JR-0782KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0782KL', 'id': 'manufacturer_yageo'}] | 
 | md5 | 02af0001021282ab1114d5ab3b066b0a | 
 | md5_5 | 02af0 | 
 | md5_6 | 02af00 | 
 | md5_10 | 02af000102 | 
-| markdown_full | [electronic_resistor_0402_82000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82000_ohm/working)<br>[r4o823](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82000_ohm/working)<br><br> | 
+| markdown_full | [electronic_resistor_0402_82000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82000_ohm/working)<br>[r4o823](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82000_ohm/working)<br><br>[Uniroyal - 0402WGJ0823TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0823TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0823TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0823TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0823TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0823TCE)]()[Yageo - RC0402JR-0782KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-0782KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-0782KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0782KL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-0782KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-0782KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0782KL) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

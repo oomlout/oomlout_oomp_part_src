@@ -10,8 +10,13 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_resistor_0201_3900_ohm
 kicad_reference: R
 manufacturer: ''
-manufacturers: []
-markdown_full: '[electronic_resistor_0201_3900_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm/working)<br>[ro392](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm/working)<br><br>'
+manufacturers:
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: NQ01WMJ0392TEE
+markdown_full: '[electronic_resistor_0201_3900_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm/working)<br>[ro392](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm/working)<br><br>[Uniroyal
+    - NQ01WMJ0392TEE<br>[(L)<br>](https://www.lcsc.com/search?q=NQ01WMJ0392TEE)[(D)<br>](https://www.digikey.com/en/products?,keywords=NQ01WMJ0392TEE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0392TEE)[(N)<br>](https://www.newark.com/search?st=NQ01WMJ0392TEE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=NQ01WMJ0392TEE)]()'
 md5: 3d5f84104865192cdf962b8554c42ef3
 md5_10: 3d5f841048
 md5_5: 3d5f8

@@ -17,10 +17,8 @@
 
 
 ## manufacturers
-* [Uniroyal - 0402WAF2702T5E]()  
-* [Uniroyal - 0603WAF2702T5E]()  
-* [Uniroyal - 0805WAF2702T5E]()  
-* [Uniroyal - 1206WAF2702T5E]()  
+* [Uniroyal - 0603WAJ0273T5E]()  
+* [Yageo - RC0603JR-0727KL](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0727KL)  
 
 ## symbol
 
@@ -55,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Resistor 0603 27000 Ohm | 
 | short_code | r6o273 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WAF2702T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Uniroyal', 'part_number': '0603WAF2702T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Uniroyal', 'part_number': '0805WAF2702T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Uniroyal', 'part_number': '1206WAF2702T5E', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAJ0273T5E', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0603JR-0727KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0727KL', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
 | smd_tape_depth | 1_5_mm | 
@@ -64,6 +62,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 385d5 | 
 | md5_6 | 385d59 | 
 | md5_10 | 385d5933f6 | 
-| markdown_full | [electronic_resistor_0603_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br>[r6o273](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br><br>[Uniroyal - 0402WAF2702T5E<br>]()[Uniroyal - 0603WAF2702T5E<br>]()[Uniroyal - 0805WAF2702T5E<br>]()[Uniroyal - 1206WAF2702T5E<br>]() | 
+| markdown_full | [electronic_resistor_0603_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br>[r6o273](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br><br>[Uniroyal - 0603WAJ0273T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0273T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0273T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0273T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0273T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0273T5E)]()[Yageo - RC0603JR-0727KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0727KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0727KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0727KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0727KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0727KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0727KL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

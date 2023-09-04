@@ -270,11 +270,33 @@ def get_uniroyal(**kwargs):
 
     sizes = ["0201", "0402", "0603", "0805", "1206"]
     base_values = [10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82]
-
+    # size text    
+    st = {}
+    st["0201"] = "NQ01"
+    st["0402"] = "0402"
+    st["0603"] = "0603"
+    st["0805"] = "0805"
+    st["1206"] = "1206"
+    # first letters
+    fl = {}
+    fl["0201"] = "WMJ"
+    fl["0402"] = "WGJ"
+    fl["0603"] = "WAJ"
+    fl["0805"] = "W8J"
+    fl["1206"] = "W4J"
+    #second letters
+    sl = {}
+    sl["0201"] = "TEE"
+    sl["0402"] = "TCE"
+    sl["0603"] = "T5E"
+    sl["0805"] = "T5E"
+    sl["1206"] = "T5E"
     #matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
     #              "part_number": "0603WAF1001T5E"})
     #matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
     #              "part_number": "0603WAF1002T5E"})
+    
+    #### pattern matching attempt
     num_decades = 4
     resistor_values = []
     for size in sizes:
@@ -282,10 +304,10 @@ def get_uniroyal(**kwargs):
             for base in base_values:
                 value = base * (10 ** i)
                 resistor_string = f"{value}_ohm"
-                id = f"oomp_electronic_resistor_0603_{resistor_string}"
-                first_three_digits = str(value)[0:3]
-                number_of_trailing_zeros = len(str(value)) - 3
-                part_number = f"{size}WAF{first_three_digits}{number_of_trailing_zeros}T5E"
+                id = f"oomp_electronic_resistor_{size}_{resistor_string}"
+                first_three_digits = str(value)[0:2].zfill(3)
+                number_of_trailing_zeros = len(str(value)) - 2
+                part_number = f'{st[size]}{fl[size]}{first_three_digits}{number_of_trailing_zeros}{sl[size]}'
                 matches.append({"id":id,
                                 "part_number": part_number})
 
@@ -320,11 +342,62 @@ def get_yageo(**kwargs):
     matches.append({"id":"oomp_electronic_capacitor_0603_10_nano_farad",
                   "part_number": "CC0603KRX7R9BB103"})
     #resistors
-    matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
-                    "part_number": "RC0603FR-071KL"})
-    matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
-                    "part_number": "RC0603FR-0710KL"})
+    #matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
+    #                "part_number": "RC0603FR-071KL"})
+    #matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
+    #                "part_number": "RC0603FR-0710KL"})
     
+    sizes = ["0402", "0603", "0805", "1206"]
+    base_values = [10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82]
+    # size text    
+    st = {}
+    st["0201"] = "0201"
+    st["0402"] = "0402"
+    st["0603"] = "0603"
+    st["0805"] = "0805"
+    st["1206"] = "1206"
+    # first letters
+    fl = {}
+    fl["0201"] = "RC"
+    fl["0402"] = "RC"
+    fl["0603"] = "RC"
+    fl["0805"] = "RC"
+    fl["1206"] = "RC"
+    #second letters
+    sl = {}
+    sl["0201"] = "JR-07"
+    sl["0402"] = "JR-07"
+    sl["0603"] = "JR-07"
+    sl["0805"] = "JR-07"
+    sl["1206"] = "JR-07"
+    #### when coming to do 1% I think just change JR to FR
+    
+    #### pattern matching attempt
+    num_decades = 4
+    resistor_values = []
+    for size in sizes:
+        for i in range(num_decades):
+            for base in base_values:
+                value = base * (10 ** i)
+                resistor_string = f"{value}_ohm"
+                id = f"oomp_electronic_resistor_{size}_{resistor_string}"
+                if value < 1000:
+                    value_string = f"{value}R"
+                elif value < 1000000:
+                    v = value/1000
+                    #round to nearest whole number
+                    v = round(v)
+                    value_string = f"{v}K"
+                else:
+                    v = value/1000000
+                    #round to nearest whole number
+                    v = round(v)
+                    value_string = f"{v}M"
+                part_number = f'{fl[size]}{st[size]}{sl[size]}{value_string}L'
+                matches.append({"id":id,
+                                "part_number": part_number})
+
+
     manufacturers = []
     for match in matches:
         #jus check th id

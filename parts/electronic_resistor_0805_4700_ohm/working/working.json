@@ -18,10 +18,23 @@
     "name": "Electronic Resistor 0805 4700 Ohm",
     "short_code": "r8o472",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0805W8J0472T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Yageo",
+            "part_number": "RC0805JR-075KL",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-075KL",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "5206fd609ee46efab6b3474c10c7f51c",
     "md5_5": "5206f",
     "md5_6": "5206fd",
     "md5_10": "5206fd609e",
-    "markdown_full": "[electronic_resistor_0805_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_4700_ohm/working)<br>[r8o472](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_4700_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0805_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_4700_ohm/working)<br>[r8o472](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_4700_ohm/working)<br><br>[Uniroyal - 0805W8J0472T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0472T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0472T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0472T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0472T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0472T5E)]()[Yageo - RC0805JR-075KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-075KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-075KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-075KL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-075KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-075KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-075KL)"
 }

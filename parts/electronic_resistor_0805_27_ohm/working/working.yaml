@@ -14,8 +14,18 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_resistor_0805_27_ohm
 kicad_reference: R
 manufacturer: ''
-manufacturers: []
-markdown_full: '[electronic_resistor_0805_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_27_ohm/working)<br>[r8o270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_27_ohm/working)<br><br>'
+manufacturers:
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 0805W8J0270T5E
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0727RL
+    name: Yageo
+    part_number: RC0805JR-0727RL
+markdown_full: '[electronic_resistor_0805_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_27_ohm/working)<br>[r8o270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_27_ohm/working)<br><br>[Uniroyal
+    - 0805W8J0270T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0270T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0270T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0270T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0270T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0270T5E)]()[Yageo
+    - RC0805JR-0727RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0727RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0727RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0727RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0727RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0727RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0727RL)'
 md5: f8f4b5bf5547ca8aa94a87d2c5128597
 md5_10: f8f4b5bf55
 md5_5: f8f4b

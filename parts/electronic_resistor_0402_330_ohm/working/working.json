@@ -18,10 +18,23 @@
     "name": "Electronic Resistor 0402 330 Ohm",
     "short_code": "r4o331",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0402WGJ0331TCE",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Yageo",
+            "part_number": "RC0402JR-07330RL",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07330RL",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "6a15cd4ddfffdcef378baf6bcfac050b",
     "md5_5": "6a15c",
     "md5_6": "6a15cd",
     "md5_10": "6a15cd4ddf",
-    "markdown_full": "[electronic_resistor_0402_330_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_330_ohm/working)<br>[r4o331](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_330_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0402_330_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_330_ohm/working)<br>[r4o331](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_330_ohm/working)<br><br>[Uniroyal - 0402WGJ0331TCE<br>[(L)<br>](https://www.lcsc.com/search?q=0402WGJ0331TCE)[(D)<br>](https://www.digikey.com/en/products?,keywords=0402WGJ0331TCE)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0331TCE)[(N)<br>](https://www.newark.com/search?st=0402WGJ0331TCE)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0402WGJ0331TCE)]()[Yageo - RC0402JR-07330RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0402JR-07330RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0402JR-07330RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07330RL)[(N)<br>](https://www.newark.com/search?st=RC0402JR-07330RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0402JR-07330RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07330RL)"
 }

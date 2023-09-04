@@ -18,10 +18,23 @@
     "name": "Electronic Resistor 0805 39 Ohm",
     "short_code": "r8o390",
     "distributors": [],
-    "manufacturers": [],
+    "manufacturers": [
+        {
+            "name": "Uniroyal",
+            "part_number": "0805W8J0390T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal"
+        },
+        {
+            "name": "Yageo",
+            "part_number": "RC0805JR-0739RL",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0739RL",
+            "id": "manufacturer_yageo"
+        }
+    ],
     "md5": "09654c8063094b37d33bfd5d38e90780",
     "md5_5": "09654",
     "md5_6": "09654c",
     "md5_10": "09654c8063",
-    "markdown_full": "[electronic_resistor_0805_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm/working)<br>[r8o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0805_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm/working)<br>[r8o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm/working)<br><br>[Uniroyal - 0805W8J0390T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0805W8J0390T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0805W8J0390T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0805W8J0390T5E)[(N)<br>](https://www.newark.com/search?st=0805W8J0390T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0805W8J0390T5E)]()[Yageo - RC0805JR-0739RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0805JR-0739RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0805JR-0739RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0739RL)[(N)<br>](https://www.newark.com/search?st=RC0805JR-0739RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0805JR-0739RL)](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0739RL)"
 }

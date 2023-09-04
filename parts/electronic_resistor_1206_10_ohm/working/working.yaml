@@ -14,8 +14,18 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_resistor_1206_10_ohm
 kicad_reference: R
 manufacturer: ''
-manufacturers: []
-markdown_full: '[electronic_resistor_1206_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br>[r12o100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br><br>'
+manufacturers:
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    part_number: 1206W4J0100T5E
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0710RL
+    name: Yageo
+    part_number: RC1206JR-0710RL
+markdown_full: '[electronic_resistor_1206_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br>[r12o100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)<br><br>[Uniroyal
+    - 1206W4J0100T5E<br>[(L)<br>](https://www.lcsc.com/search?q=1206W4J0100T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=1206W4J0100T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=1206W4J0100T5E)[(N)<br>](https://www.newark.com/search?st=1206W4J0100T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=1206W4J0100T5E)]()[Yageo
+    - RC1206JR-0710RL<br>[(L)<br>](https://www.lcsc.com/search?q=RC1206JR-0710RL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC1206JR-0710RL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0710RL)[(N)<br>](https://www.newark.com/search?st=RC1206JR-0710RL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC1206JR-0710RL)](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0710RL)'
 md5: 312d179af2eacb76ba5428d8c1c2794b
 md5_10: 312d179af2
 md5_5: 312d1

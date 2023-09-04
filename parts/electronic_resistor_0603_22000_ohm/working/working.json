@@ -21,27 +21,15 @@
     "manufacturers": [
         {
             "name": "Uniroyal",
-            "part_number": "0402WAF2202T5E",
+            "part_number": "0603WAJ0223T5E",
             "link": "",
             "id": "manufacturer_uniroyal"
         },
         {
-            "name": "Uniroyal",
-            "part_number": "0603WAF2202T5E",
-            "link": "",
-            "id": "manufacturer_uniroyal"
-        },
-        {
-            "name": "Uniroyal",
-            "part_number": "0805WAF2202T5E",
-            "link": "",
-            "id": "manufacturer_uniroyal"
-        },
-        {
-            "name": "Uniroyal",
-            "part_number": "1206WAF2202T5E",
-            "link": "",
-            "id": "manufacturer_uniroyal"
+            "name": "Yageo",
+            "part_number": "RC0603JR-0722KL",
+            "link": "https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0722KL",
+            "id": "manufacturer_yageo"
         }
     ],
     "package_style": "smd_tape",
@@ -52,5 +40,5 @@
     "md5_5": "1fe71",
     "md5_6": "1fe713",
     "md5_10": "1fe71377eb",
-    "markdown_full": "[electronic_resistor_0603_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br>[r6o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br><br>[Uniroyal - 0402WAF2202T5E<br>]()[Uniroyal - 0603WAF2202T5E<br>]()[Uniroyal - 0805WAF2202T5E<br>]()[Uniroyal - 1206WAF2202T5E<br>]()"
+    "markdown_full": "[electronic_resistor_0603_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br>[r6o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22000_ohm/working)<br><br>[Uniroyal - 0603WAJ0223T5E<br>[(L)<br>](https://www.lcsc.com/search?q=0603WAJ0223T5E)[(D)<br>](https://www.digikey.com/en/products?,keywords=0603WAJ0223T5E)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0223T5E)[(N)<br>](https://www.newark.com/search?st=0603WAJ0223T5E)[(SZ)<br>](https://so.szlcsc.com/global.html?k=0603WAJ0223T5E)]()[Yageo - RC0603JR-0722KL<br>[(L)<br>](https://www.lcsc.com/search?q=RC0603JR-0722KL)[(D)<br>](https://www.digikey.com/en/products?,keywords=RC0603JR-0722KL)[(M)<br>](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0722KL)[(N)<br>](https://www.newark.com/search?st=RC0603JR-0722KL)[(SZ)<br>](https://so.szlcsc.com/global.html?k=RC0603JR-0722KL)](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0722KL)"
 }
