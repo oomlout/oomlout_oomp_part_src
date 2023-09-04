@@ -56,6 +56,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | f3ee3 | 
 | md5_6 | f3ee34 | 
 | md5_10 | f3ee341dcc | 
-| markdown_full | [electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[l10r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br> | 
+| markdown_full | [electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[l10r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d10_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

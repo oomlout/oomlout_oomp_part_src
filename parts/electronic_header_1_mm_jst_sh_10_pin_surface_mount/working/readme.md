@@ -52,5 +52,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | c55a4 | 
 | md5_6 | c55a43 | 
 | md5_10 | c55a433e60 | 
-| markdown_full | [electronic_header_1_mm_jst_sh_10_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount/working)<br>[h10psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount/working)<br>[JST - BM10B-SRSS-TB<br>](https://www.jst-mfg.com/product/index.php?series=231) | 
+| markdown_full | [electronic_header_1_mm_jst_sh_10_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount/working)<br>[h10psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount/working)<br><br>[JST - BM10B-SRSS-TB<br>](https://www.jst-mfg.com/product/index.php?series=231) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x10_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x10_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym'}] | 

@@ -50,5 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 5ce55 | 
 | md5_6 | 5ce55f | 
 | md5_10 | 5ce55f7a19 | 
-| markdown_full | [electronic_resistor_0201_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br>[ro390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br> | 
+| markdown_full | [electronic_resistor_0201_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br>[ro390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

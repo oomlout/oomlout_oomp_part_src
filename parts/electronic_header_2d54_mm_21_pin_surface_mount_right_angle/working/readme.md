@@ -55,6 +55,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 630d9 | 
 | md5_6 | 630d95 | 
 | md5_10 | 630d95dc5c | 
-| markdown_full | [electronic_header_2d54_mm_21_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_21_pin_surface_mount_right_angle/working)<br>[hi121psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_21_pin_surface_mount_right_angle/working)<br> | 
+| markdown_full | [electronic_header_2d54_mm_21_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_21_pin_surface_mount_right_angle/working)<br>[hi121psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_21_pin_surface_mount_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x21_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x21_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x21_pin//working/working.kicad_sym'}] | 

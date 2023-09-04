@@ -64,6 +64,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 9674f | 
 | md5_6 | 9674f5 | 
 | md5_10 | 9674f50c15 | 
-| markdown_full | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[l6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[XINGLIGHT - XL-1608UBC-04<br>]() | 
+| markdown_full | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[l6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04<br>]() | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric', 'oomp_key': 'oomp_kicad_led_smd_led_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

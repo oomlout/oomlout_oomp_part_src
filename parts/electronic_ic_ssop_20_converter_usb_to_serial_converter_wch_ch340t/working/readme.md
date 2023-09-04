@@ -136,5 +136,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | e0722 | 
 | md5_6 | e07223 | 
 | md5_10 | e07223f344 | 
-| markdown_full | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br> | 
+| markdown_full | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t', 'oomp_key': 'oomp_kicad_interface_usb_ch340t', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym'}] | 

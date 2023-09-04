@@ -51,5 +51,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | fb973 | 
 | md5_6 | fb973f | 
 | md5_10 | fb973f6013 | 
-| markdown_full | [electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[l8r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br> | 
+| markdown_full | [electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[l8r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

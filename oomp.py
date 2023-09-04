@@ -562,7 +562,7 @@ def get_markdown_summaries(**kwargs):
 
 
 
-    markdown_full = f"{id_link}<br>{short_link}<br>{manufacturer_link}"
+    markdown_full = f"{id_link}<br>{short_link}<br>{distributor_link}<br>{manufacturer_link}"
     
 
     kwargs["markdown_full"] = markdown_full

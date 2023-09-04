@@ -55,6 +55,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | cd720 | 
 | md5_6 | cd7207 | 
 | md5_10 | cd720732d7 | 
-| markdown_full | [electronic_nettie_4_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br>[nt4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br> | 
+| markdown_full | [electronic_nettie_4_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br>[nt4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_4_smd_pad0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4', 'oomp_key': 'oomp_kicad_device_nettie_4', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym'}] | 

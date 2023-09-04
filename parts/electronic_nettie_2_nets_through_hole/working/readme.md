@@ -55,6 +55,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | c86bd | 
 | md5_6 | c86bdf | 
 | md5_10 | c86bdf8420 | 
-| markdown_full | [electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[nt2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br> | 
+| markdown_full | [electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[nt2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_tht_pad0_3mm', 'oomp_key': 'oomp_kicad_nettie_nettie_2_tht_pad0_3mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_2_tht_pad0_3mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_2', 'oomp_key': 'oomp_kicad_device_nettie_2', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym'}] | 
