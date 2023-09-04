@@ -383,6 +383,18 @@ def get_yageo(**kwargs):
                 id = f"oomp_electronic_resistor_{size}_{resistor_string}"
                 if value < 1000:
                     value_string = f"{value}R"
+                elif value < 10000:
+                    mod = value%1000
+                    v_1 = (value-mod)/1000
+                    v_1 = round(v_1)
+                    v_2 = value%1000/100
+                    v_2 = round(v_2)
+                    #round to nearest whole number
+                    
+                    if v_2 != 0:
+                        value_string = f"{v_1}K{v_2}"
+                    else:
+                        value_string = f"{v_1}K"
                 elif value < 1000000:
                     v = value/1000
                     #round to nearest whole number

@@ -17,11 +17,11 @@
 
 ## distributors
 * [LCSC - C25930](https://lcsc.com/product-detail/C25930.html)  
-* [LCSC - C137887](https://lcsc.com/product-detail/C137887.html)  
+* [LCSC - C114451](https://lcsc.com/product-detail/C114451.html)  
 
 ## manufacturers
 * [Uniroyal - 0402WGJ0152TCE]()  
-* [Yageo - RC0402JR-072KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-072KL)  
+* [Yageo - RC0402JR-071K5L](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071K5L)  
 
 ## symbol
 
@@ -50,11 +50,11 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_1500_ohm | 
 | name | Electronic Resistor 0402 1500 Ohm | 
 | short_code | r4o152 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25930', 'link': 'https://lcsc.com/product-detail/C25930.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137887', 'link': 'https://lcsc.com/product-detail/C137887.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0152TCE', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0402JR-072KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-072KL', 'id': 'manufacturer_yageo'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C25930', 'link': 'https://lcsc.com/product-detail/C25930.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C114451', 'link': 'https://lcsc.com/product-detail/C114451.html', 'id': 'distributor_lcsc'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0152TCE', 'link': '', 'id': 'manufacturer_uniroyal'}, {'name': 'Yageo', 'part_number': 'RC0402JR-071K5L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071K5L', 'id': 'manufacturer_yageo'}] | 
 | md5 | 1e91dd264b58aff044eadaf0f91b45fa | 
 | md5_5 | 1e91d | 
 | md5_6 | 1e91dd | 
 | md5_10 | 1e91dd264b | 
-| markdown_full | [electronic_resistor_0402_1500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm/working)<br>[r4o152](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm/working)<br>[Electronic Resistor 0402 1500 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm/working)<br>[LCSC - C25930<br>](https://lcsc.com/product-detail/C25930.html)[LCSC - C137887<br>](https://lcsc.com/product-detail/C137887.html)<br>[Uniroyal - 0402WGJ0152TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0152TCE)[(D)  ](https://www.digikey.com/en/products?,keywords=0402WGJ0152TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0152TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0152TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0152TCE)<br>[Yageo - RC0402JR-072KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-072KL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-072KL)[(D)  ](https://www.digikey.com/en/products?,keywords=RC0402JR-072KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-072KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-072KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-072KL)<br> | 
+| markdown_full | [electronic_resistor_0402_1500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm/working)<br>[r4o152](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm/working)<br>[Electronic Resistor 0402 1500 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm/working)<br>[LCSC - C25930<br>](https://lcsc.com/product-detail/C25930.html)[LCSC - C114451<br>](https://lcsc.com/product-detail/C114451.html)<br>[Uniroyal - 0402WGJ0152TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0152TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0152TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0152TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0152TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0152TCE)<br>[Yageo - RC0402JR-071K5L](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071K5L) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-071K5L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-071K5L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-071K5L)[(N)  ](https://www.newark.com/search?st=RC0402JR-071K5L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-071K5L)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

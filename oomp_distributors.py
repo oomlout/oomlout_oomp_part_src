@@ -359,52 +359,67 @@ def get_lcsc(**kwargs):
                   "part_number": "C25928"})
 
     matches.append({"id":"electronic_resistor_0402_1200_ohm",
-                  "part_number": "C105637"})
+                  "part_number": "C137910"})
 
     matches.append({"id":"electronic_resistor_0402_1500_ohm",
                   "part_number": "C25930"})
 
     matches.append({"id":"electronic_resistor_0402_1500_ohm",
-                  "part_number": "C137887"})
+                  "part_number": "C114451"})
 
     matches.append({"id":"electronic_resistor_0402_1800_ohm",
                   "part_number": "C25932"})
 
     matches.append({"id":"electronic_resistor_0402_1800_ohm",
-                  "part_number": "C137887"})
+                  "part_number": "C137909"})
 
     matches.append({"id":"electronic_resistor_0402_2200_ohm",
                   "part_number": "C25933"})
 
     matches.append({"id":"electronic_resistor_0402_2200_ohm",
-                  "part_number": "C137887"})
+                  "part_number": "C163447"})
 
     matches.append({"id":"electronic_resistor_0402_2700_ohm",
                   "part_number": "C25935"})
 
     matches.append({"id":"electronic_resistor_0402_2700_ohm",
-                  "part_number": "C137872"})
+                  "part_number": "C137888"})
 
     matches.append({"id":"electronic_resistor_0402_3300_ohm",
                   "part_number": "C25936"})
 
     matches.append({"id":"electronic_resistor_0402_3300_ohm",
-                  "part_number": "C137872"})
+                  "part_number": "C137874"})
 
     matches.append({"id":"electronic_resistor_0402_3900_ohm",
                   "part_number": "C11925"})
 
+    matches.append({"id":"electronic_resistor_0402_3900_ohm",
+                  "part_number": "C163441"})
+
     matches.append({"id":"electronic_resistor_0402_4700_ohm",
                   "part_number": "C25940"})
+
+    matches.append({"id":"electronic_resistor_0402_4700_ohm",
+                  "part_number": "C105870"})
 
     matches.append({"id":"electronic_resistor_0402_5600_ohm",
                   "part_number": "C25942"})
 
+    matches.append({"id":"electronic_resistor_0402_5600_ohm",
+                  "part_number": "C137856"})
+
     matches.append({"id":"electronic_resistor_0402_6800_ohm",
                   "part_number": "C25944"})
 
+    matches.append({"id":"electronic_resistor_0402_6800_ohm",
+                  "part_number": "C137847"})
+
     matches.append({"id":"electronic_resistor_0402_8200_ohm",
                   "part_number": "C25946"})
+
+    matches.append({"id":"electronic_resistor_0402_8200_ohm",
+                  "part_number": "C137834"})
 
     matches.append({"id":"electronic_resistor_0402_10000_ohm",
                   "part_number": "C25531"})
@@ -632,52 +647,67 @@ def get_lcsc(**kwargs):
                   "part_number": "C25987"})
 
     matches.append({"id":"electronic_resistor_0603_1200_ohm",
-                  "part_number": "C14676"})
+                  "part_number": "C114679"})
 
     matches.append({"id":"electronic_resistor_0603_1500_ohm",
                   "part_number": "C25989"})
 
     matches.append({"id":"electronic_resistor_0603_1500_ohm",
-                  "part_number": "C105581"})
+                  "part_number": "C114680"})
 
     matches.append({"id":"electronic_resistor_0603_1800_ohm",
                   "part_number": "C25991"})
 
     matches.append({"id":"electronic_resistor_0603_1800_ohm",
-                  "part_number": "C105581"})
+                  "part_number": "C113298"})
 
     matches.append({"id":"electronic_resistor_0603_2200_ohm",
                   "part_number": "C25992"})
 
     matches.append({"id":"electronic_resistor_0603_2200_ohm",
-                  "part_number": "C105581"})
+                  "part_number": "C113303"})
 
     matches.append({"id":"electronic_resistor_0603_2700_ohm",
                   "part_number": "C25994"})
 
     matches.append({"id":"electronic_resistor_0603_2700_ohm",
-                  "part_number": "C137628"})
+                  "part_number": "C127451"})
 
     matches.append({"id":"electronic_resistor_0603_3300_ohm",
                   "part_number": "C25995"})
 
     matches.append({"id":"electronic_resistor_0603_3300_ohm",
-                  "part_number": "C137628"})
+                  "part_number": "C114432"})
 
     matches.append({"id":"electronic_resistor_0603_3900_ohm",
                   "part_number": "C25997"})
 
+    matches.append({"id":"electronic_resistor_0603_3900_ohm",
+                  "part_number": "C137629"})
+
     matches.append({"id":"electronic_resistor_0603_4700_ohm",
                   "part_number": "C25999"})
+
+    matches.append({"id":"electronic_resistor_0603_4700_ohm",
+                  "part_number": "C105428"})
 
     matches.append({"id":"electronic_resistor_0603_5600_ohm",
                   "part_number": "C26001"})
 
+    matches.append({"id":"electronic_resistor_0603_5600_ohm",
+                  "part_number": "C127452"})
+
     matches.append({"id":"electronic_resistor_0603_6800_ohm",
                   "part_number": "C26004"})
 
+    matches.append({"id":"electronic_resistor_0603_6800_ohm",
+                  "part_number": "C127446"})
+
     matches.append({"id":"electronic_resistor_0603_8200_ohm",
                   "part_number": "C26007"})
+
+    matches.append({"id":"electronic_resistor_0603_8200_ohm",
+                  "part_number": "C137605"})
 
     matches.append({"id":"electronic_resistor_0603_10000_ohm",
                   "part_number": "C15401"})
@@ -905,52 +935,67 @@ def get_lcsc(**kwargs):
                   "part_number": "C26013"})
 
     matches.append({"id":"electronic_resistor_0805_1200_ohm",
-                  "part_number": "C100046"})
+                  "part_number": "C114734"})
 
     matches.append({"id":"electronic_resistor_0805_1500_ohm",
                   "part_number": "C26015"})
 
     matches.append({"id":"electronic_resistor_0805_1500_ohm",
-                  "part_number": "C114748"})
+                  "part_number": "C114737"})
 
     matches.append({"id":"electronic_resistor_0805_1800_ohm",
                   "part_number": "C26016"})
 
     matches.append({"id":"electronic_resistor_0805_1800_ohm",
-                  "part_number": "C114748"})
+                  "part_number": "C137465"})
 
     matches.append({"id":"electronic_resistor_0805_2200_ohm",
                   "part_number": "C26017"})
 
     matches.append({"id":"electronic_resistor_0805_2200_ohm",
-                  "part_number": "C114748"})
+                  "part_number": "C114237"})
 
     matches.append({"id":"electronic_resistor_0805_2700_ohm",
                   "part_number": "C26019"})
 
     matches.append({"id":"electronic_resistor_0805_2700_ohm",
-                  "part_number": "C137437"})
+                  "part_number": "C137454"})
 
     matches.append({"id":"electronic_resistor_0805_3300_ohm",
                   "part_number": "C26020"})
 
     matches.append({"id":"electronic_resistor_0805_3300_ohm",
-                  "part_number": "C137437"})
+                  "part_number": "C114222"})
 
     matches.append({"id":"electronic_resistor_0805_3900_ohm",
                   "part_number": "C26021"})
 
+    matches.append({"id":"electronic_resistor_0805_3900_ohm",
+                  "part_number": "C93659"})
+
     matches.append({"id":"electronic_resistor_0805_4700_ohm",
                   "part_number": "C26022"})
+
+    matches.append({"id":"electronic_resistor_0805_4700_ohm",
+                  "part_number": "C105427"})
 
     matches.append({"id":"electronic_resistor_0805_5600_ohm",
                   "part_number": "C26024"})
 
+    matches.append({"id":"electronic_resistor_0805_5600_ohm",
+                  "part_number": "C137419"})
+
     matches.append({"id":"electronic_resistor_0805_6800_ohm",
                   "part_number": "C26026"})
 
+    matches.append({"id":"electronic_resistor_0805_6800_ohm",
+                  "part_number": "C137409"})
+
     matches.append({"id":"electronic_resistor_0805_8200_ohm",
                   "part_number": "C26028"})
+
+    matches.append({"id":"electronic_resistor_0805_8200_ohm",
+                  "part_number": "C137399"})
 
     matches.append({"id":"electronic_resistor_0805_10000_ohm",
                   "part_number": "C25612"})
@@ -1178,52 +1223,67 @@ def get_lcsc(**kwargs):
                   "part_number": "C26035"})
 
     matches.append({"id":"electronic_resistor_1206_1200_ohm",
-                  "part_number": "C112223"})
+                  "part_number": "C137190"})
 
     matches.append({"id":"electronic_resistor_1206_1500_ohm",
                   "part_number": "C26036"})
 
     matches.append({"id":"electronic_resistor_1206_1500_ohm",
-                  "part_number": "C136404"})
+                  "part_number": "C137189"})
 
     matches.append({"id":"electronic_resistor_1206_1800_ohm",
                   "part_number": "C26037"})
 
     matches.append({"id":"electronic_resistor_1206_1800_ohm",
-                  "part_number": "C136404"})
+                  "part_number": "C137188"})
 
     matches.append({"id":"electronic_resistor_1206_2200_ohm",
                   "part_number": "C26038"})
 
     matches.append({"id":"electronic_resistor_1206_2200_ohm",
-                  "part_number": "C136404"})
+                  "part_number": "C137167"})
 
     matches.append({"id":"electronic_resistor_1206_2700_ohm",
                   "part_number": "C26040"})
 
     matches.append({"id":"electronic_resistor_1206_2700_ohm",
-                  "part_number": "C136407"})
+                  "part_number": "C137165"})
 
     matches.append({"id":"electronic_resistor_1206_3300_ohm",
                   "part_number": "C26041"})
 
     matches.append({"id":"electronic_resistor_1206_3300_ohm",
-                  "part_number": "C136407"})
+                  "part_number": "C125845"})
 
     matches.append({"id":"electronic_resistor_1206_3900_ohm",
                   "part_number": "C26042"})
 
+    matches.append({"id":"electronic_resistor_1206_3900_ohm",
+                  "part_number": "C137145"})
+
     matches.append({"id":"electronic_resistor_1206_4700_ohm",
                   "part_number": "C26043"})
+
+    matches.append({"id":"electronic_resistor_1206_4700_ohm",
+                  "part_number": "C136458"})
 
     matches.append({"id":"electronic_resistor_1206_5600_ohm",
                   "part_number": "C26045"})
 
+    matches.append({"id":"electronic_resistor_1206_5600_ohm",
+                  "part_number": "C141708"})
+
     matches.append({"id":"electronic_resistor_1206_6800_ohm",
                   "part_number": "C26046"})
 
+    matches.append({"id":"electronic_resistor_1206_6800_ohm",
+                  "part_number": "C136459"})
+
     matches.append({"id":"electronic_resistor_1206_8200_ohm",
                   "part_number": "C26048"})
+
+    matches.append({"id":"electronic_resistor_1206_8200_ohm",
+                  "part_number": "C274918"})
 
     matches.append({"id":"electronic_resistor_1206_10000_ohm",
                   "part_number": "C1489"})
@@ -1299,7 +1359,6 @@ def get_lcsc(**kwargs):
 
     matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
                   "part_number": "C91144"})
-
     #########
 
     #remove duplicates from matches where the id and part number are the same

@@ -564,7 +564,7 @@ def get_markdown_summaries(**kwargs):
             search_types["digikey"] ={
                                     "name": "digikey",
                                     "letter": "D",
-                                    "search_link_front":"https://www.digikey.com/en/products?,keywords=",
+                                    "search_link_front":"https://www.digikey.com/en/products?keywords=",
                                     "search_link_back":""
             }
             search_types["mouser"] ={
