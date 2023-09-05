@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 270 Ohm | 
 | short_code | ro271 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2779729', 'link': 'https://lcsc.com/product-detail/C2779729.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0271TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0271TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 4b2be0922eb2866eaedb9816d7381327 | 
 | md5_5 | 4b2be | 
 | md5_6 | 4b2be0 | 

@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 820 Ohm | 
 | short_code | ro821 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2779738', 'link': 'https://lcsc.com/product-detail/C2779738.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0821TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0821TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | ea44f726246dc0c99500106f1315752a | 
 | md5_5 | ea44f | 
 | md5_6 | ea44f7 | 

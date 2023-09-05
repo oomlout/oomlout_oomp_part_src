@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 1000 Ohm | 
 | short_code | ro102 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0102TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0102TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 7d3edbc4f53a165405c54f8660a29681 | 
 | md5_5 | 7d3ed | 
 | md5_6 | 7d3edb | 

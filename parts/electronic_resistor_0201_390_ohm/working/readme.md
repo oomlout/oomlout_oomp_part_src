@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 390 Ohm | 
 | short_code | ro391 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2779732', 'link': 'https://lcsc.com/product-detail/C2779732.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0391TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0391TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | f421d2f94c62c3ad3f5a104e65cc099a | 
 | md5_5 | f421d | 
 | md5_6 | f421d2 | 

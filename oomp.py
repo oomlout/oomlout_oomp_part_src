@@ -536,8 +536,11 @@ def get_markdown_summaries(**kwargs):
         for x in range(min(len(distributors),max_dist)):
             distributor_1_name = distributors[x]["name"]
             distributor_1_link = distributors[x]['link']
+            distributor_1_note = ""
+            if "note" in distributors[x]:
+                distributor_1_note = f"- {distributors[x]['note']}"
             distributor_1_part_number = distributors[x]['part_number']
-            text = f"{distributor_1_name} - {distributor_1_part_number}"
+            text = f"{distributor_1_name} - {distributor_1_part_number}{distributor_1_note}"
             distributor_link += oom_markdown.get_link(link=f"{distributor_1_link}",text=f"{text}<br>")
     if len(distributors) > max_dist:
         text += f"and {len(distributors)-max_dist} more"

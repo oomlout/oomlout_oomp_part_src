@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 10 Ohm | 
 | short_code | ro100 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2765872', 'link': 'https://lcsc.com/product-detail/C2765872.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0100TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0100TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | ffce46901c230c62d4fd697281fa739a | 
 | md5_5 | ffce4 | 
 | md5_6 | ffce46 | 

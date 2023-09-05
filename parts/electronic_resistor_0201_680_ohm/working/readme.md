@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 680 Ohm | 
 | short_code | ro681 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0681TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0681TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 373d945785c04c3622aa474d1db3d635 | 
 | md5_5 | 373d9 | 
 | md5_6 | 373d94 | 

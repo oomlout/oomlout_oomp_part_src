@@ -26,15 +26,30 @@ manufacturers:
 -   id: manufacturer_uniroyal
     link: ''
     name: Uniroyal
+    note:
+        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
+            and they are the same price
+        reason_short: not in jlc basic parts
     part_number: 0805W8J0473T5E
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    note:
+        reason: in the jlc basic parts catalogue
+        reason_short: jlc basic part
+    part_number: 0805W8F4702T5E
 -   id: manufacturer_yageo
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747KL
     name: Yageo
+    note:
+        reason: yageo is a commonly cross referenced part number
+        reason_short: available everywhere
     part_number: RC0805JR-0747KL
 markdown_full: '[electronic_resistor_0805_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br>[r8o473](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br>[Electronic
     Resistor 0805 47000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br>[LCSC
     - C29252<br>](https://lcsc.com/product-detail/C29252.html)[LCSC - C131051<br>](https://lcsc.com/product-detail/C131051.html)<br>[Uniroyal
-    - 0805W8J0473T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0473T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0473T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0473T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0473T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0473T5E)<br>[Yageo
+    - 0805W8J0473T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0473T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0473T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0473T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0473T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0473T5E)<br>[Uniroyal
+    - 0805W8F4702T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8F4702T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F4702T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F4702T5E)[(N)  ](https://www.newark.com/search?st=0805W8F4702T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F4702T5E)<br>[Yageo
     - RC0805JR-0747KL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0747KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0747KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0747KL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0747KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0747KL)<br>'
 md5: 81c7401a66b976078d382963965334dd

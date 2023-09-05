@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 470 Ohm | 
 | short_code | ro471 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C965312', 'link': 'https://lcsc.com/product-detail/C965312.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0471TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0471TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | e8babb9acd0c694f34a1e9342f029709 | 
 | md5_5 | e8bab | 
 | md5_6 | e8babb | 

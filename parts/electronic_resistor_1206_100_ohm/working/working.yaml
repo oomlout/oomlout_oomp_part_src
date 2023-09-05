@@ -26,15 +26,30 @@ manufacturers:
 -   id: manufacturer_uniroyal
     link: ''
     name: Uniroyal
+    note:
+        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
+            and they are the same price
+        reason_short: not in jlc basic parts
     part_number: 1206W4J0101T5E
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    note:
+        reason: in the jlc basic parts catalogue
+        reason_short: jlc basic part
+    part_number: 1206W4F1000T5E
 -   id: manufacturer_yageo
     link: https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07100RL
     name: Yageo
+    note:
+        reason: yageo is a commonly cross referenced part number
+        reason_short: available everywhere
     part_number: RC1206JR-07100RL
 markdown_full: '[electronic_resistor_1206_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100_ohm/working)<br>[r12o101](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100_ohm/working)<br>[Electronic
     Resistor 1206 100 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100_ohm/working)<br>[LCSC
     - C25348<br>](https://lcsc.com/product-detail/C25348.html)[LCSC - C113307<br>](https://lcsc.com/product-detail/C113307.html)<br>[Uniroyal
-    - 1206W4J0101T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0101T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0101T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0101T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0101T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0101T5E)<br>[Yageo
+    - 1206W4J0101T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0101T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0101T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0101T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0101T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0101T5E)<br>[Uniroyal
+    - 1206W4F1000T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4F1000T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F1000T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F1000T5E)[(N)  ](https://www.newark.com/search?st=1206W4F1000T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F1000T5E)<br>[Yageo
     - RC1206JR-07100RL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07100RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-07100RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-07100RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-07100RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-07100RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-07100RL)<br>'
 md5: 03805d2b3c281a8512e015622aa8211c

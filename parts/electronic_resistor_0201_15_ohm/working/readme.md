@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 15 Ohm | 
 | short_code | ro150 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0150TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0150TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | e705cf7eb744a8901eaa82a07577c10e | 
 | md5_5 | e705c | 
 | md5_6 | e705cf | 

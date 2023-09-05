@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 56000 Ohm | 
 | short_code | ro563 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0563TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0563TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 6acc420b7bf7251b1479cd2589a553b9 | 
 | md5_5 | 6acc4 | 
 | md5_6 | 6acc42 | 

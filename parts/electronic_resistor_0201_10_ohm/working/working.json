@@ -30,7 +30,11 @@
             "name": "Uniroyal",
             "part_number": "NQ01WMJ0100TEE",
             "link": "",
-            "id": "manufacturer_uniroyal"
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price",
+                "reason_short": "not in jlc basic parts"
+            }
         }
     ],
     "md5": "ffce46901c230c62d4fd697281fa739a",

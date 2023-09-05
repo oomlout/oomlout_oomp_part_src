@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 3300 Ohm | 
 | short_code | ro332 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C965317', 'link': 'https://lcsc.com/product-detail/C965317.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0332TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0332TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 7d82195986cd8e7a04b75a7d8365bf46 | 
 | md5_5 | 7d821 | 
 | md5_6 | 7d8219 | 

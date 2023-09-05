@@ -47,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 39000 Ohm | 
 | short_code | ro393 | 
 | distributors | [] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0393TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0393TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 37cd74b1b0110870c6c1841648cddc2a | 
 | md5_5 | 37cd7 | 
 | md5_6 | 37cd74 | 

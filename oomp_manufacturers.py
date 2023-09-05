@@ -278,6 +278,13 @@ def get_samsung(**kwargs):
     return kwargs
 
 def get_uniroyal(**kwargs):
+    kwargs = get_uniroyal_five_percent(**kwargs)
+    #in jlc basic parts
+    kwargs = get_uniroyal_one_percent(**kwargs)
+    return kwargs
+
+
+def get_uniroyal_five_percent(**kwargs):
     matches = []
 
     sizes = ["0201", "0402", "0603", "0805", "1206"]
@@ -321,7 +328,10 @@ def get_uniroyal(**kwargs):
                 number_of_trailing_zeros = len(str(value)) - 2
                 part_number = f'{st[size]}{fl[size]}{first_three_digits}{number_of_trailing_zeros}{sl[size]}'
                 matches.append({"id":id,
-                                "part_number": part_number})
+                                "part_number": part_number,
+                                "note": {"reason": "did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price",
+                                         "reason_short": "not in jlc basic parts"}
+                                })
 
     manufacturers = []
     for match in matches:
@@ -332,6 +342,78 @@ def get_uniroyal(**kwargs):
             manufacturer_match["part_number"] = match["part_number"]
             manufacturer_match["link"] = f""
             manufacturer_match["id"] = "manufacturer_uniroyal"            
+            manufacturer_match["note"] = match["note"]
+            manufacturers.append(manufacturer_match)
+    
+    #if there are no kwargs[distributers]
+    if "manufacturers" not in kwargs:
+        kwargs["manufacturers"] = []
+        
+    #add the manufacturers to kwargs[manufacturers]
+    kwargs["manufacturers"].extend(manufacturers)
+
+    return kwargs
+
+
+def get_uniroyal_one_percent(**kwargs):
+    matches = []
+
+    sizes = ["0402", "0603", "0805", "1206"]
+    base_values = [10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82]
+    # size text    
+    st = {}
+    #st["0201"] = "NQ01"
+    st["0402"] = "0402"
+    st["0603"] = "0603"
+    st["0805"] = "0805"
+    st["1206"] = "1206"
+    # first letters
+    fl = {}
+    #fl["0201"] = "WMJ"
+    fl["0402"] = "WGF"
+    fl["0603"] = "WAF"
+    fl["0805"] = "W8F"
+    fl["1206"] = "W4F"
+    #second letters
+    sl = {}
+    #sl["0201"] = "TEE"
+    sl["0402"] = "TCE"
+    sl["0603"] = "T5E"
+    sl["0805"] = "T5E"
+    sl["1206"] = "T5E"
+    #matches.append({"id":"oomp_electronic_resistor_0603_1000_ohm",
+    #              "part_number": "0603WAF1001T5E"})
+    #matches.append({"id":"oomp_electronic_resistor_0603_10000_ohm",
+    #              "part_number": "0603WAF1002T5E"})
+    
+    #### pattern matching attempt
+    num_decades = 4
+    resistor_values = []
+    for size in sizes:
+        for i in range(num_decades):
+            for base in base_values:
+                value = base * (10 ** i)
+                resistor_string = f"{value}_ohm"
+                id = f"oomp_electronic_resistor_{size}_{resistor_string}"
+                first_three_digits = str(value)[0:3].zfill(3)
+                number_of_trailing_zeros = len(str(value)) - 3
+                part_number = f'{st[size]}{fl[size]}{first_three_digits}{number_of_trailing_zeros}{sl[size]}'
+                matches.append({"id":id,
+                                "part_number": part_number,
+                                "note": {"reason": "in the jlc basic parts catalogue",
+                                         "reason_short": "jlc basic part"}
+                                    })
+
+    manufacturers = []
+    for match in matches:
+        #jus check th id
+        if match["id"].replace("oomp_","") in kwargs["id"]:
+            manufacturer_match = {}
+            manufacturer_match["name"] = "Uniroyal"
+            manufacturer_match["part_number"] = match["part_number"]
+            manufacturer_match["link"] = f""
+            manufacturer_match["id"] = "manufacturer_uniroyal"            
+            manufacturer_match["note"] = match["note"]
             manufacturers.append(manufacturer_match)
     
     #if there are no kwargs[distributers]
@@ -419,7 +501,10 @@ def get_yageo(**kwargs):
                     value_string = f"{v}M"
                 part_number = f'{fl[size]}{st[size]}{sl[size]}{value_string}L'
                 matches.append({"id":id,
-                                "part_number": part_number})
+                                "part_number": part_number,
+                                "note" : {"reason": "yageo is a commonly cross referenced part number",
+                                          "reason_short": "available everywhere"}
+                                })
 
 
     manufacturers = []
@@ -431,6 +516,8 @@ def get_yageo(**kwargs):
             manufacturer_match["part_number"] = match["part_number"]
             manufacturer_match["link"] = f"https://www.yageo.com/en/Chart/Download/pdf/{match['part_number']}"
             manufacturer_match["id"] = "manufacturer_yageo"            
+            if "note" in match:
+                manufacturer_match["note"] = match["note"]
             manufacturers.append(manufacturer_match)
     
     #if there are no kwargs[distributers]

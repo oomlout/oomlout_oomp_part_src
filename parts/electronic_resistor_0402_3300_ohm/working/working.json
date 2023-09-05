@@ -36,18 +36,36 @@
             "name": "Uniroyal",
             "part_number": "0402WGJ0332TCE",
             "link": "",
-            "id": "manufacturer_uniroyal"
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price",
+                "reason_short": "not in jlc basic parts"
+            }
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0402WGF3301TCE",
+            "link": "",
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "in the jlc basic parts catalogue",
+                "reason_short": "jlc basic part"
+            }
         },
         {
             "name": "Yageo",
             "part_number": "RC0402JR-073K3L",
             "link": "https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-073K3L",
-            "id": "manufacturer_yageo"
+            "id": "manufacturer_yageo",
+            "note": {
+                "reason": "yageo is a commonly cross referenced part number",
+                "reason_short": "available everywhere"
+            }
         }
     ],
     "md5": "fcf53e6757cae71916db06c02bd039fd",
     "md5_5": "fcf53",
     "md5_6": "fcf53e",
     "md5_10": "fcf53e6757",
-    "markdown_full": "[electronic_resistor_0402_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working)<br>[r4o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working)<br>[Electronic Resistor 0402 3300 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working)<br>[LCSC - C25936<br>](https://lcsc.com/product-detail/C25936.html)[LCSC - C137874<br>](https://lcsc.com/product-detail/C137874.html)<br>[Uniroyal - 0402WGJ0332TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0332TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0332TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0332TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0332TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0332TCE)<br>[Yageo - RC0402JR-073K3L](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-073K3L) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-073K3L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-073K3L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-073K3L)[(N)  ](https://www.newark.com/search?st=RC0402JR-073K3L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-073K3L)<br>"
+    "markdown_full": "[electronic_resistor_0402_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working)<br>[r4o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working)<br>[Electronic Resistor 0402 3300 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm/working)<br>[LCSC - C25936<br>](https://lcsc.com/product-detail/C25936.html)[LCSC - C137874<br>](https://lcsc.com/product-detail/C137874.html)<br>[Uniroyal - 0402WGJ0332TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0332TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0332TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0332TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0332TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0332TCE)<br>[Uniroyal - 0402WGF3301TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGF3301TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF3301TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF3301TCE)[(N)  ](https://www.newark.com/search?st=0402WGF3301TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF3301TCE)<br>[Yageo - RC0402JR-073K3L](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-073K3L) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-073K3L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-073K3L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-073K3L)[(N)  ](https://www.newark.com/search?st=RC0402JR-073K3L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-073K3L)<br>"
 }

@@ -22,15 +22,30 @@ manufacturers:
 -   id: manufacturer_uniroyal
     link: ''
     name: Uniroyal
+    note:
+        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
+            and they are the same price
+        reason_short: not in jlc basic parts
     part_number: 0402WGJ0473TCE
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    note:
+        reason: in the jlc basic parts catalogue
+        reason_short: jlc basic part
+    part_number: 0402WGF4702TCE
 -   id: manufacturer_yageo
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0747KL
     name: Yageo
+    note:
+        reason: yageo is a commonly cross referenced part number
+        reason_short: available everywhere
     part_number: RC0402JR-0747KL
 markdown_full: '[electronic_resistor_0402_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working)<br>[r4o473](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working)<br>[Electronic
     Resistor 0402 47000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working)<br>[LCSC
     - C25563<br>](https://lcsc.com/product-detail/C25563.html)[LCSC - C163440<br>](https://lcsc.com/product-detail/C163440.html)<br>[Uniroyal
-    - 0402WGJ0473TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0473TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0473TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0473TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0473TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0473TCE)<br>[Yageo
+    - 0402WGJ0473TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0473TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0473TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0473TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0473TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0473TCE)<br>[Uniroyal
+    - 0402WGF4702TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4702TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4702TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4702TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4702TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4702TCE)<br>[Yageo
     - RC0402JR-0747KL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0747KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0747KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0747KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0747KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0747KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0747KL)<br>'
 md5: ea4b8729353a98822f221c82eb6e3aaf

@@ -26,15 +26,30 @@ manufacturers:
 -   id: manufacturer_uniroyal
     link: ''
     name: Uniroyal
+    note:
+        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
+            and they are the same price
+        reason_short: not in jlc basic parts
     part_number: 0805W8J0182T5E
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    note:
+        reason: in the jlc basic parts catalogue
+        reason_short: jlc basic part
+    part_number: 0805W8F1801T5E
 -   id: manufacturer_yageo
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-071K8L
     name: Yageo
+    note:
+        reason: yageo is a commonly cross referenced part number
+        reason_short: available everywhere
     part_number: RC0805JR-071K8L
 markdown_full: '[electronic_resistor_0805_1800_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1800_ohm/working)<br>[r8o182](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1800_ohm/working)<br>[Electronic
     Resistor 0805 1800 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1800_ohm/working)<br>[LCSC
     - C26016<br>](https://lcsc.com/product-detail/C26016.html)[LCSC - C137465<br>](https://lcsc.com/product-detail/C137465.html)<br>[Uniroyal
-    - 0805W8J0182T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0182T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0182T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0182T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0182T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0182T5E)<br>[Yageo
+    - 0805W8J0182T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0182T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0182T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0182T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0182T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0182T5E)<br>[Uniroyal
+    - 0805W8F1801T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8F1801T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F1801T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F1801T5E)[(N)  ](https://www.newark.com/search?st=0805W8F1801T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F1801T5E)<br>[Yageo
     - RC0805JR-071K8L](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-071K8L)
     [(L)  ](https://www.lcsc.com/search?q=RC0805JR-071K8L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-071K8L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-071K8L)[(N)  ](https://www.newark.com/search?st=RC0805JR-071K8L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-071K8L)<br>'
 md5: 70eadfc5ff0aecc6978e8854a84315ca

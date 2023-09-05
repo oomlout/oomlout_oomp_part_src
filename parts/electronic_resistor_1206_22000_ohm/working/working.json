@@ -36,18 +36,36 @@
             "name": "Uniroyal",
             "part_number": "1206W4J0223T5E",
             "link": "",
-            "id": "manufacturer_uniroyal"
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price",
+                "reason_short": "not in jlc basic parts"
+            }
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "1206W4F2202T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "in the jlc basic parts catalogue",
+                "reason_short": "jlc basic part"
+            }
         },
         {
             "name": "Yageo",
             "part_number": "RC1206JR-0722KL",
             "link": "https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722KL",
-            "id": "manufacturer_yageo"
+            "id": "manufacturer_yageo",
+            "note": {
+                "reason": "yageo is a commonly cross referenced part number",
+                "reason_short": "available everywhere"
+            }
         }
     ],
     "md5": "556549c3e486f44b43fc0f5483487d2f",
     "md5_5": "55654",
     "md5_6": "556549",
     "md5_10": "556549c3e4",
-    "markdown_full": "[electronic_resistor_1206_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[r12o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[Electronic Resistor 1206 22000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[LCSC - C25654<br>](https://lcsc.com/product-detail/C25654.html)[LCSC - C136461<br>](https://lcsc.com/product-detail/C136461.html)<br>[Uniroyal - 1206W4J0223T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0223T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0223T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0223T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0223T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0223T5E)<br>[Yageo - RC1206JR-0722KL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722KL) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0722KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-0722KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0722KL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0722KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0722KL)<br>"
+    "markdown_full": "[electronic_resistor_1206_22000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[r12o223](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[Electronic Resistor 1206 22000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22000_ohm/working)<br>[LCSC - C25654<br>](https://lcsc.com/product-detail/C25654.html)[LCSC - C136461<br>](https://lcsc.com/product-detail/C136461.html)<br>[Uniroyal - 1206W4J0223T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0223T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0223T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0223T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0223T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0223T5E)<br>[Uniroyal - 1206W4F2202T5E]() [(L)  ](https://www.lcsc.com/search?q=1206W4F2202T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F2202T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F2202T5E)[(N)  ](https://www.newark.com/search?st=1206W4F2202T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F2202T5E)<br>[Yageo - RC1206JR-0722KL](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722KL) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0722KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-0722KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0722KL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0722KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0722KL)<br>"
 }

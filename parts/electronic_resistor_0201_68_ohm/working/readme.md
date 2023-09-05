@@ -49,7 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0201 68 Ohm | 
 | short_code | ro680 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2779736', 'link': 'https://lcsc.com/product-detail/C2779736.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0680TEE', 'link': '', 'id': 'manufacturer_uniroyal'}] | 
+| manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0680TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 9759e76ec8aa629ca0c40d23fc164cf1 | 
 | md5_5 | 9759e | 
 | md5_6 | 9759e7 | 

@@ -36,18 +36,36 @@
             "name": "Uniroyal",
             "part_number": "0805W8J0183T5E",
             "link": "",
-            "id": "manufacturer_uniroyal"
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price",
+                "reason_short": "not in jlc basic parts"
+            }
+        },
+        {
+            "name": "Uniroyal",
+            "part_number": "0805W8F1802T5E",
+            "link": "",
+            "id": "manufacturer_uniroyal",
+            "note": {
+                "reason": "in the jlc basic parts catalogue",
+                "reason_short": "jlc basic part"
+            }
         },
         {
             "name": "Yageo",
             "part_number": "RC0805JR-0718KL",
             "link": "https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0718KL",
-            "id": "manufacturer_yageo"
+            "id": "manufacturer_yageo",
+            "note": {
+                "reason": "yageo is a commonly cross referenced part number",
+                "reason_short": "available everywhere"
+            }
         }
     ],
     "md5": "669f3f1f1b51fa4123291bb8dbdbca0e",
     "md5_5": "669f3",
     "md5_6": "669f3f",
     "md5_10": "669f3f1f1b",
-    "markdown_full": "[electronic_resistor_0805_18000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[r8o183](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[Electronic Resistor 0805 18000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[LCSC - C25622<br>](https://lcsc.com/product-detail/C25622.html)[LCSC - C137468<br>](https://lcsc.com/product-detail/C137468.html)<br>[Uniroyal - 0805W8J0183T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0183T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0183T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0183T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0183T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0183T5E)<br>[Yageo - RC0805JR-0718KL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0718KL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0718KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0718KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0718KL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0718KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0718KL)<br>"
+    "markdown_full": "[electronic_resistor_0805_18000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[r8o183](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[Electronic Resistor 0805 18000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_18000_ohm/working)<br>[LCSC - C25622<br>](https://lcsc.com/product-detail/C25622.html)[LCSC - C137468<br>](https://lcsc.com/product-detail/C137468.html)<br>[Uniroyal - 0805W8J0183T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0183T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0183T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0183T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0183T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0183T5E)<br>[Uniroyal - 0805W8F1802T5E]() [(L)  ](https://www.lcsc.com/search?q=0805W8F1802T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F1802T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F1802T5E)[(N)  ](https://www.newark.com/search?st=0805W8F1802T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F1802T5E)<br>[Yageo - RC0805JR-0718KL](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0718KL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0718KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0718KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0718KL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0718KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0718KL)<br>"
 }

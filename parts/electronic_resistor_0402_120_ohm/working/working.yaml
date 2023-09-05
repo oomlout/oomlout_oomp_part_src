@@ -22,15 +22,30 @@ manufacturers:
 -   id: manufacturer_uniroyal
     link: ''
     name: Uniroyal
+    note:
+        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
+            and they are the same price
+        reason_short: not in jlc basic parts
     part_number: 0402WGJ0121TCE
+-   id: manufacturer_uniroyal
+    link: ''
+    name: Uniroyal
+    note:
+        reason: in the jlc basic parts catalogue
+        reason_short: jlc basic part
+    part_number: 0402WGF1200TCE
 -   id: manufacturer_yageo
     link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07120RL
     name: Yageo
+    note:
+        reason: yageo is a commonly cross referenced part number
+        reason_short: available everywhere
     part_number: RC0402JR-07120RL
 markdown_full: '[electronic_resistor_0402_120_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_120_ohm/working)<br>[r4o121](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_120_ohm/working)<br>[Electronic
     Resistor 0402 120 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_120_ohm/working)<br>[LCSC
     - C25140<br>](https://lcsc.com/product-detail/C25140.html)[LCSC - C185384<br>](https://lcsc.com/product-detail/C185384.html)<br>[Uniroyal
-    - 0402WGJ0121TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0121TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0121TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0121TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0121TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0121TCE)<br>[Yageo
+    - 0402WGJ0121TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0121TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0121TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0121TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0121TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0121TCE)<br>[Uniroyal
+    - 0402WGF1200TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGF1200TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF1200TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF1200TCE)[(N)  ](https://www.newark.com/search?st=0402WGF1200TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF1200TCE)<br>[Yageo
     - RC0402JR-07120RL](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07120RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07120RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07120RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07120RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07120RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07120RL)<br>'
 md5: 726f82b1739070d32eed96f6321da117
