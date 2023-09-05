@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.6128968"
-     inkscape:cx="61.426077"
-     inkscape:cy="68.889058"
-     inkscape:window-width="1680"
+     inkscape:zoom="5.2257936"
+     inkscape:cx="69.271775"
+     inkscape:cy="105.62989"
+     inkscape:window-width="1615"
      inkscape:window-height="1027"
-     inkscape:window-x="-4"
-     inkscape:window-y="-8"
+     inkscape:window-x="61"
+     inkscape:window-y="2092"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g523"
      showgrid="false" />
   <defs
      id="defs1">
@@ -61,11 +61,11 @@
        y="0"><tspan
          x="73.032165"
          y="14.259197"
-         id="tspan614">%%name%%
+         id="tspan532">%%name%%
 </tspan><tspan
          x="64.38217"
          y="22.592535"
-         id="tspan616">%%short_code%%</tspan></text>
+         id="tspan534">%%short_code%%</tspan></text>
     <g
        id="g523"
        transform="translate(18.317109,19.371272)">
@@ -304,25 +304,14 @@
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.132291"
-         x="0.55833733"
-         y="6.9360909"
-         id="text2764"><tspan
-           sodipodi:role="line"
-           id="tspan2762"
-           x="0.55833781"
-           y="6.9360909"
-           style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.132291">%%pins:pin_2:name%% 2</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.132291"
          x="0.66417068"
          y="9.0527544"
          id="text2772"><tspan
            sodipodi:role="line"
            id="tspan2770"
-           x="0.66417074"
+           x="0.66417116"
            y="9.0527544"
-           style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.132291">%%pins:pin_3name%% 3</tspan></text>
+           style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.132291">%%pins:pin_3:name%% 3</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.132291"
@@ -380,20 +369,20 @@
            style="font-size:1.05833px;stroke-width:0.132291">7 %%pins:pin_7:name%%</tspan></text>
       <text
          xml:space="preserve"
-         style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.132291"
-         x="-26.392471"
+         style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.132291"
+         x="-13.234252"
          y="5.4097199"
          id="text2796"
          transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan2794"
-           x="-26.392471"
+           x="-13.234252"
            y="5.4097199"
-           style="font-size:1.05833px;stroke-width:0.132291">%%pins:pin_5:name%% 5</tspan></text>
+           style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.132291">%%pins:pin_5:name%% 5</tspan></text>
       <text
          xml:space="preserve"
-         style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.132291"
-         x="-26.392471"
+         style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.132291;text-anchor:end;text-align:end"
+         x="-13.220493"
          y="7.5263834"
          id="text2800"
          transform="rotate(-90)"><tspan
@@ -401,7 +390,7 @@
            id="tspan2798"
            x="-26.392471"
            y="7.5263834"
-           style="font-size:1.05833px;stroke-width:0.132291">%%pins:pin_6:name%% 6</tspan></text>
+           style="font-size:1.05833px;stroke-width:0.132291;text-anchor:end;text-align:end">%%pins:pin_6:name%% 6</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.132291"
@@ -426,6 +415,17 @@
            x="-2.3154249"
            y="7.5263834"
            style="font-size:1.05833px;stroke-width:0.132291">11 %%pins:pin_11:name%%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.132291"
+         x="0.66417068"
+         y="7.0840106"
+         id="text441"><tspan
+           sodipodi:role="line"
+           id="tspan439"
+           x="0.93933672"
+           y="7.0840106"
+           style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.132291">%%pins:pin_2:name%% 2 </tspan></text>
     </g>
   </g>
 </svg>

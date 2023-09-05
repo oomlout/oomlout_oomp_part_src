@@ -4,7 +4,7 @@ import oom_git
 def main():  
 
     fast = True
-    #fast = False
+    fast = False
 
     
     import action_setup
