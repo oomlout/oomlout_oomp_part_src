@@ -140,6 +140,12 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_package_dip_dip_{pin_s}_w7_62mm"
         matches.append(match)  
 
+    match["classification"] = "electronic"
+    match["type"] = "ic"
+    match["size"] = "0603"
+    match["footprint_name"] = f"kicad_resistor_smd_r_0603_1608metric"
+    matches.append(match)  
+
     ###### ic lga
     match = {}
     match["size"] = "lga_2_5_mm_x_2_5_mm_8_pin"

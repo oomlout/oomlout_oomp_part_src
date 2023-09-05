@@ -321,6 +321,9 @@
 ### lga_2_mm_x_2_mm_12_pin   
 #### sensor   
 [isn - oomp_electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)   
+### 0603   
+#### sensor   
+[i6sn - oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)   
 ### sop_16   
 #### converter   
 [isp16ch340c - oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)   

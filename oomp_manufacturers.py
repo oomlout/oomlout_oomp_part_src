@@ -146,7 +146,12 @@ def get_lcsc(**kwargs):
                     "link": "https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/",
                     "manufacturer_id": "manufacturer_sensortek"
                     })
-
+    matches.append({"id":"electronic_ic_0603_sensor_light_everlight_elec_als_pt19",
+                    "name":"Everlight Elec",
+                    "part_number": "ALS-PT19-315C/L177/TR8",
+                    "link": "https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html",
+                    "manufacturer_id": "manufacturer_everlight_elec"
+                    })
     matches.append({"id":"oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
                     "name":"Bosch",
                     "part_number": "BME280",

@@ -9510,6 +9510,61 @@ electronic_header_2d54_mm_jst_xh_9_pin_surface_mount_right_angle:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
         oomp_key: oomp_kicad_connector_conn_01x09_pin
     type: header
+electronic_ic_0603_sensor_light_everlight_elec_als_pt19:
+    classification: electronic
+    color: sensor
+    description_extra: ''
+    description_main: light
+    directory: parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C146233.html
+        name: LCSC
+        part_number: C146233
+    footprint:
+    - &id001
+        directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+        oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+    - *id001
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working
+    id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+    make_files: true
+    manufacturer: everlight_elec
+    manufacturers:
+    -   id: manufacturer_everlight_elec
+        link: https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html
+        name: Everlight Elec
+        part_number: ALS-PT19-315C/L177/TR8
+    markdown_full: '[electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic
+        Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC
+        - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight
+        Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)
+        [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br>'
+    md5: a899fa60e8493d80f5a175ad3370e8c5
+    md5_10: a899fa60e8
+    md5_5: a899f
+    md5_6: a899fa
+    name: Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19
+    oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+    package_style: smd_tape
+    part_number: als_pt19
+    pins:
+        pin_1:
+            name: collector
+            number: '1'
+            type: signal
+        pin_2:
+            name: emitter
+            number: '2'
+            type: signal
+    short_code: i6sn
+    short_name: everlight elec als_pt19_315c_l177_tr8
+    size: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
+    type: ic
 electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu:
     classification: electronic
     color: mcu
@@ -9716,12 +9771,12 @@ electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321:
     -   id: manufacturer_sensortek
         link: https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/
         name: Sensortek
-        part_number: BME280
+        part_number: STK8321
     markdown_full: '[electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[isn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic
         Ic Lga 2 Mm X 2 Mm 12 Pin Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC
         - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek
-        - BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
-        [(L)  ](https://www.lcsc.com/search?q=BME280)[(D)  ](https://www.digikey.com/en/products?keywords=BME280)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)  ](https://www.newark.com/search?st=BME280)[(SZ)  ](https://so.szlcsc.com/global.html?k=BME280)<br>'
+        - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
+        [(L)  ](https://www.lcsc.com/search?q=STK8321)[(D)  ](https://www.digikey.com/en/products?keywords=STK8321)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=STK8321)[(N)  ](https://www.newark.com/search?st=STK8321)[(SZ)  ](https://so.szlcsc.com/global.html?k=STK8321)<br>'
     md5: c4fd3486a33246ce70275edc1fcf9b4a
     md5_10: c4fd3486a3
     md5_5: c4fd3
@@ -12330,7 +12385,7 @@ electronic_mounting_hole_m3:
     md5_5: 872f0
     md5_6: 872f01
     name: Electronic Mounting Hole M3
-    notes: &id001 []
+    notes: &id002 []
     oomp_key: oomp_electronic_mounting_hole_m3
     part_number: ''
     short_code: mhm3
@@ -12365,7 +12420,7 @@ electronic_mounting_hole_m6:
     md5_5: fbea6
     md5_6: fbea65
     name: Electronic Mounting Hole M6
-    notes: *id001
+    notes: *id002
     oomp_key: oomp_electronic_mounting_hole_m6
     part_number: ''
     short_code: mhm6

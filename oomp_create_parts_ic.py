@@ -107,6 +107,25 @@ def load_parts(**kwargs):
 
     parts.append(part_details)
 
+    
+    #   ALS-PT19-315C/L177/TR8
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["0603"]
+    part_details["color"] = ["sensor"]
+    part_details["description_main"] = "light"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "everlight_elec"
+    part_details["part_number"] = "als_pt19"
+    part_details["short_name"] = "Everlight Elec ALS_PT19_315C_L177_TR8".lower()
+    pins = {}
+    pins["pin_1"] = ({"name": "collector", "number": "1", "type": "signal"})
+    pins["pin_2"] = ({"name": "emitter", "number": "2", "type": "signal"})
+    part_details["pins"] = pins
+
+    parts.append(part_details)
+
     ###### usb to serial bridge
     part_details = {}
     part_details["classification"] = "electronic"

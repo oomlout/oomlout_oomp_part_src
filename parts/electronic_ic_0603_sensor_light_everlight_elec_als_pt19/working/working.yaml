@@ -1,0 +1,53 @@
+classification: electronic
+color: sensor
+description_extra: ''
+description_main: light
+directory: parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C146233.html
+    name: LCSC
+    part_number: C146233
+footprint:
+- &id001
+    directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+- *id001
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working
+id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+manufacturer: everlight_elec
+manufacturers:
+-   id: manufacturer_everlight_elec
+    link: https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html
+    name: Everlight Elec
+    part_number: ALS-PT19-315C/L177/TR8
+markdown_full: '[electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic
+    Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC
+    - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec
+    - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)
+    [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br>'
+md5: a899fa60e8493d80f5a175ad3370e8c5
+md5_10: a899fa60e8
+md5_5: a899f
+md5_6: a899fa
+name: Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19
+oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+package_style: smd_tape
+part_number: als_pt19
+pins:
+    pin_1:
+        name: collector
+        number: '1'
+        type: signal
+    pin_2:
+        name: emitter
+        number: '2'
+        type: signal
+short_code: i6sn
+short_name: everlight elec als_pt19_315c_l177_tr8
+size: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: ic

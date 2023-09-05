@@ -59,6 +59,8 @@ def get_matches(**kwargs):
                   "part_number": "C14877"})
     matches.append({"id":"electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au",
                   "part_number": "C618816"})
+    matches.append({"id":"electronic_ic_0603_sensor_light_everlight_elec_als_pt19",
+                  "part_number": "C146233"})
     
     #      sensors
     matches.append({"id":"electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
