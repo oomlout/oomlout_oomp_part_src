@@ -140,10 +140,17 @@ def get_lcsc(**kwargs):
                     "link": "",
                     "manufacturer_id": "manufacturer_onsemi"
                     })
+    matches.append({"id":"electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321",
+                    "name":"Sensortek",
+                    "part_number": "BME280",
+                    "link": "https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/",
+                    "manufacturer_id": "manufacturer_sensortek"
+                    })
+
     matches.append({"id":"oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280",
                     "name":"Bosch",
                     "part_number": "BME280",
-                    "link": "https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/",
+                    "link": "https://www.sensortek.com.tw/index.php/en/products/mems-sensor/",
                     "manufacturer_id": "manufacturer_bosch"
                     })
 

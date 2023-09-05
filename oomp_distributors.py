@@ -62,6 +62,7 @@ def get_matches(**kwargs):
     
     #      sensors
     matches.append({"id":"electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
+    matches.append({"id":"electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321","part_number": "C966924"})
 
     #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
