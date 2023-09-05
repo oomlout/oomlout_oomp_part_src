@@ -36,7 +36,12 @@ def load_parts(**kwargs):
     part_details["part_number"] = "1010rgbc"
     part_details["kicad_reference"] = "L"
     parts.append(part_details)        
-
+    pins = {}
+    pins["pin_1"] = ({"name": "do", "number": "1", "type": "signal"})
+    pins["pin_2"] = ({"name": "vdd", "number": "2", "type": "power"})
+    pins["pin_3"] = ({"name": "gnd", "number": "3", "type": "power"})
+    pins["pin_4"] = ({"name": "sdi", "number": "4", "type": "signal"})
+    part_details["pins"] = pins
 
     oomp.add_parts(parts, **kwargs)
     

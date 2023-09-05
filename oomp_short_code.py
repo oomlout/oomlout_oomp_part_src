@@ -49,8 +49,12 @@ def get_short_code(**kwargs):
     replace_dict["size"]["soic_14_wide"] = "soic14w"
     replace_dict["size"]["soic_28_wide"] = "soic28w"
     replace_dict["size"]["sod_123"] = "sod123"
-    #replace_dict["size"]["lga_2_5_mm_x_2_5_mm_8_pin"] = "lg8"
+    replace_dict["size"]["lga_2_5_mm_x_2_5_mm_8_pin"] = "lg8pb"
+    replace_dict["size"]["lga_2_mm_x_2_mm_12_pin"] = "lg2x212p"
     
+    #### metric sizes
+    replace_dict["size"]["1010"] = "1010"
+
     replace_dict["size"]["usb_mini"] = "umn"
     replace_dict["size"]["usb_micro"] = "umc"
     replace_dict["size"]["usb_c"] = "uc"
@@ -103,7 +107,13 @@ def get_short_code(**kwargs):
 
     replace_dict["description_main"]["surface_mount_only"] = "smo"
 
-    #replace_dict["description_main"]["pressure_temperature"] = "pt"
+    ####### sensors
+    replace_dict["description_main"]["pressure_temperature"] = "pt"
+    replace_dict["description_main"]["light"] = "l"
+    replace_dict["description_main"]["accelerometer"] = "a"
+
+    ###### leds
+    replace_dict["description_main"]["ws2812b"] = "2812"
 
     #add for _pin 1-40
     for pin_count in range(1, 41):
@@ -176,6 +186,9 @@ def get_short_code(**kwargs):
     replace_dict["part_number"] = {}
     replace_dict["part_number"]["aip1640"] = "aip1640"
     replace_dict["part_number"]["bme280"] = "280"
+    replace_dict["part_number"]["1010rgbc"] = "1010rgbc"
+    replace_dict["part_number"]["stk8321"] = "stk8321"
+
         ###### ch340
     models = ["c","g","b","t","e","x"] ###### no k symbol yet
     for mod in models:

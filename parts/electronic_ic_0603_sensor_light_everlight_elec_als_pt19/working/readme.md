@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19 
-* short_code: i6sn
+* short_code: i6snl
 * md5_6: a899fa  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working  
 ## naming details
@@ -61,7 +61,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working | 
 | directory | parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | name | Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19 | 
-| short_code | i6sn | 
+| short_code | i6snl | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C146233', 'link': 'https://lcsc.com/product-detail/C146233.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Everlight Elec', 'part_number': 'ALS-PT19-315C/L177/TR8', 'link': 'https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html', 'id': 'manufacturer_everlight_elec'}] | 
 | package_style | smd_tape | 
@@ -72,5 +72,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | a899f | 
 | md5_6 | a899fa | 
 | md5_10 | a899fa60e8 | 
-| markdown_full | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html) [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br> | 
+| markdown_full | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6snl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html) [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 

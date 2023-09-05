@@ -317,13 +317,13 @@
 [itq32at328 - oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)   
 ### lga_2_5_mm_x_2_5_mm_8_pin   
 #### sensor   
-[isn280 - oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)   
+[ilg8pbsnpt280 - oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)   
 ### lga_2_mm_x_2_mm_12_pin   
 #### sensor   
-[isn - oomp_electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)   
+[ilg2x212psnastk8321 - oomp_electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)   
 ### 0603   
 #### sensor   
-[i6sn - oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)   
+[i6snl - oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)   
 ### sop_16   
 #### converter   
 [isp16ch340c - oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)   
@@ -441,7 +441,7 @@
 [l12 - oomp_electronic_led_1206_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)   
 ### 1010   
 #### rgb   
-[l - oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)   
+[l101028121010rgbc - oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)   
 ## mounting_hole   
 ### m3   
 ####    

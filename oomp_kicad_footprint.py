@@ -192,9 +192,35 @@ def get_footprints(**kwargs):
     matches.append(match)  
     match = {}
     match["type"] = "led"
+    match["size"] = "1010"
+    match["footprint_name"] = f"esden_pkl_led_led_tri_1010"
+    matches.append(match)  
+    match = {}
+    match["type"] = "led"
+    match["size"] = "0201"
+    match["footprint_name"] = f"kicad_led_smd_led_0201_0603metric"
+    matches.append(match)  
+    match = {}
+    match["type"] = "led"
+    match["size"] = "0402"
+    match["footprint_name"] = f"kicad_led_smd_led_0402_1005metric"
+    matches.append(match)  
+    match = {}
+    match["type"] = "led"
     match["size"] = "0603"
     match["footprint_name"] = f"kicad_led_smd_led_0603_1608metric"
     matches.append(match)  
+    match = {}
+    match["type"] = "led"
+    match["size"] = "0805"
+    match["footprint_name"] = f"kicad_led_smd_led_0805_2012metric"
+    matches.append(match)      
+    match = {}
+    match["type"] = "led"
+    match["size"] = "1206"
+    match["footprint_name"] = f"kicad_led_smd_led_1206_3216metric"
+    matches.append(match)  
+    
 
 
     ###### nettie

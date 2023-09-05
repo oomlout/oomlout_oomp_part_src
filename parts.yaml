@@ -9536,7 +9536,7 @@ electronic_ic_0603_sensor_light_everlight_elec_als_pt19:
         link: https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html
         name: Everlight Elec
         part_number: ALS-PT19-315C/L177/TR8
-    markdown_full: '[electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic
+    markdown_full: '[electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6snl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic
         Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC
         - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight
         Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)
@@ -9558,7 +9558,7 @@ electronic_ic_0603_sensor_light_everlight_elec_als_pt19:
             name: emitter
             number: '2'
             type: signal
-    short_code: i6sn
+    short_code: i6snl
     short_name: everlight elec als_pt19_315c_l177_tr8
     size: '0603'
     smd_tape_depth: 1_5_mm
@@ -9695,7 +9695,7 @@ electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
         link: https://www.sensortek.com.tw/index.php/en/products/mems-sensor/
         name: Bosch
         part_number: BME280
-    markdown_full: '[electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[isn280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[Electronic
+    markdown_full: '[electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[ilg8pbsnpt280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[Electronic
         Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC
         - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280](https://www.sensortek.com.tw/index.php/en/products/mems-sensor/)
         [(L)  ](https://www.lcsc.com/search?q=BME280)[(D)  ](https://www.digikey.com/en/products?keywords=BME280)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)  ](https://www.newark.com/search?st=BME280)[(SZ)  ](https://so.szlcsc.com/global.html?k=BME280)<br>'
@@ -9740,7 +9740,7 @@ electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
             name: vdd
             number: '8'
             type: power
-    short_code: isn280
+    short_code: ilg8pbsnpt280
     short_name: bosch sensortec bme280 pressure and temperature sensor
     size: lga_2_5_mm_x_2_5_mm_8_pin
     symbol:
@@ -9772,7 +9772,7 @@ electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321:
         link: https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/
         name: Sensortek
         part_number: STK8321
-    markdown_full: '[electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[isn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic
+    markdown_full: '[electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[ilg2x212psnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic
         Ic Lga 2 Mm X 2 Mm 12 Pin Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC
         - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek
         - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
@@ -9833,7 +9833,7 @@ electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321:
             name: gnd
             number: '9'
             type: power
-    short_code: isn
+    short_code: ilg2x212psnastk8321
     short_name: bosch sensortec bme280 pressure and temperature sensor
     size: lga_2_mm_x_2_mm_12_pin
     type: ic
@@ -10969,6 +10969,10 @@ electronic_led_0201:
     directory: parts/electronic_led_0201
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric
+        oomp_key: oomp_kicad_led_smd_led_0201_0603metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working
     id: electronic_led_0201
@@ -11001,6 +11005,10 @@ electronic_led_0201_blue:
     directory: parts/electronic_led_0201_blue
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric
+        oomp_key: oomp_kicad_led_smd_led_0201_0603metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue/working
     id: electronic_led_0201_blue
@@ -11033,6 +11041,10 @@ electronic_led_0201_green:
     directory: parts/electronic_led_0201_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric
+        oomp_key: oomp_kicad_led_smd_led_0201_0603metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_green/working
     id: electronic_led_0201_green
@@ -11065,6 +11077,10 @@ electronic_led_0201_red:
     directory: parts/electronic_led_0201_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric
+        oomp_key: oomp_kicad_led_smd_led_0201_0603metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_red/working
     id: electronic_led_0201_red
@@ -11097,6 +11113,10 @@ electronic_led_0201_yellow:
     directory: parts/electronic_led_0201_yellow
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric
+        oomp_key: oomp_kicad_led_smd_led_0201_0603metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_yellow/working
     id: electronic_led_0201_yellow
@@ -11129,6 +11149,10 @@ electronic_led_0402:
     directory: parts/electronic_led_0402
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric
+        oomp_key: oomp_kicad_led_smd_led_0402_1005metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working
     id: electronic_led_0402
@@ -11161,6 +11185,10 @@ electronic_led_0402_blue:
     directory: parts/electronic_led_0402_blue
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric
+        oomp_key: oomp_kicad_led_smd_led_0402_1005metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_blue/working
     id: electronic_led_0402_blue
@@ -11193,6 +11221,10 @@ electronic_led_0402_green:
     directory: parts/electronic_led_0402_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric
+        oomp_key: oomp_kicad_led_smd_led_0402_1005metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working
     id: electronic_led_0402_green
@@ -11225,6 +11257,10 @@ electronic_led_0402_red:
     directory: parts/electronic_led_0402_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric
+        oomp_key: oomp_kicad_led_smd_led_0402_1005metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working
     id: electronic_led_0402_red
@@ -11257,6 +11293,10 @@ electronic_led_0402_yellow:
     directory: parts/electronic_led_0402_yellow
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric
+        oomp_key: oomp_kicad_led_smd_led_0402_1005metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working
     id: electronic_led_0402_yellow
@@ -11529,6 +11569,10 @@ electronic_led_0805:
     directory: parts/electronic_led_0805
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+        oomp_key: oomp_kicad_led_smd_led_0805_2012metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805/working
     id: electronic_led_0805
@@ -11561,6 +11605,10 @@ electronic_led_0805_blue:
     directory: parts/electronic_led_0805_blue
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+        oomp_key: oomp_kicad_led_smd_led_0805_2012metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_blue/working
     id: electronic_led_0805_blue
@@ -11593,6 +11641,10 @@ electronic_led_0805_green:
     directory: parts/electronic_led_0805_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+        oomp_key: oomp_kicad_led_smd_led_0805_2012metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working
     id: electronic_led_0805_green
@@ -11625,6 +11677,10 @@ electronic_led_0805_red:
     directory: parts/electronic_led_0805_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+        oomp_key: oomp_kicad_led_smd_led_0805_2012metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working
     id: electronic_led_0805_red
@@ -11657,6 +11713,10 @@ electronic_led_0805_yellow:
     directory: parts/electronic_led_0805_yellow
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+        oomp_key: oomp_kicad_led_smd_led_0805_2012metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working
     id: electronic_led_0805_yellow
@@ -11689,6 +11749,10 @@ electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc:
     directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010
+        oomp_key: oomp_esden_pkl_led_led_tri_1010
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working
     id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
@@ -11696,7 +11760,7 @@ electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc:
     make_files: true
     manufacturer: xinglight
     manufacturers: []
-    markdown_full: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic
+    markdown_full: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l101028121010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic
         Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br>'
     md5: c9145fe9ede8e1774735fd150a6d82f7
     md5_10: c9145fe9ed
@@ -11705,7 +11769,24 @@ electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc:
     name: Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc
     oomp_key: oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
     part_number: 1010rgbc
-    short_code: l
+    pins:
+        pin_1:
+            name: do
+            number: '1'
+            type: signal
+        pin_2:
+            name: vdd
+            number: '2'
+            type: power
+        pin_3:
+            name: gnd
+            number: '3'
+            type: power
+        pin_4:
+            name: sdi
+            number: '4'
+            type: signal
+    short_code: l101028121010rgbc
     short_name: 1010 Rgbws2812B Led
     size: '1010'
     symbol:
@@ -11901,6 +11982,10 @@ electronic_led_1206:
     directory: parts/electronic_led_1206
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+        oomp_key: oomp_kicad_led_smd_led_1206_3216metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working
     id: electronic_led_1206
@@ -11933,6 +12018,10 @@ electronic_led_1206_blue:
     directory: parts/electronic_led_1206_blue
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+        oomp_key: oomp_kicad_led_smd_led_1206_3216metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working
     id: electronic_led_1206_blue
@@ -11965,6 +12054,10 @@ electronic_led_1206_green:
     directory: parts/electronic_led_1206_green
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+        oomp_key: oomp_kicad_led_smd_led_1206_3216metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working
     id: electronic_led_1206_green
@@ -11997,6 +12090,10 @@ electronic_led_1206_red:
     directory: parts/electronic_led_1206_red
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+        oomp_key: oomp_kicad_led_smd_led_1206_3216metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working
     id: electronic_led_1206_red
@@ -12029,6 +12126,10 @@ electronic_led_1206_yellow:
     directory: parts/electronic_led_1206_yellow
     distributors: []
     filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+        oomp_key: oomp_kicad_led_smd_led_1206_3216metric
     from_yaml: false
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working
     id: electronic_led_1206_yellow

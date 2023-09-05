@@ -5,13 +5,17 @@ description_main: ws2812b
 directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 distributors: []
 filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010
+    oomp_key: oomp_esden_pkl_led_led_tri_1010
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working
 id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 kicad_reference: L
 manufacturer: xinglight
 manufacturers: []
-markdown_full: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic
+markdown_full: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l101028121010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic
     Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br>'
 md5: c9145fe9ede8e1774735fd150a6d82f7
 md5_10: c9145fe9ed
@@ -20,7 +24,24 @@ md5_6: c9145f
 name: Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc
 oomp_key: oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 part_number: 1010rgbc
-short_code: l
+pins:
+    pin_1:
+        name: do
+        number: '1'
+        type: signal
+    pin_2:
+        name: vdd
+        number: '2'
+        type: power
+    pin_3:
+        name: gnd
+        number: '3'
+        type: power
+    pin_4:
+        name: sdi
+        number: '4'
+        type: signal
+short_code: l101028121010rgbc
 short_name: 1010 Rgbws2812B Led
 size: '1010'
 symbol:

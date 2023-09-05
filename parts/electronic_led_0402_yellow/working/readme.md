@@ -23,6 +23,11 @@
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
+## footprint
+
+![](footprint/0/working/working_600.png)  
+oomp_key: oomp_kicad_led_smd_led_0402_1005metric  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_0402_1005metric/working  
 
 ## full_summary
 | name | value | 
@@ -52,4 +57,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_6 | 115c9c | 
 | md5_10 | 115c9ceb12 | 
 | markdown_full | [electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[Electronic Led 0402 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric', 'oomp_key': 'oomp_kicad_led_smd_led_0402_1005metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 
