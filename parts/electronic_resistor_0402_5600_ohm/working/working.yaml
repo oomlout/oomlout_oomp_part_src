@@ -44,9 +44,9 @@ manufacturers:
 markdown_full: '[electronic_resistor_0402_5600_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_5600_ohm/working)<br>[r4o562](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_5600_ohm/working)<br>[Electronic
     Resistor 0402 5600 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_5600_ohm/working)<br>[LCSC
     - C25942<br>](https://lcsc.com/product-detail/C25942.html)[LCSC - C137856<br>](https://lcsc.com/product-detail/C137856.html)<br>[Uniroyal
-    - 0402WGJ0562TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0562TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0562TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0562TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0562TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0562TCE)<br>[Uniroyal
-    - 0402WGF5601TCE]() [(L)  ](https://www.lcsc.com/search?q=0402WGF5601TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF5601TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF5601TCE)[(N)  ](https://www.newark.com/search?st=0402WGF5601TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF5601TCE)<br>[Yageo
-    - RC0402JR-075K6L](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-075K6L)
+    - 0402WGJ0562TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0562TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0562TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0562TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0562TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0562TCE)<br>[Uniroyal
+    - 0402WGF5601TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF5601TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF5601TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF5601TCE)[(N)  ](https://www.newark.com/search?st=0402WGF5601TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF5601TCE)<br>[Yageo
+    - RC0402JR-075K6L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-075K6L)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-075K6L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-075K6L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-075K6L)[(N)  ](https://www.newark.com/search?st=RC0402JR-075K6L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-075K6L)<br>'
 md5: 8b307b2f986c4efca7666f0676203e4a
 md5_10: 8b307b2f98

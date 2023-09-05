@@ -538,7 +538,7 @@ def get_markdown_summaries(**kwargs):
             distributor_1_link = distributors[x]['link']
             distributor_1_note = ""
             if "note" in distributors[x]:
-                distributor_1_note = f"- {distributors[x]['note']}"
+                distributor_1_note = f"- {distributors[x]['note']['reason_short']}"
             distributor_1_part_number = distributors[x]['part_number']
             text = f"{distributor_1_name} - {distributor_1_part_number}{distributor_1_note}"
             distributor_link += oom_markdown.get_link(link=f"{distributor_1_link}",text=f"{text}<br>")
@@ -551,11 +551,14 @@ def get_markdown_summaries(**kwargs):
     manufacturer_link = ""
     max_manu = 6
     if len(manufacturers) > 0:
+        
         for x in range(min(len(manufacturers),max_dist)):
             manufacturer_1_name = manufacturers[x]["name"]
             manufacturer_1_link = manufacturers[x]['link']
             manufacturer_1_part_number = manufacturers[x]['part_number']
-
+            manufacturer_1_note = ""
+            if "note" in manufacturers[x]:
+                manufacturer_1_note = f"- {manufacturers[x]['note']['reason_short']}"
             
             search_types = {}
             search_types["lcsc"] ={
@@ -593,9 +596,10 @@ def get_markdown_summaries(**kwargs):
             for search_type in search_types:
                 text = f"({search_types[search_type]['letter']})"
                 link = f"{search_types[search_type]['search_link_front']}{manufacturer_1_part_number}{search_types[search_type]['search_link_back']}"
+                
                 search_links += oom_markdown.get_link(link=f"{link}",text=f"{text}  ")
 
-            text = f"{manufacturer_1_name} - {manufacturer_1_part_number}"
+            text = f"{manufacturer_1_name} - {manufacturer_1_part_number}{manufacturer_1_note}"
             manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}")
             manufacturer_link += f" {search_links}<br>"
     if len(manufacturers) > max_dist:
