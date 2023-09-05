@@ -27,7 +27,7 @@ def get_jst(**kwargs):
     manufacturers = []
     for match in matches:
         #jus check th id
-        if match["id"].replace("oomp_","") in kwargs["id"]:
+        if match["id"].replace("oomp_","") == kwargs["id"]:
 
             manufacturer_match = {}
             manufacturer_match["name"] = "JST"

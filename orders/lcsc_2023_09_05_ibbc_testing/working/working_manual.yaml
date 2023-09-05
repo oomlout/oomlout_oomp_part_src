@@ -1,0 +1,15 @@
+oomp_id: lcsc_2023_08_31_basic_components
+directory: orders\lcsc_2023_08_31_basic_components\working
+link_github: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/orders/orders/lcsc_2023_08_31_basic_components/working
+distributor_name: LCSC
+distributor_code: distributor_lcsc
+date: 2023_08_31
+note:
+- "shipping was discounted should have been $15.68"
+source: 
+- https://github.com/oomlout/oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+- https://github.com/oomlout/oomlout_oomp_electronic_breakout_board_sensor_temperature_pressure_bosch_bme280
+parts_src: working.ods
+cost_shipping: $0.60
+cost_parts: $43.64
+cost_total: $44.24

@@ -948,14 +948,9 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM10B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM10B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br>[h10psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM10B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM10B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM10B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM10B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM10B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM10B-SRSS-TB)<br>[JST
         - SM10B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM10B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM10B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM10B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM10B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM10B-SRSS-TB)<br>'
     md5: a5d918c0b8320b129ac488715bf4593a
     md5_10: a5d918c0b8
@@ -1027,14 +1022,9 @@ electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM02B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM02B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle/working)<br>[h2psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 2 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM02B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM02B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM02B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM02B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM02B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM02B-SRSS-TB)<br>[JST
         - SM02B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM02B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM02B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM02B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM02B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM02B-SRSS-TB)<br>'
     md5: b2ef5e80cc3cc2efc7191be597c89007
     md5_10: b2ef5e80cc
@@ -1106,14 +1096,9 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM03B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM03B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle/working)<br>[h3psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 3 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM03B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM03B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM03B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM03B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM03B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM03B-SRSS-TB)<br>[JST
         - SM03B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM03B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM03B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM03B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM03B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM03B-SRSS-TB)<br>'
     md5: f8650f316ba5d2c2484f5444500fcf5a
     md5_10: f8650f316b
@@ -1193,15 +1178,10 @@ electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM04B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM04B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[h4psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[LCSC
         - C145956<br>](https://lcsc.com/product-detail/C145956.html)[LCSC - C2906270<br>](https://lcsc.com/product-detail/C2906270.html)<br>[JST
-        - BM04B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM04B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM04B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM04B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM04B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM04B-SRSS-TB)<br>[JST
         - SM04B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM04B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM04B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM04B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM04B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM04B-SRSS-TB)<br>'
     md5: adfe7739de3f358940b6ffe82829763f
     md5_10: adfe7739de
@@ -1273,14 +1253,9 @@ electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM05B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM05B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle/working)<br>[h5psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 5 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM05B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM05B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM05B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM05B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM05B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM05B-SRSS-TB)<br>[JST
         - SM05B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM05B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM05B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM05B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM05B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM05B-SRSS-TB)<br>'
     md5: af554da37be509b88081a95a39cfeda0
     md5_10: af554da37b
@@ -1352,14 +1327,9 @@ electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM06B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM06B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br>[h6psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM06B-SRSS-TB)<br>[JST
         - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM06B-SRSS-TB)<br>'
     md5: a5fcbe77cce947fd19b46eec74179034
     md5_10: a5fcbe77cc
@@ -1431,14 +1401,9 @@ electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM07B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM07B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working)<br>[h7psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 7 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM07B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM07B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM07B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM07B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM07B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM07B-SRSS-TB)<br>[JST
         - SM07B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM07B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM07B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM07B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM07B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM07B-SRSS-TB)<br>'
     md5: 9ca7b3f936efc0aaf745cecc64c2a58d
     md5_10: 9ca7b3f936
@@ -1510,14 +1475,9 @@ electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM08B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM08B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle/working)<br>[h8psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 8 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM08B-SRSS-TB)<br>[JST
         - SM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM08B-SRSS-TB)<br>'
     md5: 5edabfa81f30624211df279c1553de3c
     md5_10: 5edabfa81f
@@ -1589,14 +1549,9 @@ electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle:
     -   id: manufacturer_jst
         link: https://www.jst-mfg.com/product/index.php?series=231
         name: JST
-        part_number: BM09B-SRSS-TB
-    -   id: manufacturer_jst
-        link: https://www.jst-mfg.com/product/index.php?series=231
-        name: JST
         part_number: SM09B-SRSS-TB
     markdown_full: '[electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle/working)<br>[h9psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle/working)<br>[Electronic
         Header 1 Mm Jst Sh 9 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle/working)<br><br>[JST
-        - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM09B-SRSS-TB)<br>[JST
         - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM09B-SRSS-TB)<br>'
     md5: b3b7ebe08ada490a5787e2e427a8b0a7
     md5_10: b3b7ebe08a

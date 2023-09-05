@@ -38,7 +38,7 @@ def main():
 
 
     comment = "added auto index generation"
-    #oom_git.push_to_git(comment=comment)
+    oom_git.push_to_git(comment=comment)
 
 if __name__ == "__main__":
     main()
