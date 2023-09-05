@@ -3,7 +3,7 @@ import oomp
 
 
 def main():
-    output_file = "tmp/lcsc_data/lcsc_parts.yaml"
+    output_file = "src/distributor_matches_lcsc.yml"
     oomp.load_parts(from_pickle=True)
     sqllite_file_lcsc = "tmp/lcsc_data/cache.sqlite3"
     import sqlite3
@@ -42,7 +42,7 @@ def main():
                 if results:
                     lcsc = results[0][0]                    
                     match = {}
-                    match["part_id"] = part_id
+                    match["id"] = part_id
                     match["part_number"] = f"C{lcsc}"
                     matches.append(match)
                     
@@ -54,17 +54,17 @@ def main():
         yaml.dump(matches, file)
             
 
-    code_dump_file = "tmp/lcsc_data/lcsc_parts.txt"
-    with open(code_dump_file, 'w') as file:
-        for match in matches:
-            part_id = match["part_id"]
-            part_number = match["part_number"]
-            line = '    matches.append({"id":"' + part_id +'",\n'
-            line += '                  "part_number": "' + part_number + '"})\n'
-            line += '\n'
+    #code_dump_file = "src/distributor_matches_lcsc.yml"
+    #with open(code_dump_file, 'w') as file:
+    #    for match in matches:
+    #        part_id = match["part_id"]
+    #        part_number = match["part_number"]
+    #        line = '    matches.append({"id":"' + part_id +'",\n'
+    #        line += '                  "part_number": "' + part_number + '"})\n'
+    #        line += '\n'
 
 
-            file.write(line)    
+    #        file.write(line)    
     
 
 
