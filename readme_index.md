@@ -439,6 +439,9 @@
 [l12 - oomp_electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)   
 #### yellow   
 [l12 - oomp_electronic_led_1206_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)   
+### 1010   
+#### rgb   
+[l - oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)   
 ## mounting_hole   
 ### m3   
 ####    
