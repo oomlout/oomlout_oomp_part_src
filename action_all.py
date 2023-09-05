@@ -4,7 +4,7 @@ import oom_git
 def main():  
 
     fast = True
-    fast = False
+    #fast = False
 
     
     import action_setup
@@ -25,10 +25,9 @@ def main():
         print("Generating pinouts")
         action_generate_pinouts.main()
 
-    if not fast:
-        import action_generate_image_resolutions
-        print("Generating image resolutions")
-        action_generate_image_resolutions.main()
+    import action_generate_image_resolutions
+    print("Generating image resolutions")
+    action_generate_image_resolutions.main()
 
     
     

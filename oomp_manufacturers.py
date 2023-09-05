@@ -142,7 +142,7 @@ def get_lcsc(**kwargs):
                     })
     matches.append({"id":"electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321",
                     "name":"Sensortek",
-                    "part_number": "BME280",
+                    "part_number": "STK8321",
                     "link": "https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/",
                     "manufacturer_id": "manufacturer_sensortek"
                     })
