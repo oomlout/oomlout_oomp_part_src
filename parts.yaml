@@ -9881,13 +9881,17 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
         link: https://lcsc.com/product-detail/C99652.html
         name: LCSC
         part_number: C99652
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
+        oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working
     id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     kicad_reference: U
     make_files: true
     manufacturer: wch
     manufacturers: []
-    markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[ich340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[Electronic
+    markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[imsp10ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[Electronic
         Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[LCSC
         - C99652<br>](https://lcsc.com/product-detail/C99652.html)<br>'
     md5: 720e79ba82a5c6f254f73ddb976ddcc2
@@ -9939,7 +9943,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
             name: txd
             number: '9'
             type: signal
-    short_code: ich340e
+    short_code: imsp10ch340e
     short_name: usb to serial converter (ch340e)
     size: msop_10
     symbol:
@@ -9958,13 +9962,17 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
         link: https://lcsc.com/product-detail/C3035748.html
         name: LCSC
         part_number: C3035748
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
+        oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working
     id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
     kicad_reference: U
     make_files: true
     manufacturer: wch
     manufacturers: []
-    markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[ich340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic
+    markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic
         Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC
         - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
     md5: 0f210323ca1152360fceeb82b02d755c
@@ -10016,13 +10024,86 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
             name: txd
             number: '9'
             type: signal
-    short_code: ich340x
+    short_code: imsp10ch340x
     short_name: usb to serial converter (ch340x)
     size: msop_10
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x
         oomp_key: oomp_kicad_interface_usb_ch340x
+    type: ic
+electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn:
+    classification: electronic
+    color: multiplexer
+    description_extra: two_to_one
+    description_main: usb_multiplexer
+    directory: parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
+        oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working
+    id: electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+    kicad_reference: U
+    make_files: true
+    manufacturer: jiangsu_runic_tech
+    manufacturers: []
+    markdown_full: '[electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[imsp10mpump21rs2227](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[Electronic
+        Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br><br>'
+    md5: 3a10020ea9997e59872f6e32c7913236
+    md5_10: 3a10020ea9
+    md5_5: 3a100
+    md5_6: 3a1002
+    name: Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic
+        Tech Rs2227Xn
+    notes: []
+    oomp_key: oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+    part_number: rs2227xn
+    pins:
+        pin_1:
+            name: v_plus
+            number: '1'
+            type: signal
+        pin_10:
+            name: oe
+            number: '10'
+            type: signal
+        pin_2:
+            name: s
+            number: '2'
+            type: signal
+        pin_3:
+            name: d_plus
+            number: '3'
+            type: signal
+        pin_4:
+            name: d_minus
+            number: '4'
+            type: signal
+        pin_5:
+            name: gnd
+            number: '5'
+            type: signal
+        pin_6:
+            name: hsd1_minus
+            number: '6'
+            type: gnd
+        pin_7:
+            name: hsd1_plus
+            number: '7'
+            type: signal
+        pin_8:
+            name: hsd2_minus
+            number: '8'
+            type: signal
+        pin_9:
+            name: hsd2_plus
+            number: '9'
+            type: signal
+    short_code: imsp10mpump21rs2227
+    short_name: usb multiplexer 2 to 1 (rs2227xn)
+    size: msop_10
     type: ic
 electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     classification: electronic
@@ -10308,6 +10389,10 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
     distributors:
     -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C255478.html
+        name: LCSC
+        part_number: C255478
+    -   id: distributor_lcsc
         link: https://lcsc.com/product-detail/C7464026.html
         name: LCSC
         part_number: C7464026
@@ -10323,7 +10408,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     manufacturers: []
     markdown_full: '[electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[isp16ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[Electronic
         Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[LCSC
-        - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br>'
+        - C255478<br>](https://lcsc.com/product-detail/C255478.html)[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br>'
     md5: 8b394cfe55fb40b61533e33d89af18b7
     md5_10: 8b394cfe55
     md5_5: 8b394

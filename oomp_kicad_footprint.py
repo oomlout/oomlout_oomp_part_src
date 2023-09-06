@@ -252,6 +252,10 @@ def get_footprints(**kwargs):
     match = {}
     match["size"] = "sop_16"
     match["footprint_name"] = f"kicad_package_so_sop_16_3_9x9_9mm_p1_27mm"
+    matches.append(match)
+    match = {}
+    match["size"] = "msop_10"
+    match["footprint_name"] = f"kicad_package_so_msop_10_3x3mm_p0_5mm"
     matches.append(match)  
     
 

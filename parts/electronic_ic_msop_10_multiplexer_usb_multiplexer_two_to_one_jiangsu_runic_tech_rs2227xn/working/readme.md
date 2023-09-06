@@ -1,0 +1,98 @@
+# Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn
+
+  
+* oomp_key: oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn 
+* short_code: imsp10mpump21rs2227
+* md5_6: 3a1002  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working  
+## naming details
+* classification -- electronic
+* type -- ic
+* size -- msop_10
+* color -- multiplexer
+* description_main -- usb_multiplexer
+* description_extra -- two_to_one
+* manucaturer -- jiangsu_runic_tech
+* part_number -- rs2227xn
+## pinout
+![](working_pinout_600.png)  
+List of Pins:
+
+* 1 : v_plus
+* 2 : s
+* 3 : d_plus
+* 4 : d_minus
+* 5 : gnd
+* 6 : hsd1_minus
+* 7 : hsd1_plus
+* 8 : hsd2_minus
+* 9 : hsd2_plus
+* 10 : oe
+
+
+
+## footprint
+
+![](footprint/0/working/working_600.png)  
+oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm/working  
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | ic | 
+| size | msop_10 | 
+| color | multiplexer | 
+| description_main | usb_multiplexer | 
+| description_extra | two_to_one | 
+| manufacturer | jiangsu_runic_tech | 
+| part_number | rs2227xn | 
+| short_name | usb multiplexer 2 to 1 (rs2227xn) | 
+| pins_pin_1_name | v_plus | 
+| pins_pin_1_number | 1 | 
+| pins_pin_1_type | signal | 
+| pins_pin_2_name | s | 
+| pins_pin_2_number | 2 | 
+| pins_pin_2_type | signal | 
+| pins_pin_3_name | d_plus | 
+| pins_pin_3_number | 3 | 
+| pins_pin_3_type | signal | 
+| pins_pin_4_name | d_minus | 
+| pins_pin_4_number | 4 | 
+| pins_pin_4_type | signal | 
+| pins_pin_5_name | gnd | 
+| pins_pin_5_number | 5 | 
+| pins_pin_5_type | signal | 
+| pins_pin_6_name | hsd1_minus | 
+| pins_pin_6_number | 6 | 
+| pins_pin_6_type | gnd | 
+| pins_pin_7_name | hsd1_plus | 
+| pins_pin_7_number | 7 | 
+| pins_pin_7_type | signal | 
+| pins_pin_8_name | hsd2_minus | 
+| pins_pin_8_number | 8 | 
+| pins_pin_8_type | signal | 
+| pins_pin_9_name | hsd2_plus | 
+| pins_pin_9_number | 9 | 
+| pins_pin_9_type | signal | 
+| pins_pin_10_name | oe | 
+| pins_pin_10_number | 10 | 
+| pins_pin_10_type | signal | 
+| kicad_reference | U | 
+| notes | [] | 
+| id | electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn | 
+| oomp_key | oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working | 
+| directory | parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn | 
+| name | Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn | 
+| short_code | imsp10mpump21rs2227 | 
+| distributors | [] | 
+| manufacturers | [] | 
+| md5 | 3a10020ea9997e59872f6e32c7913236 | 
+| md5_5 | 3a100 | 
+| md5_6 | 3a1002 | 
+| md5_10 | 3a10020ea9 | 
+| markdown_full | [electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[imsp10mpump21rs2227](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br><br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_so_msop_10_3x3mm_p0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod'}] | 

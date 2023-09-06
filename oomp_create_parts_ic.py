@@ -126,6 +126,34 @@ def load_parts(**kwargs):
 
     parts.append(part_details)
 
+    ###### usb multiplexer
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["msop_10"]
+    part_details["color"] = ["multiplexer"]
+    part_details["description_main"] = "usb_multiplexer"
+    part_details["description_extra"] = "two_to_one"
+    part_details["manufacturer"] = "jiangsu_runic_tech"
+    part_details["part_number"] = "rs2227xn"
+    part_details["short_name"] = "usb multiplexer 2 to 1 (rs2227xn)"
+    pins = {}
+    pins["pin_1"] = ({"name": "v_plus", "number": "1", "type": "signal"})
+    pins["pin_2"] = ({"name": "s", "number": "2", "type": "signal"})
+    pins["pin_3"] = ({"name": "d_plus", "number": "3", "type": "signal"})
+    pins["pin_4"] = ({"name": "d_minus", "number": "4", "type": "signal"})
+    pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "signal"})
+    pins["pin_6"] = ({"name": "hsd1_minus", "number": "6", "type": "gnd"})
+    pins["pin_7"] = ({"name": "hsd1_plus", "number": "7", "type": "signal"})
+    pins["pin_8"] = ({"name": "hsd2_minus", "number": "8", "type": "signal"})
+    pins["pin_9"] = ({"name": "hsd2_plus", "number": "9", "type": "signal"})
+    pins["pin_10"] = ({"name": "oe", "number": "10", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+
+
     ###### usb to serial bridge
     part_details = {}
     part_details["classification"] = "electronic"

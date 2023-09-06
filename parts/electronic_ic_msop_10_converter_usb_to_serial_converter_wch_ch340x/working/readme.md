@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x 
-* short_code: ich340x
+* short_code: imsp10ch340x
 * md5_6: 0f2103  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working  
 ## naming details
@@ -38,6 +38,11 @@ List of Pins:
 oomp_key: oomp_kicad_interface_usb_ch340x  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x/working  
 
+## footprint
+
+![](footprint/0/working/working_600.png)  
+oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm/working  
 
 ## full_summary
 | name | value | 
@@ -89,12 +94,13 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working | 
 | directory | parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x | 
 | name | Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X | 
-| short_code | ich340x | 
+| short_code | imsp10ch340x | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C3035748', 'link': 'https://lcsc.com/product-detail/C3035748.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 0f210323ca1152360fceeb82b02d755c | 
 | md5_5 | 0f210 | 
 | md5_6 | 0f2103 | 
 | md5_10 | 0f210323ca | 
-| markdown_full | [electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[ich340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br> | 
+| markdown_full | [electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_so_msop_10_3x3mm_p0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x', 'oomp_key': 'oomp_kicad_interface_usb_ch340x', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym'}] | 

@@ -67,6 +67,7 @@ def get_short_code(**kwargs):
     for i in range(4, 28, 2):
         replace_dict["size"][f"soic_{i}"] = f"so{i}"
         replace_dict["size"][f"sop_{i}"] = f"sp{i}"
+        replace_dict["size"][f"msop_{i}"] = f"msp{i}"
        
     ###### size ics
     ic_strings = []
@@ -98,6 +99,7 @@ def get_short_code(**kwargs):
     replace_dict["color"]["surface_mount"] = "s"
     replace_dict["color"]["tantalum"] = "t"
     replace_dict["color"]["sensor"] = "sn"
+    replace_dict["color"]["multiplexer"] = "mp"
 
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
@@ -114,6 +116,9 @@ def get_short_code(**kwargs):
 
     ###### leds
     replace_dict["description_main"]["ws2812b"] = "2812"
+
+    ###### ics
+    replace_dict["description_main"]["usb_multiplexer"] = "ump"
 
     #add for _pin 1-40
     for pin_count in range(1, 41):
@@ -158,6 +163,7 @@ def get_short_code(**kwargs):
     
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""
+    replace_dict["description_extra"]["two_to_one"] = "21"
 
     #package_marking
     #needs to be in the loop
@@ -188,6 +194,7 @@ def get_short_code(**kwargs):
     replace_dict["part_number"]["bme280"] = "280"
     replace_dict["part_number"]["1010rgbc"] = "1010rgbc"
     replace_dict["part_number"]["stk8321"] = "stk8321"
+    replace_dict["part_number"]["rs2227xn"] = "rs2227"
 
         ###### ch340
     models = ["c","g","b","t","e","x"] ###### no k symbol yet

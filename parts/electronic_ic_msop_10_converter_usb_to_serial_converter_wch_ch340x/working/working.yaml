@@ -8,12 +8,16 @@ distributors:
     link: https://lcsc.com/product-detail/C3035748.html
     name: LCSC
     part_number: C3035748
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
+    oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working
 id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 kicad_reference: U
 manufacturer: wch
 manufacturers: []
-markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[ich340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic
+markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic
     Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC
     - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
 md5: 0f210323ca1152360fceeb82b02d755c
@@ -65,7 +69,7 @@ pins:
         name: txd
         number: '9'
         type: signal
-short_code: ich340x
+short_code: imsp10ch340x
 short_name: usb to serial converter (ch340x)
 size: msop_10
 symbol:

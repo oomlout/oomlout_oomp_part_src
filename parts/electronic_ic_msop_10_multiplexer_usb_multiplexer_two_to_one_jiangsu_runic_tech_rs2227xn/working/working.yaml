@@ -1,0 +1,71 @@
+classification: electronic
+color: multiplexer
+description_extra: two_to_one
+description_main: usb_multiplexer
+directory: parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
+    oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working
+id: electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+kicad_reference: U
+manufacturer: jiangsu_runic_tech
+manufacturers: []
+markdown_full: '[electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[imsp10mpump21rs2227](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[Electronic
+    Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br><br>'
+md5: 3a10020ea9997e59872f6e32c7913236
+md5_10: 3a10020ea9
+md5_5: 3a100
+md5_6: 3a1002
+name: Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech
+    Rs2227Xn
+notes: []
+oomp_key: oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+part_number: rs2227xn
+pins:
+    pin_1:
+        name: v_plus
+        number: '1'
+        type: signal
+    pin_10:
+        name: oe
+        number: '10'
+        type: signal
+    pin_2:
+        name: s
+        number: '2'
+        type: signal
+    pin_3:
+        name: d_plus
+        number: '3'
+        type: signal
+    pin_4:
+        name: d_minus
+        number: '4'
+        type: signal
+    pin_5:
+        name: gnd
+        number: '5'
+        type: signal
+    pin_6:
+        name: hsd1_minus
+        number: '6'
+        type: gnd
+    pin_7:
+        name: hsd1_plus
+        number: '7'
+        type: signal
+    pin_8:
+        name: hsd2_minus
+        number: '8'
+        type: signal
+    pin_9:
+        name: hsd2_plus
+        number: '9'
+        type: signal
+short_code: imsp10mpump21rs2227
+short_name: usb multiplexer 2 to 1 (rs2227xn)
+size: msop_10
+type: ic
