@@ -1,0 +1,52 @@
+{
+    "classification": "electronic",
+    "type": "socket",
+    "size": "usb_a",
+    "color": "",
+    "description_main": "through_hole",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "pins": {
+        "pin_1": {
+            "name": "vbus",
+            "number": "1",
+            "type": "power"
+        },
+        "pin_2": {
+            "name": "usb_negative",
+            "number": "2",
+            "type": "signal"
+        },
+        "pin_3": {
+            "name": "usb_positive",
+            "number": "3",
+            "type": "signal"
+        },
+        "pin_4": {
+            "name": "gnd",
+            "number": "4",
+            "type": "signal"
+        },
+        "pin_5": {
+            "name": "shield",
+            "number": "6",
+            "type": "signal"
+        }
+    },
+    "id": "electronic_socket_usb_a_through_hole",
+    "oomp_key": "oomp_electronic_socket_usb_a_through_hole",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working",
+    "directory": "parts/electronic_socket_usb_a_through_hole",
+    "name": "Electronic Socket Usb A Through Hole",
+    "short_code": "scth",
+    "distributors": [],
+    "manufacturers": [],
+    "md5": "ac29a1c56fdd56c5fceebef01c86ea00",
+    "md5_5": "ac29a",
+    "md5_6": "ac29a1",
+    "md5_10": "ac29a1c56f",
+    "markdown_full": "[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br>"
+}

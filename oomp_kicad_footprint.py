@@ -306,6 +306,12 @@ def get_footprints(**kwargs):
     ###### socket    
     match = {}
     match["type"] = "socket"
+    match["size"] = "usb_a"
+    match["description_main"] = "through_hole"
+    match["footprint_name"] = f"kicad_connector_usb_usb_a_molex_67643_horizontal"
+    matches.append(match)   
+    match = {}
+    match["type"] = "socket"
     match["size"] = "usb_mini"
     match["description_main"] = "surface_mount_only"
     match["footprint_name"] = f"kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal"

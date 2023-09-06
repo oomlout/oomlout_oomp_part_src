@@ -107,7 +107,9 @@ def get_short_code(**kwargs):
     replace_dict["description_main"]["tinted"] = "t"
     replace_dict["description_main"]["1117"] = "1117"
 
+    
     replace_dict["description_main"]["surface_mount_only"] = "smo"
+    replace_dict["description_main"]["through_hole"] = "th"
 
     ####### sensors
     replace_dict["description_main"]["pressure_temperature"] = "pt"
@@ -164,6 +166,7 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"] = {}
     replace_dict["description_extra"][""] = ""
     replace_dict["description_extra"]["two_to_one"] = "21"
+    replace_dict["description_extra"]["most_common"] = "mc"
 
     #package_marking
     #needs to be in the loop
@@ -179,6 +182,7 @@ def get_short_code(**kwargs):
     ## header ones
     replace_dict["description_extra"]["right_angle"] = "ra"
     replace_dict["description_extra"]["surface_mount"] = "sm"
+    
     replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
 
 

@@ -118,6 +118,9 @@ def get_matches(**kwargs):
     
     # sockets
     #      usb
+    #            type_a
+    matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
+                  "part_number": "C2345"})
     #            mini
     matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
                   "part_number": "C91144"})

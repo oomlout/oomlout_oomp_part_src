@@ -5,6 +5,10 @@ description_main: surface_mount_only
 directory: parts/electronic_socket_usb_mini_surface_mount_only
 distributors:
 -   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2345.html
+    name: LCSC
+    part_number: C2345
+-   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C91144.html
     name: LCSC
     part_number: C91144
@@ -22,8 +26,8 @@ manufacturers:
     part_number: U-M-M5SS-W-2
 markdown_full: '[electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[Electronic
     Socket Usb Mini Surface Mount Only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC
-    - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts
-    Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br>'
+    - C2345<br>](https://lcsc.com/product-detail/C2345.html)[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean
+    Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br>'
 md5: 34c5c0be3324508572b94f980c1c9606
 md5_10: 34c5c0be33
 md5_5: 34c5c

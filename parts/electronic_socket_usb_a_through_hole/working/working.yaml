@@ -1,0 +1,52 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: through_hole
+directory: parts/electronic_socket_usb_a_through_hole
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal
+    oomp_key: oomp_kicad_connector_usb_usb_a_molex_67643_horizontal
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working
+id: electronic_socket_usb_a_through_hole
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic
+    Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br>'
+md5: ac29a1c56fdd56c5fceebef01c86ea00
+md5_10: ac29a1c56f
+md5_5: ac29a
+md5_6: ac29a1
+name: Electronic Socket Usb A Through Hole
+oomp_key: oomp_electronic_socket_usb_a_through_hole
+part_number: ''
+pins:
+    pin_1:
+        name: vbus
+        number: '1'
+        type: power
+    pin_2:
+        name: usb_negative
+        number: '2'
+        type: signal
+    pin_3:
+        name: usb_positive
+        number: '3'
+        type: signal
+    pin_4:
+        name: gnd
+        number: '4'
+        type: signal
+    pin_5:
+        name: shield
+        number: '6'
+        type: signal
+short_code: scth
+short_name: ''
+size: usb_a
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a
+    oomp_key: oomp_kicad_connector_usb_a
+type: socket

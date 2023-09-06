@@ -455,15 +455,15 @@
 ### 2_nets   
 ####    
 [nt2 - oomp_electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd/working)   
-[nt2 - oomp_electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)   
+[nt2th - oomp_electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)   
 ### 3_nets   
 ####    
 [nt3 - oomp_electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)   
-[nt3 - oomp_electronic_nettie_3_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)   
+[nt3th - oomp_electronic_nettie_3_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)   
 ### 4_nets   
 ####    
 [nt4 - oomp_electronic_nettie_4_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)   
-[nt4 - oomp_electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)   
+[nt4th - oomp_electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)   
 ## pmic   
 ### sot_223   
 #### linear   
@@ -793,6 +793,9 @@
 [r12o105 - oomp_electronic_resistor_1206_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000000_ohm/working)   
 [r12o104 - oomp_electronic_resistor_1206_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working)   
 ## socket   
+### usb_a   
+####    
+[scth - oomp_electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)   
 ### usb_mini   
 ####    
 [scumnsmo - oomp_electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)   

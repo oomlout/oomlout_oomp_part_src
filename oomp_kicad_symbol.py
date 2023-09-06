@@ -181,6 +181,12 @@ def get_symbols(**kwargs):
     ###### socket
     match = {}
     match["type"] = "socket"
+    match["size"] = "usb_a"
+    match["description_main"] = "through_hole"
+    match["symbol_name"] = f"kicad_connector_usb_a"
+    matches.append(match)  
+    match = {}
+    match["type"] = "socket"
     match["size"] = "usb_mini"
     match["description_main"] = "surface_mount_only"
     match["symbol_name"] = f"kicad_connector_usb_b_mini"

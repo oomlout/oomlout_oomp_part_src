@@ -12703,7 +12703,7 @@ electronic_nettie_2_nets_through_hole:
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[nt2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[Electronic
+    markdown_full: '[electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[nt2th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[Electronic
         Nettie 2 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br><br>'
     md5: c86bdf842046e81ba413e322d79ac3dc
     md5_10: c86bdf8420
@@ -12712,7 +12712,7 @@ electronic_nettie_2_nets_through_hole:
     name: Electronic Nettie 2 Nets Through Hole
     oomp_key: oomp_electronic_nettie_2_nets_through_hole
     part_number: ''
-    short_code: nt2
+    short_code: nt2th
     size: 2_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
@@ -12773,7 +12773,7 @@ electronic_nettie_3_nets_through_hole:
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_nettie_3_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)<br>[nt3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)<br>[Electronic
+    markdown_full: '[electronic_nettie_3_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)<br>[nt3th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)<br>[Electronic
         Nettie 3 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working)<br><br>'
     md5: bfa6ff6edd982b6107b4a71433ca5d67
     md5_10: bfa6ff6edd
@@ -12782,7 +12782,7 @@ electronic_nettie_3_nets_through_hole:
     name: Electronic Nettie 3 Nets Through Hole
     oomp_key: oomp_electronic_nettie_3_nets_through_hole
     part_number: ''
-    short_code: nt3
+    short_code: nt3th
     size: 3_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym
@@ -12843,7 +12843,7 @@ electronic_nettie_4_nets_through_hole:
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[nt4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[Electronic
+    markdown_full: '[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[Electronic
         Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br>'
     md5: ac52abec84c9c9c28eb15db0ca925cd9
     md5_10: ac52abec84
@@ -12852,7 +12852,7 @@ electronic_nettie_4_nets_through_hole:
     name: Electronic Nettie 4 Nets Through Hole
     oomp_key: oomp_electronic_nettie_4_nets_through_hole
     part_number: ''
-    short_code: nt4
+    short_code: nt4th
     size: 4_nets
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
@@ -30826,6 +30826,60 @@ electronic_resistor_quarter_watt_through_hole_82_ohm:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
         oomp_key: oomp_kicad_device_r
     type: resistor
+electronic_socket_usb_a_through_hole:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: through_hole
+    directory: parts/electronic_socket_usb_a_through_hole
+    distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal
+        oomp_key: oomp_kicad_connector_usb_usb_a_molex_67643_horizontal
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working
+    id: electronic_socket_usb_a_through_hole
+    make_files: true
+    manufacturer: ''
+    manufacturers: []
+    markdown_full: '[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic
+        Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br>'
+    md5: ac29a1c56fdd56c5fceebef01c86ea00
+    md5_10: ac29a1c56f
+    md5_5: ac29a
+    md5_6: ac29a1
+    name: Electronic Socket Usb A Through Hole
+    oomp_key: oomp_electronic_socket_usb_a_through_hole
+    part_number: ''
+    pins:
+        pin_1:
+            name: vbus
+            number: '1'
+            type: power
+        pin_2:
+            name: usb_negative
+            number: '2'
+            type: signal
+        pin_3:
+            name: usb_positive
+            number: '3'
+            type: signal
+        pin_4:
+            name: gnd
+            number: '4'
+            type: signal
+        pin_5:
+            name: shield
+            number: '6'
+            type: signal
+    short_code: scth
+    short_name: ''
+    size: usb_a
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a
+        oomp_key: oomp_kicad_connector_usb_a
+    type: socket
 electronic_socket_usb_mini_surface_mount_only:
     classification: electronic
     color: ''
@@ -30833,6 +30887,10 @@ electronic_socket_usb_mini_surface_mount_only:
     description_main: surface_mount_only
     directory: parts/electronic_socket_usb_mini_surface_mount_only
     distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C2345.html
+        name: LCSC
+        part_number: C2345
     -   id: distributor_lcsc
         link: https://lcsc.com/product-detail/C91144.html
         name: LCSC
@@ -30852,8 +30910,8 @@ electronic_socket_usb_mini_surface_mount_only:
         part_number: U-M-M5SS-W-2
     markdown_full: '[electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[Electronic
         Socket Usb Mini Surface Mount Only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC
-        - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts
-        Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br>'
+        - C2345<br>](https://lcsc.com/product-detail/C2345.html)[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean
+        Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br>'
     md5: 34c5c0be3324508572b94f980c1c9606
     md5_10: 34c5c0be33
     md5_5: 34c5c
