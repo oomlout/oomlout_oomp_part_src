@@ -48,4 +48,7 @@ symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
     oomp_key: oomp_kicad_device_led
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
+    oomp_key: oomp_kicad_led_ws2812b
 type: led

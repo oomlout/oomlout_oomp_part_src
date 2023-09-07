@@ -1,0 +1,42 @@
+classification: electronic
+color: ''
+description_extra: package_marking_t4
+description_main: ''
+directory: parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2099.html
+    name: LCSC
+    part_number: C2099
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C444720.html
+    name: LCSC
+    part_number: C444720
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
+    oomp_key: oomp_kicad_diode_smd_d_sod_123
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working
+id: electronic_diode_sod_123_package_marking_t4_1n4148w
+kicad_reference: D
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[dsod123pmt44148](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[Electronic
+    Diode Sod 123 Package Marking T4 1N4148W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[LCSC
+    - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
+md5: 35b545ced662ea6b79a91d4e083ad0fd
+md5_10: 35b545ced6
+md5_5: 35b54
+md5_6: 35b545
+name: Electronic Diode Sod 123 Package Marking T4 1N4148W
+oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
+part_number: 1n4148w
+short_code: dsod123pmt44148
+size: sod_123
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d
+    oomp_key: oomp_kicad_device_d
+type: diode

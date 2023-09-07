@@ -45,3 +45,25 @@ def load_parts(**kwargs):
 
     oomp.add_parts(parts, **kwargs)
     
+    #            5050
+    #                  https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B_C114586.html
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "led"
+    part_details["size"] = ["5050"]
+    part_details["color"] = ["rgb"]
+    part_details["description_main"] = ["ws2812b"]
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "worldsemi"
+    part_details["part_number"] = "ws2812b_b_w"
+    part_details["kicad_reference"] = "L"
+    parts.append(part_details)        
+    pins = {}
+    pins["pin_1"] = ({"name": "vdd", "number": "1", "type": "signal"})
+    pins["pin_2"] = ({"name": "dout", "number": "2", "type": "power"})
+    pins["pin_3"] = ({"name": "vss", "number": "3", "type": "power"})
+    pins["pin_4"] = ({"name": "din", "number": "4", "type": "signal"})
+    part_details["pins"] = pins
+
+    oomp.add_parts(parts, **kwargs)
+    

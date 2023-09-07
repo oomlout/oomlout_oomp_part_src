@@ -1,0 +1,40 @@
+{
+    "classification": "electronic",
+    "type": "diode",
+    "size": "sod_123",
+    "color": "",
+    "description_main": "",
+    "description_extra": "package_marking_t4",
+    "manufacturer": "",
+    "part_number": "1n4148w",
+    "from_yaml": false,
+    "make_files": true,
+    "filter": "",
+    "kicad_reference": "D",
+    "id": "electronic_diode_sod_123_package_marking_t4_1n4148w",
+    "oomp_key": "oomp_electronic_diode_sod_123_package_marking_t4_1n4148w",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working",
+    "directory": "parts/electronic_diode_sod_123_package_marking_t4_1n4148w",
+    "name": "Electronic Diode Sod 123 Package Marking T4 1N4148W",
+    "short_code": "dsod123pmt44148",
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2099",
+            "link": "https://lcsc.com/product-detail/C2099.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C444720",
+            "link": "https://lcsc.com/product-detail/C444720.html",
+            "id": "distributor_lcsc"
+        }
+    ],
+    "manufacturers": [],
+    "md5": "35b545ced662ea6b79a91d4e083ad0fd",
+    "md5_5": "35b54",
+    "md5_6": "35b545",
+    "md5_10": "35b545ced6",
+    "markdown_full": "[electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[dsod123pmt44148](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[Electronic Diode Sod 123 Package Marking T4 1N4148W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[LCSC - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>"
+}

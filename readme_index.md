@@ -32,10 +32,14 @@
 [xcr3213mhz12 - oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz/working)   
 [xcr3213mhz8 - oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)   
 [xcr3213mhz16 - oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)   
+## diode   
+### sod_123   
+####    
+[dsod123pmt44148 - oomp_electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)   
 ## diode_schottky   
 ### sod_123   
 ####    
-[dssod123pmb2 - oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)   
+[dssod123pmb2mbr0520 - oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)   
 ## header   
 ### 2d54_mm   
 ####    
@@ -444,6 +448,9 @@
 ### 1010   
 #### rgb   
 [l101028121010rgbc - oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)   
+### 5050   
+#### rgb   
+[l50502812ws2812bbw - oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)   
 ## mounting_hole   
 ### m3   
 ####    

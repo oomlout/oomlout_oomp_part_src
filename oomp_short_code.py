@@ -54,6 +54,7 @@ def get_short_code(**kwargs):
     
     #### metric sizes
     replace_dict["size"]["1010"] = "1010"
+    replace_dict["size"]["5050"] = "5050"
 
     replace_dict["size"]["usb_mini"] = "umn"
     replace_dict["size"]["usb_micro"] = "umc"
@@ -102,45 +103,42 @@ def get_short_code(**kwargs):
     replace_dict["color"]["multiplexer"] = "mp"
 
     replace_dict["description_main"] = {}
+    
+    
+    
     replace_dict["description_main"][""] = ""
     replace_dict["description_main"]["i2c"] = "i2c"
     replace_dict["description_main"]["tinted"] = "t"
-    replace_dict["description_main"]["1117"] = "1117"
+    
+
 
     
     replace_dict["description_main"]["surface_mount_only"] = "smo"
     replace_dict["description_main"]["through_hole"] = "th"
 
-    ####### sensors
+
+    #      ic
+
+    #            atmega
+    replace_dict["description_main"]["atmega328"] = "at328"    
+    replace_dict["description_main"]["usb_multiplexer"] = "ump"
+
+    #      led
+    replace_dict["description_main"]["ws2812b"] = "2812"
+
+
+    #      pmic
+    replace_dict["description_main"]["1117"] = "1117"
+
+    #      sensor
     replace_dict["description_main"]["pressure_temperature"] = "pt"
     replace_dict["description_main"]["light"] = "l"
     replace_dict["description_main"]["accelerometer"] = "a"
 
-    ###### leds
-    replace_dict["description_main"]["ws2812b"] = "2812"
-
-    ###### ics
-    replace_dict["description_main"]["usb_multiplexer"] = "ump"
-
-    #add for _pin 1-40
-    for pin_count in range(1, 41):
-        replace_dict["description_main"][f"{pin_count}_pin"] = f"{pin_count}p"
     
-    
-    #for 2x 
-    for pin_count in range(2, 40, 2):
-        replace_dict["description_main"][f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"] = f"2x{int(pin_count/2)}p"
+    #      loops
 
-    #frequenzy
-    frequencys = []
-    frequencys.append(["hertz","hz"])
-    frequencys.append(["kilo_hertz","khz"])
-    frequencys.append(["mega_hertz","mhz"])
-    for frequency in frequencys:
-        for value in range(1, 100):
-            replace_dict["description_main"][f"{value}_{frequency[0]}"] = f"{frequency[1]}{value}"
-
-    #for capcitance farads
+    #             capacitance
     capacitance_pairs = []
     capacitance_pairs.append(["nano_farad","nf"])
     capacitance_pairs.append(["micro_farad","uf"])
@@ -150,27 +148,56 @@ def get_short_code(**kwargs):
             replace_dict["description_main"][f"{value}_{pair[0]}"] = f"{pair[1]}{value}"
 
     replace_dict["description_main"][f"4_7_micro_farad"] = f"uf4d7"
-    pass
-    #loop for ohms resistors
+
+    #            frequency
+    frequencys = []
+    frequencys.append(["hertz","hz"])
+    frequencys.append(["kilo_hertz","khz"])
+    frequencys.append(["mega_hertz","mhz"])
+    for frequency in frequencys:
+        for value in range(1, 100):
+            replace_dict["description_main"][f"{value}_{frequency[0]}"] = f"{frequency[1]}{value}"
+
+    #            pins
+    #add for _pin 1-40
+    for pin_count in range(1, 41):
+        replace_dict["description_main"][f"{pin_count}_pin"] = f"{pin_count}p"
+    #for 2x 
+    for pin_count in range(2, 40, 2):
+        replace_dict["description_main"][f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"] = f"2x{int(pin_count/2)}p"
+
+    #            resistance    
     for num_zeros in range(0, 10):
         for start_digits in range(10, 100):
             ohms = start_digits * (10 ** num_zeros)
             code = f'{start_digits}{num_zeros}'
             replace_dict["description_main"][f"{ohms}_ohm"] = f"o{code}"
 
-    ###### ics
+    # description_extra
 
-        ###### atmega
-    replace_dict["description_main"]["atmega328"] = "at328"
-    
     replace_dict["description_extra"] = {}
+    #      uncategorized
     replace_dict["description_extra"][""] = ""
     replace_dict["description_extra"]["two_to_one"] = "21"
     replace_dict["description_extra"]["most_common"] = "mc"
 
-    #package_marking
-    #needs to be in the loop
+    #      header mounting
+    replace_dict["description_extra"]["right_angle"] = "ra"
+    replace_dict["description_extra"]["surface_mount"] = "sm"    
+    replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
 
+    #       interposer
+    replace_dict["description_extra"]["helicopter"] = "heli"
+    replace_dict["description_extra"]["landing"] = "land"
+    
+    #      package_marking
+    marking = "b2"
+    replace_dict["description_extra"][f"package_marking_{marking}"] = {marking}
+    marking = "t4"
+    replace_dict["description_extra"][f"package_marking_{marking}"] = {marking}
+
+    #      loop
+    #           voltage
     replace_dict["description_extra"]["1_5_volt"] = "1d5v"
     replace_dict["description_extra"]["1_8v"] = "1d8v"
     replace_dict["description_extra"]["2_5_volt"] = "2d5v"
@@ -178,33 +205,45 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["3_3_volt"] = "3d3v"
     for volt in range(1, 500):
         replace_dict["description_extra"][f"{volt}_volt"] = f"{volt}v"
-
-    ## header ones
-    replace_dict["description_extra"]["right_angle"] = "ra"
-    replace_dict["description_extra"]["surface_mount"] = "sm"
     
-    replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
-
-
-    # interposer ones
-    replace_dict["description_extra"]["helicopter"] = "heli"
-    replace_dict["description_extra"]["landing"] = "land"
+    
+    # manufacturer
 
     replace_dict["manufacturer"] = {}
+    #      uncategorized
     replace_dict["manufacturer"][""] = ""
 
+    # part_number
+
     replace_dict["part_number"] = {}
+    #      uncategorized
+
+    #      diode
+    replace_dict["part_number"]["1n4148w"] = "4148"
+    replace_dict["part_number"]["mbr0520"] = "mbr0520"
+
+
+    #      ic       
     replace_dict["part_number"]["aip1640"] = "aip1640"
-    replace_dict["part_number"]["bme280"] = "280"
-    replace_dict["part_number"]["1010rgbc"] = "1010rgbc"
+    replace_dict["part_number"]["bme280"] = "280"    
     replace_dict["part_number"]["stk8321"] = "stk8321"
     replace_dict["part_number"]["rs2227xn"] = "rs2227"
 
-        ###### ch340
+    #      leds
+    replace_dict["part_number"]["1010rgbc"] = "1010rgbc"
+    replace_dict["part_number"]["ws2812b_b_w"] = "ws2812bbw"
+
+    #      loops
+    #      ic
+    ###### ch340
     models = ["c","g","b","t","e","x"] ###### no k symbol yet
     for mod in models:
         replace_dict["part_number"][f"ch340{mod}"] = f"ch340{mod}"
 
+
+
+
+    ########################################## processing
 
     #make a copy of kwargs
     kwargs_copy = kwargs.copy()

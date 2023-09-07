@@ -872,7 +872,7 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
         link: ''
         name: onsemi
         part_number: MBR0520LT3G
-    markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[Electronic
+    markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[Electronic
         Diode Schottky Sod 123 Package Marking B2 Mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC
         - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)[LCSC
         - C165467<br>](https://lcsc.com/product-detail/C165467.html)<br>[Jiangsu Changjing
@@ -886,13 +886,57 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520:
     name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
     oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
     part_number: mbr0520
-    short_code: dssod123pmb2
+    short_code: dssod123pmb2mbr0520
     size: sod_123
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d_schottky//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d_schottky
         oomp_key: oomp_kicad_device_d_schottky
     type: diode_schottky
+electronic_diode_sod_123_package_marking_t4_1n4148w:
+    classification: electronic
+    color: ''
+    description_extra: package_marking_t4
+    description_main: ''
+    directory: parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C2099.html
+        name: LCSC
+        part_number: C2099
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C444720.html
+        name: LCSC
+        part_number: C444720
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
+        oomp_key: oomp_kicad_diode_smd_d_sod_123
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working
+    id: electronic_diode_sod_123_package_marking_t4_1n4148w
+    kicad_reference: D
+    make_files: true
+    manufacturer: ''
+    manufacturers: []
+    markdown_full: '[electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[dsod123pmt44148](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[Electronic
+        Diode Sod 123 Package Marking T4 1N4148W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[LCSC
+        - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
+    md5: 35b545ced662ea6b79a91d4e083ad0fd
+    md5_10: 35b545ced6
+    md5_5: 35b54
+    md5_6: 35b545
+    name: Electronic Diode Sod 123 Package Marking T4 1N4148W
+    oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
+    part_number: 1n4148w
+    short_code: dsod123pmt44148
+    size: sod_123
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d
+        oomp_key: oomp_kicad_device_d
+    type: diode
 electronic_header_1_mm_jst_sh_10_pin_surface_mount:
     classification: electronic
     color: ''
@@ -8140,10 +8184,6 @@ electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin:
     description_main: 2x19_dual_row_38_pin
     directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
     distributors: []
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_vertical//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_vertical
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin/working
     id: electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
     kicad_reference: J
@@ -9521,12 +9561,6 @@ electronic_ic_0603_sensor_light_everlight_elec_als_pt19:
         link: https://lcsc.com/product-detail/C146233.html
         name: LCSC
         part_number: C146233
-    footprint:
-    - &id001
-        directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-        oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    - *id001
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working
     id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
     make_files: true
@@ -11878,6 +11912,9 @@ electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
         oomp_key: oomp_kicad_device_led
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
+        oomp_key: oomp_kicad_led_ws2812b
     type: led
 electronic_led_10_mm:
     classification: electronic
@@ -12399,6 +12436,73 @@ electronic_led_3_mm_yellow:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
         oomp_key: oomp_kicad_device_led
     type: led
+electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w:
+    classification: electronic
+    color: rgb
+    description_extra: ''
+    description_main: ws2812b
+    directory: parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C114586.html
+        name: LCSC
+        part_number: C114586
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+        oomp_key: oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working
+    id: electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+    kicad_reference: L
+    make_files: true
+    manufacturer: worldsemi
+    manufacturers:
+    -   id: manufacturer_worldsemi
+        link: http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en
+        name: Worldsmi
+        part_number: WS2812B-B/W
+    markdown_full: '[electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[l50502812ws2812bbw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[Electronic
+        Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC
+        - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi
+        - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en)
+        [(L)  ](https://www.lcsc.com/search?q=WS2812B-B/W)[(D)  ](https://www.digikey.com/en/products?keywords=WS2812B-B/W)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=WS2812B-B/W)[(N)  ](https://www.newark.com/search?st=WS2812B-B/W)[(SZ)  ](https://so.szlcsc.com/global.html?k=WS2812B-B/W)<br>'
+    md5: f0d9be0ddd3684a3e6890ffe9f94fe71
+    md5_10: f0d9be0ddd
+    md5_5: f0d9b
+    md5_6: f0d9be
+    name: Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W
+    oomp_key: oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+    part_number: ws2812b_b_w
+    pins:
+        pin_1:
+            name: vdd
+            number: '1'
+            type: signal
+        pin_2:
+            name: dout
+            number: '2'
+            type: power
+        pin_3:
+            name: vss
+            number: '3'
+            type: power
+        pin_4:
+            name: din
+            number: '4'
+            type: signal
+    short_code: l50502812ws2812bbw
+    short_name: 5050 Rgbws2812B Led
+    size: '5050'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+        oomp_key: oomp_kicad_device_led
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
+        oomp_key: oomp_kicad_led_ws2812b
+    type: led
 electronic_led_5_mm:
     classification: electronic
     color: ''
@@ -12603,7 +12707,7 @@ electronic_mounting_hole_m3:
     md5_5: 872f0
     md5_6: 872f01
     name: Electronic Mounting Hole M3
-    notes: &id002 []
+    notes: &id001 []
     oomp_key: oomp_electronic_mounting_hole_m3
     part_number: ''
     short_code: mhm3
@@ -12638,7 +12742,7 @@ electronic_mounting_hole_m6:
     md5_5: fbea6
     md5_6: fbea65
     name: Electronic Mounting Hole M6
-    notes: *id002
+    notes: *id001
     oomp_key: oomp_electronic_mounting_hole_m6
     part_number: ''
     short_code: mhm6

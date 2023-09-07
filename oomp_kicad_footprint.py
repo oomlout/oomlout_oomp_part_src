@@ -10,21 +10,21 @@ def get_footprints(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
-    ###### breakout_boards
+    # breakout_boards
     match = {}
     match["description_main"] = "atmega328"
     match["description_extra"] = "shennie"
     match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
     matches.append(match)
     
-    ###### button
+    # button
     match = {}
     match["type"] = "button"
     match["size"] = "3_5_mm_x_6_mm_x_2_5_mm"
     match["footprint_name"] = "kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs"
     matches.append(match)
 
-    ###### capacitor
+    # capacitor
     match = {}
     match["type"] = "capacitor"
     match["size"] = "3216_avx_a"
@@ -43,7 +43,7 @@ def get_footprints(**kwargs):
     match["footprint_name"] = "kicad_capacitor_smd_c_0402_1005metric"
     matches.append(match)
 
-    #crystal
+    # crystal
     match = {}
     match["type"] = "ceramic_resonator"
     match["size"] = "3213"
@@ -52,7 +52,7 @@ def get_footprints(**kwargs):
     matches.append(match)
 
 
-    ###### header
+    # header
     #for pins 1-40
     for pin_count in range(1, 41):
         #regular pin through hole
@@ -102,7 +102,7 @@ def get_footprints(**kwargs):
             match["footprint_name"] = f"kicad_connector_jst_jst_sh_sm{pin_s}b_srss_tb_1x{pin_s}_1mp_p1_00mm_horizontal"
             matches.append(match) 
 
-    #dual row
+    #      dual row
     for pin_count in range(4, 40, 2):
         pin_s = str(pin_count).zfill(2)
         pin_s2x = str(int(pin_count/2)).zfill(2)
@@ -114,23 +114,75 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_vertical"
         matches.append(match) 
 
-    ###### ic
+    # ic
+    match["classification"] = "electronic"
+    match["type"] = "ic"
+    match["size"] = "0603"
+    match["footprint_name"] = f"kicad_resistor_smd_r_0603_1608metric"
+    matches.append(match)  
 
+    #            lga
+    match = {}
+    match["size"] = "lga_2_5_mm_x_2_5_mm_8_pin"
+    match["footprint_name"] = f"kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering"
+    matches.append(match) 
+    
+    match = {}
+    match["size"] = "lga_2_mm_x_2_mm_12_pin"
+    match["footprint_name"] = f"kicad_package_lga_lga_12_2x2mm_p0_5mm"
+    matches.append(match) 
+
+    #            mlf (also called vqfn by microchip)
+    match = {}
+    match["size"] = "mlf_32"
+    match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm"
+    matches.append(match) 
+
+    #            msop
+    match = {}    
+    match["size"] = "msop_10"
+    match["footprint_name"] = f"kicad_package_so_msop_10_3x3mm_p0_5mm"
+    matches.append(match)  
+
+    #            qfn
+    match = {}
+    match["size"] = "qfn_32"
+    match["footprint_name"] = f"kicad_package_dfn_qfn_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm"
+    matches.append(match) 
+
+    #            soic
     match = {}
     match["size"] = "soic_14_wide"
     match["footprint"] = []
     match["footprint_name"] = f"kicad_package_so_soic_14w_7_5x9mm_p1_27mm"
     matches.append(match)  
+    
     match = {}
     match["size"] = "soic_28_wide"
     match["footprint"] = []
     match["footprint_name"] = f"kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm"
     matches.append(match)  
 
-    
+    ###### sop
+    match = {}
+    match["size"] = "sop_16"
+    match["footprint_name"] = f"kicad_package_so_sop_16_3_9x9_9mm_p1_27mm"
+    matches.append(match)
 
-    #for pins 1-40
-    ###### is dip
+    #            tqfp #microchip calls the pitch 1mm kicad 0.8mm 
+    match = {}
+    match["size"] = "tqfp_32"
+    match["footprint_name"] = f"kicad_package_qfp_tqfp_32_7x7mm_p0_8mm"
+    matches.append(match) 
+    
+    #            vqfn
+    match = {}
+    match["size"] = "vqfn_28"
+    match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm"
+    matches.append(match)  
+
+    #      loops
+    #            dip
     for pin_count in range(2, 40, 2):
         #regular pin through hole
         pin_s = str(pin_count).zfill(2)
@@ -140,81 +192,59 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_package_dip_dip_{pin_s}_w7_62mm"
         matches.append(match)  
 
-    match["classification"] = "electronic"
-    match["type"] = "ic"
-    match["size"] = "0603"
-    match["footprint_name"] = f"kicad_resistor_smd_r_0603_1608metric"
-    matches.append(match)  
+    #      led
 
-    ###### ic lga
-    match = {}
-    match["size"] = "lga_2_5_mm_x_2_5_mm_8_pin"
-    match["footprint_name"] = f"kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering"
-    matches.append(match) 
-    match = {}
-    match["size"] = "lga_2_mm_x_2_mm_12_pin"
-    match["footprint_name"] = f"kicad_package_lga_lga_12_2x2mm_p0_5mm"
-    matches.append(match) 
-
-    ###### ic mlf (also called vqfn by microchip)
-    match = {}
-    match["size"] = "mlf_32"
-    match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm"
-    matches.append(match) 
-    
-    ###### ic tqfp #microchip calls the pitch 1mm kicad 0.8mm 
-    match = {}
-    match["size"] = "tqfp_32"
-    match["footprint_name"] = f"kicad_package_qfp_tqfp_32_7x7mm_p0_8mm"
-    matches.append(match) 
-    ###### ic qfn
-    match = {}
-    match["size"] = "qfn_32"
-    match["footprint_name"] = f"kicad_package_dfn_qfn_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm"
-    matches.append(match) 
-    
-    ###### ic vqfn
-    match = {}
-    match["size"] = "vqfn_28"
-    match["footprint_name"] = f"kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm"
-    matches.append(match)  
-
-    ###### led
+    #            through hole
     match = {}
     match["type"] = "led"
     match["size"] = "5_mm"
     match["footprint_name"] = f"kicad_led_tht_led_d5_0mm"
     matches.append(match)  
+    
     match = {}
     match["type"] = "led"
     match["size"] = "10_mm"
     match["footprint_name"] = f"kicad_led_tht_led_d10_0mm"
     matches.append(match)  
+    
+    #            rgb surface mount
     match = {}
     match["type"] = "led"
     match["size"] = "1010"
     match["footprint_name"] = f"esden_pkl_led_led_tri_1010"
     matches.append(match)  
+
+    match = {}
+    match["type"] = "led"
+    match["size"] = "5050"
+    match["footprint_name"] = f"kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm"
+    matches.append(match)  
+
+    #            surface mount common
     match = {}
     match["type"] = "led"
     match["size"] = "0201"
     match["footprint_name"] = f"kicad_led_smd_led_0201_0603metric"
     matches.append(match)  
+    
     match = {}
     match["type"] = "led"
     match["size"] = "0402"
     match["footprint_name"] = f"kicad_led_smd_led_0402_1005metric"
     matches.append(match)  
+    
     match = {}
     match["type"] = "led"
     match["size"] = "0603"
     match["footprint_name"] = f"kicad_led_smd_led_0603_1608metric"
     matches.append(match)  
+    
     match = {}
     match["type"] = "led"
     match["size"] = "0805"
     match["footprint_name"] = f"kicad_led_smd_led_0805_2012metric"
     matches.append(match)      
+    
     match = {}
     match["type"] = "led"
     match["size"] = "1206"
@@ -239,24 +269,15 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_nettie_nettie_{net}_tht_pad0_3mm"
         matches.append(match)  
 
-
-
     ###### sod
     match = {}
     match["size"] = "sod_123"
     match["footprint_name"] = f"kicad_diode_smd_d_sod_123"
     matches.append(match)  
+
     
 
-    ###### sop
-    match = {}
-    match["size"] = "sop_16"
-    match["footprint_name"] = f"kicad_package_so_sop_16_3_9x9_9mm_p1_27mm"
-    matches.append(match)
-    match = {}
-    match["size"] = "msop_10"
-    match["footprint_name"] = f"kicad_package_so_msop_10_3x3mm_p0_5mm"
-    matches.append(match)  
+    
     
 
 

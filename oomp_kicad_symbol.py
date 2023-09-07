@@ -10,20 +10,20 @@ def get_symbols(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
-    ###### breakout_boards
+    # breakout_boards
     match = {}
     match["description_main"] = "atmega328"
     match["description_extra"] = "shennie"
     match["symbol_name"] = f"kicad_mcu_module_arduino_nano_v2_x"
     matches.append(match)
 
-    ###### button
+    # button
     match = {}
     match["type"] = "button"
     match["symbol_name"] = f"kicad_switch_sw_push"
     matches.append(match)
 
-    ###### capacitor
+    # capacitor
     
     match = {}
     match["type"] = "capacitor"
@@ -36,24 +36,26 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_device_c_polarized"
     matches.append(match)
 
-    ###### crystal
+    # crystal
     match = {}
     match["type"] = "crystal"
     match["color"] = "2_pin"
     match["symbol_name"] = f"kicad_device_crystal"
     matches.append(match)    
+    
     match = {}
     match["type"] = "crystal"
     match["color"] = "3_pin_ground_pin_2"
     match["symbol_name"] = f"kicad_device_crystal_gnd2"
     matches.append(match)
+    
     match = {}
     match["type"] = "ceramic_resonator"
     match["color"] = "3_pin_ground_pin_2"
     match["symbol_name"] = f"kicad_device_crystal_gnd2"
     matches.append(match)
 
-    ###### diode
+    # diode
     match = {}
     match["type"] = "diode"
     match["symbol_name"] = f"kicad_device_d"
@@ -64,9 +66,10 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_device_d_schottky"
     matches.append(match)
 
-    ###### header
+    # header
     
-    # for pin 1-40
+    #      loops
+    #             single row
     for pin_count in range(1, 41):
         pin_s = str(pin_count).zfill(2)
         match = {}
@@ -76,7 +79,7 @@ def get_symbols(**kwargs):
         match["symbol_name"]  = f"kicad_connector_conn_01x{pin_s}_pin"
         matches.append(match)
 
-    # for dual row
+    #             dual row
     for pin_count in range(2, 40, 2):
         pin_s = str(pin_count).zfill(2)
         pin_sx2 = str(int(pin_count/2)).zfill(2)
@@ -89,24 +92,28 @@ def get_symbols(**kwargs):
         matches.append(match)
 
 
-    ###### ic
+    # ic
     #      atmega328
     match = {}
     match["part_number"] = "atmega328p_pu"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328p_p"
     matches.append(match)
+    
     match = {}
     match["part_number"] = "atmega328p_mn"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_p"
     matches.append(match)
+    
     match = {}
     match["part_number"] = "atmega328p_mmh"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_mm"
     matches.append(match)
+    
     match = {}
     match["part_number"] = "atmega328p_au"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_a"
     matches.append(match)
+    
     match = {}
     match["part_number"] = "atmega328p_mu"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_m"
@@ -118,7 +125,7 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_sensor_bme280"
     matches.append(match)
 
-    ###### ch340
+    #      ch340
     models = ["c","g","t","e","x"] ###### no k,b symbol yet
     for model in models:
         match = {}
@@ -126,25 +133,26 @@ def get_symbols(**kwargs):
         match["symbol_name"] = f"kicad_interface_usb_ch340{model}"
         matches.append(match)
     
-
-
-    ###### led
-
-    match = {}
-    match["classification"] = "electronic"
+    # led
+    match = {}    
     match["type"] = "led"
     match["symbol_name"] = f"kicad_device_led"
     matches.append(match)
+    
+    match = {}    
+    match["type"] = "led"
+    match["description_main"] = "ws2812b"
+    match["symbol_name"] = f"kicad_led_ws2812b"
+    matches.append(match)
 
-    ###### mounting_hole
-
+    # mounting_hole
     match = {}
     match["classification"] = "electronic"
     match["type"] = "mounting_hole"
     match["symbol_name"] = f"kicad_mechanical_mountinghole"
     matches.append(match)
 
-    ###### nettie
+    # nettie
     nets = ["2","3","4"] 
     for net in nets:
         match = {}    
@@ -154,8 +162,9 @@ def get_symbols(**kwargs):
         matches.append(match)
     
 
-    ###### pmic
+    # pmic
     
+    #      loops
     voltage_pairs = []
     voltage_pairs.append(["1_5_volt","15"])
     voltage_pairs.append(["1_8_volt","18"])
@@ -163,6 +172,8 @@ def get_symbols(**kwargs):
     voltage_pairs.append(["3_3_volt","33"])
     voltage_pairs.append(["5_volt","50"])
     voltage_pairs.append(["adj","adj"])
+    
+    #            1117
     for pair in voltage_pairs:
         match = {}
         match["type"] = "pmic"
@@ -172,19 +183,21 @@ def get_symbols(**kwargs):
         match["symbol_name"] = f"kicad_regulator_linear_ap1117_{value}"
         matches.append(match)
     pass
-    ###### resistor
+
+    # resistor
     match = {}
     match["type"] = "resistor"
     match["symbol_name"] = f"kicad_device_r"
     matches.append(match)
 
-    ###### socket
+    # socket
     match = {}
     match["type"] = "socket"
     match["size"] = "usb_a"
     match["description_main"] = "through_hole"
     match["symbol_name"] = f"kicad_connector_usb_a"
     matches.append(match)  
+    
     match = {}
     match["type"] = "socket"
     match["size"] = "usb_mini"
@@ -192,6 +205,9 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_connector_usb_b_mini"
     matches.append(match)   
 
+
+
+    ############################################### processing
 
     symbols = []
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to symbols

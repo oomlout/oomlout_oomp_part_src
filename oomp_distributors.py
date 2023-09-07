@@ -37,6 +37,11 @@ def get_matches(**kwargs):
                     "part_number": "C77335"})
     matches.append({"id":"electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
                     "part_number": "C475717"})
+    matches.append({"id":"electronic_diode_sod_123_package_marking_t4_1n4148w",
+                    "part_number": "C2099"})
+    matches.append({"id":"electronic_diode_sod_123_package_marking_t4_1n4148w",
+                    "part_number": "C444720"})
+    
 
     # header
     matches.append({"id":"electronic_header_1d27_mm_6_pin",
@@ -100,7 +105,12 @@ def get_matches(**kwargs):
                   "part_number": "C965802"})
     matches.append({"id":"electronic_led_0603_white",
                   "part_number": "C965808"})
+    matches.append({"id":"electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w",
+                  "part_number": "C114586"})
     
+    matches.append({"id":"electronic_led_0603_white",
+                  "part_number": "C965808"})
+
     # pmic
     #      1117
     matches.append({"id":"electronic_pmic_sot_223_linear_1117_5_volt",

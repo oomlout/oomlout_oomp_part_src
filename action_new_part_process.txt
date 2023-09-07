@@ -1,0 +1,32 @@
+# new part process
+
+* first
+    * open kicad footprint browser
+* open
+    * action_new_part_process.workspace
+* find on lcsc
+    * put on top monitor
+* open the right create_parts
+    * add part
+* work on short code
+    * open oomp_short_cde
+* add pins
+    * from datasheet
+* run actions_setup.py
+* open folder
+    * C:\GH\oomlout_oomp_part_src\parts
+* put id in zzzzzzz_working.txt
+* new package
+    * open oomp_kicad_footprint
+    * open kicad footprint browser
+* new symbol
+    * if pins are defined a new symbol will be action_generate_readme
+* distributor
+    * open oomp_distributor
+* manufacturer
+    * open oomp_manufacturers
+    * get_worldsemi is the template
+* pinout
+    * find the footprint in oomlout_oomp_footprint_bot
+        * C:\GH\oomlout_oomp_part_src\tmp\oomlout_oomp_footprint_bot\
+* run action_all

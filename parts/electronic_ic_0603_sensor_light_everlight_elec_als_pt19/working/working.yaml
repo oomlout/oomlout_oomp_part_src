@@ -8,12 +8,6 @@ distributors:
     link: https://lcsc.com/product-detail/C146233.html
     name: LCSC
     part_number: C146233
-footprint:
-- &id001
-    directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-- *id001
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working
 id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 manufacturer: everlight_elec

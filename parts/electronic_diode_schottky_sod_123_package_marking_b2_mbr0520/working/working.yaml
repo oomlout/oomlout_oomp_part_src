@@ -39,7 +39,7 @@ manufacturers:
     link: ''
     name: onsemi
     part_number: MBR0520LT3G
-markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[Electronic
+markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[dssod123pmb2mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[Electronic
     Diode Schottky Sod 123 Package Marking B2 Mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC
     - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)[LCSC
     - C165467<br>](https://lcsc.com/product-detail/C165467.html)<br>[Jiangsu Changjing
@@ -53,7 +53,7 @@ md5_6: fd1bfb
 name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
 oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 part_number: mbr0520
-short_code: dssod123pmb2
+short_code: dssod123pmb2mbr0520
 size: sod_123
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d_schottky//working/working.kicad_sym

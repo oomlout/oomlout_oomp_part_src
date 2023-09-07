@@ -9,6 +9,7 @@ def get_manufacturers(**kwargs):
     kwargs = get_murata(**kwargs)
     kwargs = get_samsung(**kwargs)
     kwargs = get_uniroyal(**kwargs)
+    kwargs = get_worldsemi(**kwargs)
     kwargs = get_yageo(**kwargs)
 
 
@@ -524,6 +525,35 @@ def get_yageo(**kwargs):
     if "manufacturers" not in kwargs:
         kwargs["manufacturers"] = []
         
+    #add the manufacturers to kwargs[manufacturers]
+    kwargs["manufacturers"].extend(manufacturers)
+
+    return kwargs
+
+def get_worldsemi(**kwargs):
+    matches = []
+
+    part = "electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w"
+    matches.append({"id":part,"part_number": "WS2812B-B/W",
+                    "link": "http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en"
+                    })
+    
+
+    manufacturers = []
+    for match in matches:
+        #jus check th id
+        if match["id"].replace("oomp_","") in kwargs["id"]:
+            manufacturer_match = {}
+            manufacturer_match["name"] = "Worldsmi"
+            manufacturer_match["part_number"] = match["part_number"]
+            manufacturer_match["link"] = match["link"]
+            manufacturer_match["id"] = "manufacturer_worldsemi"            
+            manufacturers.append(manufacturer_match)
+
+    #if there are no kwargs[manufacturers]
+    if "manufacturers" not in kwargs:
+        kwargs["manufacturers"] = []
+    
     #add the manufacturers to kwargs[manufacturers]
     kwargs["manufacturers"].extend(manufacturers)
 

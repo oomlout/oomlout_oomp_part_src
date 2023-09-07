@@ -20,7 +20,7 @@
 ## diode_schottky   
 ### sod_123   
 ####    
-[dssod123pmb2 - oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)   
+[dssod123pmb2mbr0520 - oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)   
 ## ic   
 ### tqfp_32   
 #### mcu   
