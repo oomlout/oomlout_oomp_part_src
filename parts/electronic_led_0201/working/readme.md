@@ -57,5 +57,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6 | 734a19 | 
 | md5_10 | 734a19bea8 | 
 | markdown_full | [electronic_led_0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br>[l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br>[Electronic Led 0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br><br> | 
+| markdown_short | [electronic_led_0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric', 'oomp_key': 'oomp_kicad_led_smd_led_0201_0603metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

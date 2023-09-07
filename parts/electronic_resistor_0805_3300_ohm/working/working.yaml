@@ -52,6 +52,10 @@ markdown_full: '[electronic_resistor_0805_3300_ohm](https://github.com/oomlout/o
     - 0805W8F3301T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F3301T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F3301T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F3301T5E)[(N)  ](https://www.newark.com/search?st=0805W8F3301T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F3301T5E)<br>[Yageo
     - RC0805JR-073K3L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-073K3L)
     [(L)  ](https://www.lcsc.com/search?q=RC0805JR-073K3L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-073K3L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-073K3L)[(N)  ](https://www.newark.com/search?st=RC0805JR-073K3L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-073K3L)<br>'
+markdown_short: '[electronic_resistor_0805_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_3300_ohm/working)<br>[LCSC
+    - C26020<br>](https://lcsc.com/product-detail/C26020.html)[LCSC - C114222<br>](https://lcsc.com/product-detail/C114222.html)<br>[Uniroyal
+    - 0805W8J0332T5E- not in jlc basic parts]()[Uniroyal - 0805W8F3301T5E- jlc basic
+    part]()[Yageo - RC0805JR-073K3L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-073K3L)'
 md5: 5e7c51e42d18f0d6d6b8796800bb7aa7
 md5_10: 5e7c51e42d
 md5_5: 5e7c5

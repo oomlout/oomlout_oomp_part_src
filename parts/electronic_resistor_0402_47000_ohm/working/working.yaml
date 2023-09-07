@@ -48,6 +48,10 @@ markdown_full: '[electronic_resistor_0402_47000_ohm](https://github.com/oomlout/
     - 0402WGF4702TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4702TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4702TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4702TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4702TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4702TCE)<br>[Yageo
     - RC0402JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0747KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0747KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0747KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0747KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0747KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0747KL)<br>'
+markdown_short: '[electronic_resistor_0402_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working)<br>[LCSC
+    - C25563<br>](https://lcsc.com/product-detail/C25563.html)[LCSC - C163440<br>](https://lcsc.com/product-detail/C163440.html)<br>[Uniroyal
+    - 0402WGJ0473TCE- not in jlc basic parts]()[Uniroyal - 0402WGF4702TCE- jlc basic
+    part]()[Yageo - RC0402JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0747KL)'
 md5: ea4b8729353a98822f221c82eb6e3aaf
 md5_10: ea4b872935
 md5_5: ea4b8

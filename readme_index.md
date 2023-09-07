@@ -802,7 +802,7 @@
 ## socket   
 ### usb_a   
 ####    
-[scth - oomp_electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)   
+[scuath - oomp_electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)   
 ### usb_micro   
 ####    
 [scumcsm - oomp_electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)   

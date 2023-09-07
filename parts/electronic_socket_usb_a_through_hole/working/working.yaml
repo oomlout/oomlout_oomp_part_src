@@ -12,8 +12,9 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/el
 id: electronic_socket_usb_a_through_hole
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic
     Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br>'
+markdown_short: '[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br>'
 md5: ac29a1c56fdd56c5fceebef01c86ea00
 md5_10: ac29a1c56f
 md5_5: ac29a
@@ -42,7 +43,7 @@ pins:
         name: shield
         number: '6'
         type: signal
-short_code: scth
+short_code: scuath
 short_name: ''
 size: usb_a
 symbol:

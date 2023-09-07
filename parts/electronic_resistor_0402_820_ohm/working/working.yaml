@@ -48,6 +48,10 @@ markdown_full: '[electronic_resistor_0402_820_ohm](https://github.com/oomlout/oo
     - 0402WGF8200TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF8200TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF8200TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF8200TCE)[(N)  ](https://www.newark.com/search?st=0402WGF8200TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF8200TCE)<br>[Yageo
     - RC0402JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07820RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07820RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07820RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07820RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07820RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07820RL)<br>'
+markdown_short: '[electronic_resistor_0402_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_820_ohm/working)<br>[LCSC
+    - C270398<br>](https://lcsc.com/product-detail/C270398.html)[LCSC - C137837<br>](https://lcsc.com/product-detail/C137837.html)<br>[Uniroyal
+    - 0402WGJ0821TCE- not in jlc basic parts]()[Uniroyal - 0402WGF8200TCE- jlc basic
+    part]()[Yageo - RC0402JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07820RL)'
 md5: 2edc8cfb980d0f82c4e4b19521512ff9
 md5_10: 2edc8cfb98
 md5_5: 2edc8

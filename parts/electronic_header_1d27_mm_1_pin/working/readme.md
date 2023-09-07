@@ -50,4 +50,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_6 | 23d2d4 | 
 | md5_10 | 23d2d4bf34 | 
 | markdown_full | [electronic_header_1d27_mm_1_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_1_pin/working)<br>[h1d271p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_1_pin/working)<br>[Electronic Header 1D27 Mm 1 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_1_pin/working)<br><br> | 
+| markdown_short | [electronic_header_1d27_mm_1_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_1_pin/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x01_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x01_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym'}] | 

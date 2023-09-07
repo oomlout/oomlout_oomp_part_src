@@ -56,5 +56,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6 | 65e686 | 
 | md5_10 | 65e6862e9e | 
 | markdown_full | [electronic_resistor_1206_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working)<br>[r12o104](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working)<br>[Electronic Resistor 1206 100000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working)<br><br> | 
+| markdown_short | [electronic_resistor_1206_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_100000_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

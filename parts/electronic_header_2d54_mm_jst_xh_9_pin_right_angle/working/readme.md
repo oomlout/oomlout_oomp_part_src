@@ -51,4 +51,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_6 | 828dd7 | 
 | md5_10 | 828dd7d66d | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_9_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_right_angle/working)<br>[h9pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Jst Xh 9 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_right_angle/working)<br><br> | 
+| markdown_short | [electronic_header_2d54_mm_jst_xh_9_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_right_angle/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x09_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym'}] | 

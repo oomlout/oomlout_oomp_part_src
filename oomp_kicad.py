@@ -136,6 +136,9 @@ def create_symbol_library():
                 if property.key == "Reference":
                     pass
                     property.value = part.get("kicad_reference", "J")
+                if property.key == "ki_description":
+                    pass
+                    property.value = part.get("markdown_short", "")
             #print(f'adding symbol {symbol_output_name} to library')
             # print a dot
             print(".", end="", flush=True)

@@ -112,4 +112,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6 | 3cf65e | 
 | md5_10 | 3cf65e88ee | 
 | markdown_full | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[insoic14wi2cland](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[Electronic Interposer Soic 14 Wide I2C Landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br> | 
+| markdown_short | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod'}] | 

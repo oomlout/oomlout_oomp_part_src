@@ -549,6 +549,7 @@ def get_markdown_summaries(**kwargs):
 
     ## do the same for manufacturers
     manufacturer_link = ""
+    manufacturer_link_no_search = ""
     max_manu = 6
     if len(manufacturers) > 0:
         
@@ -593,6 +594,7 @@ def get_markdown_summaries(**kwargs):
             }
 
             search_links = ""
+            
             for search_type in search_types:
                 text = f"({search_types[search_type]['letter']})"
                 link = f"{search_types[search_type]['search_link_front']}{manufacturer_1_part_number}{search_types[search_type]['search_link_back']}"
@@ -600,9 +602,11 @@ def get_markdown_summaries(**kwargs):
                 search_links += oom_markdown.get_link(link=f"{link}",text=f"{text}  ")
 
             text = f"{manufacturer_1_name} - {manufacturer_1_part_number}{manufacturer_1_note}"
-            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}")
-            manufacturer_link_no_search = manufacturer_link
+            manufacturer_link += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}")            
             manufacturer_link += f" {search_links}<br>"
+            
+            manufacturer_link_no_search += oom_markdown.get_link(link=f"{manufacturer_1_link}",text=f"{text}")            
+            
             
 
     if len(manufacturers) > max_dist:
@@ -616,11 +620,12 @@ def get_markdown_summaries(**kwargs):
 
 
     markdown_full = f"{id_link}<br>{short_link}<br>{name_link}<br>{distributor_link}<br>{manufacturer_link}"
-    markdown_short = f"{id_link}<br>{short_link}<br>{name_link}<br>{distributor_link}<br>{manufacturer_link_no_search}"
-    sourcing_full = f"{distributor_link}<br>{manufacturer_link}"
-
+    markdown_short = f"{id_link}<br>{distributor_link}<br>{manufacturer_link_no_search}"
+    
+    
 
     kwargs["markdown_full"] = markdown_full
+    kwargs["markdown_short"] = markdown_short
 
 
     return kwargs

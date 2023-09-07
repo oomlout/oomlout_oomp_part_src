@@ -52,6 +52,10 @@ markdown_full: '[electronic_resistor_0603_100_ohm](https://github.com/oomlout/oo
     - 0603WAF1000T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF1000T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF1000T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF1000T5E)[(N)  ](https://www.newark.com/search?st=0603WAF1000T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF1000T5E)<br>[Yageo
     - RC0603JR-07100RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07100RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-07100RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-07100RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07100RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-07100RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-07100RL)<br>'
+markdown_short: '[electronic_resistor_0603_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_100_ohm/working)<br>[LCSC
+    - C25201<br>](https://lcsc.com/product-detail/C25201.html)[LCSC - C110091<br>](https://lcsc.com/product-detail/C110091.html)<br>[Uniroyal
+    - 0603WAJ0101T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1000T5E- jlc basic
+    part]()[Yageo - RC0603JR-07100RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07100RL)'
 md5: 560a9abfe6baee6dda04d14bc7f86ae5
 md5_10: 560a9abfe6
 md5_5: 560a9

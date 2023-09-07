@@ -60,5 +60,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6 | 6ab38c | 
 | md5_10 | 6ab38cdcab | 
 | markdown_full | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[c6uf4d7](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[Electronic Capacitor 0603 4 7 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br> | 
+| markdown_short | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym'}] | 

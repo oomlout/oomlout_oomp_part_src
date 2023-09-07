@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_socket_usb_a_through_hole 
-* short_code: scth
+* short_code: scuath
 * md5_6: ac29a1  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working  
 ## naming details
@@ -70,13 +70,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working | 
 | directory | parts/electronic_socket_usb_a_through_hole | 
 | name | Electronic Socket Usb A Through Hole | 
-| short_code | scth | 
+| short_code | scuath | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | ac29a1c56fdd56c5fceebef01c86ea00 | 
 | md5_5 | ac29a | 
 | md5_6 | ac29a1 | 
 | md5_10 | ac29a1c56f | 
-| markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br> | 
+| markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br> | 
+| markdown_short | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_a_molex_67643_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a', 'oomp_key': 'oomp_kicad_connector_usb_a', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym'}] | 

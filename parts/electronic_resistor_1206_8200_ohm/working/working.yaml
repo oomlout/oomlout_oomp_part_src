@@ -52,6 +52,10 @@ markdown_full: '[electronic_resistor_1206_8200_ohm](https://github.com/oomlout/o
     - 1206W4F8201T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F8201T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F8201T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F8201T5E)[(N)  ](https://www.newark.com/search?st=1206W4F8201T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F8201T5E)<br>[Yageo
     - RC1206JR-078K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-078K2L)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-078K2L)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-078K2L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-078K2L)[(N)  ](https://www.newark.com/search?st=RC1206JR-078K2L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-078K2L)<br>'
+markdown_short: '[electronic_resistor_1206_8200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_8200_ohm/working)<br>[LCSC
+    - C26048<br>](https://lcsc.com/product-detail/C26048.html)[LCSC - C274918<br>](https://lcsc.com/product-detail/C274918.html)<br>[Uniroyal
+    - 1206W4J0822T5E- not in jlc basic parts]()[Uniroyal - 1206W4F8201T5E- jlc basic
+    part]()[Yageo - RC1206JR-078K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-078K2L)'
 md5: 52205c2e321366f853cfc9a636c24970
 md5_10: 52205c2e32
 md5_5: '52205'

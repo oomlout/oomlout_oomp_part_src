@@ -52,6 +52,10 @@ markdown_full: '[electronic_resistor_0603_820_ohm](https://github.com/oomlout/oo
     - 0603WAF8200T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF8200T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF8200T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF8200T5E)[(N)  ](https://www.newark.com/search?st=0603WAF8200T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF8200T5E)<br>[Yageo
     - RC0603JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07820RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-07820RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-07820RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07820RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-07820RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-07820RL)<br>'
+markdown_short: '[electronic_resistor_0603_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_820_ohm/working)<br>[LCSC
+    - C25259<br>](https://lcsc.com/product-detail/C25259.html)[LCSC - C137608<br>](https://lcsc.com/product-detail/C137608.html)<br>[Uniroyal
+    - 0603WAJ0821T5E- not in jlc basic parts]()[Uniroyal - 0603WAF8200T5E- jlc basic
+    part]()[Yageo - RC0603JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07820RL)'
 md5: 872386c8c2d0cbe6d86ef71cae501d24
 md5_10: 872386c8c2
 md5_5: '87238'

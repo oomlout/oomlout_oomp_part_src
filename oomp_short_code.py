@@ -59,6 +59,7 @@ def get_short_code(**kwargs):
     replace_dict["size"]["usb_mini"] = "umn"
     replace_dict["size"]["usb_micro"] = "umc"
     replace_dict["size"]["usb_c"] = "uc"
+    replace_dict["size"]["usb_a"] = "ua"
 
     ###### nettie
     options = ["2","3","4"]
