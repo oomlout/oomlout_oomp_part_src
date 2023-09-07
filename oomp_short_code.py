@@ -114,6 +114,7 @@ def get_short_code(**kwargs):
 
     
     replace_dict["description_main"]["surface_mount_only"] = "smo"
+    replace_dict["description_main"]["surface_mount"] = "sm"
     replace_dict["description_main"]["through_hole"] = "th"
 
 

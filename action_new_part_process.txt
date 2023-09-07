@@ -6,6 +6,7 @@
     * action_new_part_process.workspace
 * find on lcsc
     * put on top monitor
+    * look at jlc basic
 * open the right create_parts
     * add part
 * work on short code

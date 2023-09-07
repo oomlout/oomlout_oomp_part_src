@@ -1,0 +1,64 @@
+{
+    "classification": "electronic",
+    "type": "socket",
+    "size": "usb_micro",
+    "color": "",
+    "description_main": "surface_mount",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "pins": {
+        "pin_1": {
+            "name": "vbus",
+            "number": "1",
+            "type": "power"
+        },
+        "pin_2": {
+            "name": "usb_negative",
+            "number": "2",
+            "type": "signal"
+        },
+        "pin_3": {
+            "name": "usb_positive",
+            "number": "3",
+            "type": "signal"
+        },
+        "pin_4": {
+            "name": "id",
+            "number": "4",
+            "type": "signal"
+        },
+        "pin_5": {
+            "name": "gnd",
+            "number": "5",
+            "type": "power"
+        },
+        "pin_6": {
+            "name": "shield",
+            "number": "6",
+            "type": "signal"
+        }
+    },
+    "id": "electronic_socket_usb_micro_surface_mount",
+    "oomp_key": "oomp_electronic_socket_usb_micro_surface_mount",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working",
+    "directory": "parts/electronic_socket_usb_micro_surface_mount",
+    "name": "Electronic Socket Usb Micro Surface Mount",
+    "short_code": "scumcsm",
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C319160",
+            "link": "https://lcsc.com/product-detail/C319160.html",
+            "id": "distributor_lcsc"
+        }
+    ],
+    "manufacturers": [],
+    "md5": "aae3e879c3fb0042b5bcdf92835870fd",
+    "md5_5": "aae3e",
+    "md5_6": "aae3e8",
+    "md5_10": "aae3e879c3",
+    "markdown_full": "[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>"
+}

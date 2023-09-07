@@ -30984,6 +30984,65 @@ electronic_socket_usb_a_through_hole:
         link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a
         oomp_key: oomp_kicad_connector_usb_a
     type: socket
+electronic_socket_usb_micro_surface_mount:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: surface_mount
+    directory: parts/electronic_socket_usb_micro_surface_mount
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C319160.html
+        name: LCSC
+        part_number: C319160
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s
+        oomp_key: oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working
+    id: electronic_socket_usb_micro_surface_mount
+    make_files: true
+    manufacturer: ''
+    manufacturers: []
+    markdown_full: '[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic
+        Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC
+        - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>'
+    md5: aae3e879c3fb0042b5bcdf92835870fd
+    md5_10: aae3e879c3
+    md5_5: aae3e
+    md5_6: aae3e8
+    name: Electronic Socket Usb Micro Surface Mount
+    oomp_key: oomp_electronic_socket_usb_micro_surface_mount
+    part_number: ''
+    pins:
+        pin_1:
+            name: vbus
+            number: '1'
+            type: power
+        pin_2:
+            name: usb_negative
+            number: '2'
+            type: signal
+        pin_3:
+            name: usb_positive
+            number: '3'
+            type: signal
+        pin_4:
+            name: id
+            number: '4'
+            type: signal
+        pin_5:
+            name: gnd
+            number: '5'
+            type: power
+        pin_6:
+            name: shield
+            number: '6'
+            type: signal
+    short_code: scumcsm
+    short_name: ''
+    size: usb_micro
+    type: socket
 electronic_socket_usb_mini_surface_mount_only:
     classification: electronic
     color: ''

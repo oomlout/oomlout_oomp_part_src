@@ -131,6 +131,11 @@ def get_matches(**kwargs):
     #            type_a
     matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
                   "part_number": "C2345"})
+    
+    #            micro
+    matches.append({"id":"electronic_socket_usb_micro_surface_mount",
+                  "part_number": "C319160"})
+    
     #            mini
     matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
                   "part_number": "C91144"})
