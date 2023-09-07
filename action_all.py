@@ -41,7 +41,8 @@ def main():
     print("Generating readme index")
     action_generate_readme_index.main()    
     
-    if not fast:
+    if True:
+    #if not fast:
         import action_generate_outputs
         print("Generating outputs")
         action_generate_outputs.main()
