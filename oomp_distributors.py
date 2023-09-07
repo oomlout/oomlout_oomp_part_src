@@ -72,7 +72,7 @@ def get_matches(**kwargs):
     matches.append({"id":"electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321","part_number": "C966924"})
 
     #      rs2227 multiplexer
-    matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",
+    matches.append({"id":"msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn",
                   "part_number": "C255478"})
     
 

@@ -158,6 +158,7 @@ def add_part(**kwargs):
         
         #add short code from a get_short_code function
         kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
+        kwargs["short_code_upper"] = kwargs["short_code"].upper()
         parts_short_code[kwargs["short_code"]] = kwargs["id"]
         
         # add short name from a get_short_name function

@@ -97,7 +97,17 @@ def get_short_code(**kwargs):
 
     replace_dict["color"] = {}
     replace_dict["color"]["red"] = "r"
+    replace_dict["color"]["orange"] = "o"
+    replace_dict["color"]["yellow"] = "y"
     replace_dict["color"]["green"] = "g"
+    replace_dict["color"]["blue"] = "l"
+    replace_dict["color"]["purple"] = "v"
+    replace_dict["color"]["white"] = "w"
+    replace_dict["color"]["black"] = "b"
+    replace_dict["color"]["gray"] = "gr"
+    replace_dict["color"]["brown"] = "br"
+    replace_dict["color"]["clear"] = "c"
+    replace_dict["color"]["pink"] = "p"    
     replace_dict["color"]["surface_mount"] = "s"
     replace_dict["color"]["tantalum"] = "t"
     replace_dict["color"]["sensor"] = "sn"
