@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_4700_ohm | 
 | name | Electronic Resistor 0402 4700 Ohm | 
 | short_code | r4o472 | 
+| short_code_upper | R4O472 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25940', 'link': 'https://lcsc.com/product-detail/C25940.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C105870', 'link': 'https://lcsc.com/product-detail/C105870.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0472TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF4701TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-074K7L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | b5dd74ab93cea496596d628179ee139e | 

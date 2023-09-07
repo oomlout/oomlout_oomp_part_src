@@ -30,6 +30,7 @@ name: Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
 part_number: ''
 short_code: h3psmra
+short_code_upper: H3PSMRA
 short_name: Jst Sh 3 Pin Surface Mount Right Angle Header 1 Mm Pitch
 size: 1_mm_jst_sh
 symbol:

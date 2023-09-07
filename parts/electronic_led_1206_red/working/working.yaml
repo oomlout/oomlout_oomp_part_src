@@ -26,6 +26,7 @@ name: Electronic Led 1206 Red
 oomp_key: oomp_electronic_led_1206_red
 part_number: ''
 short_code: l12r
+short_code_upper: L12R
 short_name: 1206 Red Led
 size: '1206'
 symbol:

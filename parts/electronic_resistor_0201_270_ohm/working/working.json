@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_270_ohm",
     "name": "Electronic Resistor 0201 270 Ohm",
     "short_code": "ro271",
+    "short_code_upper": "RO271",
     "distributors": [
         {
             "name": "LCSC",

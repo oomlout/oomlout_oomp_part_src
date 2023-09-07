@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0603 | 
 | name | Electronic Led 0603 | 
 | short_code | l6 | 
+| short_code_upper | L6 | 
 | short_name | 0603 Led | 
 | distributors | [] | 
 | manufacturers | [] | 

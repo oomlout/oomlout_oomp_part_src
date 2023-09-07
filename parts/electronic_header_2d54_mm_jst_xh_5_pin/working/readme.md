@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_2d54_mm_jst_xh_5_pin | 
 | name | Electronic Header 2D54 Mm Jst Xh 5 Pin | 
 | short_code | h5p | 
+| short_code_upper | H5P | 
 | short_name | Jst Xh 5 Pin Header 2.54 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [] | 

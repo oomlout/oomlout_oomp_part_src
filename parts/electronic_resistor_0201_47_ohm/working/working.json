@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_47_ohm",
     "name": "Electronic Resistor 0201 47 Ohm",
     "short_code": "ro470",
+    "short_code_upper": "RO470",
     "distributors": [],
     "manufacturers": [
         {

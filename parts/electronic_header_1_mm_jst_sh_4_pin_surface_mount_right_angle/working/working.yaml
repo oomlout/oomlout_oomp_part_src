@@ -40,6 +40,7 @@ name: Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 part_number: ''
 short_code: h4psmra
+short_code_upper: H4PSMRA
 short_name: Jst Sh 4 Pin Surface Mount Right Angle Header 1 Mm Pitch
 size: 1_mm_jst_sh
 symbol:

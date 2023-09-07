@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_nettie_3_nets_smd | 
 | name | Electronic Nettie 3 Nets Smd | 
 | short_code | nt3 | 
+| short_code_upper | NT3 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 494314f1c04b845b745ce0bd6ae8e357 | 

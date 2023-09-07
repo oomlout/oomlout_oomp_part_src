@@ -15,6 +15,7 @@
     "directory": "parts/electronic_header_2d54_mm_15_pin_surface_mount_right_angle",
     "name": "Electronic Header 2D54 Mm 15 Pin Surface Mount Right Angle",
     "short_code": "hi115psmra",
+    "short_code_upper": "HI115PSMRA",
     "short_name": "0.1\" 15 Pin Surface Mount Right Angle Header",
     "distributors": [],
     "manufacturers": [],

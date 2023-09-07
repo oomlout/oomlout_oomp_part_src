@@ -15,6 +15,7 @@
     "directory": "parts/electronic_header_1d27_mm_12_pin",
     "name": "Electronic Header 1D27 Mm 12 Pin",
     "short_code": "h1d2712p",
+    "short_code_upper": "H1D2712P",
     "distributors": [],
     "manufacturers": [],
     "md5": "19fcd4a82f52130b14ac5b56c643890e",

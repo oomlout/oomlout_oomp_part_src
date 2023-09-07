@@ -44,6 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_led_3_mm | 
 | name | Electronic Led 3 Mm | 
 | short_code | l3 | 
+| short_code_upper | L3 | 
 | short_name | 3 Mm Led | 
 | distributors | [] | 
 | manufacturers | [] | 

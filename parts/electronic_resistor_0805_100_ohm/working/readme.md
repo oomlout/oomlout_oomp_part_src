@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_100_ohm | 
 | name | Electronic Resistor 0805 100 Ohm | 
 | short_code | r8o101 | 
+| short_code_upper | R8O101 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25277', 'link': 'https://lcsc.com/product-detail/C25277.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C106949', 'link': 'https://lcsc.com/product-detail/C106949.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0101T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F1000T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-07100RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07100RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 45c66bbd2d20ad9836e12d2661c0f7c9 | 

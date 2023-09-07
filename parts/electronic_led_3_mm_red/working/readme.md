@@ -44,6 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_led_3_mm_red | 
 | name | Electronic Led 3 Mm Red | 
 | short_code | l3r | 
+| short_code_upper | L3R | 
 | short_name | 3 Mm Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

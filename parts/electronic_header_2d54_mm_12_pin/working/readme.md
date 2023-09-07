@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_12_pin | 
 | name | Electronic Header 2D54 Mm 12 Pin | 
 | short_code | hi112p | 
+| short_code_upper | HI112P | 
 | short_name | 0.1" 12 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

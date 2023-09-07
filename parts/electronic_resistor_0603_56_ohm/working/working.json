@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_56_ohm",
     "name": "Electronic Resistor 0603 56 Ohm",
     "short_code": "r6o560",
+    "short_code_upper": "R6O560",
     "distributors": [
         {
             "name": "LCSC",

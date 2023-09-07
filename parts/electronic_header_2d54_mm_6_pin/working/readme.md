@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_6_pin | 
 | name | Electronic Header 2D54 Mm 6 Pin | 
 | short_code | hi16p | 
+| short_code_upper | HI16P | 
 | short_name | 0.1" 6 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

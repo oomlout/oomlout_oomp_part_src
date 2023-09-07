@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_32_pin | 
 | name | Electronic Header 2D54 Mm 32 Pin | 
 | short_code | hi132p | 
+| short_code_upper | HI132P | 
 | short_name | 0.1" 32 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

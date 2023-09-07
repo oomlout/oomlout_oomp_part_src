@@ -54,6 +54,11 @@ pins:
         number: '6'
         type: signal
 short_code: scumcsm
+short_code_upper: SCUMCSM
 short_name: ''
 size: usb_micro
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_micro//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro
+    oomp_key: oomp_kicad_connector_usb_b_micro
 type: socket

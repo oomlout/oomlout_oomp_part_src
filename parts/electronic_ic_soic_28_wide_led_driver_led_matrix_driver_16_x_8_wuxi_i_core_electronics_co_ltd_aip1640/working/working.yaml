@@ -140,6 +140,7 @@ pins:
         number: '9'
         type: signal
 short_code: isoic28waip1640
+short_code_upper: ISOIC28WAIP1640
 short_name: 16x8 led matrix driver (aip1640)
 size: soic_28_wide
 type: ic

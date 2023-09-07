@@ -44,6 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_led_3_mm_green | 
 | name | Electronic Led 3 Mm Green | 
 | short_code | l3g | 
+| short_code_upper | L3G | 
 | short_name | 3 Mm Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

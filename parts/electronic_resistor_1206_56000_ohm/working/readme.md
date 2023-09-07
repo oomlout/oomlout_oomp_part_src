@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_56000_ohm | 
 | name | Electronic Resistor 1206 56000 Ohm | 
 | short_code | r12o563 | 
+| short_code_upper | R12O563 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25667', 'link': 'https://lcsc.com/product-detail/C25667.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137131', 'link': 'https://lcsc.com/product-detail/C137131.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0563T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F5602T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-0756KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0756KL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 1f86336d7d2acd279c6db0795372b565 | 

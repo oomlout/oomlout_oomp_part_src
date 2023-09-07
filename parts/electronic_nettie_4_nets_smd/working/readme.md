@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_nettie_4_nets_smd | 
 | name | Electronic Nettie 4 Nets Smd | 
 | short_code | nt4 | 
+| short_code_upper | NT4 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | cd720732d76fb973d0de468f71781e99 | 

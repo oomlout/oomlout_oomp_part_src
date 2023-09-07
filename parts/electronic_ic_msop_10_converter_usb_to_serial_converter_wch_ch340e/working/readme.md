@@ -95,6 +95,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e | 
 | name | Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E | 
 | short_code | imsp10ch340e | 
+| short_code_upper | IMSP10CH340E | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C99652', 'link': 'https://lcsc.com/product-detail/C99652.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 720e79ba82a5c6f254f73ddb976ddcc2 | 

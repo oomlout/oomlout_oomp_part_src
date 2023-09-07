@@ -24,6 +24,7 @@ name: Electronic Header 2D54 Mm 14 Pin Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_14_pin_right_angle
 part_number: ''
 short_code: hi114pra
+short_code_upper: HI114PRA
 short_name: 0.1" 14 Pin Right Angle Header
 size: 2d54_mm
 symbol:

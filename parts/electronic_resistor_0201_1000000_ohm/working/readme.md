@@ -44,6 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0201_1000000_ohm | 
 | name | Electronic Resistor 0201 1000000 Ohm | 
 | short_code | ro105 | 
+| short_code_upper | RO105 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | bd0164c25fa7070a4c56c0c88b152d73 | 

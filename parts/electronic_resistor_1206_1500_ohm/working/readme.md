@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_1500_ohm | 
 | name | Electronic Resistor 1206 1500 Ohm | 
 | short_code | r12o152 | 
+| short_code_upper | R12O152 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C26036', 'link': 'https://lcsc.com/product-detail/C26036.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137189', 'link': 'https://lcsc.com/product-detail/C137189.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0152T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F1501T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-071K5L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-071K5L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 0c32a095f8d98bb97a2cab20f946add1 | 

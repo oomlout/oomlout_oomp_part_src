@@ -47,6 +47,7 @@
     "directory": "parts/electronic_socket_usb_mini_surface_mount_only",
     "name": "Electronic Socket Usb Mini Surface Mount Only",
     "short_code": "scumnsmo",
+    "short_code_upper": "SCUMNSMO",
     "distributors": [
         {
             "name": "LCSC",

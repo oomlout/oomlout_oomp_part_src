@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0402_1_micro_farad | 
 | name | Electronic Capacitor 0402 1 Micro Farad | 
 | short_code | c4uf1 | 
+| short_code_upper | C4UF1 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 161ca70ef0437b6bc72debadd501c34f | 

@@ -26,6 +26,7 @@ name: Electronic Nettie 4 Nets Through Hole
 oomp_key: oomp_electronic_nettie_4_nets_through_hole
 part_number: ''
 short_code: nt4th
+short_code_upper: NT4TH
 size: 4_nets
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym

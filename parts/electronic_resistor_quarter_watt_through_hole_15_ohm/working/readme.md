@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_15_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 15 Ohm | 
 | short_code | ro150 | 
+| short_code_upper | RO150 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 4cf920e6eedfed81a109ce509bc01b7c | 

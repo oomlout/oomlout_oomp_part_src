@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_25_pin | 
 | name | Electronic Header 2D54 Mm 25 Pin | 
 | short_code | hi125p | 
+| short_code_upper | HI125P | 
 | short_name | 0.1" 25 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

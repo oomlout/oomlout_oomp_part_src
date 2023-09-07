@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_13_pin | 
 | name | Electronic Header 1D27 Mm 13 Pin | 
 | short_code | h1d2713p | 
+| short_code_upper | H1D2713P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | f3bb94f619e5f34b25694247f456901e | 

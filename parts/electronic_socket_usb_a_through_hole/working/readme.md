@@ -71,6 +71,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_socket_usb_a_through_hole | 
 | name | Electronic Socket Usb A Through Hole | 
 | short_code | scuath | 
+| short_code_upper | SCUATH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | ac29a1c56fdd56c5fceebef01c86ea00 | 

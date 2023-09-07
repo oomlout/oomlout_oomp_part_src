@@ -26,6 +26,7 @@ name: Electronic Led 0805
 oomp_key: oomp_electronic_led_0805
 part_number: ''
 short_code: l8
+short_code_upper: L8
 short_name: 0805 Led
 size: 0805
 symbol:

@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_5_mm_green | 
 | name | Electronic Led 5 Mm Green | 
 | short_code | l5g | 
+| short_code_upper | L5G | 
 | short_name | 5 Mm Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

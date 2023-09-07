@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_15000_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 15000 Ohm | 
 | short_code | ro153 | 
+| short_code_upper | RO153 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 17b056637c7abcd02e702ebe74b6e14e | 

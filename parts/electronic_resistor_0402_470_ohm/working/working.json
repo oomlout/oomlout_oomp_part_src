@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0402_470_ohm",
     "name": "Electronic Resistor 0402 470 Ohm",
     "short_code": "r4o471",
+    "short_code_upper": "R4O471",
     "distributors": [
         {
             "name": "LCSC",

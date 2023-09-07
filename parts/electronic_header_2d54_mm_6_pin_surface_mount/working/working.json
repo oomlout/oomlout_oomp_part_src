@@ -15,6 +15,7 @@
     "directory": "parts/electronic_header_2d54_mm_6_pin_surface_mount",
     "name": "Electronic Header 2D54 Mm 6 Pin Surface Mount",
     "short_code": "hi16psm",
+    "short_code_upper": "HI16PSM",
     "short_name": "0.1\" 6 Pin Surface Mount Header",
     "distributors": [],
     "manufacturers": [],

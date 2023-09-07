@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_2d54_mm_jst_xh_3_pin | 
 | name | Electronic Header 2D54 Mm Jst Xh 3 Pin | 
 | short_code | h3p | 
+| short_code_upper | H3P | 
 | short_name | Jst Xh 3 Pin Header 2.54 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [] | 

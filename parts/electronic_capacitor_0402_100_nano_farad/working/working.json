@@ -17,6 +17,7 @@
     "directory": "parts/electronic_capacitor_0402_100_nano_farad",
     "name": "Electronic Capacitor 0402 100 Nano Farad",
     "short_code": "c4nf100",
+    "short_code_upper": "C4NF100",
     "distributors": [],
     "manufacturers": [],
     "md5": "59771c4331f6c67b3f60f46b5ec35ee3",

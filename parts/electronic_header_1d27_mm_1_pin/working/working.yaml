@@ -20,6 +20,7 @@ name: Electronic Header 1D27 Mm 1 Pin
 oomp_key: oomp_electronic_header_1d27_mm_1_pin
 part_number: ''
 short_code: h1d271p
+short_code_upper: H1D271P
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym

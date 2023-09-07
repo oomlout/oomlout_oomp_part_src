@@ -50,6 +50,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_6_pin | 
 | name | Electronic Header 1D27 Mm 6 Pin | 
 | short_code | h1d276p | 
+| short_code_upper | H1D276P | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2935946', 'link': 'https://lcsc.com/product-detail/C2935946.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 42dbb144071cf801cfc3ff8bfe51bd2c | 

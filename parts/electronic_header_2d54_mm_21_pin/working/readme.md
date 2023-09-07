@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_21_pin | 
 | name | Electronic Header 2D54 Mm 21 Pin | 
 | short_code | hi121p | 
+| short_code_upper | HI121P | 
 | short_name | 0.1" 21 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

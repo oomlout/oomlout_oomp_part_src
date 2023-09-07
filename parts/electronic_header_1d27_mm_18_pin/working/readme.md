@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_18_pin | 
 | name | Electronic Header 1D27 Mm 18 Pin | 
 | short_code | h1d2718p | 
+| short_code_upper | H1D2718P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | c9dc30ebc785b05e455ab3b77570be98 | 

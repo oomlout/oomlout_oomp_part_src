@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_18000_ohm",
     "name": "Electronic Resistor 1206 18000 Ohm",
     "short_code": "r12o183",
+    "short_code_upper": "R12O183",
     "distributors": [
         {
             "name": "LCSC",

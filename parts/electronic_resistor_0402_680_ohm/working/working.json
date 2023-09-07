@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0402_680_ohm",
     "name": "Electronic Resistor 0402 680 Ohm",
     "short_code": "r4o681",
+    "short_code_upper": "R4O681",
     "distributors": [
         {
             "name": "LCSC",

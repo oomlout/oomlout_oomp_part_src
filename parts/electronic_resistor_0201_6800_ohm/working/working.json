@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_6800_ohm",
     "name": "Electronic Resistor 0201 6800 Ohm",
     "short_code": "ro682",
+    "short_code_upper": "RO682",
     "distributors": [],
     "manufacturers": [
         {

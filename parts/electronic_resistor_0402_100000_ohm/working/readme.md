@@ -44,6 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_100000_ohm | 
 | name | Electronic Resistor 0402 100000 Ohm | 
 | short_code | r4o104 | 
+| short_code_upper | R4O104 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | bd55c028a0228f5cc2da2c9bffe6e19e | 

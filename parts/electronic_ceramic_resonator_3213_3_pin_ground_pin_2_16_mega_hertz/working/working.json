@@ -17,6 +17,7 @@
     "directory": "parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz",
     "name": "Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz",
     "short_code": "xcr3213mhz16",
+    "short_code_upper": "XCR3213MHZ16",
     "distributors": [
         {
             "name": "LCSC",

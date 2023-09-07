@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_8_pin | 
 | name | Electronic Header 2D54 Mm 8 Pin | 
 | short_code | hi18p | 
+| short_code_upper | HI18P | 
 | short_name | 0.1" 8 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_24_pin | 
 | name | Electronic Header 2D54 Mm 24 Pin | 
 | short_code | hi124p | 
+| short_code_upper | HI124P | 
 | short_name | 0.1" 24 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

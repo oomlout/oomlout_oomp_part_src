@@ -58,6 +58,7 @@ name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
 oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 part_number: mbr0520
 short_code: dssod123pmb2mbr0520
+short_code_upper: DSSOD123PMB2MBR0520
 size: sod_123
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d_schottky//working/working.kicad_sym

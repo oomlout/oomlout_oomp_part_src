@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_2700_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 2700 Ohm | 
 | short_code | ro272 | 
+| short_code_upper | RO272 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | d13229a9d2d328245514c4f864151623 | 

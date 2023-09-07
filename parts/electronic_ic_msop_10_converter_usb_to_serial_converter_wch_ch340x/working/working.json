@@ -69,6 +69,7 @@
     "directory": "parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x",
     "name": "Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X",
     "short_code": "imsp10ch340x",
+    "short_code_upper": "IMSP10CH340X",
     "distributors": [
         {
             "name": "LCSC",

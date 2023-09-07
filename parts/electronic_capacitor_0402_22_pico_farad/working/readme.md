@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0402_22_pico_farad | 
 | name | Electronic Capacitor 0402 22 Pico Farad | 
 | short_code | c4pf22 | 
+| short_code_upper | C4PF22 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 8008269b2a82f75ac1033a8691959122 | 

@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0603_green | 
 | name | Electronic Led 0603 Green | 
 | short_code | l6g | 
+| short_code_upper | L6G | 
 | short_name | 0603 Green Led | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C965804', 'link': 'https://lcsc.com/product-detail/C965804.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608UGC-04', 'link': '', 'id': 'manufacturer_xinglight'}] | 

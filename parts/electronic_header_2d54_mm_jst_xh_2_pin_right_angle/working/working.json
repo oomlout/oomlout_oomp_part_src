@@ -15,6 +15,7 @@
     "directory": "parts/electronic_header_2d54_mm_jst_xh_2_pin_right_angle",
     "name": "Electronic Header 2D54 Mm Jst Xh 2 Pin Right Angle",
     "short_code": "h2pra",
+    "short_code_upper": "H2PRA",
     "short_name": "Jst Xh 2 Pin Right Angle Header 2.54 Mm Pitch",
     "distributors": [],
     "manufacturers": [],

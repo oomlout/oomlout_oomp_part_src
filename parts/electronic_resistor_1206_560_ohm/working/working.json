@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_560_ohm",
     "name": "Electronic Resistor 1206 560 Ohm",
     "short_code": "r12o561",
+    "short_code_upper": "R12O561",
     "distributors": [
         {
             "name": "LCSC",

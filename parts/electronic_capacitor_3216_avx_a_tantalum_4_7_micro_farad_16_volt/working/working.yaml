@@ -37,6 +37,7 @@ name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
 oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 part_number: ''
 short_code: catuf4d716v
+short_code_upper: CATUF4D716V
 size: 3216_avx_a
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym

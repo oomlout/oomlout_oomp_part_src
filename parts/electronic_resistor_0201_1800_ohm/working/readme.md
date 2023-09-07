@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0201_1800_ohm | 
 | name | Electronic Resistor 0201 1800 Ohm | 
 | short_code | ro182 | 
+| short_code_upper | RO182 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2779726', 'link': 'https://lcsc.com/product-detail/C2779726.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0182TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | b7ea3fe27a4eadddd46c9ef3eb142349 | 

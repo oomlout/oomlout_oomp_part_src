@@ -119,6 +119,7 @@
     "directory": "parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t",
     "name": "Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T",
     "short_code": "ich340t",
+    "short_code_upper": "ICH340T",
     "distributors": [
         {
             "name": "LCSC",

@@ -64,6 +64,7 @@ name: Electronic Resistor 0805 1500 Ohm
 oomp_key: oomp_electronic_resistor_0805_1500_ohm
 part_number: ''
 short_code: r8o152
+short_code_upper: R8O152
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

@@ -57,6 +57,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 | 
 | name | Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520 | 
 | short_code | dssod123pmb2mbr0520 | 
+| short_code_upper | DSSOD123PMB2MBR0520 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C77335', 'link': 'https://lcsc.com/product-detail/C77335.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C475717', 'link': 'https://lcsc.com/product-detail/C475717.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C165467', 'link': 'https://lcsc.com/product-detail/C165467.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Jiangsu Changjing Electronics Technology Co., Ltd.', 'part_number': 'MBR0520', 'link': '', 'id': 'manufacturer_jiangsu_changjing_electronics_technology_co_ltd'}, {'name': 'Shikues', 'part_number': 'MBR0520', 'link': '', 'id': 'manufacturer_shikues'}, {'name': 'onsemi', 'part_number': 'MBR0520LT3G', 'link': '', 'id': 'manufacturer_onsemi'}] | 
 | md5 | fd1bfba95edbbb6f03cb0e465b2a0493 | 

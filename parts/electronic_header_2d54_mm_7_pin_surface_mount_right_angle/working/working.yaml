@@ -27,6 +27,7 @@ name: Electronic Header 2D54 Mm 7 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2d54_mm_7_pin_surface_mount_right_angle
 part_number: ''
 short_code: hi17psmra
+short_code_upper: HI17PSMRA
 short_name: 0.1" 7 Pin Surface Mount Right Angle Header
 size: 2d54_mm
 symbol:

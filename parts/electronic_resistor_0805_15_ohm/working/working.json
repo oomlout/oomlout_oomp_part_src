@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_15_ohm",
     "name": "Electronic Resistor 0805 15 Ohm",
     "short_code": "r8o150",
+    "short_code_upper": "R8O150",
     "distributors": [
         {
             "name": "LCSC",

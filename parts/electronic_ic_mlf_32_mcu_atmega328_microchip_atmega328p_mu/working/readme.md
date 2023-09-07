@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | name | Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu | 
 | short_code | imlf32at328 | 
+| short_code_upper | IMLF32AT328 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | d6a4452edcde90237afb3d93a423b538 | 

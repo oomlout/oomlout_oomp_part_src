@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_led_3_mm_blue 
-* short_code: l3
+* short_code: l3l
 * md5_6: 727504  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working  
 ## naming details
@@ -43,7 +43,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working | 
 | directory | parts/electronic_led_3_mm_blue | 
 | name | Electronic Led 3 Mm Blue | 
-| short_code | l3 | 
+| short_code | l3l | 
+| short_code_upper | L3L | 
 | short_name | 3 Mm Blue Led | 
 | distributors | [] | 
 | manufacturers | [] | 
@@ -51,6 +52,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5 | 72750 | 
 | md5_6 | 727504 | 
 | md5_10 | 727504b3d7 | 
-| markdown_full | [electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br>[l3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br>[Electronic Led 3 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br><br> | 
+| markdown_full | [electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br>[l3l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br>[Electronic Led 3 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br><br> | 
 | markdown_short | [electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

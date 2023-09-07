@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_18000_ohm",
     "name": "Electronic Resistor 0805 18000 Ohm",
     "short_code": "r8o183",
+    "short_code_upper": "R8O183",
     "distributors": [
         {
             "name": "LCSC",

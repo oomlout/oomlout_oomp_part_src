@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_6_pin_right_angle | 
 | name | Electronic Header 2D54 Mm 6 Pin Right Angle | 
 | short_code | hi16pra | 
+| short_code_upper | HI16PRA | 
 | short_name | 0.1" 6 Pin Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

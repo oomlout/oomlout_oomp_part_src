@@ -52,6 +52,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_8_pin_surface_mount_right_angle | 
 | name | Electronic Header 2D54 Mm 8 Pin Surface Mount Right Angle | 
 | short_code | hi18psmra | 
+| short_code_upper | HI18PSMRA | 
 | short_name | 0.1" 8 Pin Surface Mount Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

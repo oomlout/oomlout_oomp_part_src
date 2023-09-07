@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_1000_ohm",
     "name": "Electronic Resistor 1206 1000 Ohm",
     "short_code": "r12o102",
+    "short_code_upper": "R12O102",
     "distributors": [
         {
             "name": "LCSC",

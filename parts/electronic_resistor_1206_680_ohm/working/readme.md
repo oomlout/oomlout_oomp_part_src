@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_680_ohm | 
 | name | Electronic Resistor 1206 680 Ohm | 
 | short_code | r12o681 | 
+| short_code_upper | R12O681 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25392', 'link': 'https://lcsc.com/product-detail/C25392.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137124', 'link': 'https://lcsc.com/product-detail/C137124.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0681T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F6800T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-07680RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07680RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 1aa70e29a9387c41f928465af8b9f87e | 

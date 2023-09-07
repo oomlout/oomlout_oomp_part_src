@@ -64,6 +64,7 @@ pins:
         number: '6'
         type: signal
 short_code: scumnsmo
+short_code_upper: SCUMNSMO
 short_name: ''
 size: usb_mini
 symbol:

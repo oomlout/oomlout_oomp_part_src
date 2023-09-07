@@ -11,7 +11,7 @@ id: electronic_led_3_mm_yellow
 kicad_reference: L
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_led_3_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)<br>[l3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)<br>[Electronic
+markdown_full: '[electronic_led_3_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)<br>[l3y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)<br>[Electronic
     Led 3 Mm Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)<br><br>'
 markdown_short: '[electronic_led_3_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)<br><br>'
 md5: 46a6ba779ea221e73a34edd69dc9e28e
@@ -21,7 +21,8 @@ md5_6: 46a6ba
 name: Electronic Led 3 Mm Yellow
 oomp_key: oomp_electronic_led_3_mm_yellow
 part_number: ''
-short_code: l3
+short_code: l3y
+short_code_upper: L3Y
 short_name: 3 Mm Yellow Led
 size: 3_mm
 symbol:

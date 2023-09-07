@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0402_10_nano_farad | 
 | name | Electronic Capacitor 0402 10 Nano Farad | 
 | short_code | c4nf10 | 
+| short_code_upper | C4NF10 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 6ab82773a09b6f3ae48a4a64e5fcce7c | 

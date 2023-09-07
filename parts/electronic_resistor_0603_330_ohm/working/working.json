@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_330_ohm",
     "name": "Electronic Resistor 0603 330 Ohm",
     "short_code": "r6o331",
+    "short_code_upper": "R6O331",
     "distributors": [
         {
             "name": "LCSC",

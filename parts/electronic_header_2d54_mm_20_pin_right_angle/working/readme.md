@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_20_pin_right_angle | 
 | name | Electronic Header 2D54 Mm 20 Pin Right Angle | 
 | short_code | hi120pra | 
+| short_code_upper | HI120PRA | 
 | short_name | 0.1" 20 Pin Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

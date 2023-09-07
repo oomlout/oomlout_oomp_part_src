@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_68000_ohm",
     "name": "Electronic Resistor 0201 68000 Ohm",
     "short_code": "ro683",
+    "short_code_upper": "RO683",
     "distributors": [],
     "manufacturers": [
         {

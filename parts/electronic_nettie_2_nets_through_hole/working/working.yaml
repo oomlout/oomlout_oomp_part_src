@@ -26,6 +26,7 @@ name: Electronic Nettie 2 Nets Through Hole
 oomp_key: oomp_electronic_nettie_2_nets_through_hole
 part_number: ''
 short_code: nt2th
+short_code_upper: NT2TH
 size: 2_nets
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym

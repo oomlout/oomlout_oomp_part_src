@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0402_390_ohm",
     "name": "Electronic Resistor 0402 390 Ohm",
     "short_code": "r4o391",
+    "short_code_upper": "R4O391",
     "distributors": [
         {
             "name": "LCSC",

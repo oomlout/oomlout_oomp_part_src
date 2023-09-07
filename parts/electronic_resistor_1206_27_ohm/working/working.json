@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_27_ohm",
     "name": "Electronic Resistor 1206 27 Ohm",
     "short_code": "r12o270",
+    "short_code_upper": "R12O270",
     "distributors": [
         {
             "name": "LCSC",

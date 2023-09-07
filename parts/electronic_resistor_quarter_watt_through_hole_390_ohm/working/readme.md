@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_390_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 390 Ohm | 
 | short_code | ro391 | 
+| short_code_upper | RO391 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | e30b56ec694e8b65a60e4046ca856c62 | 

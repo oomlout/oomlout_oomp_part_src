@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_120_ohm",
     "name": "Electronic Resistor 0805 120 Ohm",
     "short_code": "r8o121",
+    "short_code_upper": "R8O121",
     "distributors": [
         {
             "name": "LCSC",

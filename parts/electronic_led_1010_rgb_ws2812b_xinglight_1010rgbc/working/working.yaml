@@ -43,6 +43,7 @@ pins:
         number: '4'
         type: signal
 short_code: l101028121010rgbc
+short_code_upper: L101028121010RGBC
 short_name: 1010 Rgbws2812B Led
 size: '1010'
 symbol:

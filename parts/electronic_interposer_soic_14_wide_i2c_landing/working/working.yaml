@@ -84,6 +84,7 @@ pins:
         number: '9'
         type: signal
 short_code: insoic14wi2cland
+short_code_upper: INSOIC14WI2CLAND
 short_name: ''
 size: soic_14_wide
 type: interposer

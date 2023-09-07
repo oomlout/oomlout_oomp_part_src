@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_82_ohm",
     "name": "Electronic Resistor 0201 82 Ohm",
     "short_code": "ro820",
+    "short_code_upper": "RO820",
     "distributors": [],
     "manufacturers": [
         {

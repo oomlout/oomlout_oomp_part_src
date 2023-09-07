@@ -105,6 +105,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_interposer_soic_14_wide_i2c_landing | 
 | name | Electronic Interposer Soic 14 Wide I2C Landing | 
 | short_code | insoic14wi2cland | 
+| short_code_upper | INSOIC14WI2CLAND | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 3cf65e88ee279c2b72da63b145edb0e3 | 

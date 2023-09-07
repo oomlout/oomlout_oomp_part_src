@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_47_ohm | 
 | name | Electronic Resistor 0805 47 Ohm | 
 | short_code | r8o470 | 
+| short_code_upper | R8O470 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25315', 'link': 'https://lcsc.com/product-detail/C25315.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C114743', 'link': 'https://lcsc.com/product-detail/C114743.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0470T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F047-1T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-0747RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 92b1552cd0ac15f6b87328b902d8696b | 

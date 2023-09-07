@@ -17,6 +17,7 @@
     "directory": "parts/electronic_capacitor_0603_100_nano_farad",
     "name": "Electronic Capacitor 0603 100 Nano Farad",
     "short_code": "c6nf100",
+    "short_code_upper": "C6NF100",
     "distributors": [
         {
             "name": "LCSC",

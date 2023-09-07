@@ -24,6 +24,7 @@ name: Electronic Header 1D27 Mm 13 Pin
 oomp_key: oomp_electronic_header_1d27_mm_13_pin
 part_number: ''
 short_code: h1d2713p
+short_code_upper: H1D2713P
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x13_pin//working/working.kicad_sym

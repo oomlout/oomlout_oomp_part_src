@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_82_ohm",
     "name": "Electronic Resistor 0603 82 Ohm",
     "short_code": "r6o820",
+    "short_code_upper": "R6O820",
     "distributors": [
         {
             "name": "LCSC",

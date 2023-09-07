@@ -26,6 +26,7 @@ name: Electronic Led 1206 Green
 oomp_key: oomp_electronic_led_1206_green
 part_number: ''
 short_code: l12g
+short_code_upper: L12G
 short_name: 1206 Green Led
 size: '1206'
 symbol:

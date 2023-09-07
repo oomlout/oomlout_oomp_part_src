@@ -72,6 +72,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | name | Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc | 
 | short_code | l101028121010rgbc | 
+| short_code_upper | L101028121010RGBC | 
 | short_name | 1010 Rgbws2812B Led | 
 | distributors | [] | 
 | manufacturers | [] | 

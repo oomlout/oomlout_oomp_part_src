@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_39000_ohm",
     "name": "Electronic Resistor 1206 39000 Ohm",
     "short_code": "r12o393",
+    "short_code_upper": "R12O393",
     "distributors": [
         {
             "name": "LCSC",

@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_27_pin | 
 | name | Electronic Header 2D54 Mm 27 Pin | 
 | short_code | hi127p | 
+| short_code_upper | HI127P | 
 | short_name | 0.1" 27 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

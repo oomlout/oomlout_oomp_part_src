@@ -24,6 +24,7 @@ oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt
 package_style: smd_tape
 part_number: ''
 short_code: pms22311173d3v
+short_code_upper: PMS22311173D3V
 short_name: ''
 size: sot_223
 smd_tape_depth: 2_mm

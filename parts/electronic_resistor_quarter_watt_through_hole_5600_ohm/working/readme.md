@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_5600_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 5600 Ohm | 
 | short_code | ro562 | 
+| short_code_upper | RO562 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 1e6a71ac6c141fd7e8a8ff72a8db6aee | 

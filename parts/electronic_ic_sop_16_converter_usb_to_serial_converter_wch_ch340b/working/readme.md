@@ -114,6 +114,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b | 
 | name | Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340B | 
 | short_code | isp16ch340b | 
+| short_code_upper | ISP16CH340B | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C81010', 'link': 'https://lcsc.com/product-detail/C81010.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | ea28b63f284b0c72f54f9c49ad14c793 | 

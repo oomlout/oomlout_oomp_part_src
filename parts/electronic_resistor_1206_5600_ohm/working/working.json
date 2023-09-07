@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_5600_ohm",
     "name": "Electronic Resistor 1206 5600 Ohm",
     "short_code": "r12o562",
+    "short_code_upper": "R12O562",
     "distributors": [
         {
             "name": "LCSC",

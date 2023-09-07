@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_1200_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 1200 Ohm | 
 | short_code | ro122 | 
+| short_code_upper | RO122 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | c86d3b56cb5f4ad5f489e57640cab2c6 | 

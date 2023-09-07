@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0603_10_nano_farad | 
 | name | Electronic Capacitor 0603 10 Nano Farad | 
 | short_code | c6nf10 | 
+| short_code_upper | C6NF10 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C100042', 'link': 'https://lcsc.com/product-detail/C100042.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Yageo', 'part_number': 'CC0603KRX7R9BB103', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 

@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0402_green | 
 | name | Electronic Led 0402 Green | 
 | short_code | l4g | 
+| short_code_upper | L4G | 
 | short_name | 0402 Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

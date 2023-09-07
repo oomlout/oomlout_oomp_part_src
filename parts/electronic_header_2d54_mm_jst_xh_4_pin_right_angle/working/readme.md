@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_2d54_mm_jst_xh_4_pin_right_angle | 
 | name | Electronic Header 2D54 Mm Jst Xh 4 Pin Right Angle | 
 | short_code | h4pra | 
+| short_code_upper | H4PRA | 
 | short_name | Jst Xh 4 Pin Right Angle Header 2.54 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [] | 

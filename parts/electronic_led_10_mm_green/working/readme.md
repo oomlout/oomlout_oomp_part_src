@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_10_mm_green | 
 | name | Electronic Led 10 Mm Green | 
 | short_code | l10g | 
+| short_code_upper | L10G | 
 | short_name | 10 Mm Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

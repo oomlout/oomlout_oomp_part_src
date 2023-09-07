@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_1206 | 
 | name | Electronic Led 1206 | 
 | short_code | l12 | 
+| short_code_upper | L12 | 
 | short_name | 1206 Led | 
 | distributors | [] | 
 | manufacturers | [] | 

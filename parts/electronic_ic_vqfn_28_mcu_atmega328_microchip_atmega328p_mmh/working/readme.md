@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh | 
 | name | Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh | 
 | short_code | ivq28at328 | 
+| short_code_upper | IVQ28AT328 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 5c1e39c0204a190c5ee2c8d7d640acf5 | 

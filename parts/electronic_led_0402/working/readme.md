@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0402 | 
 | name | Electronic Led 0402 | 
 | short_code | l4 | 
+| short_code_upper | L4 | 
 | short_name | 0402 Led | 
 | distributors | [] | 
 | manufacturers | [] | 

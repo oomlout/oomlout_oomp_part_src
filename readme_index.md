@@ -365,9 +365,11 @@
 #### green   
 [l3g - oomp_electronic_led_3_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)   
 #### blue   
-[l3 - oomp_electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)   
+[l3l - oomp_electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)   
 #### yellow   
-[l3 - oomp_electronic_led_3_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)   
+[l3y - oomp_electronic_led_3_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow/working)   
+#### white   
+[l3w - oomp_electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)   
 ### 5_mm   
 ####    
 [l5 - oomp_electronic_led_5_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working)   
@@ -376,9 +378,11 @@
 #### green   
 [l5g - oomp_electronic_led_5_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_green/working)   
 #### blue   
-[l5 - oomp_electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)   
+[l5l - oomp_electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)   
 #### yellow   
-[l5 - oomp_electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)   
+[l5y - oomp_electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)   
+#### white   
+[l5w - oomp_electronic_led_5_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white/working)   
 ### 10_mm   
 ####    
 [l10 - oomp_electronic_led_10_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)   
@@ -387,9 +391,11 @@
 #### green   
 [l10g - oomp_electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)   
 #### blue   
-[l10 - oomp_electronic_led_10_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working)   
+[l10l - oomp_electronic_led_10_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working)   
 #### yellow   
-[l10 - oomp_electronic_led_10_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)   
+[l10y - oomp_electronic_led_10_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)   
+#### white   
+[l10w - oomp_electronic_led_10_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_white/working)   
 ### 0201   
 ####    
 [l - oomp_electronic_led_0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)   
@@ -398,9 +404,11 @@
 #### green   
 [lg - oomp_electronic_led_0201_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_green/working)   
 #### blue   
-[l - oomp_electronic_led_0201_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue/working)   
+[ll - oomp_electronic_led_0201_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue/working)   
 #### yellow   
-[l - oomp_electronic_led_0201_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_yellow/working)   
+[ly - oomp_electronic_led_0201_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_yellow/working)   
+#### white   
+[lw - oomp_electronic_led_0201_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_white/working)   
 ### 0402   
 ####    
 [l4 - oomp_electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)   
@@ -409,9 +417,11 @@
 #### green   
 [l4g - oomp_electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)   
 #### blue   
-[l4 - oomp_electronic_led_0402_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_blue/working)   
+[l4l - oomp_electronic_led_0402_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_blue/working)   
 #### yellow   
-[l4 - oomp_electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)   
+[l4y - oomp_electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)   
+#### white   
+[l4w - oomp_electronic_led_0402_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_white/working)   
 ### 0603   
 ####    
 [l6 - oomp_electronic_led_0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)   
@@ -420,9 +430,11 @@
 #### green   
 [l6g - oomp_electronic_led_0603_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)   
 #### blue   
-[l6 - oomp_electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)   
+[l6l - oomp_electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)   
 #### yellow   
-[l6 - oomp_electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)   
+[l6y - oomp_electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)   
+#### white   
+[l6w - oomp_electronic_led_0603_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white/working)   
 ### 0805   
 ####    
 [l8 - oomp_electronic_led_0805](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805/working)   
@@ -431,9 +443,11 @@
 #### green   
 [l8g - oomp_electronic_led_0805_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)   
 #### blue   
-[l8 - oomp_electronic_led_0805_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_blue/working)   
+[l8l - oomp_electronic_led_0805_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_blue/working)   
 #### yellow   
-[l8 - oomp_electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)   
+[l8y - oomp_electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)   
+#### white   
+[l8w - oomp_electronic_led_0805_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_white/working)   
 ### 1206   
 ####    
 [l12 - oomp_electronic_led_1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)   
@@ -442,9 +456,11 @@
 #### green   
 [l12g - oomp_electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)   
 #### blue   
-[l12 - oomp_electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)   
+[l12l - oomp_electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)   
 #### yellow   
-[l12 - oomp_electronic_led_1206_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)   
+[l12y - oomp_electronic_led_1206_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)   
+#### white   
+[l12w - oomp_electronic_led_1206_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white/working)   
 ### 1010   
 #### rgb   
 [l101028121010rgbc - oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)   

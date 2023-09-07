@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_6800_ohm | 
 | name | Electronic Resistor 0402 6800 Ohm | 
 | short_code | r4o682 | 
+| short_code_upper | R4O682 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25944', 'link': 'https://lcsc.com/product-detail/C25944.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137847', 'link': 'https://lcsc.com/product-detail/C137847.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0682TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF6801TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-076K8L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-076K8L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | bc6d5096a4148bc54279ced68bb55ff7 | 

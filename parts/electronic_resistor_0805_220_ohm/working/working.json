@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_220_ohm",
     "name": "Electronic Resistor 0805 220 Ohm",
     "short_code": "r8o221",
+    "short_code_upper": "R8O221",
     "distributors": [
         {
             "name": "LCSC",

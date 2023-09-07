@@ -32,6 +32,7 @@ name: Electronic Resistor 0201 2700 Ohm
 oomp_key: oomp_electronic_resistor_0201_2700_ohm
 part_number: ''
 short_code: ro272
+short_code_upper: RO272
 size: '0201'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

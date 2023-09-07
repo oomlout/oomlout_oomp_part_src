@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_5600_ohm",
     "name": "Electronic Resistor 0805 5600 Ohm",
     "short_code": "r8o562",
+    "short_code_upper": "R8O562",
     "distributors": [
         {
             "name": "LCSC",

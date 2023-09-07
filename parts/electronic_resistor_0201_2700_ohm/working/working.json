@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_2700_ohm",
     "name": "Electronic Resistor 0201 2700 Ohm",
     "short_code": "ro272",
+    "short_code_upper": "RO272",
     "distributors": [],
     "manufacturers": [
         {

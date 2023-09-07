@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_330_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 330 Ohm | 
 | short_code | ro331 | 
+| short_code_upper | RO331 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 3c119be7a2243936733916e16cf6f41f | 

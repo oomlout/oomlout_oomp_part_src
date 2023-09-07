@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_560_ohm",
     "name": "Electronic Resistor 0805 560 Ohm",
     "short_code": "r8o561",
+    "short_code_upper": "R8O561",
     "distributors": [
         {
             "name": "LCSC",

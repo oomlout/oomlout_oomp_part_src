@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_150_ohm | 
 | name | Electronic Resistor 0402 150 Ohm | 
 | short_code | r4o151 | 
+| short_code_upper | R4O151 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25143', 'link': 'https://lcsc.com/product-detail/C25143.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137918', 'link': 'https://lcsc.com/product-detail/C137918.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0151TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF1500TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-07150RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07150RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | ae6b63be42faf45d4b8646e326bebaa2 | 

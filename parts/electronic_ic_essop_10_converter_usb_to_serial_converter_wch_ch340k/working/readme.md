@@ -85,6 +85,7 @@ List of Pins:
 | directory | parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k | 
 | name | Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K | 
 | short_code | i | 
+| short_code_upper | I | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C968586', 'link': 'https://lcsc.com/product-detail/C968586.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | c2a455d7f4d3be956b8a5b8101644d3d | 

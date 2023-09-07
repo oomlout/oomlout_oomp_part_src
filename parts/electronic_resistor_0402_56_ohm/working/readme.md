@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_56_ohm | 
 | name | Electronic Resistor 0402 56 Ohm | 
 | short_code | r4o560 | 
+| short_code_upper | R4O560 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25173', 'link': 'https://lcsc.com/product-detail/C25173.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137857', 'link': 'https://lcsc.com/product-detail/C137857.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0560TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF056-1TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0756RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0756RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | dae10787b183629e9ce36a37dec958ea | 

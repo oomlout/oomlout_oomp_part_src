@@ -17,6 +17,7 @@
     "directory": "parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
     "name": "Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520",
     "short_code": "dssod123pmb2mbr0520",
+    "short_code_upper": "DSSOD123PMB2MBR0520",
     "distributors": [
         {
             "name": "LCSC",

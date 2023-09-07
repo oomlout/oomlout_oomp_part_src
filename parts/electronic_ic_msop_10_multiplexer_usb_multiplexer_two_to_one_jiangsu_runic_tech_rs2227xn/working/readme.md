@@ -90,6 +90,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn | 
 | name | Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn | 
 | short_code | imsp10mpump21rs2227 | 
+| short_code_upper | IMSP10MPUMP21RS2227 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C255478', 'link': 'https://lcsc.com/product-detail/C255478.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 3a10020ea9997e59872f6e32c7913236 | 

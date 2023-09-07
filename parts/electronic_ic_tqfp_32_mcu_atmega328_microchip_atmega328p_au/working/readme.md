@@ -54,6 +54,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au | 
 | name | Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au | 
 | short_code | itq32at328 | 
+| short_code_upper | ITQ32AT328 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C14877', 'link': 'https://lcsc.com/product-detail/C14877.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C618816', 'link': 'https://lcsc.com/product-detail/C618816.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Microchip', 'part_number': 'ATMEGA328P-AU', 'link': 'https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU', 'id': 'manufacturer_microchip'}, {'name': 'Microchip', 'part_number': 'ATMEGA328P-AUR', 'link': 'https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR', 'id': 'manufacturer_microchip'}] | 
 | package_style | tray | 

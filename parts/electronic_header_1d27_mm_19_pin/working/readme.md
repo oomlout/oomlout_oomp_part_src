@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_19_pin | 
 | name | Electronic Header 1D27 Mm 19 Pin | 
 | short_code | h1d2719p | 
+| short_code_upper | H1D2719P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | c3d8769320e5fa6e08d6190eccad50b5 | 

@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu | 
 | name | Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu | 
 | short_code | id28at328 | 
+| short_code_upper | ID28AT328 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 5b2b5de6dc21043bec6c02133654d333 | 

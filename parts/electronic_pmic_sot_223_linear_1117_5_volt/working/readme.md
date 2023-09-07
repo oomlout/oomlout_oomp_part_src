@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_pmic_sot_223_linear_1117_5_volt | 
 | name | Electronic Pmic Sot 223 Linear 1117 5 Volt | 
 | short_code | pms22311175v | 
+| short_code_upper | PMS22311175V | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C347223', 'link': 'https://lcsc.com/product-detail/C347223.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C6187', 'link': 'https://lcsc.com/product-detail/C6187.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'UMW(Youtai Semiconductor Co., Ltd.)', 'part_number': 'AMS1117-5.0', 'link': '', 'id': 'manufacturer_umw_youtai_semiconductor_co_ltd'}] | 
 | package_style | smd_tape | 

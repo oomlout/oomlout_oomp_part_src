@@ -24,6 +24,7 @@ name: Electronic Header 2D54 Mm 39 Pin
 oomp_key: oomp_electronic_header_2d54_mm_39_pin
 part_number: ''
 short_code: hi139p
+short_code_upper: HI139P
 short_name: 0.1" 39 Pin Header
 size: 2d54_mm
 symbol:

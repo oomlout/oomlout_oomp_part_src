@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_1500_ohm",
     "name": "Electronic Resistor 1206 1500 Ohm",
     "short_code": "r12o152",
+    "short_code_upper": "R12O152",
     "distributors": [
         {
             "name": "LCSC",

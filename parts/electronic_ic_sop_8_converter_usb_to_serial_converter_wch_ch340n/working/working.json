@@ -59,6 +59,7 @@
     "directory": "parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n",
     "name": "Electronic Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N",
     "short_code": "isp8",
+    "short_code_upper": "ISP8",
     "distributors": [
         {
             "name": "LCSC",

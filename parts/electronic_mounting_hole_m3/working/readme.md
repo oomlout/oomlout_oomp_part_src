@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_mounting_hole_m3 | 
 | name | Electronic Mounting Hole M3 | 
 | short_code | mhm3 | 
+| short_code_upper | MHM3 | 
 | short_name | M3 Mounting Hole | 
 | distributors | [] | 
 | manufacturers | [] | 

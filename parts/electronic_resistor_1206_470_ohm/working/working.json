@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_470_ohm",
     "name": "Electronic Resistor 1206 470 Ohm",
     "short_code": "r12o471",
+    "short_code_upper": "R12O471",
     "distributors": [
         {
             "name": "LCSC",

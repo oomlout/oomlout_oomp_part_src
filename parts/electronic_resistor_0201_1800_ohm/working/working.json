@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_1800_ohm",
     "name": "Electronic Resistor 0201 1800 Ohm",
     "short_code": "ro182",
+    "short_code_upper": "RO182",
     "distributors": [
         {
             "name": "LCSC",

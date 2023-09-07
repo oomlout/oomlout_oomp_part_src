@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_39000_ohm",
     "name": "Electronic Resistor 0805 39000 Ohm",
     "short_code": "r8o393",
+    "short_code_upper": "R8O393",
     "distributors": [
         {
             "name": "LCSC",

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_5600_ohm",
     "name": "Electronic Resistor 0603 5600 Ohm",
     "short_code": "r6o562",
+    "short_code_upper": "R6O562",
     "distributors": [
         {
             "name": "LCSC",

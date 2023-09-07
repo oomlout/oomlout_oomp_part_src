@@ -45,6 +45,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount | 
 | name | Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount | 
 | short_code | h3psm | 
+| short_code_upper | H3PSM | 
 | short_name | Jst Sh 3 Pin Surface Mount Header 1 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [{'name': 'JST', 'part_number': 'BM03B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 

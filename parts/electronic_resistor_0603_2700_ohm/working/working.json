@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_2700_ohm",
     "name": "Electronic Resistor 0603 2700 Ohm",
     "short_code": "r6o272",
+    "short_code_upper": "R6O272",
     "distributors": [
         {
             "name": "LCSC",

@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0603_red | 
 | name | Electronic Led 0603 Red | 
 | short_code | l6r | 
+| short_code_upper | L6R | 
 | short_name | 0603 Red Led | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C965799', 'link': 'https://lcsc.com/product-detail/C965799.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'XINGLIGHT', 'part_number': 'XL-1608SURC-06', 'link': '', 'id': 'manufacturer_xinglight'}] | 

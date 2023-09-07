@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_36_pin_surface_mount_right_angle | 
 | name | Electronic Header 2D54 Mm 36 Pin Surface Mount Right Angle | 
 | short_code | hi136psmra | 
+| short_code_upper | HI136PSMRA | 
 | short_name | 0.1" 36 Pin Surface Mount Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

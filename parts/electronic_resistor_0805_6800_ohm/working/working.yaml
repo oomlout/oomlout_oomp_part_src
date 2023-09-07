@@ -64,6 +64,7 @@ name: Electronic Resistor 0805 6800 Ohm
 oomp_key: oomp_electronic_resistor_0805_6800_ohm
 part_number: ''
 short_code: r8o682
+short_code_upper: R8O682
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

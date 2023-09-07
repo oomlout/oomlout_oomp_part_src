@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_34_pin | 
 | name | Electronic Header 2D54 Mm 34 Pin | 
 | short_code | hi134p | 
+| short_code_upper | HI134P | 
 | short_name | 0.1" 34 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

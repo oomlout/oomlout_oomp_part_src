@@ -27,6 +27,7 @@ name: Electronic Header 2D54 Mm 8 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_8_pin_surface_mount
 part_number: ''
 short_code: hi18psm
+short_code_upper: HI18PSM
 short_name: 0.1" 8 Pin Surface Mount Header
 size: 2d54_mm
 symbol:

@@ -72,6 +72,7 @@ pins:
         number: '9'
         type: signal
 short_code: imsp10ch340x
+short_code_upper: IMSP10CH340X
 short_name: usb to serial converter (ch340x)
 size: msop_10
 symbol:

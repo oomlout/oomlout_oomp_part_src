@@ -27,6 +27,7 @@
     "directory": "parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19",
     "name": "Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19",
     "short_code": "i6snl",
+    "short_code_upper": "I6SNL",
     "distributors": [
         {
             "name": "LCSC",

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_100_ohm",
     "name": "Electronic Resistor 0201 100 Ohm",
     "short_code": "ro101",
+    "short_code_upper": "RO101",
     "distributors": [
         {
             "name": "LCSC",

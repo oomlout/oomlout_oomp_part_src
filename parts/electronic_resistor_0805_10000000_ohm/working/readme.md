@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_10000000_ohm | 
 | name | Electronic Resistor 0805 10000000 Ohm | 
 | short_code | r8o106 | 
+| short_code_upper | R8O106 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 07c0ee9099ded4edc752d2ece54f33bc | 

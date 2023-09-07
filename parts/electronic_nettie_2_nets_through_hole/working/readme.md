@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_nettie_2_nets_through_hole | 
 | name | Electronic Nettie 2 Nets Through Hole | 
 | short_code | nt2th | 
+| short_code_upper | NT2TH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | c86bdf842046e81ba413e322d79ac3dc | 

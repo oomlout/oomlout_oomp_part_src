@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_led_0402_yellow 
-* short_code: l4
+* short_code: l4y
 * md5_6: 115c9c  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working  
 ## naming details
@@ -48,7 +48,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working | 
 | directory | parts/electronic_led_0402_yellow | 
 | name | Electronic Led 0402 Yellow | 
-| short_code | l4 | 
+| short_code | l4y | 
+| short_code_upper | L4Y | 
 | short_name | 0402 Yellow Led | 
 | distributors | [] | 
 | manufacturers | [] | 
@@ -56,7 +57,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | 115c9 | 
 | md5_6 | 115c9c | 
 | md5_10 | 115c9ceb12 | 
-| markdown_full | [electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[Electronic Led 0402 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br> | 
+| markdown_full | [electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[Electronic Led 0402 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br> | 
 | markdown_short | [electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric', 'oomp_key': 'oomp_kicad_led_smd_led_0402_1005metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

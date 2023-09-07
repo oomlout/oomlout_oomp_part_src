@@ -24,6 +24,7 @@ name: Electronic Header 2D54 Mm 17 Pin
 oomp_key: oomp_electronic_header_2d54_mm_17_pin
 part_number: ''
 short_code: hi117p
+short_code_upper: HI117P
 short_name: 0.1" 17 Pin Header
 size: 2d54_mm
 symbol:

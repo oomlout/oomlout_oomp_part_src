@@ -22,6 +22,7 @@ name: Electronic Led 3 Mm Red
 oomp_key: oomp_electronic_led_3_mm_red
 part_number: ''
 short_code: l3r
+short_code_upper: L3R
 short_name: 3 Mm Red Led
 size: 3_mm
 symbol:

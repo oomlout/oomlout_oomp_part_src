@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_nettie_3_nets_through_hole | 
 | name | Electronic Nettie 3 Nets Through Hole | 
 | short_code | nt3th | 
+| short_code_upper | NT3TH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | bfa6ff6edd982b6107b4a71433ca5d67 | 

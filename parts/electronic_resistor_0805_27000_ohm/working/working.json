@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_27000_ohm",
     "name": "Electronic Resistor 0805 27000 Ohm",
     "short_code": "r8o273",
+    "short_code_upper": "R8O273",
     "distributors": [
         {
             "name": "LCSC",

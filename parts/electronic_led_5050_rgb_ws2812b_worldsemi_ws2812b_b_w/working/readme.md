@@ -76,6 +76,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | name | Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W | 
 | short_code | l50502812ws2812bbw | 
+| short_code_upper | L50502812WS2812BBW | 
 | short_name | 5050 Rgbws2812B Led | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C114586', 'link': 'https://lcsc.com/product-detail/C114586.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Worldsmi', 'part_number': 'WS2812B-B/W', 'link': 'http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en', 'id': 'manufacturer_worldsemi'}] | 

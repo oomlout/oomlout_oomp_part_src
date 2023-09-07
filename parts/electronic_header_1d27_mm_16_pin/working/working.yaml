@@ -24,6 +24,7 @@ name: Electronic Header 1D27 Mm 16 Pin
 oomp_key: oomp_electronic_header_1d27_mm_16_pin
 part_number: ''
 short_code: h1d2716p
+short_code_upper: H1D2716P
 size: 1d27_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x16_pin//working/working.kicad_sym

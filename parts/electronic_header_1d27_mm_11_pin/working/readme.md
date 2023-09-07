@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_11_pin | 
 | name | Electronic Header 1D27 Mm 11 Pin | 
 | short_code | h1d2711p | 
+| short_code_upper | H1D2711P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 4535520c7f1e277905b36a71aa7d7a1e | 

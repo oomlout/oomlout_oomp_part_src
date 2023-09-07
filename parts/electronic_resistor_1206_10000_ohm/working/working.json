@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_10000_ohm",
     "name": "Electronic Resistor 1206 10000 Ohm",
     "short_code": "r12o103",
+    "short_code_upper": "R12O103",
     "distributors": [
         {
             "name": "LCSC",

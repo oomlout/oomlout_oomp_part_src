@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_120_ohm",
     "name": "Electronic Resistor 0201 120 Ohm",
     "short_code": "ro121",
+    "short_code_upper": "RO121",
     "distributors": [],
     "manufacturers": [
         {

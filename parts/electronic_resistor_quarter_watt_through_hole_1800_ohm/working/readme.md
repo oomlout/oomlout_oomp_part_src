@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_1800_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 1800 Ohm | 
 | short_code | ro182 | 
+| short_code_upper | RO182 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 6cf52305c9d7b45ab6e296ac6a4d999c | 

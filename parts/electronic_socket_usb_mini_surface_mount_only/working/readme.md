@@ -80,6 +80,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_socket_usb_mini_surface_mount_only | 
 | name | Electronic Socket Usb Mini Surface Mount Only | 
 | short_code | scumnsmo | 
+| short_code_upper | SCUMNSMO | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2345', 'link': 'https://lcsc.com/product-detail/C2345.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C91144', 'link': 'https://lcsc.com/product-detail/C91144.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Korean Hroparts Elec', 'part_number': 'U-M-M5SS-W-2', 'link': '', 'id': 'manufacturer_korean_hroparts_elec'}] | 
 | md5 | 34c5c0be3324508572b94f980c1c9606 | 

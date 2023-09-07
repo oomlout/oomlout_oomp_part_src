@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_3_pin | 
 | name | Electronic Header 1D27 Mm 3 Pin | 
 | short_code | h1d273p | 
+| short_code_upper | H1D273P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 173b65fe15927ed18b1237a238ba99f4 | 

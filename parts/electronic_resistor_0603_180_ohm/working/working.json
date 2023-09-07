@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_180_ohm",
     "name": "Electronic Resistor 0603 180 Ohm",
     "short_code": "r6o181",
+    "short_code_upper": "R6O181",
     "distributors": [
         {
             "name": "LCSC",

@@ -32,6 +32,7 @@ name: Electronic Resistor 0201 39 Ohm
 oomp_key: oomp_electronic_resistor_0201_39_ohm
 part_number: ''
 short_code: ro390
+short_code_upper: RO390
 size: '0201'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

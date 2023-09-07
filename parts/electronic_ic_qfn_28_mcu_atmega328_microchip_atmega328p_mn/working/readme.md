@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn | 
 | name | Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn | 
 | short_code | iq28at328 | 
+| short_code_upper | IQ28AT328 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 4e3cebccf7cb76a5984fa97b7a893de9 | 

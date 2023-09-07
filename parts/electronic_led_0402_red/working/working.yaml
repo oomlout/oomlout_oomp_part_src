@@ -26,6 +26,7 @@ name: Electronic Led 0402 Red
 oomp_key: oomp_electronic_led_0402_red
 part_number: ''
 short_code: l4r
+short_code_upper: L4R
 short_name: 0402 Red Led
 size: '0402'
 symbol:

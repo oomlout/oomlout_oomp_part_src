@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_100000_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 100000 Ohm | 
 | short_code | ro104 | 
+| short_code_upper | RO104 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | a0145e1779153c6df3729398189ffed2 | 

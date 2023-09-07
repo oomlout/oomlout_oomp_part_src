@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0603_100_nano_farad | 
 | name | Electronic Capacitor 0603 100 Nano Farad | 
 | short_code | c6nf100 | 
+| short_code_upper | C6NF100 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C14663', 'link': 'https://lcsc.com/product-detail/C14663.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C30926', 'link': 'https://lcsc.com/product-detail/C30926.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C1591', 'link': 'https://lcsc.com/product-detail/C1591.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Samsung', 'part_number': 'CL10B104KB8NNNC', 'link': 'https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do', 'id': 'manufacturer_samsung'}, {'name': 'Yageo', 'part_number': 'CC0603KRX7R9BB104', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 

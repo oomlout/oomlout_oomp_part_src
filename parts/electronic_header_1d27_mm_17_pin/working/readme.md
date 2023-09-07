@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_17_pin | 
 | name | Electronic Header 1D27 Mm 17 Pin | 
 | short_code | h1d2717p | 
+| short_code_upper | H1D2717P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 6d955dc2f98e54e621345b3dd55052a1 | 

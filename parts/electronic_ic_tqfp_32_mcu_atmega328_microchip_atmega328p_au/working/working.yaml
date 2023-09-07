@@ -46,6 +46,7 @@ oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 package_style: tray
 part_number: atmega328p_au
 short_code: itq32at328
+short_code_upper: ITQ32AT328
 short_name: atmega328 32 pin tqfp
 size: tqfp_32
 symbol:

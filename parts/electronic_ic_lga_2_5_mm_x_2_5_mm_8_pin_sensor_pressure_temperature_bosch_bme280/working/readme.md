@@ -87,6 +87,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280 | 
 | name | Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280 | 
 | short_code | ilg8pbsnpt280 | 
+| short_code_upper | ILG8PBSNPT280 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C92489', 'link': 'https://lcsc.com/product-detail/C92489.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Bosch', 'part_number': 'BME280', 'link': 'https://www.sensortek.com.tw/index.php/en/products/mems-sensor/', 'id': 'manufacturer_bosch'}] | 
 | md5 | a3697f01237d79885aae438ef33a55dd | 

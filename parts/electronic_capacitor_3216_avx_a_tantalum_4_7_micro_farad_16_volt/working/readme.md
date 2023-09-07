@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | name | Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt | 
 | short_code | catuf4d716v | 
+| short_code_upper | CATUF4D716V | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C7187', 'link': 'https://lcsc.com/product-detail/C7187.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Kyocera', 'part_number': 'TAJA475K016RNJ', 'link': 'https://search.kyocera-avx.com/search/TAJA475K016RNJ', 'id': 'manufacturer_kyocera'}] | 
 | md5 | 951eebab538d3a391eb9ef33560a6b6b | 

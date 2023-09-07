@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_36_pin | 
 | name | Electronic Header 2D54 Mm 36 Pin | 
 | short_code | hi136p | 
+| short_code_upper | HI136P | 
 | short_name | 0.1" 36 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

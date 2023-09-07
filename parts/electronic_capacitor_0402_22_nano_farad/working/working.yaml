@@ -26,6 +26,7 @@ name: Electronic Capacitor 0402 22 Nano Farad
 oomp_key: oomp_electronic_capacitor_0402_22_nano_farad
 part_number: ''
 short_code: c4nf22
+short_code_upper: C4NF22
 size: '0402'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym

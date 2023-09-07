@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin | 
 | name | Electronic Header 2D54 Mm Dual Row 2X17 Dual Row 34 Pin | 
 | short_code | hi12x17p | 
+| short_code_upper | HI12X17P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | cede0b523656d2345fc43b6493ba5a4f | 

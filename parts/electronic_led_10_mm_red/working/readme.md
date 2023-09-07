@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_10_mm_red | 
 | name | Electronic Led 10 Mm Red | 
 | short_code | l10r | 
+| short_code_upper | L10R | 
 | short_name | 10 Mm Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

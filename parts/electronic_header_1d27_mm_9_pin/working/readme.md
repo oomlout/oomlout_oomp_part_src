@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_9_pin | 
 | name | Electronic Header 1D27 Mm 9 Pin | 
 | short_code | h1d279p | 
+| short_code_upper | H1D279P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 432ed78946579b66054f491593e3efb4 | 

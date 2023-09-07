@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_22000_ohm | 
 | name | Electronic Resistor 0402 22000 Ohm | 
 | short_code | r4o223 | 
+| short_code_upper | R4O223 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25547', 'link': 'https://lcsc.com/product-detail/C25547.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137898', 'link': 'https://lcsc.com/product-detail/C137898.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0223TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF2202TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0722KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 74ff819e3dbb5c9d5b36eac9b1607055 | 

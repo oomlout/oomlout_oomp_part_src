@@ -52,6 +52,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 
 | name | Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount | 
 | short_code | b3560s | 
+| short_code_upper | B3560S | 
 | manufacturers | [] | 
 | md5 | daac5353b33e60c79876e2262b80147e | 
 | md5_5 | daac5 | 

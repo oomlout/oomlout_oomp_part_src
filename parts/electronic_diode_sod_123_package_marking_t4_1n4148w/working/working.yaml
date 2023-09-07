@@ -36,6 +36,7 @@ name: Electronic Diode Sod 123 Package Marking T4 1N4148W
 oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
 part_number: 1n4148w
 short_code: dsod123pmt44148
+short_code_upper: DSOD123PMT44148
 size: sod_123
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d//working/working.kicad_sym

@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin | 
 | name | Electronic Header 2D54 Mm Dual Row 2X19 Dual Row 38 Pin | 
 | short_code | hi12x19p | 
+| short_code_upper | HI12X19P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | f5f0a88651c883c402509b1b0224d1c6 | 

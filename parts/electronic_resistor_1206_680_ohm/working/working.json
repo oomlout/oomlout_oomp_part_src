@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_680_ohm",
     "name": "Electronic Resistor 1206 680 Ohm",
     "short_code": "r12o681",
+    "short_code_upper": "R12O681",
     "distributors": [
         {
             "name": "LCSC",

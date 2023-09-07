@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_38_pin | 
 | name | Electronic Header 2D54 Mm 38 Pin | 
 | short_code | hi138p | 
+| short_code_upper | HI138P | 
 | short_name | 0.1" 38 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz | 
 | name | Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz | 
 | short_code | xcr3213mhz16 | 
+| short_code_upper | XCR3213MHZ16 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C882605', 'link': 'https://lcsc.com/product-detail/C882605.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Murata', 'part_number': 'CSTNE16M0VH3C000R0', 'link': 'https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0', 'id': 'manufacturer_murata'}] | 
 | md5 | ebaebba3b264fd4a342d970d6a4f461e | 

@@ -53,6 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle | 
 | name | Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle | 
 | short_code | h4psmra | 
+| short_code_upper | H4PSMRA | 
 | short_name | Jst Sh 4 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C145956', 'link': 'https://lcsc.com/product-detail/C145956.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C2906270', 'link': 'https://lcsc.com/product-detail/C2906270.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'JST', 'part_number': 'SM04B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 

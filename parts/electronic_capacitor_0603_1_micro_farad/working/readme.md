@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0603_1_micro_farad | 
 | name | Electronic Capacitor 0603 1 Micro Farad | 
 | short_code | c6uf1 | 
+| short_code_upper | C6UF1 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 

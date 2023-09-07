@@ -15,7 +15,7 @@ id: electronic_led_10_mm_yellow
 kicad_reference: L
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_led_10_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)<br>[l10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)<br>[Electronic
+markdown_full: '[electronic_led_10_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)<br>[l10y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)<br>[Electronic
     Led 10 Mm Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)<br><br>'
 markdown_short: '[electronic_led_10_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working)<br><br>'
 md5: c57d40b259d49c26851da1f60ac9dc14
@@ -25,7 +25,8 @@ md5_6: c57d40
 name: Electronic Led 10 Mm Yellow
 oomp_key: oomp_electronic_led_10_mm_yellow
 part_number: ''
-short_code: l10
+short_code: l10y
+short_code_upper: L10Y
 short_name: 10 Mm Yellow Led
 size: 10_mm
 symbol:

@@ -15,6 +15,7 @@
     "directory": "parts/electronic_header_1d27_mm_5_pin",
     "name": "Electronic Header 1D27 Mm 5 Pin",
     "short_code": "h1d275p",
+    "short_code_upper": "H1D275P",
     "distributors": [],
     "manufacturers": [],
     "md5": "30323bf158f671630dd3fc42d2528621",

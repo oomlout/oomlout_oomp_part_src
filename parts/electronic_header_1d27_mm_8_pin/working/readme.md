@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_8_pin | 
 | name | Electronic Header 1D27 Mm 8 Pin | 
 | short_code | h1d278p | 
+| short_code_upper | H1D278P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 546235b23247c4056e104749efef73f2 | 

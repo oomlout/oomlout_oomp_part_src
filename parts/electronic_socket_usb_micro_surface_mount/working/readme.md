@@ -28,6 +28,11 @@ List of Pins:
 * [LCSC - C319160](https://lcsc.com/product-detail/C319160.html)  
 
 
+## symbol
+
+![](symbol/0/working/working_600.png)  
+oomp_key: oomp_kicad_connector_usb_b_micro  
+link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro/working  
 
 ## footprint
 
@@ -72,6 +77,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_socket_usb_micro_surface_mount | 
 | name | Electronic Socket Usb Micro Surface Mount | 
 | short_code | scumcsm | 
+| short_code_upper | SCUMCSM | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C319160', 'link': 'https://lcsc.com/product-detail/C319160.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | aae3e879c3fb0042b5bcdf92835870fd | 
@@ -81,3 +87,4 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | markdown_full | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> | 
 | markdown_short | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'oomp_key': 'oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro', 'oomp_key': 'oomp_kicad_connector_usb_b_micro', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_micro//working/working.kicad_sym'}] | 

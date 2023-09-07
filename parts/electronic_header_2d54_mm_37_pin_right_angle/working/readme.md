@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_37_pin_right_angle | 
 | name | Electronic Header 2D54 Mm 37 Pin Right Angle | 
 | short_code | hi137pra | 
+| short_code_upper | HI137PRA | 
 | short_name | 0.1" 37 Pin Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

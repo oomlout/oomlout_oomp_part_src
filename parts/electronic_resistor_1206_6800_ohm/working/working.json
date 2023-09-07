@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_6800_ohm",
     "name": "Electronic Resistor 1206 6800 Ohm",
     "short_code": "r12o682",
+    "short_code_upper": "R12O682",
     "distributors": [
         {
             "name": "LCSC",

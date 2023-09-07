@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_560_ohm | 
 | name | Electronic Resistor 0805 560 Ohm | 
 | short_code | r8o561 | 
+| short_code_upper | R8O561 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25319', 'link': 'https://lcsc.com/product-detail/C25319.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137421', 'link': 'https://lcsc.com/product-detail/C137421.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0561T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F5600T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-07560RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07560RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 2c77597a937c3b42455c416f00938ca6 | 

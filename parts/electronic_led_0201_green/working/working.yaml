@@ -26,6 +26,7 @@ name: Electronic Led 0201 Green
 oomp_key: oomp_electronic_led_0201_green
 part_number: ''
 short_code: lg
+short_code_upper: LG
 short_name: 0201 Green Led
 size: '0201'
 symbol:

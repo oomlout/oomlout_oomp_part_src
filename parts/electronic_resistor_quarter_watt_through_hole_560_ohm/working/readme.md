@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_560_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 560 Ohm | 
 | short_code | ro561 | 
+| short_code_upper | RO561 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 2ddd1186cd26fd7388b061f06e737f71 | 

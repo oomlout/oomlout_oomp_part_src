@@ -37,6 +37,7 @@ name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz
 oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
 part_number: ''
 short_code: xcr3213mhz12
+short_code_upper: XCR3213MHZ12
 size: '3213'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym

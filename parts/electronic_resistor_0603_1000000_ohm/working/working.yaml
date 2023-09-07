@@ -27,6 +27,7 @@ oomp_key: oomp_electronic_resistor_0603_1000000_ohm
 package_style: smd_tape
 part_number: ''
 short_code: r6o105
+short_code_upper: R6O105
 size: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm

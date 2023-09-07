@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_39_ohm",
     "name": "Electronic Resistor 0201 39 Ohm",
     "short_code": "ro390",
+    "short_code_upper": "RO390",
     "distributors": [],
     "manufacturers": [
         {

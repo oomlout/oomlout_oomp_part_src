@@ -26,6 +26,7 @@ name: Electronic Led 0402
 oomp_key: oomp_electronic_led_0402
 part_number: ''
 short_code: l4
+short_code_upper: L4
 short_name: 0402 Led
 size: '0402'
 symbol:

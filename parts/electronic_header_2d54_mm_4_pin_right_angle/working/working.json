@@ -15,6 +15,7 @@
     "directory": "parts/electronic_header_2d54_mm_4_pin_right_angle",
     "name": "Electronic Header 2D54 Mm 4 Pin Right Angle",
     "short_code": "hi14pra",
+    "short_code_upper": "HI14PRA",
     "short_name": "0.1\" 4 Pin Right Angle Header",
     "distributors": [],
     "manufacturers": [],

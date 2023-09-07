@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_68_ohm",
     "name": "Electronic Resistor 0201 68 Ohm",
     "short_code": "ro680",
+    "short_code_upper": "RO680",
     "distributors": [
         {
             "name": "LCSC",

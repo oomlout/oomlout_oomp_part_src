@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_82000_ohm",
     "name": "Electronic Resistor 0603 82000 Ohm",
     "short_code": "r6o823",
+    "short_code_upper": "R6O823",
     "distributors": [
         {
             "name": "LCSC",

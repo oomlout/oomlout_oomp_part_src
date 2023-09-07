@@ -42,6 +42,7 @@ pins:
         number: '2'
         type: signal
 short_code: i6snl
+short_code_upper: I6SNL
 short_name: everlight elec als_pt19_315c_l177_tr8
 size: '0603'
 smd_tape_depth: 1_5_mm

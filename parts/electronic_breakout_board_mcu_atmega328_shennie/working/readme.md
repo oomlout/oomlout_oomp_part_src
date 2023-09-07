@@ -175,6 +175,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_breakout_board_mcu_atmega328_shennie | 
 | name | Electronic Breakout Board Mcu Atmega328 Shennie | 
 | short_code | bbat328 | 
+| short_code_upper | BBAT328 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 09dfb71639ea7f3aaca031501c5571c4 | 

@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_4_pin | 
 | name | Electronic Header 1D27 Mm 4 Pin | 
 | short_code | h1d274p | 
+| short_code_upper | H1D274P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | dd557d63080e9ab174926f1fa7ac372e | 

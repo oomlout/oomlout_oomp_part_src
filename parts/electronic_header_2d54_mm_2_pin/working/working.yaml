@@ -24,6 +24,7 @@ name: Electronic Header 2D54 Mm 2 Pin
 oomp_key: oomp_electronic_header_2d54_mm_2_pin
 part_number: ''
 short_code: hi12p
+short_code_upper: HI12P
 short_name: 0.1" 2 Pin Header
 size: 2d54_mm
 symbol:

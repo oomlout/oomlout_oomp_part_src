@@ -44,6 +44,7 @@ pins:
         number: '6'
         type: signal
 short_code: scuath
+short_code_upper: SCUATH
 short_name: ''
 size: usb_a
 symbol:

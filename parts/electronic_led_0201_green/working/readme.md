@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0201_green | 
 | name | Electronic Led 0201 Green | 
 | short_code | lg | 
+| short_code_upper | LG | 
 | short_name | 0201 Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

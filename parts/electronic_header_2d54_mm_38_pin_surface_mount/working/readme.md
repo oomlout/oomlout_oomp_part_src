@@ -52,6 +52,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_38_pin_surface_mount | 
 | name | Electronic Header 2D54 Mm 38 Pin Surface Mount | 
 | short_code | hi138psm | 
+| short_code_upper | HI138PSM | 
 | short_name | 0.1" 38 Pin Surface Mount Header | 
 | distributors | [] | 
 | manufacturers | [] | 

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_680_ohm",
     "name": "Electronic Resistor 0603 680 Ohm",
     "short_code": "r6o681",
+    "short_code_upper": "R6O681",
     "distributors": [
         {
             "name": "LCSC",

@@ -73,6 +73,7 @@ pins:
         number: '9'
         type: signal
 short_code: imsp10mpump21rs2227
+short_code_upper: IMSP10MPUMP21RS2227
 short_name: usb multiplexer 2 to 1 (rs2227xn)
 size: msop_10
 type: ic

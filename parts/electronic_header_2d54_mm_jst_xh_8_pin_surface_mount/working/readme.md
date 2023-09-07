@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_2d54_mm_jst_xh_8_pin_surface_mount | 
 | name | Electronic Header 2D54 Mm Jst Xh 8 Pin Surface Mount | 
 | short_code | h8psm | 
+| short_code_upper | H8PSM | 
 | short_name | Jst Xh 8 Pin Surface Mount Header 2.54 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [] | 

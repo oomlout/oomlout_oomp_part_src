@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0402_18_ohm",
     "name": "Electronic Resistor 0402 18 Ohm",
     "short_code": "r4o180",
+    "short_code_upper": "R4O180",
     "distributors": [
         {
             "name": "LCSC",

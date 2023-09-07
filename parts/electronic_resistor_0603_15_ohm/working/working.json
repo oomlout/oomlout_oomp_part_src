@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_15_ohm",
     "name": "Electronic Resistor 0603 15 Ohm",
     "short_code": "r6o150",
+    "short_code_upper": "R6O150",
     "distributors": [
         {
             "name": "LCSC",

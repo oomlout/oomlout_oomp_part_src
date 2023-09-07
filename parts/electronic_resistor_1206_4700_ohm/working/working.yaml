@@ -64,6 +64,7 @@ name: Electronic Resistor 1206 4700 Ohm
 oomp_key: oomp_electronic_resistor_1206_4700_ohm
 part_number: ''
 short_code: r12o472
+short_code_upper: R12O472
 size: '1206'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

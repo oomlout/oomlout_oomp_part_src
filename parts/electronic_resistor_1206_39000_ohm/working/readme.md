@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_39000_ohm | 
 | name | Electronic Resistor 1206 39000 Ohm | 
 | short_code | r12o393 | 
+| short_code_upper | R12O393 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C270897', 'link': 'https://lcsc.com/product-detail/C270897.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137147', 'link': 'https://lcsc.com/product-detail/C137147.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0393T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F3902T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-0739KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739KL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | f9eee76ea3fbcf9c96d499a4227d9809 | 

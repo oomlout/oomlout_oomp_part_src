@@ -26,6 +26,7 @@ name: Electronic Led 5 Mm Green
 oomp_key: oomp_electronic_led_5_mm_green
 part_number: ''
 short_code: l5g
+short_code_upper: L5G
 short_name: 5 Mm Green Led
 size: 5_mm
 symbol:

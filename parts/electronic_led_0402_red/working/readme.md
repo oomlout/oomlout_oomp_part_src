@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0402_red | 
 | name | Electronic Led 0402 Red | 
 | short_code | l4r | 
+| short_code_upper | L4R | 
 | short_name | 0402 Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

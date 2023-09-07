@@ -27,6 +27,7 @@ name: Electronic Header 2D54 Mm 28 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_28_pin_surface_mount
 part_number: ''
 short_code: hi128psm
+short_code_upper: HI128PSM
 short_name: 0.1" 28 Pin Surface Mount Header
 size: 2d54_mm
 symbol:

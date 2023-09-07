@@ -44,6 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0201_10000000_ohm | 
 | name | Electronic Resistor 0201 10000000 Ohm | 
 | short_code | ro106 | 
+| short_code_upper | RO106 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | eb63616d41950f699727591bbd4cb3c5 | 

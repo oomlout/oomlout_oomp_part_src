@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_820_ohm | 
 | name | Electronic Resistor 0402 820 Ohm | 
 | short_code | r4o821 | 
+| short_code_upper | R4O821 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C270398', 'link': 'https://lcsc.com/product-detail/C270398.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137837', 'link': 'https://lcsc.com/product-detail/C137837.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0821TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF8200TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-07820RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07820RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 2edc8cfb980d0f82c4e4b19521512ff9 | 

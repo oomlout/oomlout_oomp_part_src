@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_6800_ohm",
     "name": "Electronic Resistor 0805 6800 Ohm",
     "short_code": "r8o682",
+    "short_code_upper": "R8O682",
     "distributors": [
         {
             "name": "LCSC",

@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_10_pin | 
 | name | Electronic Header 1D27 Mm 10 Pin | 
 | short_code | h1d2710p | 
+| short_code_upper | H1D2710P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | f8c1c6941c25869662eb7908d8db7c14 | 

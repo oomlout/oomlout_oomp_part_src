@@ -96,6 +96,7 @@ pins:
         number: '9'
         type: signal
 short_code: isp16ch340c
+short_code_upper: ISP16CH340C
 short_name: usb to serial converter (ch340c)
 size: sop_16
 symbol:

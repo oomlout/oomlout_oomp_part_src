@@ -67,6 +67,7 @@ pins:
         number: '8'
         type: power
 short_code: ilg8pbsnpt280
+short_code_upper: ILG8PBSNPT280
 short_name: bosch sensortec bme280 pressure and temperature sensor
 size: lga_2_5_mm_x_2_5_mm_8_pin
 symbol:

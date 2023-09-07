@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_470_ohm",
     "name": "Electronic Resistor 0201 470 Ohm",
     "short_code": "ro471",
+    "short_code_upper": "RO471",
     "distributors": [
         {
             "name": "LCSC",

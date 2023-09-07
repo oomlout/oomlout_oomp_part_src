@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_15_pin_right_angle | 
 | name | Electronic Header 2D54 Mm 15 Pin Right Angle | 
 | short_code | hi115pra | 
+| short_code_upper | HI115PRA | 
 | short_name | 0.1" 15 Pin Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

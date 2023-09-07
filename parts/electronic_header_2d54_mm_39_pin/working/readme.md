@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_39_pin | 
 | name | Electronic Header 2D54 Mm 39 Pin | 
 | short_code | hi139p | 
+| short_code_upper | HI139P | 
 | short_name | 0.1" 39 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

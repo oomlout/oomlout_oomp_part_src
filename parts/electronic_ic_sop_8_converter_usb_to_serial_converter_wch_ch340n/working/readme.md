@@ -77,6 +77,7 @@ List of Pins:
 | directory | parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n | 
 | name | Electronic Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N | 
 | short_code | isp8 | 
+| short_code_upper | ISP8 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2977777', 'link': 'https://lcsc.com/product-detail/C2977777.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | ad943042c130da51dd0876d34a6d99a2 | 

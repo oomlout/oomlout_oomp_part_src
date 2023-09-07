@@ -60,6 +60,7 @@ pins:
         number: '8'
         type: signal
 short_code: isp8
+short_code_upper: ISP8
 short_name: usb to serial converter (ch340n)
 size: sop_8
 type: ic

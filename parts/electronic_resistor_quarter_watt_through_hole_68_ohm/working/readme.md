@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_68_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 68 Ohm | 
 | short_code | ro680 | 
+| short_code_upper | RO680 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | af5cfc3e81a31677a4c2927502f28c1c | 

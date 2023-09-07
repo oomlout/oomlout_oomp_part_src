@@ -46,6 +46,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0201_22_ohm | 
 | name | Electronic Resistor 0201 22 Ohm | 
 | short_code | ro220 | 
+| short_code_upper | RO220 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0220TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 7a12ec4ecfcb8ec3544253851f5681f0 | 

@@ -64,6 +64,7 @@ name: Electronic Resistor 0805 47 Ohm
 oomp_key: oomp_electronic_resistor_0805_47_ohm
 part_number: ''
 short_code: r8o470
+short_code_upper: R8O470
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_150_ohm",
     "name": "Electronic Resistor 0201 150 Ohm",
     "short_code": "ro151",
+    "short_code_upper": "RO151",
     "distributors": [],
     "manufacturers": [
         {

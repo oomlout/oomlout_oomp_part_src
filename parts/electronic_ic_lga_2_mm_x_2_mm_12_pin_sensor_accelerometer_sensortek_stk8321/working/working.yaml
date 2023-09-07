@@ -83,6 +83,7 @@ pins:
         number: '9'
         type: power
 short_code: ilg2x212psnastk8321
+short_code_upper: ILG2X212PSNASTK8321
 short_name: bosch sensortec bme280 pressure and temperature sensor
 size: lga_2_mm_x_2_mm_12_pin
 type: ic

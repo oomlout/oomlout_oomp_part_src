@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0805_red | 
 | name | Electronic Led 0805 Red | 
 | short_code | l8r | 
+| short_code_upper | L8R | 
 | short_name | 0805 Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

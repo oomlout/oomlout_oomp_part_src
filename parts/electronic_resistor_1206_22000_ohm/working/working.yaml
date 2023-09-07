@@ -64,6 +64,7 @@ name: Electronic Resistor 1206 22000 Ohm
 oomp_key: oomp_electronic_resistor_1206_22000_ohm
 part_number: ''
 short_code: r12o223
+short_code_upper: R12O223
 size: '1206'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

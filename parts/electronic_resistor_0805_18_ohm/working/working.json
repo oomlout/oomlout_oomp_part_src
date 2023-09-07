@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_18_ohm",
     "name": "Electronic Resistor 0805 18 Ohm",
     "short_code": "r8o180",
+    "short_code_upper": "R8O180",
     "distributors": [
         {
             "name": "LCSC",

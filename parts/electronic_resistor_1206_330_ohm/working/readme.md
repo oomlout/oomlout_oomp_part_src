@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_330_ohm | 
 | name | Electronic Resistor 1206 330 Ohm | 
 | short_code | r12o331 | 
+| short_code_upper | R12O331 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25374', 'link': 'https://lcsc.com/product-detail/C25374.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137152', 'link': 'https://lcsc.com/product-detail/C137152.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0331T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F3300T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-07330RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07330RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 19072055ecd7f86fd8941ae53296c7d0 | 

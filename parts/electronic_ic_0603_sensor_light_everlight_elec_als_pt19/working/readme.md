@@ -53,6 +53,7 @@ List of Pins:
 | directory | parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | name | Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19 | 
 | short_code | i6snl | 
+| short_code_upper | I6SNL | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C146233', 'link': 'https://lcsc.com/product-detail/C146233.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Everlight Elec', 'part_number': 'ALS-PT19-315C/L177/TR8', 'link': 'https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html', 'id': 'manufacturer_everlight_elec'}] | 
 | package_style | smd_tape | 

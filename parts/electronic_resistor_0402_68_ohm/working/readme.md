@@ -51,6 +51,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0402_68_ohm | 
 | name | Electronic Resistor 0402 68 Ohm | 
 | short_code | r4o680 | 
+| short_code_upper | R4O680 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25178', 'link': 'https://lcsc.com/product-detail/C25178.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137848', 'link': 'https://lcsc.com/product-detail/C137848.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0680TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF068-1TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0768RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | c8a2f5c8d2a612131492a2f423769963 | 

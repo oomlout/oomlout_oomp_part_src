@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_23_pin | 
 | name | Electronic Header 2D54 Mm 23 Pin | 
 | short_code | hi123p | 
+| short_code_upper | HI123P | 
 | short_name | 0.1" 23 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

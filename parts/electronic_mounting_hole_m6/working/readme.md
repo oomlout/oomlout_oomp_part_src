@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_mounting_hole_m6 | 
 | name | Electronic Mounting Hole M6 | 
 | short_code | mhm6 | 
+| short_code_upper | MHM6 | 
 | short_name | M6 Mounting Hole | 
 | distributors | [] | 
 | manufacturers | [] | 

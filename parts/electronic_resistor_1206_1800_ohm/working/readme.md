@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_1800_ohm | 
 | name | Electronic Resistor 1206 1800 Ohm | 
 | short_code | r12o182 | 
+| short_code_upper | R12O182 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C26037', 'link': 'https://lcsc.com/product-detail/C26037.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137188', 'link': 'https://lcsc.com/product-detail/C137188.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0182T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F1801T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-071K8L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-071K8L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 464c63a8c6b683f545f00aed89126a92 | 

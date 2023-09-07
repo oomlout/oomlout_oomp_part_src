@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_39_ohm",
     "name": "Electronic Resistor 0805 39 Ohm",
     "short_code": "r8o390",
+    "short_code_upper": "R8O390",
     "distributors": [
         {
             "name": "LCSC",

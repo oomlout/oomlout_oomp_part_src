@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0603_4_7_micro_farad | 
 | name | Electronic Capacitor 0603 4 7 Micro Farad | 
 | short_code | c6uf4d7 | 
+| short_code_upper | C6UF4D7 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 

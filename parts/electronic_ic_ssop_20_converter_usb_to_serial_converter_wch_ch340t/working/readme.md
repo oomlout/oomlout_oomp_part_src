@@ -130,6 +130,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | name | Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T | 
 | short_code | ich340t | 
+| short_code_upper | ICH340T | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C8689', 'link': 'https://lcsc.com/product-detail/C8689.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | e07223f3446f9e6a9ed62db546344b87 | 

@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz | 
 | name | Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz | 
 | short_code | xcr3213mhz8 | 
+| short_code_upper | XCR3213MHZ8 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | fbf4f6bd8d89a3cb1a67c8e2973297b3 | 

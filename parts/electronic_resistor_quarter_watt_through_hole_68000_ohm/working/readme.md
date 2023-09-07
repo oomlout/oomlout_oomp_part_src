@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_68000_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 68000 Ohm | 
 | short_code | ro683 | 
+| short_code_upper | RO683 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | e01b81e6da290a274cbb929e74a5b38b | 

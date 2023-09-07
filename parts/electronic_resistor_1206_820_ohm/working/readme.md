@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_820_ohm | 
 | name | Electronic Resistor 1206 820 Ohm | 
 | short_code | r12o821 | 
+| short_code_upper | R12O821 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25396', 'link': 'https://lcsc.com/product-detail/C25396.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137112', 'link': 'https://lcsc.com/product-detail/C137112.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0821T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F8200T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-07820RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07820RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 77f11f33c0f7c8ea605a799733290bf7 | 

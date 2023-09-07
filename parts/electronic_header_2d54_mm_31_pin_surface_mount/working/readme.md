@@ -52,6 +52,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_31_pin_surface_mount | 
 | name | Electronic Header 2D54 Mm 31 Pin Surface Mount | 
 | short_code | hi131psm | 
+| short_code_upper | HI131PSM | 
 | short_name | 0.1" 31 Pin Surface Mount Header | 
 | distributors | [] | 
 | manufacturers | [] | 

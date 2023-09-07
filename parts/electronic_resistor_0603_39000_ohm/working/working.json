@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_39000_ohm",
     "name": "Electronic Resistor 0603 39000 Ohm",
     "short_code": "r6o393",
+    "short_code_upper": "R6O393",
     "distributors": [
         {
             "name": "LCSC",

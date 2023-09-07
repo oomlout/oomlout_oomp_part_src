@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_1d27_mm_2_pin | 
 | name | Electronic Header 1D27 Mm 2 Pin | 
 | short_code | h1d272p | 
+| short_code_upper | H1D272P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | efd3c9a64afb7e61f1ad814359305701 | 

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_diode_sod_123_package_marking_t4_1n4148w",
     "name": "Electronic Diode Sod 123 Package Marking T4 1N4148W",
     "short_code": "dsod123pmt44148",
+    "short_code_upper": "DSOD123PMT44148",
     "distributors": [
         {
             "name": "LCSC",

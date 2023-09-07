@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0805_green | 
 | name | Electronic Led 0805 Green | 
 | short_code | l8g | 
+| short_code_upper | L8G | 
 | short_name | 0805 Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

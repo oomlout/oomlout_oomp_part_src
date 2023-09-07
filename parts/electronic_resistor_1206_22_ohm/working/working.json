@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_22_ohm",
     "name": "Electronic Resistor 1206 22 Ohm",
     "short_code": "r12o220",
+    "short_code_upper": "R12O220",
     "distributors": [
         {
             "name": "LCSC",

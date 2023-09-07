@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_1000_ohm",
     "name": "Electronic Resistor 0805 1000 Ohm",
     "short_code": "r8o102",
+    "short_code_upper": "R8O102",
     "distributors": [
         {
             "name": "LCSC",

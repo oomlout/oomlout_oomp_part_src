@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_12_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 12 Ohm | 
 | short_code | ro120 | 
+| short_code_upper | RO120 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 1e45ff93511e3f31f38c920973e850ab | 

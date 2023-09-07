@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_33_pin | 
 | name | Electronic Header 2D54 Mm 33 Pin | 
 | short_code | hi133p | 
+| short_code_upper | HI133P | 
 | short_name | 0.1" 33 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

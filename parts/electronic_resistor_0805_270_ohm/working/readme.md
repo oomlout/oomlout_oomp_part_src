@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_270_ohm | 
 | name | Electronic Resistor 0805 270 Ohm | 
 | short_code | r8o271 | 
+| short_code_upper | R8O271 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25298', 'link': 'https://lcsc.com/product-detail/C25298.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C93657', 'link': 'https://lcsc.com/product-detail/C93657.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0271T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F2700T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-07270RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07270RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | f5c2b8589a3fd009e07dda1161ecb8c4 | 

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_47_ohm",
     "name": "Electronic Resistor 1206 47 Ohm",
     "short_code": "r12o470",
+    "short_code_upper": "R12O470",
     "distributors": [
         {
             "name": "LCSC",

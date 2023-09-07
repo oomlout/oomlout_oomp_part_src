@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin | 
 | name | Electronic Header 2D54 Mm Dual Row 2X4 Dual Row 8 Pin | 
 | short_code | hi12x4p | 
+| short_code_upper | HI12X4P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 3eed9c0ecb12c9d1e000a543cbdbd6db | 

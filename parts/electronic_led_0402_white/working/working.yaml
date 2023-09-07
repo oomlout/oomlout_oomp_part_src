@@ -1,0 +1,36 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0402_white
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric
+    oomp_key: oomp_kicad_led_smd_led_0402_1005metric
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_white/working
+id: electronic_led_0402_white
+kicad_reference: L
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_led_0402_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_white/working)<br>[l4w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_white/working)<br>[Electronic
+    Led 0402 White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_white/working)<br><br>'
+markdown_short: '[electronic_led_0402_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_white/working)<br><br>'
+md5: 34959d44b747802d2d0f3c26672ee231
+md5_10: 34959d44b7
+md5_5: '34959'
+md5_6: 34959d
+name: Electronic Led 0402 White
+oomp_key: oomp_electronic_led_0402_white
+part_number: ''
+short_code: l4w
+short_code_upper: L4W
+short_name: 0402 White Led
+size: '0402'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

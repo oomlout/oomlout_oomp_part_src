@@ -49,6 +49,7 @@ oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
 package_style: smd_tape
 part_number: ''
 short_code: c6pf22
+short_code_upper: C6PF22
 size: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm

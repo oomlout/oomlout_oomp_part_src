@@ -50,6 +50,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle | 
 | name | Electronic Header 1 Mm Jst Sh 2 Pin Surface Mount Right Angle | 
 | short_code | h2psmra | 
+| short_code_upper | H2PSMRA | 
 | short_name | Jst Sh 2 Pin Surface Mount Right Angle Header 1 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [{'name': 'JST', 'part_number': 'SM02B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 

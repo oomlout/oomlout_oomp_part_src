@@ -26,6 +26,7 @@ name: Electronic Led 5 Mm
 oomp_key: oomp_electronic_led_5_mm
 part_number: ''
 short_code: l5
+short_code_upper: L5
 short_name: 5 Mm Led
 size: 5_mm
 symbol:

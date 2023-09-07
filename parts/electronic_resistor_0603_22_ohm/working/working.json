@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_22_ohm",
     "name": "Electronic Resistor 0603 22 Ohm",
     "short_code": "r6o220",
+    "short_code_upper": "R6O220",
     "distributors": [
         {
             "name": "LCSC",

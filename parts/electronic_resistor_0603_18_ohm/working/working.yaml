@@ -65,6 +65,7 @@ oomp_key: oomp_electronic_resistor_0603_18_ohm
 package_style: smd_tape
 part_number: ''
 short_code: r6o180
+short_code_upper: R6O180
 size: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm

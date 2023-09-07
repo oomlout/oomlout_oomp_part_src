@@ -99,6 +99,7 @@
     "directory": "parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b",
     "name": "Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340B",
     "short_code": "isp16ch340b",
+    "short_code_upper": "ISP16CH340B",
     "distributors": [
         {
             "name": "LCSC",

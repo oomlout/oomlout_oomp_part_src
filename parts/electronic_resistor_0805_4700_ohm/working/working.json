@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_4700_ohm",
     "name": "Electronic Resistor 0805 4700 Ohm",
     "short_code": "r8o472",
+    "short_code_upper": "R8O472",
     "distributors": [
         {
             "name": "LCSC",

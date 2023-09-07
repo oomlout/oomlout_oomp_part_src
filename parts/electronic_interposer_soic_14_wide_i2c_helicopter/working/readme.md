@@ -105,6 +105,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_interposer_soic_14_wide_i2c_helicopter | 
 | name | Electronic Interposer Soic 14 Wide I2C Helicopter | 
 | short_code | insoic14wi2cheli | 
+| short_code_upper | INSOIC14WI2CHELI | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 67456919c33f39dd13824a5f4470e6b9 | 

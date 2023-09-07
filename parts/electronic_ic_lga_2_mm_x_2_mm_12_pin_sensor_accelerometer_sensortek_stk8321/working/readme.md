@@ -98,6 +98,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 
 | name | Electronic Ic Lga 2 Mm X 2 Mm 12 Pin Sensor Accelerometer Sensortek Stk8321 | 
 | short_code | ilg2x212psnastk8321 | 
+| short_code_upper | ILG2X212PSNASTK8321 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C966924', 'link': 'https://lcsc.com/product-detail/C966924.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Sensortek', 'part_number': 'STK8321', 'link': 'https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/', 'id': 'manufacturer_sensortek'}] | 
 | md5 | c4fd3486a33246ce70275edc1fcf9b4a | 

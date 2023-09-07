@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_18_pin | 
 | name | Electronic Header 2D54 Mm 18 Pin | 
 | short_code | hi118p | 
+| short_code_upper | HI118P | 
 | short_name | 0.1" 18 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

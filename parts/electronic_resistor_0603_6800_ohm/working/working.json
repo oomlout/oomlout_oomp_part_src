@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_6800_ohm",
     "name": "Electronic Resistor 0603 6800 Ohm",
     "short_code": "r6o682",
+    "short_code_upper": "R6O682",
     "distributors": [
         {
             "name": "LCSC",

@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_40_pin | 
 | name | Electronic Header 2D54 Mm 40 Pin | 
 | short_code | hi140p | 
+| short_code_upper | HI140P | 
 | short_name | 0.1" 40 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

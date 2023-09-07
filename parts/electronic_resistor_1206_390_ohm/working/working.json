@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_390_ohm",
     "name": "Electronic Resistor 1206 390 Ohm",
     "short_code": "r12o391",
+    "short_code_upper": "R12O391",
     "distributors": [
         {
             "name": "LCSC",

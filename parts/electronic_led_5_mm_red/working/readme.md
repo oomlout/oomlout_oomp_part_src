@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_5_mm_red | 
 | name | Electronic Led 5 Mm Red | 
 | short_code | l5r | 
+| short_code_upper | L5R | 
 | short_name | 5 Mm Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

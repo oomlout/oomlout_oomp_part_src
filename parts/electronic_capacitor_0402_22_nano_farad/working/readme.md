@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0402_22_nano_farad | 
 | name | Electronic Capacitor 0402 22 Nano Farad | 
 | short_code | c4nf22 | 
+| short_code_upper | C4NF22 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 1680a357aabbe40624f196a667c0e274 | 

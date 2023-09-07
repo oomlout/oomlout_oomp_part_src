@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_pmic_sot_223_linear_1117_adj | 
 | name | Electronic Pmic Sot 223 Linear 1117 Adj | 
 | short_code | pms2231117 | 
+| short_code_upper | PMS2231117 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 

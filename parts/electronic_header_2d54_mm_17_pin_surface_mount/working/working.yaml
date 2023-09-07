@@ -27,6 +27,7 @@ name: Electronic Header 2D54 Mm 17 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_17_pin_surface_mount
 part_number: ''
 short_code: hi117psm
+short_code_upper: HI117PSM
 short_name: 0.1" 17 Pin Surface Mount Header
 size: 2d54_mm
 symbol:

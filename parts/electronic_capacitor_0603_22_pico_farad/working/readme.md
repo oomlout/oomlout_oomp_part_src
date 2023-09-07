@@ -55,6 +55,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_capacitor_0603_22_pico_farad | 
 | name | Electronic Capacitor 0603 22 Pico Farad | 
 | short_code | c6pf22 | 
+| short_code_upper | C6PF22 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2845294', 'link': 'https://lcsc.com/product-detail/C2845294.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C105620', 'link': 'https://lcsc.com/product-detail/C105620.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'HCTL', 'part_number': 'TC-3601L-2.5-260G', 'link': '', 'id': 'manufacturer_hctl'}, {'name': 'Yageo', 'part_number': 'CC0603JRNPO9BN220', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 

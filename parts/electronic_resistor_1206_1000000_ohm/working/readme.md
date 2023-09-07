@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_1000000_ohm | 
 | name | Electronic Resistor 1206 1000000 Ohm | 
 | short_code | r12o105 | 
+| short_code_upper | R12O105 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 31813013b984f1aacb31a4605c532a99 | 

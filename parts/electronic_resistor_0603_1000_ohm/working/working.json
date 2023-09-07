@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_1000_ohm",
     "name": "Electronic Resistor 0603 1000 Ohm",
     "short_code": "r6o102",
+    "short_code_upper": "R6O102",
     "distributors": [
         {
             "name": "LCSC",

@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_nettie_4_nets_through_hole | 
 | name | Electronic Nettie 4 Nets Through Hole | 
 | short_code | nt4th | 
+| short_code_upper | NT4TH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | ac52abec84c9c9c28eb15db0ca925cd9 | 

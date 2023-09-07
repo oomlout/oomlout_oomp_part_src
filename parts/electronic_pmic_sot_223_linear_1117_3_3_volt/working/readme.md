@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_pmic_sot_223_linear_1117_3_3_volt | 
 | name | Electronic Pmic Sot 223 Linear 1117 3 3 Volt | 
 | short_code | pms22311173d3v | 
+| short_code_upper | PMS22311173D3V | 
 | distributors | [] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 

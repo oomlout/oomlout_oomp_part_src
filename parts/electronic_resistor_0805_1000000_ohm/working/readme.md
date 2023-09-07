@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0805_1000000_ohm | 
 | name | Electronic Resistor 0805 1000000 Ohm | 
 | short_code | r8o105 | 
+| short_code_upper | R8O105 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | c27a2f9b99a71e314faf59d36ca19114 | 

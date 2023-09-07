@@ -64,6 +64,7 @@ name: Electronic Resistor 0805 180 Ohm
 oomp_key: oomp_electronic_resistor_0805_180_ohm
 part_number: ''
 short_code: r8o181
+short_code_upper: R8O181
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_nettie_2_nets_smd | 
 | name | Electronic Nettie 2 Nets Smd | 
 | short_code | nt2 | 
+| short_code_upper | NT2 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 4ef35d1f2d790456123942109a5f27e9 | 

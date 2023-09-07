@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_10_mm | 
 | name | Electronic Led 10 Mm | 
 | short_code | l10 | 
+| short_code_upper | L10 | 
 | short_name | 10 Mm Led | 
 | distributors | [] | 
 | manufacturers | [] | 

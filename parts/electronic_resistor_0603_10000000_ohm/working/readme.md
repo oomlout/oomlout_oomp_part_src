@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_0603_10000000_ohm | 
 | name | Electronic Resistor 0603 10000000 Ohm | 
 | short_code | r6o106 | 
+| short_code_upper | R6O106 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 

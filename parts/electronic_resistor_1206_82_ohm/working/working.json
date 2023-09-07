@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_82_ohm",
     "name": "Electronic Resistor 1206 82 Ohm",
     "short_code": "r12o820",
+    "short_code_upper": "R12O820",
     "distributors": [
         {
             "name": "LCSC",

@@ -27,6 +27,7 @@ name: Electronic Header 2D54 Mm 37 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_37_pin_surface_mount
 part_number: ''
 short_code: hi137psm
+short_code_upper: HI137PSM
 short_name: 0.1" 37 Pin Surface Mount Header
 size: 2d54_mm
 symbol:

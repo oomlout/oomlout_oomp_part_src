@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0201 | 
 | name | Electronic Led 0201 | 
 | short_code | l | 
+| short_code_upper | L | 
 | short_name | 0201 Led | 
 | distributors | [] | 
 | manufacturers | [] | 

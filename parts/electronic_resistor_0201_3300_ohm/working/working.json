@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_3300_ohm",
     "name": "Electronic Resistor 0201 3300 Ohm",
     "short_code": "ro332",
+    "short_code_upper": "RO332",
     "distributors": [
         {
             "name": "LCSC",

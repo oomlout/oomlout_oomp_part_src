@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_29_pin_surface_mount_right_angle | 
 | name | Electronic Header 2D54 Mm 29 Pin Surface Mount Right Angle | 
 | short_code | hi129psmra | 
+| short_code_upper | HI129PSMRA | 
 | short_name | 0.1" 29 Pin Surface Mount Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

@@ -50,6 +50,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_5_mm | 
 | name | Electronic Led 5 Mm | 
 | short_code | l5 | 
+| short_code_upper | L5 | 
 | short_name | 5 Mm Led | 
 | distributors | [] | 
 | manufacturers | [] | 

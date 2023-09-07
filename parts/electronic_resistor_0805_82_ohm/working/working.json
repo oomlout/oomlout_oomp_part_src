@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_82_ohm",
     "name": "Electronic Resistor 0805 82 Ohm",
     "short_code": "r8o820",
+    "short_code_upper": "R8O820",
     "distributors": [
         {
             "name": "LCSC",

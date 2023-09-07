@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_1d27_mm_16_pin | 
 | name | Electronic Header 1D27 Mm 16 Pin | 
 | short_code | h1d2716p | 
+| short_code_upper | H1D2716P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 595b9055e161712900e6dc2d04e8d1fd | 

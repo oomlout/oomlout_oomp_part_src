@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_3900_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 3900 Ohm | 
 | short_code | ro392 | 
+| short_code_upper | RO392 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 87c5421cb3e4b824c9dc5e99bd59aae5 | 

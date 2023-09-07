@@ -47,6 +47,7 @@
     "directory": "parts/electronic_socket_usb_micro_surface_mount",
     "name": "Electronic Socket Usb Micro Surface Mount",
     "short_code": "scumcsm",
+    "short_code_upper": "SCUMCSM",
     "distributors": [
         {
             "name": "LCSC",

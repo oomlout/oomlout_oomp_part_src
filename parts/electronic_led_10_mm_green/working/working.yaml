@@ -26,6 +26,7 @@ name: Electronic Led 10 Mm Green
 oomp_key: oomp_electronic_led_10_mm_green
 part_number: ''
 short_code: l10g
+short_code_upper: L10G
 short_name: 10 Mm Green Led
 size: 10_mm
 symbol:

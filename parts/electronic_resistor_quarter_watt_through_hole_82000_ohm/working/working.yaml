@@ -26,6 +26,7 @@ name: Electronic Resistor Quarter Watt Through Hole 82000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_82000_ohm
 part_number: ''
 short_code: ro823
+short_code_upper: RO823
 size: quarter_watt_through_hole
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

@@ -26,6 +26,7 @@ name: Electronic Led 1206
 oomp_key: oomp_electronic_led_1206
 part_number: ''
 short_code: l12
+short_code_upper: L12
 short_name: 1206 Led
 size: '1206'
 symbol:

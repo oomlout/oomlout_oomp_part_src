@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_4700_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 4700 Ohm | 
 | short_code | ro472 | 
+| short_code_upper | RO472 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | b323516987a924c4a942f77453108183 | 

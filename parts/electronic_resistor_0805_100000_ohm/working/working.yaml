@@ -26,6 +26,7 @@ name: Electronic Resistor 0805 100000 Ohm
 oomp_key: oomp_electronic_resistor_0805_100000_ohm
 part_number: ''
 short_code: r8o104
+short_code_upper: R8O104
 size: 0805
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

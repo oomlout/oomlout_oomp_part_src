@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_15_pin | 
 | name | Electronic Header 2D54 Mm 15 Pin | 
 | short_code | hi115p | 
+| short_code_upper | HI115P | 
 | short_name | 0.1" 15 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

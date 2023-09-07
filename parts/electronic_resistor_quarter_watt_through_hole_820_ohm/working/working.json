@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_quarter_watt_through_hole_820_ohm",
     "name": "Electronic Resistor Quarter Watt Through Hole 820 Ohm",
     "short_code": "ro821",
+    "short_code_upper": "RO821",
     "distributors": [],
     "manufacturers": [],
     "md5": "2e05d6879500d66cf8d5f4aea22c0efb",

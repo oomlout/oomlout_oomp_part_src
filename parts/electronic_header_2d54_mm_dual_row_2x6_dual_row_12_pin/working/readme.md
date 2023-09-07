@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin | 
 | name | Electronic Header 2D54 Mm Dual Row 2X6 Dual Row 12 Pin | 
 | short_code | hi12x6p | 
+| short_code_upper | HI12X6P | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | f7c36cfd6917a64d191e56bfb2c12421 | 

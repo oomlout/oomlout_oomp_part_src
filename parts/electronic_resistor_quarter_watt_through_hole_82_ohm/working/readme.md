@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_82_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 82 Ohm | 
 | short_code | ro820 | 
+| short_code_upper | RO820 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 3450d47bdad2075fb644b08427010a8f | 

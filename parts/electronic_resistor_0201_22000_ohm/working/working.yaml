@@ -32,6 +32,7 @@ name: Electronic Resistor 0201 22000 Ohm
 oomp_key: oomp_electronic_resistor_0201_22000_ohm
 part_number: ''
 short_code: ro223
+short_code_upper: RO223
 size: '0201'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

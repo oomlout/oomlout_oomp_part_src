@@ -39,6 +39,7 @@
     "directory": "parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w",
     "name": "Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W",
     "short_code": "l50502812ws2812bbw",
+    "short_code_upper": "L50502812WS2812BBW",
     "short_name": "5050 Rgbws2812B Led",
     "distributors": [
         {

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_560_ohm",
     "name": "Electronic Resistor 0201 560 Ohm",
     "short_code": "ro561",
+    "short_code_upper": "RO561",
     "distributors": [],
     "manufacturers": [
         {

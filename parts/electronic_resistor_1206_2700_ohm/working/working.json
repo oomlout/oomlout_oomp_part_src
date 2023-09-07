@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_2700_ohm",
     "name": "Electronic Resistor 1206 2700 Ohm",
     "short_code": "r12o272",
+    "short_code_upper": "R12O272",
     "distributors": [
         {
             "name": "LCSC",

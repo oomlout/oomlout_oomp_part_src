@@ -26,6 +26,7 @@ name: Electronic Led 0201
 oomp_key: oomp_electronic_led_0201
 part_number: ''
 short_code: l
+short_code_upper: L
 short_name: 0201 Led
 size: '0201'
 symbol:

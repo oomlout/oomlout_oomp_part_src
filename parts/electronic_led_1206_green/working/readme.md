@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_1206_green | 
 | name | Electronic Led 1206 Green | 
 | short_code | l12g | 
+| short_code_upper | L12G | 
 | short_name | 1206 Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 

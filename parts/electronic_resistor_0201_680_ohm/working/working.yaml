@@ -32,6 +32,7 @@ name: Electronic Resistor 0201 680 Ohm
 oomp_key: oomp_electronic_resistor_0201_680_ohm
 part_number: ''
 short_code: ro681
+short_code_upper: RO681
 size: '0201'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

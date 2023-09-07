@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_18_pin_right_angle | 
 | name | Electronic Header 2D54 Mm 18 Pin Right Angle | 
 | short_code | hi118pra | 
+| short_code_upper | HI118PRA | 
 | short_name | 0.1" 18 Pin Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

@@ -68,6 +68,7 @@ pins:
         number: '9'
         type: signal
 short_code: i
+short_code_upper: I
 short_name: usb to serial converter (ch340k)
 size: essop_10
 type: ic

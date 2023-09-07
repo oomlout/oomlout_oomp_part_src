@@ -60,6 +60,7 @@ name: Electronic Resistor 0402 150 Ohm
 oomp_key: oomp_electronic_resistor_0402_150_ohm
 part_number: ''
 short_code: r4o151
+short_code_upper: R4O151
 size: '0402'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym

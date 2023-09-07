@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_180_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 180 Ohm | 
 | short_code | ro181 | 
+| short_code_upper | RO181 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 59af46ec7f66277fa45469ffd37ba989 | 

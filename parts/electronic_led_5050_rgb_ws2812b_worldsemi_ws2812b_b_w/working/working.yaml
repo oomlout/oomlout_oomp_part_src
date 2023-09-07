@@ -54,6 +54,7 @@ pins:
         number: '4'
         type: signal
 short_code: l50502812ws2812bbw
+short_code_upper: L50502812WS2812BBW
 short_name: 5050 Rgbws2812B Led
 size: '5050'
 symbol:

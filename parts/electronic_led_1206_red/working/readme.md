@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_1206_red | 
 | name | Electronic Led 1206 Red | 
 | short_code | l12r | 
+| short_code_upper | L12R | 
 | short_name | 1206 Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

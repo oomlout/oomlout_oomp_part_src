@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_330_ohm",
     "name": "Electronic Resistor 0805 330 Ohm",
     "short_code": "r8o331",
+    "short_code_upper": "R8O331",
     "distributors": [
         {
             "name": "LCSC",

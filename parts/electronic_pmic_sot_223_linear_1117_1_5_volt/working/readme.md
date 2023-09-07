@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_pmic_sot_223_linear_1117_1_5_volt | 
 | name | Electronic Pmic Sot 223 Linear 1117 1 5 Volt | 
 | short_code | pms22311171d5v | 
+| short_code_upper | PMS22311171D5V | 
 | distributors | [] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 

@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_3900_ohm",
     "name": "Electronic Resistor 0201 3900 Ohm",
     "short_code": "ro392",
+    "short_code_upper": "RO392",
     "distributors": [],
     "manufacturers": [
         {

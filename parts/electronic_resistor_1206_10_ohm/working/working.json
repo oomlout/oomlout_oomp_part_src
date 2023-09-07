@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_10_ohm",
     "name": "Electronic Resistor 1206 10 Ohm",
     "short_code": "r12o100",
+    "short_code_upper": "R12O100",
     "distributors": [
         {
             "name": "LCSC",

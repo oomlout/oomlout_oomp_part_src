@@ -52,6 +52,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_17_pin_surface_mount_right_angle | 
 | name | Electronic Header 2D54 Mm 17 Pin Surface Mount Right Angle | 
 | short_code | hi117psmra | 
+| short_code_upper | HI117PSMRA | 
 | short_name | 0.1" 17 Pin Surface Mount Right Angle Header | 
 | distributors | [] | 
 | manufacturers | [] | 

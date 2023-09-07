@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_12_ohm",
     "name": "Electronic Resistor 1206 12 Ohm",
     "short_code": "r12o120",
+    "short_code_upper": "R12O120",
     "distributors": [
         {
             "name": "LCSC",

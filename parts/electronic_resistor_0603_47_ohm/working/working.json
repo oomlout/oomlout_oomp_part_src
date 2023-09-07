@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0603_47_ohm",
     "name": "Electronic Resistor 0603 47 Ohm",
     "short_code": "r6o470",
+    "short_code_upper": "R6O470",
     "distributors": [
         {
             "name": "LCSC",

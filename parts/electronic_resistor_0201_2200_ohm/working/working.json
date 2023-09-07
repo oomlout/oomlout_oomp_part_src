@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0201_2200_ohm",
     "name": "Electronic Resistor 0201 2200 Ohm",
     "short_code": "ro222",
+    "short_code_upper": "RO222",
     "distributors": [],
     "manufacturers": [
         {

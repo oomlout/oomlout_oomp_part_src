@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0805 | 
 | name | Electronic Led 0805 | 
 | short_code | l8 | 
+| short_code_upper | L8 | 
 | short_name | 0805 Led | 
 | distributors | [] | 
 | manufacturers | [] | 

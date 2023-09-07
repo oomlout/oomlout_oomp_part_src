@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_1206_330_ohm",
     "name": "Electronic Resistor 1206 330 Ohm",
     "short_code": "r12o331",
+    "short_code_upper": "R12O331",
     "distributors": [
         {
             "name": "LCSC",

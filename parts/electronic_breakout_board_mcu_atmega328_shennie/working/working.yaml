@@ -147,6 +147,7 @@ pins:
         number: '9'
         type: signal
 short_code: bbat328
+short_code_upper: BBAT328
 short_name: ''
 size: ''
 symbol:

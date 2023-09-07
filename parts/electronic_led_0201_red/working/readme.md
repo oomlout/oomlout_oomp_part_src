@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_led_0201_red | 
 | name | Electronic Led 0201 Red | 
 | short_code | lr | 
+| short_code_upper | LR | 
 | short_name | 0201 Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 

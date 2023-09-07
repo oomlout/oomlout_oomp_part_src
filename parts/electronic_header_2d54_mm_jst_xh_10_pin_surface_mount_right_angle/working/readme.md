@@ -43,6 +43,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_header_2d54_mm_jst_xh_10_pin_surface_mount_right_angle | 
 | name | Electronic Header 2D54 Mm Jst Xh 10 Pin Surface Mount Right Angle | 
 | short_code | h10psmra | 
+| short_code_upper | H10PSMRA | 
 | short_name | Jst Xh 10 Pin Surface Mount Right Angle Header 2.54 Mm Pitch | 
 | distributors | [] | 
 | manufacturers | [] | 

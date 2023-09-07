@@ -49,6 +49,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_quarter_watt_through_hole_2200_ohm | 
 | name | Electronic Resistor Quarter Watt Through Hole 2200 Ohm | 
 | short_code | ro222 | 
+| short_code_upper | RO222 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | a9a5e963795b53da9bd25aaf17232a5d | 

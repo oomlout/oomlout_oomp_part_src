@@ -26,6 +26,7 @@ name: Electronic Header 1 Mm Jst Sh 10 Pin Surface Mount
 oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_surface_mount
 part_number: ''
 short_code: h10psm
+short_code_upper: H10PSM
 short_name: Jst Sh 10 Pin Surface Mount Header 1 Mm Pitch
 size: 1_mm_jst_sh
 symbol:

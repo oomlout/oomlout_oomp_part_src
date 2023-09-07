@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_19_pin | 
 | name | Electronic Header 2D54 Mm 19 Pin | 
 | short_code | hi119p | 
+| short_code_upper | HI119P | 
 | short_name | 0.1" 19 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

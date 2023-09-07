@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_header_2d54_mm_35_pin | 
 | name | Electronic Header 2D54 Mm 35 Pin | 
 | short_code | hi135p | 
+| short_code_upper | HI135P | 
 | short_name | 0.1" 35 Pin Header | 
 | distributors | [] | 
 | manufacturers | [] | 

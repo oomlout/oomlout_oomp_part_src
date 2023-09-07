@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_led_5_mm_blue 
-* short_code: l5
+* short_code: l5l
 * md5_6: ce3441  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working  
 ## naming details
@@ -48,7 +48,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working | 
 | directory | parts/electronic_led_5_mm_blue | 
 | name | Electronic Led 5 Mm Blue | 
-| short_code | l5 | 
+| short_code | l5l | 
+| short_code_upper | L5L | 
 | short_name | 5 Mm Blue Led | 
 | distributors | [] | 
 | manufacturers | [] | 
@@ -56,7 +57,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5 | ce344 | 
 | md5_6 | ce3441 | 
 | md5_10 | ce34411c59 | 
-| markdown_full | [electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br>[l5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br>[Electronic Led 5 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br><br> | 
+| markdown_full | [electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br>[l5l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br>[Electronic Led 5 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br><br> | 
 | markdown_short | [electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

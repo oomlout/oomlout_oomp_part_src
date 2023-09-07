@@ -48,6 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | directory | parts/electronic_resistor_0201_12000_ohm | 
 | name | Electronic Resistor 0201 12000 Ohm | 
 | short_code | ro123 | 
+| short_code_upper | RO123 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2779724', 'link': 'https://lcsc.com/product-detail/C2779724.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0123TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 56b09454929b2f1171a57fbf797d6d8f | 

@@ -56,6 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_resistor_1206_560_ohm | 
 | name | Electronic Resistor 1206 560 Ohm | 
 | short_code | r12o561 | 
+| short_code_upper | R12O561 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C25388', 'link': 'https://lcsc.com/product-detail/C25388.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C163358', 'link': 'https://lcsc.com/product-detail/C163358.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0561T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F5600T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-07560RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07560RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | c4d11235bc116ccb2b63dea694673a97 | 

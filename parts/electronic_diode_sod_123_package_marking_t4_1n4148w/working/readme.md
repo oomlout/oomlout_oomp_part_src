@@ -52,6 +52,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | directory | parts/electronic_diode_sod_123_package_marking_t4_1n4148w | 
 | name | Electronic Diode Sod 123 Package Marking T4 1N4148W | 
 | short_code | dsod123pmt44148 | 
+| short_code_upper | DSOD123PMT44148 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2099', 'link': 'https://lcsc.com/product-detail/C2099.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C444720', 'link': 'https://lcsc.com/product-detail/C444720.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 35b545ced662ea6b79a91d4e083ad0fd | 

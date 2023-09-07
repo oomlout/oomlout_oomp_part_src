@@ -17,6 +17,7 @@
     "directory": "parts/electronic_resistor_0805_470_ohm",
     "name": "Electronic Resistor 0805 470 Ohm",
     "short_code": "r8o471",
+    "short_code_upper": "R8O471",
     "distributors": [
         {
             "name": "LCSC",

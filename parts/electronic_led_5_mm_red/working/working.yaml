@@ -26,6 +26,7 @@ name: Electronic Led 5 Mm Red
 oomp_key: oomp_electronic_led_5_mm_red
 part_number: ''
 short_code: l5r
+short_code_upper: L5R
 short_name: 5 Mm Red Led
 size: 5_mm
 symbol:

@@ -26,6 +26,7 @@ name: Electronic Led 0805 Green
 oomp_key: oomp_electronic_led_0805_green
 part_number: ''
 short_code: l8g
+short_code_upper: L8G
 short_name: 0805 Green Led
 size: 0805
 symbol:
