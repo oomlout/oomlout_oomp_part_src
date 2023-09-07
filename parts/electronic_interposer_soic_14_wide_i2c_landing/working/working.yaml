@@ -12,6 +12,8 @@ footprint:
     oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working
 id: electronic_interposer_soic_14_wide_i2c_landing
+id_no_class: interposer_soic_14_wide_i2c_landing
+id_no_type: soic_14_wide_i2c_landing
 kicad_reference: U
 manufacturer: ''
 manufacturers: []

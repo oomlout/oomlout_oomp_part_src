@@ -93,6 +93,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_12_number | 12 | 
 | pins_pin_12_type | power | 
 | id | electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 
+| id_no_class | ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 
+| id_no_type | lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 
 | oomp_key | oomp_electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working | 
 | directory | parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 

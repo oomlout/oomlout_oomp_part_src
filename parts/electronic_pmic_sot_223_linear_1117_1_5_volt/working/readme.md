@@ -43,6 +43,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | short_name |  | 
 | id | electronic_pmic_sot_223_linear_1117_1_5_volt | 
+| id_no_class | pmic_sot_223_linear_1117_1_5_volt | 
+| id_no_type | sot_223_linear_1117_1_5_volt | 
 | oomp_key | oomp_electronic_pmic_sot_223_linear_1117_1_5_volt | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working | 
 | directory | parts/electronic_pmic_sot_223_linear_1117_1_5_volt | 

@@ -10,6 +10,8 @@ footprint:
     oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working
 id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+id_no_class: ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+id_no_type: mlf_32_mcu_atmega328_microchip_atmega328p_mu
 manufacturer: microchip
 manufacturers: []
 markdown_full: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[imlf32at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[Electronic

@@ -39,6 +39,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_0201_100000_ohm | 
+| id_no_class | resistor_0201_100000_ohm | 
+| id_no_type | 0201_100000_ohm | 
 | oomp_key | oomp_electronic_resistor_0201_100000_ohm | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_100000_ohm/working | 
 | directory | parts/electronic_resistor_0201_100000_ohm | 

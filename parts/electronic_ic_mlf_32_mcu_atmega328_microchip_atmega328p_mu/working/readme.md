@@ -43,6 +43,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number | atmega328p_mu | 
 | short_name | atmega328 32 pin mlf | 
 | id | electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
+| id_no_class | ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
+| id_no_type | mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | oomp_key | oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working | 
 | directory | parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 

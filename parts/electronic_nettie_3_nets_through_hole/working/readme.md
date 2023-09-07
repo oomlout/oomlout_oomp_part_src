@@ -44,6 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | filter |  | 
 | kicad_reference |  | 
 | id | electronic_nettie_3_nets_through_hole | 
+| id_no_class | nettie_3_nets_through_hole | 
+| id_no_type | 3_nets_through_hole | 
 | oomp_key | oomp_electronic_nettie_3_nets_through_hole | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole/working | 
 | directory | parts/electronic_nettie_3_nets_through_hole | 

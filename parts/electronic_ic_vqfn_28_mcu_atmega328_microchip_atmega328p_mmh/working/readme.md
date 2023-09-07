@@ -43,6 +43,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number | atmega328p_mmh | 
 | short_name | atmega328 28 pin vqfn | 
 | id | electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh | 
+| id_no_class | ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh | 
+| id_no_type | vqfn_28_mcu_atmega328_microchip_atmega328p_mmh | 
 | oomp_key | oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working | 
 | directory | parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh | 

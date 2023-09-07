@@ -48,6 +48,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | filter |  | 
 | kicad_reference | x | 
 | id | electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz | 
+| id_no_class | ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz | 
+| id_no_type | 3213_3_pin_ground_pin_2_16_mega_hertz | 
 | oomp_key | oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working | 
 | directory | parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz | 

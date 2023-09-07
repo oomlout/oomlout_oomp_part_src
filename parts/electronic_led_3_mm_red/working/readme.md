@@ -39,6 +39,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_3_mm_red | 
+| id_no_class | led_3_mm_red | 
+| id_no_type | 3_mm_red | 
 | oomp_key | oomp_electronic_led_3_mm_red | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_red/working | 
 | directory | parts/electronic_led_3_mm_red | 

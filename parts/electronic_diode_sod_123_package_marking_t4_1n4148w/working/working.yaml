@@ -20,6 +20,8 @@ footprint:
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working
 id: electronic_diode_sod_123_package_marking_t4_1n4148w
+id_no_class: diode_sod_123_package_marking_t4_1n4148w
+id_no_type: sod_123_package_marking_t4_1n4148w
 kicad_reference: D
 manufacturer: ''
 manufacturers: []

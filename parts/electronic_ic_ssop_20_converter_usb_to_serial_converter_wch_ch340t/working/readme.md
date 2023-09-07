@@ -125,6 +125,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | kicad_reference | U | 
 | notes | [] | 
 | id | electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
+| id_no_class | ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
+| id_no_type | ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | oomp_key | oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working | 
 | directory | parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 

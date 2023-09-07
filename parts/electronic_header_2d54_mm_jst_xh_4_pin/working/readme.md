@@ -38,6 +38,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | part_number |  | 
 | kicad_reference | J | 
 | id | electronic_header_2d54_mm_jst_xh_4_pin | 
+| id_no_class | header_2d54_mm_jst_xh_4_pin | 
+| id_no_type | 2d54_mm_jst_xh_4_pin | 
 | oomp_key | oomp_electronic_header_2d54_mm_jst_xh_4_pin | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin/working | 
 | directory | parts/electronic_header_2d54_mm_jst_xh_4_pin | 

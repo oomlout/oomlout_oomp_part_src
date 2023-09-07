@@ -10,6 +10,8 @@ footprint:
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin/working
 id: electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
+id_no_class: header_2d54_mm_dual_row_2x2_dual_row_4_pin
+id_no_type: 2d54_mm_dual_row_2x2_dual_row_4_pin
 kicad_reference: J
 manufacturer: ''
 manufacturers: []

@@ -16,6 +16,8 @@ footprint:
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working
 id: electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+id_no_class: led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+id_no_type: 5050_rgb_ws2812b_worldsemi_ws2812b_b_w
 kicad_reference: L
 manufacturer: worldsemi
 manufacturers:

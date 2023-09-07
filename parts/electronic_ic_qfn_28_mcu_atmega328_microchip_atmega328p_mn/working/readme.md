@@ -38,6 +38,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | part_number | atmega328p_mn | 
 | short_name | atmega328 28 pin qfn | 
 | id | electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn | 
+| id_no_class | ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn | 
+| id_no_type | qfn_28_mcu_atmega328_microchip_atmega328p_mn | 
 | oomp_key | oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working | 
 | directory | parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn | 

@@ -6,6 +6,8 @@ directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin/working
 id: electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
+id_no_class: header_2d54_mm_dual_row_2x19_dual_row_38_pin
+id_no_type: 2d54_mm_dual_row_2x19_dual_row_38_pin
 kicad_reference: J
 manufacturer: ''
 manufacturers: []

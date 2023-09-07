@@ -71,6 +71,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_4_number | 4 | 
 | pins_pin_4_type | signal | 
 | id | electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
+| id_no_class | led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
+| id_no_type | 5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | oomp_key | oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working | 
 | directory | parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 

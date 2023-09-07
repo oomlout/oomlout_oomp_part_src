@@ -6,6 +6,8 @@ directory: parts/electronic_header_1d27_mm_2_pin
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_2_pin/working
 id: electronic_header_1d27_mm_2_pin
+id_no_class: header_1d27_mm_2_pin
+id_no_type: 1d27_mm_2_pin
 kicad_reference: J
 manufacturer: ''
 manufacturers: []

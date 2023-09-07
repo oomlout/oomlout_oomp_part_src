@@ -90,6 +90,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | kicad_reference | U | 
 | notes | [] | 
 | id | electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e | 
+| id_no_class | ic_msop_10_converter_usb_to_serial_converter_wch_ch340e | 
+| id_no_type | msop_10_converter_usb_to_serial_converter_wch_ch340e | 
 | oomp_key | oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working | 
 | directory | parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e | 

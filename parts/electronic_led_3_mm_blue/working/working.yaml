@@ -8,6 +8,8 @@ filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working
 id: electronic_led_3_mm_blue
+id_no_class: led_3_mm_blue
+id_no_type: 3_mm_blue
 kicad_reference: L
 manufacturer: ''
 manufacturers: []

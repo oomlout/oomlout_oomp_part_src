@@ -67,6 +67,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_4_number | 4 | 
 | pins_pin_4_type | signal | 
 | id | electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
+| id_no_class | led_1010_rgb_ws2812b_xinglight_1010rgbc | 
+| id_no_type | 1010_rgb_ws2812b_xinglight_1010rgbc | 
 | oomp_key | oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working | 
 | directory | parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 

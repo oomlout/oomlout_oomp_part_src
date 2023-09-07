@@ -43,6 +43,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | kicad_reference | J | 
 | id | electronic_header_2d54_mm_24_pin | 
+| id_no_class | header_2d54_mm_24_pin | 
+| id_no_type | 2d54_mm_24_pin | 
 | oomp_key | oomp_electronic_header_2d54_mm_24_pin | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working | 
 | directory | parts/electronic_header_2d54_mm_24_pin | 

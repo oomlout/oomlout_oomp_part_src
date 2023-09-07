@@ -12,6 +12,8 @@ footprint:
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3900_ohm/working
 id: electronic_resistor_quarter_watt_through_hole_3900_ohm
+id_no_class: resistor_quarter_watt_through_hole_3900_ohm
+id_no_type: quarter_watt_through_hole_3900_ohm
 kicad_reference: R
 manufacturer: ''
 manufacturers: []

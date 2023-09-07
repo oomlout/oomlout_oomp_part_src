@@ -48,6 +48,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | filter |  | 
 | kicad_reference | C | 
 | id | electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
+| id_no_class | capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
+| id_no_type | 3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | oomp_key | oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working | 
 | directory | parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 

@@ -12,6 +12,8 @@ footprint:
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd/working
 id: electronic_nettie_2_nets_smd
+id_no_class: nettie_2_nets_smd
+id_no_type: 2_nets_smd
 kicad_reference: ''
 manufacturer: ''
 manufacturers: []

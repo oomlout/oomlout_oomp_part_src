@@ -14,6 +14,8 @@ footprint:
     oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working
 id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+id_no_class: ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+id_no_type: msop_10_converter_usb_to_serial_converter_wch_ch340x
 kicad_reference: U
 manufacturer: wch
 manufacturers: []

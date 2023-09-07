@@ -10,6 +10,8 @@
     "make_files": true,
     "short_name": "",
     "id": "electronic_pmic_sot_223_linear_1117_adj",
+    "id_no_class": "pmic_sot_223_linear_1117_adj",
+    "id_no_type": "sot_223_linear_1117_adj",
     "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_adj",
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working",
     "directory": "parts/electronic_pmic_sot_223_linear_1117_adj",

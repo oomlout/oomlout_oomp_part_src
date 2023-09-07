@@ -10,6 +10,8 @@ distributors:
     part_number: C146233
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working
 id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+id_no_class: ic_0603_sensor_light_everlight_elec_als_pt19
+id_no_type: 0603_sensor_light_everlight_elec_als_pt19
 manufacturer: everlight_elec
 manufacturers:
 -   id: manufacturer_everlight_elec

@@ -11,6 +11,8 @@
     "kicad_reference": "H",
     "notes": [],
     "id": "electronic_mounting_hole_m6",
+    "id_no_class": "mounting_hole_m6",
+    "id_no_type": "m6",
     "oomp_key": "oomp_electronic_mounting_hole_m6",
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working",
     "directory": "parts/electronic_mounting_hole_m6",

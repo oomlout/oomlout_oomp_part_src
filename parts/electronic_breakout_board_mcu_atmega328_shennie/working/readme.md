@@ -170,6 +170,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | kicad_reference | U | 
 | notes | [] | 
 | id | electronic_breakout_board_mcu_atmega328_shennie | 
+| id_no_class | breakout_board_mcu_atmega328_shennie | 
+| id_no_type | mcu_atmega328_shennie | 
 | oomp_key | oomp_electronic_breakout_board_mcu_atmega328_shennie | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working | 
 | directory | parts/electronic_breakout_board_mcu_atmega328_shennie | 

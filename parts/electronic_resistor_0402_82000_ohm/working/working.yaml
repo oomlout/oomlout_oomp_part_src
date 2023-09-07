@@ -16,6 +16,8 @@ filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82000_ohm/working
 id: electronic_resistor_0402_82000_ohm
+id_no_class: resistor_0402_82000_ohm
+id_no_type: 0402_82000_ohm
 kicad_reference: R
 manufacturer: ''
 manufacturers:

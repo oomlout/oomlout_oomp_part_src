@@ -10,6 +10,8 @@ footprint:
     oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt/working
 id: electronic_pmic_sot_223_linear_1117_1_8_volt
+id_no_class: pmic_sot_223_linear_1117_1_8_volt
+id_no_type: sot_223_linear_1117_1_8_volt
 manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_pmic_sot_223_linear_1117_1_8_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt/working)<br>[Electronic

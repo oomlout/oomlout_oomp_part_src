@@ -10,6 +10,8 @@ footprint:
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_31_pin_surface_mount_right_angle/working
 id: electronic_header_2d54_mm_31_pin_surface_mount_right_angle
+id_no_class: header_2d54_mm_31_pin_surface_mount_right_angle
+id_no_type: 2d54_mm_31_pin_surface_mount_right_angle
 kicad_reference: J
 manufacturer: ''
 manufacturers: []

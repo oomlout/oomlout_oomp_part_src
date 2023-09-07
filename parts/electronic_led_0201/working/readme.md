@@ -44,6 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | filter |  | 
 | kicad_reference | L | 
 | id | electronic_led_0201 | 
+| id_no_class | led_0201 | 
+| id_no_type | 0201 | 
 | oomp_key | oomp_electronic_led_0201 | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working | 
 | directory | parts/electronic_led_0201 | 

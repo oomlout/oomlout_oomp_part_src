@@ -18,6 +18,8 @@ footprint:
     oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
 id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id_no_class: ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id_no_type: tqfp_32_mcu_atmega328_microchip_atmega328p_au
 manufacturer: microchip
 manufacturers:
 -   id: manufacturer_microchip

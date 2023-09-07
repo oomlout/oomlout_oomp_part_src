@@ -72,6 +72,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_6_number | 6 | 
 | pins_pin_6_type | signal | 
 | id | electronic_socket_usb_micro_surface_mount | 
+| id_no_class | socket_usb_micro_surface_mount | 
+| id_no_type | usb_micro_surface_mount | 
 | oomp_key | oomp_electronic_socket_usb_micro_surface_mount | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working | 
 | directory | parts/electronic_socket_usb_micro_surface_mount | 

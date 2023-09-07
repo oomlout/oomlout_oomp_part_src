@@ -49,6 +49,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number | atmega328p_au | 
 | short_name | atmega328 32 pin tqfp | 
 | id | electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au | 
+| id_no_class | ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au | 
+| id_no_type | tqfp_32_mcu_atmega328_microchip_atmega328p_au | 
 | oomp_key | oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working | 
 | directory | parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au | 

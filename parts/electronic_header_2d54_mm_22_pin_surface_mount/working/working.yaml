@@ -13,6 +13,8 @@ footprint:
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working
 id: electronic_header_2d54_mm_22_pin_surface_mount
+id_no_class: header_2d54_mm_22_pin_surface_mount
+id_no_type: 2d54_mm_22_pin_surface_mount
 kicad_reference: J
 manufacturer: ''
 manufacturers: []

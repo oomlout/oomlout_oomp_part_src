@@ -51,6 +51,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_0805_12_ohm | 
+| id_no_class | resistor_0805_12_ohm | 
+| id_no_type | 0805_12_ohm | 
 | oomp_key | oomp_electronic_resistor_0805_12_ohm | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_12_ohm/working | 
 | directory | parts/electronic_resistor_0805_12_ohm | 

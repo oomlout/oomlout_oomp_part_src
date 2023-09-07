@@ -66,6 +66,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_5_number | 6 | 
 | pins_pin_5_type | signal | 
 | id | electronic_socket_usb_a_through_hole | 
+| id_no_class | socket_usb_a_through_hole | 
+| id_no_type | usb_a_through_hole | 
 | oomp_key | oomp_electronic_socket_usb_a_through_hole | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working | 
 | directory | parts/electronic_socket_usb_a_through_hole | 

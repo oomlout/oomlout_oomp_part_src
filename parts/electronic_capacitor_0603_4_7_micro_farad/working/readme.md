@@ -44,6 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | filter |  | 
 | kicad_reference | C | 
 | id | electronic_capacitor_0603_4_7_micro_farad | 
+| id_no_class | capacitor_0603_4_7_micro_farad | 
+| id_no_type | 0603_4_7_micro_farad | 
 | oomp_key | oomp_electronic_capacitor_0603_4_7_micro_farad | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working | 
 | directory | parts/electronic_capacitor_0603_4_7_micro_farad | 

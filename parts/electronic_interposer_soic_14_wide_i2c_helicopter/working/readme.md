@@ -100,6 +100,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | kicad_reference | U | 
 | notes | [] | 
 | id | electronic_interposer_soic_14_wide_i2c_helicopter | 
+| id_no_class | interposer_soic_14_wide_i2c_helicopter | 
+| id_no_type | soic_14_wide_i2c_helicopter | 
 | oomp_key | oomp_electronic_interposer_soic_14_wide_i2c_helicopter | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working | 
 | directory | parts/electronic_interposer_soic_14_wide_i2c_helicopter | 

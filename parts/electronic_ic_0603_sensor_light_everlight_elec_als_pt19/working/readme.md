@@ -48,6 +48,8 @@ List of Pins:
 | pins_pin_2_number | 2 | 
 | pins_pin_2_type | signal | 
 | id | electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
+| id_no_class | ic_0603_sensor_light_everlight_elec_als_pt19 | 
+| id_no_type | 0603_sensor_light_everlight_elec_als_pt19 | 
 | oomp_key | oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working | 
 | directory | parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 

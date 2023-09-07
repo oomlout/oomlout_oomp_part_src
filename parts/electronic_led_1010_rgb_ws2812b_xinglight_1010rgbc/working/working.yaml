@@ -12,6 +12,8 @@ footprint:
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working
 id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
+id_no_class: led_1010_rgb_ws2812b_xinglight_1010rgbc
+id_no_type: 1010_rgb_ws2812b_xinglight_1010rgbc
 kicad_reference: L
 manufacturer: xinglight
 manufacturers: []

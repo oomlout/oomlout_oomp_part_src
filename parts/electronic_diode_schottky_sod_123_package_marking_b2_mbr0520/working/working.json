@@ -12,6 +12,8 @@
     "filter": "",
     "kicad_reference": "D",
     "id": "electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
+    "id_no_class": "diode_schottky_sod_123_package_marking_b2_mbr0520",
+    "id_no_type": "sod_123_package_marking_b2_mbr0520",
     "oomp_key": "oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working",
     "directory": "parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520",

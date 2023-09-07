@@ -114,6 +114,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | kicad_reference | U | 
 | notes | [] | 
 | id | electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
+| id_no_class | ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
+| id_no_type | sop_16_converter_usb_to_serial_converter_wch_ch340c | 
 | oomp_key | oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working | 
 | directory | parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 

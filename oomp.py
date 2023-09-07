@@ -147,6 +147,13 @@ def add_part(**kwargs):
         
         #add id as a keyed item to kwargs
         kwargs["id"] = id
+        clas = kwargs.get("classification","none")
+        id_no_class = id.replace(f"{clas}_","")        
+        kwargs["id_no_class"] = id_no_class
+        typ = kwargs.get("type","none")
+        id_no_type = id_no_class.replace(f"{typ}_","")        
+        kwargs["id_no_type"] = id_no_type
+
         kwargs["oomp_key"] = f'oomp_{id}'
         kwargs["github_link"] = f"https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/{id}/working" 
         

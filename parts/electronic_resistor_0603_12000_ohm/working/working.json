@@ -12,6 +12,8 @@
     "filter": "",
     "kicad_reference": "R",
     "id": "electronic_resistor_0603_12000_ohm",
+    "id_no_class": "resistor_0603_12000_ohm",
+    "id_no_type": "0603_12000_ohm",
     "oomp_key": "oomp_electronic_resistor_0603_12000_ohm",
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_12000_ohm/working",
     "directory": "parts/electronic_resistor_0603_12000_ohm",

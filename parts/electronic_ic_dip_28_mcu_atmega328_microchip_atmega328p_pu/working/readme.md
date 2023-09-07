@@ -43,6 +43,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number | atmega328p_pu | 
 | short_name | atmega328 28 pin dip | 
 | id | electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu | 
+| id_no_class | ic_dip_28_mcu_atmega328_microchip_atmega328p_pu | 
+| id_no_type | dip_28_mcu_atmega328_microchip_atmega328p_pu | 
 | oomp_key | oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working | 
 | directory | parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu | 

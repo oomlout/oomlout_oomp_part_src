@@ -14,6 +14,8 @@ footprint:
     oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g/working
 id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+id_no_class: ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+id_no_type: sop_16_converter_usb_to_serial_converter_wch_ch340g
 kicad_reference: U
 manufacturer: wch
 manufacturers: []

@@ -47,6 +47,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name |  | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2845294', 'link': 'https://lcsc.com/product-detail/C2845294.html', 'id': 'distributor_lcsc'}] | 
 | id | electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 
+| id_no_class | button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 
+| id_no_type | 3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 
 | oomp_key | oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working | 
 | directory | parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 

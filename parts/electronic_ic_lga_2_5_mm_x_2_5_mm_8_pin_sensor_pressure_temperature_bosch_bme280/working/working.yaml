@@ -14,6 +14,8 @@ footprint:
     oomp_key: oomp_kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working
 id: electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+id_no_class: ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+id_no_type: lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
 manufacturer: bosch
 manufacturers:
 -   id: manufacturer_bosch

@@ -46,6 +46,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | filter |  | 
 | kicad_reference | R | 
 | id | electronic_resistor_0402_1200_ohm | 
+| id_no_class | resistor_0402_1200_ohm | 
+| id_no_type | 0402_1200_ohm | 
 | oomp_key | oomp_electronic_resistor_0402_1200_ohm | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm/working | 
 | directory | parts/electronic_resistor_0402_1200_ohm | 

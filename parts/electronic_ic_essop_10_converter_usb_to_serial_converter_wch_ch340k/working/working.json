@@ -64,6 +64,8 @@
     "kicad_reference": "U",
     "notes": [],
     "id": "electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k",
+    "id_no_class": "ic_essop_10_converter_usb_to_serial_converter_wch_ch340k",
+    "id_no_type": "essop_10_converter_usb_to_serial_converter_wch_ch340k",
     "oomp_key": "oomp_electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k",
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working",
     "directory": "parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k",
