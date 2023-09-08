@@ -28,11 +28,19 @@ def main():
         action_generate_pinouts.main()
     
     if not fast:
+        import action_generate_labels
+        print("Generating labelss")
+        action_generate_labels.main()
+    
+
+    if not fast:
         import action_generate_image_resolutions
         print("Generating image resolutions")
         action_generate_image_resolutions.main()
 
-    
+    import action_generate_csv
+    print("Generating csv")
+    action_generate_csv.main()
     
     import action_generate_readme
     print("Generating readme")
@@ -49,7 +57,7 @@ def main():
 
 
     comment = "added auto index generation"
-    oom_git.push_to_git(comment=comment)
+    #oom_git.push_to_git(comment=comment)
 
 if __name__ == "__main__":
     main()

@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC1206JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07820RL)'
 md5: 77f11f33c0f7c8ea605a799733290bf7
 md5_10: 77f11f33c0
+md5_10_upper: 77F11F33C0
 md5_5: 77f11
+md5_5_upper: 77F11
 md5_6: 77f11f
+md5_6_upper: 77F11F
 name: Electronic Resistor 1206 820 Ohm
 oomp_key: oomp_electronic_resistor_1206_820_ohm
 part_number: ''

@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_10000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0402JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0710KL)'
 md5: 809c3c0eebd9db9a8729102e6b3027c7
 md5_10: 809c3c0eeb
+md5_10_upper: 809C3C0EEB
 md5_5: 809c3
+md5_5_upper: 809C3
 md5_6: 809c3c
+md5_6_upper: 809C3C
 name: Electronic Resistor 0402 10000 Ohm
 oomp_key: oomp_electronic_resistor_0402_10000_ohm
 part_number: ''

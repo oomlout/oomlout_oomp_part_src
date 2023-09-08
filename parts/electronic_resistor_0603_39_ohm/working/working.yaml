@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_39_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0603JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0739RL)'
 md5: a487b1d10264fcca08552359a0019ee1
 md5_10: a487b1d102
+md5_10_upper: A487B1D102
 md5_5: a487b
+md5_5_upper: A487B
 md5_6: a487b1
+md5_6_upper: A487B1
 name: Electronic Resistor 0603 39 Ohm
 oomp_key: oomp_electronic_resistor_0603_39_ohm
 package_style: smd_tape

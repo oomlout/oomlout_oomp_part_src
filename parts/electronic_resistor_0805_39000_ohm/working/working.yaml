@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_39000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0805JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0739KL)'
 md5: 054758a25340131f9fbb8aff1aa2b7aa
 md5_10: 054758a253
+md5_10_upper: 054758A253
 md5_5: '05475'
+md5_5_upper: '05475'
 md5_6: 054758
+md5_6_upper: 054758
 name: Electronic Resistor 0805 39000 Ohm
 oomp_key: oomp_electronic_resistor_0805_39000_ohm
 part_number: ''

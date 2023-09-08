@@ -1,0 +1,213 @@
+parts_ordered_oomp:
+- csv_lcsc: C14877,ATMEGA328P-AU,Microchip Tech,,TQFP-32(7x7),32KB 2KB FLASH 23 1.8V~5.5V
+    AVR 20MHz TQFP-32(7x7)  Microcontroller Units (MCUs/MPUs/SOCs) ROHS,YES,1,1\1,2.431000,2.43
+  index: '1'
+  oomp_id: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+  part_number_distributor: C14877
+  price_paid: $2.43
+  quantity: '1'
+- csv_lcsc: C347223,AMS1117-5.0,"UMW(Youtai Semiconductor Co., Ltd.)",,SOT-223,1A
+    60dB@(120Hz) Fixed 5V Positive 18V SOT-223  Linear Voltage Regulators (LDO) ROHS,YES,30,10\10,0.039400,1.18
+  index: '2'
+  oomp_id: oomp_electronic_pmic_sot_223_linear_1117_5_volt
+  part_number_distributor: C347223
+  price_paid: $0.0394
+  quantity: '30'
+- csv_lcsc: C14267,CH340G,WCH(Jiangsu Qin Heng),,SOP-16,2Mbps Transceiver USB 2.0
+    SOP-16  USB ICs ROHS,YES,5,1\1,0.480500,2.40
+  index: '3'
+  oomp_id: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+  part_number_distributor: C14267
+  price_paid: $0.48
+  quantity: '5'
+- csv_lcsc: C7464026,CH340C,WCH(Jiangsu Qin Heng),,SOP-16," SOP-16  USB ICs ROHS",YES,5,1\1,0.547300,2.74
+  index: '4'
+  oomp_id: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  part_number_distributor: C7464026
+  price_paid: $0.54
+  quantity: '5'
+- csv_lcsc: "C14663,CC0603KRX7R9BB104,YAGEO,,0603,50V 100nF X7R \xC2\xB110% 0603 \
+    \ Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,4000,100\\100,0.001500,6.00\n"
+  index: '5'
+  oomp_id: oomp_electronic_socket_usb_mini_surface_mount_only
+  part_number_distributor: C14663
+  price_paid: $0.12
+  quantity: '5'
+- csv_lcsc: "C965799,XL-1608SURC-06,XINGLIGHT,,0603,Colorless transparence -30\xE2\
+    \u201E\u0192~+85\xE2\u201E\u0192 Positive post 617nm~621nm Red 120\xC2\xB0 55mW\
+    \ 0603  Light Emitting Diodes (LED) ROHS,YES,4000,100\\100,0.001800,7.20"
+  index: '6'
+  oomp_id: oomp_electronic_led_0603_red
+  part_number_distributor: C965799
+  price_paid: $0.0018
+  quantity: '4000'
+- csv_lcsc: "C965807,XL-1608UBC-04,XINGLIGHT,,0603,Colorless transparence -30\xE2\u201E\
+    \u0192~+85\xE2\u201E\u0192 Positive post 460nm~469nm blue 120\xC2\xB0 80mW 0603\
+    \  Light Emitting Diodes (LED) ROHS,YES,100,100\\100,0.003700,0.37"
+  index: '7'
+  oomp_id: oomp_electronic_led_0603_blue
+  part_number_distributor: C965807
+  price_paid: $0.0037
+  quantity: '100'
+- csv_lcsc: "C965802,XL-1608UYC-06,XINGLIGHT,,0603,Colorless transparence -30\xE2\u201E\
+    \u0192~+85\xE2\u201E\u0192 589nm~591nm Positive post yellow 120\xC2\xB0 55mW 0603\
+    \  Light Emitting Diodes (LED) ROHS,YES,100,100\\100,0.005500,0.55"
+  index: '8'
+  oomp_id: oomp_electronic_led_0603_green
+  part_number_distributor: C965804
+  price_paid: $0.004
+  quantity: '100'
+- csv_lcsc: "C965804,XL-1608UGC-04,XINGLIGHT,,0603,Colorless transparence 516nm~525nm\
+    \ -30\xE2\u201E\u0192~+85\xE2\u201E\u0192 Positive post Emerald 120\xC2\xB0 80mW\
+    \ 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\\100,0.004000,0.40"
+  index: '9'
+  oomp_id: oomp_electronic_led_0603_yellow
+  part_number_distributor: C965802
+  price_paid: $0.0047
+  quantity: '100'
+- csv_lcsc: "C22548,RC0603FR-071KL,YAGEO,,0603,100mW Thick Film Resistors \xC2\xB1\
+    100ppm/\xE2\u201E\u0192 \xC2\xB11% 1k\xCE\xA9 0603  Chip Resistor - Surface Mount\
+    \ ROHS,YES,5000,100\\100,0.000600,3.00"
+  index: '10'
+  oomp_id: oomp_electronic_resistor_0603_1000_ohm
+  part_number_distributor: C21190
+  price_paid: $0.0006
+  quantity: '5000'
+- csv_lcsc: "C98220,RC0603FR-0710KL,YAGEO,,0603,100mW Thick Film Resistors \xC2\xB1\
+    100ppm/\xE2\u201E\u0192 \xC2\xB11% 10k\xCE\xA9 0603  Chip Resistor - Surface Mount\
+    \ ROHS,YES,5000,100\\100,0.000700,3.50"
+  index: '11'
+  oomp_id: oomp_electronic_resistor_0603_10000_ohm
+  part_number_distributor: C98220
+  price_paid: $0.0007
+  quantity: '5000'
+- csv_lcsc: C2845294,TC-3601L-2.5-260G,HCTL,,SMD,No NO 50mA 100000 Times 260gf 12V
+    Brick nogging SPST SMD  Tactile Switches ROHS,YES,200,20\20,0.019200,3.84
+  index: '12'
+  oomp_id: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+  part_number_distributor: C2845294
+  price_paid: $0.0192
+  quantity: '200'
+- csv_lcsc: "C882605,CSTNE16M0VH3C000R0,Murata Electronics,,SMD3213-3P,16MHz \xC2\xB1\
+    0.07% 15pF 40\xCE\xA9 SMD3213-3P  Ceramic Resonators ROHS,YES,5,5\\5,0.361600,1.81\n"
+  index: '13'
+  oomp_id: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+  part_number_distributor: C882605
+  price_paid: $0.3616
+  quantity: '5'
+- csv_lcsc: "C341520,CSTNE12M0G550000R0,Murata Electronics,,SMD3213-3P,12MHz \xC2\xB1\
+    0.5% 33pF 30\xCE\xA9 SMD3213-3P  Ceramic Resonators ROHS,YES,5,5\\5,0.217100,1.09\n"
+  index: '14'
+  oomp_id: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+  part_number_distributor: C341520
+  price_paid: $0.2171
+  quantity: '5'
+- csv_lcsc: 'C77335,MBR0520,"Jiangsu Changjing Electronics Technology Co., Ltd.",,SOD-123,20V
+    450mV@500mA 500mA SOD-123  Schottky Barrier Diodes (SBD) ROHS,YES,100,20\20,0.032200,3.22
+
+    '
+  index: '15'
+  oomp_id: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+  part_number_distributor: C77335
+  price_paid: $0.0322
+  quantity: '100'
+- csv_lcsc: "C7187,TAJA475K016RNJ,Kyocera AVX,,CASE-A-3216,4.7uF 16V 4\xCE\xA9@100kHz\
+    \ \xC2\xB110% CASE-A-3216  Tantalum Capacitors ROHS,YES,50,5\\5,0.078100,3.91\n"
+  index: '16'
+  oomp_id: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+  part_number_distributor: C7187
+  price_paid: $0.0781
+  quantity: '50'
+- csv_lcsc: "C14663,CC0603KRX7R9BB104,YAGEO,,0603,50V 100nF X7R \xC2\xB110% 0603 \
+    \ Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,4000,100\\100,0.001500,6.00\n\
+    \n"
+  index: '17'
+  oomp_id: oomp_electronic_capacitor_0603_100_nano_farad
+  part_number_distributor: C14663
+  price_paid: $0.0015
+  quantity: '4000'
+parts_ordered_oomp_markdown: "| index | oomp_id | quantity | part_number_distributor\
+  \ | price_paid | csv_lcsc | \n| --- | --- | --- | --- | --- | --- | \n| 1 | [electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)<br>[LCSC\
+  \ - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip\
+  \ - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)[Microchip\
+  \ - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR) | 1\
+  \ | C14877 | $2.43 | C14877,ATMEGA328P-AU,Microchip Tech,,TQFP-32(7x7),32KB 2KB\
+  \ FLASH 23 1.8V~5.5V AVR 20MHz TQFP-32(7x7)  Microcontroller Units (MCUs/MPUs/SOCs)\
+  \ ROHS,YES,1,1\\1,2.431000,2.43 | \n| 2 | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC\
+  \ - C347223<br>](https://lcsc.com/product-detail/C347223.html)[LCSC - C6187<br>](https://lcsc.com/product-detail/C6187.html)<br>[UMW(Youtai\
+  \ Semiconductor Co., Ltd.) - AMS1117-5.0]() | 30 | C347223 | $0.0394 | C347223,AMS1117-5.0,\"\
+  UMW(Youtai Semiconductor Co., Ltd.)\",,SOT-223,1A 60dB@(120Hz) Fixed 5V Positive\
+  \ 18V SOT-223  Linear Voltage Regulators (LDO) ROHS,YES,30,10\\10,0.039400,1.18\
+  \ | \n| 3 | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g/working)<br>[LCSC\
+  \ - C14267<br>](https://lcsc.com/product-detail/C14267.html)<br> | 5 | C14267 |\
+  \ $0.48 | C14267,CH340G,WCH(Jiangsu Qin Heng),,SOP-16,2Mbps Transceiver USB 2.0\
+  \ SOP-16  USB ICs ROHS,YES,5,1\\1,0.480500,2.40 | \n| 4 | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[LCSC\
+  \ - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> | 5 | C7464026\
+  \ | $0.54 | C7464026,CH340C,WCH(Jiangsu Qin Heng),,SOP-16,\" SOP-16  USB ICs ROHS\"\
+  ,YES,5,1\\1,0.547300,2.74 | \n| 5 | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC\
+  \ - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts\
+  \ Elec - U-M-M5SS-W-2]() | 5 | C14663 | $0.12 | C14663,CC0603KRX7R9BB104,YAGEO,,0603,50V\
+  \ 100nF X7R \xC2\xB110% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,4000,100\\\
+  100,0.001500,6.00\n | \n| 6 | [electronic_led_0603_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_red/working)<br>[LCSC\
+  \ - C965799<br>](https://lcsc.com/product-detail/C965799.html)<br>[XINGLIGHT - XL-1608SURC-06]()\
+  \ | 4000 | C965799 | $0.0018 | C965799,XL-1608SURC-06,XINGLIGHT,,0603,Colorless\
+  \ transparence -30\xE2\u201E\u0192~+85\xE2\u201E\u0192 Positive post 617nm~621nm\
+  \ Red 120\xC2\xB0 55mW 0603  Light Emitting Diodes (LED) ROHS,YES,4000,100\\100,0.001800,7.20\
+  \ | \n| 7 | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[LCSC\
+  \ - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04]()\
+  \ | 100 | C965807 | $0.0037 | C965807,XL-1608UBC-04,XINGLIGHT,,0603,Colorless transparence\
+  \ -30\xE2\u201E\u0192~+85\xE2\u201E\u0192 Positive post 460nm~469nm blue 120\xC2\
+  \xB0 80mW 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\\100,0.003700,0.37\
+  \ | \n| 8 | [electronic_led_0603_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[LCSC\
+  \ - C965804<br>](https://lcsc.com/product-detail/C965804.html)<br>[XINGLIGHT - XL-1608UGC-04]()\
+  \ | 100 | C965804 | $0.004 | C965802,XL-1608UYC-06,XINGLIGHT,,0603,Colorless transparence\
+  \ -30\xE2\u201E\u0192~+85\xE2\u201E\u0192 589nm~591nm Positive post yellow 120\xC2\
+  \xB0 55mW 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\\100,0.005500,0.55\
+  \ | \n| 9 | [electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC\
+  \ - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()\
+  \ | 100 | C965802 | $0.0047 | C965804,XL-1608UGC-04,XINGLIGHT,,0603,Colorless transparence\
+  \ 516nm~525nm -30\xE2\u201E\u0192~+85\xE2\u201E\u0192 Positive post Emerald 120\xC2\
+  \xB0 80mW 0603  Light Emitting Diodes (LED) ROHS,YES,100,100\\100,0.004000,0.40\
+  \ | \n| 10 | [electronic_resistor_0603_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_1000_ohm/working)<br>[LCSC\
+  \ - C21190<br>](https://lcsc.com/product-detail/C21190.html)[LCSC - C22548<br>](https://lcsc.com/product-detail/C22548.html)[LCSC\
+  \ - C25585<br>](https://lcsc.com/product-detail/C25585.html)[LCSC - C14676<br>](https://lcsc.com/product-detail/C14676.html)<br>[Uniroyal\
+  \ - 0603WAJ0102T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1001T5E- jlc basic\
+  \ part]()[Yageo - RC0603JR-071KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-071KL)\
+  \ | 5000 | C21190 | $0.0006 | C22548,RC0603FR-071KL,YAGEO,,0603,100mW Thick Film\
+  \ Resistors \xC2\xB1100ppm/\xE2\u201E\u0192 \xC2\xB11% 1k\xCE\xA9 0603  Chip Resistor\
+  \ - Surface Mount ROHS,YES,5000,100\\100,0.000600,3.00 | \n| 11 | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC\
+  \ - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC\
+  \ - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal\
+  \ - 0603WAJ0103T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic\
+  \ part]()[Yageo - RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL)\
+  \ | 5000 | C98220 | $0.0007 | C98220,RC0603FR-0710KL,YAGEO,,0603,100mW Thick Film\
+  \ Resistors \xC2\xB1100ppm/\xE2\u201E\u0192 \xC2\xB11% 10k\xCE\xA9 0603  Chip Resistor\
+  \ - Surface Mount ROHS,YES,5000,100\\100,0.000700,3.50 | \n| 12 | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC\
+  \ - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> | 200 | C2845294\
+  \ | $0.0192 | C2845294,TC-3601L-2.5-260G,HCTL,,SMD,No NO 50mA 100000 Times 260gf\
+  \ 12V Brick nogging SPST SMD  Tactile Switches ROHS,YES,200,20\\20,0.019200,3.84\
+  \ | \n| 13 | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[LCSC\
+  \ - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0)\
+  \ | 5 | C882605 | $0.3616 | C882605,CSTNE16M0VH3C000R0,Murata Electronics,,SMD3213-3P,16MHz\
+  \ \xC2\xB10.07% 15pF 40\xCE\xA9 SMD3213-3P  Ceramic Resonators ROHS,YES,5,5\\5,0.361600,1.81\n\
+  \ | \n| 14 | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz/working)<br>[LCSC\
+  \ - C341520<br>](https://lcsc.com/product-detail/C341520.html)<br>[Murata - CSTNE12M0G550000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE12M0G550000R0)\
+  \ | 5 | C341520 | $0.2171 | C341520,CSTNE12M0G550000R0,Murata Electronics,,SMD3213-3P,12MHz\
+  \ \xC2\xB10.5% 33pF 30\xCE\xA9 SMD3213-3P  Ceramic Resonators ROHS,YES,5,5\\5,0.217100,1.09\n\
+  \ | \n| 15 | [electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working)<br>[LCSC\
+  \ - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)[LCSC\
+  \ - C165467<br>](https://lcsc.com/product-detail/C165467.html)<br>[Jiangsu Changjing\
+  \ Electronics Technology Co., Ltd. - MBR0520]()[Shikues - MBR0520]()[onsemi - MBR0520LT3G]()\
+  \ | 100 | C77335 | $0.0322 | C77335,MBR0520,\"Jiangsu Changjing Electronics Technology\
+  \ Co., Ltd.\",,SOD-123,20V 450mV@500mA 500mA SOD-123  Schottky Barrier Diodes (SBD)\
+  \ ROHS,YES,100,20\\20,0.032200,3.22\n | \n| 16 | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[LCSC\
+  \ - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ)\
+  \ | 50 | C7187 | $0.0781 | C7187,TAJA475K016RNJ,Kyocera AVX,,CASE-A-3216,4.7uF 16V\
+  \ 4\xCE\xA9@100kHz \xC2\xB110% CASE-A-3216  Tantalum Capacitors ROHS,YES,50,5\\\
+  5,0.078100,3.91\n | \n| 17 | [electronic_capacitor_0603_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working)<br>[LCSC\
+  \ - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)[LCSC\
+  \ - C1591<br>](https://lcsc.com/product-detail/C1591.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do)[Yageo\
+  \ - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104)\
+  \ | 4000 | C14663 | $0.0015 | C14663,CC0603KRX7R9BB104,YAGEO,,0603,50V 100nF X7R\
+  \ \xC2\xB110% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,4000,100\\\
+  100,0.001500,6.00\n\n | \n"

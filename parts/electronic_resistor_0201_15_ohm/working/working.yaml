@@ -28,8 +28,11 @@ markdown_short: '[electronic_resistor_0201_15_ohm](https://github.com/oomlout/oo
     - NQ01WMJ0150TEE- not in jlc basic parts]()'
 md5: e705cf7eb744a8901eaa82a07577c10e
 md5_10: e705cf7eb7
+md5_10_upper: E705CF7EB7
 md5_5: e705c
+md5_5_upper: E705C
 md5_6: e705cf
+md5_6_upper: E705CF
 name: Electronic Resistor 0201 15 Ohm
 oomp_key: oomp_electronic_resistor_0201_15_ohm
 part_number: ''

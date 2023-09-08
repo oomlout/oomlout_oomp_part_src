@@ -33,8 +33,11 @@ markdown_short: '[electronic_led_0603_red](https://github.com/oomlout/oomlout_oo
     - C965799<br>](https://lcsc.com/product-detail/C965799.html)<br>[XINGLIGHT - XL-1608SURC-06]()'
 md5: 255611ec8565e66dea88d4fba9421c6d
 md5_10: 255611ec85
+md5_10_upper: 255611EC85
 md5_5: '25561'
+md5_5_upper: '25561'
 md5_6: '255611'
+md5_6_upper: '255611'
 name: Electronic Led 0603 Red
 oomp_key: oomp_electronic_led_0603_red
 package_style: smd_tape

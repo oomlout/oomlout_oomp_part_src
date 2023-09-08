@@ -20,6 +20,8 @@ parts_md5_10 = {}
 parts_short_code = {}
 
 
+
+
 names_of_main_elements = ["classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number"]
 
 
@@ -188,11 +190,14 @@ def add_part(**kwargs):
         kwargs["md5"] = hashlib.md5(id.encode()).hexdigest()
         #trim md5 to 6 and add it as md5_6
         kwargs["md5_5"] = kwargs["md5"][0:5]
+        kwargs["md5_5_upper"] = kwargs["md5"][0:5].upper()
         #add to md5_5 dict
         parts_md5_5[kwargs["md5_5"]] = id
         kwargs["md5_6"] = kwargs["md5"][0:6]    
+        kwargs["md5_6_upper"] = kwargs["md5_6"].upper()
         parts_md5_6[kwargs["md5_6"]] = id
         kwargs["md5_10"] = kwargs["md5"][0:10]
+        kwargs["md5_10_upper"] = kwargs["md5_10"].upper()
         parts_md5_10[kwargs["md5_10"]] = id
         
 

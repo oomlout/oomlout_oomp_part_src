@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_4700_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0603JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-074K7L)'
 md5: 778076e905b7338186dcc4c3b8b6d0e2
 md5_10: 778076e905
+md5_10_upper: 778076E905
 md5_5: '77807'
+md5_5_upper: '77807'
 md5_6: '778076'
+md5_6_upper: '778076'
 name: Electronic Resistor 0603 4700 Ohm
 oomp_key: oomp_electronic_resistor_0603_4700_ohm
 package_style: smd_tape

@@ -20,8 +20,11 @@ markdown_full: '[electronic_header_1d27_mm_3_pin](https://github.com/oomlout/oom
 markdown_short: '[electronic_header_1d27_mm_3_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_3_pin/working)<br><br>'
 md5: 173b65fe15927ed18b1237a238ba99f4
 md5_10: 173b65fe15
+md5_10_upper: 173B65FE15
 md5_5: 173b6
+md5_5_upper: 173B6
 md5_6: 173b65
+md5_6_upper: 173B65
 name: Electronic Header 1D27 Mm 3 Pin
 oomp_key: oomp_electronic_header_1d27_mm_3_pin
 part_number: ''

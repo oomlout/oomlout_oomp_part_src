@@ -41,8 +41,11 @@ markdown_short: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](h
     - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR)'
 md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
 md5_10: 16166fb725
+md5_10_upper: 16166FB725
 md5_5: '16166'
+md5_5_upper: '16166'
 md5_6: 16166f
+md5_6_upper: 16166F
 name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
 oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 package_style: tray

@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_68000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0402JR-0768KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768KL)'
 md5: f0c1d5ea423fd2a0884cb88ff19c2e56
 md5_10: f0c1d5ea42
+md5_10_upper: F0C1D5EA42
 md5_5: f0c1d
+md5_5_upper: F0C1D
 md5_6: f0c1d5
+md5_6_upper: F0C1D5
 name: Electronic Resistor 0402 68000 Ohm
 oomp_key: oomp_electronic_resistor_0402_68000_ohm
 part_number: ''

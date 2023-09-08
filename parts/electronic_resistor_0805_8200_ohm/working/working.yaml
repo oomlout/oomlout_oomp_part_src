@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_8200_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0805JR-078K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-078K2L)'
 md5: 842e0ecc56de39b394dec22797d1f521
 md5_10: 842e0ecc56
+md5_10_upper: 842E0ECC56
 md5_5: 842e0
+md5_5_upper: 842E0
 md5_6: 842e0e
+md5_6_upper: 842E0E
 name: Electronic Resistor 0805 8200 Ohm
 oomp_key: oomp_electronic_resistor_0805_8200_ohm
 part_number: ''

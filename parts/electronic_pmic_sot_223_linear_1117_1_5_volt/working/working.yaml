@@ -19,8 +19,11 @@ markdown_full: '[electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.co
 markdown_short: '[electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br>'
 md5: 6dc5a408f889c1eeeef36d9b6bef6012
 md5_10: 6dc5a408f8
+md5_10_upper: 6DC5A408F8
 md5_5: 6dc5a
+md5_5_upper: 6DC5A
 md5_6: 6dc5a4
+md5_6_upper: 6DC5A4
 name: Electronic Pmic Sot 223 Linear 1117 1 5 Volt
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_5_volt
 package_style: smd_tape

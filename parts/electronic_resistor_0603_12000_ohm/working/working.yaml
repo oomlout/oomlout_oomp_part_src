@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_12000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0603JR-0712KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0712KL)'
 md5: f4743d64d64d1052565128f801a40012
 md5_10: f4743d64d6
+md5_10_upper: F4743D64D6
 md5_5: f4743
+md5_5_upper: F4743
 md5_6: f4743d
+md5_6_upper: F4743D
 name: Electronic Resistor 0603 12000 Ohm
 oomp_key: oomp_electronic_resistor_0603_12000_ohm
 package_style: smd_tape

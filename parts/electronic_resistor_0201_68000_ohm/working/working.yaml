@@ -28,8 +28,11 @@ markdown_short: '[electronic_resistor_0201_68000_ohm](https://github.com/oomlout
     - NQ01WMJ0683TEE- not in jlc basic parts]()'
 md5: 6550d3e8d3554dbcdb8206f6baa17777
 md5_10: 6550d3e8d3
+md5_10_upper: 6550D3E8D3
 md5_5: 6550d
+md5_5_upper: 6550D
 md5_6: 6550d3
+md5_6_upper: 6550D3
 name: Electronic Resistor 0201 68000 Ohm
 oomp_key: oomp_electronic_resistor_0201_68000_ohm
 part_number: ''

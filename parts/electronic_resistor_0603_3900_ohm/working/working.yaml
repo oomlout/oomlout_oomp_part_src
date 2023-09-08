@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_3900_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0603JR-073K9L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-073K9L)'
 md5: 5dfedec8d4f34f6f9a501eff45db9706
 md5_10: 5dfedec8d4
+md5_10_upper: 5DFEDEC8D4
 md5_5: 5dfed
+md5_5_upper: 5DFED
 md5_6: 5dfede
+md5_6_upper: 5DFEDE
 name: Electronic Resistor 0603 3900 Ohm
 oomp_key: oomp_electronic_resistor_0603_3900_ohm
 package_style: smd_tape

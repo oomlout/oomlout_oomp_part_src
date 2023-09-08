@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_270_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC0805JR-07270RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07270RL)'
 md5: f5c2b8589a3fd009e07dda1161ecb8c4
 md5_10: f5c2b8589a
+md5_10_upper: F5C2B8589A
 md5_5: f5c2b
+md5_5_upper: F5C2B
 md5_6: f5c2b8
+md5_6_upper: F5C2B8
 name: Electronic Resistor 0805 270 Ohm
 oomp_key: oomp_electronic_resistor_0805_270_ohm
 part_number: ''

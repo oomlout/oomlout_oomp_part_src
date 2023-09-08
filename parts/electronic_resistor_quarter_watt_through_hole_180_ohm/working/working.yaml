@@ -22,8 +22,11 @@ markdown_full: '[electronic_resistor_quarter_watt_through_hole_180_ohm](https://
 markdown_short: '[electronic_resistor_quarter_watt_through_hole_180_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_180_ohm/working)<br><br>'
 md5: 59af46ec7f66277fa45469ffd37ba989
 md5_10: 59af46ec7f
+md5_10_upper: 59AF46EC7F
 md5_5: 59af4
+md5_5_upper: 59AF4
 md5_6: 59af46
+md5_6_upper: 59AF46
 name: Electronic Resistor Quarter Watt Through Hole 180 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_180_ohm
 part_number: ''

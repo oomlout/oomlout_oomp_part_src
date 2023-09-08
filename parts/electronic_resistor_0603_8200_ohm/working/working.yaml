@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_8200_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0603JR-078K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-078K2L)'
 md5: a922b947dccc0108e3a430583ba2666b
 md5_10: a922b947dc
+md5_10_upper: A922B947DC
 md5_5: a922b
+md5_5_upper: A922B
 md5_6: a922b9
+md5_6_upper: A922B9
 name: Electronic Resistor 0603 8200 Ohm
 oomp_key: oomp_electronic_resistor_0603_8200_ohm
 package_style: smd_tape

@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_47_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0805JR-0747RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747RL)'
 md5: 92b1552cd0ac15f6b87328b902d8696b
 md5_10: 92b1552cd0
+md5_10_upper: 92B1552CD0
 md5_5: 92b15
+md5_5_upper: 92B15
 md5_6: 92b155
+md5_6_upper: 92B155
 name: Electronic Resistor 0805 47 Ohm
 oomp_key: oomp_electronic_resistor_0805_47_ohm
 part_number: ''

@@ -33,8 +33,11 @@ markdown_short: '[electronic_capacitor_0603_10_nano_farad](https://github.com/oo
     - C100042<br>](https://lcsc.com/product-detail/C100042.html)<br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)'
 md5: 33c290430a925ac7c87bd31db1d1a8b7
 md5_10: 33c290430a
+md5_10_upper: 33C290430A
 md5_5: 33c29
+md5_5_upper: 33C29
 md5_6: 33c290
+md5_6_upper: 33C290
 name: Electronic Capacitor 0603 10 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
 package_style: smd_tape

@@ -33,8 +33,11 @@ markdown_short: '[electronic_led_0603_white](https://github.com/oomlout/oomlout_
     - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]()'
 md5: 38354b7df7b71e990bfa750bcdf943fd
 md5_10: 38354b7df7
+md5_10_upper: 38354B7DF7
 md5_5: '38354'
+md5_5_upper: '38354'
 md5_6: 38354b
+md5_6_upper: 38354B
 name: Electronic Led 0603 White
 oomp_key: oomp_electronic_led_0603_white
 package_style: smd_tape

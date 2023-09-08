@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_10_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0603JR-0710RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710RL)'
 md5: 51a509beb2e30d40643cbbd2fcd6b2bc
 md5_10: 51a509beb2
+md5_10_upper: 51A509BEB2
 md5_5: 51a50
+md5_5_upper: 51A50
 md5_6: 51a509
+md5_6_upper: 51A509
 name: Electronic Resistor 0603 10 Ohm
 oomp_key: oomp_electronic_resistor_0603_10_ohm
 package_style: smd_tape

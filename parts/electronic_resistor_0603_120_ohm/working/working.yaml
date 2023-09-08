@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_120_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC0603JR-07120RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07120RL)'
 md5: 82582879835ed17e8220b08da98d776b
 md5_10: '8258287983'
+md5_10_upper: '8258287983'
 md5_5: '82582'
+md5_5_upper: '82582'
 md5_6: '825828'
+md5_6_upper: '825828'
 name: Electronic Resistor 0603 120 Ohm
 oomp_key: oomp_electronic_resistor_0603_120_ohm
 package_style: smd_tape

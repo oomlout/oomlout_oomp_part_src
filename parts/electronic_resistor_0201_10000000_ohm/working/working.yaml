@@ -18,8 +18,11 @@ markdown_full: '[electronic_resistor_0201_10000000_ohm](https://github.com/oomlo
 markdown_short: '[electronic_resistor_0201_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_10000000_ohm/working)<br><br>'
 md5: eb63616d41950f699727591bbd4cb3c5
 md5_10: eb63616d41
+md5_10_upper: EB63616D41
 md5_5: eb636
+md5_5_upper: EB636
 md5_6: eb6361
+md5_6_upper: EB6361
 name: Electronic Resistor 0201 10000000 Ohm
 oomp_key: oomp_electronic_resistor_0201_10000000_ohm
 part_number: ''

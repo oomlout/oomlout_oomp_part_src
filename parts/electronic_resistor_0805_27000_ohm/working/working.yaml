@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_27000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0805JR-0727KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0727KL)'
 md5: ee6333676e00dc2ea8b51fbee04ad578
 md5_10: ee6333676e
+md5_10_upper: EE6333676E
 md5_5: ee633
+md5_5_upper: EE633
 md5_6: ee6333
+md5_6_upper: EE6333
 name: Electronic Resistor 0805 27000 Ohm
 oomp_key: oomp_electronic_resistor_0805_27000_ohm
 part_number: ''

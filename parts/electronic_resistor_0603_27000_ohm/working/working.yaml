@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_27000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0603JR-0727KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0727KL)'
 md5: 385d5933f6035f21b574b7b3cbd9bbcd
 md5_10: 385d5933f6
+md5_10_upper: 385D5933F6
 md5_5: 385d5
+md5_5_upper: 385D5
 md5_6: 385d59
+md5_6_upper: 385D59
 name: Electronic Resistor 0603 27000 Ohm
 oomp_key: oomp_electronic_resistor_0603_27000_ohm
 package_style: smd_tape

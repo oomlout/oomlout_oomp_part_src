@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_12_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0603JR-0712RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0712RL)'
 md5: 1559b840fa49ec0552d6dc48b9015f46
 md5_10: 1559b840fa
+md5_10_upper: 1559B840FA
 md5_5: 1559b
+md5_5_upper: 1559B
 md5_6: 1559b8
+md5_6_upper: 1559B8
 name: Electronic Resistor 0603 12 Ohm
 oomp_key: oomp_electronic_resistor_0603_12_ohm
 package_style: smd_tape

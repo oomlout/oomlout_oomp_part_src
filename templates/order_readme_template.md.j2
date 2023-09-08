@@ -1,0 +1,22 @@
+# {{ p.oomp_id }}
+{{ p.description }} 
+
+## note
+{% for note in p.note %}* {{ note }}  
+{% endfor %}
+## summary 
+* link_order: {{ p.link_order }}
+* directory: {{ p.directory }}  
+* link_github: {{ p.link_github }}  
+* distributor_name: {{ p.distributor_name }}  
+* distributor_code: {{ p.distributor_code }}  
+* date: {{ p.date }}  
+## source
+{% for source in p.source %}* {{ source }}  
+{% endfor %}
+## costs  
+* cost_parts: {{ p.cost_parts }}
+* cost_shipping: {{ p.cost_shipping }}
+* cost_total: {{ p.cost_total }}
+## parts 
+{{ p.parts_ordered_oomp_markdown }}

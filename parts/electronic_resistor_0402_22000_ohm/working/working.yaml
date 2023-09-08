@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_22000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0402JR-0722KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL)'
 md5: 74ff819e3dbb5c9d5b36eac9b1607055
 md5_10: 74ff819e3d
+md5_10_upper: 74FF819E3D
 md5_5: 74ff8
+md5_5_upper: 74FF8
 md5_6: 74ff81
+md5_6_upper: 74FF81
 name: Electronic Resistor 0402 22000 Ohm
 oomp_key: oomp_electronic_resistor_0402_22000_ohm
 part_number: ''

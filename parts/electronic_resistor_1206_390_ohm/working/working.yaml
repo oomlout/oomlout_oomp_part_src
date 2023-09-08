@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_390_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC1206JR-07390RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07390RL)'
 md5: 3892165c27d3ba9285829f8446ef4594
 md5_10: 3892165c27
+md5_10_upper: 3892165C27
 md5_5: '38921'
+md5_5_upper: '38921'
 md5_6: '389216'
+md5_6_upper: '389216'
 name: Electronic Resistor 1206 390 Ohm
 oomp_key: oomp_electronic_resistor_1206_390_ohm
 part_number: ''

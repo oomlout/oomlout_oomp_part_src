@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_5600_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0402JR-075K6L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-075K6L)'
 md5: 8b307b2f986c4efca7666f0676203e4a
 md5_10: 8b307b2f98
+md5_10_upper: 8B307B2F98
 md5_5: 8b307
+md5_5_upper: 8B307
 md5_6: 8b307b
+md5_6_upper: 8B307B
 name: Electronic Resistor 0402 5600 Ohm
 oomp_key: oomp_electronic_resistor_0402_5600_ohm
 part_number: ''

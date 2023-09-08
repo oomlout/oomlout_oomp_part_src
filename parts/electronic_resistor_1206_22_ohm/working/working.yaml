@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_22_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC1206JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0722RL)'
 md5: 95c0a23c931e464dad4c1883518628d8
 md5_10: 95c0a23c93
+md5_10_upper: 95C0A23C93
 md5_5: 95c0a
+md5_5_upper: 95C0A
 md5_6: 95c0a2
+md5_6_upper: 95C0A2
 name: Electronic Resistor 1206 22 Ohm
 oomp_key: oomp_electronic_resistor_1206_22_ohm
 part_number: ''

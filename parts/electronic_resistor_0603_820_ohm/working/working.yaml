@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_820_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC0603JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07820RL)'
 md5: 872386c8c2d0cbe6d86ef71cae501d24
 md5_10: 872386c8c2
+md5_10_upper: 872386C8C2
 md5_5: '87238'
+md5_5_upper: '87238'
 md5_6: '872386'
+md5_6_upper: '872386'
 name: Electronic Resistor 0603 820 Ohm
 oomp_key: oomp_electronic_resistor_0603_820_ohm
 package_style: smd_tape

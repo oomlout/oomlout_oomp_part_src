@@ -23,8 +23,11 @@ markdown_full: '[electronic_header_2d54_mm_15_pin_surface_mount](https://github.
 markdown_short: '[electronic_header_2d54_mm_15_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_15_pin_surface_mount/working)<br><br>'
 md5: 0b02ac6d0eb7847fd4235dd8be00e834
 md5_10: 0b02ac6d0e
+md5_10_upper: 0B02AC6D0E
 md5_5: 0b02a
+md5_5_upper: 0B02A
 md5_6: 0b02ac
+md5_6_upper: 0B02AC
 name: Electronic Header 2D54 Mm 15 Pin Surface Mount
 oomp_key: oomp_electronic_header_2d54_mm_15_pin_surface_mount
 part_number: ''

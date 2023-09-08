@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_22_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0805JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0722RL)'
 md5: c33a61c68af64528846264e1c3e8f986
 md5_10: c33a61c68a
+md5_10_upper: C33A61C68A
 md5_5: c33a6
+md5_5_upper: C33A6
 md5_6: c33a61
+md5_6_upper: C33A61
 name: Electronic Resistor 0805 22 Ohm
 oomp_key: oomp_electronic_resistor_0805_22_ohm
 part_number: ''

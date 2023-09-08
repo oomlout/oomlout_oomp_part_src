@@ -30,8 +30,11 @@ markdown_short: '[electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temper
     - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280](https://www.sensortek.com.tw/index.php/en/products/mems-sensor/)'
 md5: a3697f01237d79885aae438ef33a55dd
 md5_10: a3697f0123
+md5_10_upper: A3697F0123
 md5_5: a3697
+md5_5_upper: A3697
 md5_6: a3697f
+md5_6_upper: A3697F
 name: Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280
 oomp_key: oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
 part_number: bme280

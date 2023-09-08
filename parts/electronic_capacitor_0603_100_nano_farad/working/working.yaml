@@ -50,8 +50,11 @@ markdown_short: '[electronic_capacitor_0603_100_nano_farad](https://github.com/o
     - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104)'
 md5: 8cfd91c8b4af505f5c4d796bc12d1d16
 md5_10: 8cfd91c8b4
+md5_10_upper: 8CFD91C8B4
 md5_5: 8cfd9
+md5_5_upper: 8CFD9
 md5_6: 8cfd91
+md5_6_upper: 8CFD91
 name: Electronic Capacitor 0603 100 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
 package_style: smd_tape

@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_82_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC1206JR-0782RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0782RL)'
 md5: 00b538c70601ffc15364ce55f3b00624
 md5_10: 00b538c706
+md5_10_upper: 00B538C706
 md5_5: 00b53
+md5_5_upper: 00B53
 md5_6: 00b538
+md5_6_upper: 00B538
 name: Electronic Resistor 1206 82 Ohm
 oomp_key: oomp_electronic_resistor_1206_82_ohm
 part_number: ''

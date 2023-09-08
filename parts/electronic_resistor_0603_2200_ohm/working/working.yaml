@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_2200_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0603JR-072K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-072K2L)'
 md5: 3124032f8066a1155c800fc6b165948a
 md5_10: 3124032f80
+md5_10_upper: 3124032F80
 md5_5: '31240'
+md5_5_upper: '31240'
 md5_6: '312403'
+md5_6_upper: '312403'
 name: Electronic Resistor 0603 2200 Ohm
 oomp_key: oomp_electronic_resistor_0603_2200_ohm
 package_style: smd_tape

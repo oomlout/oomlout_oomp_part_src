@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_6800_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0805JR-076K8L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-076K8L)'
 md5: 489ec8ba0e6187444771235aa674616e
 md5_10: 489ec8ba0e
+md5_10_upper: 489EC8BA0E
 md5_5: 489ec
+md5_5_upper: 489EC
 md5_6: 489ec8
+md5_6_upper: 489EC8
 name: Electronic Resistor 0805 6800 Ohm
 oomp_key: oomp_electronic_resistor_0805_6800_ohm
 part_number: ''

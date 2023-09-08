@@ -22,8 +22,11 @@ markdown_full: '[electronic_resistor_0603_1000000_ohm](https://github.com/oomlou
 markdown_short: '[electronic_resistor_0603_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_1000000_ohm/working)<br><br>'
 md5: 75f37014023b2e3d1d68b5c21e2384c2
 md5_10: 75f3701402
+md5_10_upper: 75F3701402
 md5_5: 75f37
+md5_5_upper: 75F37
 md5_6: 75f370
+md5_6_upper: 75F370
 name: Electronic Resistor 0603 1000000 Ohm
 oomp_key: oomp_electronic_resistor_0603_1000000_ohm
 package_style: smd_tape

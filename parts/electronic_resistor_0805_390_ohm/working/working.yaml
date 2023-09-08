@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_390_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC0805JR-07390RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07390RL)'
 md5: 57e1280a4a53dd631f56d26ec27678a7
 md5_10: 57e1280a4a
+md5_10_upper: 57E1280A4A
 md5_5: 57e12
+md5_5_upper: 57E12
 md5_6: 57e128
+md5_6_upper: 57E128
 name: Electronic Resistor 0805 390 Ohm
 oomp_key: oomp_electronic_resistor_0805_390_ohm
 part_number: ''

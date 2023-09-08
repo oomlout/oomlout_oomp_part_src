@@ -20,8 +20,11 @@ markdown_full: '[electronic_header_2d54_mm_10_pin](https://github.com/oomlout/oo
 markdown_short: '[electronic_header_2d54_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br><br>'
 md5: 303a3ae374a9c8ee9c9554c743750a8f
 md5_10: 303a3ae374
+md5_10_upper: 303A3AE374
 md5_5: 303a3
+md5_5_upper: 303A3
 md5_6: 303a3a
+md5_6_upper: 303A3A
 name: Electronic Header 2D54 Mm 10 Pin
 oomp_key: oomp_electronic_header_2d54_mm_10_pin
 part_number: ''

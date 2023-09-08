@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_470_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC0402JR-07470RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL)'
 md5: 3458cec1d0791a109907cdb57810c407
 md5_10: 3458cec1d0
+md5_10_upper: 3458CEC1D0
 md5_5: 3458c
+md5_5_upper: 3458C
 md5_6: 3458ce
+md5_6_upper: 3458CE
 name: Electronic Resistor 0402 470 Ohm
 oomp_key: oomp_electronic_resistor_0402_470_ohm
 part_number: ''

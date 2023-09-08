@@ -34,8 +34,11 @@ markdown_short: '[electronic_resistor_0201_270_ohm](https://github.com/oomlout/o
     NQ01WMJ0271TEE- not in jlc basic parts]()'
 md5: 4b2be0922eb2866eaedb9816d7381327
 md5_10: 4b2be0922e
+md5_10_upper: 4B2BE0922E
 md5_5: 4b2be
+md5_5_upper: 4B2BE
 md5_6: 4b2be0
+md5_6_upper: 4B2BE0
 name: Electronic Resistor 0201 270 Ohm
 oomp_key: oomp_electronic_resistor_0201_270_ohm
 part_number: ''

@@ -22,8 +22,11 @@ markdown_full: '[electronic_capacitor_0603_4_7_micro_farad](https://github.com/o
 markdown_short: '[electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br>'
 md5: 6ab38cdcab2221adc1a931e09497a8b8
 md5_10: 6ab38cdcab
+md5_10_upper: 6AB38CDCAB
 md5_5: 6ab38
+md5_5_upper: 6AB38
 md5_6: 6ab38c
+md5_6_upper: 6AB38C
 name: Electronic Capacitor 0603 4 7 Micro Farad
 oomp_key: oomp_electronic_capacitor_0603_4_7_micro_farad
 package_style: smd_tape

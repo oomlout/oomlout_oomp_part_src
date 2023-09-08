@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_82000_ohm](https://github.com/oomlout
     part]()[Yageo - RC0805JR-0782KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0782KL)'
 md5: 55a93055916cd522eb51824f1694d003
 md5_10: 55a9305591
+md5_10_upper: 55A9305591
 md5_5: 55a93
+md5_5_upper: 55A93
 md5_6: 55a930
+md5_6_upper: 55A930
 name: Electronic Resistor 0805 82000 Ohm
 oomp_key: oomp_electronic_resistor_0805_82000_ohm
 part_number: ''

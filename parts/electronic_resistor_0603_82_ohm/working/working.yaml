@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_82_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0603JR-0782RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0782RL)'
 md5: 825d758ddacd4f1e05a6eb369c752271
 md5_10: 825d758dda
+md5_10_upper: 825D758DDA
 md5_5: 825d7
+md5_5_upper: 825D7
 md5_6: 825d75
+md5_6_upper: 825D75
 name: Electronic Resistor 0603 82 Ohm
 oomp_key: oomp_electronic_resistor_0603_82_ohm
 package_style: smd_tape

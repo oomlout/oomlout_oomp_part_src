@@ -22,8 +22,11 @@ markdown_full: '[electronic_resistor_quarter_watt_through_hole_150_ohm](https://
 markdown_short: '[electronic_resistor_quarter_watt_through_hole_150_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150_ohm/working)<br><br>'
 md5: 01096dbc33a9fd78a3766ce80708bb23
 md5_10: 01096dbc33
+md5_10_upper: 01096DBC33
 md5_5: 01096
+md5_5_upper: 01096
 md5_6: 01096d
+md5_6_upper: 01096D
 name: Electronic Resistor Quarter Watt Through Hole 150 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_150_ohm
 part_number: ''

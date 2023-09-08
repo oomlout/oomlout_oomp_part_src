@@ -28,8 +28,11 @@ markdown_short: '[electronic_resistor_0201_10000_ohm](https://github.com/oomlout
     - NQ01WMJ0103TEE- not in jlc basic parts]()'
 md5: 483fd99947df66b7ab468738add0d1af
 md5_10: 483fd99947
+md5_10_upper: 483FD99947
 md5_5: 483fd
+md5_5_upper: 483FD
 md5_6: 483fd9
+md5_6_upper: 483FD9
 name: Electronic Resistor 0201 10000 Ohm
 oomp_key: oomp_electronic_resistor_0201_10000_ohm
 part_number: ''

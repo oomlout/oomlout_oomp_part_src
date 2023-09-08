@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_18_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL)'
 md5: ff567d1e398c99cad62578d4bc64c61a
 md5_10: ff567d1e39
+md5_10_upper: FF567D1E39
 md5_5: ff567
+md5_5_upper: FF567
 md5_6: ff567d
+md5_6_upper: FF567D
 name: Electronic Resistor 0603 18 Ohm
 oomp_key: oomp_electronic_resistor_0603_18_ohm
 package_style: smd_tape

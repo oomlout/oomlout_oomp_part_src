@@ -2,7 +2,21 @@ import os
 import oomp
 import jinja2
 
+def main():
+    main_full()
+    main_other()
+    main_label()
+    #make basic labels
+    #load parts from collections/oomp_base.yaml
+    import yaml
+    with open("collections/oomp_base.yaml", "r") as infile:
+        filt = yaml.load(infile, Loader=yaml.FullLoader)
+    filename = "csv/oomp_base_label.csv"
+    main_label(filename=filename, filter=filt)
+    
+
 def main_full(**kwargs):
+    print("Generating csv full" )
     oomp.load_parts(from_pickle = True)
     count = 1
     #dump oomp.parts to a csv file
@@ -68,21 +82,36 @@ def main_full(**kwargs):
 
 
 def main_other(**kwargs):
+    filter = kwargs.get("filter", [""])
     #if csv directory doesn't exist create it
+    print("Generating csv minimal" )
     if not os.path.exists("csv"):
         os.makedirs("csv")
     filename = "csv/minimal.csv"
     headings = ["id", "short_code", "name", "github_link", "oomp_key", "md5_6"]
     import copy
     p2 = copy.deepcopy(oomp.parts)
-    get_details(filename=filename, headings=headings)
+    get_details(filename=filename, headings=headings, filter=filter)
 
-
+def main_label(**kwargs):
+    filename = kwargs.get("filename", "csv/oomp_label.csv")
+    filt = kwargs.get("filter", [""])
+    #if csv directory doesn't exist create it
+    print("Generating csv label" )
+    if not os.path.exists("csv"):
+        os.makedirs("csv")
+    
+    headings = ["id", "oomp_key", "id_no_class", "id_no_type", "md5_6", "md5_6_upper", "name", "short_code", "short_code_upper", "classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number", "short_name"]
+    
+    import copy
+    p2 = copy.deepcopy(oomp.parts)
+    get_details(filename=filename, headings=headings, filter=filt)
 
 
 def get_details(**kwargs):
     filename = kwargs.get("filename", "")
     headings = kwargs.get("headings", [])
+    filt = kwargs.get("filter", [""])
     oomp.load_parts(from_pickle = True)
     count = 1
     #dump oomp.parts to a csv file
@@ -95,6 +124,7 @@ def get_details(**kwargs):
         append_to_front = ["id", "short_code"]
         append_to_end = ["distributors", "manufacturers", "footprint", "symbol", "pins"]
         remove = ["make_files", "from_yaml", "filter"]
+        #get a list of all fields
         for part_id in oomp.parts:
             part = oomp.parts[part_id]
             
@@ -136,12 +166,20 @@ def get_details(**kwargs):
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for part_id in flat_parts:
-            part = flat_parts[part_id]
-            writer.writerow(part)
-            count += 1
-            # print a . for every 100
-            if count % 100 == 0:
-                print(".", end="", flush=True)
+            #if any of filter are in part_id include
+            include = False
+            if filt != [""]:
+                pass
+            for item in filt:
+                if item.replace("oomp_","") in part_id:
+                    include = True
+            if include:
+                part = flat_parts[part_id]
+                writer.writerow(part)
+                count += 1
+                # print a . for every 100
+                if count % 100 == 0:
+                    print(".", end="", flush=True)
 
 
 def flatten_dict(d, parent_key='', separator='_'):
@@ -162,5 +200,4 @@ def flatten_dict(d, parent_key='', separator='_'):
 
 
 if __name__ == "__main__":
-    main_full()
-    main_other()
+    main()

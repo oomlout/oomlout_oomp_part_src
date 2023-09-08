@@ -22,8 +22,11 @@ markdown_full: '[electronic_interposer_soic_14_wide_i2c_landing](https://github.
 markdown_short: '[electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br>'
 md5: 3cf65e88ee279c2b72da63b145edb0e3
 md5_10: 3cf65e88ee
+md5_10_upper: 3CF65E88EE
 md5_5: 3cf65
+md5_5_upper: 3CF65
 md5_6: 3cf65e
+md5_6_upper: 3CF65E
 name: Electronic Interposer Soic 14 Wide I2C Landing
 notes: []
 oomp_key: oomp_electronic_interposer_soic_14_wide_i2c_landing

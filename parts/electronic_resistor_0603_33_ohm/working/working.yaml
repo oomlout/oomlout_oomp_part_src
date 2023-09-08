@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0603_33_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0603JR-0733RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0733RL)'
 md5: 0a830d5e2694bbb990e62591e7d7df06
 md5_10: 0a830d5e26
+md5_10_upper: 0A830D5E26
 md5_5: 0a830
+md5_5_upper: 0A830
 md5_6: 0a830d
+md5_6_upper: 0A830D
 name: Electronic Resistor 0603 33 Ohm
 oomp_key: oomp_electronic_resistor_0603_33_ohm
 package_style: smd_tape

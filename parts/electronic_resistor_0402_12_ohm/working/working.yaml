@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_12_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0402JR-0712RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0712RL)'
 md5: 77b9917b0f9e31b4afa36ad766f5043e
 md5_10: 77b9917b0f
+md5_10_upper: 77B9917B0F
 md5_5: 77b99
+md5_5_upper: 77B99
 md5_6: 77b991
+md5_6_upper: 77B991
 name: Electronic Resistor 0402 12 Ohm
 oomp_key: oomp_electronic_resistor_0402_12_ohm
 part_number: ''

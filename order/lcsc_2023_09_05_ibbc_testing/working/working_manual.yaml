@@ -1,15 +1,16 @@
-oomp_id: lcsc_2023_08_31_basic_components
-directory: orders\lcsc_2023_08_31_basic_components\working
-link_github: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/orders/orders/lcsc_2023_08_31_basic_components/working
+oomp_id: lcsc_2023_09_05_ibbc_testing
+description: ordering parts for ibbc project and some base parts
+directory: orders\lcsc_2023_09_05_ibbc_testing\working
+link_github: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/orders/orders/lcsc_2023_09_05_ibbc_testing/working
 distributor_name: LCSC
 distributor_code: distributor_lcsc
-date: 2023_08_31
+date: 2023_09_05
 note:
-- "shipping was discounted should have been $15.68"
+- discounted shipping $10.72
 source: 
-- https://github.com/oomlout/oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
-- https://github.com/oomlout/oomlout_oomp_electronic_breakout_board_sensor_temperature_pressure_bosch_bme280
+- https://github.com/oomlout/oomlout_ibbc_breakout_board_holder_oobb_3_2
 parts_src: working.ods
-cost_shipping: $0.60
-cost_parts: $43.64
-cost_total: $44.24
+cost_shipping: $0
+cost_parts: $23.46
+cost_total: $23.46
+link_order: https://www.lcsc.com/order/detail/9C59636F6FA8C74C6928D7B7CB81BDEB

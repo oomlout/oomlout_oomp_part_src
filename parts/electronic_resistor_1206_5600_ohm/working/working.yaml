@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_5600_ohm](https://github.com/oomlout/
     part]()[Yageo - RC1206JR-075K6L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-075K6L)'
 md5: e0e12a21d139396a83049fb95b331898
 md5_10: e0e12a21d1
+md5_10_upper: E0E12A21D1
 md5_5: e0e12
+md5_5_upper: E0E12
 md5_6: e0e12a
+md5_6_upper: E0E12A
 name: Electronic Resistor 1206 5600 Ohm
 oomp_key: oomp_electronic_resistor_1206_5600_ohm
 part_number: ''

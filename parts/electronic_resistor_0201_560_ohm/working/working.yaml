@@ -28,8 +28,11 @@ markdown_short: '[electronic_resistor_0201_560_ohm](https://github.com/oomlout/o
     - NQ01WMJ0561TEE- not in jlc basic parts]()'
 md5: 1e228d96d284e28734dab6c33e5cfc0d
 md5_10: 1e228d96d2
+md5_10_upper: 1E228D96D2
 md5_5: 1e228
+md5_5_upper: 1E228
 md5_6: 1e228d
+md5_6_upper: 1E228D
 name: Electronic Resistor 0201 560 Ohm
 oomp_key: oomp_electronic_resistor_0201_560_ohm
 part_number: ''

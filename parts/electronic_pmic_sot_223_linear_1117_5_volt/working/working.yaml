@@ -35,8 +35,11 @@ markdown_short: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com
     Semiconductor Co., Ltd.) - AMS1117-5.0]()'
 md5: f26ce0b91db98ace92559b334d2cc5a6
 md5_10: f26ce0b91d
+md5_10_upper: F26CE0B91D
 md5_5: f26ce
+md5_5_upper: F26CE
 md5_6: f26ce0
+md5_6_upper: F26CE0
 name: Electronic Pmic Sot 223 Linear 1117 5 Volt
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
 package_style: smd_tape

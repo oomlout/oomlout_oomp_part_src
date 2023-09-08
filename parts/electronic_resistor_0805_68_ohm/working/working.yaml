@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_68_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0805JR-0768RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0768RL)'
 md5: 3a67184bfadbf9e93b3a86c608549034
 md5_10: 3a67184bfa
+md5_10_upper: 3A67184BFA
 md5_5: 3a671
+md5_5_upper: 3A671
 md5_6: 3a6718
+md5_6_upper: 3A6718
 name: Electronic Resistor 0805 68 Ohm
 oomp_key: oomp_electronic_resistor_0805_68_ohm
 part_number: ''

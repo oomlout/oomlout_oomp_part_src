@@ -22,8 +22,11 @@ markdown_full: '[electronic_led_0805_green](https://github.com/oomlout/oomlout_o
 markdown_short: '[electronic_led_0805_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br><br>'
 md5: 86fed6a509f645111309ee5e446eb91f
 md5_10: 86fed6a509
+md5_10_upper: 86FED6A509
 md5_5: 86fed
+md5_5_upper: 86FED
 md5_6: 86fed6
+md5_6_upper: 86FED6
 name: Electronic Led 0805 Green
 oomp_key: oomp_electronic_led_0805_green
 part_number: ''

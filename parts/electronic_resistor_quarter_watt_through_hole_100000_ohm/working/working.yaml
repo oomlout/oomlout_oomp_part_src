@@ -22,8 +22,11 @@ markdown_full: '[electronic_resistor_quarter_watt_through_hole_100000_ohm](https
 markdown_short: '[electronic_resistor_quarter_watt_through_hole_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_100000_ohm/working)<br><br>'
 md5: a0145e1779153c6df3729398189ffed2
 md5_10: a0145e1779
+md5_10_upper: A0145E1779
 md5_5: a0145
+md5_5_upper: A0145
 md5_6: a0145e
+md5_6_upper: A0145E
 name: Electronic Resistor Quarter Watt Through Hole 100000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_100000_ohm
 part_number: ''

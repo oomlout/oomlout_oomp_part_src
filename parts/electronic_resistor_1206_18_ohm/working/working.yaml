@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_18_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC1206JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0718RL)'
 md5: 697272f32978c4e8f9b73ed5d2e5d2a0
 md5_10: 697272f329
+md5_10_upper: 697272F329
 md5_5: '69727'
+md5_5_upper: '69727'
 md5_6: '697272'
+md5_6_upper: '697272'
 name: Electronic Resistor 1206 18 Ohm
 oomp_key: oomp_electronic_resistor_1206_18_ohm
 part_number: ''

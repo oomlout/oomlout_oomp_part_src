@@ -28,8 +28,11 @@ markdown_short: '[electronic_resistor_0201_27000_ohm](https://github.com/oomlout
     - NQ01WMJ0273TEE- not in jlc basic parts]()'
 md5: 1dd972add56e09828da5f5c8675665e3
 md5_10: 1dd972add5
+md5_10_upper: 1DD972ADD5
 md5_5: 1dd97
+md5_5_upper: 1DD97
 md5_6: 1dd972
+md5_6_upper: 1DD972
 name: Electronic Resistor 0201 27000 Ohm
 oomp_key: oomp_electronic_resistor_0201_27000_ohm
 part_number: ''

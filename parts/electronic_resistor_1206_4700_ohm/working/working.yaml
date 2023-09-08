@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_1206_4700_ohm](https://github.com/oomlout/
     part]()[Yageo - RC1206JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-074K7L)'
 md5: 0e0e60a10a66471fa196a435d4060cb6
 md5_10: 0e0e60a10a
+md5_10_upper: 0E0E60A10A
 md5_5: 0e0e6
+md5_5_upper: 0E0E6
 md5_6: 0e0e60
+md5_6_upper: 0E0E60
 name: Electronic Resistor 1206 4700 Ohm
 oomp_key: oomp_electronic_resistor_1206_4700_ohm
 part_number: ''

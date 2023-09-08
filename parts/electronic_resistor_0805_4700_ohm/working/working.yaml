@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_4700_ohm](https://github.com/oomlout/
     part]()[Yageo - RC0805JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-074K7L)'
 md5: 5206fd609ee46efab6b3474c10c7f51c
 md5_10: 5206fd609e
+md5_10_upper: 5206FD609E
 md5_5: 5206f
+md5_5_upper: 5206F
 md5_6: 5206fd
+md5_6_upper: 5206FD
 name: Electronic Resistor 0805 4700 Ohm
 oomp_key: oomp_electronic_resistor_0805_4700_ohm
 part_number: ''

@@ -60,8 +60,11 @@ markdown_short: '[electronic_resistor_0805_180_ohm](https://github.com/oomlout/o
     part]()[Yageo - RC0805JR-07180RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07180RL)'
 md5: 40b16c7f97bab9d7362c6d9e91699e2f
 md5_10: 40b16c7f97
+md5_10_upper: 40B16C7F97
 md5_5: 40b16
+md5_5_upper: 40B16
 md5_6: 40b16c
+md5_6_upper: 40B16C
 name: Electronic Resistor 0805 180 Ohm
 oomp_key: oomp_electronic_resistor_0805_180_ohm
 part_number: ''

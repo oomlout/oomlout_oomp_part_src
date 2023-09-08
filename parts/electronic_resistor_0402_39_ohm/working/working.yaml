@@ -56,8 +56,11 @@ markdown_short: '[electronic_resistor_0402_39_ohm](https://github.com/oomlout/oo
     part]()[Yageo - RC0402JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739RL)'
 md5: 051e9a1de9c9dd8e87376ad32a06db17
 md5_10: 051e9a1de9
+md5_10_upper: 051E9A1DE9
 md5_5: 051e9
+md5_5_upper: 051E9
 md5_6: 051e9a
+md5_6_upper: 051E9A
 name: Electronic Resistor 0402 39 Ohm
 oomp_key: oomp_electronic_resistor_0402_39_ohm
 part_number: ''
