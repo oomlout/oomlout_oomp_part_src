@@ -100,6 +100,18 @@ def make_readme(**kwargs):
         file_template = "templates/order_readme_template.md.j2"
         file_output = f"{directory}/readme.md"
         dict_data = dict_data
+        files = []
+        #get a list of recursive files
+        import glob
+        files = glob.glob(f"{directory}/**/*.*", recursive=True)
+        #replace all \\ with /
+        for i in range(len(files)):
+            files[i] = files[i].replace("\\","/")
+            #remove the directory from the file name
+            files[i] = files[i].replace(f"{directory}/","")
+        import copy
+        files2 = copy.deepcopy(files)
+        dict_data["files"] = files2
         oom_markdown.get_jinja2_template(file_template=file_template, file_output=file_output, dict_data=dict_data)
 
 

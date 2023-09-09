@@ -240,6 +240,8 @@ def add_part(**kwargs):
             import copy
             p2 = copy.deepcopy(kwargs)
             p2.pop("make_files")
+            p2.pop("counter")
+
             with open("parts/" + id + "/working/working.yaml", "w") as outfile:
                 yaml.dump(p2, outfile, indent=4)
 

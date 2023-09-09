@@ -5,6 +5,9 @@ def main():
 
     fast = True
     fast = False
+    
+    label=True
+    label=False 
 
     
     import action_setup
@@ -27,7 +30,7 @@ def main():
         print("Generating pinouts")
         action_generate_pinouts.main()
     
-    if not fast:
+    if label:
         import action_generate_labels
         print("Generating labelss")
         action_generate_labels.main()
