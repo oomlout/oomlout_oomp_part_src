@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 820_ohm
 description_only_numbers: '820'
 description_only_numbers_short: '820'
+description_or_color: '820'
+description_or_color_upper: '820'
 directory: parts/electronic_resistor_1206_820_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25396.html
-    name: LCSC
-    part_number: C25396
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137112.html
-    name: LCSC
-    part_number: C137112
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC1206JR-07820RL
 markdown_full: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br>[r12o821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br>[Electronic
-    Resistor 1206 820 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br>[LCSC
-    - C25396<br>](https://lcsc.com/product-detail/C25396.html)[LCSC - C137112<br>](https://lcsc.com/product-detail/C137112.html)<br>[Uniroyal
+    Resistor 1206 820 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br><br>[Uniroyal
     - 1206W4J0821T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0821T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0821T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0821T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0821T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0821T5E)<br>[Uniroyal
     - 1206W4F8200T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F8200T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F8200T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F8200T5E)[(N)  ](https://www.newark.com/search?st=1206W4F8200T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F8200T5E)<br>[Yageo
     - RC1206JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07820RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-07820RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-07820RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-07820RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-07820RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-07820RL)<br>'
-markdown_short: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br>[LCSC
-    - C25396<br>](https://lcsc.com/product-detail/C25396.html)[LCSC - C137112<br>](https://lcsc.com/product-detail/C137112.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br><br>[Uniroyal
     - 1206W4J0821T5E- not in jlc basic parts]()[Uniroyal - 1206W4F8200T5E- jlc basic
     part]()[Yageo - RC1206JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07820RL)'
 md5: 77f11f33c0f7c8ea605a799733290bf7

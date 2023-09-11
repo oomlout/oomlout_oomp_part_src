@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x9_dual_row_18_pin
 description_only_numbers: '2918'
 description_only_numbers_short: 2k9
+description_or_color: 2k9
+description_or_color_upper: 2K9
 directory: parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin
 distributors: []
 footprint:

@@ -1,9 +1,14 @@
 classification: electronic
 color: red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
 description_extra: ''
 description_main: ''
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: 'r '
+description_or_color_upper: 'R '
 directory: parts/electronic_led_0805_red
 distributors: []
 filter: ''

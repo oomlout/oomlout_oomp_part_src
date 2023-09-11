@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: surface_mount_right_angle
 description_main: 32_pin
 description_only_numbers: '32'
 description_only_numbers_short: '32'
+description_or_color: '32'
+description_or_color_upper: '32'
 directory: parts/electronic_header_2d54_mm_32_pin_surface_mount_right_angle
 distributors: []
 footprint:

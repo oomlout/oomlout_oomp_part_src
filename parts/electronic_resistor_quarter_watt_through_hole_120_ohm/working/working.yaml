@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 120_ohm
 description_only_numbers: '120'
 description_only_numbers_short: '120'
+description_or_color: '120'
+description_or_color_upper: '120'
 directory: parts/electronic_resistor_quarter_watt_through_hole_120_ohm
 distributors: []
 filter: ''

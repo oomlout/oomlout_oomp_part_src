@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 680_ohm
 description_only_numbers: '680'
 description_only_numbers_short: '680'
+description_or_color: '680'
+description_or_color_upper: '680'
 directory: parts/electronic_resistor_0201_680_ohm
 distributors: []
 filter: ''

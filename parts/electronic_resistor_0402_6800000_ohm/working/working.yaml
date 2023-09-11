@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 6800000_ohm
+description_only_numbers: '6800000'
+description_only_numbers_short: 7M
+description_or_color: 7M
+description_or_color_upper: 7M
+directory: parts/electronic_resistor_0402_6800000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_6800000_ohm/working
+id: electronic_resistor_0402_6800000_ohm
+id_no_class: resistor_0402_6800000_ohm
+id_no_type: 0402_6800000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0402_6800000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_6800000_ohm/working)<br>[r4o685](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_6800000_ohm/working)<br>[Electronic
+    Resistor 0402 6800000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_6800000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0402_6800000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_6800000_ohm/working)<br><br>'
+md5: 7e90407eeb13d240ea19c96f59cd7e10
+md5_10: 7e90407eeb
+md5_10_upper: 7E90407EEB
+md5_5: 7e904
+md5_5_upper: 7E904
+md5_6: 7e9040
+md5_6_upper: 7E9040
+name: Electronic Resistor 0402 6800000 Ohm
+oomp_key: oomp_electronic_resistor_0402_6800000_ohm
+part_number: ''
+short_code: r4o685
+short_code_upper: R4O685
+size: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

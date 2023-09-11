@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 1800000_ohm
+description_only_numbers: '1800000'
+description_only_numbers_short: 2M
+description_or_color: 2M
+description_or_color_upper: 2M
+directory: parts/electronic_resistor_0201_1800000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1800000_ohm/working
+id: electronic_resistor_0201_1800000_ohm
+id_no_class: resistor_0201_1800000_ohm
+id_no_type: 0201_1800000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0201_1800000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1800000_ohm/working)<br>[ro185](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1800000_ohm/working)<br>[Electronic
+    Resistor 0201 1800000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1800000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0201_1800000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1800000_ohm/working)<br><br>'
+md5: a8a134b90c566924dbd5b35814b1202b
+md5_10: a8a134b90c
+md5_10_upper: A8A134B90C
+md5_5: a8a13
+md5_5_upper: A8A13
+md5_6: a8a134
+md5_6_upper: A8A134
+name: Electronic Resistor 0201 1800000 Ohm
+oomp_key: oomp_electronic_resistor_0201_1800000_ohm
+part_number: ''
+short_code: ro185
+short_code_upper: RO185
+size: '0201'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

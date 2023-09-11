@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 10_ohm
 description_only_numbers: '10'
 description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
 directory: parts/electronic_resistor_0603_10_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25202.html
-    name: LCSC
-    part_number: C25202
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C109317.html
-    name: LCSC
-    part_number: C109317
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0603JR-0710RL
 markdown_full: '[electronic_resistor_0603_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)<br>[r6o100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)<br>[Electronic
-    Resistor 0603 10 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)<br>[LCSC
-    - C25202<br>](https://lcsc.com/product-detail/C25202.html)[LCSC - C109317<br>](https://lcsc.com/product-detail/C109317.html)<br>[Uniroyal
+    Resistor 0603 10 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0100T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0100T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0100T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0100T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0100T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0100T5E)<br>[Uniroyal
     - 0603WAF010-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF010-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF010-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF010-1T5E)[(N)  ](https://www.newark.com/search?st=0603WAF010-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF010-1T5E)<br>[Yageo
     - RC0603JR-0710RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0710RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0710RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0710RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0710RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0710RL)<br>'
-markdown_short: '[electronic_resistor_0603_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)<br>[LCSC
-    - C25202<br>](https://lcsc.com/product-detail/C25202.html)[LCSC - C109317<br>](https://lcsc.com/product-detail/C109317.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0603_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0100T5E- not in jlc basic parts]()[Uniroyal - 0603WAF010-1T5E- jlc basic
     part]()[Yageo - RC0603JR-0710RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710RL)'
 md5: 51a509beb2e30d40643cbbd2fcd6b2bc

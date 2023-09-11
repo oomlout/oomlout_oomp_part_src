@@ -9,10 +9,10 @@ def load_parts(**kwargs):
 
     
     #e12 array
-    base_values = [10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82]
+    base_values = [10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 75, 82]
 
     # Number of decades you want to cover (e.g., from ohm to megaohm would be 7 decades: 10^0 to 10^6)
-    num_decades = 4
+    num_decades = 6
 
     resistor_values = []
     for i in range(num_decades):
@@ -36,7 +36,7 @@ def load_parts(**kwargs):
     #e12 values
     part_details["description_main"] = resistor_values
     
-    part_details["description_extra"] = ""
+    part_details["description_extra"] = [""]
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
     part_details["kicad_reference"] = "R"

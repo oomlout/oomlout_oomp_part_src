@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 10000_ohm
 description_only_numbers: '10000'
-description_only_numbers_short: 100k
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
 directory: parts/electronic_resistor_quarter_watt_through_hole_10000_ohm
 distributors: []
 filter: ''

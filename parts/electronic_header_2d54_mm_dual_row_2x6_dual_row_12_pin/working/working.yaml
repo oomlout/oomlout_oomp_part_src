@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x6_dual_row_12_pin
 description_only_numbers: '2612'
 description_only_numbers_short: 2k6
+description_or_color: 2k6
+description_or_color_upper: 2K6
 directory: parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin
 distributors: []
 footprint:

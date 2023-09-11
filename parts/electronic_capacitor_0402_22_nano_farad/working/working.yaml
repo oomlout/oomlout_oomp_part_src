@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 22_nano_farad
 description_only_numbers: '22'
 description_only_numbers_short: '22'
+description_or_color: '22'
+description_or_color_upper: '22'
 directory: parts/electronic_capacitor_0402_22_nano_farad
 distributors: []
 filter: ''

@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: surface_mount
 description_main: 28_pin
 description_only_numbers: '28'
 description_only_numbers_short: '28'
+description_or_color: '28'
+description_or_color_upper: '28'
 directory: parts/electronic_header_2d54_mm_28_pin_surface_mount
 distributors: []
 footprint:

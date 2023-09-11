@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: surface_mount_right_angle
 description_main: 16_pin
 description_only_numbers: '16'
 description_only_numbers_short: '16'
+description_or_color: '16'
+description_or_color_upper: '16'
 directory: parts/electronic_header_2d54_mm_16_pin_surface_mount_right_angle
 distributors: []
 footprint:

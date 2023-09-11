@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 8200000_ohm
+description_only_numbers: '8200000'
+description_only_numbers_short: 8M
+description_or_color: 8M
+description_or_color_upper: 8M
+directory: parts/electronic_resistor_0402_8200000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm/working
+id: electronic_resistor_0402_8200000_ohm
+id_no_class: resistor_0402_8200000_ohm
+id_no_type: 0402_8200000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0402_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm/working)<br>[r4o825](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm/working)<br>[Electronic
+    Resistor 0402 8200000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0402_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm/working)<br><br>'
+md5: bd66fd113a48b5987d297ad1dca5af43
+md5_10: bd66fd113a
+md5_10_upper: BD66FD113A
+md5_5: bd66f
+md5_5_upper: BD66F
+md5_6: bd66fd
+md5_6_upper: BD66FD
+name: Electronic Resistor 0402 8200000 Ohm
+oomp_key: oomp_electronic_resistor_0402_8200000_ohm
+part_number: ''
+short_code: r4o825
+short_code_upper: R4O825
+size: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

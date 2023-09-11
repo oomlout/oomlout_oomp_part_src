@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 750000_ohm
+description_only_numbers: '750000'
+description_only_numbers_short: 750.0k
+description_or_color: 750.0k
+description_or_color_upper: 750.0K
+directory: parts/electronic_resistor_0402_750000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_750000_ohm/working
+id: electronic_resistor_0402_750000_ohm
+id_no_class: resistor_0402_750000_ohm
+id_no_type: 0402_750000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0402_750000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_750000_ohm/working)<br>[r4o754](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_750000_ohm/working)<br>[Electronic
+    Resistor 0402 750000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_750000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0402_750000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_750000_ohm/working)<br><br>'
+md5: 4cbd4494f00539eda7530996b5dfacaf
+md5_10: 4cbd4494f0
+md5_10_upper: 4CBD4494F0
+md5_5: 4cbd4
+md5_5_upper: 4CBD4
+md5_6: 4cbd44
+md5_6_upper: 4CBD44
+name: Electronic Resistor 0402 750000 Ohm
+oomp_key: oomp_electronic_resistor_0402_750000_ohm
+part_number: ''
+short_code: r4o754
+short_code_upper: R4O754
+size: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

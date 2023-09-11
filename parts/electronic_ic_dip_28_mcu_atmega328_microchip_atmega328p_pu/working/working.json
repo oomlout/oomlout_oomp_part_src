@@ -31,8 +31,13 @@
     "type_first_letter_upper": "I",
     "size_only_numbers": "28",
     "size_only_numbers_no_zeros": "28",
+    "color_upper": "MCU",
+    "color_first_letter": "m",
+    "color_first_letter_upper": "M",
     "description_only_numbers": "328",
     "description_only_numbers_short": "328",
+    "description_or_color": "m328",
+    "description_or_color_upper": "M328",
     "markdown_full": "[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[id28at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br>",
     "markdown_short": "[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br>"
 }

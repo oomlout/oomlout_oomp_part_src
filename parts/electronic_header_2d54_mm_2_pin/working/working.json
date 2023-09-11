@@ -32,8 +32,13 @@
     "type_first_letter_upper": "H",
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
+    "color_upper": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
     "description_only_numbers": "2",
     "description_only_numbers_short": "2",
+    "description_or_color": "2",
+    "description_or_color_upper": "2",
     "markdown_full": "[electronic_header_2d54_mm_2_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_2_pin/working)<br>[hi12p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_2_pin/working)<br>[Electronic Header 2D54 Mm 2 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_2_pin/working)<br><br>",
     "markdown_short": "[electronic_header_2d54_mm_2_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_2_pin/working)<br><br>"
 }

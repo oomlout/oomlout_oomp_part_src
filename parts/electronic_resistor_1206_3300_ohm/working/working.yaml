@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 3300_ohm
 description_only_numbers: '3300'
 description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
 directory: parts/electronic_resistor_1206_3300_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C26041.html
-    name: LCSC
-    part_number: C26041
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C125845.html
-    name: LCSC
-    part_number: C125845
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC1206JR-073K3L
 markdown_full: '[electronic_resistor_1206_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br>[r12o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br>[Electronic
-    Resistor 1206 3300 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br>[LCSC
-    - C26041<br>](https://lcsc.com/product-detail/C26041.html)[LCSC - C125845<br>](https://lcsc.com/product-detail/C125845.html)<br>[Uniroyal
+    Resistor 1206 3300 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br><br>[Uniroyal
     - 1206W4J0332T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0332T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0332T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0332T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0332T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0332T5E)<br>[Uniroyal
     - 1206W4F3301T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F3301T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F3301T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F3301T5E)[(N)  ](https://www.newark.com/search?st=1206W4F3301T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F3301T5E)<br>[Yageo
     - RC1206JR-073K3L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K3L)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-073K3L)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-073K3L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-073K3L)[(N)  ](https://www.newark.com/search?st=RC1206JR-073K3L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-073K3L)<br>'
-markdown_short: '[electronic_resistor_1206_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br>[LCSC
-    - C26041<br>](https://lcsc.com/product-detail/C26041.html)[LCSC - C125845<br>](https://lcsc.com/product-detail/C125845.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br><br>[Uniroyal
     - 1206W4J0332T5E- not in jlc basic parts]()[Uniroyal - 1206W4F3301T5E- jlc basic
     part]()[Yageo - RC1206JR-073K3L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K3L)'
 md5: f05e80b6a7c182213bdf2901c6b467d5

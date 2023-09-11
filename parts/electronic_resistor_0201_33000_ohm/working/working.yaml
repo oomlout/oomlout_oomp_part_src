@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 33000_ohm
 description_only_numbers: '33000'
-description_only_numbers_short: 3k3
+description_only_numbers_short: 33k
+description_or_color: 33k
+description_or_color_upper: 33K
 directory: parts/electronic_resistor_0201_33000_ohm
 distributors: []
 filter: ''

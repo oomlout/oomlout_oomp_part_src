@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 16_pin
 description_only_numbers: '16'
 description_only_numbers_short: '16'
+description_or_color: '16'
+description_or_color_upper: '16'
 directory: parts/electronic_header_1d27_mm_16_pin
 distributors: []
 footprint:

@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: right_angle
 description_main: 10_pin
 description_only_numbers: '10'
 description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
 directory: parts/electronic_header_2d54_mm_jst_xh_10_pin_right_angle
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_10_pin_right_angle/working

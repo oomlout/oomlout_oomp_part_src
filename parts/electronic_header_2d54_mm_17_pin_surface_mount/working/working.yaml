@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: surface_mount
 description_main: 17_pin
 description_only_numbers: '17'
 description_only_numbers_short: '17'
+description_or_color: '17'
+description_or_color_upper: '17'
 directory: parts/electronic_header_2d54_mm_17_pin_surface_mount
 distributors: []
 footprint:

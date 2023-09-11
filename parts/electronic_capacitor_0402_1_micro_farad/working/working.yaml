@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 1_micro_farad
 description_only_numbers: '1'
 description_only_numbers_short: '1'
+description_or_color: '1'
+description_or_color_upper: '1'
 directory: parts/electronic_capacitor_0402_1_micro_farad
 distributors: []
 filter: ''

@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 27000_ohm
 description_only_numbers: '27000'
-description_only_numbers_short: 2k7
+description_only_numbers_short: 27k
+description_or_color: 27k
+description_or_color_upper: 27K
 directory: parts/electronic_resistor_0603_27000_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25589.html
-    name: LCSC
-    part_number: C25589
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137640.html
-    name: LCSC
-    part_number: C137640
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0603JR-0727KL
 markdown_full: '[electronic_resistor_0603_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br>[r6o273](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br>[Electronic
-    Resistor 0603 27000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br>[LCSC
-    - C25589<br>](https://lcsc.com/product-detail/C25589.html)[LCSC - C137640<br>](https://lcsc.com/product-detail/C137640.html)<br>[Uniroyal
+    Resistor 0603 27000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0273T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0273T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0273T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0273T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0273T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0273T5E)<br>[Uniroyal
     - 0603WAF2702T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF2702T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF2702T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF2702T5E)[(N)  ](https://www.newark.com/search?st=0603WAF2702T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF2702T5E)<br>[Yageo
     - RC0603JR-0727KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0727KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0727KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0727KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0727KL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0727KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0727KL)<br>'
-markdown_short: '[electronic_resistor_0603_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br>[LCSC
-    - C25589<br>](https://lcsc.com/product-detail/C25589.html)[LCSC - C137640<br>](https://lcsc.com/product-detail/C137640.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0603_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27000_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0273T5E- not in jlc basic parts]()[Uniroyal - 0603WAF2702T5E- jlc basic
     part]()[Yageo - RC0603JR-0727KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0727KL)'
 md5: 385d5933f6035f21b574b7b3cbd9bbcd

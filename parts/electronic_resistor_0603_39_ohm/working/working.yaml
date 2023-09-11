@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 39_ohm
 description_only_numbers: '39'
 description_only_numbers_short: '39'
+description_or_color: '39'
+description_or_color_upper: '39'
 directory: parts/electronic_resistor_0603_39_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25236.html
-    name: LCSC
-    part_number: C25236
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137630.html
-    name: LCSC
-    part_number: C137630
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0603JR-0739RL
 markdown_full: '[electronic_resistor_0603_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working)<br>[r6o390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working)<br>[Electronic
-    Resistor 0603 39 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working)<br>[LCSC
-    - C25236<br>](https://lcsc.com/product-detail/C25236.html)[LCSC - C137630<br>](https://lcsc.com/product-detail/C137630.html)<br>[Uniroyal
+    Resistor 0603 39 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0390T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0390T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0390T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0390T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0390T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0390T5E)<br>[Uniroyal
     - 0603WAF039-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF039-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF039-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF039-1T5E)[(N)  ](https://www.newark.com/search?st=0603WAF039-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF039-1T5E)<br>[Yageo
     - RC0603JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0739RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0739RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0739RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0739RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0739RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0739RL)<br>'
-markdown_short: '[electronic_resistor_0603_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working)<br>[LCSC
-    - C25236<br>](https://lcsc.com/product-detail/C25236.html)[LCSC - C137630<br>](https://lcsc.com/product-detail/C137630.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0603_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0390T5E- not in jlc basic parts]()[Uniroyal - 0603WAF039-1T5E- jlc basic
     part]()[Yageo - RC0603JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0739RL)'
 md5: a487b1d10264fcca08552359a0019ee1

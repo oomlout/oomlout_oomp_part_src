@@ -182,7 +182,7 @@ def main_label(**kwargs):
     if not os.path.exists("csv"):
         os.makedirs("csv")
     
-    headings = ["id", "oomp_key", "id_no_class", "id_no_type", "md5_6", "md5_6_upper", "name", "short_code", "short_code_upper", "classification", "type", "type_first_letter", "type_first_letter_upper", "size", "size_only_numbers", "size_only_numbers_no_zeros", "color", "description_main", "description_only_numbers", "description_only_numbers_short", "description_extra", "manufacturer", "part_number", "short_name"]
+    headings = ["id", "oomp_key", "id_no_class", "id_no_type", "md5_6", "md5_6_upper", "name", "short_code", "short_code_upper", "classification", "type", "type_first_letter", "type_first_letter_upper", "size", "size_only_numbers", "size_only_numbers_no_zeros", "color", "description_main", "description_only_numbers", "description_only_numbers_short", "description_extra", "manufacturer", "part_number", "short_name", "description_or_color", "description_or_color_upper"]
     
     import copy
     p2 = copy.deepcopy(oomp.parts)

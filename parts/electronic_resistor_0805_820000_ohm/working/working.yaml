@@ -1,0 +1,51 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 820000_ohm
+description_only_numbers: '820000'
+description_only_numbers_short: 820.0k
+description_or_color: 820.0k
+description_or_color_upper: 820.0K
+directory: parts/electronic_resistor_0805_820000_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working
+id: electronic_resistor_0805_820000_ohm
+id_no_class: resistor_0805_820000_ohm
+id_no_type: 0805_820000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0805_820000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br>[r8o824](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br>[Electronic
+    Resistor 0805 820000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0805_820000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br><br>'
+md5: 4635666bfc61c02e8a02e22f7cfc4837
+md5_10: 4635666bfc
+md5_10_upper: 4635666BFC
+md5_5: '46356'
+md5_5_upper: '46356'
+md5_6: '463566'
+md5_6_upper: '463566'
+name: Electronic Resistor 0805 820000 Ohm
+oomp_key: oomp_electronic_resistor_0805_820000_ohm
+part_number: ''
+short_code: r8o824
+short_code_upper: R8O824
+size: 0805
+size_only_numbers: 0805
+size_only_numbers_no_zeros: '85'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

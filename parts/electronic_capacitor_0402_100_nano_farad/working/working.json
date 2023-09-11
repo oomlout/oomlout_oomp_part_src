@@ -33,8 +33,13 @@
     "type_first_letter_upper": "C",
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
+    "color_upper": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
     "description_only_numbers": "100",
     "description_only_numbers_short": "100",
+    "description_or_color": "100",
+    "description_or_color_upper": "100",
     "markdown_full": "[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[c4nf100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[Electronic Capacitor 0402 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>",
     "markdown_short": "[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>"
 }

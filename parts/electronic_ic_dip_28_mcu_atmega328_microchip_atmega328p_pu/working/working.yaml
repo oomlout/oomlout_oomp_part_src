@@ -1,9 +1,14 @@
 classification: electronic
 color: mcu
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MCU
 description_extra: ''
 description_main: atmega328
 description_only_numbers: '328'
 description_only_numbers_short: '328'
+description_or_color: m328
+description_or_color_upper: M328
 directory: parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 distributors: []
 footprint:

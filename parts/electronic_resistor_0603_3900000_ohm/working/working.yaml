@@ -1,0 +1,55 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 3900000_ohm
+description_only_numbers: '3900000'
+description_only_numbers_short: 4M
+description_or_color: 4M
+description_or_color_upper: 4M
+directory: parts/electronic_resistor_0603_3900000_ohm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working
+id: electronic_resistor_0603_3900000_ohm
+id_no_class: resistor_0603_3900000_ohm
+id_no_type: 0603_3900000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0603_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br>[r6o395](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br>[Electronic
+    Resistor 0603 3900000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0603_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br><br>'
+md5: a3639a652bcf98ddabdfcc446f7717a1
+md5_10: a3639a652b
+md5_10_upper: A3639A652B
+md5_5: a3639
+md5_5_upper: A3639
+md5_6: a3639a
+md5_6_upper: A3639A
+name: Electronic Resistor 0603 3900000 Ohm
+oomp_key: oomp_electronic_resistor_0603_3900000_ohm
+package_style: smd_tape
+part_number: ''
+short_code: r6o395
+short_code_upper: R6O395
+size: '0603'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 4_7_micro_farad
 description_only_numbers: '47'
 description_only_numbers_short: '47'
+description_or_color: '47'
+description_or_color_upper: '47'
 directory: parts/electronic_capacitor_0603_4_7_micro_farad
 distributors: []
 filter: ''

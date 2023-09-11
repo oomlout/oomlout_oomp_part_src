@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 20_pin
 description_only_numbers: '20'
 description_only_numbers_short: '20'
+description_or_color: '20'
+description_or_color_upper: '20'
 directory: parts/electronic_header_2d54_mm_20_pin
 distributors: []
 footprint:

@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 7500_ohm
+description_only_numbers: '7500'
+description_only_numbers_short: 7k5
+description_or_color: 7k5
+description_or_color_upper: 7K5
+directory: parts/electronic_resistor_0402_7500_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm/working
+id: electronic_resistor_0402_7500_ohm
+id_no_class: resistor_0402_7500_ohm
+id_no_type: 0402_7500_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0402_7500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm/working)<br>[r4o752](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm/working)<br>[Electronic
+    Resistor 0402 7500 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0402_7500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm/working)<br><br>'
+md5: 903b0456cac1a52778fa002e4ef9a044
+md5_10: 903b0456ca
+md5_10_upper: 903B0456CA
+md5_5: 903b0
+md5_5_upper: 903B0
+md5_6: 903b04
+md5_6_upper: 903B04
+name: Electronic Resistor 0402 7500 Ohm
+oomp_key: oomp_electronic_resistor_0402_7500_ohm
+part_number: ''
+short_code: r4o752
+short_code_upper: R4O752
+size: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

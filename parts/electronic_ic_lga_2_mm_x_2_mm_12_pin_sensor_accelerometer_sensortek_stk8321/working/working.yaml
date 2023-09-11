@@ -1,9 +1,14 @@
 classification: electronic
 color: sensor
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SENSOR
 description_extra: ''
 description_main: accelerometer
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: 's '
+description_or_color_upper: 'S '
 directory: parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321
 distributors:
 -   id: distributor_lcsc

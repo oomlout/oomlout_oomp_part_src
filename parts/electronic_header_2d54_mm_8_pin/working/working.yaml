@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 8_pin
 description_only_numbers: '8'
 description_only_numbers_short: '8'
+description_or_color: '8'
+description_or_color_upper: '8'
 directory: parts/electronic_header_2d54_mm_8_pin
 distributors: []
 footprint:

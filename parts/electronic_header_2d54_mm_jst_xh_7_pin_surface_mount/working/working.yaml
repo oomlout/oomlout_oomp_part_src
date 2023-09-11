@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: surface_mount
 description_main: 7_pin
 description_only_numbers: '7'
 description_only_numbers_short: '7'
+description_or_color: '7'
+description_or_color_upper: '7'
 directory: parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_7_pin_surface_mount/working

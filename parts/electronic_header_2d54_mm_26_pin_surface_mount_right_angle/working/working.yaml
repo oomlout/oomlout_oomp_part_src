@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: surface_mount_right_angle
 description_main: 26_pin
 description_only_numbers: '26'
 description_only_numbers_short: '26'
+description_or_color: '26'
+description_or_color_upper: '26'
 directory: parts/electronic_header_2d54_mm_26_pin_surface_mount_right_angle
 distributors: []
 footprint:

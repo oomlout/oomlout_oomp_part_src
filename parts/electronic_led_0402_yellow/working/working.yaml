@@ -1,9 +1,14 @@
 classification: electronic
 color: yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
 description_extra: ''
 description_main: ''
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: 'y '
+description_or_color_upper: 'Y '
 directory: parts/electronic_led_0402_yellow
 distributors: []
 filter: ''

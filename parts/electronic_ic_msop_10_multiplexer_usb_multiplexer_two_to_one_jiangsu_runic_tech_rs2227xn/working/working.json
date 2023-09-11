@@ -92,8 +92,13 @@
     "type_first_letter_upper": "I",
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
+    "color_upper": "MULTIPLEXER",
+    "color_first_letter": "m",
+    "color_first_letter_upper": "M",
     "description_only_numbers": "",
-    "description_only_numbers_short": "0",
+    "description_only_numbers_short": " ",
+    "description_or_color": "m ",
+    "description_or_color_upper": "M ",
     "markdown_full": "[electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[imsp10mpump21rs2227](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[LCSC - C255478<br>](https://lcsc.com/product-detail/C255478.html)<br>",
     "markdown_short": "[electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[LCSC - C255478<br>](https://lcsc.com/product-detail/C255478.html)<br>"
 }

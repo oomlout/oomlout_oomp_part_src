@@ -1,9 +1,14 @@
 classification: electronic
 color: multiplexer
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MULTIPLEXER
 description_extra: two_to_one
 description_main: usb_multiplexer
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: 'm '
+description_or_color_upper: 'M '
 directory: parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
 distributors:
 -   id: distributor_lcsc

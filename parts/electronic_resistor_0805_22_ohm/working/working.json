@@ -20,20 +20,7 @@
     "name": "Electronic Resistor 0805 22 Ohm",
     "short_code": "r8o220",
     "short_code_upper": "R8O220",
-    "distributors": [
-        {
-            "name": "LCSC",
-            "part_number": "C25295",
-            "link": "https://lcsc.com/product-detail/C25295.html",
-            "id": "distributor_lcsc"
-        },
-        {
-            "name": "LCSC",
-            "part_number": "C108406",
-            "link": "https://lcsc.com/product-detail/C108406.html",
-            "id": "distributor_lcsc"
-        }
-    ],
+    "distributors": [],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -77,8 +64,13 @@
     "type_first_letter_upper": "R",
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
+    "color_upper": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
     "description_only_numbers": "22",
     "description_only_numbers_short": "22",
-    "markdown_full": "[electronic_resistor_0805_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br>[r8o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br>[Electronic Resistor 0805 22 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br>[LCSC - C25295<br>](https://lcsc.com/product-detail/C25295.html)[LCSC - C108406<br>](https://lcsc.com/product-detail/C108406.html)<br>[Uniroyal - 0805W8J0220T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0220T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0220T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0220T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0220T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0220T5E)<br>[Uniroyal - 0805W8F022-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F022-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F022-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F022-1T5E)[(N)  ](https://www.newark.com/search?st=0805W8F022-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F022-1T5E)<br>[Yageo - RC0805JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0722RL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0722RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0722RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0722RL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0722RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0722RL)<br>",
-    "markdown_short": "[electronic_resistor_0805_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br>[LCSC - C25295<br>](https://lcsc.com/product-detail/C25295.html)[LCSC - C108406<br>](https://lcsc.com/product-detail/C108406.html)<br>[Uniroyal - 0805W8J0220T5E- not in jlc basic parts]()[Uniroyal - 0805W8F022-1T5E- jlc basic part]()[Yageo - RC0805JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0722RL)"
+    "description_or_color": "22",
+    "description_or_color_upper": "22",
+    "markdown_full": "[electronic_resistor_0805_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br>[r8o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br>[Electronic Resistor 0805 22 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br><br>[Uniroyal - 0805W8J0220T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0220T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0220T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0220T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0220T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0220T5E)<br>[Uniroyal - 0805W8F022-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F022-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F022-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F022-1T5E)[(N)  ](https://www.newark.com/search?st=0805W8F022-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F022-1T5E)<br>[Yageo - RC0805JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0722RL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0722RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0722RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0722RL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0722RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0722RL)<br>",
+    "markdown_short": "[electronic_resistor_0805_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm/working)<br><br>[Uniroyal - 0805W8J0220T5E- not in jlc basic parts]()[Uniroyal - 0805W8F022-1T5E- jlc basic part]()[Yageo - RC0805JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0722RL)"
 }

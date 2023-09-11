@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 15_pin
 description_only_numbers: '15'
 description_only_numbers_short: '15'
+description_or_color: '15'
+description_or_color_upper: '15'
 directory: parts/electronic_header_2d54_mm_15_pin
 distributors: []
 footprint:

@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: right_angle
 description_main: 39_pin
 description_only_numbers: '39'
 description_only_numbers_short: '39'
+description_or_color: '39'
+description_or_color_upper: '39'
 directory: parts/electronic_header_2d54_mm_39_pin_right_angle
 distributors: []
 footprint:

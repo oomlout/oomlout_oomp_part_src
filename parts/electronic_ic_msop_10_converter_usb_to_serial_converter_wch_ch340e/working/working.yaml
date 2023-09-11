@@ -1,9 +1,14 @@
 classification: electronic
 color: converter
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CONVERTER
 description_extra: ''
 description_main: usb_to_serial_converter
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: 'c '
+description_or_color_upper: 'C '
 directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
 distributors:
 -   id: distributor_lcsc

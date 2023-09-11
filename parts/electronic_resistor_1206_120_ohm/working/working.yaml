@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 120_ohm
 description_only_numbers: '120'
 description_only_numbers_short: '120'
+description_or_color: '120'
+description_or_color_upper: '120'
 directory: parts/electronic_resistor_1206_120_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25351.html
-    name: LCSC
-    part_number: C25351
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137204.html
-    name: LCSC
-    part_number: C137204
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC1206JR-07120RL
 markdown_full: '[electronic_resistor_1206_120_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working)<br>[r12o121](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working)<br>[Electronic
-    Resistor 1206 120 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working)<br>[LCSC
-    - C25351<br>](https://lcsc.com/product-detail/C25351.html)[LCSC - C137204<br>](https://lcsc.com/product-detail/C137204.html)<br>[Uniroyal
+    Resistor 1206 120 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working)<br><br>[Uniroyal
     - 1206W4J0121T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0121T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0121T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0121T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0121T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0121T5E)<br>[Uniroyal
     - 1206W4F1200T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F1200T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F1200T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F1200T5E)[(N)  ](https://www.newark.com/search?st=1206W4F1200T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F1200T5E)<br>[Yageo
     - RC1206JR-07120RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07120RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-07120RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-07120RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-07120RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-07120RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-07120RL)<br>'
-markdown_short: '[electronic_resistor_1206_120_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working)<br>[LCSC
-    - C25351<br>](https://lcsc.com/product-detail/C25351.html)[LCSC - C137204<br>](https://lcsc.com/product-detail/C137204.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_120_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working)<br><br>[Uniroyal
     - 1206W4J0121T5E- not in jlc basic parts]()[Uniroyal - 1206W4F1200T5E- jlc basic
     part]()[Yageo - RC1206JR-07120RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07120RL)'
 md5: 8485d9d82ce8a4b9eec0782b28a43d1e

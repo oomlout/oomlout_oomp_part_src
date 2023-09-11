@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x13_dual_row_26_pin
 description_only_numbers: '21326'
-description_only_numbers_short: 2k1
+description_only_numbers_short: 21k
+description_or_color: 21k
+description_or_color_upper: 21K
 directory: parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin
 distributors: []
 footprint:

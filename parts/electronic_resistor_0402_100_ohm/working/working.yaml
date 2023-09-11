@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 100_ohm
 description_only_numbers: '100'
 description_only_numbers_short: '100'
+description_or_color: '100'
+description_or_color_upper: '100'
 directory: parts/electronic_resistor_0402_100_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25138.html
-    name: LCSC
-    part_number: C25138
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C106233.html
-    name: LCSC
-    part_number: C106233
+distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working
@@ -46,14 +43,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0402JR-07100RL
 markdown_full: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[r4o101](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[Electronic
-    Resistor 0402 100 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[LCSC
-    - C25138<br>](https://lcsc.com/product-detail/C25138.html)[LCSC - C106233<br>](https://lcsc.com/product-detail/C106233.html)<br>[Uniroyal
+    Resistor 0402 100 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0101TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0101TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0101TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0101TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0101TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0101TCE)<br>[Uniroyal
     - 0402WGF1000TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF1000TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF1000TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF1000TCE)[(N)  ](https://www.newark.com/search?st=0402WGF1000TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF1000TCE)<br>[Yageo
     - RC0402JR-07100RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07100RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07100RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07100RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07100RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07100RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07100RL)<br>'
-markdown_short: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[LCSC
-    - C25138<br>](https://lcsc.com/product-detail/C25138.html)[LCSC - C106233<br>](https://lcsc.com/product-detail/C106233.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0101TCE- not in jlc basic parts]()[Uniroyal - 0402WGF1000TCE- jlc basic
     part]()[Yageo - RC0402JR-07100RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07100RL)'
 md5: 5115eb5c6144e661f58cec2948671275

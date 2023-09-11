@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 1200_ohm
 description_only_numbers: '1200'
 description_only_numbers_short: 1k2
+description_or_color: 1k2
+description_or_color_upper: 1K2
 directory: parts/electronic_resistor_quarter_watt_through_hole_1200_ohm
 distributors: []
 filter: ''

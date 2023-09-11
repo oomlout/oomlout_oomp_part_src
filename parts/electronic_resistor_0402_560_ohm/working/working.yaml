@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 560_ohm
 description_only_numbers: '560'
 description_only_numbers_short: '560'
+description_or_color: '560'
+description_or_color_upper: '560'
 directory: parts/electronic_resistor_0402_560_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25172.html
-    name: LCSC
-    part_number: C25172
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137858.html
-    name: LCSC
-    part_number: C137858
+distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working
@@ -46,14 +43,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0402JR-07560RL
 markdown_full: '[electronic_resistor_0402_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working)<br>[r4o561](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working)<br>[Electronic
-    Resistor 0402 560 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working)<br>[LCSC
-    - C25172<br>](https://lcsc.com/product-detail/C25172.html)[LCSC - C137858<br>](https://lcsc.com/product-detail/C137858.html)<br>[Uniroyal
+    Resistor 0402 560 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0561TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0561TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0561TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0561TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0561TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0561TCE)<br>[Uniroyal
     - 0402WGF5600TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF5600TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF5600TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF5600TCE)[(N)  ](https://www.newark.com/search?st=0402WGF5600TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF5600TCE)<br>[Yageo
     - RC0402JR-07560RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07560RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07560RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07560RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07560RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07560RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07560RL)<br>'
-markdown_short: '[electronic_resistor_0402_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working)<br>[LCSC
-    - C25172<br>](https://lcsc.com/product-detail/C25172.html)[LCSC - C137858<br>](https://lcsc.com/product-detail/C137858.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0402_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0561TCE- not in jlc basic parts]()[Uniroyal - 0402WGF5600TCE- jlc basic
     part]()[Yageo - RC0402JR-07560RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07560RL)'
 md5: 36544347913bccfd754a9e0d94d69903

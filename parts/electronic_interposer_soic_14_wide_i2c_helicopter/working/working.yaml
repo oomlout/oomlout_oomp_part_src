@@ -1,5 +1,8 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description: An interposer between an i2c chip and a soic_14_wide package, The pins
     are numbered in the reverse order of being expected because the footprint is used
     as a mirror image, ie. it is the chip rather than a chuip being placed on it.
@@ -8,6 +11,8 @@ description_extra: helicopter
 description_main: i2c
 description_only_numbers: '2'
 description_only_numbers_short: '2'
+description_or_color: '2'
+description_or_color_upper: '2'
 directory: parts/electronic_interposer_soic_14_wide_i2c_helicopter
 distributors: []
 footprint:

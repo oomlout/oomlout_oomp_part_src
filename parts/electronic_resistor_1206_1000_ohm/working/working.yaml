@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 1000_ohm
 description_only_numbers: '1000'
-description_only_numbers_short: 10k
+description_only_numbers_short: 1k
+description_or_color: 1k
+description_or_color_upper: 1K
 directory: parts/electronic_resistor_1206_1000_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C1469.html
-    name: LCSC
-    part_number: C1469
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C112223.html
-    name: LCSC
-    part_number: C112223
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC1206JR-071KL
 markdown_full: '[electronic_resistor_1206_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br>[r12o102](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br>[Electronic
-    Resistor 1206 1000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br>[LCSC
-    - C1469<br>](https://lcsc.com/product-detail/C1469.html)[LCSC - C112223<br>](https://lcsc.com/product-detail/C112223.html)<br>[Uniroyal
+    Resistor 1206 1000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br><br>[Uniroyal
     - 1206W4J0102T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0102T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0102T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0102T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0102T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0102T5E)<br>[Uniroyal
     - 1206W4F1001T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F1001T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F1001T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F1001T5E)[(N)  ](https://www.newark.com/search?st=1206W4F1001T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F1001T5E)<br>[Yageo
     - RC1206JR-071KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-071KL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-071KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-071KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-071KL)[(N)  ](https://www.newark.com/search?st=RC1206JR-071KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-071KL)<br>'
-markdown_short: '[electronic_resistor_1206_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br>[LCSC
-    - C1469<br>](https://lcsc.com/product-detail/C1469.html)[LCSC - C112223<br>](https://lcsc.com/product-detail/C112223.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000_ohm/working)<br><br>[Uniroyal
     - 1206W4J0102T5E- not in jlc basic parts]()[Uniroyal - 1206W4F1001T5E- jlc basic
     part]()[Yageo - RC1206JR-071KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-071KL)'
 md5: 6feac05d0905254475195a1d5b317ee8

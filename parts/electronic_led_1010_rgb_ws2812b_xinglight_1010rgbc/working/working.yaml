@@ -1,9 +1,14 @@
 classification: electronic
 color: rgb
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RGB
 description_extra: ''
 description_main: ws2812b
 description_only_numbers: '2812'
 description_only_numbers_short: 2k8
+description_or_color: r2k8
+description_or_color_upper: R2K8
 directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 distributors: []
 filter: ''

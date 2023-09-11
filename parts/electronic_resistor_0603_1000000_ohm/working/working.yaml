@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 1000000_ohm
 description_only_numbers: '1000000'
 description_only_numbers_short: 1M
+description_or_color: 1M
+description_or_color_upper: 1M
 directory: parts/electronic_resistor_0603_1000000_ohm
 distributors: []
 filter: ''

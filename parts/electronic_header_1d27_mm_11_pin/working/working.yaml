@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 11_pin
 description_only_numbers: '11'
 description_only_numbers_short: '11'
+description_or_color: '11'
+description_or_color_upper: '11'
 directory: parts/electronic_header_1d27_mm_11_pin
 distributors: []
 footprint:

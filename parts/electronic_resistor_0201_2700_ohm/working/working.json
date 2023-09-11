@@ -44,8 +44,13 @@
     "type_first_letter_upper": "R",
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
+    "color_upper": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
     "description_only_numbers": "2700",
     "description_only_numbers_short": "2k7",
+    "description_or_color": "2k7",
+    "description_or_color_upper": "2K7",
     "markdown_full": "[electronic_resistor_0201_2700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700_ohm/working)<br>[ro272](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700_ohm/working)<br>[Electronic Resistor 0201 2700 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700_ohm/working)<br><br>[Uniroyal - NQ01WMJ0272TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0272TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0272TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0272TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0272TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0272TEE)<br>",
     "markdown_short": "[electronic_resistor_0201_2700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700_ohm/working)<br><br>[Uniroyal - NQ01WMJ0272TEE- not in jlc basic parts]()"
 }

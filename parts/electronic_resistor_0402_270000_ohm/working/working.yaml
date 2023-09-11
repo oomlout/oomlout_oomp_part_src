@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 270000_ohm
+description_only_numbers: '270000'
+description_only_numbers_short: 270.0k
+description_or_color: 270.0k
+description_or_color_upper: 270.0K
+directory: parts/electronic_resistor_0402_270000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270000_ohm/working
+id: electronic_resistor_0402_270000_ohm
+id_no_class: resistor_0402_270000_ohm
+id_no_type: 0402_270000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0402_270000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270000_ohm/working)<br>[r4o274](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270000_ohm/working)<br>[Electronic
+    Resistor 0402 270000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0402_270000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_270000_ohm/working)<br><br>'
+md5: bdc83a47114ae7d6d35e99c914fc2f9a
+md5_10: bdc83a4711
+md5_10_upper: BDC83A4711
+md5_5: bdc83
+md5_5_upper: BDC83
+md5_6: bdc83a
+md5_6_upper: BDC83A
+name: Electronic Resistor 0402 270000 Ohm
+oomp_key: oomp_electronic_resistor_0402_270000_ohm
+part_number: ''
+short_code: r4o274
+short_code_upper: R4O274
+size: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

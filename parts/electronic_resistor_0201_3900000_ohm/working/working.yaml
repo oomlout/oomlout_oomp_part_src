@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 3900000_ohm
+description_only_numbers: '3900000'
+description_only_numbers_short: 4M
+description_or_color: 4M
+description_or_color_upper: 4M
+directory: parts/electronic_resistor_0201_3900000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working
+id: electronic_resistor_0201_3900000_ohm
+id_no_class: resistor_0201_3900000_ohm
+id_no_type: 0201_3900000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0201_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br>[ro395](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br>[Electronic
+    Resistor 0201 3900000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0201_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br><br>'
+md5: 739ed4e7022a60a12ea3140021dd947c
+md5_10: 739ed4e702
+md5_10_upper: 739ED4E702
+md5_5: 739ed
+md5_5_upper: 739ED
+md5_6: 739ed4
+md5_6_upper: 739ED4
+name: Electronic Resistor 0201 3900000 Ohm
+oomp_key: oomp_electronic_resistor_0201_3900000_ohm
+part_number: ''
+short_code: ro395
+short_code_upper: RO395
+size: '0201'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R

@@ -117,14 +117,14 @@ def get_matches(**kwargs):
                     "part_number": "C347223"})
 
     # resistors
-    matches.append({"id":"resistor_0603_1000_ohm",
-                  "part_number": "C21190"})
-    matches.append({"id":"resistor_0603_1000_ohm",
-                  "part_number": "C22548"})
-    matches.append({"id":"resistor_0603_10000_ohm",
-                  "part_number": "C98220"})
-    matches.append({"id":"resistor_0603_10000_ohm",
-                  "part_number": "C25804"})
+    #matches.append({"id":"resistor_0603_1000_ohm",
+    #              "part_number": "C21190"})
+    #matches.append({"id":"resistor_0603_1000_ohm",
+    #              "part_number": "C22548"})
+    #matches.append({"id":"resistor_0603_10000_ohm",
+    #              "part_number": "C98220"})
+    #matches.append({"id":"resistor_0603_10000_ohm",
+    #              "part_number": "C25804"})
     
     # sockets
     #      usb
@@ -140,6 +140,10 @@ def get_matches(**kwargs):
     matches.append({"id":"electronic_socket_usb_mini_surface_mount_only",
                   "part_number": "C91144"})
     
+
+######################
+######################
+############# made in action_pull_lcsc_parts.pay
 
     lcsc_file = "src/distributor_matches_lcsc.yml"
     import yaml

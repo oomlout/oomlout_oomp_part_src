@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x14_dual_row_28_pin
 description_only_numbers: '21428'
-description_only_numbers_short: 2k1
+description_only_numbers_short: 21k
+description_or_color: 21k
+description_or_color_upper: 21K
 directory: parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
 distributors: []
 footprint:

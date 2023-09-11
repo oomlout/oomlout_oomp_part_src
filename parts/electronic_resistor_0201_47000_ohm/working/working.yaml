@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 47000_ohm
 description_only_numbers: '47000'
-description_only_numbers_short: 4k7
+description_only_numbers_short: 47k
+description_or_color: 47k
+description_or_color_upper: 47K
 directory: parts/electronic_resistor_0201_47000_ohm
 distributors: []
 filter: ''

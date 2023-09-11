@@ -92,8 +92,13 @@
     "type_first_letter_upper": "I",
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
+    "color_upper": "CONVERTER",
+    "color_first_letter": "c",
+    "color_first_letter_upper": "C",
     "description_only_numbers": "",
-    "description_only_numbers_short": "0",
+    "description_only_numbers_short": " ",
+    "description_or_color": "c ",
+    "description_or_color_upper": "C ",
     "markdown_full": "[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>",
     "markdown_short": "[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>"
 }

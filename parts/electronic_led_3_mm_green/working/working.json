@@ -34,8 +34,13 @@
     "type_first_letter_upper": "L",
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
+    "color_upper": "GREEN",
+    "color_first_letter": "g",
+    "color_first_letter_upper": "G",
     "description_only_numbers": "",
-    "description_only_numbers_short": "0",
+    "description_only_numbers_short": " ",
+    "description_or_color": "g ",
+    "description_or_color_upper": "G ",
     "markdown_full": "[electronic_led_3_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br>[l3g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br>[Electronic Led 3 Mm Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br><br>",
     "markdown_short": "[electronic_led_3_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br><br>"
 }

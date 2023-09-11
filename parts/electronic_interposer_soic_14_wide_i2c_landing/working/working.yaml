@@ -1,11 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description: An interposer between an i2c chip and a soic_14_wide package. This is
     the landing side (for an interposer to land on)
 description_extra: landing
 description_main: i2c
 description_only_numbers: '2'
 description_only_numbers_short: '2'
+description_or_color: '2'
+description_or_color_upper: '2'
 directory: parts/electronic_interposer_soic_14_wide_i2c_landing
 distributors: []
 footprint:

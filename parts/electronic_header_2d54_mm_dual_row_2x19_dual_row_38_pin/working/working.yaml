@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x19_dual_row_38_pin
 description_only_numbers: '21938'
-description_only_numbers_short: 2k1
+description_only_numbers_short: 22k
+description_or_color: 22k
+description_or_color_upper: 22K
 directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin/working

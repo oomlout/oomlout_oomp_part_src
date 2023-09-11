@@ -1,9 +1,14 @@
 classification: electronic
 color: surface_mount
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SURFACE_MOUNT
 description_extra: ''
 description_main: ''
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: 's '
+description_or_color_upper: 'S '
 directory: parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
 distributors:
 -   id: distributor_lcsc

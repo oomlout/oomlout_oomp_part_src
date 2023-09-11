@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x4_dual_row_8_pin
 description_only_numbers: '248'
 description_only_numbers_short: '248'
+description_or_color: '248'
+description_or_color_upper: '248'
 directory: parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin
 distributors: []
 footprint:

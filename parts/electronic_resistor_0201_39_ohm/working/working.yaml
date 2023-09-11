@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 39_ohm
 description_only_numbers: '39'
 description_only_numbers_short: '39'
+description_or_color: '39'
+description_or_color_upper: '39'
 directory: parts/electronic_resistor_0201_39_ohm
 distributors: []
 filter: ''

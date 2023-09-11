@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2200_ohm
 description_only_numbers: '2200'
 description_only_numbers_short: 2k2
+description_or_color: 2k2
+description_or_color_upper: 2K2
 directory: parts/electronic_resistor_quarter_watt_through_hole_2200_ohm
 distributors: []
 filter: ''

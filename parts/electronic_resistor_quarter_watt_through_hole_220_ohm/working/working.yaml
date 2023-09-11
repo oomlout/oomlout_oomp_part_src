@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 220_ohm
 description_only_numbers: '220'
 description_only_numbers_short: '220'
+description_or_color: '220'
+description_or_color_upper: '220'
 directory: parts/electronic_resistor_quarter_watt_through_hole_220_ohm
 distributors: []
 filter: ''

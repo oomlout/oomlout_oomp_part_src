@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 2x2_dual_row_4_pin
 description_only_numbers: '224'
 description_only_numbers_short: '224'
+description_or_color: '224'
+description_or_color_upper: '224'
 directory: parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin
 distributors: []
 footprint:

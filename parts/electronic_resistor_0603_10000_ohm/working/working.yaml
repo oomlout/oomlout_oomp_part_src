@@ -1,15 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 10000_ohm
 description_only_numbers: '10000'
-description_only_numbers_short: 100k
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
 directory: parts/electronic_resistor_0603_10000_ohm
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C98220.html
-    name: LCSC
-    part_number: C98220
 -   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C25804.html
     name: LCSC
@@ -59,17 +60,17 @@ manufacturers:
     part_number: RC0603JR-0710KL
 markdown_full: '[electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[r6o103](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[Electronic
     Resistor 0603 10000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC
-    - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC
-    - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal
-    - 0603WAJ0103T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0103T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0103T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0103T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0103T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0103T5E)<br>[Uniroyal
+    - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC
+    - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal - 0603WAJ0103T5E-
+    not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0103T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0103T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0103T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0103T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0103T5E)<br>[Uniroyal
     - 0603WAF1002T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF1002T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF1002T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF1002T5E)[(N)  ](https://www.newark.com/search?st=0603WAF1002T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF1002T5E)<br>[Yageo
     - RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0710KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0710KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0710KL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0710KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0710KL)<br>'
 markdown_short: '[electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC
-    - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC
-    - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal
-    - 0603WAJ0103T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic
-    part]()[Yageo - RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL)'
+    - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC
+    - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal - 0603WAJ0103T5E-
+    not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic part]()[Yageo -
+    RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL)'
 md5: 98b9ca34207fb0534abeb029e2151ce1
 md5_10: 98b9ca3420
 md5_10_upper: 98B9CA3420

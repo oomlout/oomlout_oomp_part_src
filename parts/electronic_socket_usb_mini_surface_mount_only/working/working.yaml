@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: surface_mount_only
 description_only_numbers: ''
-description_only_numbers_short: '0'
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
 directory: parts/electronic_socket_usb_mini_surface_mount_only
 distributors:
 -   id: distributor_lcsc

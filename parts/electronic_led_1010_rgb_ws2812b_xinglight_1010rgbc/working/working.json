@@ -56,8 +56,13 @@
     "type_first_letter_upper": "L",
     "size_only_numbers": "1010",
     "size_only_numbers_no_zeros": "11",
+    "color_upper": "RGB",
+    "color_first_letter": "r",
+    "color_first_letter_upper": "R",
     "description_only_numbers": "2812",
     "description_only_numbers_short": "2k8",
+    "description_or_color": "r2k8",
+    "description_or_color_upper": "R2K8",
     "markdown_full": "[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l101028121010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br>",
     "markdown_short": "[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br>"
 }

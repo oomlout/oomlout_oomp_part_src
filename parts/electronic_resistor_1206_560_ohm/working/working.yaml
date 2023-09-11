@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 560_ohm
 description_only_numbers: '560'
 description_only_numbers_short: '560'
+description_or_color: '560'
+description_or_color_upper: '560'
 directory: parts/electronic_resistor_1206_560_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25388.html
-    name: LCSC
-    part_number: C25388
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C163358.html
-    name: LCSC
-    part_number: C163358
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC1206JR-07560RL
 markdown_full: '[electronic_resistor_1206_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm/working)<br>[r12o561](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm/working)<br>[Electronic
-    Resistor 1206 560 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm/working)<br>[LCSC
-    - C25388<br>](https://lcsc.com/product-detail/C25388.html)[LCSC - C163358<br>](https://lcsc.com/product-detail/C163358.html)<br>[Uniroyal
+    Resistor 1206 560 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm/working)<br><br>[Uniroyal
     - 1206W4J0561T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0561T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0561T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0561T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0561T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0561T5E)<br>[Uniroyal
     - 1206W4F5600T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F5600T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F5600T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F5600T5E)[(N)  ](https://www.newark.com/search?st=1206W4F5600T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F5600T5E)<br>[Yageo
     - RC1206JR-07560RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07560RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-07560RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-07560RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-07560RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-07560RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-07560RL)<br>'
-markdown_short: '[electronic_resistor_1206_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm/working)<br>[LCSC
-    - C25388<br>](https://lcsc.com/product-detail/C25388.html)[LCSC - C163358<br>](https://lcsc.com/product-detail/C163358.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm/working)<br><br>[Uniroyal
     - 1206W4J0561T5E- not in jlc basic parts]()[Uniroyal - 1206W4F5600T5E- jlc basic
     part]()[Yageo - RC1206JR-07560RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07560RL)'
 md5: c4d11235bc116ccb2b63dea694673a97

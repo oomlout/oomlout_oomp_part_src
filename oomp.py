@@ -214,6 +214,14 @@ def add_part(**kwargs):
         size_only_numbers_no_zeros = size_only_numbers.lstrip("0")
         kwargs["size_only_numbers_no_zeros"] = str(size_only_numbers_no_zeros).replace("0","")
         #      color
+        color = kwargs["color"]
+        kwargs["color_upper"] = color.upper()
+        #first letter
+        color_first_letter = ""
+        if color != "":
+            color_first_letter = color[0]
+        kwargs["color_first_letter"] = color_first_letter
+        kwargs["color_first_letter_upper"] = color_first_letter.upper()
         
         #      description_main
         working_desc = kwargs["description_main"]
@@ -226,22 +234,37 @@ def add_part(**kwargs):
         don = int(description_only_numbers)
         if don < 1000:
             description_only_numbers_short = str(don)
-        elif don < 100000:
-            w = str(don / 1000)
+        elif don < 10000:
+            w = str(round(don) / 1000)
             w =w.replace(".", "")
             if w[1] != "0":
                 description_only_numbers_short = w[0] + "k" + w[1]
+                pass
             else:
-                description_only_numbers_short = w + "k"
+                description_only_numbers_short = w[0] + "k"
+                pass
+        elif don < 100000:
+            w = str(round(don / 1000))
+            description_only_numbers_short = w + "k"
+            pass
         elif don < 1000000:
             w = str(don / 1000)
             description_only_numbers_short = w + "k"
         else:
             description_only_numbers_short = str(round(don / 1000000)) + "M"
             
+        if description_only_numbers_short == 0 or description_only_numbers_short == "0" or description_only_numbers_short == "":
+            description_only_numbers_short = " "
 
         kwargs["description_only_numbers_short"] = description_only_numbers_short
+        
+        description_or_color = f"{color_first_letter}{description_only_numbers_short}"
+        kwargs["description_or_color"] = description_or_color
+        kwargs["description_or_color_upper"] = description_or_color.upper()
+        
         #      description_extra
+
+
 
 
         kwargs = get_markdown_summaries(**kwargs)
@@ -282,7 +305,7 @@ def add_part(**kwargs):
             import yaml
             import copy
             p2 = copy.deepcopy(kwargs)
-            p2.pop("make_files")
+            p2.pop("make_files", None)
             p2.pop("counter", None)
 
             with open("parts/" + id + "/working/working.yaml", "w") as outfile:
@@ -303,6 +326,23 @@ def get_id(**kwargs):
     #remove the trailing '_'
     id = id[:-1]
     return id
+
+
+def search_for_matching_parts(**kwargs):    
+    matches = kwargs.get("matches", {})
+    return_value = []
+    if matches != {}:
+        for part_id in parts:
+            part = parts[part_id]
+            match = True
+            for key, value in matches.items():
+                if part[key] != value:
+                    match = False
+            if match:
+                #print(part_id)
+                return_value.append(part_id)
+    return return_value
+
 
 def search_for_part_id(search,**kwargs):
     # test if in parts

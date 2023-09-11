@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 27000_ohm
 description_only_numbers: '27000'
-description_only_numbers_short: 2k7
+description_only_numbers_short: 27k
+description_or_color: 27k
+description_or_color_upper: 27K
 directory: parts/electronic_resistor_quarter_watt_through_hole_27000_ohm
 distributors: []
 filter: ''

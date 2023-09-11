@@ -20,20 +20,7 @@
     "name": "Electronic Resistor 0603 68000 Ohm",
     "short_code": "r6o683",
     "short_code_upper": "R6O683",
-    "distributors": [
-        {
-            "name": "LCSC",
-            "part_number": "C25607",
-            "link": "https://lcsc.com/product-detail/C25607.html",
-            "id": "distributor_lcsc"
-        },
-        {
-            "name": "LCSC",
-            "part_number": "C113301",
-            "link": "https://lcsc.com/product-detail/C113301.html",
-            "id": "distributor_lcsc"
-        }
-    ],
+    "distributors": [],
     "manufacturers": [
         {
             "name": "Uniroyal",
@@ -81,8 +68,13 @@
     "type_first_letter_upper": "R",
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
+    "color_upper": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
     "description_only_numbers": "68000",
-    "description_only_numbers_short": "6k8",
-    "markdown_full": "[electronic_resistor_0603_68000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br>[r6o683](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br>[Electronic Resistor 0603 68000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br>[LCSC - C25607<br>](https://lcsc.com/product-detail/C25607.html)[LCSC - C113301<br>](https://lcsc.com/product-detail/C113301.html)<br>[Uniroyal - 0603WAJ0683T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0683T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0683T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0683T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0683T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0683T5E)<br>[Uniroyal - 0603WAF6802T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF6802T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF6802T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF6802T5E)[(N)  ](https://www.newark.com/search?st=0603WAF6802T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF6802T5E)<br>[Yageo - RC0603JR-0768KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0768KL) [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0768KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0768KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0768KL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0768KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0768KL)<br>",
-    "markdown_short": "[electronic_resistor_0603_68000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br>[LCSC - C25607<br>](https://lcsc.com/product-detail/C25607.html)[LCSC - C113301<br>](https://lcsc.com/product-detail/C113301.html)<br>[Uniroyal - 0603WAJ0683T5E- not in jlc basic parts]()[Uniroyal - 0603WAF6802T5E- jlc basic part]()[Yageo - RC0603JR-0768KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0768KL)"
+    "description_only_numbers_short": "68k",
+    "description_or_color": "68k",
+    "description_or_color_upper": "68K",
+    "markdown_full": "[electronic_resistor_0603_68000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br>[r6o683](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br>[Electronic Resistor 0603 68000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br><br>[Uniroyal - 0603WAJ0683T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0683T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0683T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0683T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0683T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0683T5E)<br>[Uniroyal - 0603WAF6802T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF6802T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF6802T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF6802T5E)[(N)  ](https://www.newark.com/search?st=0603WAF6802T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF6802T5E)<br>[Yageo - RC0603JR-0768KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0768KL) [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0768KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0768KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0768KL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0768KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0768KL)<br>",
+    "markdown_short": "[electronic_resistor_0603_68000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68000_ohm/working)<br><br>[Uniroyal - 0603WAJ0683T5E- not in jlc basic parts]()[Uniroyal - 0603WAF6802T5E- jlc basic part]()[Yageo - RC0603JR-0768KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0768KL)"
 }

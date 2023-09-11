@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 270_ohm
 description_only_numbers: '270'
 description_only_numbers_short: '270'
+description_or_color: '270'
+description_or_color_upper: '270'
 directory: parts/electronic_resistor_quarter_watt_through_hole_270_ohm
 distributors: []
 filter: ''

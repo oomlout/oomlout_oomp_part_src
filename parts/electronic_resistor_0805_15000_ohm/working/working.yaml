@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 15000_ohm
 description_only_numbers: '15000'
-description_only_numbers_short: 1k5
+description_only_numbers_short: 15k
+description_or_color: 15k
+description_or_color_upper: 15K
 directory: parts/electronic_resistor_0805_15000_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25620.html
-    name: LCSC
-    part_number: C25620
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C114740.html
-    name: LCSC
-    part_number: C114740
+distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
@@ -50,14 +47,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0805JR-0715KL
 markdown_full: '[electronic_resistor_0805_15000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[r8o153](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[Electronic
-    Resistor 0805 15000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[LCSC
-    - C25620<br>](https://lcsc.com/product-detail/C25620.html)[LCSC - C114740<br>](https://lcsc.com/product-detail/C114740.html)<br>[Uniroyal
+    Resistor 0805 15000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br><br>[Uniroyal
     - 0805W8J0153T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0153T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0153T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0153T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0153T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0153T5E)<br>[Uniroyal
     - 0805W8F1502T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F1502T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F1502T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F1502T5E)[(N)  ](https://www.newark.com/search?st=0805W8F1502T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F1502T5E)<br>[Yageo
     - RC0805JR-0715KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0715KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0715KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0715KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0715KL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0715KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0715KL)<br>'
-markdown_short: '[electronic_resistor_0805_15000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br>[LCSC
-    - C25620<br>](https://lcsc.com/product-detail/C25620.html)[LCSC - C114740<br>](https://lcsc.com/product-detail/C114740.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0805_15000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_15000_ohm/working)<br><br>[Uniroyal
     - 0805W8J0153T5E- not in jlc basic parts]()[Uniroyal - 0805W8F1502T5E- jlc basic
     part]()[Yageo - RC0805JR-0715KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0715KL)'
 md5: 090281697a7ec652f8a222546c8b65fa

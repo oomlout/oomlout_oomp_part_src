@@ -1,9 +1,14 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 100000_ohm
 description_only_numbers: '100000'
 description_only_numbers_short: 100.0k
+description_or_color: 100.0k
+description_or_color_upper: 100.0K
 directory: parts/electronic_resistor_0603_100000_ohm
 distributors: []
 filter: ''

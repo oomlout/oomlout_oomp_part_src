@@ -1,19 +1,16 @@
 classification: electronic
 color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
 description_extra: ''
 description_main: 18_ohm
 description_only_numbers: '18'
 description_only_numbers_short: '18'
+description_or_color: '18'
+description_or_color_upper: '18'
 directory: parts/electronic_resistor_0402_18_ohm
-distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C25146.html
-    name: LCSC
-    part_number: C25146
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C137911.html
-    name: LCSC
-    part_number: C137911
+distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working
@@ -46,14 +43,12 @@ manufacturers:
         reason_short: available everywhere
     part_number: RC0402JR-0718RL
 markdown_full: '[electronic_resistor_0402_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working)<br>[r4o180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working)<br>[Electronic
-    Resistor 0402 18 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working)<br>[LCSC
-    - C25146<br>](https://lcsc.com/product-detail/C25146.html)[LCSC - C137911<br>](https://lcsc.com/product-detail/C137911.html)<br>[Uniroyal
+    Resistor 0402 18 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0180TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0180TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0180TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0180TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0180TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0180TCE)<br>[Uniroyal
     - 0402WGF018-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF018-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF018-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF018-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF018-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF018-1TCE)<br>[Yageo
     - RC0402JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0718RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0718RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0718RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0718RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0718RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0718RL)<br>'
-markdown_short: '[electronic_resistor_0402_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working)<br>[LCSC
-    - C25146<br>](https://lcsc.com/product-detail/C25146.html)[LCSC - C137911<br>](https://lcsc.com/product-detail/C137911.html)<br>[Uniroyal
+markdown_short: '[electronic_resistor_0402_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_18_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0180TCE- not in jlc basic parts]()[Uniroyal - 0402WGF018-1TCE- jlc basic
     part]()[Yageo - RC0402JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0718RL)'
 md5: a9dd7411b96181381dbbba60cd360aca

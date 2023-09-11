@@ -1,9 +1,14 @@
 classification: electronic
 color: led_driver
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LED_DRIVER
 description_extra: ''
 description_main: led_matrix_driver_16_x_8
 description_only_numbers: '168'
 description_only_numbers_short: '168'
+description_or_color: l168
+description_or_color_upper: L168
 directory: parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 distributors: []
 footprint:

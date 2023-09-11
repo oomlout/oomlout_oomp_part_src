@@ -70,8 +70,13 @@
     "type_first_letter_upper": "S",
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
+    "color_upper": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
     "description_only_numbers": "",
-    "description_only_numbers_short": "0",
+    "description_only_numbers_short": " ",
+    "description_or_color": " ",
+    "description_or_color_upper": " ",
     "markdown_full": "[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>",
     "markdown_short": "[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>"
 }

@@ -1,9 +1,14 @@
 classification: electronic
 color: linear
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LINEAR
 description_extra: adj
 description_main: '1117'
 description_only_numbers: '1117'
 description_only_numbers_short: 1k1
+description_or_color: l1k1
+description_or_color_upper: L1K1
 directory: parts/electronic_pmic_sot_223_linear_1117_adj
 distributors: []
 footprint:

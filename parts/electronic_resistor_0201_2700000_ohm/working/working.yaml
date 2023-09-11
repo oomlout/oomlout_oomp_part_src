@@ -1,0 +1,47 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 2700000_ohm
+description_only_numbers: '2700000'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/electronic_resistor_0201_2700000_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700000_ohm/working
+id: electronic_resistor_0201_2700000_ohm
+id_no_class: resistor_0201_2700000_ohm
+id_no_type: 0201_2700000_ohm
+kicad_reference: R
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_0201_2700000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700000_ohm/working)<br>[ro275](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700000_ohm/working)<br>[Electronic
+    Resistor 0201 2700000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0201_2700000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2700000_ohm/working)<br><br>'
+md5: 7ed9081022a17f9ca7fab9fba612d51e
+md5_10: 7ed9081022
+md5_10_upper: 7ED9081022
+md5_5: 7ed90
+md5_5_upper: 7ED90
+md5_6: 7ed908
+md5_6_upper: 7ED908
+name: Electronic Resistor 0201 2700000 Ohm
+oomp_key: oomp_electronic_resistor_0201_2700000_ohm
+part_number: ''
+short_code: ro275
+short_code_upper: RO275
+size: '0201'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
+type: resistor
+type_first_letter: r
+type_first_letter_upper: R
