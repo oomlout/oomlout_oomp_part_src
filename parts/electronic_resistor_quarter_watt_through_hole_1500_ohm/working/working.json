@@ -29,6 +29,12 @@
     "md5_6_upper": "CE5F3E",
     "md5_10": "ce5f3e23a0",
     "md5_10_upper": "CE5F3E23A0",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "",
+    "size_only_numbers_no_zeros": "",
+    "description_only_numbers": "1500",
+    "description_only_numbers_short": "1k5",
     "markdown_full": "[electronic_resistor_quarter_watt_through_hole_1500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1500_ohm/working)<br>[ro152](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1500_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 1500 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1500_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_quarter_watt_through_hole_1500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1500_ohm/working)<br><br>"
 }

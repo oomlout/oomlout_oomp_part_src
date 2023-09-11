@@ -2,6 +2,8 @@ classification: electronic
 color: tantalum
 description_extra: 16_volt
 description_main: 4_7_micro_farad
+description_only_numbers: '47'
+description_only_numbers_short: '47'
 directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 distributors:
 -   id: distributor_lcsc
@@ -44,8 +46,12 @@ part_number: ''
 short_code: catuf4d716v
 short_code_upper: CATUF4D716V
 size: 3216_avx_a
+size_only_numbers: '3216'
+size_only_numbers_no_zeros: '3216'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
     oomp_key: oomp_kicad_device_c_polarized
 type: capacitor
+type_first_letter: c
+type_first_letter_upper: C

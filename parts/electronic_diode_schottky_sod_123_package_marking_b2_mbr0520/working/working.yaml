@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: package_marking_b2
 description_main: ''
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 distributors:
 -   id: distributor_lcsc
@@ -65,8 +67,12 @@ part_number: mbr0520
 short_code: dssod123pmb2mbr0520
 short_code_upper: DSSOD123PMB2MBR0520
 size: sod_123
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d_schottky//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d_schottky
     oomp_key: oomp_kicad_device_d_schottky
 type: diode_schottky
+type_first_letter: d
+type_first_letter_upper: D

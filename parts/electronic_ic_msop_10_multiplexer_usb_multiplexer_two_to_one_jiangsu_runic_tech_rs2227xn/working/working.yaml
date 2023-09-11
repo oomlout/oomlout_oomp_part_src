@@ -2,6 +2,8 @@ classification: electronic
 color: multiplexer
 description_extra: two_to_one
 description_main: usb_multiplexer
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
 distributors:
 -   id: distributor_lcsc
@@ -81,4 +83,8 @@ short_code: imsp10mpump21rs2227
 short_code_upper: IMSP10MPUMP21RS2227
 short_name: usb multiplexer 2 to 1 (rs2227xn)
 size: msop_10
+size_only_numbers: '10'
+size_only_numbers_no_zeros: '1'
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

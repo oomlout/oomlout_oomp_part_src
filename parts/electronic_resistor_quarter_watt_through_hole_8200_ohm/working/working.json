@@ -29,6 +29,12 @@
     "md5_6_upper": "FDC5A8",
     "md5_10": "fdc5a8331c",
     "md5_10_upper": "FDC5A8331C",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "",
+    "size_only_numbers_no_zeros": "",
+    "description_only_numbers": "8200",
+    "description_only_numbers_short": "8k2",
     "markdown_full": "[electronic_resistor_quarter_watt_through_hole_8200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm/working)<br>[ro822](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 8200 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_quarter_watt_through_hole_8200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm/working)<br><br>"
 }

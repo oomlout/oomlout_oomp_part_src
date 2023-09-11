@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: surface_mount
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_socket_usb_micro_surface_mount
 distributors:
 -   id: distributor_lcsc
@@ -62,8 +64,12 @@ short_code: scumcsm
 short_code_upper: SCUMCSM
 short_name: ''
 size: usb_micro
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_micro//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro
     oomp_key: oomp_kicad_connector_usb_b_micro
 type: socket
+type_first_letter: s
+type_first_letter_upper: S

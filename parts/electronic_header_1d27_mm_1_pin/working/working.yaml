@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 1_pin
+description_only_numbers: '1'
+description_only_numbers_short: '1'
 directory: parts/electronic_header_1d27_mm_1_pin
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_1_pin/working
@@ -27,8 +29,12 @@ part_number: ''
 short_code: h1d271p
 short_code_upper: H1D271P
 size: 1d27_mm
+size_only_numbers: '127'
+size_only_numbers_no_zeros: '127'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x01_pin
     oomp_key: oomp_kicad_connector_conn_01x01_pin
 type: header
+type_first_letter: h
+type_first_letter_upper: H

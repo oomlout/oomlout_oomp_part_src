@@ -47,6 +47,12 @@
     "md5_6_upper": "9759E7",
     "md5_10": "9759e76ec8",
     "md5_10_upper": "9759E76EC8",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "0201",
+    "size_only_numbers_no_zeros": "21",
+    "description_only_numbers": "68",
+    "description_only_numbers_short": "68",
     "markdown_full": "[electronic_resistor_0201_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[ro680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[Electronic Resistor 0201 68 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[LCSC - C2779736<br>](https://lcsc.com/product-detail/C2779736.html)<br>[Uniroyal - NQ01WMJ0680TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0680TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0680TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0680TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0680TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0680TEE)<br>",
     "markdown_short": "[electronic_resistor_0201_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm/working)<br>[LCSC - C2779736<br>](https://lcsc.com/product-detail/C2779736.html)<br>[Uniroyal - NQ01WMJ0680TEE- not in jlc basic parts]()"
 }

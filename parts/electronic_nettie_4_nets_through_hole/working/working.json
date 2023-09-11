@@ -29,6 +29,12 @@
     "md5_6_upper": "AC52AB",
     "md5_10": "ac52abec84",
     "md5_10_upper": "AC52ABEC84",
+    "type_first_letter": "n",
+    "type_first_letter_upper": "N",
+    "size_only_numbers": "4",
+    "size_only_numbers_no_zeros": "4",
+    "description_only_numbers": "",
+    "description_only_numbers_short": "0",
     "markdown_full": "[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[Electronic Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br>",
     "markdown_short": "[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br>"
 }

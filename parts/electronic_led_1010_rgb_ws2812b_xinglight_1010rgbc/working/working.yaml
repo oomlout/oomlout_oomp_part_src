@@ -2,6 +2,8 @@ classification: electronic
 color: rgb
 description_extra: ''
 description_main: ws2812b
+description_only_numbers: '2812'
+description_only_numbers_short: 2k8
 directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 distributors: []
 filter: ''
@@ -51,6 +53,8 @@ short_code: l101028121010rgbc
 short_code_upper: L101028121010RGBC
 short_name: 1010 Rgbws2812B Led
 size: '1010'
+size_only_numbers: '1010'
+size_only_numbers_no_zeros: '11'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -59,3 +63,5 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
     oomp_key: oomp_kicad_led_ws2812b
 type: led
+type_first_letter: l
+type_first_letter_upper: L

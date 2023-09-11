@@ -201,6 +201,49 @@ def add_part(**kwargs):
         parts_md5_10[kwargs["md5_10"]] = id
         
 
+        ### add useful name variants
+        #      classification
+        #      type
+        type_first_letter = kwargs["type"][0]
+        kwargs["type_first_letter"] = type_first_letter
+        kwargs["type_first_letter_upper"] = type_first_letter.upper()
+        #      size
+        #remove all charachters that aren't numbers
+        size_only_numbers = ''.join(i for i in kwargs["size"] if i.isdigit())
+        kwargs["size_only_numbers"] = size_only_numbers
+        size_only_numbers_no_zeros = size_only_numbers.lstrip("0")
+        kwargs["size_only_numbers_no_zeros"] = str(size_only_numbers_no_zeros).replace("0","")
+        #      color
+        
+        #      description_main
+        working_desc = kwargs["description_main"]
+        working_desc = working_desc.replace("2d54","")
+        description_only_numbers = ''.join(i for i in kwargs["description_main"] if i.isdigit())
+        kwargs["description_only_numbers"] = description_only_numbers
+        description_only_numbers_short = ""
+        if description_only_numbers == "":
+            description_only_numbers = 0
+        don = int(description_only_numbers)
+        if don < 1000:
+            description_only_numbers_short = str(don)
+        elif don < 100000:
+            w = str(don / 1000)
+            w =w.replace(".", "")
+            if w[1] != "0":
+                description_only_numbers_short = w[0] + "k" + w[1]
+            else:
+                description_only_numbers_short = w + "k"
+        elif don < 1000000:
+            w = str(don / 1000)
+            description_only_numbers_short = w + "k"
+        else:
+            description_only_numbers_short = str(round(don / 1000000)) + "M"
+            
+
+        kwargs["description_only_numbers_short"] = description_only_numbers_short
+        #      description_extra
+
+
         kwargs = get_markdown_summaries(**kwargs)
 
 
@@ -240,7 +283,7 @@ def add_part(**kwargs):
             import copy
             p2 = copy.deepcopy(kwargs)
             p2.pop("make_files")
-            p2.pop("counter")
+            p2.pop("counter", None)
 
             with open("parts/" + id + "/working/working.yaml", "w") as outfile:
                 yaml.dump(p2, outfile, indent=4)
@@ -260,6 +303,20 @@ def get_id(**kwargs):
     #remove the trailing '_'
     id = id[:-1]
     return id
+
+def search_for_part_id(search,**kwargs):
+    # test if in parts
+    search = search.replace("oomp_","")
+    return_value = parts.get(search, "")
+    if return_value == "":
+        #grab from short code
+        for part_id in parts:
+            if parts[part_id]["short_code"] == search:
+                return_value = parts[part_id]
+    
+    return_value = return_value.get("id","")
+    return return_value
+
 
 def generate_readme_old(**kwargs):
     #generate a readme.md file for the part

@@ -28,6 +28,12 @@
     "md5_6_upper": "B9674E",
     "md5_10": "b9674e4adc",
     "md5_10_upper": "B9674E4ADC",
+    "type_first_letter": "h",
+    "type_first_letter_upper": "H",
+    "size_only_numbers": "254",
+    "size_only_numbers_no_zeros": "254",
+    "description_only_numbers": "27",
+    "description_only_numbers_short": "27",
     "markdown_full": "[electronic_header_2d54_mm_27_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br>[hi127psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 27 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br><br>",
     "markdown_short": "[electronic_header_2d54_mm_27_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br><br>"
 }

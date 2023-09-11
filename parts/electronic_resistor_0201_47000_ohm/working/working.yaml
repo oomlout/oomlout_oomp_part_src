@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 47000_ohm
+description_only_numbers: '47000'
+description_only_numbers_short: 4k7
 directory: parts/electronic_resistor_0201_47000_ohm
 distributors: []
 filter: ''
@@ -39,8 +41,12 @@ part_number: ''
 short_code: ro473
 short_code_upper: RO473
 size: '0201'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
     oomp_key: oomp_kicad_device_r
 type: resistor
+type_first_letter: r
+type_first_letter_upper: R

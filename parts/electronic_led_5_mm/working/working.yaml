@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: ''
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_led_5_mm
 distributors: []
 filter: ''
@@ -34,8 +36,12 @@ short_code: l5
 short_code_upper: L5
 short_name: 5 Mm Led
 size: 5_mm
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
     oomp_key: oomp_kicad_device_led
 type: led
+type_first_letter: l
+type_first_letter_upper: L

@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: surface_mount
 description_main: 9_pin
+description_only_numbers: '9'
+description_only_numbers_short: '9'
 directory: parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount/working
@@ -28,8 +30,12 @@ short_code: h9psm
 short_code_upper: H9PSM
 short_name: Jst Xh 9 Pin Surface Mount Header 2.54 Mm Pitch
 size: 2d54_mm_jst_xh
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
     oomp_key: oomp_kicad_connector_conn_01x09_pin
 type: header
+type_first_letter: h
+type_first_letter_upper: H

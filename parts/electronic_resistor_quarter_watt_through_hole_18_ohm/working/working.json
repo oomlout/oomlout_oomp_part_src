@@ -29,6 +29,12 @@
     "md5_6_upper": "8BF041",
     "md5_10": "8bf0419b52",
     "md5_10_upper": "8BF0419B52",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "",
+    "size_only_numbers_no_zeros": "",
+    "description_only_numbers": "18",
+    "description_only_numbers_short": "18",
     "markdown_full": "[electronic_resistor_quarter_watt_through_hole_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm/working)<br>[ro180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 18 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_quarter_watt_through_hole_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm/working)<br><br>"
 }

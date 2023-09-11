@@ -28,6 +28,12 @@
     "md5_6_upper": "F60431",
     "md5_10": "f604310400",
     "md5_10_upper": "F604310400",
+    "type_first_letter": "h",
+    "type_first_letter_upper": "H",
+    "size_only_numbers": "254",
+    "size_only_numbers_no_zeros": "254",
+    "description_only_numbers": "31",
+    "description_only_numbers_short": "31",
     "markdown_full": "[electronic_header_2d54_mm_31_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_31_pin_surface_mount/working)<br>[hi131psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_31_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm 31 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_31_pin_surface_mount/working)<br><br>",
     "markdown_short": "[electronic_header_2d54_mm_31_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_31_pin_surface_mount/working)<br><br>"
 }

@@ -27,6 +27,12 @@
     "md5_6_upper": "4E3CEB",
     "md5_10": "4e3cebccf7",
     "md5_10_upper": "4E3CEBCCF7",
+    "type_first_letter": "i",
+    "type_first_letter_upper": "I",
+    "size_only_numbers": "28",
+    "size_only_numbers_no_zeros": "28",
+    "description_only_numbers": "328",
+    "description_only_numbers_short": "328",
     "markdown_full": "[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[iq28at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br>",
     "markdown_short": "[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br>"
 }

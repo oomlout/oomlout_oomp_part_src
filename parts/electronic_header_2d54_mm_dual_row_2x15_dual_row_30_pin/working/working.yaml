@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 2x15_dual_row_30_pin
+description_only_numbers: '21530'
+description_only_numbers_short: 2k1
 directory: parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin
 distributors: []
 footprint:
@@ -31,8 +33,12 @@ part_number: ''
 short_code: hi12x15p
 short_code_upper: HI12X15P
 size: 2d54_mm_dual_row
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x15_odd_even//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x15_odd_even
     oomp_key: oomp_kicad_connector_generic_conn_02x15_odd_even
 type: header
+type_first_letter: h
+type_first_letter_upper: H

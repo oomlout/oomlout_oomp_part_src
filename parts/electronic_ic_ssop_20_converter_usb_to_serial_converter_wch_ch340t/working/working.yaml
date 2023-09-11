@@ -2,6 +2,8 @@ classification: electronic
 color: converter
 description_extra: ''
 description_main: usb_to_serial_converter
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 distributors:
 -   id: distributor_lcsc
@@ -116,8 +118,12 @@ short_code: ich340t
 short_code_upper: ICH340T
 short_name: usb to serial converter (ch340t)
 size: ssop_20
+size_only_numbers: '20'
+size_only_numbers_no_zeros: '2'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t
     oomp_key: oomp_kicad_interface_usb_ch340t
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: surface_mount
 description_main: 5_pin
+description_only_numbers: '5'
+description_only_numbers_short: '5'
 directory: parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount/working
@@ -34,8 +36,12 @@ short_code: h5psm
 short_code_upper: H5PSM
 short_name: Jst Sh 5 Pin Surface Mount Header 1 Mm Pitch
 size: 1_mm_jst_sh
+size_only_numbers: '1'
+size_only_numbers_no_zeros: '1'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x05_pin//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin
     oomp_key: oomp_kicad_connector_conn_01x05_pin
 type: header
+type_first_letter: h
+type_first_letter_upper: H

@@ -2,6 +2,8 @@ classification: electronic
 color: sensor
 description_extra: ''
 description_main: accelerometer
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321
 distributors:
 -   id: distributor_lcsc
@@ -91,4 +93,8 @@ short_code: ilg2x212psnastk8321
 short_code_upper: ILG2X212PSNASTK8321
 short_name: bosch sensortec bme280 pressure and temperature sensor
 size: lga_2_mm_x_2_mm_12_pin
+size_only_numbers: '2212'
+size_only_numbers_no_zeros: '2212'
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

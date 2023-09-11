@@ -29,6 +29,12 @@
     "md5_6_upper": "39961F",
     "md5_10": "39961fecb4",
     "md5_10_upper": "39961FECB4",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "0805",
+    "size_only_numbers_no_zeros": "85",
+    "description_only_numbers": "100000",
+    "description_only_numbers_short": "100.0k",
     "markdown_full": "[electronic_resistor_0805_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_100000_ohm/working)<br>[r8o104](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_100000_ohm/working)<br>[Electronic Resistor 0805 100000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_100000_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_0805_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_100000_ohm/working)<br><br>"
 }

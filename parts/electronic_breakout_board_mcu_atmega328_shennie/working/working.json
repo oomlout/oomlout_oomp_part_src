@@ -182,6 +182,12 @@
     "md5_6_upper": "09DFB7",
     "md5_10": "09dfb71639",
     "md5_10_upper": "09DFB71639",
+    "type_first_letter": "b",
+    "type_first_letter_upper": "B",
+    "size_only_numbers": "",
+    "size_only_numbers_no_zeros": "",
+    "description_only_numbers": "328",
+    "description_only_numbers_short": "328",
     "markdown_full": "[electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br>[bbat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br>[Electronic Breakout Board Mcu Atmega328 Shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br><br>",
     "markdown_short": "[electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br><br>"
 }

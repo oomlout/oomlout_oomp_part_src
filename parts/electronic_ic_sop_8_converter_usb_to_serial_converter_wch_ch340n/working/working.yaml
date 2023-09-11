@@ -2,6 +2,8 @@ classification: electronic
 color: converter
 description_extra: ''
 description_main: usb_to_serial_converter
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 distributors:
 -   id: distributor_lcsc
@@ -68,4 +70,8 @@ short_code: isp8
 short_code_upper: ISP8
 short_name: usb to serial converter (ch340n)
 size: sop_8
+size_only_numbers: '8'
+size_only_numbers_no_zeros: '8'
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 8200_ohm
+description_only_numbers: '8200'
+description_only_numbers_short: 8k2
 directory: parts/electronic_resistor_0603_8200_ohm
 distributors:
 -   id: distributor_lcsc
@@ -72,6 +74,8 @@ part_number: ''
 short_code: r6o822
 short_code_upper: R6O822
 size: '0603'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -80,3 +84,5 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
     oomp_key: oomp_kicad_device_r
 type: resistor
+type_first_letter: r
+type_first_letter_upper: R

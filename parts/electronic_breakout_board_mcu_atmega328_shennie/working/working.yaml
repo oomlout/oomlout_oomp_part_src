@@ -3,6 +3,8 @@ color: mcu
 description: A popular arduino compatible atmega328 board from aliexpress
 description_extra: shennie
 description_main: atmega328
+description_only_numbers: '328'
+description_only_numbers_short: '328'
 directory: parts/electronic_breakout_board_mcu_atmega328_shennie
 distributors: []
 footprint:
@@ -155,8 +157,12 @@ short_code: bbat328
 short_code_upper: BBAT328
 short_name: ''
 size: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_module_arduino_nano_v2_x//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x
     oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
 type: breakout_board
+type_first_letter: b
+type_first_letter_upper: B

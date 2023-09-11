@@ -34,6 +34,12 @@
     "md5_6_upper": "DAAC53",
     "md5_10": "daac5353b3",
     "md5_10_upper": "DAAC5353B3",
+    "type_first_letter": "b",
+    "type_first_letter_upper": "B",
+    "size_only_numbers": "35625",
+    "size_only_numbers_no_zeros": "35625",
+    "description_only_numbers": "",
+    "description_only_numbers_short": "0",
     "markdown_full": "[electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[b3560s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br>",
     "markdown_short": "[electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br>"
 }

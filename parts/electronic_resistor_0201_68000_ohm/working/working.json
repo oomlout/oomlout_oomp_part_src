@@ -40,6 +40,12 @@
     "md5_6_upper": "6550D3",
     "md5_10": "6550d3e8d3",
     "md5_10_upper": "6550D3E8D3",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "0201",
+    "size_only_numbers_no_zeros": "21",
+    "description_only_numbers": "68000",
+    "description_only_numbers_short": "6k8",
     "markdown_full": "[electronic_resistor_0201_68000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68000_ohm/working)<br>[ro683](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68000_ohm/working)<br>[Electronic Resistor 0201 68000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68000_ohm/working)<br><br>[Uniroyal - NQ01WMJ0683TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0683TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0683TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0683TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0683TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0683TEE)<br>",
     "markdown_short": "[electronic_resistor_0201_68000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68000_ohm/working)<br><br>[Uniroyal - NQ01WMJ0683TEE- not in jlc basic parts]()"
 }

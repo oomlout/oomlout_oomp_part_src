@@ -2,6 +2,8 @@ classification: electronic
 color: converter
 description_extra: ''
 description_main: usb_to_serial_converter
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 distributors:
 -   id: distributor_lcsc
@@ -76,4 +78,8 @@ short_code: i
 short_code_upper: I
 short_name: usb to serial converter (ch340k)
 size: essop_10
+size_only_numbers: '10'
+size_only_numbers_no_zeros: '1'
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

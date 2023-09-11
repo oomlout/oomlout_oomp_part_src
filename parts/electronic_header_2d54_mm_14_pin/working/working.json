@@ -28,6 +28,12 @@
     "md5_6_upper": "7B4705",
     "md5_10": "7b47053a9c",
     "md5_10_upper": "7B47053A9C",
+    "type_first_letter": "h",
+    "type_first_letter_upper": "H",
+    "size_only_numbers": "254",
+    "size_only_numbers_no_zeros": "254",
+    "description_only_numbers": "14",
+    "description_only_numbers_short": "14",
     "markdown_full": "[electronic_header_2d54_mm_14_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_14_pin/working)<br>[hi114p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_14_pin/working)<br>[Electronic Header 2D54 Mm 14 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_14_pin/working)<br><br>",
     "markdown_short": "[electronic_header_2d54_mm_14_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_14_pin/working)<br><br>"
 }

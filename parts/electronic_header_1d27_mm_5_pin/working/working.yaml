@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 5_pin
+description_only_numbers: '5'
+description_only_numbers_short: '5'
 directory: parts/electronic_header_1d27_mm_5_pin
 distributors: []
 footprint:
@@ -31,8 +33,12 @@ part_number: ''
 short_code: h1d275p
 short_code_upper: H1D275P
 size: 1d27_mm
+size_only_numbers: '127'
+size_only_numbers_no_zeros: '127'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x05_pin//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin
     oomp_key: oomp_kicad_connector_conn_01x05_pin
 type: header
+type_first_letter: h
+type_first_letter_upper: H

@@ -2,6 +2,8 @@ classification: electronic
 color: converter
 description_extra: ''
 description_main: usb_to_serial_converter
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 distributors:
 -   id: distributor_lcsc
@@ -80,8 +82,12 @@ short_code: imsp10ch340x
 short_code_upper: IMSP10CH340X
 short_name: usb to serial converter (ch340x)
 size: msop_10
+size_only_numbers: '10'
+size_only_numbers_no_zeros: '1'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x
     oomp_key: oomp_kicad_interface_usb_ch340x
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

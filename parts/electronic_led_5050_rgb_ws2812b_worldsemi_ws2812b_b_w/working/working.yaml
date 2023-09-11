@@ -2,6 +2,8 @@ classification: electronic
 color: rgb
 description_extra: ''
 description_main: ws2812b
+description_only_numbers: '2812'
+description_only_numbers_short: 2k8
 directory: parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
 distributors:
 -   id: distributor_lcsc
@@ -62,6 +64,8 @@ short_code: l50502812ws2812bbw
 short_code_upper: L50502812WS2812BBW
 short_name: 5050 Rgbws2812B Led
 size: '5050'
+size_only_numbers: '5050'
+size_only_numbers_no_zeros: '55'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
@@ -70,3 +74,5 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
     oomp_key: oomp_kicad_led_ws2812b
 type: led
+type_first_letter: l
+type_first_letter_upper: L

@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 10_micro_farad
+description_only_numbers: '10'
+description_only_numbers_short: '10'
 directory: parts/electronic_capacitor_0603_10_micro_farad
 distributors: []
 filter: ''
@@ -34,6 +36,8 @@ part_number: ''
 short_code: c6uf10
 short_code_upper: C6UF10
 size: '0603'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -42,3 +46,5 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
     oomp_key: oomp_kicad_device_c
 type: capacitor
+type_first_letter: c
+type_first_letter_upper: C

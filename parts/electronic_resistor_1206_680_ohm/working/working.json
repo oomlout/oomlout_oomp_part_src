@@ -73,6 +73,12 @@
     "md5_6_upper": "1AA70E",
     "md5_10": "1aa70e29a9",
     "md5_10_upper": "1AA70E29A9",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "1206",
+    "size_only_numbers_no_zeros": "126",
+    "description_only_numbers": "680",
+    "description_only_numbers_short": "680",
     "markdown_full": "[electronic_resistor_1206_680_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_680_ohm/working)<br>[r12o681](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_680_ohm/working)<br>[Electronic Resistor 1206 680 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_680_ohm/working)<br>[LCSC - C25392<br>](https://lcsc.com/product-detail/C25392.html)[LCSC - C137124<br>](https://lcsc.com/product-detail/C137124.html)<br>[Uniroyal - 1206W4J0681T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0681T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0681T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0681T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0681T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0681T5E)<br>[Uniroyal - 1206W4F6800T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F6800T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F6800T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F6800T5E)[(N)  ](https://www.newark.com/search?st=1206W4F6800T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F6800T5E)<br>[Yageo - RC1206JR-07680RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07680RL) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-07680RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-07680RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-07680RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-07680RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-07680RL)<br>",
     "markdown_short": "[electronic_resistor_1206_680_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_680_ohm/working)<br>[LCSC - C25392<br>](https://lcsc.com/product-detail/C25392.html)[LCSC - C137124<br>](https://lcsc.com/product-detail/C137124.html)<br>[Uniroyal - 1206W4J0681T5E- not in jlc basic parts]()[Uniroyal - 1206W4F6800T5E- jlc basic part]()[Yageo - RC1206JR-07680RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07680RL)"
 }

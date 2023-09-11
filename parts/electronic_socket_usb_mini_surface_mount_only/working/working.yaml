@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: surface_mount_only
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_socket_usb_mini_surface_mount_only
 distributors:
 -   id: distributor_lcsc
@@ -68,8 +70,12 @@ short_code: scumnsmo
 short_code_upper: SCUMNSMO
 short_name: ''
 size: usb_mini
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini
     oomp_key: oomp_kicad_connector_usb_b_mini
 type: socket
+type_first_letter: s
+type_first_letter_upper: S

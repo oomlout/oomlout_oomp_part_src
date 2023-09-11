@@ -2,6 +2,8 @@ classification: electronic
 color: led_driver
 description_extra: ''
 description_main: led_matrix_driver_16_x_8
+description_only_numbers: '168'
+description_only_numbers_short: '168'
 directory: parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 distributors: []
 footprint:
@@ -148,4 +150,8 @@ short_code: isoic28waip1640
 short_code_upper: ISOIC28WAIP1640
 short_name: 16x8 led matrix driver (aip1640)
 size: soic_28_wide
+size_only_numbers: '28'
+size_only_numbers_no_zeros: '28'
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

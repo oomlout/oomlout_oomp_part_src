@@ -2,6 +2,8 @@ classification: electronic
 color: mcu
 description_extra: ''
 description_main: atmega328
+description_only_numbers: '328'
+description_only_numbers_short: '328'
 directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 distributors:
 -   id: distributor_lcsc
@@ -54,8 +56,12 @@ short_code: itq32at328
 short_code_upper: ITQ32AT328
 short_name: atmega328 32 pin tqfp
 size: tqfp_32
+size_only_numbers: '32'
+size_only_numbers_no_zeros: '32'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
     oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

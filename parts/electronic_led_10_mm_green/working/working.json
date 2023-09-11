@@ -30,6 +30,12 @@
     "md5_6_upper": "5F6525",
     "md5_10": "5f6525ecaf",
     "md5_10_upper": "5F6525ECAF",
+    "type_first_letter": "l",
+    "type_first_letter_upper": "L",
+    "size_only_numbers": "10",
+    "size_only_numbers_no_zeros": "1",
+    "description_only_numbers": "",
+    "description_only_numbers_short": "0",
     "markdown_full": "[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br>[l10g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br>[Electronic Led 10 Mm Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br><br>",
     "markdown_short": "[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br><br>"
 }

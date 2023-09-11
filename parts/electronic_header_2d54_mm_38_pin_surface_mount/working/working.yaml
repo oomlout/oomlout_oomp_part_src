@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: surface_mount
 description_main: 38_pin
+description_only_numbers: '38'
+description_only_numbers_short: '38'
 directory: parts/electronic_header_2d54_mm_38_pin_surface_mount
 distributors: []
 footprint:
@@ -35,8 +37,12 @@ short_code: hi138psm
 short_code_upper: HI138PSM
 short_name: 0.1" 38 Pin Surface Mount Header
 size: 2d54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x38_pin//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x38_pin
     oomp_key: oomp_kicad_connector_conn_01x38_pin
 type: header
+type_first_letter: h
+type_first_letter_upper: H

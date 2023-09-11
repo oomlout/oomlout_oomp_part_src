@@ -2,6 +2,8 @@ classification: electronic
 color: sensor
 description_extra: ''
 description_main: light
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 distributors:
 -   id: distributor_lcsc
@@ -50,7 +52,11 @@ short_code: i6snl
 short_code_upper: I6SNL
 short_name: everlight elec als_pt19_315c_l177_tr8
 size: '0603'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

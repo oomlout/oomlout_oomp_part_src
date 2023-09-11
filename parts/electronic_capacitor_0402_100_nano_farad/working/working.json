@@ -29,6 +29,12 @@
     "md5_6_upper": "59771C",
     "md5_10": "59771c4331",
     "md5_10_upper": "59771C4331",
+    "type_first_letter": "c",
+    "type_first_letter_upper": "C",
+    "size_only_numbers": "0402",
+    "size_only_numbers_no_zeros": "42",
+    "description_only_numbers": "100",
+    "description_only_numbers_short": "100",
     "markdown_full": "[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[c4nf100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[Electronic Capacitor 0402 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>",
     "markdown_short": "[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>"
 }

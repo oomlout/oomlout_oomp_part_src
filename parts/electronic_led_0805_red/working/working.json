@@ -30,6 +30,12 @@
     "md5_6_upper": "FB973F",
     "md5_10": "fb973f6013",
     "md5_10_upper": "FB973F6013",
+    "type_first_letter": "l",
+    "type_first_letter_upper": "L",
+    "size_only_numbers": "0805",
+    "size_only_numbers_no_zeros": "85",
+    "description_only_numbers": "",
+    "description_only_numbers_short": "0",
     "markdown_full": "[electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[l8r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[Electronic Led 0805 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br>",
     "markdown_short": "[electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br>"
 }

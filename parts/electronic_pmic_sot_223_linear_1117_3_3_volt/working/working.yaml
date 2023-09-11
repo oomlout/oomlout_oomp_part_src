@@ -2,6 +2,8 @@ classification: electronic
 color: linear
 description_extra: 3_3_volt
 description_main: '1117'
+description_only_numbers: '1117'
+description_only_numbers_short: 1k1
 directory: parts/electronic_pmic_sot_223_linear_1117_3_3_volt
 distributors: []
 footprint:
@@ -32,6 +34,8 @@ short_code: pms22311173d3v
 short_code_upper: PMS22311173D3V
 short_name: ''
 size: sot_223
+size_only_numbers: '223'
+size_only_numbers_no_zeros: '223'
 smd_tape_depth: 2_mm
 smd_tape_pitch: 8_mm
 smd_tape_width: 12_mm
@@ -40,3 +44,5 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33
     oomp_key: oomp_kicad_regulator_linear_ap1117_33
 type: pmic
+type_first_letter: p
+type_first_letter_upper: P

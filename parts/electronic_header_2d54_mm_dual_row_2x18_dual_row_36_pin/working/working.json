@@ -27,6 +27,12 @@
     "md5_6_upper": "33780B",
     "md5_10": "33780b05e6",
     "md5_10_upper": "33780B05E6",
+    "type_first_letter": "h",
+    "type_first_letter_upper": "H",
+    "size_only_numbers": "254",
+    "size_only_numbers_no_zeros": "254",
+    "description_only_numbers": "21836",
+    "description_only_numbers_short": "2k1",
     "markdown_full": "[electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin/working)<br>[hi12x18p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin/working)<br>[Electronic Header 2D54 Mm Dual Row 2X18 Dual Row 36 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin/working)<br><br>",
     "markdown_short": "[electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin/working)<br><br>"
 }

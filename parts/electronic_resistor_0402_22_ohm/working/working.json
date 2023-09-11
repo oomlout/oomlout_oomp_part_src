@@ -73,6 +73,12 @@
     "md5_6_upper": "6475A2",
     "md5_10": "6475a296be",
     "md5_10_upper": "6475A296BE",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "0402",
+    "size_only_numbers_no_zeros": "42",
+    "description_only_numbers": "22",
+    "description_only_numbers_short": "22",
     "markdown_full": "[electronic_resistor_0402_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[r4o220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[Electronic Resistor 0402 22 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[LCSC - C25152<br>](https://lcsc.com/product-detail/C25152.html)[LCSC - C93929<br>](https://lcsc.com/product-detail/C93929.html)<br>[Uniroyal - 0402WGJ0220TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0220TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0220TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0220TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0220TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0220TCE)<br>[Uniroyal - 0402WGF022-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF022-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF022-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF022-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF022-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF022-1TCE)<br>[Yageo - RC0402JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0722RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0722RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0722RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0722RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0722RL)<br>",
     "markdown_short": "[electronic_resistor_0402_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm/working)<br>[LCSC - C25152<br>](https://lcsc.com/product-detail/C25152.html)[LCSC - C93929<br>](https://lcsc.com/product-detail/C93929.html)<br>[Uniroyal - 0402WGJ0220TCE- not in jlc basic parts]()[Uniroyal - 0402WGF022-1TCE- jlc basic part]()[Yageo - RC0402JR-0722RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722RL)"
 }

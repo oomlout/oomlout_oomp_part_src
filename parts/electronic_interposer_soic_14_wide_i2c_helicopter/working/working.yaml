@@ -6,6 +6,8 @@ description: An interposer between an i2c chip and a soic_14_wide package, The p
     This is the helicopter side (the side with the chips on it)
 description_extra: helicopter
 description_main: i2c
+description_only_numbers: '2'
+description_only_numbers_short: '2'
 directory: parts/electronic_interposer_soic_14_wide_i2c_helicopter
 distributors: []
 footprint:
@@ -94,4 +96,8 @@ short_code: insoic14wi2cheli
 short_code_upper: INSOIC14WI2CHELI
 short_name: ''
 size: soic_14_wide
+size_only_numbers: '14'
+size_only_numbers_no_zeros: '14'
 type: interposer
+type_first_letter: i
+type_first_letter_upper: I

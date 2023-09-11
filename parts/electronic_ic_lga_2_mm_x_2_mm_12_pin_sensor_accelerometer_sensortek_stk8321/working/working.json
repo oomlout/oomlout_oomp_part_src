@@ -103,6 +103,12 @@
     "md5_6_upper": "C4FD34",
     "md5_10": "c4fd3486a3",
     "md5_10_upper": "C4FD3486A3",
+    "type_first_letter": "i",
+    "type_first_letter_upper": "I",
+    "size_only_numbers": "2212",
+    "size_only_numbers_no_zeros": "2212",
+    "description_only_numbers": "",
+    "description_only_numbers_short": "0",
     "markdown_full": "[electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[ilg2x212psnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 2 Mm X 2 Mm 12 Pin Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/) [(L)  ](https://www.lcsc.com/search?q=STK8321)[(D)  ](https://www.digikey.com/en/products?keywords=STK8321)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=STK8321)[(N)  ](https://www.newark.com/search?st=STK8321)[(SZ)  ](https://so.szlcsc.com/global.html?k=STK8321)<br>",
     "markdown_short": "[electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)"
 }

@@ -30,6 +30,12 @@
     "md5_6_upper": "621692",
     "md5_10": "6216927724",
     "md5_10_upper": "6216927724",
+    "type_first_letter": "l",
+    "type_first_letter_upper": "L",
+    "size_only_numbers": "1206",
+    "size_only_numbers_no_zeros": "126",
+    "description_only_numbers": "",
+    "description_only_numbers_short": "0",
     "markdown_full": "[electronic_led_1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br>[l12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br>[Electronic Led 1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br><br>",
     "markdown_short": "[electronic_led_1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br><br>"
 }

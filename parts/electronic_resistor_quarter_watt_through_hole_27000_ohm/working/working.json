@@ -29,6 +29,12 @@
     "md5_6_upper": "E45C16",
     "md5_10": "e45c162d59",
     "md5_10_upper": "E45C162D59",
+    "type_first_letter": "r",
+    "type_first_letter_upper": "R",
+    "size_only_numbers": "",
+    "size_only_numbers_no_zeros": "",
+    "description_only_numbers": "27000",
+    "description_only_numbers_short": "2k7",
     "markdown_full": "[electronic_resistor_quarter_watt_through_hole_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27000_ohm/working)<br>[ro273](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27000_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 27000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27000_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_quarter_watt_through_hole_27000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27000_ohm/working)<br><br>"
 }

@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: ''
 description_main: 22_pico_farad
+description_only_numbers: '22'
+description_only_numbers_short: '22'
 directory: parts/electronic_capacitor_0402_22_pico_farad
 distributors: []
 filter: ''
@@ -33,8 +35,12 @@ part_number: ''
 short_code: c4pf22
 short_code_upper: C4PF22
 size: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
     oomp_key: oomp_kicad_device_c
 type: capacitor
+type_first_letter: c
+type_first_letter_upper: C

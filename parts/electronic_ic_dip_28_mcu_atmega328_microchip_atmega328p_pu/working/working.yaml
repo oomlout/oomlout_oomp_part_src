@@ -2,6 +2,8 @@ classification: electronic
 color: mcu
 description_extra: ''
 description_main: atmega328
+description_only_numbers: '328'
+description_only_numbers_short: '328'
 directory: parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 distributors: []
 footprint:
@@ -31,8 +33,12 @@ short_code: id28at328
 short_code_upper: ID28AT328
 short_name: atmega328 28 pin dip
 size: dip_28
+size_only_numbers: '28'
+size_only_numbers_no_zeros: '28'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328p_p//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328p_p
     oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328p_p
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

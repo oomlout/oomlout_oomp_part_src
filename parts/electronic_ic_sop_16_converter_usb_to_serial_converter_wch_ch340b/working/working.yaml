@@ -2,6 +2,8 @@ classification: electronic
 color: converter
 description_extra: ''
 description_main: usb_to_serial_converter
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
 distributors:
 -   id: distributor_lcsc
@@ -104,4 +106,8 @@ short_code: isp16ch340b
 short_code_upper: ISP16CH340B
 short_name: usb to serial converter (ch340b)
 size: sop_16
+size_only_numbers: '16'
+size_only_numbers_no_zeros: '16'
 type: ic
+type_first_letter: i
+type_first_letter_upper: I

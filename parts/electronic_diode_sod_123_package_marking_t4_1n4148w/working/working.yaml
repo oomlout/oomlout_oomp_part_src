@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: package_marking_t4
 description_main: ''
+description_only_numbers: ''
+description_only_numbers_short: '0'
 directory: parts/electronic_diode_sod_123_package_marking_t4_1n4148w
 distributors:
 -   id: distributor_lcsc
@@ -43,8 +45,12 @@ part_number: 1n4148w
 short_code: dsod123pmt44148
 short_code_upper: DSOD123PMT44148
 size: sod_123
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d
     oomp_key: oomp_kicad_device_d
 type: diode
+type_first_letter: d
+type_first_letter_upper: D

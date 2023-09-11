@@ -48,8 +48,8 @@ def copy_labels(**kwargs):
         parts_ordered_oomp = oom_office.load_csv_to_dict(filename=filename)
         #add to yaml
         import oom_yaml    
-        details = ["parts_ordered_oomp", parts_ordered_oomp]
-        oom_yaml.add_detail(yaml_file=yaml_file, details=details, add_markdown=True, oomp_replace=True)
+        detail = ["parts_ordered_oomp", parts_ordered_oomp]
+        oom_yaml.add_detail(yaml_file=yaml_file, detail=detail, add_markdown=True, oomp_replace=True)
         
     #copy labels
     if parts_ordered_oomp != []:

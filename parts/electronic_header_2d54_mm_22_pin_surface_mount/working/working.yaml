@@ -2,6 +2,8 @@ classification: electronic
 color: ''
 description_extra: surface_mount
 description_main: 22_pin
+description_only_numbers: '22'
+description_only_numbers_short: '22'
 directory: parts/electronic_header_2d54_mm_22_pin_surface_mount
 distributors: []
 footprint:
@@ -35,8 +37,12 @@ short_code: hi122psm
 short_code_upper: HI122PSM
 short_name: 0.1" 22 Pin Surface Mount Header
 size: 2d54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x22_pin//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x22_pin
     oomp_key: oomp_kicad_connector_conn_01x22_pin
 type: header
+type_first_letter: h
+type_first_letter_upper: H

@@ -102,6 +102,12 @@
     "md5_6_upper": "3CF65E",
     "md5_10": "3cf65e88ee",
     "md5_10_upper": "3CF65E88EE",
+    "type_first_letter": "i",
+    "type_first_letter_upper": "I",
+    "size_only_numbers": "14",
+    "size_only_numbers_no_zeros": "14",
+    "description_only_numbers": "2",
+    "description_only_numbers_short": "2",
     "markdown_full": "[electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[insoic14wi2cland](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[Electronic Interposer Soic 14 Wide I2C Landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br>",
     "markdown_short": "[electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br>"
 }
