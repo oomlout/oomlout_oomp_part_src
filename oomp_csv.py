@@ -36,8 +36,9 @@ def load_part_data_into_yaml(**kwargs):
     #laod shortcoides
     filt = []
     for value in filt_raw:
-        part_id = oomp.search_for_part_id(value)        
-        filt.append(part_id)
+        part_id = oomp.search_for_part_id(value)   
+        if part_id != "":     
+            filt.append(part_id)
 
     oom_yaml.add_detail(yaml_file=yaml_file, detail=["parts_final",filt], add_markdown=True)
 

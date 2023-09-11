@@ -1,0 +1,10 @@
+parts_final:
+- electronic_resistor_0603_27000_ohm
+- electronic_resistor_0603_560_ohm
+- electronic_resistor_0603_10_ohm
+- electronic_resistor_0603_68000_ohm
+- electronic_resistor_0603_18000_ohm
+parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_resistor_0603_27000_ohm\
+  \ |  | \n| electronic_resistor_0603_560_ohm |  | \n| electronic_resistor_0603_10_ohm\
+  \ |  | \n| electronic_resistor_0603_68000_ohm |  | \n| electronic_resistor_0603_18000_ohm\
+  \ |  | \n"

@@ -314,7 +314,11 @@ def search_for_part_id(search,**kwargs):
             if parts[part_id]["short_code"] == search:
                 return_value = parts[part_id]
     
-    return_value = return_value.get("id","")
+    try:
+        return_value = return_value.get("id","")
+    except:
+        print(f"error getting id for {search}")
+        return_value = ""
     return return_value
 
 
