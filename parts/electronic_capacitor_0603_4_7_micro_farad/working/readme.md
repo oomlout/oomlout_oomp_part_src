@@ -60,8 +60,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 4_mm | 
 | md5 | 6ab38cdcab2221adc1a931e09497a8b8 | 
 | md5_5 | 6ab38 | 
+| md5_5_upper | 6AB38 | 
 | md5_6 | 6ab38c | 
+| md5_6_upper | 6AB38C | 
 | md5_10 | 6ab38cdcab | 
+| md5_10_upper | 6AB38CDCAB | 
+| type_first_letter | c | 
+| type_first_letter_upper | C | 
+| size_only_numbers | 0603 | 
+| size_only_numbers_no_zeros | 63 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 47 | 
+| description_only_numbers_short | 47 | 
+| description_or_color | 47 | 
+| description_or_color_upper | 47 | 
 | markdown_full | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[c6uf4d7](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[Electronic Capacitor 0603 4 7 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br> | 
 | markdown_short | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod'}] | 

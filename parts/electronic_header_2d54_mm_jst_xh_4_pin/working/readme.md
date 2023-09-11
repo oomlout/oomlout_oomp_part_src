@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | e9da78811caf0eb72db78a3834402357 | 
 | md5_5 | e9da7 | 
+| md5_5_upper | E9DA7 | 
 | md5_6 | e9da78 | 
+| md5_6_upper | E9DA78 | 
 | md5_10 | e9da78811c | 
+| md5_10_upper | E9DA78811C | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 4 | 
+| description_only_numbers_short | 4 | 
+| description_or_color | 4 | 
+| description_or_color_upper | 4 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_4_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin/working)<br>[h4p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin/working)<br>[Electronic Header 2D54 Mm Jst Xh 4 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_4_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x04_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x04_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x04_pin//working/working.kicad_sym'}] | 

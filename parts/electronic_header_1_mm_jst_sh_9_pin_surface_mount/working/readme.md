@@ -53,8 +53,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [{'name': 'JST', 'part_number': 'BM09B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | 3392cfc59fa2610bf5afa029c396cd3b | 
 | md5_5 | 3392c | 
+| md5_5_upper | 3392C | 
 | md5_6 | 3392cf | 
+| md5_6_upper | 3392CF | 
 | md5_10 | 3392cfc59f | 
+| md5_10_upper | 3392CFC59F | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 1 | 
+| size_only_numbers_no_zeros | 1 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 9 | 
+| description_only_numbers_short | 9 | 
+| description_or_color | 9 | 
+| description_or_color_upper | 9 | 
 | markdown_full | [electronic_header_1_mm_jst_sh_9_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount/working)<br>[h9psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 9 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount/working)<br><br>[JST - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM09B-SRSS-TB)<br> | 
 | markdown_short | [electronic_header_1_mm_jst_sh_9_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount/working)<br><br>[JST - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x09_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym'}] | 

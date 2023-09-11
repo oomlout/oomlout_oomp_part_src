@@ -60,8 +60,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | f796a09a646916059a9bc84606511211 | 
 | md5_5 | f796a | 
+| md5_5_upper | F796A | 
 | md5_6 | f796a0 | 
+| md5_6_upper | F796A0 | 
 | md5_10 | f796a09a64 | 
+| md5_10_upper | F796A09A64 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 10 | 
+| description_only_numbers_short | 10 | 
+| description_or_color | 10 | 
+| description_or_color_upper | 10 | 
 | markdown_full | [electronic_header_2d54_mm_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin_surface_mount_right_angle/working)<br>[hi110psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin_surface_mount_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical//working/working.kicad_mod'}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal//working/working.kicad_mod'}] | 

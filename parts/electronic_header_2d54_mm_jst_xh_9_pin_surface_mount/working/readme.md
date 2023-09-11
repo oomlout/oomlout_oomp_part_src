@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 045584686e7d0b594b46b78649594bc6 | 
 | md5_5 | 04558 | 
+| md5_5_upper | 04558 | 
 | md5_6 | 045584 | 
+| md5_6_upper | 045584 | 
 | md5_10 | 045584686e | 
+| md5_10_upper | 045584686E | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 9 | 
+| description_only_numbers_short | 9 | 
+| description_or_color | 9 | 
+| description_or_color_upper | 9 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_9_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount/working)<br>[h9psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm Jst Xh 9 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_9_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_9_pin_surface_mount/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x09_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym'}] | 

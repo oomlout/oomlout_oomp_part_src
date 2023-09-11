@@ -52,8 +52,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 799a76eca4e04a8148fb90484fe20265 | 
 | md5_5 | 799a7 | 
+| md5_5_upper | 799A7 | 
 | md5_6 | 799a76 | 
+| md5_6_upper | 799A76 | 
 | md5_10 | 799a76eca4 | 
+| md5_10_upper | 799A76ECA4 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 3 | 
+| size_only_numbers_no_zeros | 3 | 
+| color_upper | WHITE | 
+| color_first_letter | w | 
+| color_first_letter_upper | W | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | w  | 
+| description_or_color_upper | W  | 
 | markdown_full | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[l3w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[Electronic Led 3 Mm White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br> | 
 | markdown_short | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

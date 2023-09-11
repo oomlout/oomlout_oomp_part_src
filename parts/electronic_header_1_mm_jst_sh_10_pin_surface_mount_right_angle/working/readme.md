@@ -58,8 +58,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [{'name': 'JST', 'part_number': 'SM10B-SRSS-TB', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'id': 'manufacturer_jst'}] | 
 | md5 | a5d918c0b8320b129ac488715bf4593a | 
 | md5_5 | a5d91 | 
+| md5_5_upper | A5D91 | 
 | md5_6 | a5d918 | 
+| md5_6_upper | A5D918 | 
 | md5_10 | a5d918c0b8 | 
+| md5_10_upper | A5D918C0B8 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 1 | 
+| size_only_numbers_no_zeros | 1 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 10 | 
+| description_only_numbers_short | 10 | 
+| description_or_color | 10 | 
+| description_or_color_upper | 10 | 
 | markdown_full | [electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br>[h10psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br>[Electronic Header 1 Mm Jst Sh 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br><br>[JST - SM10B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM10B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM10B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM10B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM10B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM10B-SRSS-TB)<br> | 
 | markdown_short | [electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle/working)<br><br>[JST - SM10B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm10b_srss_tb_1x10_1mp_p1_00mm_horizontal', 'oomp_key': 'oomp_kicad_connector_jst_jst_sh_sm10b_srss_tb_1x10_1mp_p1_00mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm10b_srss_tb_1x10_1mp_p1_00mm_horizontal//working/working.kicad_mod'}] | 

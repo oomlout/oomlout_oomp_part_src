@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 86fed6a509f645111309ee5e446eb91f | 
 | md5_5 | 86fed | 
+| md5_5_upper | 86FED | 
 | md5_6 | 86fed6 | 
+| md5_6_upper | 86FED6 | 
 | md5_10 | 86fed6a509 | 
+| md5_10_upper | 86FED6A509 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 0805 | 
+| size_only_numbers_no_zeros | 85 | 
+| color_upper | GREEN | 
+| color_first_letter | g | 
+| color_first_letter_upper | G | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | g  | 
+| description_or_color_upper | G  | 
 | markdown_full | [electronic_led_0805_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br>[l8g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br>[Electronic Led 0805 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br><br> | 
 | markdown_short | [electronic_led_0805_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric', 'oomp_key': 'oomp_kicad_led_smd_led_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod'}] | 

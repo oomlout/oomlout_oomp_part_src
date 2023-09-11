@@ -167,8 +167,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 0f044b55d79afe75a134069d87ede35f | 
 | md5_5 | 0f044 | 
+| md5_5_upper | 0F044 | 
 | md5_6 | 0f044b | 
+| md5_6_upper | 0F044B | 
 | md5_10 | 0f044b55d7 | 
+| md5_10_upper | 0F044B55D7 | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_only_numbers | 28 | 
+| size_only_numbers_no_zeros | 28 | 
+| color_upper | LED_DRIVER | 
+| color_first_letter | l | 
+| color_first_letter_upper | L | 
+| description_only_numbers | 168 | 
+| description_only_numbers_short | 168 | 
+| description_or_color | l168 | 
+| description_or_color_upper | L168 | 
 | markdown_full | [electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br>[isoic28waip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br>[Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br><br> | 
 | markdown_short | [electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm//working/working.kicad_mod'}] | 

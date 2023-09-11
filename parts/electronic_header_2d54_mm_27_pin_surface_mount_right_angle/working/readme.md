@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | b9674e4adc0bea8809cb1aa467d94f19 | 
 | md5_5 | b9674 | 
+| md5_5_upper | B9674 | 
 | md5_6 | b9674e | 
+| md5_6_upper | B9674E | 
 | md5_10 | b9674e4adc | 
+| md5_10_upper | B9674E4ADC | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 27 | 
+| description_only_numbers_short | 27 | 
+| description_or_color | 27 | 
+| description_or_color_upper | 27 | 
 | markdown_full | [electronic_header_2d54_mm_27_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br>[hi127psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 27 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_27_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_27_pin_surface_mount_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical//working/working.kicad_mod'}] | 

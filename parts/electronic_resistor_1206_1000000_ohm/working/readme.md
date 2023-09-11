@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 31813013b984f1aacb31a4605c532a99 | 
 | md5_5 | 31813 | 
+| md5_5_upper | 31813 | 
 | md5_6 | 318130 | 
+| md5_6_upper | 318130 | 
 | md5_10 | 31813013b9 | 
+| md5_10_upper | 31813013B9 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 1206 | 
+| size_only_numbers_no_zeros | 126 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 1000000 | 
+| description_only_numbers_short | 1M | 
+| description_or_color | 1M | 
+| description_or_color_upper | 1M | 
 | markdown_full | [electronic_resistor_1206_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000000_ohm/working)<br>[r12o105](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000000_ohm/working)<br>[Electronic Resistor 1206 1000000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_1206_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_1000000_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod'}] | 

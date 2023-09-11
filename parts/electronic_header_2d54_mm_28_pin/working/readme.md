@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | c7d1825b5a4404e5b5d71b17012d7787 | 
 | md5_5 | c7d18 | 
+| md5_5_upper | C7D18 | 
 | md5_6 | c7d182 | 
+| md5_6_upper | C7D182 | 
 | md5_10 | c7d1825b5a | 
+| md5_10_upper | C7D1825B5A | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 28 | 
+| description_only_numbers_short | 28 | 
+| description_or_color | 28 | 
+| description_or_color_upper | 28 | 
 | markdown_full | [electronic_header_2d54_mm_28_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_28_pin/working)<br>[hi128p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_28_pin/working)<br>[Electronic Header 2D54 Mm 28 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_28_pin/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_28_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_28_pin/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical//working/working.kicad_mod'}] | 

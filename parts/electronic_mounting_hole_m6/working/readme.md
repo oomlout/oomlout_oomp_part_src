@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | fbea6534b8834126a7a8dd2e02368bd1 | 
 | md5_5 | fbea6 | 
+| md5_5_upper | FBEA6 | 
 | md5_6 | fbea65 | 
+| md5_6_upper | FBEA65 | 
 | md5_10 | fbea6534b8 | 
+| md5_10_upper | FBEA6534B8 | 
+| type_first_letter | m | 
+| type_first_letter_upper | M | 
+| size_only_numbers | 6 | 
+| size_only_numbers_no_zeros | 6 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[mhm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[Electronic Mounting Hole M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> | 
 | markdown_short | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_6_4mm_m6', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod'}] | 

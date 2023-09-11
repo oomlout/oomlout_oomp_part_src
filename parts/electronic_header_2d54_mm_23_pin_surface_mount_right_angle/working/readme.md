@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 8a0090da9c16ffab7cc1aaccd42e1da3 | 
 | md5_5 | 8a009 | 
+| md5_5_upper | 8A009 | 
 | md5_6 | 8a0090 | 
+| md5_6_upper | 8A0090 | 
 | md5_10 | 8a0090da9c | 
+| md5_10_upper | 8A0090DA9C | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 23 | 
+| description_only_numbers_short | 23 | 
+| description_or_color | 23 | 
+| description_or_color_upper | 23 | 
 | markdown_full | [electronic_header_2d54_mm_23_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_23_pin_surface_mount_right_angle/working)<br>[hi123psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_23_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 23 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_23_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_23_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_23_pin_surface_mount_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical//working/working.kicad_mod'}] | 

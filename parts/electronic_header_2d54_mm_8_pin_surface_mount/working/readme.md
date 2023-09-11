@@ -60,8 +60,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 8bebf6ba367d85bc764a5dd6d1893f20 | 
 | md5_5 | 8bebf | 
+| md5_5_upper | 8BEBF | 
 | md5_6 | 8bebf6 | 
+| md5_6_upper | 8BEBF6 | 
 | md5_10 | 8bebf6ba36 | 
+| md5_10_upper | 8BEBF6BA36 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 8 | 
+| description_only_numbers_short | 8 | 
+| description_or_color | 8 | 
+| description_or_color_upper | 8 | 
 | markdown_full | [electronic_header_2d54_mm_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_8_pin_surface_mount/working)<br>[hi18psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_8_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm 8 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_8_pin_surface_mount/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_8_pin_surface_mount/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical//working/working.kicad_mod'}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod'}] | 

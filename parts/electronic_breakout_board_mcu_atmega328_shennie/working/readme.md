@@ -182,8 +182,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 09dfb71639ea7f3aaca031501c5571c4 | 
 | md5_5 | 09dfb | 
+| md5_5_upper | 09DFB | 
 | md5_6 | 09dfb7 | 
+| md5_6_upper | 09DFB7 | 
 | md5_10 | 09dfb71639 | 
+| md5_10_upper | 09DFB71639 | 
+| type_first_letter | b | 
+| type_first_letter_upper | B | 
+| size_only_numbers |  | 
+| size_only_numbers_no_zeros |  | 
+| color_upper | MCU | 
+| color_first_letter | m | 
+| color_first_letter_upper | M | 
+| description_only_numbers | 328 | 
+| description_only_numbers_short | 328 | 
+| description_or_color | m328 | 
+| description_or_color_upper | M328 | 
 | markdown_full | [electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br>[bbat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br>[Electronic Breakout Board Mcu Atmega328 Shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes', 'oomp_key': 'oomp_kicad_module_arduino_nano_withmountingholes', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod'}] | 

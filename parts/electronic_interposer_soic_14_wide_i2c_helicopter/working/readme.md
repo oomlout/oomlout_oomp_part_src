@@ -112,8 +112,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 67456919c33f39dd13824a5f4470e6b9 | 
 | md5_5 | 67456 | 
+| md5_5_upper | 67456 | 
 | md5_6 | 674569 | 
+| md5_6_upper | 674569 | 
 | md5_10 | 67456919c3 | 
+| md5_10_upper | 67456919C3 | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_only_numbers | 14 | 
+| size_only_numbers_no_zeros | 14 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 2 | 
+| description_only_numbers_short | 2 | 
+| description_or_color | 2 | 
+| description_or_color_upper | 2 | 
 | markdown_full | [electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br>[insoic14wi2cheli](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br>[Electronic Interposer Soic 14 Wide I2C Helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br><br> | 
 | markdown_short | [electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod'}] | 

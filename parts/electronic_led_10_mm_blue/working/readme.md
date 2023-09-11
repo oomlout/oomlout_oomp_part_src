@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 78055f06d160820fbae0757e8a0f65f1 | 
 | md5_5 | 78055 | 
+| md5_5_upper | 78055 | 
 | md5_6 | 78055f | 
+| md5_6_upper | 78055F | 
 | md5_10 | 78055f06d1 | 
+| md5_10_upper | 78055F06D1 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 10 | 
+| size_only_numbers_no_zeros | 1 | 
+| color_upper | BLUE | 
+| color_first_letter | b | 
+| color_first_letter_upper | B | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | b  | 
+| description_or_color_upper | B  | 
 | markdown_full | [electronic_led_10_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working)<br>[l10l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working)<br>[Electronic Led 10 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working)<br><br> | 
 | markdown_short | [electronic_led_10_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d10_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod'}] | 

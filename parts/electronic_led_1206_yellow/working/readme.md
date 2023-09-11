@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 487cc6fa62d15dd9e507708889fecbfb | 
 | md5_5 | 487cc | 
+| md5_5_upper | 487CC | 
 | md5_6 | 487cc6 | 
+| md5_6_upper | 487CC6 | 
 | md5_10 | 487cc6fa62 | 
+| md5_10_upper | 487CC6FA62 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 1206 | 
+| size_only_numbers_no_zeros | 126 | 
+| color_upper | YELLOW | 
+| color_first_letter | y | 
+| color_first_letter_upper | Y | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | y  | 
+| description_or_color_upper | Y  | 
 | markdown_full | [electronic_led_1206_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)<br>[l12y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)<br>[Electronic Led 1206 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)<br><br> | 
 | markdown_short | [electronic_led_1206_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod'}] | 

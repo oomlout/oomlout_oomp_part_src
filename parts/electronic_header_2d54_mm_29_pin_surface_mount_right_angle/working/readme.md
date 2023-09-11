@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | c4430f71995d34057bf38013b3a85eee | 
 | md5_5 | c4430 | 
+| md5_5_upper | C4430 | 
 | md5_6 | c4430f | 
+| md5_6_upper | C4430F | 
 | md5_10 | c4430f7199 | 
+| md5_10_upper | C4430F7199 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 29 | 
+| description_only_numbers_short | 29 | 
+| description_or_color | 29 | 
+| description_or_color_upper | 29 | 
 | markdown_full | [electronic_header_2d54_mm_29_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_29_pin_surface_mount_right_angle/working)<br>[hi129psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_29_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 29 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_29_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_29_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_29_pin_surface_mount_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical//working/working.kicad_mod'}] | 

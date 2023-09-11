@@ -60,8 +60,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 4_mm | 
 | md5 | 9dbf6458e71042acf5a2526f1c5abdad | 
 | md5_5 | 9dbf6 | 
+| md5_5_upper | 9DBF6 | 
 | md5_6 | 9dbf64 | 
+| md5_6_upper | 9DBF64 | 
 | md5_10 | 9dbf6458e7 | 
+| md5_10_upper | 9DBF6458E7 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0603 | 
+| size_only_numbers_no_zeros | 63 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 100000 | 
+| description_only_numbers_short | 100.0k | 
+| description_or_color | 100.0k | 
+| description_or_color_upper | 100.0K | 
 | markdown_full | [electronic_resistor_0603_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br>[r6o104](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br>[Electronic Resistor 0603 100000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_0603_100000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 

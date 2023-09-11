@@ -55,8 +55,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | edb222f5ff5d22b860f4b290bf8286e8 | 
 | md5_5 | edb22 | 
+| md5_5_upper | EDB22 | 
 | md5_6 | edb222 | 
+| md5_6_upper | EDB222 | 
 | md5_10 | edb222f5ff | 
+| md5_10_upper | EDB222F5FF | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 2510 | 
+| description_only_numbers_short | 2k5 | 
+| description_or_color | 2k5 | 
+| description_or_color_upper | 2K5 | 
 | markdown_full | [electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin/working)<br>[hi12x5p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin/working)<br>[Electronic Header 2D54 Mm Dual Row 2X5 Dual Row 10 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical//working/working.kicad_mod'}] | 

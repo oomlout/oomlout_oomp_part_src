@@ -15,9 +15,6 @@
 * manucaturer -- 
 * part_number -- 
 
-## distributors
-* [LCSC - C2845294](https://lcsc.com/product-detail/C2845294.html)  
-* [LCSC - C105620](https://lcsc.com/product-detail/C105620.html)  
 
 ## manufacturers
 * [HCTL - TC-3601L-2.5-260G]()  
@@ -58,7 +55,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Capacitor 0603 22 Pico Farad | 
 | short_code | c6pf22 | 
 | short_code_upper | C6PF22 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C2845294', 'link': 'https://lcsc.com/product-detail/C2845294.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C105620', 'link': 'https://lcsc.com/product-detail/C105620.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [] | 
 | manufacturers | [{'name': 'HCTL', 'part_number': 'TC-3601L-2.5-260G', 'link': '', 'id': 'manufacturer_hctl'}, {'name': 'Yageo', 'part_number': 'CC0603JRNPO9BN220', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220', 'id': 'manufacturer_yageo'}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
@@ -66,9 +63,23 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 4_mm | 
 | md5 | ed43fc9f13c024e0a26ef47e97a61fd1 | 
 | md5_5 | ed43f | 
+| md5_5_upper | ED43F | 
 | md5_6 | ed43fc | 
+| md5_6_upper | ED43FC | 
 | md5_10 | ed43fc9f13 | 
-| markdown_full | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[c6pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[Electronic Capacitor 0603 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)[LCSC - C105620<br>](https://lcsc.com/product-detail/C105620.html)<br>[HCTL - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br> | 
-| markdown_short | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)[LCSC - C105620<br>](https://lcsc.com/product-detail/C105620.html)<br>[HCTL - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) | 
+| md5_10_upper | ED43FC9F13 | 
+| type_first_letter | c | 
+| type_first_letter_upper | C | 
+| size_only_numbers | 0603 | 
+| size_only_numbers_no_zeros | 63 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 22 | 
+| description_only_numbers_short | 22 | 
+| description_or_color | 22 | 
+| description_or_color_upper | 22 | 
+| markdown_full | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[c6pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[Electronic Capacitor 0603 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br><br>[HCTL - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br> | 
+| markdown_short | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br><br>[HCTL - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym'}] | 

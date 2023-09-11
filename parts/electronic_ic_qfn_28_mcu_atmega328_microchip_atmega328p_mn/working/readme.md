@@ -50,8 +50,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 4e3cebccf7cb76a5984fa97b7a893de9 | 
 | md5_5 | 4e3ce | 
+| md5_5_upper | 4E3CE | 
 | md5_6 | 4e3ceb | 
+| md5_6_upper | 4E3CEB | 
 | md5_10 | 4e3cebccf7 | 
+| md5_10_upper | 4E3CEBCCF7 | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_only_numbers | 28 | 
+| size_only_numbers_no_zeros | 28 | 
+| color_upper | MCU | 
+| color_first_letter | m | 
+| color_first_letter_upper | M | 
+| description_only_numbers | 328 | 
+| description_only_numbers_short | 328 | 
+| description_or_color | m328 | 
+| description_or_color_upper | M328 | 
 | markdown_full | [electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[iq28at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br> | 
 | markdown_short | [electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328_p', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym'}] | 

@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 17f828e813593b8ea2bd216845390119 | 
 | md5_5 | 17f82 | 
+| md5_5_upper | 17F82 | 
 | md5_6 | 17f828 | 
+| md5_6_upper | 17F828 | 
 | md5_10 | 17f828e813 | 
+| md5_10_upper | 17F828E813 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 8 | 
+| description_only_numbers_short | 8 | 
+| description_or_color | 8 | 
+| description_or_color_upper | 8 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_8_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_8_pin_right_angle/working)<br>[h8pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_8_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Jst Xh 8 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_8_pin_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_8_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_8_pin_right_angle/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x08_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym'}] | 

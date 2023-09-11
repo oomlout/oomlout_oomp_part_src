@@ -53,8 +53,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [{'name': 'Uniroyal', 'part_number': 'NQ01WMJ0333TEE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}] | 
 | md5 | 13c1e8fa37093837f2086747790e8c30 | 
 | md5_5 | 13c1e | 
+| md5_5_upper | 13C1E | 
 | md5_6 | 13c1e8 | 
+| md5_6_upper | 13C1E8 | 
 | md5_10 | 13c1e8fa37 | 
+| md5_10_upper | 13C1E8FA37 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0201 | 
+| size_only_numbers_no_zeros | 21 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 33000 | 
+| description_only_numbers_short | 33k | 
+| description_or_color | 33k | 
+| description_or_color_upper | 33K | 
 | markdown_full | [electronic_resistor_0201_33000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_33000_ohm/working)<br>[ro333](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_33000_ohm/working)<br>[Electronic Resistor 0201 33000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_33000_ohm/working)<br><br>[Uniroyal - NQ01WMJ0333TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0333TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0333TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0333TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0333TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0333TEE)<br> | 
 | markdown_short | [electronic_resistor_0201_33000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_33000_ohm/working)<br><br>[Uniroyal - NQ01WMJ0333TEE- not in jlc basic parts]() | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | ef95a6e35d72130ac7c974a828d48cf4 | 
 | md5_5 | ef95a | 
+| md5_5_upper | EF95A | 
 | md5_6 | ef95a6 | 
+| md5_6_upper | EF95A6 | 
 | md5_10 | ef95a6e35d | 
+| md5_10_upper | EF95A6E35D | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 6 | 
+| description_only_numbers_short | 6 | 
+| description_or_color | 6 | 
+| description_or_color_upper | 6 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle/working)<br>[h6psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm Jst Xh 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_6_pin_surface_mount_right_angle/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x06_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym'}] | 

@@ -84,8 +84,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [{'name': 'Worldsmi', 'part_number': 'WS2812B-B/W', 'link': 'http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en', 'id': 'manufacturer_worldsemi'}] | 
 | md5 | f0d9be0ddd3684a3e6890ffe9f94fe71 | 
 | md5_5 | f0d9b | 
+| md5_5_upper | F0D9B | 
 | md5_6 | f0d9be | 
+| md5_6_upper | F0D9BE | 
 | md5_10 | f0d9be0ddd | 
+| md5_10_upper | F0D9BE0DDD | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 5050 | 
+| size_only_numbers_no_zeros | 55 | 
+| color_upper | RGB | 
+| color_first_letter | r | 
+| color_first_letter_upper | R | 
+| description_only_numbers | 2812 | 
+| description_only_numbers_short | 2k8 | 
+| description_or_color | r2k8 | 
+| description_or_color_upper | R2K8 | 
 | markdown_full | [electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[l50502812ws2812bbw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en) [(L)  ](https://www.lcsc.com/search?q=WS2812B-B/W)[(D)  ](https://www.digikey.com/en/products?keywords=WS2812B-B/W)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=WS2812B-B/W)[(N)  ](https://www.newark.com/search?st=WS2812B-B/W)[(SZ)  ](https://so.szlcsc.com/global.html?k=WS2812B-B/W)<br> | 
 | markdown_short | [electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm', 'oomp_key': 'oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm//working/working.kicad_mod'}] | 

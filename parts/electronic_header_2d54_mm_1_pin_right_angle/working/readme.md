@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | a53ab0f35d1e4e0e2cd81a81e0d3863e | 
 | md5_5 | a53ab | 
+| md5_5_upper | A53AB | 
 | md5_6 | a53ab0 | 
+| md5_6_upper | A53AB0 | 
 | md5_10 | a53ab0f35d | 
+| md5_10_upper | A53AB0F35D | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 1 | 
+| description_only_numbers_short | 1 | 
+| description_or_color | 1 | 
+| description_or_color_upper | 1 | 
 | markdown_full | [electronic_header_2d54_mm_1_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_right_angle/working)<br>[hi11pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_right_angle/working)<br>[Electronic Header 2D54 Mm 1 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_1_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_1_pin_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical//working/working.kicad_mod'}] | 

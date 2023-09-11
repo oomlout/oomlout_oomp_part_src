@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | fd9067e1308999d6c945486748d87d2d | 
 | md5_5 | fd906 | 
+| md5_5_upper | FD906 | 
 | md5_6 | fd9067 | 
+| md5_6_upper | FD9067 | 
 | md5_10 | fd9067e130 | 
+| md5_10_upper | FD9067E130 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 24 | 
+| description_only_numbers_short | 24 | 
+| description_or_color | 24 | 
+| description_or_color_upper | 24 | 
 | markdown_full | [electronic_header_2d54_mm_24_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working)<br>[hi124p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working)<br>[Electronic Header 2D54 Mm 24 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_24_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_24_pin/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical//working/working.kicad_mod'}] | 

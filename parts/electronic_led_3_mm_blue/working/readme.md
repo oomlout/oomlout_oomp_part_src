@@ -52,8 +52,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 727504b3d7e6048c1e699c4c01cdf2b5 | 
 | md5_5 | 72750 | 
+| md5_5_upper | 72750 | 
 | md5_6 | 727504 | 
+| md5_6_upper | 727504 | 
 | md5_10 | 727504b3d7 | 
+| md5_10_upper | 727504B3D7 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 3 | 
+| size_only_numbers_no_zeros | 3 | 
+| color_upper | BLUE | 
+| color_first_letter | b | 
+| color_first_letter_upper | B | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | b  | 
+| description_or_color_upper | B  | 
 | markdown_full | [electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br>[l3l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br>[Electronic Led 3 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br><br> | 
 | markdown_short | [electronic_led_3_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 

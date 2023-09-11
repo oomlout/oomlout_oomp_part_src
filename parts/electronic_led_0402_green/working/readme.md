@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | fcfe4f59874d0faff0697e455e42d253 | 
 | md5_5 | fcfe4 | 
+| md5_5_upper | FCFE4 | 
 | md5_6 | fcfe4f | 
+| md5_6_upper | FCFE4F | 
 | md5_10 | fcfe4f5987 | 
+| md5_10_upper | FCFE4F5987 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 0402 | 
+| size_only_numbers_no_zeros | 42 | 
+| color_upper | GREEN | 
+| color_first_letter | g | 
+| color_first_letter_upper | G | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | g  | 
+| description_or_color_upper | G  | 
 | markdown_full | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br>[l4g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br>[Electronic Led 0402 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br><br> | 
 | markdown_short | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric', 'oomp_key': 'oomp_kicad_led_smd_led_0402_1005metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod'}] | 

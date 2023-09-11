@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | eb2bc8225c22f8a5bb71ee686352fdbf | 
 | md5_5 | eb2bc | 
+| md5_5_upper | EB2BC | 
 | md5_6 | eb2bc8 | 
+| md5_6_upper | EB2BC8 | 
 | md5_10 | eb2bc8225c | 
+| md5_10_upper | EB2BC8225C | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 2 | 
+| description_only_numbers_short | 2 | 
+| description_or_color | 2 | 
+| description_or_color_upper | 2 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_2_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin/working)<br>[h2p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin/working)<br>[Electronic Header 2D54 Mm Jst Xh 2 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_2_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_2_pin/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x02_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym'}] | 

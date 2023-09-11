@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | bab4a73f335cebcc40b339010dc83b72 | 
 | md5_5 | bab4a | 
+| md5_5_upper | BAB4A | 
 | md5_6 | bab4a7 | 
+| md5_6_upper | BAB4A7 | 
 | md5_10 | bab4a73f33 | 
+| md5_10_upper | BAB4A73F33 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 10 | 
+| size_only_numbers_no_zeros | 1 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_led_10_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br>[l10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br>[Electronic Led 10 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br><br> | 
 | markdown_short | [electronic_led_10_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d10_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod'}] | 

@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | ce34411c59ac93ef3b913e98d5574849 | 
 | md5_5 | ce344 | 
+| md5_5_upper | CE344 | 
 | md5_6 | ce3441 | 
+| md5_6_upper | CE3441 | 
 | md5_10 | ce34411c59 | 
+| md5_10_upper | CE34411C59 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 5 | 
+| size_only_numbers_no_zeros | 5 | 
+| color_upper | BLUE | 
+| color_first_letter | b | 
+| color_first_letter_upper | B | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | b  | 
+| description_or_color_upper | B  | 
 | markdown_full | [electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br>[l5l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br>[Electronic Led 5 Mm Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br><br> | 
 | markdown_short | [electronic_led_5_mm_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod'}] | 

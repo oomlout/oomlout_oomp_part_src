@@ -61,8 +61,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 4_mm | 
 | md5 | 410f696910ba2a47e5f550535c378f01 | 
 | md5_5 | 410f6 | 
+| md5_5_upper | 410F6 | 
 | md5_6 | 410f69 | 
+| md5_6_upper | 410F69 | 
 | md5_10 | 410f696910 | 
+| md5_10_upper | 410F696910 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 0603 | 
+| size_only_numbers_no_zeros | 63 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_led_0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br>[l6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br>[Electronic Led 0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br><br> | 
 | markdown_short | [electronic_led_0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric', 'oomp_key': 'oomp_kicad_led_smd_led_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod'}] | 

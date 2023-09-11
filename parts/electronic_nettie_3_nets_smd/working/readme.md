@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 494314f1c04b845b745ce0bd6ae8e357 | 
 | md5_5 | 49431 | 
+| md5_5_upper | 49431 | 
 | md5_6 | 494314 | 
+| md5_6_upper | 494314 | 
 | md5_10 | 494314f1c0 | 
+| md5_10_upper | 494314F1C0 | 
+| type_first_letter | n | 
+| type_first_letter_upper | N | 
+| size_only_numbers | 3 | 
+| size_only_numbers_no_zeros | 3 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[nt3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[Electronic Nettie 3 Nets Smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br> | 
 | markdown_short | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_3_smd_pad0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_smd_pad0_5mm//working/working.kicad_mod'}] | 

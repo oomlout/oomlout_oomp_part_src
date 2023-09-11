@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | d0f95d29bb59bddbdbd52caa32e5e745 | 
 | md5_5 | d0f95 | 
+| md5_5_upper | D0F95 | 
 | md5_6 | d0f95d | 
+| md5_6_upper | D0F95D | 
 | md5_10 | d0f95d29bb | 
+| md5_10_upper | D0F95D29BB | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 0402 | 
+| size_only_numbers_no_zeros | 42 | 
+| color_upper | RED | 
+| color_first_letter | r | 
+| color_first_letter_upper | R | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | r  | 
+| description_or_color_upper | R  | 
 | markdown_full | [electronic_led_0402_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working)<br>[l4r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working)<br>[Electronic Led 0402 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working)<br><br> | 
 | markdown_short | [electronic_led_0402_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_red/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric', 'oomp_key': 'oomp_kicad_led_smd_led_0402_1005metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod'}] | 

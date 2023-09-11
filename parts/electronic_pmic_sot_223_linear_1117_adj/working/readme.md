@@ -59,8 +59,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 8_mm | 
 | md5 | cdc5644737274c72642f6d91b99a7aaa | 
 | md5_5 | cdc56 | 
+| md5_5_upper | CDC56 | 
 | md5_6 | cdc564 | 
+| md5_6_upper | CDC564 | 
 | md5_10 | cdc5644737 | 
+| md5_10_upper | CDC5644737 | 
+| type_first_letter | p | 
+| type_first_letter_upper | P | 
+| size_only_numbers | 223 | 
+| size_only_numbers_no_zeros | 223 | 
+| color_upper | LINEAR | 
+| color_first_letter | l | 
+| color_first_letter_upper | L | 
+| description_only_numbers | 1117 | 
+| description_only_numbers_short | 1k1 | 
+| description_or_color | l1k1 | 
+| description_or_color_upper | L1K1 | 
 | markdown_full | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> | 
 | markdown_short | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod'}] | 

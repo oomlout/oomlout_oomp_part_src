@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 5c192b2893fd90d9feab74ed4498a716 | 
 | md5_5 | 5c192 | 
+| md5_5_upper | 5C192 | 
 | md5_6 | 5c192b | 
+| md5_6_upper | 5C192B | 
 | md5_10 | 5c192b2893 | 
+| md5_10_upper | 5C192B2893 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 20 | 
+| description_only_numbers_short | 20 | 
+| description_or_color | 20 | 
+| description_or_color_upper | 20 | 
 | markdown_full | [electronic_header_2d54_mm_20_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_20_pin_right_angle/working)<br>[hi120pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_20_pin_right_angle/working)<br>[Electronic Header 2D54 Mm 20 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_20_pin_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_20_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_20_pin_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical//working/working.kicad_mod'}] | 

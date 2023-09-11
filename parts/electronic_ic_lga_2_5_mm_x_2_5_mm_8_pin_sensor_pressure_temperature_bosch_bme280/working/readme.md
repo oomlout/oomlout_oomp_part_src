@@ -94,8 +94,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [{'name': 'Bosch', 'part_number': 'BME280', 'link': 'https://www.sensortek.com.tw/index.php/en/products/mems-sensor/', 'id': 'manufacturer_bosch'}] | 
 | md5 | a3697f01237d79885aae438ef33a55dd | 
 | md5_5 | a3697 | 
+| md5_5_upper | A3697 | 
 | md5_6 | a3697f | 
+| md5_6_upper | A3697F | 
 | md5_10 | a3697f0123 | 
+| md5_10_upper | A3697F0123 | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_only_numbers | 25258 | 
+| size_only_numbers_no_zeros | 25258 | 
+| color_upper | SENSOR | 
+| color_first_letter | s | 
+| color_first_letter_upper | S | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | s  | 
+| description_or_color_upper | S  | 
 | markdown_full | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[ilg8pbsnpt280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[Electronic Ic Lga 2 5 Mm X 2 5 Mm 8 Pin Sensor Pressure Temperature Bosch Bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280](https://www.sensortek.com.tw/index.php/en/products/mems-sensor/) [(L)  ](https://www.lcsc.com/search?q=BME280)[(D)  ](https://www.digikey.com/en/products?keywords=BME280)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BME280)[(N)  ](https://www.newark.com/search?st=BME280)[(SZ)  ](https://so.szlcsc.com/global.html?k=BME280)<br> | 
 | markdown_short | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280](https://www.sensortek.com.tw/index.php/en/products/mems-sensor/) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering', 'oomp_key': 'oomp_kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering//working/working.kicad_mod'}] | 

@@ -59,8 +59,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 8_mm | 
 | md5 | 6dc5a408f889c1eeeef36d9b6bef6012 | 
 | md5_5 | 6dc5a | 
+| md5_5_upper | 6DC5A | 
 | md5_6 | 6dc5a4 | 
+| md5_6_upper | 6DC5A4 | 
 | md5_10 | 6dc5a408f8 | 
+| md5_10_upper | 6DC5A408F8 | 
+| type_first_letter | p | 
+| type_first_letter_upper | P | 
+| size_only_numbers | 223 | 
+| size_only_numbers_no_zeros | 223 | 
+| color_upper | LINEAR | 
+| color_first_letter | l | 
+| color_first_letter_upper | L | 
+| description_only_numbers | 1117 | 
+| description_only_numbers_short | 1k1 | 
+| description_or_color | l1k1 | 
+| description_or_color_upper | L1K1 | 
 | markdown_full | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br>[pms22311171d5v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 1 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br> | 
 | markdown_short | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod'}] | 

@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | fbf4f6bd8d89a3cb1a67c8e2973297b3 | 
 | md5_5 | fbf4f | 
+| md5_5_upper | FBF4F | 
 | md5_6 | fbf4f6 | 
+| md5_6_upper | FBF4F6 | 
 | md5_10 | fbf4f6bd8d | 
+| md5_10_upper | FBF4F6BD8D | 
+| type_first_letter | c | 
+| type_first_letter_upper | C | 
+| size_only_numbers | 3213 | 
+| size_only_numbers_no_zeros | 3213 | 
+| color_upper | 3_PIN_GROUND_PIN_2 | 
+| color_first_letter | 3 | 
+| color_first_letter_upper | 3 | 
+| description_only_numbers | 8 | 
+| description_only_numbers_short | 8 | 
+| description_or_color | 38 | 
+| description_or_color_upper | 38 | 
 | markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br>[xcr3213mhz8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br><br> | 
 | markdown_short | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm', 'oomp_key': 'oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod'}] | 

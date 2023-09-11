@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | a07b944a60247b46a34617dc36e3e7e7 | 
 | md5_5 | a07b9 | 
+| md5_5_upper | A07B9 | 
 | md5_6 | a07b94 | 
+| md5_6_upper | A07B94 | 
 | md5_10 | a07b944a60 | 
+| md5_10_upper | A07B944A60 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers |  | 
+| size_only_numbers_no_zeros |  | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 39 | 
+| description_only_numbers_short | 39 | 
+| description_or_color | 39 | 
+| description_or_color_upper | 39 | 
 | markdown_full | [electronic_resistor_quarter_watt_through_hole_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_39_ohm/working)<br>[ro390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_39_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 39 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_39_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_quarter_watt_through_hole_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_39_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'oomp_key': 'oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod'}] | 

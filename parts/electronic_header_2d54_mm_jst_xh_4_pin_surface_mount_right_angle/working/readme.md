@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | c492b1ac7dc4f013b08e47149f8a9b06 | 
 | md5_5 | c492b | 
+| md5_5_upper | C492B | 
 | md5_6 | c492b1 | 
+| md5_6_upper | C492B1 | 
 | md5_10 | c492b1ac7d | 
+| md5_10_upper | C492B1AC7D | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 4 | 
+| description_only_numbers_short | 4 | 
+| description_or_color | 4 | 
+| description_or_color_upper | 4 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle/working)<br>[h4psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm Jst Xh 4 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_4_pin_surface_mount_right_angle/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x04_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x04_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x04_pin//working/working.kicad_sym'}] | 

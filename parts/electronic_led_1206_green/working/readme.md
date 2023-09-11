@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 27ecfb7045a092ae26a1371a4b28a62a | 
 | md5_5 | 27ecf | 
+| md5_5_upper | 27ECF | 
 | md5_6 | 27ecfb | 
+| md5_6_upper | 27ECFB | 
 | md5_10 | 27ecfb7045 | 
+| md5_10_upper | 27ECFB7045 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 1206 | 
+| size_only_numbers_no_zeros | 126 | 
+| color_upper | GREEN | 
+| color_first_letter | g | 
+| color_first_letter_upper | G | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | g  | 
+| description_or_color_upper | G  | 
 | markdown_full | [electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br>[l12g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br>[Electronic Led 1206 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br><br> | 
 | markdown_short | [electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod'}] | 

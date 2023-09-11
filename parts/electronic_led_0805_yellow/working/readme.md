@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 5c87ad5a4f3215668066a822e24d75cf | 
 | md5_5 | 5c87a | 
+| md5_5_upper | 5C87A | 
 | md5_6 | 5c87ad | 
+| md5_6_upper | 5C87AD | 
 | md5_10 | 5c87ad5a4f | 
+| md5_10_upper | 5C87AD5A4F | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 0805 | 
+| size_only_numbers_no_zeros | 85 | 
+| color_upper | YELLOW | 
+| color_first_letter | y | 
+| color_first_letter_upper | Y | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | y  | 
+| description_or_color_upper | Y  | 
 | markdown_full | [electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br>[l8y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br>[Electronic Led 0805 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br><br> | 
 | markdown_short | [electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric', 'oomp_key': 'oomp_kicad_led_smd_led_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod'}] | 

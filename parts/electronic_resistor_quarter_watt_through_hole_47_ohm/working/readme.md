@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 96a2e95af6ff8b88ef51c63c8738ba58 | 
 | md5_5 | 96a2e | 
+| md5_5_upper | 96A2E | 
 | md5_6 | 96a2e9 | 
+| md5_6_upper | 96A2E9 | 
 | md5_10 | 96a2e95af6 | 
+| md5_10_upper | 96A2E95AF6 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers |  | 
+| size_only_numbers_no_zeros |  | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 47 | 
+| description_only_numbers_short | 47 | 
+| description_or_color | 47 | 
+| description_or_color_upper | 47 | 
 | markdown_full | [electronic_resistor_quarter_watt_through_hole_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br>[ro470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 47 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_quarter_watt_through_hole_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'oomp_key': 'oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod'}] | 

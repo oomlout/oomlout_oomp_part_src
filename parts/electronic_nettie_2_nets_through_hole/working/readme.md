@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | c86bdf842046e81ba413e322d79ac3dc | 
 | md5_5 | c86bd | 
+| md5_5_upper | C86BD | 
 | md5_6 | c86bdf | 
+| md5_6_upper | C86BDF | 
 | md5_10 | c86bdf8420 | 
+| md5_10_upper | C86BDF8420 | 
+| type_first_letter | n | 
+| type_first_letter_upper | N | 
+| size_only_numbers | 2 | 
+| size_only_numbers_no_zeros | 2 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[nt2th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[Electronic Nettie 2 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br><br> | 
 | markdown_short | [electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_tht_pad0_3mm', 'oomp_key': 'oomp_kicad_nettie_nettie_2_tht_pad0_3mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_2_tht_pad0_3mm//working/working.kicad_mod'}] | 

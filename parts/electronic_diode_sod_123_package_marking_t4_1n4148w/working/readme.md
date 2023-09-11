@@ -59,8 +59,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 35b545ced662ea6b79a91d4e083ad0fd | 
 | md5_5 | 35b54 | 
+| md5_5_upper | 35B54 | 
 | md5_6 | 35b545 | 
+| md5_6_upper | 35B545 | 
 | md5_10 | 35b545ced6 | 
+| md5_10_upper | 35B545CED6 | 
+| type_first_letter | d | 
+| type_first_letter_upper | D | 
+| size_only_numbers | 123 | 
+| size_only_numbers_no_zeros | 123 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[dsod123pmt44148](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[Electronic Diode Sod 123 Package Marking T4 1N4148W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[LCSC - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br> | 
 | markdown_short | [electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w/working)<br>[LCSC - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123', 'oomp_key': 'oomp_kicad_diode_smd_d_sod_123', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod'}] | 

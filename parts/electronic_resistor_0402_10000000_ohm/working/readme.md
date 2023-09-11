@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 7e8ad18b1267e55b97907530e3058d86 | 
 | md5_5 | 7e8ad | 
+| md5_5_upper | 7E8AD | 
 | md5_6 | 7e8ad1 | 
+| md5_6_upper | 7E8AD1 | 
 | md5_10 | 7e8ad18b12 | 
+| md5_10_upper | 7E8AD18B12 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0402 | 
+| size_only_numbers_no_zeros | 42 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 10000000 | 
+| description_only_numbers_short | 10M | 
+| description_or_color | 10M | 
+| description_or_color_upper | 10M | 
 | markdown_full | [electronic_resistor_0402_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000000_ohm/working)<br>[r4o106](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000000_ohm/working)<br>[Electronic Resistor 0402 10000000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_0402_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000000_ohm/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

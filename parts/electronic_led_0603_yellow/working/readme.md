@@ -65,8 +65,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 4_mm | 
 | md5 | 27dbb49a7267d86fab8e1a25638fda98 | 
 | md5_5 | 27dbb | 
+| md5_5_upper | 27DBB | 
 | md5_6 | 27dbb4 | 
+| md5_6_upper | 27DBB4 | 
 | md5_10 | 27dbb49a72 | 
+| md5_10_upper | 27DBB49A72 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 0603 | 
+| size_only_numbers_no_zeros | 63 | 
+| color_upper | YELLOW | 
+| color_first_letter | y | 
+| color_first_letter_upper | Y | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | y  | 
+| description_or_color_upper | Y  | 
 | markdown_full | [electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[l6y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[Electronic Led 0603 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br> | 
 | markdown_short | [electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric', 'oomp_key': 'oomp_kicad_led_smd_led_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod'}] | 

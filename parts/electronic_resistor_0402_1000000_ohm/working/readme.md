@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | fa9a06781bf3c9af13f5f2efede8414a | 
 | md5_5 | fa9a0 | 
+| md5_5_upper | FA9A0 | 
 | md5_6 | fa9a06 | 
+| md5_6_upper | FA9A06 | 
 | md5_10 | fa9a06781b | 
+| md5_10_upper | FA9A06781B | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0402 | 
+| size_only_numbers_no_zeros | 42 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 1000000 | 
+| description_only_numbers_short | 1M | 
+| description_or_color | 1M | 
+| description_or_color_upper | 1M | 
 | markdown_full | [electronic_resistor_0402_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1000000_ohm/working)<br>[r4o105](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1000000_ohm/working)<br>[Electronic Resistor 0402 1000000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1000000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_0402_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1000000_ohm/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

@@ -15,9 +15,6 @@
 * manucaturer -- 
 * part_number -- 
 
-## distributors
-* [LCSC - C25320](https://lcsc.com/product-detail/C25320.html)  
-* [LCSC - C113305](https://lcsc.com/product-detail/C113305.html)  
 
 ## manufacturers
 * [Uniroyal - 0805W8J0560T5E]()  
@@ -59,13 +56,27 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Resistor 0805 56 Ohm | 
 | short_code | r8o560 | 
 | short_code_upper | R8O560 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25320', 'link': 'https://lcsc.com/product-detail/C25320.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C113305', 'link': 'https://lcsc.com/product-detail/C113305.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0560T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F056-1T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-0756RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0756RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | f429e1817e003d01daa0b5010c6230da | 
 | md5_5 | f429e | 
+| md5_5_upper | F429E | 
 | md5_6 | f429e1 | 
+| md5_6_upper | F429E1 | 
 | md5_10 | f429e1817e | 
-| markdown_full | [electronic_resistor_0805_56_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br>[r8o560](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br>[Electronic Resistor 0805 56 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br>[LCSC - C25320<br>](https://lcsc.com/product-detail/C25320.html)[LCSC - C113305<br>](https://lcsc.com/product-detail/C113305.html)<br>[Uniroyal - 0805W8J0560T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0560T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0560T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0560T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0560T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0560T5E)<br>[Uniroyal - 0805W8F056-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F056-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F056-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F056-1T5E)[(N)  ](https://www.newark.com/search?st=0805W8F056-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F056-1T5E)<br>[Yageo - RC0805JR-0756RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0756RL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0756RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0756RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0756RL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0756RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0756RL)<br> | 
-| markdown_short | [electronic_resistor_0805_56_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br>[LCSC - C25320<br>](https://lcsc.com/product-detail/C25320.html)[LCSC - C113305<br>](https://lcsc.com/product-detail/C113305.html)<br>[Uniroyal - 0805W8J0560T5E- not in jlc basic parts]()[Uniroyal - 0805W8F056-1T5E- jlc basic part]()[Yageo - RC0805JR-0756RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0756RL) | 
+| md5_10_upper | F429E1817E | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0805 | 
+| size_only_numbers_no_zeros | 85 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 56 | 
+| description_only_numbers_short | 56 | 
+| description_or_color | 56 | 
+| description_or_color_upper | 56 | 
+| markdown_full | [electronic_resistor_0805_56_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br>[r8o560](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br>[Electronic Resistor 0805 56 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br><br>[Uniroyal - 0805W8J0560T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0560T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0560T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0560T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0560T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0560T5E)<br>[Uniroyal - 0805W8F056-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F056-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F056-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F056-1T5E)[(N)  ](https://www.newark.com/search?st=0805W8F056-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F056-1T5E)<br>[Yageo - RC0805JR-0756RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0756RL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0756RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0756RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0756RL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0756RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0756RL)<br> | 
+| markdown_short | [electronic_resistor_0805_56_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm/working)<br><br>[Uniroyal - 0805W8J0560T5E- not in jlc basic parts]()[Uniroyal - 0805W8F056-1T5E- jlc basic part]()[Yageo - RC0805JR-0756RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0756RL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

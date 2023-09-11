@@ -56,8 +56,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | cf3669e90120059b536cd4b149827b3c | 
 | md5_5 | cf366 | 
+| md5_5_upper | CF366 | 
 | md5_6 | cf3669 | 
+| md5_6_upper | CF3669 | 
 | md5_10 | cf3669e901 | 
+| md5_10_upper | CF3669E901 | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 17 | 
+| description_only_numbers_short | 17 | 
+| description_or_color | 17 | 
+| description_or_color_upper | 17 | 
 | markdown_full | [electronic_header_2d54_mm_17_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin_right_angle/working)<br>[hi117pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin_right_angle/working)<br>[Electronic Header 2D54 Mm 17 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_17_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_17_pin_right_angle/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical//working/working.kicad_mod'}] | 

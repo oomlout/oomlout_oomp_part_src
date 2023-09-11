@@ -15,9 +15,6 @@
 * manucaturer -- 
 * part_number -- 
 
-## distributors
-* [LCSC - C25558](https://lcsc.com/product-detail/C25558.html)  
-* [LCSC - C137876](https://lcsc.com/product-detail/C137876.html)  
 
 ## manufacturers
 * [Uniroyal - 0402WGJ0393TCE]()  
@@ -54,12 +51,26 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0402 39000 Ohm | 
 | short_code | r4o393 | 
 | short_code_upper | R4O393 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25558', 'link': 'https://lcsc.com/product-detail/C25558.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137876', 'link': 'https://lcsc.com/product-detail/C137876.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0393TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF3902TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0739KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 98195244940a4b8b644df1e5a8848ec0 | 
 | md5_5 | 98195 | 
+| md5_5_upper | 98195 | 
 | md5_6 | 981952 | 
+| md5_6_upper | 981952 | 
 | md5_10 | 9819524494 | 
-| markdown_full | [electronic_resistor_0402_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[r4o393](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[Electronic Resistor 0402 39000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[LCSC - C25558<br>](https://lcsc.com/product-detail/C25558.html)[LCSC - C137876<br>](https://lcsc.com/product-detail/C137876.html)<br>[Uniroyal - 0402WGJ0393TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0393TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0393TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0393TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0393TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0393TCE)<br>[Uniroyal - 0402WGF3902TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF3902TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF3902TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF3902TCE)[(N)  ](https://www.newark.com/search?st=0402WGF3902TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF3902TCE)<br>[Yageo - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0739KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0739KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0739KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0739KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0739KL)<br> | 
-| markdown_short | [electronic_resistor_0402_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[LCSC - C25558<br>](https://lcsc.com/product-detail/C25558.html)[LCSC - C137876<br>](https://lcsc.com/product-detail/C137876.html)<br>[Uniroyal - 0402WGJ0393TCE- not in jlc basic parts]()[Uniroyal - 0402WGF3902TCE- jlc basic part]()[Yageo - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL) | 
+| md5_10_upper | 9819524494 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0402 | 
+| size_only_numbers_no_zeros | 42 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 39000 | 
+| description_only_numbers_short | 39k | 
+| description_or_color | 39k | 
+| description_or_color_upper | 39K | 
+| markdown_full | [electronic_resistor_0402_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[r4o393](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[Electronic Resistor 0402 39000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br><br>[Uniroyal - 0402WGJ0393TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0393TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0393TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0393TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0393TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0393TCE)<br>[Uniroyal - 0402WGF3902TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF3902TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF3902TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF3902TCE)[(N)  ](https://www.newark.com/search?st=0402WGF3902TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF3902TCE)<br>[Yageo - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0739KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0739KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0739KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0739KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0739KL)<br> | 
+| markdown_short | [electronic_resistor_0402_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br><br>[Uniroyal - 0402WGJ0393TCE- not in jlc basic parts]()[Uniroyal - 0402WGF3902TCE- jlc basic part]()[Yageo - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

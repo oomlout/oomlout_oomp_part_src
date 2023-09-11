@@ -15,9 +15,6 @@
 * manucaturer -- 
 * part_number -- 
 
-## distributors
-* [LCSC - C25211](https://lcsc.com/product-detail/C25211.html)  
-* [LCSC - C137654](https://lcsc.com/product-detail/C137654.html)  
 
 ## manufacturers
 * [Uniroyal - 0603WAJ0180T5E]()  
@@ -59,7 +56,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Resistor 0603 18 Ohm | 
 | short_code | r6o180 | 
 | short_code_upper | R6O180 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25211', 'link': 'https://lcsc.com/product-detail/C25211.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137654', 'link': 'https://lcsc.com/product-detail/C137654.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0603WAJ0180T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0603WAF018-1T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0603JR-0718RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
@@ -67,9 +64,23 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | smd_tape_pitch | 4_mm | 
 | md5 | ff567d1e398c99cad62578d4bc64c61a | 
 | md5_5 | ff567 | 
+| md5_5_upper | FF567 | 
 | md5_6 | ff567d | 
+| md5_6_upper | FF567D | 
 | md5_10 | ff567d1e39 | 
-| markdown_full | [electronic_resistor_0603_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[r6o180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[Electronic Resistor 0603 18 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[LCSC - C25211<br>](https://lcsc.com/product-detail/C25211.html)[LCSC - C137654<br>](https://lcsc.com/product-detail/C137654.html)<br>[Uniroyal - 0603WAJ0180T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0180T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0180T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0180T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0180T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0180T5E)<br>[Uniroyal - 0603WAF018-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF018-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF018-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF018-1T5E)[(N)  ](https://www.newark.com/search?st=0603WAF018-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF018-1T5E)<br>[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL) [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0718RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0718RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0718RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0718RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0718RL)<br> | 
-| markdown_short | [electronic_resistor_0603_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[LCSC - C25211<br>](https://lcsc.com/product-detail/C25211.html)[LCSC - C137654<br>](https://lcsc.com/product-detail/C137654.html)<br>[Uniroyal - 0603WAJ0180T5E- not in jlc basic parts]()[Uniroyal - 0603WAF018-1T5E- jlc basic part]()[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL) | 
+| md5_10_upper | FF567D1E39 | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0603 | 
+| size_only_numbers_no_zeros | 63 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 18 | 
+| description_only_numbers_short | 18 | 
+| description_or_color | 18 | 
+| description_or_color_upper | 18 | 
+| markdown_full | [electronic_resistor_0603_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[r6o180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[Electronic Resistor 0603 18 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br><br>[Uniroyal - 0603WAJ0180T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0180T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0180T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0180T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0180T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0180T5E)<br>[Uniroyal - 0603WAF018-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF018-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF018-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF018-1T5E)[(N)  ](https://www.newark.com/search?st=0603WAF018-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF018-1T5E)<br>[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL) [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0718RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0718RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0718RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0718RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0718RL)<br> | 
+| markdown_short | [electronic_resistor_0603_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br><br>[Uniroyal - 0603WAJ0180T5E- not in jlc basic parts]()[Uniroyal - 0603WAF018-1T5E- jlc basic part]()[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

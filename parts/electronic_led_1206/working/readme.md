@@ -57,8 +57,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | 6216927724aa54d0807a6a8b918f128f | 
 | md5_5 | 62169 | 
+| md5_5_upper | 62169 | 
 | md5_6 | 621692 | 
+| md5_6_upper | 621692 | 
 | md5_10 | 6216927724 | 
+| md5_10_upper | 6216927724 | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_only_numbers | 1206 | 
+| size_only_numbers_no_zeros | 126 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
 | markdown_full | [electronic_led_1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br>[l12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br>[Electronic Led 1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br><br> | 
 | markdown_short | [electronic_led_1206](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod'}] | 

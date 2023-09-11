@@ -51,8 +51,22 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturers | [] | 
 | md5 | 4ad1f1fc9f5d29c88c04afb3c9d1fbdd | 
 | md5_5 | 4ad1f | 
+| md5_5_upper | 4AD1F | 
 | md5_6 | 4ad1f1 | 
+| md5_6_upper | 4AD1F1 | 
 | md5_10 | 4ad1f1fc9f | 
+| md5_10_upper | 4AD1F1FC9F | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 5 | 
+| description_only_numbers_short | 5 | 
+| description_or_color | 5 | 
+| description_or_color_upper | 5 | 
 | markdown_full | [electronic_header_2d54_mm_jst_xh_5_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin_right_angle/working)<br>[h5pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Jst Xh 5 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2d54_mm_jst_xh_5_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_jst_xh_5_pin_right_angle/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x05_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x05_pin//working/working.kicad_sym'}] | 

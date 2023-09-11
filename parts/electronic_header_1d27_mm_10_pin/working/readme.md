@@ -55,8 +55,22 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturers | [] | 
 | md5 | f8c1c6941c25869662eb7908d8db7c14 | 
 | md5_5 | f8c1c | 
+| md5_5_upper | F8C1C | 
 | md5_6 | f8c1c6 | 
+| md5_6_upper | F8C1C6 | 
 | md5_10 | f8c1c6941c | 
+| md5_10_upper | F8C1C6941C | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_only_numbers | 127 | 
+| size_only_numbers_no_zeros | 127 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 10 | 
+| description_only_numbers_short | 10 | 
+| description_or_color | 10 | 
+| description_or_color_upper | 10 | 
 | markdown_full | [electronic_header_1d27_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working)<br>[h1d2710p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working)<br>[Electronic Header 1D27 Mm 10 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working)<br><br> | 
 | markdown_short | [electronic_header_1d27_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1d27_mm_10_pin/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_1_27mm_pinheader_1x10_p1_27mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_1_27mm_pinheader_1x10_p1_27mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_1_27mm_pinheader_1x10_p1_27mm_vertical//working/working.kicad_mod'}] | 

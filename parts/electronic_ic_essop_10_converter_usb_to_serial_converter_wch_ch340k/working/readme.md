@@ -92,7 +92,21 @@ List of Pins:
 | manufacturers | [] | 
 | md5 | c2a455d7f4d3be956b8a5b8101644d3d | 
 | md5_5 | c2a45 | 
+| md5_5_upper | C2A45 | 
 | md5_6 | c2a455 | 
+| md5_6_upper | C2A455 | 
 | md5_10 | c2a455d7f4 | 
+| md5_10_upper | C2A455D7F4 | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_only_numbers | 10 | 
+| size_only_numbers_no_zeros | 1 | 
+| color_upper | CONVERTER | 
+| color_first_letter | c | 
+| color_first_letter_upper | C | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | c  | 
+| description_or_color_upper | C  | 
 | markdown_full | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br> | 
 | markdown_short | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br> | 

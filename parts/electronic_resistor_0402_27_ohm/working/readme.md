@@ -15,9 +15,6 @@
 * manucaturer -- 
 * part_number -- 
 
-## distributors
-* [LCSC - C25156](https://lcsc.com/product-detail/C25156.html)  
-* [LCSC - C137890](https://lcsc.com/product-detail/C137890.html)  
 
 ## manufacturers
 * [Uniroyal - 0402WGJ0270TCE]()  
@@ -54,12 +51,26 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Resistor 0402 27 Ohm | 
 | short_code | r4o270 | 
 | short_code_upper | R4O270 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C25156', 'link': 'https://lcsc.com/product-detail/C25156.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C137890', 'link': 'https://lcsc.com/product-detail/C137890.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0270TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF027-1TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0727RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0727RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
 | md5 | 03eda3159cf4ecc41770c0ea8aacf6bc | 
 | md5_5 | 03eda | 
+| md5_5_upper | 03EDA | 
 | md5_6 | 03eda3 | 
+| md5_6_upper | 03EDA3 | 
 | md5_10 | 03eda3159c | 
-| markdown_full | [electronic_resistor_0402_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br>[r4o270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br>[Electronic Resistor 0402 27 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br>[LCSC - C25156<br>](https://lcsc.com/product-detail/C25156.html)[LCSC - C137890<br>](https://lcsc.com/product-detail/C137890.html)<br>[Uniroyal - 0402WGJ0270TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0270TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0270TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0270TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0270TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0270TCE)<br>[Uniroyal - 0402WGF027-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF027-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF027-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF027-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF027-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF027-1TCE)<br>[Yageo - RC0402JR-0727RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0727RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0727RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0727RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0727RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0727RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0727RL)<br> | 
-| markdown_short | [electronic_resistor_0402_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br>[LCSC - C25156<br>](https://lcsc.com/product-detail/C25156.html)[LCSC - C137890<br>](https://lcsc.com/product-detail/C137890.html)<br>[Uniroyal - 0402WGJ0270TCE- not in jlc basic parts]()[Uniroyal - 0402WGF027-1TCE- jlc basic part]()[Yageo - RC0402JR-0727RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0727RL) | 
+| md5_10_upper | 03EDA3159C | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_only_numbers | 0402 | 
+| size_only_numbers_no_zeros | 42 | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers | 27 | 
+| description_only_numbers_short | 27 | 
+| description_or_color | 27 | 
+| description_or_color_upper | 27 | 
+| markdown_full | [electronic_resistor_0402_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br>[r4o270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br>[Electronic Resistor 0402 27 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br><br>[Uniroyal - 0402WGJ0270TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0270TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0270TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0270TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0270TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0270TCE)<br>[Uniroyal - 0402WGF027-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF027-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF027-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF027-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF027-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF027-1TCE)<br>[Yageo - RC0402JR-0727RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0727RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0727RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0727RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0727RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0727RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0727RL)<br> | 
+| markdown_short | [electronic_resistor_0402_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm/working)<br><br>[Uniroyal - 0402WGJ0270TCE- not in jlc basic parts]()[Uniroyal - 0402WGF027-1TCE- jlc basic part]()[Yageo - RC0402JR-0727RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0727RL) | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

@@ -23,6 +23,8 @@ List of Pins:
 * 3 : usb_positive
 * 4 : gnd
 * 6 : shield
+## distributors
+* [LCSC - C2345](https://lcsc.com/product-detail/C2345.html)  
 
 
 ## symbol
@@ -74,13 +76,27 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name | Electronic Socket Usb A Through Hole | 
 | short_code | scuath | 
 | short_code_upper | SCUATH | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2345', 'link': 'https://lcsc.com/product-detail/C2345.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | ac29a1c56fdd56c5fceebef01c86ea00 | 
 | md5_5 | ac29a | 
+| md5_5_upper | AC29A | 
 | md5_6 | ac29a1 | 
+| md5_6_upper | AC29A1 | 
 | md5_10 | ac29a1c56f | 
-| markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br> | 
-| markdown_short | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br><br> | 
+| md5_10_upper | AC29A1C56F | 
+| type_first_letter | s | 
+| type_first_letter_upper | S | 
+| size_only_numbers |  | 
+| size_only_numbers_no_zeros |  | 
+| color_upper |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color |   | 
+| description_or_color_upper |   | 
+| markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> | 
+| markdown_short | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_a_molex_67643_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a', 'oomp_key': 'oomp_kicad_connector_usb_a', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym'}] | 
