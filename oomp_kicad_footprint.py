@@ -28,23 +28,23 @@ def get_footprints(**kwargs):
     matches.append(match)
 
     match = {}
-    match["type"] = "switch"
+    match["type"] = "switch_slide"
     match["size"] = "2_8_mm_x_8_mm_x_1_4"
     match["description_main"] = "single_pole_double_throw"
     match["footprint_name"] = "kicad_button_switch_smd_sw_spdt_pcm12"
     matches.append(match)
 
     match = {}
-    match["type"] = "switch"
+    match["type"] = "switch_slide"
     match["size"] = "2d54_header"
     match["description_main"] = "single_pole_single_throw"
     match["footprint_name"] = "kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical"
     matches.append(match)
 
     match = {}
-    match["type"] = "switch"
+    match["type"] = "switch_slide"
     match["size"] = "2d54_header"
-    match["description_main"] = "single_pole_single_throw"
+    match["description_main"] = "single_pole_double_throw"
     match["footprint_name"] = "kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical"
     matches.append(match)
     

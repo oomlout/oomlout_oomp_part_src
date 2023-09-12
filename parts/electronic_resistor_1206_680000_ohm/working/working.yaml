@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 680000_ohm
 description_only_numbers: '680000'
-description_only_numbers_short: 680.0k
-description_or_color: 680.0k
-description_or_color_upper: 680.0K
+description_only_numbers_short: 680k
+description_or_color: 680k
+description_or_color_upper: 680K
 directory: parts/electronic_resistor_1206_680000_ohm
 distributors: []
 filter: ''

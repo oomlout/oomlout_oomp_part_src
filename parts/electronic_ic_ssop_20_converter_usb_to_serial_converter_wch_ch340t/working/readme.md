@@ -23,7 +23,7 @@ List of Pins:
 * 3 : txd
 * 4 : rxd
 * 5 : v3
-* 6 : ud_plus
+* 6 : ud_positive
 * 7 : ud_negative
 * 8 : gnd
 * 9 : xi
@@ -77,7 +77,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | pins_pin_5_name | v3 | 
 | pins_pin_5_number | 5 | 
 | pins_pin_5_type | signal | 
-| pins_pin_6_name | ud_plus | 
+| pins_pin_6_name | ud_positive | 
 | pins_pin_6_number | 6 | 
 | pins_pin_6_type | gnd | 
 | pins_pin_7_name | ud_negative | 

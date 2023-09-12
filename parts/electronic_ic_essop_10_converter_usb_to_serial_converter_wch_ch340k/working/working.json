@@ -16,7 +16,7 @@
             "type": "signal"
         },
         "pin_2": {
-            "name": "ud_plus",
+            "name": "ud_positive",
             "number": "2",
             "type": "signal"
         },

@@ -44,7 +44,7 @@ oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340
 part_number: ch340x
 pins:
     pin_1:
-        name: ud_plus
+        name: ud_positive
         number: '1'
         type: signal
     pin_10:

@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 820000_ohm
 description_only_numbers: '820000'
-description_only_numbers_short: 820.0k
-description_or_color: 820.0k
-description_or_color_upper: 820.0K
+description_only_numbers_short: 820k
+description_or_color: 820k
+description_or_color_upper: 820K
 directory: parts/electronic_resistor_0201_820000_ohm
 distributors: []
 filter: ''

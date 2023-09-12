@@ -45,7 +45,7 @@ oomp_key: oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jian
 part_number: rs2227xn
 pins:
     pin_1:
-        name: v_plus
+        name: v_positive
         number: '1'
         type: signal
     pin_10:
@@ -57,11 +57,11 @@ pins:
         number: '2'
         type: signal
     pin_3:
-        name: d_plus
+        name: d_positive
         number: '3'
         type: signal
     pin_4:
-        name: d_minus
+        name: d_negative
         number: '4'
         type: signal
     pin_5:
@@ -69,19 +69,19 @@ pins:
         number: '5'
         type: signal
     pin_6:
-        name: hsd1_minus
+        name: hsd1_negative
         number: '6'
         type: gnd
     pin_7:
-        name: hsd1_plus
+        name: hsd1_positive
         number: '7'
         type: signal
     pin_8:
-        name: hsd2_minus
+        name: hsd2_negative
         number: '8'
         type: signal
     pin_9:
-        name: hsd2_plus
+        name: hsd2_positive
         number: '9'
         type: signal
 short_code: imsp10mpump21rs2227

@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 470000_ohm
 description_only_numbers: '470000'
-description_only_numbers_short: 470.0k
-description_or_color: 470.0k
-description_or_color_upper: 470.0K
+description_only_numbers_short: 470k
+description_or_color: 470k
+description_or_color_upper: 470K
 directory: parts/electronic_resistor_0201_470000_ohm
 distributors: []
 filter: ''

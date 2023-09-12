@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 270000_ohm
 description_only_numbers: '270000'
-description_only_numbers_short: 270.0k
-description_or_color: 270.0k
-description_or_color_upper: 270.0K
+description_only_numbers_short: 270k
+description_or_color: 270k
+description_or_color_upper: 270K
 directory: parts/electronic_resistor_0201_270000_ohm
 distributors: []
 filter: ''

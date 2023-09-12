@@ -24,13 +24,13 @@ def get_symbols(**kwargs):
     matches.append(match)
 
     match = {}
-    match["type"] = "switch"
+    match["type"] = "switch_slide"
     match["description_main"] = "single_pole_single_throw"
     match["symbol_name"] = f"kicad_switch_sw_spst"
     matches.append(match)
     
     match = {}
-    match["type"] = "switch"
+    match["type"] = "switch_slide"
     match["description_main"] = "single_pole_double_throw"
     match["symbol_name"] = f"kicad_switch_sw_spdt"
     matches.append(match)

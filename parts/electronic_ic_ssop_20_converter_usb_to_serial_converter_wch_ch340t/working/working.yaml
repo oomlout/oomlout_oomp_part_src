@@ -104,7 +104,7 @@ pins:
         number: '5'
         type: signal
     pin_6:
-        name: ud_plus
+        name: ud_positive
         number: '6'
         type: gnd
     pin_7:

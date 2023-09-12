@@ -88,7 +88,7 @@ pins:
         number: '4'
         type: signal
     pin_5:
-        name: ud_plus
+        name: ud_positive
         number: '5'
         type: signal
     pin_6:

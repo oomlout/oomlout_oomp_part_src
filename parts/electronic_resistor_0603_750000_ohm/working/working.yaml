@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 750000_ohm
 description_only_numbers: '750000'
-description_only_numbers_short: 750.0k
-description_or_color: 750.0k
-description_or_color_upper: 750.0K
+description_only_numbers_short: 750k
+description_or_color: 750k
+description_or_color_upper: 750K
 directory: parts/electronic_resistor_0603_750000_ohm
 distributors: []
 filter: ''

@@ -18,15 +18,15 @@
 ![](working_pinout_600.png)  
 List of Pins:
 
-* 1 : v_plus
+* 1 : v_positive
 * 2 : s
-* 3 : d_plus
-* 4 : d_minus
+* 3 : d_positive
+* 4 : d_negative
 * 5 : gnd
-* 6 : hsd1_minus
-* 7 : hsd1_plus
-* 8 : hsd2_minus
-* 9 : hsd2_plus
+* 6 : hsd1_negative
+* 7 : hsd1_positive
+* 8 : hsd2_negative
+* 9 : hsd2_positive
 * 10 : oe
 ## distributors
 * [LCSC - C255478](https://lcsc.com/product-detail/C255478.html)  
@@ -52,31 +52,31 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturer | jiangsu_runic_tech | 
 | part_number | rs2227xn | 
 | short_name | usb multiplexer 2 to 1 (rs2227xn) | 
-| pins_pin_1_name | v_plus | 
+| pins_pin_1_name | v_positive | 
 | pins_pin_1_number | 1 | 
 | pins_pin_1_type | signal | 
 | pins_pin_2_name | s | 
 | pins_pin_2_number | 2 | 
 | pins_pin_2_type | signal | 
-| pins_pin_3_name | d_plus | 
+| pins_pin_3_name | d_positive | 
 | pins_pin_3_number | 3 | 
 | pins_pin_3_type | signal | 
-| pins_pin_4_name | d_minus | 
+| pins_pin_4_name | d_negative | 
 | pins_pin_4_number | 4 | 
 | pins_pin_4_type | signal | 
 | pins_pin_5_name | gnd | 
 | pins_pin_5_number | 5 | 
 | pins_pin_5_type | signal | 
-| pins_pin_6_name | hsd1_minus | 
+| pins_pin_6_name | hsd1_negative | 
 | pins_pin_6_number | 6 | 
 | pins_pin_6_type | gnd | 
-| pins_pin_7_name | hsd1_plus | 
+| pins_pin_7_name | hsd1_positive | 
 | pins_pin_7_number | 7 | 
 | pins_pin_7_type | signal | 
-| pins_pin_8_name | hsd2_minus | 
+| pins_pin_8_name | hsd2_negative | 
 | pins_pin_8_number | 8 | 
 | pins_pin_8_type | signal | 
-| pins_pin_9_name | hsd2_plus | 
+| pins_pin_9_name | hsd2_positive | 
 | pins_pin_9_number | 9 | 
 | pins_pin_9_type | signal | 
 | pins_pin_10_name | oe | 

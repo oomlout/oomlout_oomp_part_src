@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 2200000_ohm
 description_only_numbers: '2200000'
-description_only_numbers_short: 2M
-description_or_color: 2M
-description_or_color_upper: 2M
+description_only_numbers_short: 2M2
+description_or_color: 2M2
+description_or_color_upper: 2M2
 directory: parts/electronic_resistor_0402_2200000_ohm
 distributors: []
 filter: ''

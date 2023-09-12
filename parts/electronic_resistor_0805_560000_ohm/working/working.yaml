@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 560000_ohm
 description_only_numbers: '560000'
-description_only_numbers_short: 560.0k
-description_or_color: 560.0k
-description_or_color_upper: 560.0K
+description_only_numbers_short: 560k
+description_or_color: 560k
+description_or_color_upper: 560K
 directory: parts/electronic_resistor_0805_560000_ohm
 distributors: []
 filter: ''

@@ -23,6 +23,8 @@ def get_short_code(**kwargs):
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["nettie"] = "nt"
     replace_dict["type"]["socket"] = "sc"
+    replace_dict["type"]["switch"] = "sw"
+    replace_dict["type"]["switch_slide"] = "sws"
     replace_dict["type"]["pmic"] = "pm"
     replace_dict["type"]["header"] = "h"
     replace_dict["type"]["breakout_board"] = "bb"

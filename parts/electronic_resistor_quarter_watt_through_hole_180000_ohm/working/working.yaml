@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 180000_ohm
 description_only_numbers: '180000'
-description_only_numbers_short: 180.0k
-description_or_color: 180.0k
-description_or_color_upper: 180.0K
+description_only_numbers_short: 180k
+description_or_color: 180k
+description_or_color_upper: 180K
 directory: parts/electronic_resistor_quarter_watt_through_hole_180000_ohm
 distributors: []
 filter: ''

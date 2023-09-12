@@ -1,14 +1,29 @@
 parts_final:
 - electronic_led_0603_white
-- electronic_resistor_0603_68000_ohm
-- electronic_resistor_0603_3900_ohm
-- electronic_resistor_0603_820_ohm
-- electronic_resistor_0603_10_ohm
-- electronic_resistor_0603_220000_ohm
-- electronic_resistor_0603_390_ohm
-- electronic_resistor_0603_75_ohm
+- electronic_resistor_0603_150000_ohm
+- electronic_resistor_0603_68_ohm
+- electronic_resistor_0603_8200_ohm
+- electronic_resistor_0603_56000_ohm
+- electronic_resistor_0603_8200_ohm
+- electronic_resistor_0603_470000_ohm
+- electronic_resistor_0603_7500_ohm
+- electronic_resistor_0603_75000_ohm
+- electronic_resistor_0603_27_ohm
+- electronic_resistor_0603_3300_ohm
+- electronic_resistor_0603_10000000_ohm
+- electronic_resistor_0603_56000_ohm
+- electronic_resistor_0603_39000_ohm
+- electronic_resistor_0603_220_ohm
+- electronic_resistor_0603_4700000_ohm
+- electronic_resistor_0603_2700_ohm
+- electronic_resistor_0603_270_ohm
 parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_led_0603_white\
-  \ |  | \n| electronic_resistor_0603_68000_ohm |  | \n| electronic_resistor_0603_3900_ohm\
-  \ |  | \n| electronic_resistor_0603_820_ohm |  | \n| electronic_resistor_0603_10_ohm\
-  \ |  | \n| electronic_resistor_0603_220000_ohm |  | \n| electronic_resistor_0603_390_ohm\
-  \ |  | \n| electronic_resistor_0603_75_ohm |  | \n"
+  \ |  | \n| electronic_resistor_0603_150000_ohm |  | \n| electronic_resistor_0603_68_ohm\
+  \ |  | \n| electronic_resistor_0603_8200_ohm |  | \n| electronic_resistor_0603_56000_ohm\
+  \ |  | \n| electronic_resistor_0603_8200_ohm |  | \n| electronic_resistor_0603_470000_ohm\
+  \ |  | \n| electronic_resistor_0603_7500_ohm |  | \n| electronic_resistor_0603_75000_ohm\
+  \ |  | \n| electronic_resistor_0603_27_ohm |  | \n| electronic_resistor_0603_3300_ohm\
+  \ |  | \n| electronic_resistor_0603_10000000_ohm |  | \n| electronic_resistor_0603_56000_ohm\
+  \ |  | \n| electronic_resistor_0603_39000_ohm |  | \n| electronic_resistor_0603_220_ohm\
+  \ |  | \n| electronic_resistor_0603_4700000_ohm |  | \n| electronic_resistor_0603_2700_ohm\
+  \ |  | \n| electronic_resistor_0603_270_ohm |  | \n"

@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 2700000_ohm
 description_only_numbers: '2700000'
-description_only_numbers_short: 3M
-description_or_color: 3M
-description_or_color_upper: 3M
+description_only_numbers_short: 2M7
+description_or_color: 2M7
+description_or_color_upper: 2M7
 directory: parts/electronic_resistor_0402_2700000_ohm
 distributors: []
 filter: ''

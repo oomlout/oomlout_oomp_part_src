@@ -18,7 +18,7 @@
 ![](working_pinout_600.png)  
 List of Pins:
 
-* 1 : ud_plus
+* 1 : ud_positive
 * 2 : ud_negative
 * 3 : gnd
 * 4 : rts
@@ -57,7 +57,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturer | wch | 
 | part_number | ch340x | 
 | short_name | usb to serial converter (ch340x) | 
-| pins_pin_1_name | ud_plus | 
+| pins_pin_1_name | ud_positive | 
 | pins_pin_1_number | 1 | 
 | pins_pin_1_type | signal | 
 | pins_pin_2_name | ud_negative | 

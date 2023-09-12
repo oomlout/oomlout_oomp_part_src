@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 7500000_ohm
 description_only_numbers: '7500000'
-description_only_numbers_short: 8M
-description_or_color: 8M
-description_or_color_upper: 8M
+description_only_numbers_short: 7M5
+description_or_color: 7M5
+description_or_color_upper: 7M5
 directory: parts/electronic_resistor_quarter_watt_through_hole_7500000_ohm
 distributors: []
 filter: ''

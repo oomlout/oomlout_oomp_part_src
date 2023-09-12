@@ -22,7 +22,7 @@ List of Pins:
 * 2 : txd
 * 3 : rxd
 * 4 : v3
-* 5 : ud_plus
+* 5 : ud_positive
 * 6 : ud_negative
 * 7 : rst
 * 8 : nc
@@ -70,7 +70,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_4_name | v3 | 
 | pins_pin_4_number | 4 | 
 | pins_pin_4_type | signal | 
-| pins_pin_5_name | ud_plus | 
+| pins_pin_5_name | ud_positive | 
 | pins_pin_5_number | 5 | 
 | pins_pin_5_type | signal | 
 | pins_pin_6_name | ud_negative | 

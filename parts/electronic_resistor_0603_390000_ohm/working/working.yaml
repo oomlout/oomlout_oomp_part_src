@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 390000_ohm
 description_only_numbers: '390000'
-description_only_numbers_short: 390.0k
-description_or_color: 390.0k
-description_or_color_upper: 390.0K
+description_only_numbers_short: 390k
+description_or_color: 390k
+description_or_color_upper: 390K
 directory: parts/electronic_resistor_0603_390000_ohm
 distributors: []
 filter: ''

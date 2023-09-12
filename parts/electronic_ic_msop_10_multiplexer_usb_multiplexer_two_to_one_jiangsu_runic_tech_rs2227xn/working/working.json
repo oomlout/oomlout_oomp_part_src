@@ -11,7 +11,7 @@
     "short_name": "usb multiplexer 2 to 1 (rs2227xn)",
     "pins": {
         "pin_1": {
-            "name": "v_plus",
+            "name": "v_positive",
             "number": "1",
             "type": "signal"
         },
@@ -21,12 +21,12 @@
             "type": "signal"
         },
         "pin_3": {
-            "name": "d_plus",
+            "name": "d_positive",
             "number": "3",
             "type": "signal"
         },
         "pin_4": {
-            "name": "d_minus",
+            "name": "d_negative",
             "number": "4",
             "type": "signal"
         },
@@ -36,22 +36,22 @@
             "type": "signal"
         },
         "pin_6": {
-            "name": "hsd1_minus",
+            "name": "hsd1_negative",
             "number": "6",
             "type": "gnd"
         },
         "pin_7": {
-            "name": "hsd1_plus",
+            "name": "hsd1_positive",
             "number": "7",
             "type": "signal"
         },
         "pin_8": {
-            "name": "hsd2_minus",
+            "name": "hsd2_negative",
             "number": "8",
             "type": "signal"
         },
         "pin_9": {
-            "name": "hsd2_plus",
+            "name": "hsd2_positive",
             "number": "9",
             "type": "signal"
         },

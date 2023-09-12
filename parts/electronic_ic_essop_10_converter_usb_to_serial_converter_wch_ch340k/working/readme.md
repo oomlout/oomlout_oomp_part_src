@@ -19,7 +19,7 @@
 List of Pins:
 
 * 1 : gnd
-* 2 : ud_plus
+* 2 : ud_positive
 * 3 : ud_negative
 * 4 : gnd
 * 5 : cts
@@ -50,7 +50,7 @@ List of Pins:
 | pins_pin_1_name | gnd | 
 | pins_pin_1_number | 1 | 
 | pins_pin_1_type | signal | 
-| pins_pin_2_name | ud_plus | 
+| pins_pin_2_name | ud_positive | 
 | pins_pin_2_number | 2 | 
 | pins_pin_2_type | signal | 
 | pins_pin_3_name | ud_negative | 

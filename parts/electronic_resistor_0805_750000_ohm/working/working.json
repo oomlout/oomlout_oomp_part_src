@@ -37,9 +37,9 @@
     "color_first_letter": "",
     "color_first_letter_upper": "",
     "description_only_numbers": "750000",
-    "description_only_numbers_short": "750.0k",
-    "description_or_color": "750.0k",
-    "description_or_color_upper": "750.0K",
+    "description_only_numbers_short": "750k",
+    "description_or_color": "750k",
+    "description_or_color_upper": "750K",
     "markdown_full": "[electronic_resistor_0805_750000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750000_ohm/working)<br>[r8o754](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750000_ohm/working)<br>[Electronic Resistor 0805 750000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750000_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_0805_750000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750000_ohm/working)<br><br>"
 }

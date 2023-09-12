@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 10000000_ohm
 description_only_numbers: '10000000'
-description_only_numbers_short: 10M
-description_or_color: 10M
-description_or_color_upper: 10M
+description_only_numbers_short: 1M
+description_or_color: 1M
+description_or_color_upper: 1M
 directory: parts/electronic_resistor_0805_10000000_ohm
 distributors: []
 filter: ''

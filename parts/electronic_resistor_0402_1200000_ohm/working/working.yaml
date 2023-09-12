@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 1200000_ohm
 description_only_numbers: '1200000'
-description_only_numbers_short: 1M
-description_or_color: 1M
-description_or_color_upper: 1M
+description_only_numbers_short: 1M2
+description_or_color: 1M2
+description_or_color_upper: 1M2
 directory: parts/electronic_resistor_0402_1200000_ohm
 distributors: []
 filter: ''

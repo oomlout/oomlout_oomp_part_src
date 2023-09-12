@@ -37,9 +37,9 @@
     "color_first_letter": "",
     "color_first_letter_upper": "",
     "description_only_numbers": "1200000",
-    "description_only_numbers_short": "1M",
-    "description_or_color": "1M",
-    "description_or_color_upper": "1M",
+    "description_only_numbers_short": "1M2",
+    "description_or_color": "1M2",
+    "description_or_color_upper": "1M2",
     "markdown_full": "[electronic_resistor_0805_1200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1200000_ohm/working)<br>[r8o125](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1200000_ohm/working)<br>[Electronic Resistor 0805 1200000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1200000_ohm/working)<br><br>",
     "markdown_short": "[electronic_resistor_0805_1200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1200000_ohm/working)<br><br>"
 }

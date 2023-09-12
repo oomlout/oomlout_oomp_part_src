@@ -6,9 +6,9 @@ color_upper: ''
 description_extra: ''
 description_main: 330000_ohm
 description_only_numbers: '330000'
-description_only_numbers_short: 330.0k
-description_or_color: 330.0k
-description_or_color_upper: 330.0K
+description_only_numbers_short: 330k
+description_or_color: 330k
+description_or_color_upper: 330K
 directory: parts/electronic_resistor_1206_330000_ohm
 distributors: []
 filter: ''
