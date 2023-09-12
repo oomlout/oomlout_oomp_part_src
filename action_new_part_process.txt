@@ -4,6 +4,20 @@
     * open kicad footprint browser
 * open
     * action_new_part_process.workspace
+        * first pane
+            * action_setupaction_all
+            * action action_new_part_process
+            * zzzzzzz_working
+        * second pane
+            * relevant create_part
+        * third pane
+            * symbol
+            * footprint
+            * distributor
+        * fourth pane
+            * short_code
+
+
 * find on lcsc
     * put on top monitor
     * look at jlc basic

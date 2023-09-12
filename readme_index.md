@@ -7,6 +7,14 @@
 ### 3_5_mm_x_6_mm_x_2_5_mm   
 #### surface_mount   
 [b3560s - oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)   
+## switch   
+### 2d54_header   
+####    
+[i1hspst - oomp_electronic_switch_2d54_header_single_pole_single_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_2d54_header_single_pole_single_throw/working)   
+[i1h - oomp_electronic_switch_2d54_header_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_2d54_header_single_pole_double_throw/working)   
+### 2_8_mm_x_8_mm_x_1_4   
+####    
+[2880 - oomp_electronic_switch_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw/working)   
 ## capacitor   
 ### 0603   
 ####    

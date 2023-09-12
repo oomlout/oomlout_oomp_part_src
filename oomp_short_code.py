@@ -28,6 +28,16 @@ def get_short_code(**kwargs):
     replace_dict["type"]["breakout_board"] = "bb"
 
     replace_dict["size"] = {}
+    # size
+
+    #      button and switch
+    replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
+    replace_dict["size"]["2_8_mm_x_8_mm_x_1_4"] = "2880"
+    replace_dict["size"]["2d54_header"] = "i1h"
+
+    #            to sort
+
+
     #loop for all mm sizes
     for mm in range(1, 100):
         replace_dict["size"][f"{mm}_mm"] = f"{mm}"
@@ -86,8 +96,7 @@ def get_short_code(**kwargs):
     replace_dict["size"]["to_252"] = "t252"
     replace_dict["size"]["sot_223"] = "s223"
 
-    ##### dimension sizes
-    replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
+    
 
     #### jst sizes
     replace_dict["size"]["_jst_ph"] = "jph"
@@ -113,11 +122,14 @@ def get_short_code(**kwargs):
     replace_dict["color"]["sensor"] = "sn"
     replace_dict["color"]["multiplexer"] = "mp"
 
+    # description_main
     replace_dict["description_main"] = {}
-    
-    
-    
     replace_dict["description_main"][""] = ""
+    #      button and switch
+    replace_dict["description_main"]["single_pole_single_throw"] = "spst"
+
+    #      to sort
+    
     replace_dict["description_main"]["i2c"] = "i2c"
     replace_dict["description_main"]["tinted"] = "t"
     

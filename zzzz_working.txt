@@ -1,1 +1,1 @@
-electronic_socket_usb_micro_surface_mount
+electronic_switch_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw

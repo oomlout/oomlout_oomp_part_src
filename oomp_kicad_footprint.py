@@ -10,6 +10,9 @@ def get_footprints(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
+    
+
+
     # breakout_boards
     match = {}
     match["description_main"] = "atmega328"
@@ -17,12 +20,34 @@ def get_footprints(**kwargs):
     match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
     matches.append(match)
     
-    # button
+    # button and switch
     match = {}
     match["type"] = "button"
-    match["size"] = "3_5_mm_x_6_mm_x_2_5_mm"
+    match["size"] = "3_5_mm_x_6_mm_x_2_5_mm"    
     match["footprint_name"] = "kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs"
     matches.append(match)
+
+    match = {}
+    match["type"] = "switch"
+    match["size"] = "2_8_mm_x_8_mm_x_1_4"
+    match["description_main"] = "single_pole_double_throw"
+    match["footprint_name"] = "kicad_button_switch_smd_sw_spdt_pcm12"
+    matches.append(match)
+
+    match = {}
+    match["type"] = "switch"
+    match["size"] = "2d54_header"
+    match["description_main"] = "single_pole_single_throw"
+    match["footprint_name"] = "kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical"
+    matches.append(match)
+
+    match = {}
+    match["type"] = "switch"
+    match["size"] = "2d54_header"
+    match["description_main"] = "single_pole_single_throw"
+    match["footprint_name"] = "kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical"
+    matches.append(match)
+    
 
     # capacitor
     match = {}

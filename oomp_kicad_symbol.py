@@ -17,13 +17,26 @@ def get_symbols(**kwargs):
     match["symbol_name"] = f"kicad_mcu_module_arduino_nano_v2_x"
     matches.append(match)
 
-    # button
+    # button and switch
     match = {}
     match["type"] = "button"
     match["symbol_name"] = f"kicad_switch_sw_push"
     matches.append(match)
 
+    match = {}
+    match["type"] = "switch"
+    match["description_main"] = "single_pole_single_throw"
+    match["symbol_name"] = f"kicad_switch_sw_spst"
+    matches.append(match)
+    
+    match = {}
+    match["type"] = "switch"
+    match["description_main"] = "single_pole_double_throw"
+    match["symbol_name"] = f"kicad_switch_sw_spdt"
+    matches.append(match)
+
     # capacitor
+
     
     match = {}
     match["type"] = "capacitor"

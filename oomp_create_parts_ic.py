@@ -138,15 +138,15 @@ def load_parts(**kwargs):
     part_details["part_number"] = "rs2227xn"
     part_details["short_name"] = "usb multiplexer 2 to 1 (rs2227xn)"
     pins = {}
-    pins["pin_1"] = ({"name": "v_plus", "number": "1", "type": "signal"})
+    pins["pin_1"] = ({"name": "v_positive", "number": "1", "type": "signal"})
     pins["pin_2"] = ({"name": "s", "number": "2", "type": "signal"})
-    pins["pin_3"] = ({"name": "d_plus", "number": "3", "type": "signal"})
-    pins["pin_4"] = ({"name": "d_minus", "number": "4", "type": "signal"})
+    pins["pin_3"] = ({"name": "d_positive", "number": "3", "type": "signal"})
+    pins["pin_4"] = ({"name": "d_negative", "number": "4", "type": "signal"})
     pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "signal"})
-    pins["pin_6"] = ({"name": "hsd1_minus", "number": "6", "type": "gnd"})
-    pins["pin_7"] = ({"name": "hsd1_plus", "number": "7", "type": "signal"})
-    pins["pin_8"] = ({"name": "hsd2_minus", "number": "8", "type": "signal"})
-    pins["pin_9"] = ({"name": "hsd2_plus", "number": "9", "type": "signal"})
+    pins["pin_6"] = ({"name": "hsd1_negative", "number": "6", "type": "gnd"})
+    pins["pin_7"] = ({"name": "hsd1_positive", "number": "7", "type": "signal"})
+    pins["pin_8"] = ({"name": "hsd2_negative", "number": "8", "type": "signal"})
+    pins["pin_9"] = ({"name": "hsd2_positive", "number": "9", "type": "signal"})
     pins["pin_10"] = ({"name": "oe", "number": "10", "type": "signal"})
     part_details["pins"] = pins
     part_details["kicad_reference"] = "U"
@@ -170,7 +170,7 @@ def load_parts(**kwargs):
     pins["pin_2"] = ({"name": "txd", "number": "2", "type": "signal"})
     pins["pin_3"] = ({"name": "rxd", "number": "3", "type": "signal"})
     pins["pin_4"] = ({"name": "v3", "number": "4", "type": "signal"})
-    pins["pin_5"] = ({"name": "ud_plus", "number": "5", "type": "signal"})
+    pins["pin_5"] = ({"name": "ud_positive", "number": "5", "type": "signal"})
     pins["pin_6"] = ({"name": "ud_negative", "number": "6", "type": "gnd"})
     pins["pin_7"] = ({"name": "not_connected", "number": "7", "type": "signal"})
     pins["pin_8"] = ({"name": "out", "number": "8", "type": "signal"})
@@ -226,7 +226,7 @@ def load_parts(**kwargs):
     pins["pin_3"] = ({"name": "txd", "number": "3", "type": "signal"})
     pins["pin_4"] = ({"name": "rxd", "number": "4", "type": "signal"})
     pins["pin_5"] = ({"name": "v3", "number": "5", "type": "signal"})
-    pins["pin_6"] = ({"name": "ud_plus", "number": "6", "type": "gnd"})
+    pins["pin_6"] = ({"name": "ud_positive", "number": "6", "type": "gnd"})
     pins["pin_7"] = ({"name": "ud_negative", "number": "7", "type": "signal"})
     pins["pin_8"] = ({"name": "gnd", "number": "8", "type": "signal"})
     pins["pin_9"] = ({"name": "xi", "number": "9", "type": "signal"})
@@ -252,7 +252,7 @@ def load_parts(**kwargs):
     part_details["short_name"] = "usb to serial converter (ch340k)"
     pins = {}
     pins["pin_1"] = ({"name": "gnd", "number": "1", "type": "signal"})
-    pins["pin_2"] = ({"name": "ud_plus", "number": "2", "type": "signal"})
+    pins["pin_2"] = ({"name": "ud_positive", "number": "2", "type": "signal"})
     pins["pin_3"] = ({"name": "ud_negative", "number": "3", "type": "signal"})
     pins["pin_4"] = ({"name": "gnd", "number": "4", "type": "signal"})
     pins["pin_5"] = ({"name": "cts", "number": "5", "type": "signal"})
@@ -272,7 +272,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "ch340e"
     part_details["short_name"] = "usb to serial converter (ch340e)"
     pins = {}
-    pins["pin_1"] = ({"name": "ud_plus", "number": "1", "type": "signal"})
+    pins["pin_1"] = ({"name": "ud_positive", "number": "1", "type": "signal"})
     pins["pin_2"] = ({"name": "ud_negative", "number": "2", "type": "signal"})
     pins["pin_3"] = ({"name": "gnd", "number": "3", "type": "signal"})
     pins["pin_4"] = ({"name": "rts", "number": "4", "type": "signal"})
@@ -305,7 +305,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "ch340n"
     part_details["short_name"] = "usb to serial converter (ch340n)"
     pins = {}
-    pins["pin_1"] = ({"name": "ud_plus", "number": "1", "type": "signal"})
+    pins["pin_1"] = ({"name": "ud_positive", "number": "1", "type": "signal"})
     pins["pin_2"] = ({"name": "ud_negative", "number": "2", "type": "signal"})
     pins["pin_3"] = ({"name": "gnd", "number": "3", "type": "signal"})
     pins["pin_4"] = ({"name": "rts", "number": "4", "type": "signal"})

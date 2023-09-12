@@ -27,6 +27,37 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["short_name"] = ""  
     part_details["distributors"] = []
+    parts.append(part_details) 
+
+    
+    #switch
+
+    #      single_pole_single_throw
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "switch"
+    part_details["size"] = ["2d54_header"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "single_pole_single_throw"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["distributors"] = []
+    parts.append(part_details)
+
+    #      single_pole_double_throw
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "switch"
+    part_details["size"] = ["2d54_header", "2_8_mm_x_8_mm_x_1_4"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "single_pole_double_throw"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["distributors"] = []
     parts.append(part_details)
 
     

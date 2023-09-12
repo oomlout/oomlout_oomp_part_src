@@ -14,9 +14,12 @@ def get_matches(**kwargs):
     matches.append({"id":"electronic_ic_sop_28_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",
                   "part_number": "c82650"})
 
-    # button
+    # button and switch
     matches.append({"id":"electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
                   "part_number": "C2845294"})
+
+    matches.append({"id":"electronic_switch_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw",
+                  "part_number": "C431540"})
 
     # capacitor
     part = "electronic_capacitor_0603_100_nano_farad"

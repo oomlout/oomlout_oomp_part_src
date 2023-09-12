@@ -3,14 +3,22 @@ import oom_git
 
 def main():  
 
-    fast = True
-    fast = False
     
+    fast = False
+    fast = True
+
     label=True
     label=False 
 
     doc = True
     doc = False
+
+    all= True
+    all= False
+    if all:
+        fast = False
+        #label = True #makes new pdfs which are messy in git
+        doc = True
 
     
     import action_setup
