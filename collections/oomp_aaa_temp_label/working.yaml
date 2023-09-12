@@ -1,14 +1,14 @@
 parts_final:
 - electronic_led_0603_white
-- electronic_resistor_0603_150_ohm
-- electronic_resistor_0603_680_ohm
-- electronic_resistor_0603_27000_ohm
-- electronic_resistor_0603_560_ohm
-- electronic_resistor_0603_1200_ohm
-- electronic_resistor_0603_1000000_ohm
-- electronic_resistor_0603_39000_ohm
+- electronic_resistor_0603_68000_ohm
+- electronic_resistor_0603_3900_ohm
+- electronic_resistor_0603_820_ohm
+- electronic_resistor_0603_10_ohm
+- electronic_resistor_0603_220000_ohm
+- electronic_resistor_0603_390_ohm
+- electronic_resistor_0603_75_ohm
 parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_led_0603_white\
-  \ |  | \n| electronic_resistor_0603_150_ohm |  | \n| electronic_resistor_0603_680_ohm\
-  \ |  | \n| electronic_resistor_0603_27000_ohm |  | \n| electronic_resistor_0603_560_ohm\
-  \ |  | \n| electronic_resistor_0603_1200_ohm |  | \n| electronic_resistor_0603_1000000_ohm\
-  \ |  | \n| electronic_resistor_0603_39000_ohm |  | \n"
+  \ |  | \n| electronic_resistor_0603_68000_ohm |  | \n| electronic_resistor_0603_3900_ohm\
+  \ |  | \n| electronic_resistor_0603_820_ohm |  | \n| electronic_resistor_0603_10_ohm\
+  \ |  | \n| electronic_resistor_0603_220000_ohm |  | \n| electronic_resistor_0603_390_ohm\
+  \ |  | \n| electronic_resistor_0603_75_ohm |  | \n"

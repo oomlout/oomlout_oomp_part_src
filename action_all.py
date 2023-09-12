@@ -9,6 +9,9 @@ def main():
     label=True
     label=False 
 
+    doc = True
+    doc = False
+
     
     import action_setup
     print("Setting up")
@@ -58,6 +61,10 @@ def main():
         print("Generating outputs")
         action_generate_outputs.main()
 
+    if not fast and doc:
+        import action_generate_doc
+        print("Generating doc")
+        action_generate_doc.main()
 
     comment = "added auto index generation"
     #oom_git.push_to_git(comment=comment)
