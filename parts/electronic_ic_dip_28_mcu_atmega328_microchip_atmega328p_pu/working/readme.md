@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu 
-* short_code: id28at328
+* short_code: id28mcuat328
 * md5_6: 5b2b5d  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working  
 ## naming details
@@ -49,8 +49,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working | 
 | directory | parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu | 
 | name | Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu | 
-| short_code | id28at328 | 
-| short_code_upper | ID28AT328 | 
+| short_code | id28mcuat328 | 
+| short_code_upper | ID28MCUAT328 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 5b2b5de6dc21043bec6c02133654d333 | 
@@ -71,7 +71,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_only_numbers_short | 328 | 
 | description_or_color | m328 | 
 | description_or_color_upper | M328 | 
-| markdown_full | [electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[id28at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br> | 
+| markdown_full | [electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[id28mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br> | 
 | markdown_short | [electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dip_dip_28_w7_62mm', 'oomp_key': 'oomp_kicad_package_dip_dip_28_w7_62mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dip_dip_28_w7_62mm//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328p_p', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328p_p', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328p_p//working/working.kicad_sym'}] | 

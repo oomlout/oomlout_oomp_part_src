@@ -1,6 +1,7 @@
 import oomp
 import oom_git
 
+
 def main():  
 
     
@@ -73,6 +74,7 @@ def main():
         import action_generate_doc
         print("Generating doc")
         action_generate_doc.main()
+        oom_git.push(repo_directory = "c:/gh/oomlout_oomp_part_doc_v_2")
 
     comment = "added auto index generation"
     #oom_git.push_to_git(comment=comment)

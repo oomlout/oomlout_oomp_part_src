@@ -15,6 +15,9 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_horizontal//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_horizontal
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_horizontal
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal
     oomp_key: oomp_kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal
