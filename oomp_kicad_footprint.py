@@ -14,10 +14,16 @@ def get_footprints(**kwargs):
 
 
     # breakout_boards
-    match = {}
+    match = {}    
+    match["size"] = "shennie"
     match["description_main"] = "atmega328"
-    match["description_extra"] = "shennie"
     match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
+    matches.append(match)
+    
+    match = {}
+    match["size"] = "step_stick"
+    match["description_main"] = "stepper_motor"    
+    match["footprint_name"] = "christianlerche_lerchetech_lerche_pololu_a4988"
     matches.append(match)
     
     # button and switch
@@ -89,6 +95,18 @@ def get_footprints(**kwargs):
         match["footprint"] = []
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical"
         matches.append(match)   
+        
+        #right_angle
+        pin_s = str(pin_count).zfill(2)
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm"
+        match["description_main"] = f"{pin_count}_pin"
+        match["footprint"] = []
+        match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_horizontal"
+        matches.append(match)   
+        
+
         #surface mount regular
         if pin_count > 1: ##skip the 10 plus varriants
             match = {}
@@ -107,6 +125,8 @@ def get_footprints(**kwargs):
             match["description_extra"] = "surface_mount_right_angle"
             match["footprint_name"] = f"kicad_connector_harwin_harwin_m20_890{pin_s}xx_1x{pin_s}_p2_54mm_horizontal"
             matches.append(match) 
+
+            
             
         if pin_count < 21 and pin_count > 2 : ##skip the 10 plus varriants
             match = {}
@@ -138,6 +158,25 @@ def get_footprints(**kwargs):
         match["description_extra"] = ""
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_vertical"
         matches.append(match) 
+
+        #riight_angle
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm_dual_row"
+        match["description_main"] = f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"
+        match["description_extra"] = ""
+        match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_horizontal"
+        matches.append(match) 
+
+        #surface_mount
+        match = {}
+        match["type"] = "header"
+        match["size"] = "2d54_mm_dual_row"
+        match["description_main"] = f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"
+        match["description_extra"] = ""
+        match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_vertical_smd"
+        matches.append(match) 
+
 
     # ic
     match["classification"] = "electronic"
@@ -188,11 +227,17 @@ def get_footprints(**kwargs):
     match["footprint_name"] = f"kicad_package_so_soic_28w_7_5x17_9mm_p1_27mm"
     matches.append(match)  
 
-    ###### sop
+    #            sop
     match = {}
     match["size"] = "sop_16"
     match["footprint_name"] = f"kicad_package_so_sop_16_3_9x9_9mm_p1_27mm"
     matches.append(match)
+
+    #            tssop
+    match = {}    
+    match["size"] = "tssop_08"
+    match["footprint_name"] = f"kicad_package_so_tssop_8_4_4x3mm_p0_65mm"
+    matches.append(match)  
 
     #            tqfp #microchip calls the pitch 1mm kicad 0.8mm 
     match = {}

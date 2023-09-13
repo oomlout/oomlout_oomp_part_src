@@ -126,7 +126,8 @@ def load_parts(**kwargs):
 
     parts.append(part_details)
 
-    ###### usb multiplexer
+    ###### usb 
+    #       multiplexer
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "ic"
@@ -150,6 +151,31 @@ def load_parts(**kwargs):
     pins["pin_10"] = ({"name": "oe", "number": "10", "type": "signal"})
     part_details["pins"] = pins
     part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details) 
+
+    #      power mux
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["tssop_8"]
+    part_details["color"] = ["multiplexer"]
+    part_details["description_main"] = "power_multiplexer"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "texas_instruments"
+    part_details["part_number"] = "tps2113apw"
+    part_details["short_name"] = "autoswitching power mux (tps2113apw)"
+    pins = {}
+    pins["pin_1"] = ({"name": "stat", "number": "1", "type": "signal"})
+    pins["pin_2"] = ({"name": "en", "number": "2", "type": "signal"})
+    pins["pin_3"] = ({"name": "vsns", "number": "3", "type": "signal"})
+    pins["pin_4"] = ({"name": "ilim", "number": "4", "type": "signal"})
+    pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "signal"})
+    pins["pin_6"] = ({"name": "in2", "number": "6", "type": "power"})
+    pins["pin_7"] = ({"name": "out", "number": "7", "type": "power"})
+    pins["pin_8"] = ({"name": "in1", "number": "8", "type": "power"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "IC"
     part_details["notes"] = []
     parts.append(part_details) 
 

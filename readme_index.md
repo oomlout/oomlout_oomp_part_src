@@ -1,20 +1,19 @@
 # electronic   
 ## breakout_board   
-###    
+### shennie   
 #### mcu   
-[bbat328 - oomp_electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_atmega328_shennie/working)   
+[bbmcuat328 - oomp_electronic_breakout_board_shennie_mcu_atmega328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328/working)   
+### step_stick   
+#### motor_driver   
+[bbmdsm - oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)   
 ## button   
 ### 3_5_mm_x_6_mm_x_2_5_mm   
 #### surface_mount   
 [b3560s - oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)   
-## switch_slide   
-### 2d54_header   
-####    
-[swsi1hspst - oomp_electronic_switch_slide_2d54_header_single_pole_single_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_single_pole_single_throw/working)   
-[swsi1h - oomp_electronic_switch_slide_2d54_header_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_single_pole_double_throw/working)   
-### 2_8_mm_x_8_mm_x_1_4   
-####    
-[sws2880 - oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw/working)   
+## slide_switch   
+### 3_5_mm_x_6_mm_x_2_5_mm   
+#### surface_mount   
+[3560s - oomp_electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)   
 ## capacitor   
 ### 0603   
 ####    
@@ -294,39 +293,93 @@
 ### 2d54_mm_dual_row   
 ####    
 [hi12x2p - oomp_electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin/working)   
+[hi12x2pra - oomp_electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin_right_angle/working)   
+[hi12x2psm - oomp_electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin_surface_mount/working)   
+[hi12x2psmra - oomp_electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x2_dual_row_4_pin_surface_mount_right_angle/working)   
 [hi12x3p - oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin/working)   
+[hi12x3pra - oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)   
+[hi12x3psm - oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount/working)   
+[hi12x3psmra - oomp_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)   
 [hi12x4p - oomp_electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)   
+[hi12x4pra - oomp_electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin_right_angle/working)   
+[hi12x4psm - oomp_electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin_surface_mount/working)   
+[hi12x4psmra - oomp_electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin_surface_mount_right_angle/working)   
 [hi12x5p - oomp_electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin/working)   
+[hi12x5pra - oomp_electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)   
+[hi12x5psm - oomp_electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_surface_mount/working)   
+[hi12x5psmra - oomp_electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_surface_mount_right_angle/working)   
 [hi12x6p - oomp_electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin/working)   
+[hi12x6pra - oomp_electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin_right_angle/working)   
+[hi12x6psm - oomp_electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin_surface_mount/working)   
+[hi12x6psmra - oomp_electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x6_dual_row_12_pin_surface_mount_right_angle/working)   
 [hi12x7p - oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin/working)   
+[hi12x7pra - oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin_right_angle/working)   
+[hi12x7psm - oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin_surface_mount/working)   
+[hi12x7psmra - oomp_electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x7_dual_row_14_pin_surface_mount_right_angle/working)   
 [hi12x8p - oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin/working)   
+[hi12x8pra - oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working)   
+[hi12x8psm - oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin_surface_mount/working)   
+[hi12x8psmra - oomp_electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x8_dual_row_16_pin_surface_mount_right_angle/working)   
 [hi12x9p - oomp_electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin/working)   
+[hi12x9pra - oomp_electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin_right_angle/working)   
+[hi12x9psm - oomp_electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin_surface_mount/working)   
+[hi12x9psmra - oomp_electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x9_dual_row_18_pin_surface_mount_right_angle/working)   
 [hi12x10p - oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin/working)   
+[hi12x10pra - oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin_right_angle/working)   
+[hi12x10psm - oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin_surface_mount/working)   
+[hi12x10psmra - oomp_electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x10_dual_row_20_pin_surface_mount_right_angle/working)   
 [hi12x11p - oomp_electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin/working)   
+[hi12x11pra - oomp_electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)   
+[hi12x11psm - oomp_electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_surface_mount/working)   
+[hi12x11psmra - oomp_electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_surface_mount_right_angle/working)   
 [hi12x12p - oomp_electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin/working)   
+[hi12x12pra - oomp_electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_right_angle/working)   
+[hi12x12psm - oomp_electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)   
+[hi12x12psmra - oomp_electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount_right_angle/working)   
 [hi12x13p - oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin/working)   
+[hi12x13pra - oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin_right_angle/working)   
+[hi12x13psm - oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin_surface_mount/working)   
+[hi12x13psmra - oomp_electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x13_dual_row_26_pin_surface_mount_right_angle/working)   
 [hi12x14p - oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)   
+[hi12x14pra - oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin_right_angle/working)   
+[hi12x14psm - oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin_surface_mount/working)   
+[hi12x14psmra - oomp_electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin_surface_mount_right_angle/working)   
 [hi12x15p - oomp_electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin/working)   
+[hi12x15pra - oomp_electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin_right_angle/working)   
+[hi12x15psm - oomp_electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin_surface_mount/working)   
+[hi12x15psmra - oomp_electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x15_dual_row_30_pin_surface_mount_right_angle/working)   
 [hi12x16p - oomp_electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin/working)   
+[hi12x16pra - oomp_electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin_right_angle/working)   
+[hi12x16psm - oomp_electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin_surface_mount/working)   
+[hi12x16psmra - oomp_electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x16_dual_row_32_pin_surface_mount_right_angle/working)   
 [hi12x17p - oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin/working)   
+[hi12x17pra - oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)   
+[hi12x17psm - oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_surface_mount/working)   
+[hi12x17psmra - oomp_electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle/working)   
 [hi12x18p - oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin/working)   
+[hi12x18pra - oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin_right_angle/working)   
+[hi12x18psm - oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin_surface_mount/working)   
+[hi12x18psmra - oomp_electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x18_dual_row_36_pin_surface_mount_right_angle/working)   
 [hi12x19p - oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin/working)   
+[hi12x19pra - oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)   
+[hi12x19psm - oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_surface_mount/working)   
+[hi12x19psmra - oomp_electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_surface_mount_right_angle/working)   
 ## ic   
 ### dip_28   
 #### mcu   
-[id28at328 - oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)   
+[id28mcuat328 - oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)   
 ### qfn_28   
 #### mcu   
-[iq28at328 - oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)   
+[iq28mcuat328 - oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)   
 ### vqfn_28   
 #### mcu   
-[ivq28at328 - oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)   
+[ivq28mcuat328 - oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)   
 ### mlf_32   
 #### mcu   
-[imlf32at328 - oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)   
+[imlf32mcuat328 - oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)   
 ### tqfp_32   
 #### mcu   
-[itq32at328 - oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)   
+[itq32mcuat328 - oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working)   
 ### lga_2_5_mm_x_2_5_mm_8_pin   
 #### sensor   
 [ilg8pbsnpt280 - oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)   
@@ -342,6 +395,9 @@
 #### converter   
 [imsp10ch340e - oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)   
 [imsp10ch340x - oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)   
+### tssop_8   
+#### multiplexer   
+[itssp8mpptps2113 - oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)   
 ### sop_16   
 #### converter   
 [isp16ch340c - oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)   

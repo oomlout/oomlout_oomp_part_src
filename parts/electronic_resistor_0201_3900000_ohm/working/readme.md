@@ -64,9 +64,9 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | color_first_letter |  | 
 | color_first_letter_upper |  | 
 | description_only_numbers | 3900000 | 
-| description_only_numbers_short | 4M | 
-| description_or_color | 4M | 
-| description_or_color_upper | 4M | 
+| description_only_numbers_short | 3M9 | 
+| description_or_color | 3M9 | 
+| description_or_color_upper | 3M9 | 
 | markdown_full | [electronic_resistor_0201_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br>[ro395](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br>[Electronic Resistor 0201 3900000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_0201_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900000_ohm/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 

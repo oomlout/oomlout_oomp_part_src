@@ -69,9 +69,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | color_first_letter |  | 
 | color_first_letter_upper |  | 
 | description_only_numbers | 10000000 | 
-| description_only_numbers_short | 10M | 
-| description_or_color | 10M | 
-| description_or_color_upper | 10M | 
+| description_only_numbers_short | 1M | 
+| description_or_color | 1M | 
+| description_or_color_upper | 1M | 
 | markdown_full | [electronic_resistor_quarter_watt_through_hole_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10000000_ohm/working)<br>[ro106](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10000000_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 10000000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10000000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_quarter_watt_through_hole_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10000000_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'oomp_key': 'oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod'}] | 

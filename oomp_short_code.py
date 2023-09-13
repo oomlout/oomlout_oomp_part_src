@@ -82,6 +82,8 @@ def get_short_code(**kwargs):
         replace_dict["size"][f"soic_{i}"] = f"so{i}"
         replace_dict["size"][f"sop_{i}"] = f"sp{i}"
         replace_dict["size"][f"msop_{i}"] = f"msp{i}"
+        replace_dict["size"][f"tsop_{i}"] = f"tsp{i}"
+        replace_dict["size"][f"tssop_{i}"] = f"tssp{i}"
        
     ###### size ics
     ic_strings = []
@@ -106,7 +108,14 @@ def get_short_code(**kwargs):
     replace_dict["size"]["_jst_sh"] = "jsh"
 
 
+    # color
     replace_dict["color"] = {}
+
+    #      breakout boards
+    replace_dict["color"]["mcu"] = "mcu"
+    replace_dict["color"]["motor_driver"] = "md"
+
+    #      colors
     replace_dict["color"]["red"] = "r"
     replace_dict["color"]["orange"] = "o"
     replace_dict["color"]["yellow"] = "y"
@@ -119,16 +128,28 @@ def get_short_code(**kwargs):
     replace_dict["color"]["brown"] = "br"
     replace_dict["color"]["clear"] = "c"
     replace_dict["color"]["pink"] = "p"    
+
+    #      others
     replace_dict["color"]["surface_mount"] = "s"
     replace_dict["color"]["tantalum"] = "t"
     replace_dict["color"]["sensor"] = "sn"
+
+    #      ic
     replace_dict["color"]["multiplexer"] = "mp"
 
     # description_main
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
+    
+    #      breakout boards
+    replace_dict["description_main"]["stepper_motor"] = "sm"
+
     #      button and switch
     replace_dict["description_main"]["single_pole_single_throw"] = "spst"
+
+    #      ic
+    replace_dict["description_main"]["power_multiplexer"] = "p"
+    replace_dict["description_main"]["usb_multiplexer"] = "u"
 
     #      to sort
     
@@ -202,6 +223,11 @@ def get_short_code(**kwargs):
     # description_extra
 
     replace_dict["description_extra"] = {}
+
+    #      breakout boards
+    replace_dict["description_extra"]["shennie"] = "sh"
+    replace_dict["description_extra"]["step_stick"] = "ss"
+
     #      uncategorized
     replace_dict["description_extra"][""] = ""
     replace_dict["description_extra"]["two_to_one"] = "21"
@@ -254,6 +280,7 @@ def get_short_code(**kwargs):
     replace_dict["part_number"]["bme280"] = "280"    
     replace_dict["part_number"]["stk8321"] = "stk8321"
     replace_dict["part_number"]["rs2227xn"] = "rs2227"
+    replace_dict["part_number"]["tps2113apw"] = "tps2113"
 
     #      leds
     replace_dict["part_number"]["1010rgbc"] = "1010rgbc"

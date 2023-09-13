@@ -21,7 +21,7 @@ id_no_class: ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 id_no_type: dip_28_mcu_atmega328_microchip_atmega328p_pu
 manufacturer: microchip
 manufacturers: []
-markdown_full: '[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[id28at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[Electronic
+markdown_full: '[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[id28mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br>[Electronic
     Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br>'
 markdown_short: '[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working)<br><br>'
 md5: 5b2b5de6dc21043bec6c02133654d333
@@ -34,8 +34,8 @@ md5_6_upper: 5B2B5D
 name: Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
 oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 part_number: atmega328p_pu
-short_code: id28at328
-short_code_upper: ID28AT328
+short_code: id28mcuat328
+short_code_upper: ID28MCUAT328
 short_name: atmega328 28 pin dip
 size: dip_28
 size_only_numbers: '28'

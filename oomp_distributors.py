@@ -49,6 +49,32 @@ def get_matches(**kwargs):
     # header
     matches.append({"id":"electronic_header_1d27_mm_6_pin",
                     "part_number": "C2935946"})
+    
+    #      2d54 
+    #            single row
+    for pin_count in range(2, 41):
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin",
+                        "part_number": "C2337"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin",
+                        "part_number": "C2883695"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin_right_angle",
+                        "part_number": "C124358"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin_surface_mount_right_angle",
+                        "part_number": "C917606"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin_surface_mount",
+                        "part_number": "C917645"})
+    #            double row
+    for pin_count in range(4, 42, 2):
+        half = int(pin_count/2)
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
+                        "part_number": "C2333"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
+                        "part_number": "C213462"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_right_angle",
+                        "part_number": "C3410"})
+        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_surface_mount",
+                        "part_number": "C2685180"})
+
 
     #       jst
     #            sh
@@ -78,6 +104,10 @@ def get_matches(**kwargs):
     matches.append({"id":"msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn",
                   "part_number": "C255478"})
     
+
+    #      tps2113 power mux
+    matches.append({"id":"electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw",
+                  "part_number": "C130052"})
 
     #      ch340
     matches.append({"id":"converter_usb_to_serial_converter_wch_ch340c",

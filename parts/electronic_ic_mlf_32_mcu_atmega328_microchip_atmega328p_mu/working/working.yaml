@@ -21,7 +21,7 @@ id_no_class: ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 id_no_type: mlf_32_mcu_atmega328_microchip_atmega328p_mu
 manufacturer: microchip
 manufacturers: []
-markdown_full: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[imlf32at328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[Electronic
+markdown_full: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[imlf32mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[Electronic
     Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br><br>'
 markdown_short: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br><br>'
 md5: d6a4452edcde90237afb3d93a423b538
@@ -34,8 +34,8 @@ md5_6_upper: D6A445
 name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
 oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 part_number: atmega328p_mu
-short_code: imlf32at328
-short_code_upper: IMLF32AT328
+short_code: imlf32mcuat328
+short_code_upper: IMLF32MCUAT328
 short_name: atmega328 32 pin mlf
 size: mlf_32
 size_only_numbers: '32'

@@ -73,9 +73,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | color_first_letter |  | 
 | color_first_letter_upper |  | 
 | description_only_numbers | 10000000 | 
-| description_only_numbers_short | 10M | 
-| description_or_color | 10M | 
-| description_or_color_upper | 10M | 
+| description_only_numbers_short | 1M | 
+| description_or_color | 1M | 
+| description_or_color_upper | 1M | 
 | markdown_full | [electronic_resistor_0603_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000000_ohm/working)<br>[r6o106](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000000_ohm/working)<br>[Electronic Resistor 0603 10000000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_0603_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000000_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 

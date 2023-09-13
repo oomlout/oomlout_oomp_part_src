@@ -69,9 +69,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | color_first_letter |  | 
 | color_first_letter_upper |  | 
 | description_only_numbers | 4700000 | 
-| description_only_numbers_short | 5M | 
-| description_or_color | 5M | 
-| description_or_color_upper | 5M | 
+| description_only_numbers_short | 4M7 | 
+| description_or_color | 4M7 | 
+| description_or_color_upper | 4M7 | 
 | markdown_full | [electronic_resistor_1206_4700000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br>[r12o475](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br>[Electronic Resistor 1206 4700000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_1206_4700000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod'}] | 

@@ -9,15 +9,19 @@ def load_parts(**kwargs):
 
     
 
-    #define a part 
+    # mcu
+
+    #      atmega328p
+
+    # shennie
     part_details = {}
     part_details["description"] = "A popular arduino compatible atmega328 board from aliexpress" 
     part_details["classification"] = "electronic"
     part_details["type"] = "breakout_board"
-    part_details["size"] = [""]
+    part_details["size"] = ["shennie"]
     part_details["color"] = ["mcu"]
     part_details["description_main"] = "atmega328"
-    part_details["description_extra"] = "shennie"
+    part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
     part_details["short_name"] = ""
@@ -54,6 +58,43 @@ def load_parts(**kwargs):
     pins["pin_30"] = ({"name": "vin", "number": "30", "type": "power"})
     part_details["pins"] = pins
     part_details["kicad_reference"] = "U"
+    part_details["notes"] = []
+    parts.append(part_details)
+
+    # motor driver
+
+    #      stepper motor
+    # step stick
+    part_details = {}
+    part_details["description"] = "A common breakout format for a stepper motor driver" 
+    part_details["classification"] = "electronic"
+    part_details["type"] = "breakout_board"
+    part_details["size"] = ["step_stick"]
+    part_details["color"] = ["motor_driver"]
+    part_details["description_main"] = "stepper_motor"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""
+    pins = {}
+    pins["pin_1"] = ({"name": "en", "number": "1", "type": "signal"})
+    pins["pin_2"] = ({"name": "ms1", "number": "2", "type": "signal"})
+    pins["pin_3"] = ({"name": "ms2", "number": "3", "type": "signal"})
+    pins["pin_4"] = ({"name": "ms3", "number": "4", "type": "power"})
+    pins["pin_5"] = ({"name": "rst", "number": "5", "type": "signal"})
+    pins["pin_6"] = ({"name": "slp", "number": "6", "type": "signal"})
+    pins["pin_7"] = ({"name": "step", "number": "7", "type": "signal"})
+    pins["pin_8"] = ({"name": "dir", "number": "8", "type": "signal"})
+    pins["pin_9"] = ({"name": "gnd", "number": "9", "type": "signal"})
+    pins["pin_10"] = ({"name": "vdd", "number": "10", "type": "signal"})
+    pins["pin_11"] = ({"name": "1b", "number": "11", "type": "signal"})
+    pins["pin_12"] = ({"name": "1a", "number": "12", "type": "signal"})
+    pins["pin_13"] = ({"name": "2a", "number": "13", "type": "signal"})
+    pins["pin_14"] = ({"name": "2b", "number": "14", "type": "signal"})
+    pins["pin_15"] = ({"name": "gnd", "number": "15", "type": "signal"})
+    pins["pin_16"] = ({"name": "vmot", "number": "16", "type": "signal"})
+    part_details["pins"] = pins
+    part_details["kicad_reference"] = "IC"
     part_details["notes"] = []
     parts.append(part_details)
 

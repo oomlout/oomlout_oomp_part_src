@@ -1,0 +1,113 @@
+classification: electronic
+color: motor_driver
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MOTOR_DRIVER
+description: A common breakout format for a stepper motor driver
+description_extra: ''
+description_main: stepper_motor
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'm '
+description_or_color_upper: 'M '
+directory: parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor
+distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/christianlerche_lerchetech_lerche_pololu_a4988//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/christianlerche_lerchetech_lerche_pololu_a4988
+    oomp_key: oomp_christianlerche_lerchetech_lerche_pololu_a4988
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working
+id: electronic_breakout_board_step_stick_motor_driver_stepper_motor
+id_no_class: breakout_board_step_stick_motor_driver_stepper_motor
+id_no_type: step_stick_motor_driver_stepper_motor
+kicad_reference: IC
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic
+    Breakout Board Step Stick Motor Driver Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br>'
+markdown_short: '[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br>'
+md5: 6c94dab5276260f88ab0eabadd66118c
+md5_10: 6c94dab527
+md5_10_upper: 6C94DAB527
+md5_5: 6c94d
+md5_5_upper: 6C94D
+md5_6: 6c94da
+md5_6_upper: 6C94DA
+name: Electronic Breakout Board Step Stick Motor Driver Stepper Motor
+notes: []
+oomp_key: oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor
+part_number: ''
+pins:
+    pin_1:
+        name: en
+        number: '1'
+        type: signal
+    pin_10:
+        name: vdd
+        number: '10'
+        type: signal
+    pin_11:
+        name: 1b
+        number: '11'
+        type: signal
+    pin_12:
+        name: 1a
+        number: '12'
+        type: signal
+    pin_13:
+        name: 2a
+        number: '13'
+        type: signal
+    pin_14:
+        name: 2b
+        number: '14'
+        type: signal
+    pin_15:
+        name: gnd
+        number: '15'
+        type: signal
+    pin_16:
+        name: vmot
+        number: '16'
+        type: signal
+    pin_2:
+        name: ms1
+        number: '2'
+        type: signal
+    pin_3:
+        name: ms2
+        number: '3'
+        type: signal
+    pin_4:
+        name: ms3
+        number: '4'
+        type: power
+    pin_5:
+        name: rst
+        number: '5'
+        type: signal
+    pin_6:
+        name: slp
+        number: '6'
+        type: signal
+    pin_7:
+        name: step
+        number: '7'
+        type: signal
+    pin_8:
+        name: dir
+        number: '8'
+        type: signal
+    pin_9:
+        name: gnd
+        number: '9'
+        type: signal
+short_code: bbmdsm
+short_code_upper: BBMDSM
+short_name: ''
+size: step_stick
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+type: breakout_board
+type_first_letter: b
+type_first_letter_upper: B

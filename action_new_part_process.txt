@@ -5,7 +5,8 @@
 * open
     * action_new_part_process.workspace
         * first pane
-            * action_setupaction_all
+            * action_setup
+            * action_all
             * action action_new_part_process
             * zzzzzzz_working
         * second pane
