@@ -33,9 +33,12 @@ def main(**kwargs):
         description_extra = yaml_dict.get('description_extra', "")
         manufacturer = yaml_dict.get('manufacturer', "")
         part_number = yaml_dict.get('part_number', "")
-        order = [classification, typ, size, color, description_main, description_extra, manufacturer, part_number]
-        if typ == "ic":
-            order = [classification, typ, color, description_main, description_extra, size, manufacturer, part_number]
+        # traditional way
+        #order = [classification, typ, size, color, description_main, description_extra, manufacturer, part_number]
+        #if typ == "ic" or typ == "capacitor":
+        #    order = [classification, typ, color, description_main, description_extra, size, manufacturer, part_number]
+        # try at better oflder structure
+        order = [classification, typ, color, description_main, description_extra, size, manufacturer, part_number]
         dir_level = ""
         for level in range(len(order)):
             #last_level test, see if the remaining levels are all empty

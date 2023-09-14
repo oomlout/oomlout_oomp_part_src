@@ -70,7 +70,7 @@ def main():
         print("Generating outputs")
         action_generate_outputs.main()
 
-    if not fast and doc:
+    if doc:
         import action_generate_doc
         print("Generating doc")
         action_generate_doc.main()
