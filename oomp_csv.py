@@ -5,15 +5,41 @@ import jinja2
 import oom_office
 
 
-def make_collections(**kwargs):    
+def make_collections(**kwargs):  
+    filter = kwargs.get("filter", "")  
     print("Generating csv collections")
     directory = "collections"
     #get only the directories no Recursion
     dirs = [x[0] for x in os.walk(directory)]
     dirs = dirs[1:]
+    
     for dir in dirs:
-        make_collection(directory=dir)
-        load_part_data_into_yaml(directory=dir)
+        if filter in dir:
+            make_collection(directory=dir)
+            load_part_data_into_yaml(directory=dir)
+
+def create_collection(**kwargs):
+    
+    collection_id = kwargs.get("id", "")
+    collection_name = kwargs.get("name", collection_id.replace("_", " ").capitalize())
+    description = kwargs.get("description", "nothing yet")
+    print(f"Generating collection {collection_id} {collection_name} {description}")
+    parts = kwargs.get("parts", [])
+    collection = {}
+    collection["id"] = collection_id
+    collection["name"] = collection_name
+    collection["description"] = description
+    collection["parts"] = parts
+    directory = f"collections/{collection_id}"
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    #dump yaml to working.yaml
+    yaml_file = os.path.join(directory, "working.yaml")
+    import yaml
+    with open(yaml_file, 'w') as outfile:
+        yaml.dump(collection, outfile, default_flow_style=False)
+    
+
 
 
 def load_part_data_into_yaml(**kwargs):    
@@ -182,7 +208,7 @@ def main_label(**kwargs):
     if not os.path.exists("csv"):
         os.makedirs("csv")
     
-    headings = ["id", "oomp_key", "id_no_class", "id_no_type", "md5_6", "md5_6_upper", "name", "short_code", "short_code_upper", "classification", "type", "type_first_letter", "type_first_letter_upper", "size", "size_only_numbers", "size_only_numbers_no_zeros", "color", "description_main", "description_only_numbers", "description_only_numbers_short", "description_extra", "manufacturer", "part_number", "short_name", "description_or_color", "description_or_color_upper"]
+    headings = ["id", "oomp_key", "id_no_class", "id_no_type", "md5_6", "md5_6_alpha_upper", "md5_6_upper", "name", "short_code", "short_code_upper", "classification", "type", "type_first_letter", "type_first_letter_upper", "size", "size_only_numbers", "size_only_numbers_no_zeros", "color", "description_main", "description_only_numbers", "description_only_numbers_short", "description_extra", "manufacturer", "part_number", "short_name", "description_or_color", "description_or_color_upper"]
     
     import copy
     p2 = copy.deepcopy(oomp.parts)

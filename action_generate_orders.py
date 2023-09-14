@@ -2,6 +2,7 @@ import oom_base
 import oom_yaml
 import oom_markdown
 import oom_office
+import oomp_csv
 import os
 
 def main(**kwargs):
@@ -9,18 +10,42 @@ def main(**kwargs):
     count = 1   
     count2 = 1
     directory = "order"
-    for root, dirs, files in os.walk(directory):
-        #for each directory
-            for file in files:   
-                filename = os.path.join(root, file )
-                directory = os.path.dirname(filename)
-                #yaml_fuile is folder plus working .yaml
-                yaml_file = os.path.join(directory, "working.yaml")
-                convert_ods_to_csv(file=file, root=root, yaml_file=yaml_file)
-                copy_labels(file=file, root=root, yaml_file=yaml_file)  
-                make_readme(file=file, root=root, yaml_file=yaml_file)           
-                            
+    dirs = os.listdir(directory)
+    for file in dirs:   
+        filename = file
+        
+        directory = file
+        #replace \\ with /
+        directory = directory.replace("\\","/")
+        
+        #second to last folder in the directory
+        folder = directory.split("/")[-1]
+        root = f"{directory}/working"
+        #yaml_fuile is folder plus working .yaml
+        yaml_file = os.path.join(root, "working.yaml")
+        file = "working.ods"
+        convert_ods_to_csv(file=file, root=root, yaml_file=yaml_file)
+        copy_labels(file=file, root=root, yaml_file=yaml_file)  
+        make_readme(file=file, root=root, yaml_file=yaml_file)
+
+        details = oom_yaml.load_yaml_directory(directory=directory)
+        parts_dict = details.get("parts_ordered_oomp", [])           
+        parts = []
+        for part in parts_dict:
+            part_id = part["oomp_id"]
+            part_id = part_id.replace("oomp_", "")
+            parts.append(part_id)
+        if parts != []:
+            id = f"order_{folder}"
+            parts = parts                    
+            oomp_csv.create_collection(id=id, parts=parts)
+            oomp_csv.make_collections(filter=id)
+
                         
+
+
+
+
 def convert_ods_to_csv(**kwargs):
     file = kwargs.get('file', "")
     root = kwargs.get('root', "")
