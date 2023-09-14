@@ -13,7 +13,7 @@ def load_parts(**kwargs):
     part_details["classification"] = "electronic"
     part_details["type"] = "capacitor"
     part_details["size"] = ["8_mm_diameter_6_5_mm_tall","6_3_mm_diameter_5_4_mm_tall","6_3_mm_diameter_7_7_mm_tall"]
-    part_details["color"] = [""]
+    part_details["color"] = ["electrolytic"]
     part_details["description_main"] = ["220_micro_farad"]
     part_details["description_extra"] = "10_volt"
     part_details["manufacturer"] = ""

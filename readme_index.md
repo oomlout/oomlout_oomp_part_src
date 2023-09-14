@@ -19,14 +19,14 @@
 [swsi1hs - oomp_electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)   
 ## capacitor   
 ### 8_mm_diameter_6_5_mm_tall   
-####    
-[c8d65tuf22010v - oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt/working)   
+#### electrolytic   
+[c8d65tuf22010v - oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
 ### 6_3_mm_diameter_5_4_mm_tall   
-####    
-[c63d54tuf22010v - oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_220_micro_farad_10_volt/working)   
+#### electrolytic   
+[c63d54tuf22010v - oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
 ### 6_3_mm_diameter_7_7_mm_tall   
-####    
-[c63d77tuf22010v - oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_220_micro_farad_10_volt/working)   
+#### electrolytic   
+[c63d77tuf22010v - oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
 ### 0603   
 ####    
 [c6pf22 - oomp_electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)   

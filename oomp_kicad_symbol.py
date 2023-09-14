@@ -40,12 +40,17 @@ def get_symbols(**kwargs):
     
     match = {}
     match["type"] = "capacitor"
-    match["color"] = ""
+    match["color"] = ""    
     match["symbol_name"] = f"kicad_device_c"
     matches.append(match)
     match = {}
     match["type"] = "capacitor"
     match["color"] = "tantalum"
+    match["symbol_name"] = f"kicad_device_c_polarized"
+    matches.append(match)
+    match = {}
+    match["type"] = "capacitor"
+    match["color"] = "electrolytic"
     match["symbol_name"] = f"kicad_device_c_polarized"
     matches.append(match)
 
