@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: right_angle
+description_main: 2x8_dual_row_16_pin
+description_only_numbers: '2816'
+description_only_numbers_short: 2k8
+description_or_color: 2k8
+description_or_color_upper: 2K8
+directory: parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working
+id: electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
+id_no_class: header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
+id_no_type: 2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working)<br>[hi12x8pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working)<br>[Electronic
+    Header 2 54 Mm Dual Row 2X8 Dual Row 16 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working)<br><br>'
+md5: 241015e739910b73206fa74f5f3af639
+md5_10: 241015e739
+md5_10_upper: 241015E739
+md5_5: '24101'
+md5_5_upper: '24101'
+md5_6: '241015'
+md5_6_upper: '241015'
+name: Electronic Header 2 54 Mm Dual Row 2X8 Dual Row 16 Pin Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
+part_number: ''
+short_code: hi12x8pra
+short_code_upper: HI12X8PRA
+size: 2_54_mm_dual_row
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x08_odd_even//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x08_odd_even
+    oomp_key: oomp_kicad_connector_generic_conn_02x08_odd_even
+type: header
+type_first_letter: h
+type_first_letter_upper: H

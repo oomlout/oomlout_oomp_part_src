@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: right_angle
+description_main: 18_pin
+description_only_numbers: '18'
+description_only_numbers_short: '18'
+description_or_color: '18'
+description_or_color_upper: '18'
+directory: parts/electronic_header_2_54_mm_18_pin_right_angle
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_right_angle/working
+id: electronic_header_2_54_mm_18_pin_right_angle
+id_no_class: header_2_54_mm_18_pin_right_angle
+id_no_type: 2_54_mm_18_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_18_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_right_angle/working)<br>[hi118pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_right_angle/working)<br>[Electronic
+    Header 2 54 Mm 18 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_right_angle/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_18_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_right_angle/working)<br><br>'
+md5: 9e98df6fe712eda3ae3980723b58be0c
+md5_10: 9e98df6fe7
+md5_10_upper: 9E98DF6FE7
+md5_5: 9e98d
+md5_5_upper: 9E98D
+md5_6: 9e98df
+md5_6_upper: 9E98DF
+name: Electronic Header 2 54 Mm 18 Pin Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_18_pin_right_angle
+part_number: ''
+short_code: hi118pra
+short_code_upper: HI118PRA
+size: 2_54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x18_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x18_pin
+    oomp_key: oomp_kicad_connector_conn_01x18_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H

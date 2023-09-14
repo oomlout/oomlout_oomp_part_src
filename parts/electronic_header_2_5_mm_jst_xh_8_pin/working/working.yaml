@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: 8_pin
+description_only_numbers: '8'
+description_only_numbers_short: '8'
+description_or_color: '8'
+description_or_color_upper: '8'
+directory: parts/electronic_header_2_5_mm_jst_xh_8_pin
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin/working
+id: electronic_header_2_5_mm_jst_xh_8_pin
+id_no_class: header_2_5_mm_jst_xh_8_pin
+id_no_type: 2_5_mm_jst_xh_8_pin
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_5_mm_jst_xh_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin/working)<br>[h8p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin/working)<br>[Electronic
+    Header 2 5 Mm Jst Xh 8 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin/working)<br><br>'
+markdown_short: '[electronic_header_2_5_mm_jst_xh_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin/working)<br><br>'
+md5: 7018116581c4ce4c5932de15a4b8dae5
+md5_10: '7018116581'
+md5_10_upper: '7018116581'
+md5_5: '70181'
+md5_5_upper: '70181'
+md5_6: '701811'
+md5_6_upper: '701811'
+name: Electronic Header 2 5 Mm Jst Xh 8 Pin
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_8_pin
+part_number: ''
+short_code: h8p
+short_code_upper: H8P
+size: 2_5_mm_jst_xh
+size_only_numbers: '25'
+size_only_numbers_no_zeros: '25'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin
+    oomp_key: oomp_kicad_connector_conn_01x08_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H

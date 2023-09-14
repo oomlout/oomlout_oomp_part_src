@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: surface_mount
+description_main: 2_pin
+description_only_numbers: '2'
+description_only_numbers_short: '2'
+description_or_color: '2'
+description_or_color_upper: '2'
+directory: parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working
+id: electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+id_no_class: header_2_5_mm_jst_xh_2_pin_surface_mount
+id_no_type: 2_5_mm_jst_xh_2_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_5_mm_jst_xh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br>[h2psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br>[Electronic
+    Header 2 5 Mm Jst Xh 2 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br><br>'
+markdown_short: '[electronic_header_2_5_mm_jst_xh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br><br>'
+md5: 226e38ccc61cefd339d4c56c401e4e5c
+md5_10: 226e38ccc6
+md5_10_upper: 226E38CCC6
+md5_5: 226e3
+md5_5_upper: 226E3
+md5_6: 226e38
+md5_6_upper: 226E38
+name: Electronic Header 2 5 Mm Jst Xh 2 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+part_number: ''
+short_code: h2psm
+short_code_upper: H2PSM
+size: 2_5_mm_jst_xh
+size_only_numbers: '25'
+size_only_numbers_no_zeros: '25'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x02_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x02_pin
+    oomp_key: oomp_kicad_connector_conn_01x02_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H

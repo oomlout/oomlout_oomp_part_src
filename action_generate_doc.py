@@ -38,7 +38,7 @@ def main(**kwargs):
         #if typ == "ic" or typ == "capacitor":
         #    order = [classification, typ, color, description_main, description_extra, size, manufacturer, part_number]
         # try at better oflder structure
-        order = [classification, typ, color, description_main, description_extra, size, manufacturer, part_number]
+        order = [classification, typ, description_main,size, description_extra,   color, manufacturer, part_number]
         dir_level = ""
         for level in range(len(order)):
             #last_level test, see if the remaining levels are all empty

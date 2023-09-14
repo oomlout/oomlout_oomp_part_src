@@ -1,0 +1,46 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: surface_mount_right_angle
+description_main: 2x17_dual_row_34_pin
+description_only_numbers: '21734'
+description_only_numbers_short: 22k
+description_or_color: 22k
+description_or_color_upper: 22K
+directory: parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle/working
+id: electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle/working)<br>[hi12x17psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle/working)<br>[Electronic
+    Header 2 54 Mm Dual Row 2X17 Dual Row 34 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle/working)<br><br>'
+md5: fb6b525688ec98e319eaae69c11842d8
+md5_10: fb6b525688
+md5_10_upper: FB6B525688
+md5_5: fb6b5
+md5_5_upper: FB6B5
+md5_6: fb6b52
+md5_6_upper: FB6B52
+name: Electronic Header 2 54 Mm Dual Row 2X17 Dual Row 34 Pin Surface Mount Right
+    Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount_right_angle
+part_number: ''
+short_code: hi12x17psmra
+short_code_upper: HI12X17PSMRA
+size: 2_54_mm_dual_row
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x17_odd_even//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x17_odd_even
+    oomp_key: oomp_kicad_connector_generic_conn_02x17_odd_even
+type: header
+type_first_letter: h
+type_first_letter_upper: H

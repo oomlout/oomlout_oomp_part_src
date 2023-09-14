@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: right_angle
+description_main: 32_pin
+description_only_numbers: '32'
+description_only_numbers_short: '32'
+description_or_color: '32'
+description_or_color_upper: '32'
+directory: parts/electronic_header_2_54_mm_32_pin_right_angle
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_right_angle/working
+id: electronic_header_2_54_mm_32_pin_right_angle
+id_no_class: header_2_54_mm_32_pin_right_angle
+id_no_type: 2_54_mm_32_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_32_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_right_angle/working)<br>[hi132pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_right_angle/working)<br>[Electronic
+    Header 2 54 Mm 32 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_right_angle/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_32_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_right_angle/working)<br><br>'
+md5: a053c6b1fc50ab295a59f29ebbbca660
+md5_10: a053c6b1fc
+md5_10_upper: A053C6B1FC
+md5_5: a053c
+md5_5_upper: A053C
+md5_6: a053c6
+md5_6_upper: A053C6
+name: Electronic Header 2 54 Mm 32 Pin Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_32_pin_right_angle
+part_number: ''
+short_code: hi132pra
+short_code_upper: HI132PRA
+size: 2_54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x32_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x32_pin
+    oomp_key: oomp_kicad_connector_conn_01x32_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H

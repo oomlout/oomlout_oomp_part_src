@@ -34,7 +34,7 @@ def get_short_code(**kwargs):
 
     #      button and switch
     replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
-    replace_dict["size"]["2_8_mm_x_8_mm_x_1_4"] = "2880"
+    replace_dict["size"]["2_8_mm_x_8_mm_x_1_4_mm"] = "2880"
     replace_dict["size"]["2d54_header"] = "i1h"
 
     #      capacitor
@@ -60,9 +60,10 @@ def get_short_code(**kwargs):
     #loop for all mm sizes
     for mm in range(1, 100):
         replace_dict["size"][f"{mm}_mm"] = f"{mm}"
-    replace_dict["size"][f"2d54_mm"] = f"i1"    
-    replace_dict["size"][f"2d54_mm_dual_row"] = f"i1"
-    replace_dict["size"][f"1d27_mm"] = f"1d27"
+    replace_dict["size"][f"2_5_mm"] = f"2d5"
+    replace_dict["size"][f"2_54_mm"] = f"i1"    
+    replace_dict["size"][f"2_54_mm_dual_row"] = f"i1"
+    replace_dict["size"][f"1_27_mm"] = f"1_27"
     #loop for m1 to m10
     for m in range(1, 10):
         replace_dict["size"][f"m{m}"] = f"m{m}"

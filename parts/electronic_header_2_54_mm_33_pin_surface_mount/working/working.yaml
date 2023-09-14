@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: surface_mount
+description_main: 33_pin
+description_only_numbers: '33'
+description_only_numbers_short: '33'
+description_or_color: '33'
+description_or_color_upper: '33'
+directory: parts/electronic_header_2_54_mm_33_pin_surface_mount
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount/working
+id: electronic_header_2_54_mm_33_pin_surface_mount
+id_no_class: header_2_54_mm_33_pin_surface_mount
+id_no_type: 2_54_mm_33_pin_surface_mount
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_33_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount/working)<br>[hi133psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount/working)<br>[Electronic
+    Header 2 54 Mm 33 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_33_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount/working)<br><br>'
+md5: b3411fd0ad6dea86c1fddc241746a19e
+md5_10: b3411fd0ad
+md5_10_upper: B3411FD0AD
+md5_5: b3411
+md5_5_upper: B3411
+md5_6: b3411f
+md5_6_upper: B3411F
+name: Electronic Header 2 54 Mm 33 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_33_pin_surface_mount
+part_number: ''
+short_code: hi133psm
+short_code_upper: HI133PSM
+size: 2_54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x33_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x33_pin
+    oomp_key: oomp_kicad_connector_conn_01x33_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H

@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: right_angle
+description_main: 16_pin
+description_only_numbers: '16'
+description_only_numbers_short: '16'
+description_or_color: '16'
+description_or_color_upper: '16'
+directory: parts/electronic_header_2_54_mm_16_pin_right_angle
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_right_angle/working
+id: electronic_header_2_54_mm_16_pin_right_angle
+id_no_class: header_2_54_mm_16_pin_right_angle
+id_no_type: 2_54_mm_16_pin_right_angle
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_16_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_right_angle/working)<br>[hi116pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_right_angle/working)<br>[Electronic
+    Header 2 54 Mm 16 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_right_angle/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_16_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_right_angle/working)<br><br>'
+md5: 31e8d9c2e032aa04d9e93c6191d0a73c
+md5_10: 31e8d9c2e0
+md5_10_upper: 31E8D9C2E0
+md5_5: 31e8d
+md5_5_upper: 31E8D
+md5_6: 31e8d9
+md5_6_upper: 31E8D9
+name: Electronic Header 2 54 Mm 16 Pin Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_16_pin_right_angle
+part_number: ''
+short_code: hi116pra
+short_code_upper: HI116PRA
+size: 2_54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x16_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x16_pin
+    oomp_key: oomp_kicad_connector_conn_01x16_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H

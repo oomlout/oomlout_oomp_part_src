@@ -1,0 +1,45 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: through_hole
+description_main: 1_pin
+description_only_numbers: '1'
+description_only_numbers_short: '1'
+description_or_color: '1'
+description_or_color_upper: '1'
+directory: parts/electronic_header_2_54_mm_1_pin_through_hole
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole/working
+id: electronic_header_2_54_mm_1_pin_through_hole
+id_no_class: header_2_54_mm_1_pin_through_hole
+id_no_type: 2_54_mm_1_pin_through_hole
+kicad_reference: J
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_1_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole/working)<br>[hi11p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole/working)<br>[Electronic
+    Header 2 54 Mm 1 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_1_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole/working)<br><br>'
+md5: 31ac5566c79e0f84e43018ba6faa34ca
+md5_10: 31ac5566c7
+md5_10_upper: 31AC5566C7
+md5_5: 31ac5
+md5_5_upper: 31AC5
+md5_6: 31ac55
+md5_6_upper: 31AC55
+name: Electronic Header 2 54 Mm 1 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole
+part_number: ''
+short_code: hi11p
+short_code_upper: HI11P
+size: 2_54_mm
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x01_pin
+    oomp_key: oomp_kicad_connector_conn_01x01_pin
+type: header
+type_first_letter: h
+type_first_letter_upper: H
