@@ -21,12 +21,6 @@
     "distributors": [
         {
             "name": "LCSC",
-            "part_number": "C213462",
-            "link": "https://lcsc.com/product-detail/C213462.html",
-            "id": "distributor_lcsc"
-        },
-        {
-            "name": "LCSC",
             "part_number": "C3410",
             "link": "https://lcsc.com/product-detail/C3410.html",
             "id": "distributor_lcsc"
@@ -51,6 +45,6 @@
     "description_only_numbers_short": "2k5",
     "description_or_color": "2k5",
     "description_or_color_upper": "2K5",
-    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[hi12x5pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X5 Dual Row 10 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>",
-    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>"
+    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[hi12x5pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X5 Dual Row 10 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working)<br>[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>"
 }

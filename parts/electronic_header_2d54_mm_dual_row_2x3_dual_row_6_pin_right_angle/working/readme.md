@@ -16,8 +16,6 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C2333](https://lcsc.com/product-detail/C2333.html)  
-* [LCSC - C213462](https://lcsc.com/product-detail/C213462.html)  
 * [LCSC - C3410](https://lcsc.com/product-detail/C3410.html)  
 
 
@@ -27,6 +25,11 @@
 oomp_key: oomp_kicad_connector_generic_conn_02x03_odd_even  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x03_odd_even/working  
 
+## footprint
+
+![](footprint/0/working/working_600.png)  
+oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal/working  
 
 ## full_summary
 | name | value | 
@@ -50,7 +53,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle | 
 | short_code | hi12x3pra | 
 | short_code_upper | HI12X3PRA | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C2333', 'link': 'https://lcsc.com/product-detail/C2333.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C213462', 'link': 'https://lcsc.com/product-detail/C213462.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C3410', 'link': 'https://lcsc.com/product-detail/C3410.html', 'id': 'distributor_lcsc'}] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C3410', 'link': 'https://lcsc.com/product-detail/C3410.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 1502b0b4032131170253e7373ba3b3db | 
 | md5_5 | 1502b | 
@@ -70,6 +73,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 236 | 
 | description_or_color | 236 | 
 | description_or_color_upper | 236 | 
-| markdown_full | [electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[hi12x3pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br> | 
-| markdown_short | [electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br> | 
+| markdown_full | [electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[hi12x3pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br> | 
+| markdown_short | [electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x03_odd_even', 'oomp_key': 'oomp_kicad_connector_generic_conn_02x03_odd_even', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x03_odd_even//working/working.kicad_sym'}] | 

@@ -6,23 +6,23 @@ The original footprint can be found at:
 http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description: Through hole straight pin header, 1x13, 2.54mm pitch, single row  
-* libraryLink: PinHeader_1x13_P2.54mm_Vertical  
-* number_of_pads: 13  
+* description: Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89013xx, 13 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator  
+* libraryLink: Harwin_M20-89013xx_1x13_P2.54mm_Horizontal  
+* number_of_pads: 14  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| file | libraries/kicad-footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x13_P2.54mm_Vertical.kicad_mod |  
-| footprint | {'description': 'Through hole straight pin header, 1x13, 2.54mm pitch, single row', 'libraryLink': 'PinHeader_1x13_P2.54mm_Vertical', 'number_of_pads': 13} |  
+| file | libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_M20-89013xx_1x13_P2.54mm_Horizontal.kicad_mod |  
+| footprint | {'description': 'Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89013xx, 13 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator', 'libraryLink': 'Harwin_M20-89013xx_1x13_P2.54mm_Horizontal', 'number_of_pads': 14} |  
 | footprint_library_directory | footprint_library_owner/kicad_libraries/kicad-footprints/ |  
-| footprint_library_directory_flat | footprints_flat/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical/working |  
-| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x13_P2.54mm_Vertical.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical/working'} |  
+| footprint_library_directory_flat | footprints_flat/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal/working |  
+| github_path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_M20-89013xx_1x13_P2.54mm_Horizontal.kicad_mod |  
+| links | {'github_src': 'http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal/working'} |  
 | name | libraries/kicad-footprints/ |  
-| oomp | {'footprint_name': 'pinheader_1x13_p2_54mm_vertical', 'library_name': 'connector_pinheader_2_54mm', 'md5': '696d021b9bb90b1589a1782ed2b6b0c7', 'md5_10': '696d021b9b', 'md5_5': '696d0', 'md5_6': '696d02', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical', 'oomp_key_extra': 'oomp_footprint_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical', 'oomp_key_full': 'oomp_footprint_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_696d02', 'oomp_key_simple': 'kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical', 'original_filename': 'libraries/kicad-footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x13_P2.54mm_Vertical.kicad_mod', 'owner_name': 'kicad'} |  
-| oomp_key | oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical |  
-| oomp_key_full | oomp_footprint_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical |  
-| oomp_key_simple | kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical |  
+| oomp | {'footprint_name': 'harwin_m20_89013xx_1x13_p2_54mm_horizontal', 'library_name': 'connector_harwin', 'md5': '0ed55a928f8cac8a019f364a815da916', 'md5_10': '0ed55a928f', 'md5_5': '0ed55', 'md5_6': '0ed55a', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal', 'oomp_key_extra': 'oomp_footprint_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal', 'oomp_key_full': 'oomp_footprint_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal_0ed55a', 'oomp_key_simple': 'kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal', 'original_filename': 'libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_M20-89013xx_1x13_P2.54mm_Horizontal.kicad_mod', 'owner_name': 'kicad'} |  
+| oomp_key | oomp_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal |  
+| oomp_key_full | oomp_footprint_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal |  
+| oomp_key_simple | kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal |  
 | owner | kicad |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  
 | url | https://gitlab.com/kicad/libraries/kicad-footprints |  

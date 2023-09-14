@@ -12,7 +12,7 @@ def main():
     label=False 
 
     doc = True
-    doc = False
+    #doc = False
 
     all= True
     all= False
@@ -77,7 +77,7 @@ def main():
         oom_git.push(repo_directory = "c:/gh/oomlout_oomp_part_doc_v_2")
 
     comment = "added auto index generation"
-    #oom_git.push_to_git(comment=comment)
+    oom_git.push_to_git(comment=comment)
 
 if __name__ == "__main__":
     main()

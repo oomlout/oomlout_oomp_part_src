@@ -12,10 +12,6 @@ description_or_color_upper: 22K
 directory: parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C213462.html
-    name: LCSC
-    part_number: C213462
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C3410.html
     name: LCSC
     part_number: C3410
@@ -32,9 +28,9 @@ manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br>[hi12x19pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br>[Electronic
     Header 2D54 Mm Dual Row 2X19 Dual Row 38 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br>[LCSC
-    - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
+    - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
 markdown_short: '[electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br>[LCSC
-    - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
+    - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
 md5: a6d941685b067c0e970f1cf0255ea216
 md5_10: a6d941685b
 md5_10_upper: A6D941685B

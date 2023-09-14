@@ -1,7 +1,7 @@
 # OOMP Footprint  
-## PinHeader_1x07_P2.54mm_Vertical  by none  
+## Harwin_M20-89007xx_1x07_P2.54mm_Horizontal  by none  
   
-oomp key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical  
+oomp key: oomp_kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal  
   
 source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod](http://gitlab.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Varistor.pretty/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.kicad_mod)  
 ## Footprint  
@@ -11,10 +11,10 @@ source repo at: [http://gitlab.com/kicad/libraries/kicad-footprints//blob/master
 [![working.png](working_600.png)](working.png)  
 | name | value | 
 | --- | --- | 
-| footprint name | PinHeader_1x07_P2.54mm_Vertical | 
-| footprint description | Through hole straight pin header, 1x07, 2.54mm pitch, single row | 
-| number of pads | 7 | 
-| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x07_P2.54mm_Vertical.kicad_mod | 
-| oomp key | oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical/working | 
+| footprint name | Harwin_M20-89007xx_1x07_P2.54mm_Horizontal | 
+| footprint description | Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89007xx, 7 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator | 
+| number of pads | 8 | 
+| github path | http://github.com/kicad/libraries/kicad-footprints//blob/master/tmp/libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_M20-89007xx_1x07_P2.54mm_Horizontal.kicad_mod | 
+| oomp key | oomp_kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal/working | 
 ## Images  

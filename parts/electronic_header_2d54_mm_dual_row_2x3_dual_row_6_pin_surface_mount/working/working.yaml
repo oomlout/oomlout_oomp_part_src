@@ -12,10 +12,6 @@ description_or_color_upper: '236'
 directory: parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount
 distributors:
 -   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C213462.html
-    name: LCSC
-    part_number: C213462
--   id: distributor_lcsc
     link: https://lcsc.com/product-detail/C2685180.html
     name: LCSC
     part_number: C2685180
@@ -32,9 +28,9 @@ manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount/working)<br>[hi12x3psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount/working)<br>[Electronic
     Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount/working)<br>[LCSC
-    - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
+    - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
 markdown_short: '[electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount/working)<br>[LCSC
-    - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
+    - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
 md5: 9e35b37444e9b5ea1d0254a620bc75fb
 md5_10: 9e35b37444
 md5_10_upper: 9E35B37444

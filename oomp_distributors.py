@@ -70,7 +70,8 @@ def get_matches(**kwargs):
                         "part_number": "C2333",
                         "extra": "exact"})
         matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
-                        "part_number": "C213462"})
+                        "part_number": "C213462",
+                        "extra": "exact"})
         matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_right_angle",
                         "part_number": "C3410"})
         matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_surface_mount",
