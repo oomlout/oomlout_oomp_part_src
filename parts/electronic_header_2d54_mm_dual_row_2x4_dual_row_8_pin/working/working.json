@@ -18,7 +18,20 @@
     "name": "Electronic Header 2D54 Mm Dual Row 2X4 Dual Row 8 Pin",
     "short_code": "hi12x4p",
     "short_code_upper": "HI12X4P",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2333",
+            "link": "https://lcsc.com/product-detail/C2333.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C213462",
+            "link": "https://lcsc.com/product-detail/C213462.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "3eed9c0ecb12c9d1e000a543cbdbd6db",
     "md5_5": "3eed9",
@@ -38,6 +51,6 @@
     "description_only_numbers_short": "248",
     "description_or_color": "248",
     "description_or_color_upper": "248",
-    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br>[hi12x4p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br>[Electronic Header 2D54 Mm Dual Row 2X4 Dual Row 8 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br>[hi12x4p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br>[Electronic Header 2D54 Mm Dual Row 2X4 Dual Row 8 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x4_dual_row_8_pin/working)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>"
 }

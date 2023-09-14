@@ -10,14 +10,24 @@ description_only_numbers_short: '6'
 description_or_color: '6'
 description_or_color_upper: '6'
 directory: parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2337.html
+    name: LCSC
+    part_number: C2337
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2883695.html
+    name: LCSC
+    part_number: C2883695
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C917606.html
+    name: LCSC
+    part_number: C917606
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C917645.html
+    name: LCSC
+    part_number: C917645
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_horizontal//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_horizontal
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_horizontal
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal
     oomp_key: oomp_kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal
@@ -29,8 +39,12 @@ kicad_reference: J
 manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_header_2d54_mm_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle/working)<br>[hi16psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle/working)<br>[Electronic
-    Header 2D54 Mm 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle/working)<br><br>'
-markdown_short: '[electronic_header_2d54_mm_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle/working)<br><br>'
+    Header 2D54 Mm 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC
+    - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2d54_mm_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin_surface_mount_right_angle/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC
+    - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: 424b30546f4384025669847f38ffeef8
 md5_10: 424b30546f
 md5_10_upper: 424B30546F

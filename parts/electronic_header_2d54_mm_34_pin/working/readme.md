@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C2337](https://lcsc.com/product-detail/C2337.html)  
+* [LCSC - C2883695](https://lcsc.com/product-detail/C2883695.html)  
 
 
 ## symbol
@@ -56,7 +59,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | hi134p | 
 | short_code_upper | HI134P | 
 | short_name | 0.1" 34 Pin Header | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2337', 'link': 'https://lcsc.com/product-detail/C2337.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C2883695', 'link': 'https://lcsc.com/product-detail/C2883695.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 3d2b951bb0a8a0ec9f35f002320c97be | 
 | md5_5 | 3d2b9 | 
@@ -76,7 +79,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_only_numbers_short | 34 | 
 | description_or_color | 34 | 
 | description_or_color_upper | 34 | 
-| markdown_full | [electronic_header_2d54_mm_34_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br>[hi134p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br>[Electronic Header 2D54 Mm 34 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br><br> | 
-| markdown_short | [electronic_header_2d54_mm_34_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br><br> | 
+| markdown_full | [electronic_header_2d54_mm_34_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br>[hi134p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br>[Electronic Header 2D54 Mm 34 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> | 
+| markdown_short | [electronic_header_2d54_mm_34_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_34_pin/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical//working/working.kicad_mod'}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_horizontal//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x34_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x34_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x34_pin//working/working.kicad_sym'}] | 

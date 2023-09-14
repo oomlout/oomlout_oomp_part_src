@@ -19,7 +19,26 @@
     "short_code": "hi17pra",
     "short_code_upper": "HI17PRA",
     "short_name": "0.1\" 7 Pin Right Angle Header",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2337",
+            "link": "https://lcsc.com/product-detail/C2337.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2883695",
+            "link": "https://lcsc.com/product-detail/C2883695.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C124358",
+            "link": "https://lcsc.com/product-detail/C124358.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "fc8f39d1a9d23189e4b191397f43ced9",
     "md5_5": "fc8f3",
@@ -39,6 +58,6 @@
     "description_only_numbers_short": "7",
     "description_or_color": "7",
     "description_or_color_upper": "7",
-    "markdown_full": "[electronic_header_2d54_mm_7_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br>[hi17pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br>[Electronic Header 2D54 Mm 7 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_7_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_7_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br>[hi17pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br>[Electronic Header 2D54 Mm 7 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_7_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>"
 }

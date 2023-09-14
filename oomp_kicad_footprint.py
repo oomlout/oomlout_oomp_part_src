@@ -92,6 +92,7 @@ def get_footprints(**kwargs):
         match["type"] = "header"
         match["size"] = "2d54_mm"
         match["description_main"] = f"{pin_count}_pin"
+        match["description_extra"] = ""
         match["footprint"] = []
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_vertical"
         matches.append(match)   
@@ -102,6 +103,7 @@ def get_footprints(**kwargs):
         match["type"] = "header"
         match["size"] = "2d54_mm"
         match["description_main"] = f"{pin_count}_pin"
+        match["description_extra"] = "right_angle"
         match["footprint"] = []
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_1x{pin_s}_p2_54mm_horizontal"
         matches.append(match)   
@@ -164,7 +166,7 @@ def get_footprints(**kwargs):
         match["type"] = "header"
         match["size"] = "2d54_mm_dual_row"
         match["description_main"] = f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"
-        match["description_extra"] = ""
+        match["description_extra"] = "right_angle"
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_horizontal"
         matches.append(match) 
 
@@ -173,7 +175,7 @@ def get_footprints(**kwargs):
         match["type"] = "header"
         match["size"] = "2d54_mm_dual_row"
         match["description_main"] = f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"
-        match["description_extra"] = ""
+        match["description_extra"] = "surface_mount"
         match["footprint_name"] = f"kicad_connector_pinheader_2_54mm_pinheader_2x{pin_s2x}_p2_54mm_vertical_smd"
         matches.append(match) 
 

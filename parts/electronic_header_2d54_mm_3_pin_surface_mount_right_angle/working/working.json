@@ -19,7 +19,32 @@
     "short_code": "hi13psmra",
     "short_code_upper": "HI13PSMRA",
     "short_name": "0.1\" 3 Pin Surface Mount Right Angle Header",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2337",
+            "link": "https://lcsc.com/product-detail/C2337.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2883695",
+            "link": "https://lcsc.com/product-detail/C2883695.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C917606",
+            "link": "https://lcsc.com/product-detail/C917606.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C917645",
+            "link": "https://lcsc.com/product-detail/C917645.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "1b3fc30c4fd317a12ef2a47bcc5d1280",
     "md5_5": "1b3fc",
@@ -39,6 +64,6 @@
     "description_only_numbers_short": "3",
     "description_or_color": "3",
     "description_or_color_upper": "3",
-    "markdown_full": "[electronic_header_2d54_mm_3_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br>[hi13psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 3 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_3_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_3_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br>[hi13psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm 3 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_3_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_3_pin_surface_mount_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
 }

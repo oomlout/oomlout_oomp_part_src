@@ -19,7 +19,26 @@
     "short_code": "hi122psm",
     "short_code_upper": "HI122PSM",
     "short_name": "0.1\" 22 Pin Surface Mount Header",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2337",
+            "link": "https://lcsc.com/product-detail/C2337.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2883695",
+            "link": "https://lcsc.com/product-detail/C2883695.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C917645",
+            "link": "https://lcsc.com/product-detail/C917645.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "d69431aff8fbe9554d89603d680f0e60",
     "md5_5": "d6943",
@@ -39,6 +58,6 @@
     "description_only_numbers_short": "22",
     "description_or_color": "22",
     "description_or_color_upper": "22",
-    "markdown_full": "[electronic_header_2d54_mm_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br>[hi122psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm 22 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br>[hi122psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm 22 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_22_pin_surface_mount/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
 }

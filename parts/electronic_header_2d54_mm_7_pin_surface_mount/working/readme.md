@@ -15,6 +15,10 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C2337](https://lcsc.com/product-detail/C2337.html)  
+* [LCSC - C2883695](https://lcsc.com/product-detail/C2883695.html)  
+* [LCSC - C917645](https://lcsc.com/product-detail/C917645.html)  
 
 
 ## symbol
@@ -60,7 +64,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code | hi17psm | 
 | short_code_upper | HI17PSM | 
 | short_name | 0.1" 7 Pin Surface Mount Header | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2337', 'link': 'https://lcsc.com/product-detail/C2337.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C2883695', 'link': 'https://lcsc.com/product-detail/C2883695.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C917645', 'link': 'https://lcsc.com/product-detail/C917645.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 76e2338f176179bc46ed65229f8b4561 | 
 | md5_5 | 76e23 | 
@@ -80,7 +84,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_only_numbers_short | 7 | 
 | description_or_color | 7 | 
 | description_or_color_upper | 7 | 
-| markdown_full | [electronic_header_2d54_mm_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br>[hi17psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm 7 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br><br> | 
-| markdown_short | [electronic_header_2d54_mm_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br><br> | 
+| markdown_full | [electronic_header_2d54_mm_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br>[hi17psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm 7 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
+| markdown_short | [electronic_header_2d54_mm_7_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_7_pin_surface_mount/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical//working/working.kicad_mod'}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_horizontal//working/working.kicad_mod'}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod'}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x07_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym'}] | 

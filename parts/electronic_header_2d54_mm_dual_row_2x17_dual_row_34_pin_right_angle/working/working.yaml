@@ -10,7 +10,19 @@ description_only_numbers_short: 22k
 description_or_color: 22k
 description_or_color_upper: 22K
 directory: parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C213462.html
+    name: LCSC
+    part_number: C213462
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C3410.html
+    name: LCSC
+    part_number: C3410
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_horizontal//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_horizontal
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_horizontal
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working
 id: electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle
 id_no_class: header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle
@@ -19,8 +31,10 @@ kicad_reference: J
 manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)<br>[hi12x17pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)<br>[Electronic
-    Header 2D54 Mm Dual Row 2X17 Dual Row 34 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)<br><br>'
-markdown_short: '[electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)<br><br>'
+    Header 2D54 Mm Dual Row 2X17 Dual Row 34 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)<br>[LCSC
+    - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
+markdown_short: '[electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working)<br>[LCSC
+    - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
 md5: cef16443e6841bb4736728759a35380d
 md5_10: cef16443e6
 md5_10_upper: CEF16443E6

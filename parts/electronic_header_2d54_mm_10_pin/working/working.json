@@ -19,7 +19,20 @@
     "short_code": "hi110p",
     "short_code_upper": "HI110P",
     "short_name": "0.1\" 10 Pin Header",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2337",
+            "link": "https://lcsc.com/product-detail/C2337.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2883695",
+            "link": "https://lcsc.com/product-detail/C2883695.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "303a3ae374a9c8ee9c9554c743750a8f",
     "md5_5": "303a3",
@@ -39,6 +52,6 @@
     "description_only_numbers_short": "10",
     "description_or_color": "10",
     "description_or_color_upper": "10",
-    "markdown_full": "[electronic_header_2d54_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br>[hi110p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br>[Electronic Header 2D54 Mm 10 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br>[hi110p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br>[Electronic Header 2D54 Mm 10 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_10_pin/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>"
 }

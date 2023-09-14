@@ -53,26 +53,27 @@ def get_matches(**kwargs):
     #      2d54 
     #            single row
     for pin_count in range(2, 41):
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin",
                         "part_number": "C2337"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin",
                         "part_number": "C2883695"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin_right_angle",
+        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin_right_angle",
                         "part_number": "C124358"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin_surface_mount_right_angle",
+        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin_surface_mount_right_angle",
                         "part_number": "C917606"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_{pin_count}_pin_surface_mount",
+        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin_surface_mount",
                         "part_number": "C917645"})
     #            double row
     for pin_count in range(4, 42, 2):
         half = int(pin_count/2)
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
-                        "part_number": "C2333"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
+                        "part_number": "C2333",
+                        "extra": "exact"})
+        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
                         "part_number": "C213462"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_right_angle",
+        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_right_angle",
                         "part_number": "C3410"})
-        matches.append({"id":f"oomp_electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_surface_mount",
+        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_surface_mount",
                         "part_number": "C2685180"})
 
 
@@ -206,7 +207,15 @@ def get_lcsc(**kwargs):
     distributors = []
     for match in matches:
         #jus check th id
-        if match["id"].replace("","") in kwargs["id"]:
+        include = False
+        extra = match.get("extra", "")
+        if extra == "exact":
+            if match["id"] == kwargs["id"]:
+                include = True
+        else:
+            if match["id"].replace("","") in kwargs["id"]:
+                include = True
+        if include:
             distributor_match = {}
             distributor_match["name"] = "LCSC"
             distributor_match["part_number"] = match["part_number"]

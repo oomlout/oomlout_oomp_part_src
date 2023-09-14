@@ -18,7 +18,20 @@
     "name": "Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Surface Mount Right Angle",
     "short_code": "hi12x3psmra",
     "short_code_upper": "HI12X3PSMRA",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C213462",
+            "link": "https://lcsc.com/product-detail/C213462.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2685180",
+            "link": "https://lcsc.com/product-detail/C2685180.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "eac3ea332f31b191ee17ebdd73270b64",
     "md5_5": "eac3e",
@@ -38,6 +51,6 @@
     "description_only_numbers_short": "236",
     "description_or_color": "236",
     "description_or_color_upper": "236",
-    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br>[hi12x3psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br>[hi12x3psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X3 Dual Row 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br>[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin_surface_mount_right_angle/working)<br>[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>"
 }

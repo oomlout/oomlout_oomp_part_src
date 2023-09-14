@@ -10,17 +10,19 @@ description_only_numbers_short: 21k
 description_or_color: 21k
 description_or_color_upper: 21K
 directory: parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2333.html
+    name: LCSC
+    part_number: C2333
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C213462.html
+    name: LCSC
+    part_number: C213462
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_horizontal//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_horizontal
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_horizontal
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical_smd//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical_smd
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical_smd
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working
 id: electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin
 id_no_class: header_2d54_mm_dual_row_2x14_dual_row_28_pin
@@ -29,8 +31,10 @@ kicad_reference: J
 manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)<br>[hi12x14p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)<br>[Electronic
-    Header 2D54 Mm Dual Row 2X14 Dual Row 28 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)<br><br>'
-markdown_short: '[electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)<br><br>'
+    Header 2D54 Mm Dual Row 2X14 Dual Row 28 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)<br>[LCSC
+    - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>'
+markdown_short: '[electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x14_dual_row_28_pin/working)<br>[LCSC
+    - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>'
 md5: ee493dbc3318772a79863ec683544aed
 md5_10: ee493dbc33
 md5_10_upper: EE493DBC33

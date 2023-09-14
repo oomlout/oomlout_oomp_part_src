@@ -18,7 +18,20 @@
     "name": "Electronic Header 2D54 Mm Dual Row 2X12 Dual Row 24 Pin Surface Mount",
     "short_code": "hi12x12psm",
     "short_code_upper": "HI12X12PSM",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C213462",
+            "link": "https://lcsc.com/product-detail/C213462.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2685180",
+            "link": "https://lcsc.com/product-detail/C2685180.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "6077d1774932ecffa12cd25868b10aca",
     "md5_5": "6077d",
@@ -38,6 +51,6 @@
     "description_only_numbers_short": "21k",
     "description_or_color": "21k",
     "description_or_color_upper": "21K",
-    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br>[hi12x12psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm Dual Row 2X12 Dual Row 24 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br><br>",
-    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br><br>"
+    "markdown_full": "[electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br>[hi12x12psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br>[Electronic Header 2D54 Mm Dual Row 2X12 Dual Row 24 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br>[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>",
+    "markdown_short": "[electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working)<br>[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>"
 }

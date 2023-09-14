@@ -10,14 +10,20 @@ description_only_numbers_short: '36'
 description_or_color: '36'
 description_or_color_upper: '36'
 directory: parts/electronic_header_2d54_mm_36_pin_surface_mount
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2337.html
+    name: LCSC
+    part_number: C2337
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2883695.html
+    name: LCSC
+    part_number: C2883695
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C917645.html
+    name: LCSC
+    part_number: C917645
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_horizontal//working/working.kicad_mod
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_horizontal
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_horizontal
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left
@@ -29,8 +35,12 @@ kicad_reference: J
 manufacturer: ''
 manufacturers: []
 markdown_full: '[electronic_header_2d54_mm_36_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_surface_mount/working)<br>[hi136psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_surface_mount/working)<br>[Electronic
-    Header 2D54 Mm 36 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_surface_mount/working)<br><br>'
-markdown_short: '[electronic_header_2d54_mm_36_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_surface_mount/working)<br><br>'
+    Header 2D54 Mm 36 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_surface_mount/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC
+    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2d54_mm_36_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_36_pin_surface_mount/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC
+    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: 57b225f90f5121ed5f9a2d5f5518644d
 md5_10: 57b225f90f
 md5_10_upper: 57B225F90F

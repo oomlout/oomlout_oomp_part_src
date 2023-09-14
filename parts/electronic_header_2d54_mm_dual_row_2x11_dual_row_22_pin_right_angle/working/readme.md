@@ -15,6 +15,10 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C2333](https://lcsc.com/product-detail/C2333.html)  
+* [LCSC - C213462](https://lcsc.com/product-detail/C213462.html)  
+* [LCSC - C3410](https://lcsc.com/product-detail/C3410.html)  
 
 
 ## symbol
@@ -46,7 +50,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name | Electronic Header 2D54 Mm Dual Row 2X11 Dual Row 22 Pin Right Angle | 
 | short_code | hi12x11pra | 
 | short_code_upper | HI12X11PRA | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2333', 'link': 'https://lcsc.com/product-detail/C2333.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C213462', 'link': 'https://lcsc.com/product-detail/C213462.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C3410', 'link': 'https://lcsc.com/product-detail/C3410.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 882b874e36ecc78fd72844fc53e5219b | 
 | md5_5 | 882b8 | 
@@ -66,6 +70,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 21k | 
 | description_or_color | 21k | 
 | description_or_color_upper | 21K | 
-| markdown_full | [electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br>[hi12x11pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X11 Dual Row 22 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br><br> | 
-| markdown_short | [electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br><br> | 
+| markdown_full | [electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br>[hi12x11pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br>[Electronic Header 2D54 Mm Dual Row 2X11 Dual Row 22 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br> | 
+| markdown_short | [electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)[LCSC - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x11_odd_even', 'oomp_key': 'oomp_kicad_connector_generic_conn_02x11_odd_even', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x11_odd_even//working/working.kicad_sym'}] | 
