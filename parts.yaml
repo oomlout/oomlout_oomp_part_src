@@ -1027,7 +1027,7 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
         link: https://search.kyocera-avx.com/search/TAJA475K016RNJ
         name: Kyocera
         part_number: TAJA475K016RNJ
-    markdown_full: '[electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[catuf4d716v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[Electronic
+    markdown_full: '[electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[catuf4d7v16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[Electronic
         Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[LCSC
         - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ)
         [(L)  ](https://www.lcsc.com/search?q=TAJA475K016RNJ)[(D)  ](https://www.digikey.com/en/products?keywords=TAJA475K016RNJ)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TAJA475K016RNJ)[(N)  ](https://www.newark.com/search?st=TAJA475K016RNJ)[(SZ)  ](https://so.szlcsc.com/global.html?k=TAJA475K016RNJ)<br>'
@@ -1043,8 +1043,8 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
     oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
     part_number: ''
-    short_code: catuf4d716v
-    short_code_upper: CATUF4D716V
+    short_code: catuf4d7v16
+    short_code_upper: CATUF4D7V16
     size: 3216_avx_a
     size_only_numbers: '3216'
     size_only_numbers_no_zeros: '3216'
@@ -1083,7 +1083,7 @@ electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf22010v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
+    markdown_full: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
         Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
     markdown_short: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
     md5: ca0122388156a808a16a1df64243b0c1
@@ -1097,8 +1097,8 @@ electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10
         Farad 10 Volt
     oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
     part_number: ''
-    short_code: c63d54tuf22010v
-    short_code_upper: C63D54TUF22010V
+    short_code: c63d54tuf220v10
+    short_code_upper: C63D54TUF220V10
     size: 6_3_mm_diameter_5_4_mm_tall
     size_only_numbers: '6354'
     size_only_numbers_no_zeros: '6354'
@@ -1137,7 +1137,7 @@ electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d77tuf22010v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
+    markdown_full: '[electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d77tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
         Capacitor 6 3 Mm Diameter 7 7 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
     markdown_short: '[electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
     md5: fd72c080666228040d5571dc164674c3
@@ -1151,8 +1151,8 @@ electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10
         Farad 10 Volt
     oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt
     part_number: ''
-    short_code: c63d77tuf22010v
-    short_code_upper: C63D77TUF22010V
+    short_code: c63d77tuf220v10
+    short_code_upper: C63D77TUF220V10
     size: 6_3_mm_diameter_7_7_mm_tall
     size_only_numbers: '6377'
     size_only_numbers_no_zeros: '6377'
@@ -1191,7 +1191,7 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c8d65tuf22010v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
+    markdown_full: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c8d65tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
         Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
     markdown_short: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
     md5: 432b2655fe41a652a246841ddd9641cc
@@ -1205,8 +1205,8 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
         10 Volt
     oomp_key: oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
     part_number: ''
-    short_code: c8d65tuf22010v
-    short_code_upper: C8D65TUF22010V
+    short_code: c8d65tuf220v10
+    short_code_upper: C8D65TUF220V10
     size: 8_mm_diameter_6_5_mm_tall
     size_only_numbers: '865'
     size_only_numbers_no_zeros: '865'
@@ -20659,7 +20659,7 @@ electronic_pmic_sot_223_linear_1117_5_volt:
         link: ''
         name: UMW(Youtai Semiconductor Co., Ltd.)
         part_number: AMS1117-5.0
-    markdown_full: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms22311175v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic
+    markdown_full: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms2231117v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic
         Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC
         - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai
         Semiconductor Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br>'
@@ -20677,8 +20677,8 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
     package_style: smd_tape
     part_number: ''
-    short_code: pms22311175v
-    short_code_upper: PMS22311175V
+    short_code: pms2231117v5
+    short_code_upper: PMS2231117V5
     short_name: ''
     size: sot_223
     size_only_numbers: '223'

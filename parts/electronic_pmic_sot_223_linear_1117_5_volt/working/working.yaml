@@ -29,7 +29,7 @@ manufacturers:
     link: ''
     name: UMW(Youtai Semiconductor Co., Ltd.)
     part_number: AMS1117-5.0
-markdown_full: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms22311175v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic
+markdown_full: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms2231117v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic
     Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC
     - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor
     Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br>'
@@ -47,8 +47,8 @@ name: Electronic Pmic Sot 223 Linear 1117 5 Volt
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
 package_style: smd_tape
 part_number: ''
-short_code: pms22311175v
-short_code_upper: PMS22311175V
+short_code: pms2231117v5
+short_code_upper: PMS2231117V5
 short_name: ''
 size: sot_223
 size_only_numbers: '223'

@@ -286,7 +286,7 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["2_85_volt"] = "2d85v"
     replace_dict["description_extra"]["3_3_volt"] = "3d3v"
     for volt in range(1, 500):
-        replace_dict["description_extra"][f"{volt}_volt"] = f"{volt}v"
+        replace_dict["description_extra"][f"{volt}_volt"] = f"v{volt}"
     
     
     # manufacturer

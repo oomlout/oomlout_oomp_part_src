@@ -24,7 +24,7 @@ id_no_type: 6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 kicad_reference: C
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf22010v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
+markdown_full: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
     Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
 markdown_short: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
 md5: ca0122388156a808a16a1df64243b0c1
@@ -38,8 +38,8 @@ name: Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Fa
     10 Volt
 oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 part_number: ''
-short_code: c63d54tuf22010v
-short_code_upper: C63D54TUF22010V
+short_code: c63d54tuf220v10
+short_code_upper: C63D54TUF220V10
 size: 6_3_mm_diameter_5_4_mm_tall
 size_only_numbers: '6354'
 size_only_numbers_no_zeros: '6354'

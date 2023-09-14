@@ -20,13 +20,13 @@
 ## capacitor   
 ### 8_mm_diameter_6_5_mm_tall   
 #### electrolytic   
-[c8d65tuf22010v - oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
+[c8d65tuf220v10 - oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
 ### 6_3_mm_diameter_5_4_mm_tall   
 #### electrolytic   
-[c63d54tuf22010v - oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
+[c63d54tuf220v10 - oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
 ### 6_3_mm_diameter_7_7_mm_tall   
 #### electrolytic   
-[c63d77tuf22010v - oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
+[c63d77tuf220v10 - oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)   
 ### 0603   
 ####    
 [c6pf22 - oomp_electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)   
@@ -44,7 +44,7 @@
 [c4pf22 - oomp_electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)   
 ### 3216_avx_a   
 #### tantalum   
-[catuf4d716v - oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)   
+[catuf4d7v16 - oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)   
 ## ceramic_resonator   
 ### 3213   
 #### 3_pin_ground_pin_2   
@@ -548,7 +548,7 @@
 [pms2231117 - oomp_electronic_pmic_sot_223_linear_1117_1_8_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt/working)   
 [pms22311172d5v - oomp_electronic_pmic_sot_223_linear_1117_2_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working)   
 [pms22311173d3v - oomp_electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)   
-[pms22311175v - oomp_electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)   
+[pms2231117v5 - oomp_electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)   
 [pms2231117 - oomp_electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)   
 ## resistor   
 ### quarter_watt_through_hole   
