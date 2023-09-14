@@ -37,6 +37,23 @@ def get_short_code(**kwargs):
     replace_dict["size"]["2_8_mm_x_8_mm_x_1_4"] = "2880"
     replace_dict["size"]["2d54_header"] = "i1h"
 
+    #      capacitor
+    diameter_max = 99
+    tall_max = 99
+    for diameter in range(1, diameter_max):
+        for tall in range(1, tall_max):
+            d_working = diameter / 10
+            t_working = tall / 10
+            diameter_underscore = str(d_working).replace(".","_").replace("_0","")
+            tall_underscore = str(t_working).replace(".","_").replace("_0","")
+            diameter_decimal_removed = diameter_underscore.replace("_","")
+            tall_decimal_removed = tall_underscore.replace("_","")
+            size = f"{diameter_underscore}_mm_diameter_{tall_underscore}_mm_tall"
+            code = f"{diameter_decimal_removed}d{tall_decimal_removed}t"
+            replace_dict["size"][size] = code
+
+
+
     #            to sort
 
 
@@ -227,6 +244,18 @@ def get_short_code(**kwargs):
     #      breakout boards
     replace_dict["description_extra"]["shennie"] = "sh"
     replace_dict["description_extra"]["step_stick"] = "ss"
+
+    #      capacitor
+    replace_dict["description_extra"]["4_volt"] = "v4"
+    replace_dict["description_extra"]["6_3_volt"] = "v6d3"
+    replace_dict["description_extra"]["10_volt"] = "v10"
+    replace_dict["description_extra"]["16_volt"] = "v16"
+    replace_dict["description_extra"]["25_volt"] = "v25"
+    replace_dict["description_extra"]["35_volt"] = "v35"
+    replace_dict["description_extra"]["50_volt"] = "v50"
+    replace_dict["description_extra"]["63_volt"] = "v63"
+    replace_dict["description_extra"]["100_volt"] = "v100"
+    replace_dict["description_extra"]["220_volt"] = "v220"
 
     #      uncategorized
     replace_dict["description_extra"][""] = ""

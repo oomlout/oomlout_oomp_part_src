@@ -16,8 +16,8 @@
 * part_number -- 1n4148w
 
 ## distributors
-* [LCSC - C2099](https://lcsc.com/product-detail/C2099.html)  
-* [LCSC - C444720](https://lcsc.com/product-detail/C444720.html)  
+* [LCSC - C2099](https://lcsc.com/product-detail/C2099.html)   
+* [LCSC - C444720](https://lcsc.com/product-detail/C444720.html)   
 
 
 ## symbol

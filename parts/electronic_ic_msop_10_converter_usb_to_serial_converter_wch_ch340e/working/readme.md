@@ -29,7 +29,7 @@ List of Pins:
 * 9 : txd
 * 10 : v3
 ## distributors
-* [LCSC - C99652](https://lcsc.com/product-detail/C99652.html)  
+* [LCSC - C99652](https://lcsc.com/product-detail/C99652.html)   
 
 
 ## symbol

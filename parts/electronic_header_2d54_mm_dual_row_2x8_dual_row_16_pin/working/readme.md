@@ -16,8 +16,8 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C2333](https://lcsc.com/product-detail/C2333.html)  
-* [LCSC - C213462](https://lcsc.com/product-detail/C213462.html)  
+* [LCSC - C2333](https://lcsc.com/product-detail/C2333.html)   
+* [LCSC - C213462](https://lcsc.com/product-detail/C213462.html)   
 
 
 ## symbol

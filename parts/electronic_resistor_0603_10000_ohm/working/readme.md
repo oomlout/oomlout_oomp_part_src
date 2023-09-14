@@ -16,9 +16,9 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C25804](https://lcsc.com/product-detail/C25804.html)  
-* [LCSC - C15401](https://lcsc.com/product-detail/C15401.html)  
-* [LCSC - C99198](https://lcsc.com/product-detail/C99198.html)  
+* [LCSC - C25804](https://lcsc.com/product-detail/C25804.html)   
+* [LCSC - C15401](https://lcsc.com/product-detail/C15401.html)   
+* [LCSC - C99198](https://lcsc.com/product-detail/C99198.html)   
 
 ## manufacturers
 * [Uniroyal - 0603WAJ0103T5E]()  

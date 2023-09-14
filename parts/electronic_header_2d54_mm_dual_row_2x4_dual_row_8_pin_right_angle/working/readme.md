@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C3410](https://lcsc.com/product-detail/C3410.html)  
+* [LCSC - C3410](https://lcsc.com/product-detail/C3410.html)   
 
 
 ## symbol

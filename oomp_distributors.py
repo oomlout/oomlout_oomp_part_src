@@ -22,10 +22,24 @@ def get_matches(**kwargs):
                   "part_number": "C431540"})
 
     # capacitor
+
+    #      electrolytic
+    part = "electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt"
+    matches.append({"id":part, "part_number": "C249496","note":"omerk"})
+
+    part = "electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_220_micro_farad_10_volt"
+    matches.append({"id":part, "part_number": "C2833309", "note":"high_stock_level_lcsc"})
+    
+    part = "electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_220_micro_farad_10_volt"
+    matches.append({"id":part, "part_number": "C72495", "note":"high_stock_level_lcsc"})
+    
+
+    #      ceramic
     part = "electronic_capacitor_0603_100_nano_farad"
     matches.append({"id":part, "part_number": "C14663"})
     matches.append({"id":part, "part_number": "C30926"})
 
+    #      tantalum
     matches.append({"id":"electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt",
                     "part_number": "C7187"})
     
@@ -250,7 +264,18 @@ def get_aliexpress(**kwargs):
             distributor_match["name"] = "AliExpress"
             distributor_match["part_number"] = f'search: {match["part_number"]}'
             distributor_match["link"] = f"https://www.aliexpress.com/w/wholesale-aip1640.htmlSearchText={match['part_number']}"            
-            distributor_match["id"] = "distributor_aliexpress"            
+            distributor_match["id"] = "distributor_aliexpress"  
+            if "note" in match:
+                note = match["note"]
+                distributor_match["note"] = note
+                distributor_match["note_markdown"] = []
+                #if note is a string make it an array
+                if isinstance(note, str):
+                    note = [note]
+                note_markdown = ""
+                for note_line in note:
+                    note_markdown += f"- {note_line}  "
+                distributor_match["note_markdown"].append(note_markdown)
             distributors.append(distributor_match)
 
     #if there are no kwargs[distributers]

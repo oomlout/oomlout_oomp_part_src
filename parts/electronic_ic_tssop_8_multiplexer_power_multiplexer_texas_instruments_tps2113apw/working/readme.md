@@ -27,7 +27,7 @@ List of Pins:
 * 7 : out
 * 8 : in1
 ## distributors
-* [LCSC - C130052](https://lcsc.com/product-detail/C130052.html)  
+* [LCSC - C130052](https://lcsc.com/product-detail/C130052.html)   
 
 
 

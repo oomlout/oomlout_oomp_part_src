@@ -24,7 +24,7 @@ List of Pins:
 * 4 : gnd
 * 6 : shield
 ## distributors
-* [LCSC - C2345](https://lcsc.com/product-detail/C2345.html)  
+* [LCSC - C2345](https://lcsc.com/product-detail/C2345.html)   
 
 
 ## symbol

@@ -27,7 +27,7 @@ List of Pins:
 * 7 : gnd
 * 8 : vdd
 ## distributors
-* [LCSC - C92489](https://lcsc.com/product-detail/C92489.html)  
+* [LCSC - C92489](https://lcsc.com/product-detail/C92489.html)   
 
 ## manufacturers
 * [Bosch - BME280](https://www.sensortek.com.tw/index.php/en/products/mems-sensor/)  

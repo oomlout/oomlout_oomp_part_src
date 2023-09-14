@@ -56,12 +56,22 @@ def get_footprints(**kwargs):
     
 
     # capacitor
+
+    #      electrolytic capacitors
     match = {}
     match["type"] = "capacitor"
-    match["size"] = "3216_avx_a"
-    match["footprint_name"] = "kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a"
+    match["size"] = "6_3_mm_diameter*"
+    match["footprint_name"] = "kicad_capacitor_smd_cp_elec_6_3x3_9"
     matches.append(match)
 
+    
+    match = {}
+    match["type"] = "capacitor"
+    match["size"] = "8_mm_diameter*"
+    match["footprint_name"] = "kicad_capacitor_smd_cp_elec_8x5_4"
+    matches.append(match)
+
+    #      ceramic capacitors
     match = {}
     match["type"] = "capacitor"
     match["size"] = "0603"
@@ -73,6 +83,14 @@ def get_footprints(**kwargs):
     match["size"] = "0402"
     match["footprint_name"] = "kicad_capacitor_smd_c_0402_1005metric"
     matches.append(match)
+
+    #      tantalum capacitors
+    match = {}
+    match["type"] = "capacitor"
+    match["size"] = "3216_avx_a"
+    match["footprint_name"] = "kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a"
+    matches.append(match)
+
 
     # crystal
     match = {}
@@ -450,7 +468,11 @@ def get_footprints(**kwargs):
         elements_to_check.append("id")
         for name in elements_to_check:
             try:
-                if match[name] == kwargs[name]:
+                #in rather than equals loose match
+                if "*" in match[name]:
+                    if match[name].replace("*","") in kwargs[name]:
+                        match_count += 1
+                elif match[name] == kwargs[name]:
                     match_count += 1
             except:
                 pass

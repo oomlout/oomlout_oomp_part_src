@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C965807](https://lcsc.com/product-detail/C965807.html)  
+* [LCSC - C965807](https://lcsc.com/product-detail/C965807.html)   
 
 ## manufacturers
 * [XINGLIGHT - XL-1608UBC-04]()  

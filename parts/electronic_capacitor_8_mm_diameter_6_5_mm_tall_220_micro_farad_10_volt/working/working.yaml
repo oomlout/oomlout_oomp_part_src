@@ -1,0 +1,57 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 10_volt
+description_main: 220_micro_farad
+description_only_numbers: '220'
+description_only_numbers_short: '220'
+description_or_color: '220'
+description_or_color_upper: '220'
+directory: parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C249496.html
+    name: LCSC
+    part_number: C249496
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_8x5_4//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_8x5_4
+    oomp_key: oomp_kicad_capacitor_smd_cp_elec_8x5_4
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt/working
+id: electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt
+id_no_class: capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt
+id_no_type: 8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt
+kicad_reference: C
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt/working)<br>[c8d65tuf22010v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt/working)<br>[Electronic
+    Capacitor 8 Mm Diameter 6 5 Mm Tall 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt/working)<br>[LCSC
+    - C249496<br>](https://lcsc.com/product-detail/C249496.html)<br>'
+markdown_short: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt/working)<br>[LCSC
+    - C249496<br>](https://lcsc.com/product-detail/C249496.html)<br>'
+md5: 289cad5b90c1b47f386b4ddb984aada6
+md5_10: 289cad5b90
+md5_10_upper: 289CAD5B90
+md5_5: 289ca
+md5_5_upper: 289CA
+md5_6: 289cad
+md5_6_upper: 289CAD
+name: Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall 220 Micro Farad 10 Volt
+oomp_key: oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt
+part_number: ''
+short_code: c8d65tuf22010v
+short_code_upper: C8D65TUF22010V
+size: 8_mm_diameter_6_5_mm_tall
+size_only_numbers: '865'
+size_only_numbers_no_zeros: '865'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+    oomp_key: oomp_kicad_device_c
+type: capacitor
+type_first_letter: c
+type_first_letter_upper: C

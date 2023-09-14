@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C7187](https://lcsc.com/product-detail/C7187.html)  
+* [LCSC - C7187](https://lcsc.com/product-detail/C7187.html)   
 
 ## manufacturers
 * [Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ)  

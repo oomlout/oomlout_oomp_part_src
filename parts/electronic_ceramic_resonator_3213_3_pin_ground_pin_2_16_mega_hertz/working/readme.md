@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C882605](https://lcsc.com/product-detail/C882605.html)  
+* [LCSC - C882605](https://lcsc.com/product-detail/C882605.html)   
 
 ## manufacturers
 * [Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0)  

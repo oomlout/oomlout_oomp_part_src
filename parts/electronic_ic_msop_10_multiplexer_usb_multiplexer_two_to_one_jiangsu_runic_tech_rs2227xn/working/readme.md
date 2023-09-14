@@ -29,7 +29,7 @@ List of Pins:
 * 9 : hsd2_positive
 * 10 : oe
 ## distributors
-* [LCSC - C255478](https://lcsc.com/product-detail/C255478.html)  
+* [LCSC - C255478](https://lcsc.com/product-detail/C255478.html)   
 
 
 

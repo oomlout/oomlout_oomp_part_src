@@ -25,7 +25,7 @@ List of Pins:
 * 5 : gnd
 * 6 : shield
 ## distributors
-* [LCSC - C91144](https://lcsc.com/product-detail/C91144.html)  
+* [LCSC - C91144](https://lcsc.com/product-detail/C91144.html)   
 
 ## manufacturers
 * [Korean Hroparts Elec - U-M-M5SS-W-2]()  

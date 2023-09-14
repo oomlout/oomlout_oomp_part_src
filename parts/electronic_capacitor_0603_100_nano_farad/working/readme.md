@@ -16,8 +16,8 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C14663](https://lcsc.com/product-detail/C14663.html)  
-* [LCSC - C30926](https://lcsc.com/product-detail/C30926.html)  
+* [LCSC - C14663](https://lcsc.com/product-detail/C14663.html)   
+* [LCSC - C30926](https://lcsc.com/product-detail/C30926.html)   
 
 ## manufacturers
 * [Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do)  

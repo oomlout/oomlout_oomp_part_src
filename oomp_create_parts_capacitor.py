@@ -8,8 +8,24 @@ def load_parts(**kwargs):
     parts = []
 
     
+    # electrolytic capacitors
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "capacitor"
+    part_details["size"] = ["8_mm_diameter_6_5_mm_tall","6_3_mm_diameter_5_4_mm_tall","6_3_mm_diameter_7_7_mm_tall"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ["220_micro_farad"]
+    part_details["description_extra"] = "10_volt"
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["kicad_reference"] = "C"
+    parts.append(part_details)
 
-    #define a part 
+
+
+    # mlcc
+
+    #      0603
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "capacitor"
@@ -24,12 +40,13 @@ def load_parts(**kwargs):
 
 
     import copy 
+    #      0402
     part_details = copy.deepcopy(part_details)
     part_details["size"] = ["0402"]
     part_details["description_main"] = ["100_nano_farad","1_micro_farad","10_nano_farad","22_nano_farad","22_pico_farad"]
     parts.append(part_details)
 
-    #tantalum capacitors
+    # tantalum capacitors
 
     part_details = {}
     part_details["classification"] = "electronic"

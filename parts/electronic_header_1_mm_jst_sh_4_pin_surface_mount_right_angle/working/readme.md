@@ -16,8 +16,8 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C145956](https://lcsc.com/product-detail/C145956.html)  
-* [LCSC - C2906270](https://lcsc.com/product-detail/C2906270.html)  
+* [LCSC - C145956](https://lcsc.com/product-detail/C145956.html)   
+* [LCSC - C2906270](https://lcsc.com/product-detail/C2906270.html)   
 
 ## manufacturers
 * [JST - SM04B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)  

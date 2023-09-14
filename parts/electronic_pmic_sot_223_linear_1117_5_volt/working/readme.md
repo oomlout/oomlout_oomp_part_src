@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C347223](https://lcsc.com/product-detail/C347223.html)  
+* [LCSC - C347223](https://lcsc.com/product-detail/C347223.html)   
 
 ## manufacturers
 * [UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]()  

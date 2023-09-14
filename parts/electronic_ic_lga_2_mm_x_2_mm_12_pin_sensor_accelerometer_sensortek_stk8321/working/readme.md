@@ -31,7 +31,7 @@ List of Pins:
 * 11 : nc
 * 12 : scl_sck
 ## distributors
-* [LCSC - C966924](https://lcsc.com/product-detail/C966924.html)  
+* [LCSC - C966924](https://lcsc.com/product-detail/C966924.html)   
 
 ## manufacturers
 * [Sensortek - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)  

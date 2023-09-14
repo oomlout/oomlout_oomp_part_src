@@ -23,7 +23,7 @@ List of Pins:
 * 3 : vss
 * 4 : din
 ## distributors
-* [LCSC - C114586](https://lcsc.com/product-detail/C114586.html)  
+* [LCSC - C114586](https://lcsc.com/product-detail/C114586.html)   
 
 ## manufacturers
 * [Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en)  

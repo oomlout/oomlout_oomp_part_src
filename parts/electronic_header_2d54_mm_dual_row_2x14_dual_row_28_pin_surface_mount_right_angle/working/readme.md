@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C2685180](https://lcsc.com/product-detail/C2685180.html)  
+* [LCSC - C2685180](https://lcsc.com/product-detail/C2685180.html)   
 
 
 ## symbol

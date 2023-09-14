@@ -16,7 +16,7 @@
 * part_number -- 
 
 ## distributors
-* [LCSC - C2935946](https://lcsc.com/product-detail/C2935946.html)  
+* [LCSC - C2935946](https://lcsc.com/product-detail/C2935946.html)   
 
 
 ## symbol

@@ -16,8 +16,8 @@
 * part_number -- mbr0520
 
 ## distributors
-* [LCSC - C77335](https://lcsc.com/product-detail/C77335.html)  
-* [LCSC - C475717](https://lcsc.com/product-detail/C475717.html)  
+* [LCSC - C77335](https://lcsc.com/product-detail/C77335.html)   
+* [LCSC - C475717](https://lcsc.com/product-detail/C475717.html)   
 
 ## manufacturers
 * [Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520]()  

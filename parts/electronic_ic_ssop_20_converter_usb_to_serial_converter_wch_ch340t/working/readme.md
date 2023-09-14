@@ -39,7 +39,7 @@ List of Pins:
 * 16 : vcc
 * 16 : nos
 ## distributors
-* [LCSC - C8689](https://lcsc.com/product-detail/C8689.html)  
+* [LCSC - C8689](https://lcsc.com/product-detail/C8689.html)   
 
 
 ## symbol

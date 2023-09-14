@@ -21,7 +21,7 @@ List of Pins:
 * 1 : collector
 * 2 : emitter
 ## distributors
-* [LCSC - C146233](https://lcsc.com/product-detail/C146233.html)  
+* [LCSC - C146233](https://lcsc.com/product-detail/C146233.html)   
 
 ## manufacturers
 * [Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)  
