@@ -35,7 +35,7 @@ def get_footprints(**kwargs):
 
     match = {}
     match["type"] = "switch_slide"
-    match["size"] = "2_8_mm_x_8_mm_x_1_4"
+    match["size"] = "2_8_mm_x_8_mm_x_1_4_mm"
     match["description_main"] = "single_pole_double_throw"
     match["footprint_name"] = "kicad_button_switch_smd_sw_spdt_pcm12"
     matches.append(match)

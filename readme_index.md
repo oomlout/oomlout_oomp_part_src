@@ -11,9 +11,12 @@
 #### surface_mount   
 [b3560s - oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)   
 ## slide_switch   
-### 3_5_mm_x_6_mm_x_2_5_mm   
+### 2_8_mm_x_8_mm_x_1_4_mm   
 #### surface_mount   
-[3560s - oomp_electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)   
+[s - oomp_electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)   
+### 2d54_header   
+#### surface_mount   
+[i1hs - oomp_electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)   
 ## capacitor   
 ### 0603   
 ####    

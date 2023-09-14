@@ -56160,46 +56160,90 @@ electronic_resistor_quarter_watt_through_hole_82_ohm:
     type: resistor
     type_first_letter: r
     type_first_letter_upper: R
-electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
+electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw:
     classification: electronic
     color: surface_mount
     color_first_letter: s
     color_first_letter_upper: S
     color_upper: SURFACE_MOUNT
     description_extra: ''
-    description_main: ''
+    description_main: single_pole_double_throw
     description_only_numbers: ''
     description_only_numbers_short: ' '
     description_or_color: 's '
     description_or_color_upper: 'S '
-    directory: parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
-    distributors: []
-    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working
-    id: electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
-    id_no_class: slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
-    id_no_type: 3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    directory: parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+    distributors: &id002 []
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working
+    id: electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+    id_no_class: slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+    id_no_type: 2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
     make_files: true
     manufacturer: ''
     manufacturers: []
-    markdown_full: '[electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[3560s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[Electronic
-        Slide Switch 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br><br>'
-    markdown_short: '[electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br><br>'
-    md5: 9ce0ef6a7680c9a1bfc1ad8a2c6948c6
-    md5_10: 9ce0ef6a76
-    md5_10_upper: 9CE0EF6A76
-    md5_5: 9ce0e
-    md5_5_upper: 9CE0E
-    md5_6: 9ce0ef
-    md5_6_upper: 9CE0EF
-    name: Electronic Slide Switch 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
-    oomp_key: oomp_electronic_slide_switch_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    markdown_full: '[electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[Electronic
+        Slide Switch 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br>'
+    markdown_short: '[electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br>'
+    md5: dd8ba983cb1c580fbcc398db31244cfa
+    md5_10: dd8ba983cb
+    md5_10_upper: DD8BA983CB
+    md5_5: dd8ba
+    md5_5_upper: DD8BA
+    md5_6: dd8ba9
+    md5_6_upper: DD8BA9
+    name: Electronic Slide Switch 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole
+        Double Throw
+    oomp_key: oomp_electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
     part_number: ''
-    short_code: 3560s
-    short_code_upper: 3560S
+    short_code: s
+    short_code_upper: S
     short_name: ''
-    size: 3_5_mm_x_6_mm_x_2_5_mm
-    size_only_numbers: '35625'
-    size_only_numbers_no_zeros: '35625'
+    size: 2_8_mm_x_8_mm_x_1_4_mm
+    size_only_numbers: '28814'
+    size_only_numbers_no_zeros: '28814'
+    type: slide_switch
+    type_first_letter: s
+    type_first_letter_upper: S
+electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw:
+    classification: electronic
+    color: surface_mount
+    color_first_letter: s
+    color_first_letter_upper: S
+    color_upper: SURFACE_MOUNT
+    description_extra: ''
+    description_main: single_pole_double_throw
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 's '
+    description_or_color_upper: 'S '
+    directory: parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw
+    distributors: *id002
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working
+    id: electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw
+    id_no_class: slide_switch_2d54_header_surface_mount_single_pole_double_throw
+    id_no_type: 2d54_header_surface_mount_single_pole_double_throw
+    make_files: true
+    manufacturer: ''
+    manufacturers: []
+    markdown_full: '[electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br>[i1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic
+        Slide Switch 2D54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br><br>'
+    markdown_short: '[electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br><br>'
+    md5: 2ea95147143dd8a020f4500ae3eba44b
+    md5_10: 2ea9514714
+    md5_10_upper: 2EA9514714
+    md5_5: 2ea95
+    md5_5_upper: 2EA95
+    md5_6: 2ea951
+    md5_6_upper: 2EA951
+    name: Electronic Slide Switch 2D54 Header Surface Mount Single Pole Double Throw
+    oomp_key: oomp_electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw
+    part_number: ''
+    short_code: i1hs
+    short_code_upper: I1HS
+    short_name: ''
+    size: 2d54_header
+    size_only_numbers: '254'
+    size_only_numbers_no_zeros: '254'
     type: slide_switch
     type_first_letter: s
     type_first_letter_upper: S

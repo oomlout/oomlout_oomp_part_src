@@ -1,0 +1,65 @@
+# Electronic Slide Switch 2D54 Header Surface Mount Single Pole Double Throw
+
+  
+* oomp_key: oomp_electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw 
+* short_code: i1hs
+* md5_6: 2ea951  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working  
+## naming details
+* classification -- electronic
+* type -- slide_switch
+* size -- 2d54_header
+* color -- surface_mount
+* description_main -- single_pole_double_throw
+* description_extra -- 
+* manucaturer -- 
+* part_number -- 
+
+
+
+
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | slide_switch | 
+| size | 2d54_header | 
+| color | surface_mount | 
+| description_main | single_pole_double_throw | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| short_name |  | 
+| distributors | [] | 
+| id | electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw | 
+| id_no_class | slide_switch_2d54_header_surface_mount_single_pole_double_throw | 
+| id_no_type | 2d54_header_surface_mount_single_pole_double_throw | 
+| oomp_key | oomp_electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working | 
+| directory | parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw | 
+| name | Electronic Slide Switch 2D54 Header Surface Mount Single Pole Double Throw | 
+| short_code | i1hs | 
+| short_code_upper | I1HS | 
+| manufacturers | [] | 
+| md5 | 2ea95147143dd8a020f4500ae3eba44b | 
+| md5_5 | 2ea95 | 
+| md5_5_upper | 2EA95 | 
+| md5_6 | 2ea951 | 
+| md5_6_upper | 2EA951 | 
+| md5_10 | 2ea9514714 | 
+| md5_10_upper | 2EA9514714 | 
+| type_first_letter | s | 
+| type_first_letter_upper | S | 
+| size_only_numbers | 254 | 
+| size_only_numbers_no_zeros | 254 | 
+| color_upper | SURFACE_MOUNT | 
+| color_first_letter | s | 
+| color_first_letter_upper | S | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | s  | 
+| description_or_color_upper | S  | 
+| markdown_full | [electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br>[i1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic Slide Switch 2D54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br><br> | 
+| markdown_short | [electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2d54_header_surface_mount_single_pole_double_throw/working)<br><br> | 

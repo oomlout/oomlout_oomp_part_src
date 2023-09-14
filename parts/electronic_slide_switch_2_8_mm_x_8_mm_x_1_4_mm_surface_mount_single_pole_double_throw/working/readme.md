@@ -1,0 +1,65 @@
+# Electronic Slide Switch 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw
+
+  
+* oomp_key: oomp_electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw 
+* short_code: s
+* md5_6: dd8ba9  
+* github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working  
+## naming details
+* classification -- electronic
+* type -- slide_switch
+* size -- 2_8_mm_x_8_mm_x_1_4_mm
+* color -- surface_mount
+* description_main -- single_pole_double_throw
+* description_extra -- 
+* manucaturer -- 
+* part_number -- 
+
+
+
+
+
+## full_summary
+| name | value | 
+| --- | --- | 
+| name | value | 
+| classification | electronic | 
+| type | slide_switch | 
+| size | 2_8_mm_x_8_mm_x_1_4_mm | 
+| color | surface_mount | 
+| description_main | single_pole_double_throw | 
+| description_extra |  | 
+| manufacturer |  | 
+| part_number |  | 
+| short_name |  | 
+| distributors | [] | 
+| id | electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw | 
+| id_no_class | slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw | 
+| id_no_type | 2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw | 
+| oomp_key | oomp_electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw | 
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working | 
+| directory | parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw | 
+| name | Electronic Slide Switch 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw | 
+| short_code | s | 
+| short_code_upper | S | 
+| manufacturers | [] | 
+| md5 | dd8ba983cb1c580fbcc398db31244cfa | 
+| md5_5 | dd8ba | 
+| md5_5_upper | DD8BA | 
+| md5_6 | dd8ba9 | 
+| md5_6_upper | DD8BA9 | 
+| md5_10 | dd8ba983cb | 
+| md5_10_upper | DD8BA983CB | 
+| type_first_letter | s | 
+| type_first_letter_upper | S | 
+| size_only_numbers | 28814 | 
+| size_only_numbers_no_zeros | 28814 | 
+| color_upper | SURFACE_MOUNT | 
+| color_first_letter | s | 
+| color_first_letter_upper | S | 
+| description_only_numbers |  | 
+| description_only_numbers_short |   | 
+| description_or_color | s  | 
+| description_or_color_upper | S  | 
+| markdown_full | [electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[Electronic Slide Switch 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br> | 
+| markdown_short | [electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_slide_switch_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br> | 

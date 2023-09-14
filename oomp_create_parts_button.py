@@ -33,9 +33,9 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "slide_switch"
-    part_details["size"] = ["3_5_mm_x_6_mm_x_2_5_mm"]
+    part_details["size"] = ["2_8_mm_x_8_mm_x_1_4_mm","2d54_header"]
     part_details["color"] = ["surface_mount"]
-    part_details["description_main"] = ""
+    part_details["description_main"] = "single_pole_double_throw"
     part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
