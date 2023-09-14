@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | ED282 | 
 | md5_6 | ed2826 | 
 | md5_6_upper | ED2826 | 
+| md5_6_alpha | 994iu | 
+| md5_6_alpha_upper | 994IU | 
 | md5_10 | ed28264cd4 | 
 | md5_10_upper | ED28264CD4 | 
 | type_first_letter | h | 

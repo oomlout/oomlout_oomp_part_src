@@ -29,15 +29,21 @@ md5_10_upper: AF61D1DB12
 md5_5: af61d
 md5_5_upper: AF61D
 md5_6: af61d1
+md5_6_alpha: 6ucpd
+md5_6_alpha_upper: 6UCPD
 md5_6_upper: AF61D1
 name: Electronic Resistor 0402 75000 Ohm
 oomp_key: oomp_electronic_resistor_0402_75000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o753
 short_code_upper: R4O753
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

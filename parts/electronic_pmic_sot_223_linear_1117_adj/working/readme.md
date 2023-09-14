@@ -62,6 +62,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | CDC56 | 
 | md5_6 | cdc564 | 
 | md5_6_upper | CDC564 | 
+| md5_6_alpha | 811es | 
+| md5_6_alpha_upper | 811ES | 
 | md5_10 | cdc5644737 | 
 | md5_10_upper | CDC5644737 | 
 | type_first_letter | p | 

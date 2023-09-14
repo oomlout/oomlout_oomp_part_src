@@ -57,15 +57,21 @@ md5_10_upper: AE6B63BE42
 md5_5: ae6b6
 md5_5_upper: AE6B6
 md5_6: ae6b63
+md5_6_alpha: 6t00z
+md5_6_alpha_upper: 6T00Z
 md5_6_upper: AE6B63
 name: Electronic Resistor 0402 150 Ohm
 oomp_key: oomp_electronic_resistor_0402_150_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o151
 short_code_upper: R4O151
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

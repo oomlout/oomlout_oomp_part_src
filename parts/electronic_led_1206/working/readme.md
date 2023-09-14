@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 1206 Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 6216927724aa54d0807a6a8b918f128f | 
 | md5_5 | 62169 | 
 | md5_5_upper | 62169 | 
 | md5_6 | 621692 | 
 | md5_6_upper | 621692 | 
+| md5_6_alpha | 3ts42 | 
+| md5_6_alpha_upper | 3TS42 | 
 | md5_10 | 6216927724 | 
 | md5_10_upper | 6216927724 | 
 | type_first_letter | l | 

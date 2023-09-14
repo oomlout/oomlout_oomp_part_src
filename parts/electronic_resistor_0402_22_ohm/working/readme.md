@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O220 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0220TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF022-1TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0722RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 6475a296bea487c84aca85f43c15a4da | 
 | md5_5 | 6475a | 
 | md5_5_upper | 6475A | 
 | md5_6 | 6475a2 | 
 | md5_6_upper | 6475A2 | 
+| md5_6_alpha | 3x40y | 
+| md5_6_alpha_upper | 3X40Y | 
 | md5_10 | 6475a296be | 
 | md5_10_upper | 6475A296BE | 
 | type_first_letter | r | 

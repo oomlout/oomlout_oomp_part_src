@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0402 Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | d33b648a8a749fae6a9a74b760467fb2 | 
 | md5_5 | d33b6 | 
 | md5_5_upper | D33B6 | 
 | md5_6 | d33b64 | 
 | md5_6_upper | D33B64 | 
+| md5_6_alpha | 88pk4 | 
+| md5_6_alpha_upper | 88PK4 | 
 | md5_10 | d33b648a8a | 
 | md5_10_upper | D33B648A8A | 
 | type_first_letter | l | 

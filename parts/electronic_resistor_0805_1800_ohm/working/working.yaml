@@ -61,15 +61,21 @@ md5_10_upper: 70EADFC5FF
 md5_5: 70ead
 md5_5_upper: 70EAD
 md5_6: 70eadf
+md5_6_alpha: 4elzz
+md5_6_alpha_upper: 4ELZZ
 md5_6_upper: 70EADF
 name: Electronic Resistor 0805 1800 Ohm
 oomp_key: oomp_electronic_resistor_0805_1800_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o182
 short_code_upper: R8O182
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

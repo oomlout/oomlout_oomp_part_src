@@ -63,6 +63,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 6AB38 | 
 | md5_6 | 6ab38c | 
 | md5_6_upper | 6AB38C | 
+| md5_6_alpha | 45vnw | 
+| md5_6_alpha_upper | 45VNW | 
 | md5_10 | 6ab38cdcab | 
 | md5_10_upper | 6AB38CDCAB | 
 | type_first_letter | c | 

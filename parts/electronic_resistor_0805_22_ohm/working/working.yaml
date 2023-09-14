@@ -61,15 +61,21 @@ md5_10_upper: C33A61C68A
 md5_5: c33a6
 md5_5_upper: C33A6
 md5_6: c33a61
+md5_6_alpha: 7m89t
+md5_6_alpha_upper: 7M89T
 md5_6_upper: C33A61
 name: Electronic Resistor 0805 22 Ohm
 oomp_key: oomp_electronic_resistor_0805_22_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o220
 short_code_upper: R8O220
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -67,6 +67,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 1559B | 
 | md5_6 | 1559b8 | 
 | md5_6_upper | 1559B8 | 
+| md5_6_alpha | tznc | 
+| md5_6_alpha_upper | TZNC | 
 | md5_10 | 1559b840fa | 
 | md5_10_upper | 1559B840FA | 
 | type_first_letter | r | 

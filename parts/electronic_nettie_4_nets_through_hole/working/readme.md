@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | AC52A | 
 | md5_6 | ac52ab | 
 | md5_6_upper | AC52AB | 
+| md5_6_alpha | 6q20b | 
+| md5_6_alpha_upper | 6Q20B | 
 | md5_10 | ac52abec84 | 
 | md5_10_upper | AC52ABEC84 | 
 | type_first_letter | n | 

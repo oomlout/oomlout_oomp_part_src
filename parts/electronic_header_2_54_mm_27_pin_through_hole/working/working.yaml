@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_27_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_27_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working)<br>[hi127p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_27_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working)<br>[hi127pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm 27 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_27_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working)<br><br>'
 md5: 1753a864be6074ff3e2054afd0930a23
@@ -27,12 +27,14 @@ md5_10_upper: 1753A864BE
 md5_5: 1753a
 md5_5_upper: 1753A
 md5_6: 1753a8
+md5_6_alpha: wrl4
+md5_6_alpha_upper: WRL4
 md5_6_upper: 1753A8
 name: Electronic Header 2 54 Mm 27 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_27_pin_through_hole
 part_number: ''
-short_code: hi127p
-short_code_upper: HI127P
+short_code: hi127pth
+short_code_upper: HI127PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

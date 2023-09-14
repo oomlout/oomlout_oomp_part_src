@@ -61,15 +61,21 @@ md5_10_upper: FD1D4641DE
 md5_5: fd1d4
 md5_5_upper: FD1D4
 md5_6: fd1d46
+md5_6_alpha: 9vjgm
+md5_6_alpha_upper: 9VJGM
 md5_6_upper: FD1D46
 name: Electronic Resistor 1206 47 Ohm
 oomp_key: oomp_electronic_resistor_1206_47_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o470
 short_code_upper: R12O470
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

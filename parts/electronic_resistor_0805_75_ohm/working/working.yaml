@@ -33,15 +33,21 @@ md5_10_upper: 2235DFE0A5
 md5_5: 2235d
 md5_5_upper: 2235D
 md5_6: 2235df
+md5_6_alpha: 1c1y7
+md5_6_alpha_upper: 1C1Y7
 md5_6_upper: 2235DF
 name: Electronic Resistor 0805 75 Ohm
 oomp_key: oomp_electronic_resistor_0805_75_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o750
 short_code_upper: R8O750
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

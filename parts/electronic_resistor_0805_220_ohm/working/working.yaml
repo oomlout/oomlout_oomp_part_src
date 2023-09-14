@@ -61,15 +61,21 @@ md5_10_upper: 5B162AFF39
 md5_5: 5b162
 md5_5_upper: 5B162
 md5_6: 5b162a
+md5_6_alpha: 3jy22
+md5_6_alpha_upper: 3JY22
 md5_6_upper: 5B162A
 name: Electronic Resistor 0805 220 Ohm
 oomp_key: oomp_electronic_resistor_0805_220_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o221
 short_code_upper: R8O221
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

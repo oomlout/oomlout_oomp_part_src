@@ -33,15 +33,21 @@ md5_10_upper: 170868022B
 md5_5: '17086'
 md5_5_upper: '17086'
 md5_6: '170868'
+md5_6_alpha: wcq0
+md5_6_alpha_upper: WCQ0
 md5_6_upper: '170868'
 name: Electronic Resistor 1206 7500000 Ohm
 oomp_key: oomp_electronic_resistor_1206_7500000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o755
 short_code_upper: R12O755
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -29,15 +29,21 @@ md5_10_upper: A96F4931EA
 md5_5: a96f4
 md5_5_upper: A96F4
 md5_6: a96f49
+md5_6_alpha: 6lzyh
+md5_6_alpha_upper: 6LZYH
 md5_6_upper: A96F49
 name: Electronic Resistor 0402 330000 Ohm
 oomp_key: oomp_electronic_resistor_0402_330000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o334
 short_code_upper: R4O334
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

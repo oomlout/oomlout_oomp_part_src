@@ -33,9 +33,12 @@ md5_10_upper: B479A89F58
 md5_5: b479a
 md5_5_upper: B479A
 md5_6: b479a8
+md5_6_alpha: 71i94
+md5_6_alpha_upper: 71I94
 md5_6_upper: B479A8
 name: Electronic Led 1206 Blue
 oomp_key: oomp_electronic_led_1206_blue
+package_style: smd_tape
 part_number: ''
 short_code: l12l
 short_code_upper: L12L
@@ -43,6 +46,9 @@ short_name: 1206 Blue Led
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

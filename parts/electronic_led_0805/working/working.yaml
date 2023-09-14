@@ -33,9 +33,12 @@ md5_10_upper: 8D664D2DA6
 md5_5: 8d664
 md5_5_upper: 8D664
 md5_6: 8d664d
+md5_6_alpha: 5ima5
+md5_6_alpha_upper: 5IMA5
 md5_6_upper: 8D664D
 name: Electronic Led 0805
 oomp_key: oomp_electronic_led_0805
+package_style: smd_tape
 part_number: ''
 short_code: l8
 short_code_upper: L8
@@ -43,6 +46,9 @@ short_name: 0805 Led
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

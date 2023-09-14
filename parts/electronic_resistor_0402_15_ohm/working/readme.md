@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O150 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0150TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF015-1TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0715RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0715RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 4549d4cb03545b2d971f82f2e61049c2 | 
 | md5_5 | 4549d | 
 | md5_5_upper | 4549D | 
 | md5_6 | 4549d4 | 
 | md5_6_upper | 4549D4 | 
+| md5_6_alpha | 2pbro | 
+| md5_6_alpha_upper | 2PBRO | 
 | md5_10 | 4549d4cb03 | 
 | md5_10_upper | 4549D4CB03 | 
 | type_first_letter | r | 

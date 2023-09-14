@@ -10,7 +10,8 @@ def get_packaging(**kwargs):
 
     #make a pattern match dict for the part, take each element on oomp.names_of_main_elements if the part matches all the items then add the footprint to kwargs
 
-    ###### 0603
+    # standard tape
+    #      0603
     match = {}
     match["size"] = "0603"
     match["extra_data"] = []
@@ -22,8 +23,53 @@ def get_packaging(**kwargs):
     match["extra_data"].append({"key": "smd_tape_depth", 
                                 "value": "1_5_mm"})   
     match["extra_data"].append({"key": "smd_tape_pitch", 
-                                "value": "4_mm"})      
+                                "value": "4_mm"})       
     matches.append(match)
+    
+    
+    #      0805
+    import copy
+    match = copy.deepcopy(match)
+    match["size"] = "0805"
+    matches.append(match)
+
+    #      1206
+    match = copy.deepcopy(match)
+    match["size"] = "1206"
+    matches.append(match)
+
+    #      0402
+    match = copy.deepcopy(match)
+    match["size"] = "0402"
+    match["extra_data"] = []
+    #reference https://www.vishay.com/docs/20014/smdpack.pdf
+    match["extra_data"].append({"key": "package_style", 
+                                "value": "smd_tape"})    
+    match["extra_data"].append({"key": "smd_tape_width", 
+                                "value": "8_mm"})    
+    match["extra_data"].append({"key": "smd_tape_depth", 
+                                "value": "1_5_mm"})   
+    match["extra_data"].append({"key": "smd_tape_pitch", 
+                                "value": "2_mm"})       
+    matches.append(match)
+    
+    matches.append(match)
+
+    # button
+    match = {}
+    match["id"] = "electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount"
+    match["extra_data"] = []
+    #reference https://www.vishay.com/docs/20014/smdpack.pdf
+    match["extra_data"].append({"key": "package_style", 
+                                "value": "smd_tape"})    
+    match["extra_data"].append({"key": "smd_tape_width", 
+                                "value": "8_mm"})    
+    match["extra_data"].append({"key": "smd_tape_depth", 
+                                "value": "3_mm"})   
+    match["extra_data"].append({"key": "smd_tape_pitch", 
+                                "value": "8_mm"})  
+    matches.append(match)
+    standard_16mm_tape = copy.deepcopy(match)
 
     ###### ics
     match = {}
@@ -46,6 +92,22 @@ def get_packaging(**kwargs):
     match["extra_data"].append({"key": "package_style", 
                                 "value": "smd_tape"})    
     matches.append(match)
+
+    # header
+    match = {}
+    match["id"] = "electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle"
+    match["extra_data"] = []
+    #reference https://www.vishay.com/docs/20014/smdpack.pdf
+    match["extra_data"].append({"key": "package_style", 
+                                "value": "smd_tape"})    
+    match["extra_data"].append({"key": "smd_tape_width", 
+                                "value": "16_mm"})    
+    match["extra_data"].append({"key": "smd_tape_depth", 
+                                "value": "4_mm"})   
+    match["extra_data"].append({"key": "smd_tape_pitch", 
+                                "value": "4_mm"})       
+    matches.append(match)
+    
 
     ###### pmic
     match = {}

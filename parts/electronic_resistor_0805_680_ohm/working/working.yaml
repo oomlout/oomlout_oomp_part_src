@@ -61,15 +61,21 @@ md5_10_upper: 1081B5BF38
 md5_5: 1081b
 md5_5_upper: 1081B
 md5_6: 1081b5
+md5_6_alpha: n6ph
+md5_6_alpha_upper: N6PH
 md5_6_upper: 1081B5
 name: Electronic Resistor 0805 680 Ohm
 oomp_key: oomp_electronic_resistor_0805_680_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o681
 short_code_upper: R8O681
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

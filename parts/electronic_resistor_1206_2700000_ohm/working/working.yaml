@@ -33,15 +33,21 @@ md5_10_upper: 8BDA0179F4
 md5_5: 8bda0
 md5_5_upper: 8BDA0
 md5_6: 8bda01
+md5_6_alpha: 5gg01
+md5_6_alpha_upper: 5GG01
 md5_6_upper: 8BDA01
 name: Electronic Resistor 1206 2700000 Ohm
 oomp_key: oomp_electronic_resistor_1206_2700000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o275
 short_code_upper: R12O275
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -35,6 +35,8 @@ md5_10_upper: 67456919C3
 md5_5: '67456'
 md5_5_upper: '67456'
 md5_6: '674569'
+md5_6_alpha: 4127d
+md5_6_alpha_upper: 4127D
 md5_6_upper: '674569'
 name: Electronic Interposer Soic 14 Wide I2C Helicopter
 notes: []

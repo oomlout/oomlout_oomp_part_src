@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0402 Blue Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 22b454129ac0ad6c1c9401f368da8327 | 
 | md5_5 | 22b45 | 
 | md5_5_upper | 22B45 | 
 | md5_6 | 22b454 | 
 | md5_6_upper | 22B454 | 
+| md5_6_alpha | 1cqxg | 
+| md5_6_alpha_upper | 1CQXG | 
 | md5_10 | 22b454129a | 
 | md5_10_upper | 22B454129A | 
 | type_first_letter | l | 

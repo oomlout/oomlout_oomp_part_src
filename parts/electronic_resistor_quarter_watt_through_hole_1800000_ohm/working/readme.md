@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 2755C | 
 | md5_6 | 2755c1 | 
 | md5_6_upper | 2755C1 | 
+| md5_6_alpha | 1j935 | 
+| md5_6_alpha_upper | 1J935 | 
 | md5_10 | 2755c185c3 | 
 | md5_10_upper | 2755C185C3 | 
 | type_first_letter | r | 

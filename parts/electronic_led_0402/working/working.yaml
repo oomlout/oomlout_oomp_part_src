@@ -33,9 +33,12 @@ md5_10_upper: D33B648A8A
 md5_5: d33b6
 md5_5_upper: D33B6
 md5_6: d33b64
+md5_6_alpha: 88pk4
+md5_6_alpha_upper: 88PK4
 md5_6_upper: D33B64
 name: Electronic Led 0402
 oomp_key: oomp_electronic_led_0402
+package_style: smd_tape
 part_number: ''
 short_code: l4
 short_code_upper: L4
@@ -43,6 +46,9 @@ short_name: 0402 Led
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

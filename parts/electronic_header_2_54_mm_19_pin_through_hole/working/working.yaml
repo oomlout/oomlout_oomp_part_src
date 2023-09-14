@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_19_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[hi119p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[hi119pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm 19 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br><br>'
 md5: 19be57a3193f613b3a64bd4c892c230e
@@ -27,12 +27,14 @@ md5_10_upper: 19BE57A319
 md5_5: 19be5
 md5_5_upper: 19BE5
 md5_6: 19be57
+md5_6_alpha: 105sn
+md5_6_alpha_upper: 105SN
 md5_6_upper: 19BE57
 name: Electronic Header 2 54 Mm 19 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_19_pin_through_hole
 part_number: ''
-short_code: hi119p
-short_code_upper: HI119P
+short_code: hi119pth
+short_code_upper: HI119PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

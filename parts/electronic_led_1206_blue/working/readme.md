@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 1206 Blue Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | b479a89f585074b74fefdd18b419f86a | 
 | md5_5 | b479a | 
 | md5_5_upper | B479A | 
 | md5_6 | b479a8 | 
 | md5_6_upper | B479A8 | 
+| md5_6_alpha | 71i94 | 
+| md5_6_alpha_upper | 71I94 | 
 | md5_10 | b479a89f58 | 
 | md5_10_upper | B479A89F58 | 
 | type_first_letter | l | 

@@ -49,11 +49,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O274 | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | bdc83a47114ae7d6d35e99c914fc2f9a | 
 | md5_5 | bdc83 | 
 | md5_5_upper | BDC83 | 
 | md5_6 | bdc83a | 
 | md5_6_upper | BDC83A | 
+| md5_6_alpha | 7ekvu | 
+| md5_6_alpha_upper | 7EKVU | 
 | md5_10 | bdc83a4711 | 
 | md5_10_upper | BDC83A4711 | 
 | type_first_letter | r | 

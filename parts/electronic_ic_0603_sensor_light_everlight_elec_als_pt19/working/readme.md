@@ -67,6 +67,8 @@ List of Pins:
 | md5_5_upper | A899F | 
 | md5_6 | a899fa | 
 | md5_6_upper | A899FA | 
+| md5_6_alpha | 6kttm | 
+| md5_6_alpha_upper | 6KTTM | 
 | md5_10 | a899fa60e8 | 
 | md5_10_upper | A899FA60E8 | 
 | type_first_letter | i | 

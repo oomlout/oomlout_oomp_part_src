@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | EA44F | 
 | md5_6 | ea44f7 | 
 | md5_6_upper | EA44F7 | 
+| md5_6_alpha | 952if | 
+| md5_6_alpha_upper | 952IF | 
 | md5_10 | ea44f72624 | 
 | md5_10_upper | EA44F72624 | 
 | type_first_letter | r | 

@@ -64,6 +64,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 410F6 | 
 | md5_6 | 410f69 | 
 | md5_6_upper | 410F69 | 
+| md5_6_alpha | 2jdyh | 
+| md5_6_alpha_upper | 2JDYH | 
 | md5_10 | 410f696910 | 
 | md5_10_upper | 410F696910 | 
 | type_first_letter | l | 

@@ -54,11 +54,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R12O106 | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 6d9ae0df9157c82244ad12d08de69127 | 
 | md5_5 | 6d9ae | 
 | md5_5_upper | 6D9AE | 
 | md5_6 | 6d9ae0 | 
 | md5_6_upper | 6D9AE0 | 
+| md5_6_alpha | 49yhs | 
+| md5_6_alpha_upper | 49YHS | 
 | md5_10 | 6d9ae0df91 | 
 | md5_10_upper | 6D9AE0DF91 | 
 | type_first_letter | r | 

@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 1206 Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 27ecfb7045a092ae26a1371a4b28a62a | 
 | md5_5 | 27ecf | 
 | md5_5_upper | 27ECF | 
 | md5_6 | 27ecfb | 
 | md5_6_upper | 27ECFB | 
+| md5_6_alpha | 1k2yj | 
+| md5_6_alpha_upper | 1K2YJ | 
 | md5_10 | 27ecfb7045 | 
 | md5_10_upper | 27ECFB7045 | 
 | type_first_letter | l | 

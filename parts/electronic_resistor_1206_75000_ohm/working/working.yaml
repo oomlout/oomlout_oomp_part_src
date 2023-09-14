@@ -33,15 +33,21 @@ md5_10_upper: 83189E226F
 md5_5: '83189'
 md5_5_upper: '83189'
 md5_6: 83189e
+md5_6_alpha: 5459a
+md5_6_alpha_upper: 5459A
 md5_6_upper: 83189E
 name: Electronic Resistor 1206 75000 Ohm
 oomp_key: oomp_electronic_resistor_1206_75000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o753
 short_code_upper: R12O753
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

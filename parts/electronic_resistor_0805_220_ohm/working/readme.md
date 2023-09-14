@@ -58,11 +58,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R8O221 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0221T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F2200T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-07220RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07220RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 5b162aff3983302412c35d3a6a14a2a3 | 
 | md5_5 | 5b162 | 
 | md5_5_upper | 5B162 | 
 | md5_6 | 5b162a | 
 | md5_6_upper | 5B162A | 
+| md5_6_alpha | 3jy22 | 
+| md5_6_alpha_upper | 3JY22 | 
 | md5_10 | 5b162aff39 | 
 | md5_10_upper | 5B162AFF39 | 
 | type_first_letter | r | 

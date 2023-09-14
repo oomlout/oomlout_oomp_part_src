@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | E705C | 
 | md5_6 | e705cf | 
 | md5_6_upper | E705CF | 
+| md5_6_alpha | 90ibz | 
+| md5_6_alpha_upper | 90IBZ | 
 | md5_10 | e705cf7eb7 | 
 | md5_10_upper | E705CF7EB7 | 
 | type_first_letter | r | 

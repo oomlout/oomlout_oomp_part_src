@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O560 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0560TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF056-1TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0756RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0756RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | dae10787b183629e9ce36a37dec958ea | 
 | md5_5 | dae10 | 
 | md5_5_upper | DAE10 | 
 | md5_6 | dae107 | 
 | md5_6_upper | DAE107 | 
+| md5_6_alpha | 8jg93 | 
+| md5_6_alpha_upper | 8JG93 | 
 | md5_10 | dae10787b1 | 
 | md5_10_upper | DAE10787B1 | 
 | type_first_letter | r | 

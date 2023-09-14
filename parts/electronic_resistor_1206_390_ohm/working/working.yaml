@@ -61,15 +61,21 @@ md5_10_upper: 3892165C27
 md5_5: '38921'
 md5_5_upper: '38921'
 md5_6: '389216'
+md5_6_alpha: 27gnq
+md5_6_alpha_upper: 27GNQ
 md5_6_upper: '389216'
 name: Electronic Resistor 1206 390 Ohm
 oomp_key: oomp_electronic_resistor_1206_390_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o391
 short_code_upper: R12O391
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

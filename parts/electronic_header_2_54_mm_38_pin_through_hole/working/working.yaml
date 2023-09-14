@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_38_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working)<br>[hi138p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working)<br>[hi138pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm 38 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working)<br><br>'
 md5: 2baccbb1d9b84d516fc41cfd8a6c9d87
@@ -27,12 +27,14 @@ md5_10_upper: 2BACCBB1D9
 md5_5: 2bacc
 md5_5_upper: 2BACC
 md5_6: 2baccb
+md5_6_alpha: 1pcjv
+md5_6_alpha_upper: 1PCJV
 md5_6_upper: 2BACCB
 name: Electronic Header 2 54 Mm 38 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_38_pin_through_hole
 part_number: ''
-short_code: hi138p
-short_code_upper: HI138P
+short_code: hi138pth
+short_code_upper: HI138PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

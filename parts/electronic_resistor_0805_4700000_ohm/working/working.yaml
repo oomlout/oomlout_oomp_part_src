@@ -33,15 +33,21 @@ md5_10_upper: '9000327606'
 md5_5: '90003'
 md5_5_upper: '90003'
 md5_6: '900032'
+md5_6_alpha: 5m9te
+md5_6_alpha_upper: 5M9TE
 md5_6_upper: '900032'
 name: Electronic Resistor 0805 4700000 Ohm
 oomp_key: oomp_electronic_resistor_0805_4700000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o475
 short_code_upper: R8O475
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

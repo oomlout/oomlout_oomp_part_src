@@ -200,6 +200,10 @@ def add_part(**kwargs):
         parts_md5_5[kwargs["md5_5"]] = id
         kwargs["md5_6"] = kwargs["md5"][0:6]    
         kwargs["md5_6_upper"] = kwargs["md5_6"].upper()
+
+        kwargs["md5_6_alpha"] = hex_to_base36(kwargs["md5_6"])
+        kwargs["md5_6_alpha_upper"] = kwargs["md5_6_alpha"].upper()
+        
         parts_md5_6[kwargs["md5_6"]] = id
         kwargs["md5_10"] = kwargs["md5"][0:10]
         kwargs["md5_10_upper"] = kwargs["md5_10"].upper()
@@ -328,6 +332,19 @@ def add_part(**kwargs):
         parts[id] = kwargs
     else:
         print("    skipping part " + id)
+
+def hex_to_base36(hex_value):
+    # Convert the hex value to an integer
+    decimal_value = int(hex_value, 16)
+
+    # Encode the integer as base36
+    base36_value = ''
+    while decimal_value > 0:
+        decimal_value, remainder = divmod(decimal_value, 36)
+        base36_digit = '0123456789abcdefghijklmnopqrstuvwxyz'[remainder]
+        base36_value = base36_digit + base36_value
+
+    return base36_value
 
 
 def get_id(**kwargs):

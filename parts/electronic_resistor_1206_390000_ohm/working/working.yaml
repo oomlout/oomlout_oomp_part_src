@@ -33,15 +33,21 @@ md5_10_upper: C4A8F0D02D
 md5_5: c4a8f
 md5_5_upper: C4A8F
 md5_6: c4a8f0
+md5_6_alpha: 7o8og
+md5_6_alpha_upper: 7O8OG
 md5_6_upper: C4A8F0
 name: Electronic Resistor 1206 390000 Ohm
 oomp_key: oomp_electronic_resistor_1206_390000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o394
 short_code_upper: R12O394
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

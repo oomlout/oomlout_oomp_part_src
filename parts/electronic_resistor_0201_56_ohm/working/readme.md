@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | C487E | 
 | md5_6 | c487e5 | 
 | md5_6_upper | C487E5 | 
+| md5_6_alpha | 7o25h | 
+| md5_6_alpha_upper | 7O25H | 
 | md5_10 | c487e53883 | 
 | md5_10_upper | C487E53883 | 
 | type_first_letter | r | 

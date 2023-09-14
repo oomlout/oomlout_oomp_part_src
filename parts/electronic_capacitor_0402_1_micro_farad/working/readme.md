@@ -54,11 +54,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | C4UF1 | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 161ca70ef0437b6bc72debadd501c34f | 
 | md5_5 | 161ca | 
 | md5_5_upper | 161CA | 
 | md5_6 | 161ca7 | 
 | md5_6_upper | 161CA7 | 
+| md5_6_alpha | v25j | 
+| md5_6_alpha_upper | V25J | 
 | md5_10 | 161ca70ef0 | 
 | md5_10_upper | 161CA70EF0 | 
 | type_first_letter | c | 

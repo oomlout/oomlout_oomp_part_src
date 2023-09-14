@@ -33,9 +33,12 @@ md5_10_upper: FB973F6013
 md5_5: fb973
 md5_5_upper: FB973
 md5_6: fb973f
+md5_6_alpha: 9tef3
+md5_6_alpha_upper: 9TEF3
 md5_6_upper: FB973F
 name: Electronic Led 0805 Red
 oomp_key: oomp_electronic_led_0805_red
+package_style: smd_tape
 part_number: ''
 short_code: l8r
 short_code_upper: L8R
@@ -43,6 +46,9 @@ short_name: 0805 Red Led
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | FDA3D | 
 | md5_6 | fda3d0 | 
 | md5_6_upper | FDA3D0 | 
+| md5_6_alpha | 9wa1c | 
+| md5_6_alpha_upper | 9WA1C | 
 | md5_10 | fda3d02dab | 
 | md5_10_upper | FDA3D02DAB | 
 | type_first_letter | h | 

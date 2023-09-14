@@ -55,6 +55,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 6B262 | 
 | md5_6 | 6b2621 | 
 | md5_6_upper | 6B2621 | 
+| md5_6_alpha | 46iap | 
+| md5_6_alpha_upper | 46IAP | 
 | md5_10 | 6b2621821d | 
 | md5_10_upper | 6B2621821D | 
 | type_first_letter | l | 

@@ -61,6 +61,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | F8650 | 
 | md5_6 | f8650f | 
 | md5_6_upper | F8650F | 
+| md5_6_alpha | 9owsv | 
+| md5_6_alpha_upper | 9OWSV | 
 | md5_10 | f8650f316b | 
 | md5_10_upper | F8650F316B | 
 | type_first_letter | h | 

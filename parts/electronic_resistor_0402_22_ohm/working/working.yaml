@@ -57,15 +57,21 @@ md5_10_upper: 6475A296BE
 md5_5: 6475a
 md5_5_upper: 6475A
 md5_6: 6475a2
+md5_6_alpha: 3x40y
+md5_6_alpha_upper: 3X40Y
 md5_6_upper: 6475A2
 name: Electronic Resistor 0402 22 Ohm
 oomp_key: oomp_electronic_resistor_0402_22_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o220
 short_code_upper: R4O220
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

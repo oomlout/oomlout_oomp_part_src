@@ -19,7 +19,10 @@ def main(** kwargs):
                 import shutil
                 #remove double slashes
                 directory_item_src = directory_item_src.replace("//","/")
-                shutil.copytree(directory_item_src, directory_item_dst, dirs_exist_ok=True)
+                try:
+                    shutil.copytree(directory_item_src, directory_item_dst, dirs_exist_ok=True)
+                except:
+                    print(f"Error copying {directory_item_src} to {directory_item_dst}")
                 print(f"copied {directory_item_src} to {directory_item_dst}")
                 count += 1
 

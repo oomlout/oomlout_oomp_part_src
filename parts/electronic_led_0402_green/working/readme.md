@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0402 Green Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | fcfe4f59874d0faff0697e455e42d253 | 
 | md5_5 | fcfe4 | 
 | md5_5_upper | FCFE4 | 
 | md5_6 | fcfe4f | 
 | md5_6_upper | FCFE4F | 
+| md5_6_alpha | 9vdcf | 
+| md5_6_alpha_upper | 9VDCF | 
 | md5_10 | fcfe4f5987 | 
 | md5_10_upper | FCFE4F5987 | 
 | type_first_letter | l | 

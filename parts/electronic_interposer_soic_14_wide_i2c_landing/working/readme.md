@@ -115,6 +115,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 3CF65 | 
 | md5_6 | 3cf65e | 
 | md5_6_upper | 3CF65E | 
+| md5_6_alpha | 2dmqm | 
+| md5_6_alpha_upper | 2DMQM | 
 | md5_10 | 3cf65e88ee | 
 | md5_10_upper | 3CF65E88EE | 
 | type_first_letter | i | 

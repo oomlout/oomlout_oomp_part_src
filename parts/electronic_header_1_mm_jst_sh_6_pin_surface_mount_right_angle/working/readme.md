@@ -61,6 +61,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | A5FCB | 
 | md5_6 | a5fcbe | 
 | md5_6_upper | A5FCBE | 
+| md5_6_alpha | 6h5mm | 
+| md5_6_alpha_upper | 6H5MM | 
 | md5_10 | a5fcbe77cc | 
 | md5_10_upper | A5FCBE77CC | 
 | type_first_letter | h | 

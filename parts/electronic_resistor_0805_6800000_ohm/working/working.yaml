@@ -33,15 +33,21 @@ md5_10_upper: AE3FA2BA5C
 md5_5: ae3fa
 md5_5_upper: AE3FA
 md5_6: ae3fa2
+md5_6_alpha: 6srdu
+md5_6_alpha_upper: 6SRDU
 md5_6_upper: AE3FA2
 name: Electronic Resistor 0805 6800000 Ohm
 oomp_key: oomp_electronic_resistor_0805_6800000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o685
 short_code_upper: R8O685
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -1,87 +1,57 @@
 parts_ordered_oomp:
-- csv_lcsc: C966924,STK8321,SENSORTEK,,LGA-12(2x2)," LGA-12(2x2)  Attitude Sensor/Gyroscope
-    ROHS",YES,12,1\1,0.351600,4.22
-  index: '1'
+- index: '1'
   oomp_id: oomp_electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321
   part_number_distributor: C966924
   price_paid: $0.3516
   quantity: '12'
-- csv_lcsc: C146233,ALS-PT19-315C/L177/TR8,Everlight Elec,,0603," 0603  Ambient Light
-    Sensors ROHS",YES,10,5\5,0.112700,1.13
-  index: '2'
+- index: '2'
   oomp_id: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
   part_number_distributor: C146233
   price_paid: $0.1127
   quantity: '10'
-- csv_lcsc: "C5349953,XL-1010RGBC-WS2812B,XINGLIGHT,,1010,Colorless transparence -40\xE2\
-    \u201E\u0192~+150\xE2\u201E\u0192 \xE6\xAD\xA3\xE8\xB4\xB4 RGB 120\xC2\xB0 1010\
-    \  Light Emitting Diodes (LED) ROHS,YES,10,10\\10,0.062300,0.62"
-  index: '3'
+- index: '3'
   oomp_id: oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
   part_number_distributor: C5349953
   price_paid: $0.0623
   quantity: '10'
-- csv_lcsc: "C105428,RC0603JR-074K7L,YAGEO,,0603,100mW Thick Film Resistors \xC2\xB1\
-    100ppm/\xE2\u201E\u0192 \xC2\xB15% 4.7k\xCE\xA9 0603  Chip Resistor - Surface\
-    \ Mount ROHS,YES,5000,100\\100,0.000700,3.50"
-  index: '4'
+- index: '4'
   oomp_id: oomp_electronic_resistor_0603_4700_ohm
   part_number_distributor: C105428
   price_paid: $0.0007
   quantity: '5000'
-- csv_lcsc: C92489,BME280,Bosch Sensortec,,LGA-8," LGA-8  Temperature and Humidity
-    Sensor ROHS",YES,2,1\1,3.644800,7.29
-  index: '5'
+- index: '5'
   oomp_id: oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
   part_number_distributor: C92489
   price_paid: $3.6448
   quantity: '2'
-- csv_lcsc: C2906270,1.0-4P WT,SHOU HAN,,"SMD,P=1mm","1x4P 1 1mm Male pin 4 Surface
-    Mount SMD,P=1mm  Wire To Board / Wire To Wire Connector ROHS",YES,100,10\10,0.032000,3.20
-  index: '6'
+- index: '6'
   oomp_id: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
   part_number_distributor: C2906270
   price_paid: $0.032
   quantity: '100'
-- csv_lcsc: "C99198,RC0603JR-0710KL,YAGEO,,0603,100mW Thick Film Resistors \xC2\xB1\
-    100ppm/\xE2\u201E\u0192 \xC2\xB15% 10k\xCE\xA9 0603  Chip Resistor - Surface Mount\
-    \ ROHS,YES,5000,100\\100,0.000700,3.50"
-  index: '7'
+- index: '7'
   oomp_id: oomp_electronic_resistor_0603_10000_ohm
   part_number_distributor: C99198
   price_paid: $0.0007
   quantity: '5000'
 parts_ordered_oomp_markdown: "| index | oomp_id | quantity | part_number_distributor\
-  \ | price_paid | csv_lcsc | \n| --- | --- | --- | --- | --- | --- | \n| 1 | [electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC\
+  \ | price_paid | \n| --- | --- | --- | --- | --- | \n| 1 | [electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC\
   \ - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)\
-  \ | 12 | C966924 | $0.3516 | C966924,STK8321,SENSORTEK,,LGA-12(2x2),\" LGA-12(2x2)\
-  \  Attitude Sensor/Gyroscope ROHS\",YES,12,1\\1,0.351600,4.22 | \n| 2 | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC\
+  \ | 12 | C966924 | $0.3516 | \n| 2 | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC\
   \ - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec\
   \ - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)\
-  \ | 10 | C146233 | $0.1127 | C146233,ALS-PT19-315C/L177/TR8,Everlight Elec,,0603,\"\
-  \ 0603  Ambient Light Sensors ROHS\",YES,10,5\\5,0.112700,1.13 | \n| 3 | [electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br>\
-  \ | 10 | C5349953 | $0.0623 | C5349953,XL-1010RGBC-WS2812B,XINGLIGHT,,1010,Colorless\
-  \ transparence -40\xE2\u201E\u0192~+150\xE2\u201E\u0192 \xE6\xAD\xA3\xE8\xB4\xB4\
-  \ RGB 120\xC2\xB0 1010  Light Emitting Diodes (LED) ROHS,YES,10,10\\10,0.062300,0.62\
-  \ | \n| 4 | [electronic_resistor_0603_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_4700_ohm/working)<br>[LCSC\
-  \ - C25999<br>](https://lcsc.com/product-detail/C25999.html)[LCSC - C105428<br>](https://lcsc.com/product-detail/C105428.html)<br>[Uniroyal\
+  \ | 10 | C146233 | $0.1127 | \n| 3 | [electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br>\
+  \ | 10 | C5349953 | $0.0623 | \n| 4 | [electronic_resistor_0603_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_4700_ohm/working)<br><br>[Uniroyal\
   \ - 0603WAJ0472T5E- not in jlc basic parts]()[Uniroyal - 0603WAF4701T5E- jlc basic\
   \ part]()[Yageo - RC0603JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-074K7L)\
-  \ | 5000 | C105428 | $0.0007 | C105428,RC0603JR-074K7L,YAGEO,,0603,100mW Thick Film\
-  \ Resistors \xC2\xB1100ppm/\xE2\u201E\u0192 \xC2\xB15% 4.7k\xCE\xA9 0603  Chip Resistor\
-  \ - Surface Mount ROHS,YES,5000,100\\100,0.000700,3.50 | \n| 5 | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC\
+  \ | 5000 | C105428 | $0.0007 | \n| 5 | [electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC\
   \ - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>[Bosch - BME280](https://www.sensortek.com.tw/index.php/en/products/mems-sensor/)\
-  \ | 2 | C92489 | $3.6448 | C92489,BME280,Bosch Sensortec,,LGA-8,\" LGA-8  Temperature\
-  \ and Humidity Sensor ROHS\",YES,2,1\\1,3.644800,7.29 | \n| 6 | [electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[LCSC\
+  \ | 2 | C92489 | $3.6448 | \n| 6 | [electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working)<br>[LCSC\
   \ - C145956<br>](https://lcsc.com/product-detail/C145956.html)[LCSC - C2906270<br>](https://lcsc.com/product-detail/C2906270.html)<br>[JST\
   \ - SM04B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) | 100 |\
-  \ C2906270 | $0.032 | C2906270,1.0-4P WT,SHOU HAN,,\"SMD,P=1mm\",\"1x4P 1 1mm Male\
-  \ pin 4 Surface Mount SMD,P=1mm  Wire To Board / Wire To Wire Connector ROHS\",YES,100,10\\\
-  10,0.032000,3.20 | \n| 7 | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC\
-  \ - C98220<br>](https://lcsc.com/product-detail/C98220.html)[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC\
-  \ - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal\
-  \ - 0603WAJ0103T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic\
-  \ part]()[Yageo - RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL)\
-  \ | 5000 | C99198 | $0.0007 | C99198,RC0603JR-0710KL,YAGEO,,0603,100mW Thick Film\
-  \ Resistors \xC2\xB1100ppm/\xE2\u201E\u0192 \xC2\xB15% 10k\xCE\xA9 0603  Chip Resistor\
-  \ - Surface Mount ROHS,YES,5000,100\\100,0.000700,3.50 | \n"
+  \ C2906270 | $0.032 | \n| 7 | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC\
+  \ - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC\
+  \ - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal - 0603WAJ0103T5E-\
+  \ not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic part]()[Yageo -\
+  \ RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL)\
+  \ | 5000 | C99198 | $0.0007 | \n"

@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_22_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_22_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[hi122p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_22_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[hi122pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm 22 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_22_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br><br>'
 md5: 69a80baa2604e37d2c35b210adbf2b0e
@@ -27,12 +27,14 @@ md5_10_upper: 69A80BAA26
 md5_5: 69a80
 md5_5_upper: 69A80
 md5_6: 69a80b
+md5_6_alpha: 44etn
+md5_6_alpha_upper: 44ETN
 md5_6_upper: 69A80B
 name: Electronic Header 2 54 Mm 22 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_22_pin_through_hole
 part_number: ''
-short_code: hi122p
-short_code_upper: HI122P
+short_code: hi122pth
+short_code_upper: HI122PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

@@ -33,9 +33,12 @@ md5_10_upper: B55EDC6836
 md5_5: b55ed
 md5_5_upper: B55ED
 md5_6: b55edc
+md5_6_alpha: 72rj0
+md5_6_alpha_upper: 72RJ0
 md5_6_upper: B55EDC
 name: Electronic Led 1206 Red
 oomp_key: oomp_electronic_led_1206_red
+package_style: smd_tape
 part_number: ''
 short_code: l12r
 short_code_upper: L12R
@@ -43,6 +46,9 @@ short_name: 1206 Red Led
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

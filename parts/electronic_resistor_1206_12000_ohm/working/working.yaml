@@ -61,15 +61,21 @@ md5_10_upper: 2D38533070
 md5_5: 2d385
 md5_5_upper: 2D385
 md5_6: 2d3853
+md5_6_alpha: 1rioj
+md5_6_alpha_upper: 1RIOJ
 md5_6_upper: 2D3853
 name: Electronic Resistor 1206 12000 Ohm
 oomp_key: oomp_electronic_resistor_1206_12000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o123
 short_code_upper: R12O123
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

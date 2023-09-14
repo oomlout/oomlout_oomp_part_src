@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | CA012 | 
 | md5_6 | ca0122 | 
 | md5_6_upper | CA0122 | 
+| md5_6_alpha | 7vqxu | 
+| md5_6_alpha_upper | 7VQXU | 
 | md5_10 | ca01223881 | 
 | md5_10_upper | CA01223881 | 
 | type_first_letter | c | 

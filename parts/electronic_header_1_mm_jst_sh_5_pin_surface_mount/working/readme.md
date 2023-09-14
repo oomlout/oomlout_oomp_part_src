@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | C820E | 
 | md5_6 | c820e7 | 
 | md5_6_upper | C820E7 | 
+| md5_6_alpha | 7t42v | 
+| md5_6_alpha_upper | 7T42V | 
 | md5_10 | c820e730a0 | 
 | md5_10_upper | C820E730A0 | 
 | type_first_letter | h | 

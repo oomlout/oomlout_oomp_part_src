@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | FB757 | 
 | md5_6 | fb7574 | 
 | md5_6_upper | FB7574 | 
+| md5_6_alpha | 9t7qs | 
+| md5_6_alpha_upper | 9T7QS | 
 | md5_10 | fb7574c9e7 | 
 | md5_10_upper | FB7574C9E7 | 
 | type_first_letter | h | 

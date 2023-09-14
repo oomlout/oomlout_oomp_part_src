@@ -58,11 +58,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R8O222 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0222T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F2201T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-072K2L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-072K2L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | c20cc43324d6079bb754f4e66a98df43 | 
 | md5_5 | c20cc | 
 | md5_5_upper | C20CC | 
 | md5_6 | c20cc4 | 
 | md5_6_upper | C20CC4 | 
+| md5_6_alpha | 7kkp0 | 
+| md5_6_alpha_upper | 7KKP0 | 
 | md5_10 | c20cc43324 | 
 | md5_10_upper | C20CC43324 | 
 | type_first_letter | r | 

@@ -63,6 +63,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | FA680 | 
 | md5_6 | fa6800 | 
 | md5_6_upper | FA6800 | 
+| md5_6_alpha | 9rqio | 
+| md5_6_alpha_upper | 9RQIO | 
 | md5_10 | fa68001dc0 | 
 | md5_10_upper | FA68001DC0 | 
 | type_first_letter | r | 

@@ -58,11 +58,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R8O272 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0272T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F2701T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-072K7L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-072K7L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | e2a6cb282a0ae5141a58cf1ad664fc7f | 
 | md5_5 | e2a6c | 
 | md5_5_upper | E2A6C | 
 | md5_6 | e2a6cb | 
 | md5_6_upper | E2A6CB | 
+| md5_6_alpha | 8udaj | 
+| md5_6_alpha_upper | 8UDAJ | 
 | md5_10 | e2a6cb282a | 
 | md5_10_upper | E2A6CB282A | 
 | type_first_letter | r | 

@@ -58,11 +58,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R8O273 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0805W8J0273T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0805W8F2702T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0805JR-0727KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0727KL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | ee6333676e00dc2ea8b51fbee04ad578 | 
 | md5_5 | ee633 | 
 | md5_5_upper | EE633 | 
 | md5_6 | ee6333 | 
 | md5_6_upper | EE6333 | 
+| md5_6_alpha | 9aur7 | 
+| md5_6_alpha_upper | 9AUR7 | 
 | md5_10 | ee6333676e | 
 | md5_10_upper | EE6333676E | 
 | type_first_letter | r | 

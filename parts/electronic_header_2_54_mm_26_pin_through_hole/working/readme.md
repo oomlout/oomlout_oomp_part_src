@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_26_pin_through_hole 
-* short_code: hi126p
+* short_code: hi126pth
 * md5_6: 2e772c  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_26_pin_through_hole | 
 | name | Electronic Header 2 54 Mm 26 Pin Through Hole | 
-| short_code | hi126p | 
-| short_code_upper | HI126P | 
+| short_code | hi126pth | 
+| short_code_upper | HI126PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 2e772c6cebee5d091cc025949659beb1 | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 2E772 | 
 | md5_6 | 2e772c | 
 | md5_6_upper | 2E772C | 
+| md5_6_alpha | 1t9nw | 
+| md5_6_alpha_upper | 1T9NW | 
 | md5_10 | 2e772c6ceb | 
 | md5_10_upper | 2E772C6CEB | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 26 | 
 | description_or_color | 26 | 
 | description_or_color_upper | 26 | 
-| markdown_full | [electronic_header_2_54_mm_26_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br>[hi126p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 26 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_26_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br>[hi126pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 26 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_26_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x26_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x26_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x26_pin//working/working.kicad_sym'}] | 

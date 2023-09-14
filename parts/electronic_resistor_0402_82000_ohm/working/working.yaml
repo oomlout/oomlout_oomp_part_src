@@ -57,15 +57,21 @@ md5_10_upper: 02AF000102
 md5_5: 02af0
 md5_5_upper: 02AF0
 md5_6: 02af00
+md5_6_alpha: 3rpc
+md5_6_alpha_upper: 3RPC
 md5_6_upper: 02AF00
 name: Electronic Resistor 0402 82000 Ohm
 oomp_key: oomp_electronic_resistor_0402_82000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o823
 short_code_upper: R4O823
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

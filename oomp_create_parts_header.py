@@ -19,7 +19,7 @@ def load_parts(**kwargs):
     # add 1- 40 _pin
     for pin_count in range(1, 41):
         part_details["description_main"].append(f"{pin_count}_pin")
-    part_details["description_extra"] = ["right_angle","surface_mount","through_hole","surface_mount_right_angle"]
+    part_details["description_extra"] = ["right_angle","surface_mount","through_hole","surface_mount_right_angle","through_hole_right_angle"]
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
     part_details["kicad_reference"] = "J"
@@ -44,7 +44,7 @@ def load_parts(**kwargs):
     #add the part to the list of parts
     parts.append(part_details)
     """
-    
+
     ###### jst
     #      2_5 xh
     part_details = {}

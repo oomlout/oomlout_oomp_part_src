@@ -105,6 +105,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 0F210 | 
 | md5_6 | 0f2103 | 
 | md5_6_upper | 0F2103 | 
+| md5_6_alpha | l91f | 
+| md5_6_alpha_upper | L91F | 
 | md5_10 | 0f210323ca | 
 | md5_10_upper | 0F210323CA | 
 | type_first_letter | i | 

@@ -33,15 +33,21 @@ md5_10_upper: 6AB82773A0
 md5_5: 6ab82
 md5_5_upper: 6AB82
 md5_6: 6ab827
+md5_6_alpha: 45wkn
+md5_6_alpha_upper: 45WKN
 md5_6_upper: 6AB827
 name: Electronic Capacitor 0402 10 Nano Farad
 oomp_key: oomp_electronic_capacitor_0402_10_nano_farad
+package_style: smd_tape
 part_number: ''
 short_code: c4nf10
 short_code_upper: C4NF10
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c

@@ -57,15 +57,21 @@ md5_10_upper: C8A2F5C8D2
 md5_5: c8a2f
 md5_5_upper: C8A2F
 md5_6: c8a2f5
+md5_6_alpha: 7ttrp
+md5_6_alpha_upper: 7TTRP
 md5_6_upper: C8A2F5
 name: Electronic Resistor 0402 68 Ohm
 oomp_key: oomp_electronic_resistor_0402_68_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o680
 short_code_upper: R4O680
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_40_pin_through_hole 
-* short_code: hi140p
+* short_code: hi140pth
 * md5_6: b6966b  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_40_pin_through_hole | 
 | name | Electronic Header 2 54 Mm 40 Pin Through Hole | 
-| short_code | hi140p | 
-| short_code_upper | HI140P | 
+| short_code | hi140pth | 
+| short_code_upper | HI140PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | b6966b1b6e16a44a2abb887df334e17a | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | B6966 | 
 | md5_6 | b6966b | 
 | md5_6_upper | B6966B | 
+| md5_6_alpha | 74h2j | 
+| md5_6_alpha_upper | 74H2J | 
 | md5_10 | b6966b1b6e | 
 | md5_10_upper | B6966B1B6E | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 40 | 
 | description_or_color | 40 | 
 | description_or_color_upper | 40 | 
-| markdown_full | [electronic_header_2_54_mm_40_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br>[hi140p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 40 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_40_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br>[hi140pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 40 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_40_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x40_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x40_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x40_pin//working/working.kicad_sym'}] | 

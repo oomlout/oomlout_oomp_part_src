@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_25_pin_through_hole 
-* short_code: hi125p
+* short_code: hi125pth
 * md5_6: 2f66dc  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_25_pin_through_hole | 
 | name | Electronic Header 2 54 Mm 25 Pin Through Hole | 
-| short_code | hi125p | 
-| short_code_upper | HI125P | 
+| short_code | hi125pth | 
+| short_code_upper | HI125PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 2f66dc866c33d4854f1193cb6bfa2a76 | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 2F66D | 
 | md5_6 | 2f66dc | 
 | md5_6_upper | 2F66DC | 
+| md5_6_alpha | 1ul0c | 
+| md5_6_alpha_upper | 1UL0C | 
 | md5_10 | 2f66dc866c | 
 | md5_10_upper | 2F66DC866C | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 25 | 
 | description_or_color | 25 | 
 | description_or_color_upper | 25 | 
-| markdown_full | [electronic_header_2_54_mm_25_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br>[hi125p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 25 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_25_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br>[hi125pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 25 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_25_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x25_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x25_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x25_pin//working/working.kicad_sym'}] | 

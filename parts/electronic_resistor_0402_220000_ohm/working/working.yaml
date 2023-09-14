@@ -29,15 +29,21 @@ md5_10_upper: 437E6915D5
 md5_5: 437e6
 md5_5_upper: 437E6
 md5_6: 437e69
+md5_6_alpha: 2mt0p
+md5_6_alpha_upper: 2MT0P
 md5_6_upper: 437E69
 name: Electronic Resistor 0402 220000 Ohm
 oomp_key: oomp_electronic_resistor_0402_220000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o224
 short_code_upper: R4O224
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

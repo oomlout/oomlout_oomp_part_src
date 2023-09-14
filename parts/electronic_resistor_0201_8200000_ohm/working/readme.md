@@ -54,6 +54,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | DAC5F | 
 | md5_6 | dac5f2 | 
 | md5_6_upper | DAC5F2 | 
+| md5_6_alpha | 8jawi | 
+| md5_6_alpha_upper | 8JAWI | 
 | md5_10 | dac5f2f829 | 
 | md5_10_upper | DAC5F2F829 | 
 | type_first_letter | r | 

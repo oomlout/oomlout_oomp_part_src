@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | FE25A | 
 | md5_6 | fe25a7 | 
 | md5_6_upper | FE25A7 | 
+| md5_6_alpha | 9wzon | 
+| md5_6_alpha_upper | 9WZON | 
 | md5_10 | fe25a7f8c4 | 
 | md5_10_upper | FE25A7F8C4 | 
 | type_first_letter | h | 

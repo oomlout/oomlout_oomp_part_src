@@ -179,6 +179,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 0C8A1 | 
 | md5_6 | 0c8a1b | 
 | md5_6_upper | 0C8A1B | 
+| md5_6_alpha | hm3f | 
+| md5_6_alpha_upper | HM3F | 
 | md5_10 | 0c8a1b6a67 | 
 | md5_10_upper | 0C8A1B6A67 | 
 | type_first_letter | b | 

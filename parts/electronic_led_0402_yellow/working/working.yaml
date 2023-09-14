@@ -33,9 +33,12 @@ md5_10_upper: 115C9CEB12
 md5_5: 115c9
 md5_5_upper: 115C9
 md5_6: 115c9c
+md5_6_alpha: ody4
+md5_6_alpha_upper: ODY4
 md5_6_upper: 115C9C
 name: Electronic Led 0402 Yellow
 oomp_key: oomp_electronic_led_0402_yellow
+package_style: smd_tape
 part_number: ''
 short_code: l4y
 short_code_upper: L4Y
@@ -43,6 +46,9 @@ short_name: 0402 Yellow Led
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

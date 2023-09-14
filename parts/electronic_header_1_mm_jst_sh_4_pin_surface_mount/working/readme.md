@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | A679E | 
 | md5_6 | a679e8 | 
 | md5_6_upper | A679E8 | 
+| md5_6_alpha | 6huco | 
+| md5_6_alpha_upper | 6HUCO | 
 | md5_10 | a679e860a8 | 
 | md5_10_upper | A679E860A8 | 
 | type_first_letter | h | 

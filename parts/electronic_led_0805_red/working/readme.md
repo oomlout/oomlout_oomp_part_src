@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0805 Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | fb973f60131a78a8c7072cbdb940a30b | 
 | md5_5 | fb973 | 
 | md5_5_upper | FB973 | 
 | md5_6 | fb973f | 
 | md5_6_upper | FB973F | 
+| md5_6_alpha | 9tef3 | 
+| md5_6_alpha_upper | 9TEF3 | 
 | md5_10 | fb973f6013 | 
 | md5_10_upper | FB973F6013 | 
 | type_first_letter | l | 

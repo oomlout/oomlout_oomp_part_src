@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | E1AFA | 
 | md5_6 | e1afa2 | 
 | md5_6_upper | E1AFA2 | 
+| md5_6_alpha | 8t0gy | 
+| md5_6_alpha_upper | 8T0GY | 
 | md5_10 | e1afa25b48 | 
 | md5_10_upper | E1AFA25B48 | 
 | type_first_letter | r | 

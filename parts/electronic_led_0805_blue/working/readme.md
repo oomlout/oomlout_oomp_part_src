@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0805 Blue Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 5b158c0d2eb94016b924a7e2a0befe8b | 
 | md5_5 | 5b158 | 
 | md5_5_upper | 5B158 | 
 | md5_6 | 5b158c | 
 | md5_6_upper | 5B158C | 
+| md5_6_alpha | 3jxxo | 
+| md5_6_alpha_upper | 3JXXO | 
 | md5_10 | 5b158c0d2e | 
 | md5_10_upper | 5B158C0D2E | 
 | type_first_letter | l | 

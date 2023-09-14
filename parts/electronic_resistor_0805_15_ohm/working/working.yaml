@@ -61,15 +61,21 @@ md5_10_upper: 78F49120ED
 md5_5: 78f49
 md5_5_upper: 78F49
 md5_6: 78f491
+md5_6_alpha: 4pwgh
+md5_6_alpha_upper: 4PWGH
 md5_6_upper: 78F491
 name: Electronic Resistor 0805 15 Ohm
 oomp_key: oomp_electronic_resistor_0805_15_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o150
 short_code_upper: R8O150
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

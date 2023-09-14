@@ -61,15 +61,21 @@ md5_10_upper: EE6333676E
 md5_5: ee633
 md5_5_upper: EE633
 md5_6: ee6333
+md5_6_alpha: 9aur7
+md5_6_alpha_upper: 9AUR7
 md5_6_upper: EE6333
 name: Electronic Resistor 0805 27000 Ohm
 oomp_key: oomp_electronic_resistor_0805_27000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o273
 short_code_upper: R8O273
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -16,8 +16,8 @@
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working",
     "directory": "parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole",
     "name": "Electronic Header 2 54 Mm Dual Row 2X7 Dual Row 14 Pin Through Hole",
-    "short_code": "hi12x7p",
-    "short_code_upper": "HI12X7P",
+    "short_code": "hi12x7pth",
+    "short_code_upper": "HI12X7PTH",
     "distributors": [],
     "manufacturers": [],
     "md5": "683a6b09090c0a24cb3393da40be557c",
@@ -25,6 +25,8 @@
     "md5_5_upper": "683A6",
     "md5_6": "683a6b",
     "md5_6_upper": "683A6B",
+    "md5_6_alpha": "42eln",
+    "md5_6_alpha_upper": "42ELN",
     "md5_10": "683a6b0909",
     "md5_10_upper": "683A6B0909",
     "type_first_letter": "h",
@@ -38,6 +40,6 @@
     "description_only_numbers_short": "2k7",
     "description_or_color": "2k7",
     "description_or_color_upper": "2K7",
-    "markdown_full": "[electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br>[hi12x7p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br>[Electronic Header 2 54 Mm Dual Row 2X7 Dual Row 14 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br><br>",
+    "markdown_full": "[electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br>[hi12x7pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br>[Electronic Header 2 54 Mm Dual Row 2X7 Dual Row 14 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br><br>",
     "markdown_short": "[electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_through_hole/working)<br><br>"
 }

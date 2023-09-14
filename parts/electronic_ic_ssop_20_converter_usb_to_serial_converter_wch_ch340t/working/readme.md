@@ -140,6 +140,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | E0722 | 
 | md5_6 | e07223 | 
 | md5_6_upper | E07223 | 
+| md5_6_alpha | 8r9r7 | 
+| md5_6_alpha_upper | 8R9R7 | 
 | md5_10 | e07223f344 | 
 | md5_10_upper | E07223F344 | 
 | type_first_letter | i | 

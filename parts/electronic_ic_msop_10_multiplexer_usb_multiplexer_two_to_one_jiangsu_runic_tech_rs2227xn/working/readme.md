@@ -100,6 +100,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 3A100 | 
 | md5_6 | 3a1002 | 
 | md5_6_upper | 3A1002 | 
+| md5_6_alpha | 29k3m | 
+| md5_6_alpha_upper | 29K3M | 
 | md5_10 | 3a10020ea9 | 
 | md5_10_upper | 3A10020EA9 | 
 | type_first_letter | i | 

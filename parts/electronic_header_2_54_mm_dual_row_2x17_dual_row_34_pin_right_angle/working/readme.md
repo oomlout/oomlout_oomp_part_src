@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | CAD60 | 
 | md5_6 | cad60d | 
 | md5_6_upper | CAD60D | 
+| md5_6_alpha | 7wwzx | 
+| md5_6_alpha_upper | 7WWZX | 
 | md5_10 | cad60dc753 | 
 | md5_10_upper | CAD60DC753 | 
 | type_first_letter | h | 

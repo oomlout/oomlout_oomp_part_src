@@ -54,6 +54,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 4DACA | 
 | md5_6 | 4daca6 | 
 | md5_6_upper | 4DACA6 | 
+| md5_6_alpha | 313ty | 
+| md5_6_alpha_upper | 313TY | 
 | md5_10 | 4daca60a98 | 
 | md5_10_upper | 4DACA60A98 | 
 | type_first_letter | r | 

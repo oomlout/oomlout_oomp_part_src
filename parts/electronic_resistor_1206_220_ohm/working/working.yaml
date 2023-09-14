@@ -61,15 +61,21 @@ md5_10_upper: 459CF37186
 md5_5: 459cf
 md5_5_upper: 459CF
 md5_6: 459cf3
+md5_6_alpha: 2ps6r
+md5_6_alpha_upper: 2PS6R
 md5_6_upper: 459CF3
 name: Electronic Resistor 1206 220 Ohm
 oomp_key: oomp_electronic_resistor_1206_220_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o221
 short_code_upper: R12O221
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

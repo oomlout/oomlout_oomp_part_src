@@ -29,15 +29,21 @@ md5_10_upper: BD66FD113A
 md5_5: bd66f
 md5_5_upper: BD66F
 md5_6: bd66fd
+md5_6_alpha: 7e1od
+md5_6_alpha_upper: 7E1OD
 md5_6_upper: BD66FD
 name: Electronic Resistor 0402 8200000 Ohm
 oomp_key: oomp_electronic_resistor_0402_8200000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o825
 short_code_upper: R4O825
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

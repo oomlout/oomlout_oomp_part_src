@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_21_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_21_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working)<br>[hi121p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_21_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working)<br>[hi121pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm 21 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_21_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working)<br><br>'
 md5: 9433054128c0a15c70a06269e163f646
@@ -27,12 +27,14 @@ md5_10_upper: '9433054128'
 md5_5: '94330'
 md5_5_upper: '94330'
 md5_6: '943305'
+md5_6_alpha: 5s64l
+md5_6_alpha_upper: 5S64L
 md5_6_upper: '943305'
 name: Electronic Header 2 54 Mm 21 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_21_pin_through_hole
 part_number: ''
-short_code: hi121p
-short_code_upper: HI121P
+short_code: hi121pth
+short_code_upper: HI121PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

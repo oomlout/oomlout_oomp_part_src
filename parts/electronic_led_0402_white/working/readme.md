@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0402 White Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 34959d44b747802d2d0f3c26672ee231 | 
 | md5_5 | 34959 | 
 | md5_5_upper | 34959 | 
 | md5_6 | 34959d | 
 | md5_6_upper | 34959D | 
+| md5_6_alpha | 21v31 | 
+| md5_6_alpha_upper | 21V31 | 
 | md5_10 | 34959d44b7 | 
 | md5_10_upper | 34959D44B7 | 
 | type_first_letter | l | 

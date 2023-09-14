@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_22_pin_through_hole 
-* short_code: hi122p
+* short_code: hi122pth
 * md5_6: 69a80b  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_22_pin_through_hole | 
 | name | Electronic Header 2 54 Mm 22 Pin Through Hole | 
-| short_code | hi122p | 
-| short_code_upper | HI122P | 
+| short_code | hi122pth | 
+| short_code_upper | HI122PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 69a80baa2604e37d2c35b210adbf2b0e | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 69A80 | 
 | md5_6 | 69a80b | 
 | md5_6_upper | 69A80B | 
+| md5_6_alpha | 44etn | 
+| md5_6_alpha_upper | 44ETN | 
 | md5_10 | 69a80baa26 | 
 | md5_10_upper | 69A80BAA26 | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 22 | 
 | description_or_color | 22 | 
 | description_or_color_upper | 22 | 
-| markdown_full | [electronic_header_2_54_mm_22_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[hi122p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 22 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_22_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[hi122pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 22 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_22_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x22_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x22_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x22_pin//working/working.kicad_sym'}] | 

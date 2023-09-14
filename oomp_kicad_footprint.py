@@ -359,6 +359,17 @@ def get_footprints(**kwargs):
         match["footprint_name"] = f"kicad_nettie_nettie_{net}_tht_pad0_3mm"
         matches.append(match)  
 
+
+    # oobb
+    
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "header"
+    match["size"] = "oobb"
+    match["description_main"] = "single"
+    match["footprint_name"] = f"oomlout_oomp_footprint_templates_zzzz"
+    matches.append(match)
+
     ###### sod
     match = {}
     match["size"] = "sod_123"

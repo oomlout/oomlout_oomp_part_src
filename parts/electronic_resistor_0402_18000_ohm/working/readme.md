@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O183 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0183TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF1802TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-0718KL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0718KL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 836886f54c4c76e4e15e8b007a8c57d0 | 
 | md5_5 | 83688 | 
 | md5_5_upper | 83688 | 
 | md5_6 | 836886 | 
 | md5_6_upper | 836886 | 
+| md5_6_alpha | 54l1i | 
+| md5_6_alpha_upper | 54L1I | 
 | md5_10 | 836886f54c | 
 | md5_10_upper | 836886F54C | 
 | type_first_letter | r | 

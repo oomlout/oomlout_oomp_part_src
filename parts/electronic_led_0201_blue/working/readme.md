@@ -60,6 +60,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | D0617 | 
 | md5_6 | d0617d | 
 | md5_6_upper | D0617D | 
+| md5_6_alpha | 84pdp | 
+| md5_6_alpha_upper | 84PDP | 
 | md5_10 | d0617d6878 | 
 | md5_10_upper | D0617D6878 | 
 | type_first_letter | l | 

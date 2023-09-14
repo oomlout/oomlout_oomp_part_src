@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 7D3ED | 
 | md5_6 | 7d3edb | 
 | md5_6_upper | 7D3EDB | 
+| md5_6_alpha | 4vxej | 
+| md5_6_alpha_upper | 4VXEJ | 
 | md5_10 | 7d3edbc4f5 | 
 | md5_10_upper | 7D3EDBC4F5 | 
 | type_first_letter | r | 

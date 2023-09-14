@@ -97,6 +97,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | A3697 | 
 | md5_6 | a3697f | 
 | md5_6_upper | A3697F | 
+| md5_6_alpha | 6djen | 
+| md5_6_alpha_upper | 6DJEN | 
 | md5_10 | a3697f0123 | 
 | md5_10_upper | A3697F0123 | 
 | type_first_letter | i | 

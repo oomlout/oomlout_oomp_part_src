@@ -33,9 +33,12 @@ md5_10_upper: '6299807439'
 md5_5: '62998'
 md5_5_upper: '62998'
 md5_6: '629980'
+md5_6_alpha: 3uhz4
+md5_6_alpha_upper: 3UHZ4
 md5_6_upper: '629980'
 name: Electronic Led 0805 White
 oomp_key: oomp_electronic_led_0805_white
+package_style: smd_tape
 part_number: ''
 short_code: l8w
 short_code_upper: L8W
@@ -43,6 +46,9 @@ short_name: 0805 White Led
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

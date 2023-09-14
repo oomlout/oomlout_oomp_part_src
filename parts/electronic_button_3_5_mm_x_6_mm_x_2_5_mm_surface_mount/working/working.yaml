@@ -36,9 +36,12 @@ md5_10_upper: DAAC5353B3
 md5_5: daac5
 md5_5_upper: DAAC5
 md5_6: daac53
+md5_6_alpha: 8j5ub
+md5_6_alpha_upper: 8J5UB
 md5_6_upper: DAAC53
 name: Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
 oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+package_style: smd_tape
 part_number: ''
 short_code: b3560s
 short_code_upper: B3560S
@@ -46,6 +49,9 @@ short_name: ''
 size: 3_5_mm_x_6_mm_x_2_5_mm
 size_only_numbers: '35625'
 size_only_numbers_no_zeros: '35625'
+smd_tape_depth: 3_mm
+smd_tape_pitch: 8_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push

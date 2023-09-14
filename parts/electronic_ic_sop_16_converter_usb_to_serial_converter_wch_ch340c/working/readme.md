@@ -129,6 +129,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 8B394 | 
 | md5_6 | 8b394c | 
 | md5_6_upper | 8B394C | 
+| md5_6_alpha | 5fk98 | 
+| md5_6_alpha_upper | 5FK98 | 
 | md5_10 | 8b394cfe55 | 
 | md5_10_upper | 8B394CFE55 | 
 | type_first_letter | i | 

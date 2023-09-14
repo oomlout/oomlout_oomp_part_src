@@ -61,15 +61,21 @@ md5_10_upper: 842E0ECC56
 md5_5: 842e0
 md5_5_upper: 842E0
 md5_6: 842e0e
+md5_6_alpha: 55o26
+md5_6_alpha_upper: 55O26
 md5_6_upper: 842E0E
 name: Electronic Resistor 0805 8200 Ohm
 oomp_key: oomp_electronic_resistor_0805_8200_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o822
 short_code_upper: R8O822
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

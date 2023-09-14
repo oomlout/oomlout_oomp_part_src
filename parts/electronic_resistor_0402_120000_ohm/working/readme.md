@@ -49,11 +49,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O124 | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | ae0465c5e67432de1da815ee9b13f770 | 
 | md5_5 | ae046 | 
 | md5_5_upper | AE046 | 
 | md5_6 | ae0465 | 
 | md5_6_upper | AE0465 | 
+| md5_6_alpha | 6sfol | 
+| md5_6_alpha_upper | 6SFOL | 
 | md5_10 | ae0465c5e6 | 
 | md5_10_upper | AE0465C5E6 | 
 | type_first_letter | r | 

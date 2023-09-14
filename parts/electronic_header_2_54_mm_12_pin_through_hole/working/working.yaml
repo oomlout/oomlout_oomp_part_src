@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_12_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[hi112p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[hi112pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm 12 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br>'
 md5: df4cf259f03538d937eb0d29d5fa2f59
@@ -27,12 +27,14 @@ md5_10_upper: DF4CF259F0
 md5_5: df4cf
 md5_5_upper: DF4CF
 md5_6: df4cf2
+md5_6_alpha: 8pnua
+md5_6_alpha_upper: 8PNUA
 md5_6_upper: DF4CF2
 name: Electronic Header 2 54 Mm 12 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_12_pin_through_hole
 part_number: ''
-short_code: hi112p
-short_code_upper: HI112P
+short_code: hi112pth
+short_code_upper: HI112PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

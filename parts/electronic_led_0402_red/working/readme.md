@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0402 Red Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | d0f95d29bb59bddbdbd52caa32e5e745 | 
 | md5_5 | d0f95 | 
 | md5_5_upper | D0F95 | 
 | md5_6 | d0f95d | 
 | md5_6_upper | D0F95D | 
+| md5_6_alpha | 85jdp | 
+| md5_6_alpha_upper | 85JDP | 
 | md5_10 | d0f95d29bb | 
 | md5_10_upper | D0F95D29BB | 
 | type_first_letter | l | 

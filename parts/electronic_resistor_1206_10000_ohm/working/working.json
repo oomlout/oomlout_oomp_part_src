@@ -53,11 +53,17 @@
             }
         }
     ],
+    "package_style": "smd_tape",
+    "smd_tape_width": "8_mm",
+    "smd_tape_depth": "1_5_mm",
+    "smd_tape_pitch": "4_mm",
     "md5": "4463392d1bb23c1a300be2f63b87415b",
     "md5_5": "44633",
     "md5_5_upper": "44633",
     "md5_6": "446339",
     "md5_6_upper": "446339",
+    "md5_6_alpha": "2o27t",
+    "md5_6_alpha_upper": "2O27T",
     "md5_10": "4463392d1b",
     "md5_10_upper": "4463392D1B",
     "type_first_letter": "r",

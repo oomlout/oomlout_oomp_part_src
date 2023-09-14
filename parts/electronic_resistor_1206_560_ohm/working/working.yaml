@@ -61,15 +61,21 @@ md5_10_upper: C4D11235BC
 md5_5: c4d11
 md5_5_upper: C4D11
 md5_6: c4d112
+md5_6_alpha: 7oglu
+md5_6_alpha_upper: 7OGLU
 md5_6_upper: C4D112
 name: Electronic Resistor 1206 560 Ohm
 oomp_key: oomp_electronic_resistor_1206_560_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o561
 short_code_upper: R12O561
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

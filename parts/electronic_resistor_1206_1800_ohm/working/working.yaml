@@ -61,15 +61,21 @@ md5_10_upper: 464C63A8C6
 md5_5: 464c6
 md5_5_upper: 464C6
 md5_6: 464c63
+md5_6_alpha: 2qqub
+md5_6_alpha_upper: 2QQUB
 md5_6_upper: 464C63
 name: Electronic Resistor 1206 1800 Ohm
 oomp_key: oomp_electronic_resistor_1206_1800_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o182
 short_code_upper: R12O182
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

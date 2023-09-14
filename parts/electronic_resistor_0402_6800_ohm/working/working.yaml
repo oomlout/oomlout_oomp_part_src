@@ -57,15 +57,21 @@ md5_10_upper: BC6D5096A4
 md5_5: bc6d5
 md5_5_upper: BC6D5
 md5_6: bc6d50
+md5_6_alpha: 7cocw
+md5_6_alpha_upper: 7COCW
 md5_6_upper: BC6D50
 name: Electronic Resistor 0402 6800 Ohm
 oomp_key: oomp_electronic_resistor_0402_6800_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o682
 short_code_upper: R4O682
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

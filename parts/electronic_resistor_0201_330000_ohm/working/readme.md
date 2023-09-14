@@ -54,6 +54,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 0E300 | 
 | md5_6 | 0e3007 | 
 | md5_6_upper | 0E3007 | 
+| md5_6_alpha | jxfr | 
+| md5_6_alpha_upper | JXFR | 
 | md5_10 | 0e30071a5a | 
 | md5_10_upper | 0E30071A5A | 
 | type_first_letter | r | 

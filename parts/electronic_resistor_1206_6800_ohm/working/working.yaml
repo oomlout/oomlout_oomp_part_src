@@ -61,15 +61,21 @@ md5_10_upper: D4EEA0F1E1
 md5_5: d4eea
 md5_5_upper: D4EEA
 md5_6: d4eea0
+md5_6_alpha: 8b3j4
+md5_6_alpha_upper: 8B3J4
 md5_6_upper: D4EEA0
 name: Electronic Resistor 1206 6800 Ohm
 oomp_key: oomp_electronic_resistor_1206_6800_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o682
 short_code_upper: R12O682
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

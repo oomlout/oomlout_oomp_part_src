@@ -61,15 +61,21 @@ md5_10_upper: 6FEAC05D09
 md5_5: 6feac
 md5_5_upper: 6FEAC
 md5_6: 6feac0
+md5_6_alpha: 4d7eo
+md5_6_alpha_upper: 4D7EO
 md5_6_upper: 6FEAC0
 name: Electronic Resistor 1206 1000 Ohm
 oomp_key: oomp_electronic_resistor_1206_1000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o102
 short_code_upper: R12O102
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

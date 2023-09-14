@@ -123,6 +123,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 6C94D | 
 | md5_6 | 6c94da | 
 | md5_6_upper | 6C94DA | 
+| md5_6_alpha | 48iqi | 
+| md5_6_alpha_upper | 48IQI | 
 | md5_10 | 6c94dab527 | 
 | md5_10_upper | 6C94DAB527 | 
 | type_first_letter | b | 

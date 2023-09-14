@@ -179,6 +179,14 @@ def get_symbols(**kwargs):
         match["symbol_name"] = f"kicad_device_nettie_{net}"
         matches.append(match)
     
+    # oobb
+    match = {}
+    match["classification"] = "electronic"
+    match["type"] = "header"
+    match["size"] = "oobb"
+    match["description_main"] = "single"
+    match["symbol_name"] = f"oomlout_oomp_footprint_templates_zzzz"
+    matches.append(match)
 
     # pmic
     

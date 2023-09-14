@@ -61,15 +61,21 @@ md5_10_upper: AC299614FF
 md5_5: ac299
 md5_5_upper: AC299
 md5_6: ac2996
+md5_6_alpha: 6ptw6
+md5_6_alpha_upper: 6PTW6
 md5_6_upper: AC2996
 name: Electronic Resistor 1206 180 Ohm
 oomp_key: oomp_electronic_resistor_1206_180_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o181
 short_code_upper: R12O181
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

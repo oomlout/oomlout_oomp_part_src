@@ -33,9 +33,12 @@ md5_10_upper: 5B158C0D2E
 md5_5: 5b158
 md5_5_upper: 5B158
 md5_6: 5b158c
+md5_6_alpha: 3jxxo
+md5_6_alpha_upper: 3JXXO
 md5_6_upper: 5B158C
 name: Electronic Led 0805 Blue
 oomp_key: oomp_electronic_led_0805_blue
+package_style: smd_tape
 part_number: ''
 short_code: l8l
 short_code_upper: L8L
@@ -43,6 +46,9 @@ short_name: 0805 Blue Led
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

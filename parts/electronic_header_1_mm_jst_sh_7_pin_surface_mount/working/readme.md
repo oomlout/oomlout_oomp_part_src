@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 197C8 | 
 | md5_6 | 197c8f | 
 | md5_6_upper | 197C8F | 
+| md5_6_alpha | zssv | 
+| md5_6_alpha_upper | ZSSV | 
 | md5_10 | 197c8f4709 | 
 | md5_10_upper | 197C8F4709 | 
 | type_first_letter | h | 

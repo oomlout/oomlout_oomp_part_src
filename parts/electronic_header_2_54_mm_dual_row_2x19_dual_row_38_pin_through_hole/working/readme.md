@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole 
-* short_code: hi12x19p
+* short_code: hi12x19pth
 * md5_6: 65cdda  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole | 
 | name | Electronic Header 2 54 Mm Dual Row 2X19 Dual Row 38 Pin Through Hole | 
-| short_code | hi12x19p | 
-| short_code_upper | HI12X19P | 
+| short_code | hi12x19pth | 
+| short_code_upper | HI12X19PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 65cdda1f35a419e10042e0e76eba9cb1 | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 65CDD | 
 | md5_6 | 65cdda | 
 | md5_6_upper | 65CDDA | 
+| md5_6_alpha | 3z00q | 
+| md5_6_alpha_upper | 3Z00Q | 
 | md5_10 | 65cdda1f35 | 
 | md5_10_upper | 65CDDA1F35 | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 22k | 
 | description_or_color | 22k | 
 | description_or_color_upper | 22K | 
-| markdown_full | [electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br>[hi12x19p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br>[Electronic Header 2 54 Mm Dual Row 2X19 Dual Row 38 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br>[hi12x19pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br>[Electronic Header 2 54 Mm Dual Row 2X19 Dual Row 38 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x19_odd_even', 'oomp_key': 'oomp_kicad_connector_generic_conn_02x19_odd_even', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x19_odd_even//working/working.kicad_sym'}] | 

@@ -58,11 +58,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R12O560 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0560T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F056-1T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-0756RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0756RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | a94a30da230875a553befa00615f8b9c | 
 | md5_5 | a94a3 | 
 | md5_5_upper | A94A3 | 
 | md5_6 | a94a30 | 
 | md5_6_upper | A94A30 | 
+| md5_6_alpha | 6lsmo | 
+| md5_6_alpha_upper | 6LSMO | 
 | md5_10 | a94a30da23 | 
 | md5_10_upper | A94A30DA23 | 
 | type_first_letter | r | 

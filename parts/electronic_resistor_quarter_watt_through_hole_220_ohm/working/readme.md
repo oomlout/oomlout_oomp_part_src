@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 8010E | 
 | md5_6 | 8010ec | 
 | md5_6_upper | 8010EC | 
+| md5_6_alpha | 4zw18 | 
+| md5_6_alpha_upper | 4ZW18 | 
 | md5_10 | 8010ecd169 | 
 | md5_10_upper | 8010ECD169 | 
 | type_first_letter | r | 

@@ -57,15 +57,21 @@ md5_10_upper: 726F82B173
 md5_5: 726f8
 md5_5_upper: 726F8
 md5_6: 726f82
+md5_6_alpha: 4gqrm
+md5_6_alpha_upper: 4GQRM
 md5_6_upper: 726F82
 name: Electronic Resistor 0402 120 Ohm
 oomp_key: oomp_electronic_resistor_0402_120_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o121
 short_code_upper: R4O121
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

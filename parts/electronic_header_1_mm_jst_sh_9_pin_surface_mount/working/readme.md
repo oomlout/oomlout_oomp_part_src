@@ -56,6 +56,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 3392C | 
 | md5_6 | 3392cf | 
 | md5_6_upper | 3392CF | 
+| md5_6_alpha | 20fyn | 
+| md5_6_alpha_upper | 20FYN | 
 | md5_10 | 3392cfc59f | 
 | md5_10_upper | 3392CFC59F | 
 | type_first_letter | h | 

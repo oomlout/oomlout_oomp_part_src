@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 7433E | 
 | md5_6 | 7433e2 | 
 | md5_6_upper | 7433E2 | 
+| md5_6_alpha | 4j84i | 
+| md5_6_alpha_upper | 4J84I | 
 | md5_10 | 7433e21d97 | 
 | md5_10_upper | 7433E21D97 | 
 | type_first_letter | h | 

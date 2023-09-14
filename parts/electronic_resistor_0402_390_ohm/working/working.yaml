@@ -57,15 +57,21 @@ md5_10_upper: 9D059DA893
 md5_5: 9d059
 md5_5_upper: 9D059
 md5_6: 9d059d
+md5_6_alpha: 64k9p
+md5_6_alpha_upper: 64K9P
 md5_6_upper: 9D059D
 name: Electronic Resistor 0402 390 Ohm
 oomp_key: oomp_electronic_resistor_0402_390_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o391
 short_code_upper: R4O391
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

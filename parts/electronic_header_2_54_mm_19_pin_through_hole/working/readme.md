@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_19_pin_through_hole 
-* short_code: hi119p
+* short_code: hi119pth
 * md5_6: 19be57  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_19_pin_through_hole | 
 | name | Electronic Header 2 54 Mm 19 Pin Through Hole | 
-| short_code | hi119p | 
-| short_code_upper | HI119P | 
+| short_code | hi119pth | 
+| short_code_upper | HI119PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 19be57a3193f613b3a64bd4c892c230e | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 19BE5 | 
 | md5_6 | 19be57 | 
 | md5_6_upper | 19BE57 | 
+| md5_6_alpha | 105sn | 
+| md5_6_alpha_upper | 105SN | 
 | md5_10 | 19be57a319 | 
 | md5_10_upper | 19BE57A319 | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 19 | 
 | description_or_color | 19 | 
 | description_or_color_upper | 19 | 
-| markdown_full | [electronic_header_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[hi119p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 19 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[hi119pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 19 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x19_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x19_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x19_pin//working/working.kicad_sym'}] | 

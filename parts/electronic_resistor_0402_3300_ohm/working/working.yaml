@@ -57,15 +57,21 @@ md5_10_upper: FCF53E6757
 md5_5: fcf53
 md5_5_upper: FCF53
 md5_6: fcf53e
+md5_6_alpha: 9vbjy
+md5_6_alpha_upper: 9VBJY
 md5_6_upper: FCF53E
 name: Electronic Resistor 0402 3300 Ohm
 oomp_key: oomp_electronic_resistor_0402_3300_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o332
 short_code_upper: R4O332
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

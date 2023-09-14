@@ -54,6 +54,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | CE805 | 
 | md5_6 | ce805e | 
 | md5_6_upper | CE805E | 
+| md5_6_alpha | 822ce | 
+| md5_6_alpha_upper | 822CE | 
 | md5_10 | ce805e1e57 | 
 | md5_10_upper | CE805E1E57 | 
 | type_first_letter | r | 

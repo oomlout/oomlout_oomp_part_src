@@ -33,15 +33,21 @@ md5_10_upper: A3616A5704
 md5_5: a3616
 md5_5_upper: A3616
 md5_6: a3616a
+md5_6_alpha: 6dht6
+md5_6_alpha_upper: 6DHT6
 md5_6_upper: A3616A
 name: Electronic Resistor 1206 2200000 Ohm
 oomp_key: oomp_electronic_resistor_1206_2200000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o225
 short_code_upper: R12O225
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

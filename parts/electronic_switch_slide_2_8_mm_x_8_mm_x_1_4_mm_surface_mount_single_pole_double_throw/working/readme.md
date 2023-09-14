@@ -58,6 +58,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 4C18B | 
 | md5_6 | 4c18b3 | 
 | md5_6_upper | 4C18B3 | 
+| md5_6_alpha | 2yw1f | 
+| md5_6_alpha_upper | 2YW1F | 
 | md5_10 | 4c18b3b1e7 | 
 | md5_10_upper | 4C18B3B1E7 | 
 | type_first_letter | s | 

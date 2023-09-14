@@ -57,15 +57,21 @@ md5_10_upper: 8B307B2F98
 md5_5: 8b307
 md5_5_upper: 8B307
 md5_6: 8b307b
+md5_6_alpha: 5fiij
+md5_6_alpha_upper: 5FIIJ
 md5_6_upper: 8B307B
 name: Electronic Resistor 0402 5600 Ohm
 oomp_key: oomp_electronic_resistor_0402_5600_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o562
 short_code_upper: R4O562
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -61,15 +61,21 @@ md5_10_upper: F38D538888
 md5_5: f38d5
 md5_5_upper: F38D5
 md5_6: f38d53
+md5_6_alpha: 9i3wz
+md5_6_alpha_upper: 9I3WZ
 md5_6_upper: F38D53
 name: Electronic Resistor 0805 56000 Ohm
 oomp_key: oomp_electronic_resistor_0805_56000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o563
 short_code_upper: R8O563
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

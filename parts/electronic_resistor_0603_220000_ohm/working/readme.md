@@ -63,6 +63,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 9A225 | 
 | md5_6 | 9a2250 | 
 | md5_6_upper | 9A2250 | 
+| md5_6_alpha | 60i8g | 
+| md5_6_alpha_upper | 60I8G | 
 | md5_10 | 9a2250c124 | 
 | md5_10_upper | 9A2250C124 | 
 | type_first_letter | r | 

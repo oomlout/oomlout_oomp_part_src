@@ -58,11 +58,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_code_upper | R12O680 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '1206W4J0680T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '1206W4F068-1T5E', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC1206JR-0768RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0768RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 7d4df5b46b5b7021eb6d13fd65b3c319 | 
 | md5_5 | 7d4df | 
 | md5_5_upper | 7D4DF | 
 | md5_6 | 7d4df5 | 
 | md5_6_upper | 7D4DF5 | 
+| md5_6_alpha | 4w0dx | 
+| md5_6_alpha_upper | 4W0DX | 
 | md5_10 | 7d4df5b46b | 
 | md5_10_upper | 7D4DF5B46B | 
 | type_first_letter | r | 

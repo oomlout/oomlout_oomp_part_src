@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | DBE17 | 
 | md5_6 | dbe17e | 
 | md5_6_upper | DBE17E | 
+| md5_6_alpha | 8kuwu | 
+| md5_6_alpha_upper | 8KUWU | 
 | md5_10 | dbe17e3783 | 
 | md5_10_upper | DBE17E3783 | 
 | type_first_letter | h | 

@@ -33,15 +33,21 @@ md5_10_upper: 196204D57A
 md5_5: '19620'
 md5_5_upper: '19620'
 md5_6: '196204'
+md5_6_alpha: znk4
+md5_6_alpha_upper: ZNK4
 md5_6_upper: '196204'
 name: Electronic Resistor 1206 560000 Ohm
 oomp_key: oomp_electronic_resistor_1206_560000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o564
 short_code_upper: R12O564
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

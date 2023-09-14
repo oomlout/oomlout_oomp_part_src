@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | D278E | 
 | md5_6 | d278e8 | 
 | md5_6_upper | D278E8 | 
+| md5_6_alpha | 87n54 | 
+| md5_6_alpha_upper | 87N54 | 
 | md5_10 | d278e89e63 | 
 | md5_10_upper | D278E89E63 | 
 | type_first_letter | r | 

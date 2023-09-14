@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O101 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0101TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF1000TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-07100RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07100RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 5115eb5c6144e661f58cec2948671275 | 
 | md5_5 | 5115e | 
 | md5_5_upper | 5115E | 
 | md5_6 | 5115eb | 
 | md5_6_upper | 5115EB | 
+| md5_6_alpha | 35wbv | 
+| md5_6_alpha_upper | 35WBV | 
 | md5_10 | 5115eb5c61 | 
 | md5_10_upper | 5115EB5C61 | 
 | type_first_letter | r | 

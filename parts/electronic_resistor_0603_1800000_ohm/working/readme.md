@@ -63,6 +63,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 1721C | 
 | md5_6 | 1721c2 | 
 | md5_6_upper | 1721C2 | 
+| md5_6_alpha | whqa | 
+| md5_6_alpha_upper | WHQA | 
 | md5_10 | 1721c25a45 | 
 | md5_10_upper | 1721C25A45 | 
 | type_first_letter | r | 

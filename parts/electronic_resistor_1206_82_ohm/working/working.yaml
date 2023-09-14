@@ -61,15 +61,21 @@ md5_10_upper: 00B538C706
 md5_5: 00b53
 md5_5_upper: 00B53
 md5_6: 00b538
+md5_6_alpha: zso
+md5_6_alpha_upper: ZSO
 md5_6_upper: 00B538
 name: Electronic Resistor 1206 82 Ohm
 oomp_key: oomp_electronic_resistor_1206_82_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o820
 short_code_upper: R12O820
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

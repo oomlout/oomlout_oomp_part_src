@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0805 Yellow Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 5c87ad5a4f3215668066a822e24d75cf | 
 | md5_5 | 5c87a | 
 | md5_5_upper | 5C87A | 
 | md5_6 | 5c87ad | 
 | md5_6_upper | 5C87AD | 
+| md5_6_alpha | 3lz1p | 
+| md5_6_alpha_upper | 3LZ1P | 
 | md5_10 | 5c87ad5a4f | 
 | md5_10_upper | 5C87AD5A4F | 
 | type_first_letter | l | 

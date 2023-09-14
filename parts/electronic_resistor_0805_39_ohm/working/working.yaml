@@ -61,15 +61,21 @@ md5_10_upper: 09654C8063
 md5_5: 09654
 md5_5_upper: 09654
 md5_6: 09654c
+md5_6_alpha: d74c
+md5_6_alpha_upper: D74C
 md5_6_upper: 09654C
 name: Electronic Resistor 0805 39 Ohm
 oomp_key: oomp_electronic_resistor_0805_39_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o390
 short_code_upper: R8O390
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

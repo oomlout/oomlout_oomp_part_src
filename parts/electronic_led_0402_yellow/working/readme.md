@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 0402 Yellow Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 115c9ceb124bbc3083a529c9871f5f89 | 
 | md5_5 | 115c9 | 
 | md5_5_upper | 115C9 | 
 | md5_6 | 115c9c | 
 | md5_6_upper | 115C9C | 
+| md5_6_alpha | ody4 | 
+| md5_6_alpha_upper | ODY4 | 
 | md5_10 | 115c9ceb12 | 
 | md5_10_upper | 115C9CEB12 | 
 | type_first_letter | l | 

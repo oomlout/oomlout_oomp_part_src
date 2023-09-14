@@ -54,6 +54,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | EB636 | 
 | md5_6 | eb6361 | 
 | md5_6_upper | EB6361 | 
+| md5_6_alpha | 96n35 | 
+| md5_6_alpha_upper | 96N35 | 
 | md5_10 | eb63616d41 | 
 | md5_10_upper | EB63616D41 | 
 | type_first_letter | r | 

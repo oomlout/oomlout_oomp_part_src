@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O821 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0821TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF8200TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-07820RL', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07820RL', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | 2edc8cfb980d0f82c4e4b19521512ff9 | 
 | md5_5 | 2edc8 | 
 | md5_5_upper | 2EDC8 | 
 | md5_6 | 2edc8c | 
 | md5_6_upper | 2EDC8C | 
+| md5_6_alpha | 1ttos | 
+| md5_6_alpha_upper | 1TTOS | 
 | md5_10 | 2edc8cfb98 | 
 | md5_10_upper | 2EDC8CFB98 | 
 | type_first_letter | r | 

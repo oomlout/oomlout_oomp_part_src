@@ -16,8 +16,8 @@
     "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working",
     "directory": "parts/electronic_header_2_54_mm_12_pin_through_hole",
     "name": "Electronic Header 2 54 Mm 12 Pin Through Hole",
-    "short_code": "hi112p",
-    "short_code_upper": "HI112P",
+    "short_code": "hi112pth",
+    "short_code_upper": "HI112PTH",
     "distributors": [],
     "manufacturers": [],
     "md5": "df4cf259f03538d937eb0d29d5fa2f59",
@@ -25,6 +25,8 @@
     "md5_5_upper": "DF4CF",
     "md5_6": "df4cf2",
     "md5_6_upper": "DF4CF2",
+    "md5_6_alpha": "8pnua",
+    "md5_6_alpha_upper": "8PNUA",
     "md5_10": "df4cf259f0",
     "md5_10_upper": "DF4CF259F0",
     "type_first_letter": "h",
@@ -38,6 +40,6 @@
     "description_only_numbers_short": "12",
     "description_or_color": "12",
     "description_or_color_upper": "12",
-    "markdown_full": "[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[hi112p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 12 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br>",
+    "markdown_full": "[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[hi112pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 12 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br>",
     "markdown_short": "[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br>"
 }

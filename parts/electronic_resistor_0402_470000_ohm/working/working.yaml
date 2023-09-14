@@ -29,15 +29,21 @@ md5_10_upper: 7087CC4C48
 md5_5: 7087c
 md5_5_upper: 7087C
 md5_6: 7087cc
+md5_6_alpha: 4e2fg
+md5_6_alpha_upper: 4E2FG
 md5_6_upper: 7087CC
 name: Electronic Resistor 0402 470000 Ohm
 oomp_key: oomp_electronic_resistor_0402_470000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o474
 short_code_upper: R4O474
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

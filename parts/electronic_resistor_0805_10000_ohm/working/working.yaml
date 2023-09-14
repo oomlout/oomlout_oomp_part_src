@@ -61,15 +61,21 @@ md5_10_upper: 231E3BB5F9
 md5_5: 231e3
 md5_5_upper: 231E3
 md5_6: 231e3b
+md5_6_alpha: 1dbuj
+md5_6_alpha_upper: 1DBUJ
 md5_6_upper: 231E3B
 name: Electronic Resistor 0805 10000 Ohm
 oomp_key: oomp_electronic_resistor_0805_10000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o103
 short_code_upper: R8O103
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

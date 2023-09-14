@@ -18,7 +18,7 @@ id_no_type: 2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole
 kicad_reference: J
 manufacturer: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole/working)<br>[hi12x16p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole/working)<br>[Electronic
+markdown_full: '[electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole/working)<br>[hi12x16pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole/working)<br>[Electronic
     Header 2 54 Mm Dual Row 2X16 Dual Row 32 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole/working)<br><br>'
 md5: efcfdd036c354ff87a9c4c5831c7a484
@@ -27,12 +27,14 @@ md5_10_upper: EFCFDD036C
 md5_5: efcfd
 md5_5_upper: EFCFD
 md5_6: efcfdd
+md5_6_alpha: 9cusd
+md5_6_alpha_upper: 9CUSD
 md5_6_upper: EFCFDD
 name: Electronic Header 2 54 Mm Dual Row 2X16 Dual Row 32 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_through_hole
 part_number: ''
-short_code: hi12x16p
-short_code_upper: HI12X16P
+short_code: hi12x16pth
+short_code_upper: HI12X16PTH
 size: 2_54_mm_dual_row
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'

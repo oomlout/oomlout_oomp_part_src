@@ -54,6 +54,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | A8A13 | 
 | md5_6 | a8a134 | 
 | md5_6_upper | A8A134 | 
+| md5_6_alpha | 6kv90 | 
+| md5_6_alpha_upper | 6KV90 | 
 | md5_10 | a8a134b90c | 
 | md5_10_upper | A8A134B90C | 
 | type_first_letter | r | 

@@ -57,15 +57,21 @@ md5_10_upper: 7CF0FCA36F
 md5_5: 7cf0f
 md5_5_upper: 7CF0F
 md5_6: 7cf0fc
+md5_6_alpha: 4vi0s
+md5_6_alpha_upper: 4VI0S
 md5_6_upper: 7CF0FC
 name: Electronic Resistor 0402 180 Ohm
 oomp_key: oomp_electronic_resistor_0402_180_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o181
 short_code_upper: R4O181
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

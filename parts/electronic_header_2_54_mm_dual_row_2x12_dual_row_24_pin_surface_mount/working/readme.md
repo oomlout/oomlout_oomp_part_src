@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | F6D03 | 
 | md5_6 | f6d039 | 
 | md5_6_upper | F6D039 | 
+| md5_6_alpha | 9mou1 | 
+| md5_6_alpha_upper | 9MOU1 | 
 | md5_10 | f6d039d819 | 
 | md5_10_upper | F6D039D819 | 
 | type_first_letter | h | 

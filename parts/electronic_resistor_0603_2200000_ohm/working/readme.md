@@ -63,6 +63,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | FFCA1 | 
 | md5_6 | ffca14 | 
 | md5_6_upper | FFCA14 | 
+| md5_6_alpha | 9zaqc | 
+| md5_6_alpha_upper | 9ZAQC | 
 | md5_10 | ffca14462a | 
 | md5_10_upper | FFCA14462A | 
 | type_first_letter | r | 

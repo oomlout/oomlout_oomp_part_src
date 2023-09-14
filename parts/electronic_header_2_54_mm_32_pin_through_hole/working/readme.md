@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_54_mm_32_pin_through_hole 
-* short_code: hi132p
+* short_code: hi132pth
 * md5_6: 7a801f  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working  
 ## naming details
@@ -44,8 +44,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working | 
 | directory | parts/electronic_header_2_54_mm_32_pin_through_hole | 
 | name | Electronic Header 2 54 Mm 32 Pin Through Hole | 
-| short_code | hi132p | 
-| short_code_upper | HI132P | 
+| short_code | hi132pth | 
+| short_code_upper | HI132PTH | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 7a801f6e98dacbc8d5acdff74bf779e5 | 
@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 7A801 | 
 | md5_6 | 7a801f | 
 | md5_6_upper | 7A801F | 
+| md5_6_alpha | 4s2lb | 
+| md5_6_alpha_upper | 4S2LB | 
 | md5_10 | 7a801f6e98 | 
 | md5_10_upper | 7A801F6E98 | 
 | type_first_letter | h | 
@@ -66,6 +68,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_only_numbers_short | 32 | 
 | description_or_color | 32 | 
 | description_or_color_upper | 32 | 
-| markdown_full | [electronic_header_2_54_mm_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br>[hi132p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 32 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br>[hi132pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 32 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working)<br><br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x32_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x32_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x32_pin//working/working.kicad_sym'}] | 

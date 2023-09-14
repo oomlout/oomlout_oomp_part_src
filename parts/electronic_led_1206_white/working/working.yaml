@@ -33,9 +33,12 @@ md5_10_upper: 5AE6D5A975
 md5_5: 5ae6d
 md5_5_upper: 5AE6D
 md5_6: 5ae6d5
+md5_6_alpha: 3joph
+md5_6_alpha_upper: 3JOPH
 md5_6_upper: 5AE6D5
 name: Electronic Led 1206 White
 oomp_key: oomp_electronic_led_1206_white
+package_style: smd_tape
 part_number: ''
 short_code: l12w
 short_code_upper: L12W
@@ -43,6 +46,9 @@ short_name: 1206 White Led
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

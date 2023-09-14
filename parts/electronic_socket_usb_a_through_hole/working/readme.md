@@ -83,6 +83,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | AC29A | 
 | md5_6 | ac29a1 | 
 | md5_6_upper | AC29A1 | 
+| md5_6_alpha | 6ptwh | 
+| md5_6_alpha_upper | 6PTWH | 
 | md5_10 | ac29a1c56f | 
 | md5_10_upper | AC29A1C56F | 
 | type_first_letter | s | 

@@ -55,6 +55,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 799A7 | 
 | md5_6 | 799a76 | 
 | md5_6_upper | 799A76 | 
+| md5_6_alpha | 4qt86 | 
+| md5_6_alpha_upper | 4QT86 | 
 | md5_10 | 799a76eca4 | 
 | md5_10_upper | 799A76ECA4 | 
 | type_first_letter | l | 

@@ -33,15 +33,21 @@ md5_10_upper: 31FD2FDB9C
 md5_5: 31fd2
 md5_5_upper: 31FD2
 md5_6: 31fd2f
+md5_6_alpha: 1y7u7
+md5_6_alpha_upper: 1Y7U7
 md5_6_upper: 31FD2F
 name: Electronic Resistor 0805 3300000 Ohm
 oomp_key: oomp_electronic_resistor_0805_3300000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o335
 short_code_upper: R8O335
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

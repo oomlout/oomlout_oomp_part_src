@@ -33,9 +33,12 @@ md5_10_upper: 86FED6A509
 md5_5: 86fed
 md5_5_upper: 86FED
 md5_6: 86fed6
+md5_6_alpha: 59mfq
+md5_6_alpha_upper: 59MFQ
 md5_6_upper: 86FED6
 name: Electronic Led 0805 Green
 oomp_key: oomp_electronic_led_0805_green
+package_style: smd_tape
 part_number: ''
 short_code: l8g
 short_code_upper: L8G
@@ -43,6 +46,9 @@ short_name: 0805 Green Led
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led

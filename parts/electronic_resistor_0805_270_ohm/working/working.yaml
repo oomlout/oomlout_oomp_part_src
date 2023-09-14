@@ -61,15 +61,21 @@ md5_10_upper: F5C2B8589A
 md5_5: f5c2b
 md5_5_upper: F5C2B
 md5_6: f5c2b8
+md5_6_alpha: 9l7lk
+md5_6_alpha_upper: 9L7LK
 md5_6_upper: F5C2B8
 name: Electronic Resistor 0805 270 Ohm
 oomp_key: oomp_electronic_resistor_0805_270_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o271
 short_code_upper: R8O271
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

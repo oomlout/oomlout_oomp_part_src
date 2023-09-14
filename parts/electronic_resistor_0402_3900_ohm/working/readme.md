@@ -53,11 +53,17 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | short_code_upper | R4O392 | 
 | distributors | [] | 
 | manufacturers | [{'name': 'Uniroyal', 'part_number': '0402WGJ0392TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}}, {'name': 'Uniroyal', 'part_number': '0402WGF3901TCE', 'link': '', 'id': 'manufacturer_uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}}, {'name': 'Yageo', 'part_number': 'RC0402JR-073K9L', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-073K9L', 'id': 'manufacturer_yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}}] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 2_mm | 
 | md5 | a39da3c2b0054df7f33a1f70ef536f52 | 
 | md5_5 | a39da | 
 | md5_5_upper | A39DA | 
 | md5_6 | a39da3 | 
 | md5_6_upper | A39DA3 | 
+| md5_6_alpha | 6dtpf | 
+| md5_6_alpha_upper | 6DTPF | 
 | md5_10 | a39da3c2b0 | 
 | md5_10_upper | A39DA3C2B0 | 
 | type_first_letter | r | 

@@ -55,11 +55,17 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | short_name | 1206 White Led | 
 | distributors | [] | 
 | manufacturers | [] | 
+| package_style | smd_tape | 
+| smd_tape_width | 8_mm | 
+| smd_tape_depth | 1_5_mm | 
+| smd_tape_pitch | 4_mm | 
 | md5 | 5ae6d5a975a21ab0804a4130e310fc69 | 
 | md5_5 | 5ae6d | 
 | md5_5_upper | 5AE6D | 
 | md5_6 | 5ae6d5 | 
 | md5_6_upper | 5AE6D5 | 
+| md5_6_alpha | 3joph | 
+| md5_6_alpha_upper | 3JOPH | 
 | md5_10 | 5ae6d5a975 | 
 | md5_10_upper | 5AE6D5A975 | 
 | type_first_letter | l | 

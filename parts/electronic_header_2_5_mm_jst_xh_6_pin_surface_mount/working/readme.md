@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | FCD29 | 
 | md5_6 | fcd297 | 
 | md5_6_upper | FCD297 | 
+| md5_6_alpha | 9v4pj | 
+| md5_6_alpha_upper | 9V4PJ | 
 | md5_10 | fcd2977b28 | 
 | md5_10_upper | FCD2977B28 | 
 | type_first_letter | h | 

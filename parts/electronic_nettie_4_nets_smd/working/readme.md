@@ -59,6 +59,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | CD720 | 
 | md5_6 | cd7207 | 
 | md5_6_upper | CD7207 | 
+| md5_6_alpha | 80kxz | 
+| md5_6_alpha_upper | 80KXZ | 
 | md5_10 | cd720732d7 | 
 | md5_10_upper | CD720732D7 | 
 | type_first_letter | n | 

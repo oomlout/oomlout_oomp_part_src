@@ -61,15 +61,21 @@ md5_10_upper: AA2F8B96DF
 md5_5: aa2f8
 md5_5_upper: AA2F8
 md5_6: aa2f8b
+md5_6_alpha: 6n1xn
+md5_6_alpha_upper: 6N1XN
 md5_6_upper: AA2F8B
 name: Electronic Resistor 0805 1200 Ohm
 oomp_key: oomp_electronic_resistor_0805_1200_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r8o122
 short_code_upper: R8O122
 size: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

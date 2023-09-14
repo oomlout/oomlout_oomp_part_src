@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | BEF3D | 
 | md5_6 | bef3d8 | 
 | md5_6_upper | BEF3D8 | 
+| md5_6_alpha | 7g82g | 
+| md5_6_alpha_upper | 7G82G | 
 | md5_10 | bef3d82cfd | 
 | md5_10_upper | BEF3D82CFD | 
 | type_first_letter | h | 

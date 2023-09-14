@@ -61,15 +61,21 @@ md5_10_upper: A0B855D42D
 md5_5: a0b85
 md5_5_upper: A0B85
 md5_6: a0b855
+md5_6_alpha: 69r9x
+md5_6_alpha_upper: 69R9X
 md5_6_upper: A0B855
 name: Electronic Resistor 1206 150 Ohm
 oomp_key: oomp_electronic_resistor_1206_150_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o151
 short_code_upper: R12O151
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

@@ -29,15 +29,21 @@ md5_10_upper: 6EF9E88646
 md5_5: 6ef9e
 md5_5_upper: 6EF9E
 md5_6: 6ef9e8
+md5_6_alpha: 4bvu0
+md5_6_alpha_upper: 4BVU0
 md5_6_upper: 6EF9E8
 name: Electronic Resistor 0402 75 Ohm
 oomp_key: oomp_electronic_resistor_0402_75_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r4o750
 short_code_upper: R4O750
 size: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

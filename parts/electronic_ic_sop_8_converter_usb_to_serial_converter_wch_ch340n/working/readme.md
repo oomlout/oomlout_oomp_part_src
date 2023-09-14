@@ -87,6 +87,8 @@ List of Pins:
 | md5_5_upper | AD943 | 
 | md5_6 | ad9430 | 
 | md5_6_upper | AD9430 | 
+| md5_6_alpha | 6rtio | 
+| md5_6_alpha_upper | 6RTIO | 
 | md5_10 | ad943042c1 | 
 | md5_10_upper | AD943042C1 | 
 | type_first_letter | i | 

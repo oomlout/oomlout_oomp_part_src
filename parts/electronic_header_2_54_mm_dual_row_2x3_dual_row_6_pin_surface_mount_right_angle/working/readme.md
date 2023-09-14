@@ -53,6 +53,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_5_upper | 6580F | 
 | md5_6 | 6580f1 | 
 | md5_6_upper | 6580F1 | 
+| md5_6_alpha | 3yktt | 
+| md5_6_alpha_upper | 3YKTT | 
 | md5_10 | 6580f1e360 | 
 | md5_10_upper | 6580F1E360 | 
 | type_first_letter | h | 

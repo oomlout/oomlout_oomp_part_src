@@ -61,15 +61,21 @@ md5_10_upper: 1F86336D7D
 md5_5: 1f863
 md5_5_upper: 1F863
 md5_6: 1f8633
+md5_6_alpha: 18a43
+md5_6_alpha_upper: 18A43
 md5_6_upper: 1F8633
 name: Electronic Resistor 1206 56000 Ohm
 oomp_key: oomp_electronic_resistor_1206_56000_ohm
+package_style: smd_tape
 part_number: ''
 short_code: r12o563
 short_code_upper: R12O563
 size: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r

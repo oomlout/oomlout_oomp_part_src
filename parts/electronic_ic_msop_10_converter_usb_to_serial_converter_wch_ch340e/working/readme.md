@@ -105,6 +105,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_5_upper | 720E7 | 
 | md5_6 | 720e79 | 
 | md5_6_upper | 720E79 | 
+| md5_6_alpha | 4g7ll | 
+| md5_6_alpha_upper | 4G7LL | 
 | md5_10 | 720e79ba82 | 
 | md5_10_upper | 720E79BA82 | 
 | type_first_letter | i | 

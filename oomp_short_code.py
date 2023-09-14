@@ -37,7 +37,12 @@ def get_short_code(**kwargs):
     replace_dict["size"]["2_8_mm_x_8_mm_x_1_4_mm"] = "2880"
     replace_dict["size"]["2d54_header"] = "i1h"
 
-    #      capacitor
+    #      oobb
+    replace_dict["size"]["oobb"] = "ob"
+
+    #      loops
+
+    #            capacitor
     diameter_max = 99
     tall_max = 99
     for diameter in range(1, diameter_max):
@@ -169,6 +174,11 @@ def get_short_code(**kwargs):
     replace_dict["description_main"]["power_multiplexer"] = "p"
     replace_dict["description_main"]["usb_multiplexer"] = "u"
 
+    #      oobb
+    replace_dict["description_main"]["single"] = "1"
+    replace_dict["description_main"]["double"] = "2"
+    replace_dict["description_main"]["triple"] = "3"
+
     #      to sort
     
     replace_dict["description_main"]["i2c"] = "i2c"
@@ -267,6 +277,8 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["right_angle"] = "ra"
     replace_dict["description_extra"]["surface_mount"] = "sm"    
     replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
+    replace_dict["description_extra"]["through_hole"] = "th"    
+    replace_dict["description_extra"]["through_hole_right_angle"] = "thra"    
 
     #       interposer
     replace_dict["description_extra"]["helicopter"] = "heli"
