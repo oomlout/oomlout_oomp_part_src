@@ -11,6 +11,9 @@ import oomp_packaging
 
 import os
 import oom_markdown
+import oom_git
+
+
 
 parts = {}
 parts_md5 = {}
@@ -40,8 +43,10 @@ def clone_data_files():
         #clone repo using os.system to tmp/repo_name
         print(f"cloning {repo}")
         
-        repo_name = repo.split('/')[-1]        
-        os.system(f"git clone {repo} tmp/{repo_name}")
+        repo_name = repo.split('/')[-1] 
+        directory = "tmp"     
+        oom_git.clone(repo=repo, directory=directory)
+        oom_git.pull(directory=directory)
 
 
 
