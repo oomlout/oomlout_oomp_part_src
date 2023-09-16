@@ -35,26 +35,30 @@ def main():
 
     oomp.load_parts(from_pickle=True)   
     
-    for part_id in oomp.parts:
-        part = oomp.parts[part_id]
-        part_directory = part.get("directory", "")        
-        file_templates = []
-        file_templates.append(f"templates/template_label_15_mm_30_mm.svg")
-        file_templates.append(f"templates/template_label_76_2_mm_50_8_mm.svg")
+    filter = "electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321"
+    filter = ""
 
-        for file_template in file_templates:
-            file_extra = file_template.replace("template_","").replace("templates/","").replace(".svg","")
-            file_label = f"{part_directory}/working/working_{file_extra}.svg"
-        
-            svg_infile = file_template
-            svg_outfile = file_label
-            svg_dict = part
-            oom_svg.svg_dict_replace(svg_infile=svg_infile,svg_outfile=svg_outfile,svg_dict=svg_dict)
-            file_in = svg_outfile
-            oom_svg.svg_make_pdf(file_in=file_in)
-            oom_svg.svg_make_png(file_in=file_in, export_dpi=300)
-            pass
-        
+    for part_id in oomp.parts:
+        if filter in part_id:
+            part = oomp.parts[part_id]
+            part_directory = part.get("directory", "")        
+            file_templates = []
+            file_templates.append(f"templates/template_label_15_mm_30_mm.svg")
+            file_templates.append(f"templates/template_label_76_2_mm_50_8_mm.svg")
+
+            for file_template in file_templates:
+                file_extra = file_template.replace("template_","").replace("templates/","").replace(".svg","")
+                file_label = f"{part_directory}/working/working_{file_extra}.svg"
+            
+                svg_infile = file_template
+                svg_outfile = file_label
+                svg_dict = part
+                oom_svg.svg_dict_replace(svg_infile=svg_infile,svg_outfile=svg_outfile,svg_dict=svg_dict)
+                file_in = svg_outfile
+                oom_svg.svg_make_pdf(file_in=file_in)
+                oom_svg.svg_make_png(file_in=file_in, export_dpi=300)
+                pass
+            
 
 
 

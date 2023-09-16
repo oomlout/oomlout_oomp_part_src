@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: ''
+color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description_extra: right_angle
+description_extra_capital: Right Angle
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: RIGHT_ANGLE
 description_main: 2x3_dual_row_6_pin
+description_main_capital: 2X3 Dual Row 6 Pin
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2X3_DUAL_ROW_6_PIN
 description_only_numbers: '236'
 description_only_numbers_short: '236'
 description_or_color: '236'
@@ -14,9 +27,14 @@ distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working
 id: electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
 id_no_class: header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
+id_no_size: 2x3_dual_row_6_pin_right_angle
 id_no_type: 2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
 kicad_reference: J
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[hi12x3pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br>[Electronic
     Header 2 54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working)<br><br>'
@@ -31,13 +49,32 @@ md5_6_alpha: 97dbe
 md5_6_alpha_upper: 97DBE
 md5_6_upper: EBE82A
 name: Electronic Header 2 54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle
+name_no_size: 2X3 Dual Row 6 Pin Right Angle
+name_no_size_short: 2X3 Dual Row 6 Pin Right Angle
+name_no_type: 2 54 Mm Dual Row 2X3 Dual Row 6 Pin Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: hi12x3pra
 short_code_upper: HI12X3PRA
 size: 2_54_mm_dual_row
+size_capital: 2.54 mm Dual Row
+size_first_letter: '2'
+size_first_letter_upper: '2'
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
+size_upper: 2_54_MM_DUAL_ROW
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x03_odd_even//working/working.kicad_sym
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x03_odd_even
+    oomp_key: oomp_kicad_connector_generic_conn_02x03_odd_even
 type: header
+type_capital: Header
 type_first_letter: h
 type_first_letter_upper: H
+type_upper: HEADER

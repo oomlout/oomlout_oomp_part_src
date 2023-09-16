@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: white
+color_capital: White
 color_first_letter: w
 color_first_letter_upper: W
 color_upper: WHITE
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'w '
@@ -25,9 +38,14 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white/working
 id: electronic_led_0603_white
 id_no_class: led_0603_white
+id_no_size: white
 id_no_type: 0603_white
 kicad_reference: L
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
 manufacturers:
 -   id: manufacturer_xinglight
     link: ''
@@ -49,15 +67,27 @@ md5_6_alpha: 26ybv
 md5_6_alpha_upper: 26YBV
 md5_6_upper: 38354B
 name: Electronic Led 0603 White
+name_no_class: Led 0603 White
+name_no_size: White
+name_no_size_short: White
+name_no_type: 0603 White
 oomp_key: oomp_electronic_led_0603_white
 package_style: smd_tape
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: l6w
 short_code_upper: L6W
 short_name: 0603 White Led
 size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
+size_upper: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -67,5 +97,7 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
     oomp_key: oomp_kicad_device_led
 type: led
+type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
+type_upper: LED

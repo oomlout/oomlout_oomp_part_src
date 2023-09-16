@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: converter
+color_capital: Converter
 color_first_letter: c
 color_first_letter_upper: C
 color_upper: CONVERTER
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: usb_to_serial_converter
+description_main_capital: Usb To Serial Converter
+description_main_first_letter: u
+description_main_first_letter_upper: U
+description_main_upper: USB_TO_SERIAL_CONVERTER
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'c '
@@ -18,9 +31,14 @@ distributors:
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working
 id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 id_no_class: ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+id_no_size: converter_usb_to_serial_converter_wch_ch340t
 id_no_type: ssop_20_converter_usb_to_serial_converter_wch_ch340t
 kicad_reference: U
 manufacturer: wch
+manufacturer_capital: Wch
+manufacturer_first_letter: w
+manufacturer_first_letter_upper: W
+manufacturer_upper: WCH
 manufacturers: []
 markdown_full: '[electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[Electronic
     Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC
@@ -37,9 +55,17 @@ md5_6_alpha: 8r9r7
 md5_6_alpha_upper: 8R9R7
 md5_6_upper: E07223
 name: Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T
+name_no_class: Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T
+name_no_size: Converter Usb To Serial Converter Wch Ch340T
+name_no_size_short: Converter Usb To Serial Converter Wch Ch340T
+name_no_type: Ssop 20 Converter Usb To Serial Converter Wch Ch340T
 notes: []
 oomp_key: oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 part_number: ch340t
+part_number_capital: Ch340T
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CH340T
 pins:
     pin_1:
         name: cko
@@ -125,8 +151,19 @@ short_code: ich340t
 short_code_upper: ICH340T
 short_name: usb to serial converter (ch340t)
 size: ssop_20
+size_capital: Ssop 20
+size_first_letter: s
+size_first_letter_upper: S
 size_only_numbers: '20'
 size_only_numbers_no_zeros: '2'
+size_upper: SSOP_20
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t
+    oomp_key: oomp_kicad_interface_usb_ch340t
 type: ic
+type_capital: Ic
 type_first_letter: i
 type_first_letter_upper: I
+type_upper: IC

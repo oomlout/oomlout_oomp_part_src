@@ -260,7 +260,7 @@
            id="tspan2"
            x="11.091034"
            y="21.3027"
-           style="font-size:1.41111px;text-align:end;text-anchor:end;stroke-width:0.264583">v_plus 1</tspan></text>
+           style="font-size:1.41111px;text-align:end;text-anchor:end;stroke-width:0.264583">v_positive 1</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -282,7 +282,7 @@
            id="tspan2773"
            x="11.091034"
            y="25.3027"
-           style="font-size:1.41111px;text-align:end;text-anchor:end;stroke-width:0.264583">d_plus 3</tspan></text>
+           style="font-size:1.41111px;text-align:end;text-anchor:end;stroke-width:0.264583">d_positive 3</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -293,7 +293,7 @@
            id="tspan2777"
            x="11.091034"
            y="27.3027"
-           style="font-size:1.41111px;text-align:end;text-anchor:end;stroke-width:0.264583">d_minus 4</tspan></text>
+           style="font-size:1.41111px;text-align:end;text-anchor:end;stroke-width:0.264583">d_negative 4</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -332,7 +332,7 @@
              id="tspan2789"
              x="-6.2938461"
              y="23.3027"
-             style="font-size:1.41111px;stroke-width:0.264583">9 hsd2_plus</tspan></text>
+             style="font-size:1.41111px;stroke-width:0.264583">9 hsd2_positive</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -343,7 +343,7 @@
              id="tspan2793"
              x="-6.2938461"
              y="25.3027"
-             style="font-size:1.41111px;stroke-width:0.264583">8 hsd2_minus</tspan></text>
+             style="font-size:1.41111px;stroke-width:0.264583">8 hsd2_negative</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -354,7 +354,7 @@
              id="tspan2797"
              x="-6.2938461"
              y="27.3027"
-             style="font-size:1.41111px;stroke-width:0.264583">7 hsd1_plus</tspan></text>
+             style="font-size:1.41111px;stroke-width:0.264583">7 hsd1_positive</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -365,7 +365,7 @@
              id="tspan2801"
              x="-6.2938461"
              y="29.3027"
-             style="font-size:1.41111px;stroke-width:0.264583">6 hsd1_minus</tspan></text>
+             style="font-size:1.41111px;stroke-width:0.264583">6 hsd1_negative</tspan></text>
       </g>
     </g>
   </g>

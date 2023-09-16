@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: multiplexer
+color_capital: Multiplexer
 color_first_letter: m
 color_first_letter_upper: M
 color_upper: MULTIPLEXER
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: power_multiplexer
+description_main_capital: Power Multiplexer
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: POWER_MULTIPLEXER
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'm '
@@ -18,9 +31,14 @@ distributors:
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working
 id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 id_no_class: ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+id_no_size: multiplexer_power_multiplexer_texas_instruments_tps2113apw
 id_no_type: tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 kicad_reference: IC
 manufacturer: texas_instruments
+manufacturer_capital: Texas Instruments
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TEXAS_INSTRUMENTS
 manufacturers: []
 markdown_full: '[electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[itssp8mpptps2113](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[Electronic
     Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[LCSC
@@ -37,9 +55,17 @@ md5_6_alpha: 4we3c
 md5_6_alpha_upper: 4WE3C
 md5_6_upper: 7D9358
 name: Electronic Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_class: Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_size: Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_size_short: Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_type: Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
 notes: []
 oomp_key: oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 part_number: tps2113apw
+part_number_capital: Tps2113Apw
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: TPS2113APW
 pins:
     pin_1:
         name: stat
@@ -77,8 +103,14 @@ short_code: itssp8mpptps2113
 short_code_upper: ITSSP8MPPTPS2113
 short_name: autoswitching power mux (tps2113apw)
 size: tssop_8
+size_capital: Tssop 8
+size_first_letter: t
+size_first_letter_upper: T
 size_only_numbers: '8'
 size_only_numbers_no_zeros: '8'
+size_upper: TSSOP_8
 type: ic
+type_capital: Ic
 type_first_letter: i
 type_first_letter_upper: I
+type_upper: IC

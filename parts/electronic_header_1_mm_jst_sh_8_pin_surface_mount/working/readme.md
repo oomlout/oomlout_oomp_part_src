@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x08_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin/working  
 
@@ -39,13 +39,49 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | manufacturer |  | 
 | part_number |  | 
 | kicad_reference | J | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | HEADER | 
+| type_capital | Header | 
+| type_first_letter | h | 
+| type_first_letter_upper | H | 
+| size_upper | 1_MM_JST_SH | 
+| size_capital | 1 mm Jst Sh | 
+| size_first_letter | 1 | 
+| size_first_letter_upper | 1 | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | 8_PIN | 
+| description_main_capital | 8 Pin | 
+| description_main_first_letter | 8 | 
+| description_main_first_letter_upper | 8 | 
+| description_extra_upper | SURFACE_MOUNT | 
+| description_extra_capital | Surface Mount | 
+| description_extra_first_letter | s | 
+| description_extra_first_letter_upper | S | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_header_1_mm_jst_sh_8_pin_surface_mount | 
 | id_no_class | header_1_mm_jst_sh_8_pin_surface_mount | 
 | id_no_type | 1_mm_jst_sh_8_pin_surface_mount | 
+| id_no_size | 8_pin_surface_mount | 
 | oomp_key | oomp_electronic_header_1_mm_jst_sh_8_pin_surface_mount | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working | 
 | directory | parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount | 
 | name | Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount | 
+| name_no_class | Header 1 Mm Jst Sh 8 Pin Surface Mount | 
+| name_no_type | 1 Mm Jst Sh 8 Pin Surface Mount | 
+| name_no_size | 8 Pin Surface Mount | 
 | short_code | h8psm | 
 | short_code_upper | H8PSM | 
 | short_name | Jst Sh 8 Pin Surface Mount Header 1 Mm Pitch | 
@@ -60,17 +96,13 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_6_alpha_upper | 9YGKH | 
 | md5_10 | ff3161c7d8 | 
 | md5_10_upper | FF3161C7D8 | 
-| type_first_letter | h | 
-| type_first_letter_upper | H | 
 | size_only_numbers | 1 | 
 | size_only_numbers_no_zeros | 1 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers | 8 | 
+| name_no_size_short | 8 Pin Surface Mount | 
 | description_only_numbers_short | 8 | 
 | description_or_color | 8 | 
 | description_or_color_upper | 8 | 
 | markdown_full | [electronic_header_1_mm_jst_sh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working)<br>[h8psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working)<br><br>[JST - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM08B-SRSS-TB)<br> | 
 | markdown_short | [electronic_header_1_mm_jst_sh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount/working)<br><br>[JST - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x08_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x08_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym', 'index': 0}] | 

@@ -39,7 +39,7 @@ List of Pins:
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_christianlerche_lerchetech_lerche_pololu_a4988  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/christianlerche_lerchetech_lerche_pololu_a4988/working  
 
@@ -107,13 +107,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_16_type | signal | 
 | kicad_reference | IC | 
 | notes | [] | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | BREAKOUT_BOARD | 
+| type_capital | Breakout Board | 
+| type_first_letter | b | 
+| type_first_letter_upper | B | 
+| size_upper | STEP_STICK | 
+| size_capital | Step Stick | 
+| size_first_letter | s | 
+| size_first_letter_upper | S | 
+| color_upper | MOTOR_DRIVER | 
+| color_capital | Motor Driver | 
+| color_first_letter | m | 
+| color_first_letter_upper | M | 
+| description_main_upper | STEPPER_MOTOR | 
+| description_main_capital | Stepper Motor | 
+| description_main_first_letter | s | 
+| description_main_first_letter_upper | S | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_breakout_board_step_stick_motor_driver_stepper_motor | 
 | id_no_class | breakout_board_step_stick_motor_driver_stepper_motor | 
 | id_no_type | step_stick_motor_driver_stepper_motor | 
+| id_no_size | motor_driver_stepper_motor | 
 | oomp_key | oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working | 
 | directory | parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor | 
 | name | Electronic Breakout Board Step Stick Motor Driver Stepper Motor | 
+| name_no_class | Breakout Board Step Stick Motor Driver Stepper Motor | 
+| name_no_type | Step Stick Motor Driver Stepper Motor | 
+| name_no_size | Motor Driver Stepper Motor | 
 | short_code | bbmdsm | 
 | short_code_upper | BBMDSM | 
 | distributors | [] | 
@@ -127,17 +163,13 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 48IQI | 
 | md5_10 | 6c94dab527 | 
 | md5_10_upper | 6C94DAB527 | 
-| type_first_letter | b | 
-| type_first_letter_upper | B | 
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
-| color_upper | MOTOR_DRIVER | 
-| color_first_letter | m | 
-| color_first_letter_upper | M | 
 | description_only_numbers |  | 
+| name_no_size_short | Motor Driver Stepper Motor | 
 | description_only_numbers_short |   | 
 | description_or_color | m  | 
 | description_or_color_upper | M  | 
 | markdown_full | [electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic Breakout Board Step Stick Motor Driver Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/christianlerche_lerchetech_lerche_pololu_a4988', 'oomp_key': 'oomp_christianlerche_lerchetech_lerche_pololu_a4988', 'directory': 'oomlout_oomp_footprint_bot/footprints/christianlerche_lerchetech_lerche_pololu_a4988//working/working.kicad_mod'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/christianlerche_lerchetech_lerche_pololu_a4988', 'oomp_key': 'oomp_christianlerche_lerchetech_lerche_pololu_a4988', 'directory': 'oomlout_oomp_footprint_bot/footprints/christianlerche_lerchetech_lerche_pololu_a4988//working/working.kicad_mod', 'index': 0}] | 

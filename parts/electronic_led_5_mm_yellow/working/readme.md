@@ -19,13 +19,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_led_tht_led_d5_0mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_tht_led_d5_0mm/working  
 
@@ -43,13 +43,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference | L | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | LED | 
+| type_capital | Led | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_upper | 5_MM | 
+| size_capital | 5 mm | 
+| size_first_letter | 5 | 
+| size_first_letter_upper | 5 | 
+| color_upper | YELLOW | 
+| color_capital | Yellow | 
+| color_first_letter | y | 
+| color_first_letter_upper | Y | 
+| description_main_upper |  | 
+| description_main_capital |  | 
+| description_main_first_letter |  | 
+| description_main_first_letter_upper |  | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_led_5_mm_yellow | 
 | id_no_class | led_5_mm_yellow | 
 | id_no_type | 5_mm_yellow | 
+| id_no_size | yellow | 
 | oomp_key | oomp_electronic_led_5_mm_yellow | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working | 
 | directory | parts/electronic_led_5_mm_yellow | 
 | name | Electronic Led 5 Mm Yellow | 
+| name_no_class | Led 5 Mm Yellow | 
+| name_no_type | 5 Mm Yellow | 
+| name_no_size | Yellow | 
 | short_code | l5y | 
 | short_code_upper | L5Y | 
 | short_name | 5 Mm Yellow Led | 
@@ -64,18 +100,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 4MJT4 | 
 | md5_10 | 7691c8dbc3 | 
 | md5_10_upper | 7691C8DBC3 | 
-| type_first_letter | l | 
-| type_first_letter_upper | L | 
 | size_only_numbers | 5 | 
 | size_only_numbers_no_zeros | 5 | 
-| color_upper | YELLOW | 
-| color_first_letter | y | 
-| color_first_letter_upper | Y | 
 | description_only_numbers |  | 
+| name_no_size_short | Yellow | 
 | description_only_numbers_short |   | 
 | description_or_color | y  | 
 | description_or_color_upper | Y  | 
 | markdown_full | [electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br>[l5y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br>[Electronic Led 5 Mm Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br><br> | 
 | markdown_short | [electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0}] | 

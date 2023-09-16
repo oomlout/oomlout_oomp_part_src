@@ -19,13 +19,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_regulator_linear_ap1117_33  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2/working  
 
@@ -42,13 +42,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturer |  | 
 | part_number |  | 
 | short_name |  | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | PMIC | 
+| type_capital | Pmic | 
+| type_first_letter | p | 
+| type_first_letter_upper | P | 
+| size_upper | SOT_223 | 
+| size_capital | Sot 223 | 
+| size_first_letter | s | 
+| size_first_letter_upper | S | 
+| color_upper | LINEAR | 
+| color_capital | Linear | 
+| color_first_letter | l | 
+| color_first_letter_upper | L | 
+| description_main_upper | 1117 | 
+| description_main_capital | 1117 | 
+| description_main_first_letter | 1 | 
+| description_main_first_letter_upper | 1 | 
+| description_extra_upper | 3_3_VOLT | 
+| description_extra_capital | 3.3 Volt | 
+| description_extra_first_letter | 3 | 
+| description_extra_first_letter_upper | 3 | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_pmic_sot_223_linear_1117_3_3_volt | 
 | id_no_class | pmic_sot_223_linear_1117_3_3_volt | 
 | id_no_type | sot_223_linear_1117_3_3_volt | 
+| id_no_size | linear_1117_3_3_volt | 
 | oomp_key | oomp_electronic_pmic_sot_223_linear_1117_3_3_volt | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working | 
 | directory | parts/electronic_pmic_sot_223_linear_1117_3_3_volt | 
 | name | Electronic Pmic Sot 223 Linear 1117 3 3 Volt | 
+| name_no_class | Pmic Sot 223 Linear 1117 3 3 Volt | 
+| name_no_type | Sot 223 Linear 1117 3 3 Volt | 
+| name_no_size | Linear 1117 3 3 Volt | 
 | short_code | pms22311173d3v | 
 | short_code_upper | PMS22311173D3V | 
 | distributors | [] | 
@@ -66,18 +102,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 1FVBP | 
 | md5_10 | 24ed557c93 | 
 | md5_10_upper | 24ED557C93 | 
-| type_first_letter | p | 
-| type_first_letter_upper | P | 
 | size_only_numbers | 223 | 
 | size_only_numbers_no_zeros | 223 | 
-| color_upper | LINEAR | 
-| color_first_letter | l | 
-| color_first_letter_upper | L | 
 | description_only_numbers | 1117 | 
+| name_no_size_short | Linear 1k1 3 3 Volt | 
 | description_only_numbers_short | 1k1 | 
 | description_or_color | l1k1 | 
 | description_or_color_upper | L1K1 | 
 | markdown_full | [electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br>[pms22311173d3v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 3 3 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br><br> | 
 | markdown_short | [electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33', 'oomp_key': 'oomp_kicad_regulator_linear_ap1117_33', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_33', 'oomp_key': 'oomp_kicad_regulator_linear_ap1117_33', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_33//working/working.kicad_sym', 'index': 0}] | 

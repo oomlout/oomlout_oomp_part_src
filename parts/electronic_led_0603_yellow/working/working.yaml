@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: yellow
+color_capital: Yellow
 color_first_letter: y
 color_first_letter_upper: Y
 color_upper: YELLOW
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'y '
@@ -25,9 +38,14 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working
 id: electronic_led_0603_yellow
 id_no_class: led_0603_yellow
+id_no_size: yellow
 id_no_type: 0603_yellow
 kicad_reference: L
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
 manufacturers:
 -   id: manufacturer_xinglight
     link: ''
@@ -49,15 +67,27 @@ md5_6_alpha: 1jzjo
 md5_6_alpha_upper: 1JZJO
 md5_6_upper: 27DBB4
 name: Electronic Led 0603 Yellow
+name_no_class: Led 0603 Yellow
+name_no_size: Yellow
+name_no_size_short: Yellow
+name_no_type: 0603 Yellow
 oomp_key: oomp_electronic_led_0603_yellow
 package_style: smd_tape
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: l6y
 short_code_upper: L6Y
 short_name: 0603 Yellow Led
 size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
+size_upper: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -67,5 +97,7 @@ symbol:
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
     oomp_key: oomp_kicad_device_led
 type: led
+type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
+type_upper: LED

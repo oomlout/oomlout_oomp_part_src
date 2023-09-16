@@ -53,7 +53,7 @@ List of Pins:
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_module_arduino_nano_withmountingholes  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_module_arduino_nano_withmountingholes/working  
 
@@ -163,13 +163,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_30_type | power | 
 | kicad_reference | U | 
 | notes | [] | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | BREAKOUT_BOARD | 
+| type_capital | Breakout Board | 
+| type_first_letter | b | 
+| type_first_letter_upper | B | 
+| size_upper | SHENNIE | 
+| size_capital | Shennie | 
+| size_first_letter | s | 
+| size_first_letter_upper | S | 
+| color_upper | MCU | 
+| color_capital | Mcu | 
+| color_first_letter | m | 
+| color_first_letter_upper | M | 
+| description_main_upper | ATMEGA328 | 
+| description_main_capital | Atmega328 | 
+| description_main_first_letter | a | 
+| description_main_first_letter_upper | A | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_breakout_board_shennie_mcu_atmega328 | 
 | id_no_class | breakout_board_shennie_mcu_atmega328 | 
 | id_no_type | shennie_mcu_atmega328 | 
+| id_no_size | mcu_atmega328 | 
 | oomp_key | oomp_electronic_breakout_board_shennie_mcu_atmega328 | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328/working | 
 | directory | parts/electronic_breakout_board_shennie_mcu_atmega328 | 
 | name | Electronic Breakout Board Shennie Mcu Atmega328 | 
+| name_no_class | Breakout Board Shennie Mcu Atmega328 | 
+| name_no_type | Shennie Mcu Atmega328 | 
+| name_no_size | Mcu Atmega328 | 
 | short_code | bbmcuat328 | 
 | short_code_upper | BBMCUAT328 | 
 | distributors | [] | 
@@ -183,17 +219,13 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | HM3F | 
 | md5_10 | 0c8a1b6a67 | 
 | md5_10_upper | 0C8A1B6A67 | 
-| type_first_letter | b | 
-| type_first_letter_upper | B | 
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
-| color_upper | MCU | 
-| color_first_letter | m | 
-| color_first_letter_upper | M | 
 | description_only_numbers | 328 | 
+| name_no_size_short | Mcu Atmega328 | 
 | description_only_numbers_short | 328 | 
 | description_or_color | m328 | 
 | description_or_color_upper | M328 | 
 | markdown_full | [electronic_breakout_board_shennie_mcu_atmega328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328/working)<br>[bbmcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328/working)<br>[Electronic Breakout Board Shennie Mcu Atmega328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_shennie_mcu_atmega328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes', 'oomp_key': 'oomp_kicad_module_arduino_nano_withmountingholes', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes', 'oomp_key': 'oomp_kicad_module_arduino_nano_withmountingholes', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod', 'index': 0}] | 

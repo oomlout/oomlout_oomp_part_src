@@ -1,2 +1,21 @@
-parts_final: []
-parts_final_markdown: no data
+parts_final:
+- electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+- electronic_pmic_sot_223_linear_1117_5_volt
+- electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+- electronic_socket_usb_mini_surface_mount_only
+- electronic_led_0603_red
+- electronic_resistor_0603_1000_ohm
+- electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+- electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+- electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+- electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+- electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+- electronic_capacitor_0603_100_nano_farad
+parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au\
+  \ |  | \n| electronic_pmic_sot_223_linear_1117_5_volt |  | \n| electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g\
+  \ |  | \n| electronic_socket_usb_mini_surface_mount_only |  | \n| electronic_led_0603_red\
+  \ |  | \n| electronic_resistor_0603_1000_ohm |  | \n| electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount\
+  \ |  | \n| electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |\
+  \  | \n| electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz |  |\
+  \ \n| electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  | \n| electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt\
+  \ |  | \n| electronic_capacitor_0603_100_nano_farad |  | \n"

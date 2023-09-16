@@ -1,2 +1,7 @@
-parts_final: []
-parts_final_markdown: no data
+parts_final:
+- electronic_led_0603_white
+- electronic_resistor_0603_150000_ohm
+- electronic_resistor_0603_470000_ohm
+parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_led_0603_white\
+  \ |  | \n| electronic_resistor_0603_150000_ohm |  | \n| electronic_resistor_0603_470000_ohm\
+  \ |  | \n"

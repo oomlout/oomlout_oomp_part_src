@@ -29,13 +29,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_a  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_usb_a_molex_67643_horizontal  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal/working  
 
@@ -67,13 +67,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_5_name | shield | 
 | pins_pin_5_number | 6 | 
 | pins_pin_5_type | signal | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | SOCKET | 
+| type_capital | Socket | 
+| type_first_letter | s | 
+| type_first_letter_upper | S | 
+| size_upper | USB_A | 
+| size_capital | Usb A | 
+| size_first_letter | u | 
+| size_first_letter_upper | U | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | THROUGH_HOLE | 
+| description_main_capital | Through Hole | 
+| description_main_first_letter | t | 
+| description_main_first_letter_upper | T | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_socket_usb_a_through_hole | 
 | id_no_class | socket_usb_a_through_hole | 
 | id_no_type | usb_a_through_hole | 
+| id_no_size | through_hole | 
 | oomp_key | oomp_electronic_socket_usb_a_through_hole | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working | 
 | directory | parts/electronic_socket_usb_a_through_hole | 
 | name | Electronic Socket Usb A Through Hole | 
+| name_no_class | Socket Usb A Through Hole | 
+| name_no_type | Usb A Through Hole | 
+| name_no_size | Through Hole | 
 | short_code | scuath | 
 | short_code_upper | SCUATH | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2345', 'link': 'https://lcsc.com/product-detail/C2345.html', 'id': 'distributor_lcsc'}] | 
@@ -87,18 +123,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 6PTWH | 
 | md5_10 | ac29a1c56f | 
 | md5_10_upper | AC29A1C56F | 
-| type_first_letter | s | 
-| type_first_letter_upper | S | 
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers |  | 
+| name_no_size_short | Through Hole | 
 | description_only_numbers_short |   | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> | 
 | markdown_short | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_a_molex_67643_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a', 'oomp_key': 'oomp_kicad_connector_usb_a', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_a_molex_67643_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a', 'oomp_key': 'oomp_kicad_connector_usb_a', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym', 'index': 0}] | 

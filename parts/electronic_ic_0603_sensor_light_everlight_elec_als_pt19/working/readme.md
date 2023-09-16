@@ -47,13 +47,49 @@ List of Pins:
 | pins_pin_2_name | emitter | 
 | pins_pin_2_number | 2 | 
 | pins_pin_2_type | signal | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | IC | 
+| type_capital | Ic | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_upper | 0603 | 
+| size_capital | 0603 | 
+| size_first_letter | 0 | 
+| size_first_letter_upper | 0 | 
+| color_upper | SENSOR | 
+| color_capital | Sensor | 
+| color_first_letter | s | 
+| color_first_letter_upper | S | 
+| description_main_upper | LIGHT | 
+| description_main_capital | Light | 
+| description_main_first_letter | l | 
+| description_main_first_letter_upper | L | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | EVERLIGHT_ELEC | 
+| manufacturer_capital | Everlight Elec | 
+| manufacturer_first_letter | e | 
+| manufacturer_first_letter_upper | E | 
+| part_number_upper | ALS_PT19 | 
+| part_number_capital | Als Pt19 | 
+| part_number_first_letter | a | 
+| part_number_first_letter_upper | A | 
 | id | electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | id_no_class | ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | id_no_type | 0603_sensor_light_everlight_elec_als_pt19 | 
+| id_no_size | sensor_light_everlight_elec_als_pt19 | 
 | oomp_key | oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working | 
 | directory | parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 
 | name | Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19 | 
+| name_no_class | Ic 0603 Sensor Light Everlight Elec Als Pt19 | 
+| name_no_type | 0603 Sensor Light Everlight Elec Als Pt19 | 
+| name_no_size | Sensor Light Everlight Elec Als Pt19 | 
 | short_code | i6snl | 
 | short_code_upper | I6SNL | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C146233', 'link': 'https://lcsc.com/product-detail/C146233.html', 'id': 'distributor_lcsc'}] | 
@@ -71,14 +107,10 @@ List of Pins:
 | md5_6_alpha_upper | 6KTTM | 
 | md5_10 | a899fa60e8 | 
 | md5_10_upper | A899FA60E8 | 
-| type_first_letter | i | 
-| type_first_letter_upper | I | 
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
-| color_upper | SENSOR | 
-| color_first_letter | s | 
-| color_first_letter_upper | S | 
 | description_only_numbers |  | 
+| name_no_size_short | Sensor Light Everlight Elec Als Pt19 | 
 | description_only_numbers_short |   | 
 | description_or_color | s  | 
 | description_or_color_upper | S  | 

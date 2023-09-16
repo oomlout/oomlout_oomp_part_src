@@ -23,13 +23,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_smd_r_0603_1608metric/working  
 
@@ -47,13 +47,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference | R | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | RESISTOR | 
+| type_capital | Resistor | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_upper | 0603 | 
+| size_capital | 0603 | 
+| size_first_letter | 0 | 
+| size_first_letter_upper | 0 | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | 18_OHM | 
+| description_main_capital | 18 Ohm | 
+| description_main_first_letter | 1 | 
+| description_main_first_letter_upper | 1 | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_resistor_0603_18_ohm | 
 | id_no_class | resistor_0603_18_ohm | 
 | id_no_type | 0603_18_ohm | 
+| id_no_size | 18_ohm | 
 | oomp_key | oomp_electronic_resistor_0603_18_ohm | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working | 
 | directory | parts/electronic_resistor_0603_18_ohm | 
 | name | Electronic Resistor 0603 18 Ohm | 
+| name_no_class | Resistor 0603 18 Ohm | 
+| name_no_type | 0603 18 Ohm | 
+| name_no_size | 18 Ohm | 
 | short_code | r6o180 | 
 | short_code_upper | R6O180 | 
 | distributors | [] | 
@@ -71,18 +107,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 9YNWD | 
 | md5_10 | ff567d1e39 | 
 | md5_10_upper | FF567D1E39 | 
-| type_first_letter | r | 
-| type_first_letter_upper | R | 
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers | 18 | 
+| name_no_size_short | 18 Ohm | 
 | description_only_numbers_short | 18 | 
 | description_or_color | 18 | 
 | description_or_color_upper | 18 | 
 | markdown_full | [electronic_resistor_0603_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[r6o180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br>[Electronic Resistor 0603 18 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br><br>[Uniroyal - 0603WAJ0180T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0180T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0180T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0180T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0180T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0180T5E)<br>[Uniroyal - 0603WAF018-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF018-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF018-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF018-1T5E)[(N)  ](https://www.newark.com/search?st=0603WAF018-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF018-1T5E)<br>[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL) [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0718RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0718RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0718RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0718RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0718RL)<br> | 
 | markdown_short | [electronic_resistor_0603_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_18_ohm/working)<br><br>[Uniroyal - 0603WAJ0180T5E- not in jlc basic parts]()[Uniroyal - 0603WAF018-1T5E- jlc basic part]()[Yageo - RC0603JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0718RL) | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0}] | 

@@ -71,13 +71,49 @@ List of Pins:
 | pins_pin_8_type | signal | 
 | kicad_reference | U | 
 | notes | [] | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | IC | 
+| type_capital | Ic | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_upper | SOP_8 | 
+| size_capital | Sop 8 | 
+| size_first_letter | s | 
+| size_first_letter_upper | S | 
+| color_upper | CONVERTER | 
+| color_capital | Converter | 
+| color_first_letter | c | 
+| color_first_letter_upper | C | 
+| description_main_upper | USB_TO_SERIAL_CONVERTER | 
+| description_main_capital | Usb To Serial Converter | 
+| description_main_first_letter | u | 
+| description_main_first_letter_upper | U | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | WCH | 
+| manufacturer_capital | Wch | 
+| manufacturer_first_letter | w | 
+| manufacturer_first_letter_upper | W | 
+| part_number_upper | CH340N | 
+| part_number_capital | Ch340N | 
+| part_number_first_letter | c | 
+| part_number_first_letter_upper | C | 
 | id | electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n | 
 | id_no_class | ic_sop_8_converter_usb_to_serial_converter_wch_ch340n | 
 | id_no_type | sop_8_converter_usb_to_serial_converter_wch_ch340n | 
+| id_no_size | converter_usb_to_serial_converter_wch_ch340n | 
 | oomp_key | oomp_electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n/working | 
 | directory | parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n | 
 | name | Electronic Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N | 
+| name_no_class | Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N | 
+| name_no_type | Sop 8 Converter Usb To Serial Converter Wch Ch340N | 
+| name_no_size | Converter Usb To Serial Converter Wch Ch340N | 
 | short_code | isp8 | 
 | short_code_upper | ISP8 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C2977777', 'link': 'https://lcsc.com/product-detail/C2977777.html', 'id': 'distributor_lcsc'}] | 
@@ -91,14 +127,10 @@ List of Pins:
 | md5_6_alpha_upper | 6RTIO | 
 | md5_10 | ad943042c1 | 
 | md5_10_upper | AD943042C1 | 
-| type_first_letter | i | 
-| type_first_letter_upper | I | 
 | size_only_numbers | 8 | 
 | size_only_numbers_no_zeros | 8 | 
-| color_upper | CONVERTER | 
-| color_first_letter | c | 
-| color_first_letter_upper | C | 
 | description_only_numbers |  | 
+| name_no_size_short | Converter Usb To Serial Converter Wch Ch340N | 
 | description_only_numbers_short |   | 
 | description_or_color | c  | 
 | description_or_color_upper | C  | 

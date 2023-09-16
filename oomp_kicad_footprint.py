@@ -207,12 +207,12 @@ def get_footprints(**kwargs):
 
     #            lga
     match = {}
-    match["size"] = "lga_2_5_mm_x_2_5_mm_8_pin"
+    match["size"] = "lga_8_pin_2_5_mm_x_2_5_mm"
     match["footprint_name"] = f"kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering"
     matches.append(match) 
     
     match = {}
-    match["size"] = "lga_2_mm_x_2_mm_12_pin"
+    match["size"] = "lga_12_pin_2_mm_x_2_mm"
     match["footprint_name"] = f"kicad_package_lga_lga_12_2x2mm_p0_5mm"
     matches.append(match) 
 

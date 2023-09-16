@@ -44,7 +44,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_interface_usb_ch340t  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t/working  
 
@@ -124,13 +124,49 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | pins_pin_20_type | signal | 
 | kicad_reference | U | 
 | notes | [] | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | IC | 
+| type_capital | Ic | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_upper | SSOP_20 | 
+| size_capital | Ssop 20 | 
+| size_first_letter | s | 
+| size_first_letter_upper | S | 
+| color_upper | CONVERTER | 
+| color_capital | Converter | 
+| color_first_letter | c | 
+| color_first_letter_upper | C | 
+| description_main_upper | USB_TO_SERIAL_CONVERTER | 
+| description_main_capital | Usb To Serial Converter | 
+| description_main_first_letter | u | 
+| description_main_first_letter_upper | U | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | WCH | 
+| manufacturer_capital | Wch | 
+| manufacturer_first_letter | w | 
+| manufacturer_first_letter_upper | W | 
+| part_number_upper | CH340T | 
+| part_number_capital | Ch340T | 
+| part_number_first_letter | c | 
+| part_number_first_letter_upper | C | 
 | id | electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | id_no_class | ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | id_no_type | ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
+| id_no_size | converter_usb_to_serial_converter_wch_ch340t | 
 | oomp_key | oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working | 
 | directory | parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t | 
 | name | Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T | 
+| name_no_class | Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T | 
+| name_no_type | Ssop 20 Converter Usb To Serial Converter Wch Ch340T | 
+| name_no_size | Converter Usb To Serial Converter Wch Ch340T | 
 | short_code | ich340t | 
 | short_code_upper | ICH340T | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C8689', 'link': 'https://lcsc.com/product-detail/C8689.html', 'id': 'distributor_lcsc'}] | 
@@ -144,17 +180,13 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_6_alpha_upper | 8R9R7 | 
 | md5_10 | e07223f344 | 
 | md5_10_upper | E07223F344 | 
-| type_first_letter | i | 
-| type_first_letter_upper | I | 
 | size_only_numbers | 20 | 
 | size_only_numbers_no_zeros | 2 | 
-| color_upper | CONVERTER | 
-| color_first_letter | c | 
-| color_first_letter_upper | C | 
 | description_only_numbers |  | 
+| name_no_size_short | Converter Usb To Serial Converter Wch Ch340T | 
 | description_only_numbers_short |   | 
 | description_or_color | c  | 
 | description_or_color_upper | C  | 
 | markdown_full | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> | 
 | markdown_short | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t', 'oomp_key': 'oomp_kicad_interface_usb_ch340t', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t', 'oomp_key': 'oomp_kicad_interface_usb_ch340t', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym', 'index': 0}] | 

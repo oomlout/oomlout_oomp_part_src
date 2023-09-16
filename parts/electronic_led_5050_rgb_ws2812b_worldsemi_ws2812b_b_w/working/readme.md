@@ -30,17 +30,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_device_led  
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
-
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_led_ws2812b  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm/working  
 
@@ -70,13 +66,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_4_name | din | 
 | pins_pin_4_number | 4 | 
 | pins_pin_4_type | signal | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | LED | 
+| type_capital | Led | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_upper | 5050 | 
+| size_capital | 5050 | 
+| size_first_letter | 5 | 
+| size_first_letter_upper | 5 | 
+| color_upper | RGB | 
+| color_capital | Rgb | 
+| color_first_letter | r | 
+| color_first_letter_upper | R | 
+| description_main_upper | WS2812B | 
+| description_main_capital | Ws2812B | 
+| description_main_first_letter | w | 
+| description_main_first_letter_upper | W | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | WORLDSEMI | 
+| manufacturer_capital | Worldsemi | 
+| manufacturer_first_letter | w | 
+| manufacturer_first_letter_upper | W | 
+| part_number_upper | WS2812B_B_W | 
+| part_number_capital | Ws2812B B W | 
+| part_number_first_letter | w | 
+| part_number_first_letter_upper | W | 
 | id | electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | id_no_class | led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | id_no_type | 5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
+| id_no_size | rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | oomp_key | oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working | 
 | directory | parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w | 
 | name | Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W | 
+| name_no_class | Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W | 
+| name_no_type | 5050 Rgb Ws2812B Worldsemi Ws2812B B W | 
+| name_no_size | Rgb Ws2812B Worldsemi Ws2812B B W | 
 | short_code | l50502812ws2812bbw | 
 | short_code_upper | L50502812WS2812BBW | 
 | short_name | 5050 Rgbws2812B Led | 
@@ -91,18 +123,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 9EBB2 | 
 | md5_10 | f0d9be0ddd | 
 | md5_10_upper | F0D9BE0DDD | 
-| type_first_letter | l | 
-| type_first_letter_upper | L | 
 | size_only_numbers | 5050 | 
 | size_only_numbers_no_zeros | 55 | 
-| color_upper | RGB | 
-| color_first_letter | r | 
-| color_first_letter_upper | R | 
 | description_only_numbers | 2812 | 
+| name_no_size_short | Rgb Ws2k8B Worldsemi Ws2k8B B W | 
 | description_only_numbers_short | 2k8 | 
 | description_or_color | r2k8 | 
 | description_or_color_upper | R2K8 | 
 | markdown_full | [electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[l50502812ws2812bbw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en) [(L)  ](https://www.lcsc.com/search?q=WS2812B-B/W)[(D)  ](https://www.digikey.com/en/products?keywords=WS2812B-B/W)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=WS2812B-B/W)[(N)  ](https://www.newark.com/search?st=WS2812B-B/W)[(SZ)  ](https://so.szlcsc.com/global.html?k=WS2812B-B/W)<br> | 
 | markdown_short | [electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en) | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm', 'oomp_key': 'oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}, {'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b', 'oomp_key': 'oomp_kicad_led_ws2812b', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm', 'oomp_key': 'oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b', 'oomp_key': 'oomp_kicad_led_ws2812b', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym', 'index': 0}] | 

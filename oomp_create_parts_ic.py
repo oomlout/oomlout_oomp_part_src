@@ -59,7 +59,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "ic"
-    part_details["size"] = ["lga_2_5_mm_x_2_5_mm_8_pin"]
+    part_details["size"] = ["lga_8_pin_2_5_mm_x_2_5_mm"]
     part_details["color"] = ["sensor"]
     part_details["description_main"] = "pressure_temperature"
     part_details["description_extra"] = ""
@@ -83,7 +83,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "ic"
-    part_details["size"] = ["lga_2_mm_x_2_mm_12_pin"]
+    part_details["size"] = ["lga_12_pin_2_mm_x_2_mm"]
     part_details["color"] = ["sensor"]
     part_details["description_main"] = "accelerometer"
     part_details["description_extra"] = ""

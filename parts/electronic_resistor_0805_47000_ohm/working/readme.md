@@ -23,13 +23,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_smd_r_0805_2012metric/working  
 
@@ -47,13 +47,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference | R | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | RESISTOR | 
+| type_capital | Resistor | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_upper | 0805 | 
+| size_capital | 0805 | 
+| size_first_letter | 0 | 
+| size_first_letter_upper | 0 | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | 47000_OHM | 
+| description_main_capital | 47000 Ohm | 
+| description_main_first_letter | 4 | 
+| description_main_first_letter_upper | 4 | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_resistor_0805_47000_ohm | 
 | id_no_class | resistor_0805_47000_ohm | 
 | id_no_type | 0805_47000_ohm | 
+| id_no_size | 47000_ohm | 
 | oomp_key | oomp_electronic_resistor_0805_47000_ohm | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working | 
 | directory | parts/electronic_resistor_0805_47000_ohm | 
 | name | Electronic Resistor 0805 47000 Ohm | 
+| name_no_class | Resistor 0805 47000 Ohm | 
+| name_no_type | 0805 47000 Ohm | 
+| name_no_size | 47000 Ohm | 
 | short_code | r8o473 | 
 | short_code_upper | R8O473 | 
 | distributors | [] | 
@@ -71,18 +107,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 52AM8 | 
 | md5_10 | 81c7401a66 | 
 | md5_10_upper | 81C7401A66 | 
-| type_first_letter | r | 
-| type_first_letter_upper | R | 
 | size_only_numbers | 0805 | 
 | size_only_numbers_no_zeros | 85 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers | 47000 | 
+| name_no_size_short | 47k Ohm | 
 | description_only_numbers_short | 47k | 
 | description_or_color | 47k | 
 | description_or_color_upper | 47K | 
 | markdown_full | [electronic_resistor_0805_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br>[r8o473](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br>[Electronic Resistor 0805 47000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br><br>[Uniroyal - 0805W8J0473T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0473T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0473T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0473T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0473T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0473T5E)<br>[Uniroyal - 0805W8F4702T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F4702T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F4702T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F4702T5E)[(N)  ](https://www.newark.com/search?st=0805W8F4702T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F4702T5E)<br>[Yageo - RC0805JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747KL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-0747KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-0747KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-0747KL)[(N)  ](https://www.newark.com/search?st=RC0805JR-0747KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-0747KL)<br> | 
 | markdown_short | [electronic_resistor_0805_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br><br>[Uniroyal - 0805W8J0473T5E- not in jlc basic parts]()[Uniroyal - 0805W8F4702T5E- jlc basic part]()[Yageo - RC0805JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747KL) | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0}] | 

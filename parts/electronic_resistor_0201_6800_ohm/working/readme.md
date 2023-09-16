@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -40,13 +40,49 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | part_number |  | 
 | filter |  | 
 | kicad_reference | R | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | RESISTOR | 
+| type_capital | Resistor | 
+| type_first_letter | r | 
+| type_first_letter_upper | R | 
+| size_upper | 0201 | 
+| size_capital | 0201 | 
+| size_first_letter | 0 | 
+| size_first_letter_upper | 0 | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | 6800_OHM | 
+| description_main_capital | 6800 Ohm | 
+| description_main_first_letter | 6 | 
+| description_main_first_letter_upper | 6 | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_resistor_0201_6800_ohm | 
 | id_no_class | resistor_0201_6800_ohm | 
 | id_no_type | 0201_6800_ohm | 
+| id_no_size | 6800_ohm | 
 | oomp_key | oomp_electronic_resistor_0201_6800_ohm | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working | 
 | directory | parts/electronic_resistor_0201_6800_ohm | 
 | name | Electronic Resistor 0201 6800 Ohm | 
+| name_no_class | Resistor 0201 6800 Ohm | 
+| name_no_type | 0201 6800 Ohm | 
+| name_no_size | 6800 Ohm | 
 | short_code | ro682 | 
 | short_code_upper | RO682 | 
 | distributors | [] | 
@@ -60,17 +96,13 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | md5_6_alpha_upper | 4B1SY | 
 | md5_10 | 6e61e24408 | 
 | md5_10_upper | 6E61E24408 | 
-| type_first_letter | r | 
-| type_first_letter_upper | R | 
 | size_only_numbers | 0201 | 
 | size_only_numbers_no_zeros | 21 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers | 6800 | 
+| name_no_size_short | 6k8 Ohm | 
 | description_only_numbers_short | 6k8 | 
 | description_or_color | 6k8 | 
 | description_or_color_upper | 6K8 | 
 | markdown_full | [electronic_resistor_0201_6800_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working)<br>[ro682](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working)<br>[Electronic Resistor 0201 6800 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working)<br><br>[Uniroyal - NQ01WMJ0682TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0682TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0682TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0682TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0682TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0682TEE)<br> | 
 | markdown_short | [electronic_resistor_0201_6800_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm/working)<br><br>[Uniroyal - NQ01WMJ0682TEE- not in jlc basic parts]() | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym'}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0}] | 

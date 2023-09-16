@@ -1,16 +1,16 @@
-library_name: Device
+library_name: LED
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   github_src_repo: https://gitlab.com/kicad/libraries/kicad-symbols
-  oomp_bot: kicad_device_led/working
-  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_device_led/working
-  oomp_doc: kicad_device_led/working
-  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led/working
-  oomp_src_flat: symbols_flat/kicad_device_led/working
-  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led/working
-name: device_led
-oomp_key: oomp_kicad_device_led
-oomp_key_simple: kicad_device_led
+  oomp_bot: kicad_led_ws2812b/working
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_led_ws2812b/working
+  oomp_doc: kicad_led_ws2812b/working
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_ws2812b/working
+  oomp_src_flat: symbols_flat/kicad_led_ws2812b/working
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_ws2812b/working
+name: led_ws2812b
+oomp_key: oomp_kicad_led_ws2812b
+oomp_key_simple: kicad_led_ws2812b
 owner: arturo182
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym

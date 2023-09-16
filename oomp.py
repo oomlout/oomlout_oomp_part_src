@@ -152,6 +152,35 @@ def add_part(**kwargs):
         ## add part to dict
         print("    adding part " + id)
         
+
+        #add formated taxonomy
+        types = ["classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number"]
+        formats = ["upper","capital","first_letter","first_letter_upper"]
+        for typ in types:
+            for format in formats:
+                kwargs[f"{typ}_{format}"] = kwargs[typ]
+                first_letter = ""
+                if kwargs[typ] != "":
+                    first_letter = kwargs[typ][0]
+                if format == "upper":
+                    kwargs[f"{typ}_{format}"] = kwargs[typ].upper()
+                if format == "capital":
+                    
+                    value = kwargs[typ].replace("_", " ").title()
+                    value = value.replace(" X ", " x ")
+                    value = value.replace("Mm", "mm")
+                    for i in range(1,10):
+                        for j in range(1,10):
+                            src_value = f"{i} {j}"
+                            dst_value = f"{i}.{j}"
+                            value = value.replace(src_value, dst_value)
+                    kwargs[f"{typ}_{format}"] = value
+                if format == "first_letter":
+                    kwargs[f"{typ}_{format}"] = first_letter
+                if format == "first_letter_upper":
+                    kwargs[f"{typ}_{format}"] = first_letter.upper()
+
+
         #add id as a keyed item to kwargs
         kwargs["id"] = id
         clas = kwargs.get("classification","none")
@@ -160,6 +189,9 @@ def add_part(**kwargs):
         typ = kwargs.get("type","none")
         id_no_type = id_no_class.replace(f"{typ}_","")        
         kwargs["id_no_type"] = id_no_type
+        siz = kwargs.get("size","none")
+        id_no_size = id_no_type.replace(f"{siz}_","")
+        kwargs["id_no_size"] = id_no_size
 
         kwargs["oomp_key"] = f'oomp_{id}'
         kwargs["github_link"] = f"https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/{id}/working" 
@@ -169,7 +201,13 @@ def add_part(**kwargs):
 
         #add name, the name is the id with proper capitalization and _ replaced with ' '
         kwargs["name"] = id.replace("_", " ").title()
-        
+        name_no_class = id_no_class.replace("_", " ").title()
+        kwargs["name_no_class"] = name_no_class
+        name_no_type = id_no_type.replace("_", " ").title()
+        kwargs["name_no_type"] = name_no_type
+        name_no_size = id_no_size.replace("_", " ").title()
+        kwargs["name_no_size"] = name_no_size
+
         #add short code from a get_short_code function
         kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
         kwargs["short_code_upper"] = kwargs["short_code"].upper()
@@ -216,6 +254,8 @@ def add_part(**kwargs):
         type_first_letter = kwargs["type"][0]
         kwargs["type_first_letter"] = type_first_letter
         kwargs["type_first_letter_upper"] = type_first_letter.upper()
+        kwargs["type_upper"] = kwargs["type"].upper()
+        kwargs["type_capital"] = kwargs["type"].replace("_", " ").title()
         #      size
         #remove all charachters that aren't numbers
         size_only_numbers = ''.join(i for i in kwargs["size"] if i.isdigit())
@@ -272,6 +312,11 @@ def add_part(**kwargs):
             
         if description_only_numbers_short == 0 or description_only_numbers_short == "0" or description_only_numbers_short == "":
             description_only_numbers_short = " "
+
+        name_no_size_short_number = kwargs["name_no_size"]
+        if description_only_numbers_short != " ":            
+            name_no_size_short_number = name_no_size_short_number.replace(description_only_numbers, description_only_numbers_short)        
+        kwargs["name_no_size_short"] = name_no_size_short_number
 
         kwargs["description_only_numbers_short"] = description_only_numbers_short
         

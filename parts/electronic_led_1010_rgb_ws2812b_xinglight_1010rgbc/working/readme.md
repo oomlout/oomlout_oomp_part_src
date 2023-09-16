@@ -48,7 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra |  | 
 | manufacturer | xinglight | 
 | part_number | 1010rgbc | 
-| filter | electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
+| filter |  | 
 | kicad_reference | L | 
 | pins_pin_1_name | do | 
 | pins_pin_1_number | 1 | 
@@ -62,13 +62,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_4_name | sdi | 
 | pins_pin_4_number | 4 | 
 | pins_pin_4_type | signal | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | LED | 
+| type_capital | Led | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_upper | 1010 | 
+| size_capital | 1010 | 
+| size_first_letter | 1 | 
+| size_first_letter_upper | 1 | 
+| color_upper | RGB | 
+| color_capital | Rgb | 
+| color_first_letter | r | 
+| color_first_letter_upper | R | 
+| description_main_upper | WS2812B | 
+| description_main_capital | Ws2812B | 
+| description_main_first_letter | w | 
+| description_main_first_letter_upper | W | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | XINGLIGHT | 
+| manufacturer_capital | Xinglight | 
+| manufacturer_first_letter | x | 
+| manufacturer_first_letter_upper | X | 
+| part_number_upper | 1010RGBC | 
+| part_number_capital | 1010Rgbc | 
+| part_number_first_letter | 1 | 
+| part_number_first_letter_upper | 1 | 
 | id | electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | id_no_class | led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | id_no_type | 1010_rgb_ws2812b_xinglight_1010rgbc | 
+| id_no_size | rgb_ws2812b_xinglight_1010rgbc | 
 | oomp_key | oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working | 
 | directory | parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | name | Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc | 
+| name_no_class | Led 1010 Rgb Ws2812B Xinglight 1010Rgbc | 
+| name_no_type | 1010 Rgb Ws2812B Xinglight 1010Rgbc | 
+| name_no_size | Rgb Ws2812B Xinglight 1010Rgbc | 
 | short_code | l101028121010rgbc | 
 | short_code_upper | L101028121010RGBC | 
 | short_name | 1010 Rgbws2812B Led | 
@@ -83,14 +119,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 7UG67 | 
 | md5_10 | c9145fe9ed | 
 | md5_10_upper | C9145FE9ED | 
-| type_first_letter | l | 
-| type_first_letter_upper | L | 
 | size_only_numbers | 1010 | 
 | size_only_numbers_no_zeros | 11 | 
-| color_upper | RGB | 
-| color_first_letter | r | 
-| color_first_letter_upper | R | 
 | description_only_numbers | 2812 | 
+| name_no_size_short | Rgb Ws2k8B Xinglight 1010Rgbc | 
 | description_only_numbers_short | 2k8 | 
 | description_or_color | r2k8 | 
 | description_or_color_upper | R2K8 | 

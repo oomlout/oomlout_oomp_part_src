@@ -23,13 +23,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_c_polarized  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a/working  
 
@@ -47,13 +47,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference | C | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | CAPACITOR | 
+| type_capital | Capacitor | 
+| type_first_letter | c | 
+| type_first_letter_upper | C | 
+| size_upper | 3216_AVX_A | 
+| size_capital | 3216 Avx A | 
+| size_first_letter | 3 | 
+| size_first_letter_upper | 3 | 
+| color_upper | TANTALUM | 
+| color_capital | Tantalum | 
+| color_first_letter | t | 
+| color_first_letter_upper | T | 
+| description_main_upper | 4_7_MICRO_FARAD | 
+| description_main_capital | 4.7 Micro Farad | 
+| description_main_first_letter | 4 | 
+| description_main_first_letter_upper | 4 | 
+| description_extra_upper | 16_VOLT | 
+| description_extra_capital | 16 Volt | 
+| description_extra_first_letter | 1 | 
+| description_extra_first_letter_upper | 1 | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | id_no_class | capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | id_no_type | 3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
+| id_no_size | tantalum_4_7_micro_farad_16_volt | 
 | oomp_key | oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working | 
 | directory | parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 
 | name | Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt | 
+| name_no_class | Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt | 
+| name_no_type | 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt | 
+| name_no_size | Tantalum 4 7 Micro Farad 16 Volt | 
 | short_code | catuf4d7v16 | 
 | short_code_upper | CATUF4D7V16 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C7187', 'link': 'https://lcsc.com/product-detail/C7187.html', 'id': 'distributor_lcsc'}] | 
@@ -67,18 +103,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 5TGQ3 | 
 | md5_10 | 951eebab53 | 
 | md5_10_upper | 951EEBAB53 | 
-| type_first_letter | c | 
-| type_first_letter_upper | C | 
 | size_only_numbers | 3216 | 
 | size_only_numbers_no_zeros | 3216 | 
-| color_upper | TANTALUM | 
-| color_first_letter | t | 
-| color_first_letter_upper | T | 
 | description_only_numbers | 47 | 
+| name_no_size_short | Tantalum 4 7 Micro Farad 16 Volt | 
 | description_only_numbers_short | 47 | 
 | description_or_color | t47 | 
 | description_or_color_upper | T47 | 
 | markdown_full | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[catuf4d7v16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[LCSC - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ) [(L)  ](https://www.lcsc.com/search?q=TAJA475K016RNJ)[(D)  ](https://www.digikey.com/en/products?keywords=TAJA475K016RNJ)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TAJA475K016RNJ)[(N)  ](https://www.newark.com/search?st=TAJA475K016RNJ)[(SZ)  ](https://so.szlcsc.com/global.html?k=TAJA475K016RNJ)<br> | 
 | markdown_short | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)<br>[LCSC - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ) | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a', 'oomp_key': 'oomp_kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized', 'oomp_key': 'oomp_kicad_device_c_polarized', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a', 'oomp_key': 'oomp_kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized', 'oomp_key': 'oomp_kicad_device_c_polarized', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym', 'index': 0}] | 

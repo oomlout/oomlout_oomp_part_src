@@ -19,13 +19,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_led_smd_led_0805_2012metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_smd_led_0805_2012metric/working  
 
@@ -43,13 +43,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference | L | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | LED | 
+| type_capital | Led | 
+| type_first_letter | l | 
+| type_first_letter_upper | L | 
+| size_upper | 0805 | 
+| size_capital | 0805 | 
+| size_first_letter | 0 | 
+| size_first_letter_upper | 0 | 
+| color_upper | GREEN | 
+| color_capital | Green | 
+| color_first_letter | g | 
+| color_first_letter_upper | G | 
+| description_main_upper |  | 
+| description_main_capital |  | 
+| description_main_first_letter |  | 
+| description_main_first_letter_upper |  | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_led_0805_green | 
 | id_no_class | led_0805_green | 
 | id_no_type | 0805_green | 
+| id_no_size | green | 
 | oomp_key | oomp_electronic_led_0805_green | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working | 
 | directory | parts/electronic_led_0805_green | 
 | name | Electronic Led 0805 Green | 
+| name_no_class | Led 0805 Green | 
+| name_no_type | 0805 Green | 
+| name_no_size | Green | 
 | short_code | l8g | 
 | short_code_upper | L8G | 
 | short_name | 0805 Green Led | 
@@ -68,18 +104,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 59MFQ | 
 | md5_10 | 86fed6a509 | 
 | md5_10_upper | 86FED6A509 | 
-| type_first_letter | l | 
-| type_first_letter_upper | L | 
 | size_only_numbers | 0805 | 
 | size_only_numbers_no_zeros | 85 | 
-| color_upper | GREEN | 
-| color_first_letter | g | 
-| color_first_letter_upper | G | 
 | description_only_numbers |  | 
+| name_no_size_short | Green | 
 | description_only_numbers_short |   | 
 | description_or_color | g  | 
 | description_or_color_upper | G  | 
 | markdown_full | [electronic_led_0805_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br>[l8g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br>[Electronic Led 0805 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br><br> | 
 | markdown_short | [electronic_led_0805_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric', 'oomp_key': 'oomp_kicad_led_smd_led_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric', 'oomp_key': 'oomp_kicad_led_smd_led_0805_2012metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0}] | 

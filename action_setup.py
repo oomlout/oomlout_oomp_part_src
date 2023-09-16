@@ -3,9 +3,9 @@ import oom_git
 
 def main():
     #oomp.clone_data_files()
-    filter = "electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc"
+    #filter = "electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321"
     
-    #filter = ""
+    filter = ""
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
 

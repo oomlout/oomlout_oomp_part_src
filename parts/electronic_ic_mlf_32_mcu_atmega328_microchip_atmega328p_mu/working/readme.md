@@ -19,13 +19,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm/working  
 
@@ -42,13 +42,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturer | microchip | 
 | part_number | atmega328p_mu | 
 | short_name | atmega328 32 pin mlf | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | IC | 
+| type_capital | Ic | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_upper | MLF_32 | 
+| size_capital | Mlf 32 | 
+| size_first_letter | m | 
+| size_first_letter_upper | M | 
+| color_upper | MCU | 
+| color_capital | Mcu | 
+| color_first_letter | m | 
+| color_first_letter_upper | M | 
+| description_main_upper | ATMEGA328 | 
+| description_main_capital | Atmega328 | 
+| description_main_first_letter | a | 
+| description_main_first_letter_upper | A | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | MICROCHIP | 
+| manufacturer_capital | Microchip | 
+| manufacturer_first_letter | m | 
+| manufacturer_first_letter_upper | M | 
+| part_number_upper | ATMEGA328P_MU | 
+| part_number_capital | Atmega328P Mu | 
+| part_number_first_letter | a | 
+| part_number_first_letter_upper | A | 
 | id | electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | id_no_class | ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | id_no_type | mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
+| id_no_size | mcu_atmega328_microchip_atmega328p_mu | 
 | oomp_key | oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working | 
 | directory | parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu | 
 | name | Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu | 
+| name_no_class | Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu | 
+| name_no_type | Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu | 
+| name_no_size | Mcu Atmega328 Microchip Atmega328P Mu | 
 | short_code | imlf32mcuat328 | 
 | short_code_upper | IMLF32MCUAT328 | 
 | distributors | [] | 
@@ -62,18 +98,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 8DHZ9 | 
 | md5_10 | d6a4452edc | 
 | md5_10_upper | D6A4452EDC | 
-| type_first_letter | i | 
-| type_first_letter_upper | I | 
 | size_only_numbers | 32 | 
 | size_only_numbers_no_zeros | 32 | 
-| color_upper | MCU | 
-| color_first_letter | m | 
-| color_first_letter_upper | M | 
 | description_only_numbers | 328 | 
+| name_no_size_short | Mcu Atmega328 Microchip Atmega328P Mu | 
 | description_only_numbers_short | 328 | 
 | description_or_color | m328 | 
 | description_or_color_upper | M328 | 
 | markdown_full | [electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[imlf32mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br>[Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br><br> | 
 | markdown_short | [electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328_m', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328_m', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym', 'index': 0}] | 

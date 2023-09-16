@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: ''
+color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: surface_mount_only
+description_main_capital: Surface Mount Only
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SURFACE_MOUNT_ONLY
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -17,13 +30,19 @@ distributors:
     part_number: C91144
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
     oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working
 id: electronic_socket_usb_mini_surface_mount_only
 id_no_class: socket_usb_mini_surface_mount_only
+id_no_size: surface_mount_only
 id_no_type: usb_mini_surface_mount_only
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
 manufacturers:
 -   id: manufacturer_korean_hroparts_elec
     link: ''
@@ -46,8 +65,16 @@ md5_6_alpha: 224lc
 md5_6_alpha_upper: 224LC
 md5_6_upper: 34C5C0
 name: Electronic Socket Usb Mini Surface Mount Only
+name_no_class: Socket Usb Mini Surface Mount Only
+name_no_size: Surface Mount Only
+name_no_size_short: Surface Mount Only
+name_no_type: Usb Mini Surface Mount Only
 oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 pins:
     pin_1:
         name: vbus
@@ -77,12 +104,19 @@ short_code: scumnsmo
 short_code_upper: SCUMNSMO
 short_name: ''
 size: usb_mini
+size_capital: Usb Mini
+size_first_letter: u
+size_first_letter_upper: U
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
+size_upper: USB_MINI
 symbol:
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini
     oomp_key: oomp_kicad_connector_usb_b_mini
 type: socket
+type_capital: Socket
 type_first_letter: s
 type_first_letter_upper: S
+type_upper: SOCKET

@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: ''
+color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: 10_pin
+description_main_capital: 10 Pin
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_PIN
 description_only_numbers: '10'
 description_only_numbers_short: '10'
 description_or_color: '10'
@@ -14,9 +27,14 @@ distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin/working
 id: electronic_header_2_5_mm_jst_xh_10_pin
 id_no_class: header_2_5_mm_jst_xh_10_pin
+id_no_size: 10_pin
 id_no_type: 2_5_mm_jst_xh_10_pin
 kicad_reference: J
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_5_mm_jst_xh_10_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin/working)<br>[h10p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin/working)<br>[Electronic
     Header 2 5 Mm Jst Xh 10 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin/working)<br><br>'
@@ -31,13 +49,32 @@ md5_6_alpha: 1zcj5
 md5_6_alpha_upper: 1ZCJ5
 md5_6_upper: 32CB31
 name: Electronic Header 2 5 Mm Jst Xh 10 Pin
+name_no_class: Header 2 5 Mm Jst Xh 10 Pin
+name_no_size: 10 Pin
+name_no_size_short: 10 Pin
+name_no_type: 2 5 Mm Jst Xh 10 Pin
 oomp_key: oomp_electronic_header_2_5_mm_jst_xh_10_pin
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: h10p
 short_code_upper: H10P
 size: 2_5_mm_jst_xh
+size_capital: 2.5 mm Jst Xh
+size_first_letter: '2'
+size_first_letter_upper: '2'
 size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
+size_upper: 2_5_MM_JST_XH
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x10_pin
+    oomp_key: oomp_kicad_connector_conn_01x10_pin
 type: header
+type_capital: Header
 type_first_letter: h
 type_first_letter_upper: H
+type_upper: HEADER

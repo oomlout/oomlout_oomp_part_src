@@ -1,10 +1,23 @@
 classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
 color: ''
+color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
 description_main: 75000_ohm
+description_main_capital: 75000 Ohm
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 75000_OHM
 description_only_numbers: '75000'
 description_only_numbers_short: 75k
 description_or_color: 75k
@@ -21,9 +34,14 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_75000_ohm/working
 id: electronic_resistor_quarter_watt_through_hole_75000_ohm
 id_no_class: resistor_quarter_watt_through_hole_75000_ohm
+id_no_size: 75000_ohm
 id_no_type: quarter_watt_through_hole_75000_ohm
 kicad_reference: R
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_quarter_watt_through_hole_75000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_75000_ohm/working)<br>[ro753](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_75000_ohm/working)<br>[Electronic
     Resistor Quarter Watt Through Hole 75000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_75000_ohm/working)<br><br>'
@@ -38,13 +56,32 @@ md5_6_alpha: 2omkp
 md5_6_alpha_upper: 2OMKP
 md5_6_upper: 44CA49
 name: Electronic Resistor Quarter Watt Through Hole 75000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 75000 Ohm
+name_no_size: 75000 Ohm
+name_no_size_short: 75k Ohm
+name_no_type: Quarter Watt Through Hole 75000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_75000_ohm
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: ro753
 short_code_upper: RO753
 size: quarter_watt_through_hole
+size_capital: Quarter Watt Through Hole
+size_first_letter: q
+size_first_letter_upper: Q
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
+size_upper: QUARTER_WATT_THROUGH_HOLE
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+    oomp_key: oomp_kicad_device_r
 type: resistor
+type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_upper: RESISTOR

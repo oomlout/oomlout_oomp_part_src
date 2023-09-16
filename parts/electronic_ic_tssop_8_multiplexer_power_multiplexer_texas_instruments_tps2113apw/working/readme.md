@@ -71,13 +71,49 @@ List of Pins:
 | pins_pin_8_type | power | 
 | kicad_reference | IC | 
 | notes | [] | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | IC | 
+| type_capital | Ic | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_upper | TSSOP_8 | 
+| size_capital | Tssop 8 | 
+| size_first_letter | t | 
+| size_first_letter_upper | T | 
+| color_upper | MULTIPLEXER | 
+| color_capital | Multiplexer | 
+| color_first_letter | m | 
+| color_first_letter_upper | M | 
+| description_main_upper | POWER_MULTIPLEXER | 
+| description_main_capital | Power Multiplexer | 
+| description_main_first_letter | p | 
+| description_main_first_letter_upper | P | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper | TEXAS_INSTRUMENTS | 
+| manufacturer_capital | Texas Instruments | 
+| manufacturer_first_letter | t | 
+| manufacturer_first_letter_upper | T | 
+| part_number_upper | TPS2113APW | 
+| part_number_capital | Tps2113Apw | 
+| part_number_first_letter | t | 
+| part_number_first_letter_upper | T | 
 | id | electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw | 
 | id_no_class | ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw | 
 | id_no_type | tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw | 
+| id_no_size | multiplexer_power_multiplexer_texas_instruments_tps2113apw | 
 | oomp_key | oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working | 
 | directory | parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw | 
 | name | Electronic Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
+| name_no_class | Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
+| name_no_type | Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
+| name_no_size | Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
 | short_code | itssp8mpptps2113 | 
 | short_code_upper | ITSSP8MPPTPS2113 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C130052', 'link': 'https://lcsc.com/product-detail/C130052.html', 'id': 'distributor_lcsc'}] | 
@@ -91,14 +127,10 @@ List of Pins:
 | md5_6_alpha_upper | 4WE3C | 
 | md5_10 | 7d9358577c | 
 | md5_10_upper | 7D9358577C | 
-| type_first_letter | i | 
-| type_first_letter_upper | I | 
 | size_only_numbers | 8 | 
 | size_only_numbers_no_zeros | 8 | 
-| color_upper | MULTIPLEXER | 
-| color_first_letter | m | 
-| color_first_letter_upper | M | 
 | description_only_numbers |  | 
+| name_no_size_short | Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
 | description_only_numbers_short |   | 
 | description_or_color | m  | 
 | description_or_color_upper | M  | 

@@ -32,13 +32,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_b_mini  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal/working  
 
@@ -73,13 +73,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_6_name | shield | 
 | pins_pin_6_number | 6 | 
 | pins_pin_6_type | signal | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | SOCKET | 
+| type_capital | Socket | 
+| type_first_letter | s | 
+| type_first_letter_upper | S | 
+| size_upper | USB_MINI | 
+| size_capital | Usb Mini | 
+| size_first_letter | u | 
+| size_first_letter_upper | U | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | SURFACE_MOUNT_ONLY | 
+| description_main_capital | Surface Mount Only | 
+| description_main_first_letter | s | 
+| description_main_first_letter_upper | S | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_socket_usb_mini_surface_mount_only | 
 | id_no_class | socket_usb_mini_surface_mount_only | 
 | id_no_type | usb_mini_surface_mount_only | 
+| id_no_size | surface_mount_only | 
 | oomp_key | oomp_electronic_socket_usb_mini_surface_mount_only | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working | 
 | directory | parts/electronic_socket_usb_mini_surface_mount_only | 
 | name | Electronic Socket Usb Mini Surface Mount Only | 
+| name_no_class | Socket Usb Mini Surface Mount Only | 
+| name_no_type | Usb Mini Surface Mount Only | 
+| name_no_size | Surface Mount Only | 
 | short_code | scumnsmo | 
 | short_code_upper | SCUMNSMO | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C91144', 'link': 'https://lcsc.com/product-detail/C91144.html', 'id': 'distributor_lcsc'}] | 
@@ -93,18 +129,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 224LC | 
 | md5_10 | 34c5c0be33 | 
 | md5_10_upper | 34C5C0BE33 | 
-| type_first_letter | s | 
-| type_first_letter_upper | S | 
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers |  | 
+| name_no_size_short | Surface Mount Only | 
 | description_only_numbers_short |   | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[Electronic Socket Usb Mini Surface Mount Only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br> | 
 | markdown_short | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini', 'oomp_key': 'oomp_kicad_connector_usb_b_mini', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini', 'oomp_key': 'oomp_kicad_connector_usb_b_mini', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym', 'index': 0}] | 

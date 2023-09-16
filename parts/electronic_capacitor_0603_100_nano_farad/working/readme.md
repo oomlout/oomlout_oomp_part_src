@@ -25,13 +25,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_smd_c_0603_1608metric/working  
 
@@ -49,13 +49,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference | C | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | CAPACITOR | 
+| type_capital | Capacitor | 
+| type_first_letter | c | 
+| type_first_letter_upper | C | 
+| size_upper | 0603 | 
+| size_capital | 0603 | 
+| size_first_letter | 0 | 
+| size_first_letter_upper | 0 | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | 100_NANO_FARAD | 
+| description_main_capital | 100 Nano Farad | 
+| description_main_first_letter | 1 | 
+| description_main_first_letter_upper | 1 | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_capacitor_0603_100_nano_farad | 
 | id_no_class | capacitor_0603_100_nano_farad | 
 | id_no_type | 0603_100_nano_farad | 
+| id_no_size | 100_nano_farad | 
 | oomp_key | oomp_electronic_capacitor_0603_100_nano_farad | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working | 
 | directory | parts/electronic_capacitor_0603_100_nano_farad | 
 | name | Electronic Capacitor 0603 100 Nano Farad | 
+| name_no_class | Capacitor 0603 100 Nano Farad | 
+| name_no_type | 0603 100 Nano Farad | 
+| name_no_size | 100 Nano Farad | 
 | short_code | c6nf100 | 
 | short_code_upper | C6NF100 | 
 | distributors | [{'name': 'LCSC', 'part_number': 'C14663', 'link': 'https://lcsc.com/product-detail/C14663.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C30926', 'link': 'https://lcsc.com/product-detail/C30926.html', 'id': 'distributor_lcsc'}] | 
@@ -73,18 +109,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 5I1LD | 
 | md5_10 | 8cfd91c8b4 | 
 | md5_10_upper | 8CFD91C8B4 | 
-| type_first_letter | c | 
-| type_first_letter_upper | C | 
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers | 100 | 
+| name_no_size_short | 100 Nano Farad | 
 | description_only_numbers_short | 100 | 
 | description_or_color | 100 | 
 | description_or_color_upper | 100 | 
 | markdown_full | [electronic_capacitor_0603_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working)<br>[c6nf100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working)<br>[Electronic Capacitor 0603 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working)<br>[LCSC - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do) [(L)  ](https://www.lcsc.com/search?q=CL10B104KB8NNNC)[(D)  ](https://www.digikey.com/en/products?keywords=CL10B104KB8NNNC)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CL10B104KB8NNNC)[(N)  ](https://www.newark.com/search?st=CL10B104KB8NNNC)[(SZ)  ](https://so.szlcsc.com/global.html?k=CL10B104KB8NNNC)<br>[Yageo - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104) [(L)  ](https://www.lcsc.com/search?q=CC0603KRX7R9BB104)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603KRX7R9BB104)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB104)[(N)  ](https://www.newark.com/search?st=CC0603KRX7R9BB104)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB104)<br> | 
 | markdown_short | [electronic_capacitor_0603_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad/working)<br>[LCSC - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do)[Yageo - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104) | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym', 'index': 0}] | 

@@ -37,7 +37,7 @@ List of Pins:
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm/working  
 
@@ -99,13 +99,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_14_type | signal | 
 | kicad_reference | U | 
 | notes | [] | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | INTERPOSER | 
+| type_capital | Interposer | 
+| type_first_letter | i | 
+| type_first_letter_upper | I | 
+| size_upper | SOIC_14_WIDE | 
+| size_capital | Soic 14 Wide | 
+| size_first_letter | s | 
+| size_first_letter_upper | S | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | I2C | 
+| description_main_capital | I2C | 
+| description_main_first_letter | i | 
+| description_main_first_letter_upper | I | 
+| description_extra_upper | LANDING | 
+| description_extra_capital | Landing | 
+| description_extra_first_letter | l | 
+| description_extra_first_letter_upper | L | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_interposer_soic_14_wide_i2c_landing | 
 | id_no_class | interposer_soic_14_wide_i2c_landing | 
 | id_no_type | soic_14_wide_i2c_landing | 
+| id_no_size | i2c_landing | 
 | oomp_key | oomp_electronic_interposer_soic_14_wide_i2c_landing | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working | 
 | directory | parts/electronic_interposer_soic_14_wide_i2c_landing | 
 | name | Electronic Interposer Soic 14 Wide I2C Landing | 
+| name_no_class | Interposer Soic 14 Wide I2C Landing | 
+| name_no_type | Soic 14 Wide I2C Landing | 
+| name_no_size | I2C Landing | 
 | short_code | insoic14wi2cland | 
 | short_code_upper | INSOIC14WI2CLAND | 
 | distributors | [] | 
@@ -119,17 +155,13 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 2DMQM | 
 | md5_10 | 3cf65e88ee | 
 | md5_10_upper | 3CF65E88EE | 
-| type_first_letter | i | 
-| type_first_letter_upper | I | 
 | size_only_numbers | 14 | 
 | size_only_numbers_no_zeros | 14 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers | 2 | 
+| name_no_size_short | I2C Landing | 
 | description_only_numbers_short | 2 | 
 | description_or_color | 2 | 
 | description_or_color_upper | 2 | 
 | markdown_full | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[insoic14wi2cland](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[Electronic Interposer Soic 14 Wide I2C Landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br> | 
 | markdown_short | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod', 'index': 0}] | 

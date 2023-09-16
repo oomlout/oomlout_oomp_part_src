@@ -19,13 +19,13 @@
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_device_nettie_4  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_nettie_nettie_4_tht_pad0_3mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_nettie_nettie_4_tht_pad0_3mm/working  
 
@@ -43,13 +43,49 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | part_number |  | 
 | filter |  | 
 | kicad_reference |  | 
+| classification_upper | ELECTRONIC | 
+| classification_capital | Electronic | 
+| classification_first_letter | e | 
+| classification_first_letter_upper | E | 
+| type_upper | NETTIE | 
+| type_capital | Nettie | 
+| type_first_letter | n | 
+| type_first_letter_upper | N | 
+| size_upper | 4_NETS | 
+| size_capital | 4 Nets | 
+| size_first_letter | 4 | 
+| size_first_letter_upper | 4 | 
+| color_upper |  | 
+| color_capital |  | 
+| color_first_letter |  | 
+| color_first_letter_upper |  | 
+| description_main_upper | THROUGH_HOLE | 
+| description_main_capital | Through Hole | 
+| description_main_first_letter | t | 
+| description_main_first_letter_upper | T | 
+| description_extra_upper |  | 
+| description_extra_capital |  | 
+| description_extra_first_letter |  | 
+| description_extra_first_letter_upper |  | 
+| manufacturer_upper |  | 
+| manufacturer_capital |  | 
+| manufacturer_first_letter |  | 
+| manufacturer_first_letter_upper |  | 
+| part_number_upper |  | 
+| part_number_capital |  | 
+| part_number_first_letter |  | 
+| part_number_first_letter_upper |  | 
 | id | electronic_nettie_4_nets_through_hole | 
 | id_no_class | nettie_4_nets_through_hole | 
 | id_no_type | 4_nets_through_hole | 
+| id_no_size | through_hole | 
 | oomp_key | oomp_electronic_nettie_4_nets_through_hole | 
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working | 
 | directory | parts/electronic_nettie_4_nets_through_hole | 
 | name | Electronic Nettie 4 Nets Through Hole | 
+| name_no_class | Nettie 4 Nets Through Hole | 
+| name_no_type | 4 Nets Through Hole | 
+| name_no_size | Through Hole | 
 | short_code | nt4th | 
 | short_code_upper | NT4TH | 
 | distributors | [] | 
@@ -63,18 +99,14 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | md5_6_alpha_upper | 6Q20B | 
 | md5_10 | ac52abec84 | 
 | md5_10_upper | AC52ABEC84 | 
-| type_first_letter | n | 
-| type_first_letter_upper | N | 
 | size_only_numbers | 4 | 
 | size_only_numbers_no_zeros | 4 | 
-| color_upper |  | 
-| color_first_letter |  | 
-| color_first_letter_upper |  | 
 | description_only_numbers |  | 
+| name_no_size_short | Through Hole | 
 | description_only_numbers_short |   | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[Electronic Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br> | 
 | markdown_short | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm', 'oomp_key': 'oomp_kicad_nettie_nettie_4_tht_pad0_3mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4', 'oomp_key': 'oomp_kicad_device_nettie_4', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm', 'oomp_key': 'oomp_kicad_nettie_nettie_4_tht_pad0_3mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4', 'oomp_key': 'oomp_kicad_device_nettie_4', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym', 'index': 0}] | 
