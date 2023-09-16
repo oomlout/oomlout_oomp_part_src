@@ -32,7 +32,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_b_mini  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_mini/working  
 
@@ -132,8 +132,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
 | description_only_numbers |  | 
-| name_no_size_short | Surface Mount Only | 
 | description_only_numbers_short |   | 
+| name_no_size_short | Surface Mount Only | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[Electronic Socket Usb Mini Surface Mount Only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br> | 

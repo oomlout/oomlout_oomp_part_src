@@ -29,7 +29,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_a  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a/working  
 
@@ -126,8 +126,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
 | description_only_numbers |  | 
-| name_no_size_short | Through Hole | 
 | description_only_numbers_short |   | 
+| name_no_size_short | Through Hole | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> | 

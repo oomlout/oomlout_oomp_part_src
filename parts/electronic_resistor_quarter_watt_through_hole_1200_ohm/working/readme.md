@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -102,8 +102,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
 | description_only_numbers | 1200 | 
-| name_no_size_short | 1k2 Ohm | 
 | description_only_numbers_short | 1k2 | 
+| name_no_size_short | 1k2 Ohm | 
 | description_or_color | 1k2 | 
 | description_or_color_upper | 1K2 | 
 | markdown_full | [electronic_resistor_quarter_watt_through_hole_1200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm/working)<br>[ro122](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 1200 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm/working)<br><br> | 

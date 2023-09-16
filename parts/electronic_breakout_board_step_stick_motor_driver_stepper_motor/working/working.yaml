@@ -21,7 +21,7 @@ description_main_first_letter_upper: S
 description_main_upper: STEPPER_MOTOR
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: 'm '
+description_or_color: 'M '
 description_or_color_upper: 'M '
 directory: parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor
 distributors: []

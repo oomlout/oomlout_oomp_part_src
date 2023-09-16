@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
@@ -103,8 +103,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 10 | 
 | size_only_numbers_no_zeros | 1 | 
 | description_only_numbers |  | 
-| name_no_size_short | 10 Mm | 
 | description_only_numbers_short |   | 
+| name_no_size_short | 10 Mm | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_led_10_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br>[l10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br>[Electronic Led 10 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm/working)<br><br> | 

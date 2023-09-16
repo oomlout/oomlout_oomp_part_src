@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_regulator_linear_ap1117_adj  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj/working  
 
@@ -105,9 +105,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 223 | 
 | size_only_numbers_no_zeros | 223 | 
 | description_only_numbers | 1117 | 
-| name_no_size_short | Linear 1k1 Adj | 
 | description_only_numbers_short | 1k1 | 
-| description_or_color | l1k1 | 
+| name_no_size_short | Linear 1k1 Adj | 
+| description_or_color | L1k1 | 
 | description_or_color_upper | L1K1 | 
 | markdown_full | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> | 
 | markdown_short | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> | 

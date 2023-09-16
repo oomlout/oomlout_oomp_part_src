@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -110,8 +110,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 1206 | 
 | size_only_numbers_no_zeros | 126 | 
 | description_only_numbers | 3300 | 
-| name_no_size_short | 3k3 Ohm | 
 | description_only_numbers_short | 3k3 | 
+| name_no_size_short | 3k3 Ohm | 
 | description_or_color | 3k3 | 
 | description_or_color_upper | 3K3 | 
 | markdown_full | [electronic_resistor_1206_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br>[r12o332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br>[Electronic Resistor 1206 3300 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3300_ohm/working)<br><br>[Uniroyal - 1206W4J0332T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0332T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0332T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0332T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0332T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0332T5E)<br>[Uniroyal - 1206W4F3301T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F3301T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F3301T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F3301T5E)[(N)  ](https://www.newark.com/search?st=1206W4F3301T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F3301T5E)<br>[Yageo - RC1206JR-073K3L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K3L) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-073K3L)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-073K3L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-073K3L)[(N)  ](https://www.newark.com/search?st=RC1206JR-073K3L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-073K3L)<br> | 

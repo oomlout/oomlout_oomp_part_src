@@ -22,7 +22,7 @@ electronic_breakout_board_shennie_mcu_atmega328:
     description_main_upper: ATMEGA328
     description_only_numbers: '328'
     description_only_numbers_short: '328'
-    description_or_color: m328
+    description_or_color: M328
     description_or_color_upper: M328
     directory: parts/electronic_breakout_board_shennie_mcu_atmega328
     distributors: []
@@ -228,7 +228,7 @@ electronic_breakout_board_step_stick_motor_driver_stepper_motor:
     description_main_upper: STEPPER_MOTOR
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'm '
+    description_or_color: 'M '
     description_or_color_upper: 'M '
     directory: parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor
     distributors: []
@@ -377,7 +377,7 @@ electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 's '
+    description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
     distributors:
@@ -473,9 +473,9 @@ electronic_capacitor_0402_100_nano_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 100_NANO_FARAD
     description_only_numbers: '100'
-    description_only_numbers_short: '100'
-    description_or_color: '100'
-    description_or_color_upper: '100'
+    description_only_numbers_short: 100nf
+    description_or_color: 100nf
+    description_or_color_upper: 100NF
     directory: parts/electronic_capacitor_0402_100_nano_farad
     distributors: []
     filter: ''
@@ -513,7 +513,7 @@ electronic_capacitor_0402_100_nano_farad:
     name: Electronic Capacitor 0402 100 Nano Farad
     name_no_class: Capacitor 0402 100 Nano Farad
     name_no_size: 100 Nano Farad
-    name_no_size_short: 100 Nano Farad
+    name_no_size_short: 100nf Nano Farad
     name_no_type: 0402 100 Nano Farad
     oomp_key: oomp_electronic_capacitor_0402_100_nano_farad
     package_style: smd_tape
@@ -566,9 +566,9 @@ electronic_capacitor_0402_10_nano_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 10_NANO_FARAD
     description_only_numbers: '10'
-    description_only_numbers_short: '10'
-    description_or_color: '10'
-    description_or_color_upper: '10'
+    description_only_numbers_short: 10nf
+    description_or_color: 10nf
+    description_or_color_upper: 10NF
     directory: parts/electronic_capacitor_0402_10_nano_farad
     distributors: []
     filter: ''
@@ -606,7 +606,7 @@ electronic_capacitor_0402_10_nano_farad:
     name: Electronic Capacitor 0402 10 Nano Farad
     name_no_class: Capacitor 0402 10 Nano Farad
     name_no_size: 10 Nano Farad
-    name_no_size_short: 10 Nano Farad
+    name_no_size_short: 10nf Nano Farad
     name_no_type: 0402 10 Nano Farad
     oomp_key: oomp_electronic_capacitor_0402_10_nano_farad
     package_style: smd_tape
@@ -659,9 +659,9 @@ electronic_capacitor_0402_1_micro_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 1_MICRO_FARAD
     description_only_numbers: '1'
-    description_only_numbers_short: '1'
-    description_or_color: '1'
-    description_or_color_upper: '1'
+    description_only_numbers_short: 1uf
+    description_or_color: 1uf
+    description_or_color_upper: 1UF
     directory: parts/electronic_capacitor_0402_1_micro_farad
     distributors: []
     filter: ''
@@ -699,7 +699,7 @@ electronic_capacitor_0402_1_micro_farad:
     name: Electronic Capacitor 0402 1 Micro Farad
     name_no_class: Capacitor 0402 1 Micro Farad
     name_no_size: 1 Micro Farad
-    name_no_size_short: 1 Micro Farad
+    name_no_size_short: 1uf Micro Farad
     name_no_type: 0402 1 Micro Farad
     oomp_key: oomp_electronic_capacitor_0402_1_micro_farad
     package_style: smd_tape
@@ -752,9 +752,9 @@ electronic_capacitor_0402_22_nano_farad:
     description_main_first_letter_upper: '2'
     description_main_upper: 22_NANO_FARAD
     description_only_numbers: '22'
-    description_only_numbers_short: '22'
-    description_or_color: '22'
-    description_or_color_upper: '22'
+    description_only_numbers_short: 22nf
+    description_or_color: 22nf
+    description_or_color_upper: 22NF
     directory: parts/electronic_capacitor_0402_22_nano_farad
     distributors: []
     filter: ''
@@ -792,7 +792,7 @@ electronic_capacitor_0402_22_nano_farad:
     name: Electronic Capacitor 0402 22 Nano Farad
     name_no_class: Capacitor 0402 22 Nano Farad
     name_no_size: 22 Nano Farad
-    name_no_size_short: 22 Nano Farad
+    name_no_size_short: 22nf Nano Farad
     name_no_type: 0402 22 Nano Farad
     oomp_key: oomp_electronic_capacitor_0402_22_nano_farad
     package_style: smd_tape
@@ -845,9 +845,9 @@ electronic_capacitor_0402_22_pico_farad:
     description_main_first_letter_upper: '2'
     description_main_upper: 22_PICO_FARAD
     description_only_numbers: '22'
-    description_only_numbers_short: '22'
-    description_or_color: '22'
-    description_or_color_upper: '22'
+    description_only_numbers_short: 22pf
+    description_or_color: 22pf
+    description_or_color_upper: 22PF
     directory: parts/electronic_capacitor_0402_22_pico_farad
     distributors: []
     filter: ''
@@ -885,7 +885,7 @@ electronic_capacitor_0402_22_pico_farad:
     name: Electronic Capacitor 0402 22 Pico Farad
     name_no_class: Capacitor 0402 22 Pico Farad
     name_no_size: 22 Pico Farad
-    name_no_size_short: 22 Pico Farad
+    name_no_size_short: 22pf Pico Farad
     name_no_type: 0402 22 Pico Farad
     oomp_key: oomp_electronic_capacitor_0402_22_pico_farad
     package_style: smd_tape
@@ -938,9 +938,9 @@ electronic_capacitor_0603_100_nano_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 100_NANO_FARAD
     description_only_numbers: '100'
-    description_only_numbers_short: '100'
-    description_or_color: '100'
-    description_or_color_upper: '100'
+    description_only_numbers_short: 100nf
+    description_or_color: 100nf
+    description_or_color_upper: 100NF
     directory: parts/electronic_capacitor_0603_100_nano_farad
     distributors:
     -   id: distributor_lcsc
@@ -1002,7 +1002,7 @@ electronic_capacitor_0603_100_nano_farad:
     name: Electronic Capacitor 0603 100 Nano Farad
     name_no_class: Capacitor 0603 100 Nano Farad
     name_no_size: 100 Nano Farad
-    name_no_size_short: 100 Nano Farad
+    name_no_size_short: 100nf Nano Farad
     name_no_type: 0603 100 Nano Farad
     oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
     package_style: smd_tape
@@ -1055,9 +1055,9 @@ electronic_capacitor_0603_10_micro_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 10_MICRO_FARAD
     description_only_numbers: '10'
-    description_only_numbers_short: '10'
-    description_or_color: '10'
-    description_or_color_upper: '10'
+    description_only_numbers_short: 10uf
+    description_or_color: 10uf
+    description_or_color_upper: 10UF
     directory: parts/electronic_capacitor_0603_10_micro_farad
     distributors: []
     filter: ''
@@ -1095,7 +1095,7 @@ electronic_capacitor_0603_10_micro_farad:
     name: Electronic Capacitor 0603 10 Micro Farad
     name_no_class: Capacitor 0603 10 Micro Farad
     name_no_size: 10 Micro Farad
-    name_no_size_short: 10 Micro Farad
+    name_no_size_short: 10uf Micro Farad
     name_no_type: 0603 10 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_10_micro_farad
     package_style: smd_tape
@@ -1148,9 +1148,9 @@ electronic_capacitor_0603_10_nano_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 10_NANO_FARAD
     description_only_numbers: '10'
-    description_only_numbers_short: '10'
-    description_or_color: '10'
-    description_or_color_upper: '10'
+    description_only_numbers_short: 10nf
+    description_or_color: 10nf
+    description_or_color_upper: 10NF
     directory: parts/electronic_capacitor_0603_10_nano_farad
     distributors: []
     filter: ''
@@ -1195,7 +1195,7 @@ electronic_capacitor_0603_10_nano_farad:
     name: Electronic Capacitor 0603 10 Nano Farad
     name_no_class: Capacitor 0603 10 Nano Farad
     name_no_size: 10 Nano Farad
-    name_no_size_short: 10 Nano Farad
+    name_no_size_short: 10nf Nano Farad
     name_no_type: 0603 10 Nano Farad
     oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
     package_style: smd_tape
@@ -1248,9 +1248,9 @@ electronic_capacitor_0603_1_micro_farad:
     description_main_first_letter_upper: '1'
     description_main_upper: 1_MICRO_FARAD
     description_only_numbers: '1'
-    description_only_numbers_short: '1'
-    description_or_color: '1'
-    description_or_color_upper: '1'
+    description_only_numbers_short: 1uf
+    description_or_color: 1uf
+    description_or_color_upper: 1UF
     directory: parts/electronic_capacitor_0603_1_micro_farad
     distributors: []
     filter: ''
@@ -1288,7 +1288,7 @@ electronic_capacitor_0603_1_micro_farad:
     name: Electronic Capacitor 0603 1 Micro Farad
     name_no_class: Capacitor 0603 1 Micro Farad
     name_no_size: 1 Micro Farad
-    name_no_size_short: 1 Micro Farad
+    name_no_size_short: 1uf Micro Farad
     name_no_type: 0603 1 Micro Farad
     oomp_key: oomp_electronic_capacitor_0603_1_micro_farad
     package_style: smd_tape
@@ -1341,9 +1341,9 @@ electronic_capacitor_0603_22_pico_farad:
     description_main_first_letter_upper: '2'
     description_main_upper: 22_PICO_FARAD
     description_only_numbers: '22'
-    description_only_numbers_short: '22'
-    description_or_color: '22'
-    description_or_color_upper: '22'
+    description_only_numbers_short: 22pf
+    description_or_color: 22pf
+    description_or_color_upper: 22PF
     directory: parts/electronic_capacitor_0603_22_pico_farad
     distributors: []
     filter: ''
@@ -1393,7 +1393,7 @@ electronic_capacitor_0603_22_pico_farad:
     name: Electronic Capacitor 0603 22 Pico Farad
     name_no_class: Capacitor 0603 22 Pico Farad
     name_no_size: 22 Pico Farad
-    name_no_size_short: 22 Pico Farad
+    name_no_size_short: 22pf Pico Farad
     name_no_type: 0603 22 Pico Farad
     oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
     package_style: smd_tape
@@ -1446,9 +1446,9 @@ electronic_capacitor_0603_4_7_micro_farad:
     description_main_first_letter_upper: '4'
     description_main_upper: 4_7_MICRO_FARAD
     description_only_numbers: '47'
-    description_only_numbers_short: '47'
-    description_or_color: '47'
-    description_or_color_upper: '47'
+    description_only_numbers_short: 47uf
+    description_or_color: 47uf
+    description_or_color_upper: 47UF
     directory: parts/electronic_capacitor_0603_4_7_micro_farad
     distributors: []
     filter: ''
@@ -1539,9 +1539,9 @@ electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt:
     description_main_first_letter_upper: '4'
     description_main_upper: 4_7_MICRO_FARAD
     description_only_numbers: '47'
-    description_only_numbers_short: '47'
-    description_or_color: t47
-    description_or_color_upper: T47
+    description_only_numbers_short: 47uf
+    description_or_color: T47uf
+    description_or_color_upper: T47UF
     directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
     distributors:
     -   id: distributor_lcsc
@@ -1639,9 +1639,9 @@ electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10
     description_main_first_letter_upper: '2'
     description_main_upper: 220_MICRO_FARAD
     description_only_numbers: '220'
-    description_only_numbers_short: '220'
-    description_or_color: e220
-    description_or_color_upper: E220
+    description_only_numbers_short: 220uf
+    description_or_color: E220uf
+    description_or_color_upper: E220UF
     directory: parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
     distributors: []
     filter: ''
@@ -1681,7 +1681,7 @@ electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10
     name_no_class: Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad
         10 Volt
     name_no_size: Electrolytic 220 Micro Farad 10 Volt
-    name_no_size_short: Electrolytic 220 Micro Farad 10 Volt
+    name_no_size_short: Electrolytic 220uf Micro Farad 10 Volt
     name_no_type: 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt
     oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
     part_number: ''
@@ -1730,9 +1730,9 @@ electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10
     description_main_first_letter_upper: '2'
     description_main_upper: 220_MICRO_FARAD
     description_only_numbers: '220'
-    description_only_numbers_short: '220'
-    description_or_color: e220
-    description_or_color_upper: E220
+    description_only_numbers_short: 220uf
+    description_or_color: E220uf
+    description_or_color_upper: E220UF
     directory: parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt
     distributors: []
     filter: ''
@@ -1772,7 +1772,7 @@ electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10
     name_no_class: Capacitor 6 3 Mm Diameter 7 7 Mm Tall Electrolytic 220 Micro Farad
         10 Volt
     name_no_size: Electrolytic 220 Micro Farad 10 Volt
-    name_no_size_short: Electrolytic 220 Micro Farad 10 Volt
+    name_no_size_short: Electrolytic 220uf Micro Farad 10 Volt
     name_no_type: 6 3 Mm Diameter 7 7 Mm Tall Electrolytic 220 Micro Farad 10 Volt
     oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt
     part_number: ''
@@ -1821,9 +1821,9 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
     description_main_first_letter_upper: '2'
     description_main_upper: 220_MICRO_FARAD
     description_only_numbers: '220'
-    description_only_numbers_short: '220'
-    description_or_color: e220
-    description_or_color_upper: E220
+    description_only_numbers_short: 220uf
+    description_or_color: E220uf
+    description_or_color_upper: E220UF
     directory: parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
     distributors: []
     filter: ''
@@ -1863,7 +1863,7 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
     name_no_class: Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad
         10 Volt
     name_no_size: Electrolytic 220 Micro Farad 10 Volt
-    name_no_size_short: Electrolytic 220 Micro Farad 10 Volt
+    name_no_size_short: Electrolytic 220uf Micro Farad 10 Volt
     name_no_type: 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt
     oomp_key: oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
     part_number: ''
@@ -29615,7 +29615,7 @@ electronic_ic_0603_sensor_light_everlight_elec_als_pt19:
     description_main_upper: LIGHT
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 's '
+    description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
     distributors:
@@ -29718,7 +29718,7 @@ electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu:
     description_main_upper: ATMEGA328
     description_only_numbers: '328'
     description_only_numbers_short: '328'
-    description_or_color: m328
+    description_or_color: M328
     description_or_color_upper: M328
     directory: parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
     distributors: []
@@ -29805,7 +29805,7 @@ electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
     distributors:
@@ -29931,7 +29931,7 @@ electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321:
     description_main_upper: ACCELEROMETER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 's '
+    description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
     distributors: []
@@ -30062,7 +30062,7 @@ electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
     description_main_upper: PRESSURE_TEMPERATURE
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 's '
+    description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
     distributors: []
@@ -30184,7 +30184,7 @@ electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu:
     description_main_upper: ATMEGA328
     description_only_numbers: '328'
     description_only_numbers_short: '328'
-    description_or_color: m328
+    description_or_color: M328
     description_or_color_upper: M328
     directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
     distributors: []
@@ -30271,7 +30271,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     distributors:
@@ -30407,7 +30407,7 @@ electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
     distributors:
@@ -30543,7 +30543,7 @@ electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_
     description_main_upper: USB_MULTIPLEXER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'm '
+    description_or_color: 'M '
     description_or_color_upper: 'M '
     directory: parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
     distributors:
@@ -30676,7 +30676,7 @@ electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn:
     description_main_upper: ATMEGA328
     description_only_numbers: '328'
     description_only_numbers_short: '328'
-    description_or_color: m328
+    description_or_color: M328
     description_or_color_upper: M328
     directory: parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
     distributors: []
@@ -30758,7 +30758,7 @@ electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_elect
     description_main_upper: LED_MATRIX_DRIVER_16_X_8
     description_only_numbers: '168'
     description_only_numbers_short: '168'
-    description_or_color: l168
+    description_or_color: L168
     description_or_color_upper: L168
     directory: parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
     distributors: []
@@ -30961,7 +30961,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
     distributors:
@@ -31116,7 +31116,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
     distributors:
@@ -31276,7 +31276,7 @@ electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
     distributors:
@@ -31436,7 +31436,7 @@ electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
     distributors:
@@ -31554,7 +31554,7 @@ electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t:
     description_main_upper: USB_TO_SERIAL_CONVERTER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'c '
+    description_or_color: 'C '
     description_or_color_upper: 'C '
     directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
     distributors:
@@ -31725,7 +31725,7 @@ electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au:
     description_main_upper: ATMEGA328
     description_only_numbers: '328'
     description_only_numbers_short: '328'
-    description_or_color: m328
+    description_or_color: M328
     description_or_color_upper: M328
     directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     distributors:
@@ -31836,7 +31836,7 @@ electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
     description_main_upper: POWER_MULTIPLEXER
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'm '
+    description_or_color: 'M '
     description_or_color_upper: 'M '
     directory: parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
     distributors:
@@ -31844,6 +31844,11 @@ electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
         link: https://lcsc.com/product-detail/C130052.html
         name: LCSC
         part_number: C130052
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+        oomp_key: oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working
     id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
     id_no_class: ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
@@ -31954,7 +31959,7 @@ electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh:
     description_main_upper: ATMEGA328
     description_only_numbers: '328'
     description_only_numbers_short: '328'
-    description_or_color: m328
+    description_or_color: M328
     description_or_color_upper: M328
     directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
     distributors: []
@@ -32419,7 +32424,7 @@ electronic_led_0201_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_0201_blue
     distributors: []
@@ -32509,7 +32514,7 @@ electronic_led_0201_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_0201_green
     distributors: []
@@ -32599,7 +32604,7 @@ electronic_led_0201_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_0201_red
     distributors: []
@@ -32689,7 +32694,7 @@ electronic_led_0201_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_0201_white
     distributors: []
@@ -32779,7 +32784,7 @@ electronic_led_0201_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_0201_yellow
     distributors: []
@@ -32963,7 +32968,7 @@ electronic_led_0402_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_0402_blue
     distributors: []
@@ -33057,7 +33062,7 @@ electronic_led_0402_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_0402_green
     distributors: []
@@ -33151,7 +33156,7 @@ electronic_led_0402_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_0402_red
     distributors: []
@@ -33245,7 +33250,7 @@ electronic_led_0402_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_0402_white
     distributors: []
@@ -33339,7 +33344,7 @@ electronic_led_0402_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_0402_yellow
     distributors: []
@@ -33527,7 +33532,7 @@ electronic_led_0603_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_0603_blue
     distributors:
@@ -33633,7 +33638,7 @@ electronic_led_0603_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_0603_green
     distributors:
@@ -33739,7 +33744,7 @@ electronic_led_0603_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_0603_red
     distributors:
@@ -33845,7 +33850,7 @@ electronic_led_0603_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_0603_white
     distributors:
@@ -33951,7 +33956,7 @@ electronic_led_0603_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_0603_yellow
     distributors:
@@ -34151,7 +34156,7 @@ electronic_led_0805_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_0805_blue
     distributors: []
@@ -34245,7 +34250,7 @@ electronic_led_0805_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_0805_green
     distributors: []
@@ -34339,7 +34344,7 @@ electronic_led_0805_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_0805_red
     distributors: []
@@ -34433,7 +34438,7 @@ electronic_led_0805_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_0805_white
     distributors: []
@@ -34527,7 +34532,7 @@ electronic_led_0805_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_0805_yellow
     distributors: []
@@ -34621,7 +34626,7 @@ electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc:
     description_main_upper: WS2812B
     description_only_numbers: '2812'
     description_only_numbers_short: 2k8
-    description_or_color: r2k8
+    description_or_color: R2k8
     description_or_color_upper: R2K8
     directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
     distributors: []
@@ -34818,7 +34823,7 @@ electronic_led_10_mm_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_10_mm_blue
     distributors: []
@@ -34908,7 +34913,7 @@ electronic_led_10_mm_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_10_mm_green
     distributors: []
@@ -34998,7 +35003,7 @@ electronic_led_10_mm_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_10_mm_red
     distributors: []
@@ -35088,7 +35093,7 @@ electronic_led_10_mm_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_10_mm_white
     distributors: []
@@ -35178,7 +35183,7 @@ electronic_led_10_mm_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_10_mm_yellow
     distributors: []
@@ -35362,7 +35367,7 @@ electronic_led_1206_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_1206_blue
     distributors: []
@@ -35456,7 +35461,7 @@ electronic_led_1206_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_1206_green
     distributors: []
@@ -35550,7 +35555,7 @@ electronic_led_1206_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_1206_red
     distributors: []
@@ -35644,7 +35649,7 @@ electronic_led_1206_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_1206_white
     distributors: []
@@ -35738,7 +35743,7 @@ electronic_led_1206_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_1206_yellow
     distributors: []
@@ -35917,7 +35922,7 @@ electronic_led_3_mm_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_3_mm_blue
     distributors: []
@@ -36002,7 +36007,7 @@ electronic_led_3_mm_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_3_mm_green
     distributors: []
@@ -36087,7 +36092,7 @@ electronic_led_3_mm_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_3_mm_red
     distributors: []
@@ -36172,7 +36177,7 @@ electronic_led_3_mm_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_3_mm_white
     distributors: []
@@ -36257,7 +36262,7 @@ electronic_led_3_mm_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_3_mm_yellow
     distributors: []
@@ -36342,7 +36347,7 @@ electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w:
     description_main_upper: WS2812B
     description_only_numbers: '2812'
     description_only_numbers_short: 2k8
-    description_or_color: r2k8
+    description_or_color: R2k8
     description_or_color_upper: R2K8
     directory: parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
     distributors:
@@ -36552,7 +36557,7 @@ electronic_led_5_mm_blue:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'b '
+    description_or_color: 'B '
     description_or_color_upper: 'B '
     directory: parts/electronic_led_5_mm_blue
     distributors: []
@@ -36642,7 +36647,7 @@ electronic_led_5_mm_green:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'g '
+    description_or_color: 'G '
     description_or_color_upper: 'G '
     directory: parts/electronic_led_5_mm_green
     distributors: []
@@ -36732,7 +36737,7 @@ electronic_led_5_mm_red:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'r '
+    description_or_color: 'R '
     description_or_color_upper: 'R '
     directory: parts/electronic_led_5_mm_red
     distributors: []
@@ -36822,7 +36827,7 @@ electronic_led_5_mm_white:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'w '
+    description_or_color: 'W '
     description_or_color_upper: 'W '
     directory: parts/electronic_led_5_mm_white
     distributors: []
@@ -36912,7 +36917,7 @@ electronic_led_5_mm_yellow:
     description_main_upper: ''
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 'y '
+    description_or_color: 'Y '
     description_or_color_upper: 'Y '
     directory: parts/electronic_led_5_mm_yellow
     distributors: []
@@ -37714,7 +37719,7 @@ electronic_pmic_sot_223_linear_1117_1_5_volt:
     description_main_upper: '1117'
     description_only_numbers: '1117'
     description_only_numbers_short: 1k1
-    description_or_color: l1k1
+    description_or_color: L1k1
     description_or_color_upper: L1K1
     directory: parts/electronic_pmic_sot_223_linear_1117_1_5_volt
     distributors: []
@@ -37805,7 +37810,7 @@ electronic_pmic_sot_223_linear_1117_1_8_volt:
     description_main_upper: '1117'
     description_only_numbers: '1117'
     description_only_numbers_short: 1k1
-    description_or_color: l1k1
+    description_or_color: L1k1
     description_or_color_upper: L1K1
     directory: parts/electronic_pmic_sot_223_linear_1117_1_8_volt
     distributors: []
@@ -37896,7 +37901,7 @@ electronic_pmic_sot_223_linear_1117_2_5_volt:
     description_main_upper: '1117'
     description_only_numbers: '1117'
     description_only_numbers_short: 1k1
-    description_or_color: l1k1
+    description_or_color: L1k1
     description_or_color_upper: L1K1
     directory: parts/electronic_pmic_sot_223_linear_1117_2_5_volt
     distributors: []
@@ -37987,7 +37992,7 @@ electronic_pmic_sot_223_linear_1117_3_3_volt:
     description_main_upper: '1117'
     description_only_numbers: '1117'
     description_only_numbers_short: 1k1
-    description_or_color: l1k1
+    description_or_color: L1k1
     description_or_color_upper: L1K1
     directory: parts/electronic_pmic_sot_223_linear_1117_3_3_volt
     distributors: []
@@ -38078,7 +38083,7 @@ electronic_pmic_sot_223_linear_1117_5_volt:
     description_main_upper: '1117'
     description_only_numbers: '1117'
     description_only_numbers_short: 1k1
-    description_or_color: l1k1
+    description_or_color: L1k1
     description_or_color_upper: L1K1
     directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
     distributors:
@@ -38181,7 +38186,7 @@ electronic_pmic_sot_223_linear_1117_adj:
     description_main_upper: '1117'
     description_only_numbers: '1117'
     description_only_numbers_short: 1k1
-    description_or_color: l1k1
+    description_or_color: L1k1
     description_or_color_upper: L1K1
     directory: parts/electronic_pmic_sot_223_linear_1117_adj
     distributors: []
@@ -87160,7 +87165,7 @@ electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_
     description_main_upper: SINGLE_POLE_DOUBLE_THROW
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 's '
+    description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
     distributors: &id003 []
@@ -87249,7 +87254,7 @@ electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw:
     description_main_upper: SINGLE_POLE_DOUBLE_THROW
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: 's '
+    description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw
     distributors: *id003

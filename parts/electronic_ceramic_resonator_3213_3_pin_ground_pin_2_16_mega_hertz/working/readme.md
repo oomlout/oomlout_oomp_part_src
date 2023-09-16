@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_crystal_gnd2  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2/working  
 
@@ -106,8 +106,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 3213 | 
 | size_only_numbers_no_zeros | 3213 | 
 | description_only_numbers | 16 | 
-| name_no_size_short | 3 Pin Ground Pin 2 16 Mega Hertz | 
 | description_only_numbers_short | 16 | 
+| name_no_size_short | 3 Pin Ground Pin 2 16 Mega Hertz | 
 | description_or_color | 316 | 
 | description_or_color_upper | 316 | 
 | markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[xcr3213mhz16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) [(L)  ](https://www.lcsc.com/search?q=CSTNE16M0VH3C000R0)[(D)  ](https://www.digikey.com/en/products?keywords=CSTNE16M0VH3C000R0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CSTNE16M0VH3C000R0)[(N)  ](https://www.newark.com/search?st=CSTNE16M0VH3C000R0)[(SZ)  ](https://so.szlcsc.com/global.html?k=CSTNE16M0VH3C000R0)<br> | 

@@ -70,10 +70,10 @@
     "size_only_numbers": "865",
     "size_only_numbers_no_zeros": "865",
     "description_only_numbers": "220",
-    "name_no_size_short": "Electrolytic 220 Micro Farad 10 Volt",
-    "description_only_numbers_short": "220",
-    "description_or_color": "e220",
-    "description_or_color_upper": "E220",
+    "description_only_numbers_short": "220uf",
+    "name_no_size_short": "Electrolytic 220uf Micro Farad 10 Volt",
+    "description_or_color": "E220uf",
+    "description_or_color_upper": "E220UF",
     "markdown_full": "[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c8d65tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>",
     "markdown_short": "[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>"
 }

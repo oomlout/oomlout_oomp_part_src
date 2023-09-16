@@ -20,7 +20,7 @@ description_main_first_letter_upper: P
 description_main_upper: POWER_MULTIPLEXER
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: 'm '
+description_or_color: 'M '
 description_or_color_upper: 'M '
 directory: parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 distributors:
@@ -28,6 +28,11 @@ distributors:
     link: https://lcsc.com/product-detail/C130052.html
     name: LCSC
     part_number: C130052
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm//working/working.kicad_mod
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+    oomp_key: oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working
 id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 id_no_class: ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw

@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_nettie_3  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_3/working  
 
@@ -102,8 +102,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 3 | 
 | size_only_numbers_no_zeros | 3 | 
 | description_only_numbers |  | 
-| name_no_size_short | Smd | 
 | description_only_numbers_short |   | 
+| name_no_size_short | Smd | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[nt3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[Electronic Nettie 3 Nets Smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br> | 

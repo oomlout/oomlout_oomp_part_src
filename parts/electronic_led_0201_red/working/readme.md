@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
@@ -103,9 +103,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0201 | 
 | size_only_numbers_no_zeros | 21 | 
 | description_only_numbers |  | 
-| name_no_size_short | Red | 
 | description_only_numbers_short |   | 
-| description_or_color | r  | 
+| name_no_size_short | Red | 
+| description_or_color | R  | 
 | description_or_color_upper | R  | 
 | markdown_full | [electronic_led_0201_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_red/working)<br>[lr](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_red/working)<br>[Electronic Led 0201 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_red/working)<br><br> | 
 | markdown_short | [electronic_led_0201_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_red/working)<br><br> | 

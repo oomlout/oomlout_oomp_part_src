@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x04_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x04_pin/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 25 | 
 | size_only_numbers_no_zeros | 25 | 
 | description_only_numbers | 4 | 
-| name_no_size_short | 4 Pin Surface Mount | 
 | description_only_numbers_short | 4 | 
+| name_no_size_short | 4 Pin Surface Mount | 
 | description_or_color | 4 | 
 | description_or_color_upper | 4 | 
 | markdown_full | [electronic_header_2_5_mm_jst_xh_4_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br>[h4psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 4 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br><br> | 

@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -110,8 +110,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0805 | 
 | size_only_numbers_no_zeros | 85 | 
 | description_only_numbers | 120 | 
-| name_no_size_short | 120 Ohm | 
 | description_only_numbers_short | 120 | 
+| name_no_size_short | 120 Ohm | 
 | description_or_color | 120 | 
 | description_or_color_upper | 120 | 
 | markdown_full | [electronic_resistor_0805_120_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_120_ohm/working)<br>[r8o121](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_120_ohm/working)<br>[Electronic Resistor 0805 120 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_120_ohm/working)<br><br>[Uniroyal - 0805W8J0121T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0805W8J0121T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8J0121T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8J0121T5E)[(N)  ](https://www.newark.com/search?st=0805W8J0121T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8J0121T5E)<br>[Uniroyal - 0805W8F1200T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0805W8F1200T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0805W8F1200T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0805W8F1200T5E)[(N)  ](https://www.newark.com/search?st=0805W8F1200T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0805W8F1200T5E)<br>[Yageo - RC0805JR-07120RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-07120RL) [(L)  ](https://www.lcsc.com/search?q=RC0805JR-07120RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0805JR-07120RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0805JR-07120RL)[(N)  ](https://www.newark.com/search?st=RC0805JR-07120RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0805JR-07120RL)<br> | 

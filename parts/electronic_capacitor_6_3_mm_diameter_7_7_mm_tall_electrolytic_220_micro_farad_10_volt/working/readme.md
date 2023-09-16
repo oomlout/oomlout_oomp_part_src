@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_c_polarized  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized/working  
 
@@ -102,10 +102,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 6377 | 
 | size_only_numbers_no_zeros | 6377 | 
 | description_only_numbers | 220 | 
-| name_no_size_short | Electrolytic 220 Micro Farad 10 Volt | 
-| description_only_numbers_short | 220 | 
-| description_or_color | e220 | 
-| description_or_color_upper | E220 | 
+| description_only_numbers_short | 220uf | 
+| name_no_size_short | Electrolytic 220uf Micro Farad 10 Volt | 
+| description_or_color | E220uf | 
+| description_or_color_upper | E220UF | 
 | markdown_full | [electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d77tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic Capacitor 6 3 Mm Diameter 7 7 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br> | 
 | markdown_short | [electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_6_3x3_9', 'oomp_key': 'oomp_kicad_capacitor_smd_cp_elec_6_3x3_9', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod', 'index': 0}] | 

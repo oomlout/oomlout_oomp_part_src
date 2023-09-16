@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -110,8 +110,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
 | description_only_numbers | 39000 | 
-| name_no_size_short | 39k Ohm | 
 | description_only_numbers_short | 39k | 
+| name_no_size_short | 39k Ohm | 
 | description_or_color | 39k | 
 | description_or_color_upper | 39K | 
 | markdown_full | [electronic_resistor_0603_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39000_ohm/working)<br>[r6o393](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39000_ohm/working)<br>[Electronic Resistor 0603 39000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39000_ohm/working)<br><br>[Uniroyal - 0603WAJ0393T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0393T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0393T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0393T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0393T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0393T5E)<br>[Uniroyal - 0603WAF3902T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF3902T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF3902T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF3902T5E)[(N)  ](https://www.newark.com/search?st=0603WAF3902T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF3902T5E)<br>[Yageo - RC0603JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0739KL) [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0739KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0739KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0739KL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0739KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0739KL)<br> | 

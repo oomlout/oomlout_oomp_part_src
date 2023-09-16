@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -99,8 +99,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 0201 | 
 | size_only_numbers_no_zeros | 21 | 
 | description_only_numbers | 120 | 
-| name_no_size_short | 120 Ohm | 
 | description_only_numbers_short | 120 | 
+| name_no_size_short | 120 Ohm | 
 | description_or_color | 120 | 
 | description_or_color_upper | 120 | 
 | markdown_full | [electronic_resistor_0201_120_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_120_ohm/working)<br>[ro121](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_120_ohm/working)<br>[Electronic Resistor 0201 120 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_120_ohm/working)<br><br>[Uniroyal - NQ01WMJ0121TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0121TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0121TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0121TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0121TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0121TEE)<br> | 

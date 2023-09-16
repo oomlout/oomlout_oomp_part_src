@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x06_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin/working  
 
@@ -104,8 +104,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 1 | 
 | size_only_numbers_no_zeros | 1 | 
 | description_only_numbers | 6 | 
-| name_no_size_short | 6 Pin Surface Mount Right Angle | 
 | description_only_numbers_short | 6 | 
+| name_no_size_short | 6 Pin Surface Mount Right Angle | 
 | description_or_color | 6 | 
 | description_or_color_upper | 6 | 
 | markdown_full | [electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br>[h6psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br><br>[JST - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM06B-SRSS-TB)<br> | 

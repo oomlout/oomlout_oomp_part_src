@@ -19,9 +19,9 @@ description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
 description_main_upper: 10_MICRO_FARAD
 description_only_numbers: '10'
-description_only_numbers_short: '10'
-description_or_color: '10'
-description_or_color_upper: '10'
+description_only_numbers_short: 10uf
+description_or_color: 10uf
+description_or_color_upper: 10UF
 directory: parts/electronic_capacitor_0603_10_micro_farad
 distributors: []
 filter: ''
@@ -58,7 +58,7 @@ md5_6_upper: 01A693
 name: Electronic Capacitor 0603 10 Micro Farad
 name_no_class: Capacitor 0603 10 Micro Farad
 name_no_size: 10 Micro Farad
-name_no_size_short: 10 Micro Farad
+name_no_size_short: 10uf Micro Farad
 name_no_type: 0603 10 Micro Farad
 oomp_key: oomp_electronic_capacitor_0603_10_micro_farad
 package_style: smd_tape

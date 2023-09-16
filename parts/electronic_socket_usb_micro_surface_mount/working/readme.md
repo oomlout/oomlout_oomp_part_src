@@ -30,7 +30,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_usb_b_micro  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro/working  
 
@@ -130,8 +130,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
 | description_only_numbers |  | 
-| name_no_size_short | Surface Mount | 
 | description_only_numbers_short |   | 
+| name_no_size_short | Surface Mount | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> | 

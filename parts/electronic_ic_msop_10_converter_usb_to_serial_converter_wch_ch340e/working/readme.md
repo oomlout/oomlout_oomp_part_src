@@ -34,7 +34,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_interface_usb_ch340e  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340e/working  
 
@@ -148,9 +148,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 10 | 
 | size_only_numbers_no_zeros | 1 | 
 | description_only_numbers |  | 
-| name_no_size_short | Converter Usb To Serial Converter Wch Ch340E | 
 | description_only_numbers_short |   | 
-| description_or_color | c  | 
+| name_no_size_short | Converter Usb To Serial Converter Wch Ch340E | 
+| description_or_color | C  | 
 | description_or_color_upper | C  | 
 | markdown_full | [electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[imsp10ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[LCSC - C99652<br>](https://lcsc.com/product-detail/C99652.html)<br> | 
 | markdown_short | [electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working)<br>[LCSC - C99652<br>](https://lcsc.com/product-detail/C99652.html)<br> | 

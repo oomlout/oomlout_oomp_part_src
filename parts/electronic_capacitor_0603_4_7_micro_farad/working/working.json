@@ -74,10 +74,10 @@
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "47",
+    "description_only_numbers_short": "47uf",
     "name_no_size_short": "4 7 Micro Farad",
-    "description_only_numbers_short": "47",
-    "description_or_color": "47",
-    "description_or_color_upper": "47",
+    "description_or_color": "47uf",
+    "description_or_color_upper": "47UF",
     "markdown_full": "[electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[c6uf4d7](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[Electronic Capacitor 0603 4 7 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br>",
     "markdown_short": "[electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br>"
 }

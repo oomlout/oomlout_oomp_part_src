@@ -19,9 +19,9 @@ description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
 description_main_upper: 220_MICRO_FARAD
 description_only_numbers: '220'
-description_only_numbers_short: '220'
-description_or_color: e220
-description_or_color_upper: E220
+description_only_numbers_short: 220uf
+description_or_color: E220uf
+description_or_color_upper: E220UF
 directory: parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
 distributors: []
 filter: ''
@@ -60,7 +60,7 @@ name: Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Fara
 name_no_class: Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10
     Volt
 name_no_size: Electrolytic 220 Micro Farad 10 Volt
-name_no_size_short: Electrolytic 220 Micro Farad 10 Volt
+name_no_size_short: Electrolytic 220uf Micro Farad 10 Volt
 name_no_type: 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt
 oomp_key: oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
 part_number: ''

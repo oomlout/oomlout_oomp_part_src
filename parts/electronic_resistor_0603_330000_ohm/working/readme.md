@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -106,8 +106,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
 | description_only_numbers | 330000 | 
-| name_no_size_short | 330k Ohm | 
 | description_only_numbers_short | 330k | 
+| name_no_size_short | 330k Ohm | 
 | description_or_color | 330k | 
 | description_or_color_upper | 330K | 
 | markdown_full | [electronic_resistor_0603_330000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330000_ohm/working)<br>[r6o334](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330000_ohm/working)<br>[Electronic Resistor 0603 330000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330000_ohm/working)<br><br> | 

@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -105,8 +105,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 0402 | 
 | size_only_numbers_no_zeros | 42 | 
 | description_only_numbers | 4700 | 
-| name_no_size_short | 4k7 Ohm | 
 | description_only_numbers_short | 4k7 | 
+| name_no_size_short | 4k7 Ohm | 
 | description_or_color | 4k7 | 
 | description_or_color_upper | 4K7 | 
 | markdown_full | [electronic_resistor_0402_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700_ohm/working)<br>[r4o472](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700_ohm/working)<br>[Electronic Resistor 0402 4700 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700_ohm/working)<br><br>[Uniroyal - 0402WGJ0472TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0472TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0472TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0472TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0472TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0472TCE)<br>[Uniroyal - 0402WGF4701TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4701TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4701TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4701TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4701TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4701TCE)<br>[Yageo - RC0402JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-074K7L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-074K7L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-074K7L)[(N)  ](https://www.newark.com/search?st=RC0402JR-074K7L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-074K7L)<br> | 

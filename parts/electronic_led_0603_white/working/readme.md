@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
@@ -111,9 +111,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
 | description_only_numbers |  | 
-| name_no_size_short | White | 
 | description_only_numbers_short |   | 
-| description_or_color | w  | 
+| name_no_size_short | White | 
+| description_or_color | W  | 
 | description_or_color_upper | W  | 
 | markdown_full | [electronic_led_0603_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white/working)<br>[l6w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white/working)<br>[Electronic Led 0603 White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white/working)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UWC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UWC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UWC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UWC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UWC-04)<br> | 
 | markdown_short | [electronic_led_0603_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white/working)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]() | 

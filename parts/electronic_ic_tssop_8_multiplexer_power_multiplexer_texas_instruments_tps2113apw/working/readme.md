@@ -31,6 +31,11 @@ List of Pins:
 
 
 
+## footprint
+
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm/working  
 
 ## full_summary
 | name | value | 
@@ -130,9 +135,10 @@ List of Pins:
 | size_only_numbers | 8 | 
 | size_only_numbers_no_zeros | 8 | 
 | description_only_numbers |  | 
-| name_no_size_short | Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
 | description_only_numbers_short |   | 
-| description_or_color | m  | 
+| name_no_size_short | Multiplexer Power Multiplexer Texas Instruments Tps2113Apw | 
+| description_or_color | M  | 
 | description_or_color_upper | M  | 
 | markdown_full | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[itssp8mpptps2113](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[Electronic Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[LCSC - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br> | 
 | markdown_short | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[LCSC - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_tssop_8_4_4x3mm_p0_65mm', 'oomp_key': 'oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm//working/working.kicad_mod', 'index': 0}] | 

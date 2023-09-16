@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_switch_sw_spdt  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt/working  
 
@@ -101,9 +101,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers |  | 
-| name_no_size_short | Surface Mount Single Pole Double Throw | 
 | description_only_numbers_short |   | 
-| description_or_color | s  | 
+| name_no_size_short | Surface Mount Single Pole Double Throw | 
+| description_or_color | S  | 
 | description_or_color_upper | S  | 
 | markdown_full | [electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic Switch Slide 2D54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br><br> | 
 | markdown_short | [electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br><br> | 

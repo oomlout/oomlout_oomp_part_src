@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_generic_conn_02x04_odd_even  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x04_odd_even/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers | 248 | 
-| name_no_size_short | 2X4 Dual Row 8 Pin Surface Mount Right Angle | 
 | description_only_numbers_short | 248 | 
+| name_no_size_short | 2X4 Dual Row 8 Pin Surface Mount Right Angle | 
 | description_or_color | 248 | 
 | description_or_color_upper | 248 | 
 | markdown_full | [electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount_right_angle/working)<br>[hi12x4psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm Dual Row 2X4 Dual Row 8 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount_right_angle/working)<br><br> | 

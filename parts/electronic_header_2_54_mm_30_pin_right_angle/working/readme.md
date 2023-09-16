@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x30_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x30_pin/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers | 30 | 
-| name_no_size_short | 30 Pin Right Angle | 
 | description_only_numbers_short | 30 | 
+| name_no_size_short | 30 Pin Right Angle | 
 | description_or_color | 30 | 
 | description_or_color_upper | 30 | 
 | markdown_full | [electronic_header_2_54_mm_30_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_right_angle/working)<br>[hi130pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_right_angle/working)<br>[Electronic Header 2 54 Mm 30 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_right_angle/working)<br><br> | 

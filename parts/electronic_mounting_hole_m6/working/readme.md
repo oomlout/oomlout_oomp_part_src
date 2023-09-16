@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_mechanical_mountinghole  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole/working  
 
@@ -103,8 +103,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 6 | 
 | size_only_numbers_no_zeros | 6 | 
 | description_only_numbers |  | 
-| name_no_size_short | M6 | 
 | description_only_numbers_short |   | 
+| name_no_size_short | M6 | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[mhm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[Electronic Mounting Hole M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> | 

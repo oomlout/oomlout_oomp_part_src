@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_regulator_linear_ap1117_15  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_15/working  
 
@@ -105,9 +105,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 223 | 
 | size_only_numbers_no_zeros | 223 | 
 | description_only_numbers | 1117 | 
-| name_no_size_short | Linear 1k1 1 5 Volt | 
 | description_only_numbers_short | 1k1 | 
-| description_or_color | l1k1 | 
+| name_no_size_short | Linear 1k1 1 5 Volt | 
+| description_or_color | L1k1 | 
 | description_or_color_upper | L1K1 | 
 | markdown_full | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br>[pms22311171d5v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 1 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br> | 
 | markdown_short | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br> | 

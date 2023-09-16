@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
 
@@ -108,10 +108,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
 | description_only_numbers | 10 | 
-| name_no_size_short | 10 Nano Farad | 
-| description_only_numbers_short | 10 | 
-| description_or_color | 10 | 
-| description_or_color_upper | 10 | 
+| description_only_numbers_short | 10nf | 
+| name_no_size_short | 10nf Nano Farad | 
+| description_or_color | 10nf | 
+| description_or_color_upper | 10NF | 
 | markdown_full | [electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br>[c6nf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br>[Electronic Capacitor 0603 10 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103) [(L)  ](https://www.lcsc.com/search?q=CC0603KRX7R9BB103)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603KRX7R9BB103)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB103)[(N)  ](https://www.newark.com/search?st=CC0603KRX7R9BB103)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB103)<br> | 
 | markdown_short | [electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103) | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'index': 0}] | 

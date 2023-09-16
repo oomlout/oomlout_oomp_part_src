@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x03_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x03_pin/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 25 | 
 | size_only_numbers_no_zeros | 25 | 
 | description_only_numbers | 3 | 
-| name_no_size_short | 3 Pin | 
 | description_only_numbers_short | 3 | 
+| name_no_size_short | 3 Pin | 
 | description_or_color | 3 | 
 | description_or_color_upper | 3 | 
 | markdown_full | [electronic_header_2_5_mm_jst_xh_3_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin/working)<br>[h3p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin/working)<br>[Electronic Header 2 5 Mm Jst Xh 3 Pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin/working)<br><br> | 

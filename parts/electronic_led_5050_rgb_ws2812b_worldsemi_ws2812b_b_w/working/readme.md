@@ -30,7 +30,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_led_ws2812b  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b/working  
 
@@ -126,9 +126,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 5050 | 
 | size_only_numbers_no_zeros | 55 | 
 | description_only_numbers | 2812 | 
-| name_no_size_short | Rgb Ws2k8B Worldsemi Ws2k8B B W | 
 | description_only_numbers_short | 2k8 | 
-| description_or_color | r2k8 | 
+| name_no_size_short | Rgb Ws2k8B Worldsemi Ws2k8B B W | 
+| description_or_color | R2k8 | 
 | description_or_color_upper | R2K8 | 
 | markdown_full | [electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[l50502812ws2812bbw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en) [(L)  ](https://www.lcsc.com/search?q=WS2812B-B/W)[(D)  ](https://www.digikey.com/en/products?keywords=WS2812B-B/W)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=WS2812B-B/W)[(N)  ](https://www.newark.com/search?st=WS2812B-B/W)[(SZ)  ](https://so.szlcsc.com/global.html?k=WS2812B-B/W)<br> | 
 | markdown_short | [electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w/working)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en) | 

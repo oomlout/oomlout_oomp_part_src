@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x11_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x11_pin/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers | 11 | 
-| name_no_size_short | 11 Pin Surface Mount | 
 | description_only_numbers_short | 11 | 
+| name_no_size_short | 11 Pin Surface Mount | 
 | description_or_color | 11 | 
 | description_or_color_upper | 11 | 
 | markdown_full | [electronic_header_2_54_mm_11_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount/working)<br>[hi111psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 11 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount/working)<br><br> | 

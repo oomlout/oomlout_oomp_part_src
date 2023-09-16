@@ -20,7 +20,7 @@ description_main_first_letter_upper: U
 description_main_upper: USB_TO_SERIAL_CONVERTER
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: 'c '
+description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 distributors:

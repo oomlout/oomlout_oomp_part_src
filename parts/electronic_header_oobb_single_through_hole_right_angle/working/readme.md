@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomp_footprint_templates_zzzz/working  
 
@@ -101,8 +101,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
 | description_only_numbers |  | 
-| name_no_size_short | Single Through Hole Right Angle | 
 | description_only_numbers_short |   | 
+| name_no_size_short | Single Through Hole Right Angle | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
 | markdown_full | [electronic_header_oobb_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br>[Electronic Header Oobb Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br><br> | 

@@ -31,11 +31,19 @@ directory_footprint_bot = "tmp/oomlout_oomp_footprint_bot/footprints"
 
 import oom_svg
 
+#label sizes
+# main 76 x 50
+# tiny 02_02 smd 8 x 12
+# normal smd_magazine 8 x 25
+# full size smd 15 x 30
 def main():
 
     oomp.load_parts(from_pickle=True)   
     
-    filter = "electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321"
+    #filter = "electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321"
+    #filter =  "electronic_resistor_0603_10000_ohm"
+    #filter = "electronic_led_0603_yellow"    
+    #filter = "electronic_capacitor_0603_100_nano_farad"
     filter = ""
 
     for part_id in oomp.parts:
@@ -43,7 +51,8 @@ def main():
             part = oomp.parts[part_id]
             part_directory = part.get("directory", "")        
             file_templates = []
-            file_templates.append(f"templates/template_label_15_mm_30_mm.svg")
+            file_templates.append(f"templates/template_label_76_2_mm_50_8_mm_multi.svg")
+            #file_templates.append(f"templates/template_label_15_mm_30_mm.svg")
             file_templates.append(f"templates/template_label_76_2_mm_50_8_mm.svg")
 
             for file_template in file_templates:

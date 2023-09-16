@@ -213,9 +213,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 28 | 
 | size_only_numbers_no_zeros | 28 | 
 | description_only_numbers | 168 | 
-| name_no_size_short | So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640 | 
 | description_only_numbers_short | 168 | 
-| description_or_color | l168 | 
+| name_no_size_short | So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640 | 
+| description_or_color | L168 | 
 | description_or_color_upper | L168 | 
 | markdown_full | [electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br>[isoic28waip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br>[Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br><br> | 
 | markdown_short | [electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640/working)<br><br> | 

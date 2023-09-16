@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_crystal_gnd2  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2/working  
 
@@ -102,8 +102,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 3213 | 
 | size_only_numbers_no_zeros | 3213 | 
 | description_only_numbers | 8 | 
-| name_no_size_short | 3 Pin Ground Pin 2 8 Mega Hertz | 
 | description_only_numbers_short | 8 | 
+| name_no_size_short | 3 Pin Ground Pin 2 8 Mega Hertz | 
 | description_or_color | 38 | 
 | description_or_color_upper | 38 | 
 | markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br>[xcr3213mhz8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br><br> | 

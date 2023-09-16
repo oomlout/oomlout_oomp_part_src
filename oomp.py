@@ -309,18 +309,30 @@ def add_part(**kwargs):
             else:
                 description_only_numbers_short = w[0] + "M"
                 pass            
-            
+        
+        replacements = []
+        replacements.append(["nano_farad", "nf"])
+        replacements.append(["micro_farad", "uf"])
+        replacements.append(["pico_farad", "pf"])
+        replacement_extra = ""
+        for replacement in replacements:
+            if replacement[0] in id:
+                replacement_extra = replacement[1]
+
         if description_only_numbers_short == 0 or description_only_numbers_short == "0" or description_only_numbers_short == "":
             description_only_numbers_short = " "
+        
+        description_only_numbers_short += replacement_extra
+        kwargs["description_only_numbers_short"] = description_only_numbers_short
 
         name_no_size_short_number = kwargs["name_no_size"]
         if description_only_numbers_short != " ":            
             name_no_size_short_number = name_no_size_short_number.replace(description_only_numbers, description_only_numbers_short)        
         kwargs["name_no_size_short"] = name_no_size_short_number
 
-        kwargs["description_only_numbers_short"] = description_only_numbers_short
         
-        description_or_color = f"{color_first_letter}{description_only_numbers_short}"
+        
+        description_or_color = f"{color_first_letter.upper()}{description_only_numbers_short}"
         kwargs["description_or_color"] = description_or_color
         kwargs["description_or_color_upper"] = description_or_color.upper()
         

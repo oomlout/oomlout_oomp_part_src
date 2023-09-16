@@ -20,7 +20,7 @@ description_main_first_letter_upper: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: 'b '
+description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/electronic_led_5_mm_blue
 distributors: []

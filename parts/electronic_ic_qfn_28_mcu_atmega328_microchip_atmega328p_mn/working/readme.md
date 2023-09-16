@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_p  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p/working  
 
@@ -96,9 +96,9 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 28 | 
 | size_only_numbers_no_zeros | 28 | 
 | description_only_numbers | 328 | 
-| name_no_size_short | Mcu Atmega328 Microchip Atmega328P Mn | 
 | description_only_numbers_short | 328 | 
-| description_or_color | m328 | 
+| name_no_size_short | Mcu Atmega328 Microchip Atmega328P Mn | 
+| description_or_color | M328 | 
 | description_or_color_upper | M328 | 
 | markdown_full | [electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[iq28mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br> | 
 | markdown_short | [electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br> | 

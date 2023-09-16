@@ -19,9 +19,9 @@ description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
 description_main_upper: 10_NANO_FARAD
 description_only_numbers: '10'
-description_only_numbers_short: '10'
-description_or_color: '10'
-description_or_color_upper: '10'
+description_only_numbers_short: 10nf
+description_or_color: 10nf
+description_or_color_upper: 10NF
 directory: parts/electronic_capacitor_0603_10_nano_farad
 distributors: []
 filter: ''
@@ -65,7 +65,7 @@ md5_6_upper: 33C290
 name: Electronic Capacitor 0603 10 Nano Farad
 name_no_class: Capacitor 0603 10 Nano Farad
 name_no_size: 10 Nano Farad
-name_no_size_short: 10 Nano Farad
+name_no_size_short: 10nf Nano Farad
 name_no_type: 0603 10 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
 package_style: smd_tape

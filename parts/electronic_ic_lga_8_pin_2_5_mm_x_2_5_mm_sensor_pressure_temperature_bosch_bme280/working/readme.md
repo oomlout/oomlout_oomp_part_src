@@ -30,7 +30,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_sensor_bme280  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_sensor_bme280/working  
 
@@ -136,9 +136,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 82525 | 
 | size_only_numbers_no_zeros | 82525 | 
 | description_only_numbers |  | 
-| name_no_size_short | Sensor Pressure Temperature Bosch Bme280 | 
 | description_only_numbers_short |   | 
-| description_or_color | s  | 
+| name_no_size_short | Sensor Pressure Temperature Bosch Bme280 | 
+| description_or_color | S  | 
 | description_or_color_upper | S  | 
 | markdown_full | [electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[isnpt280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Sensor Pressure Temperature Bosch Bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br><br> | 
 | markdown_short | [electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br><br> | 

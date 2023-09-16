@@ -74,10 +74,10 @@
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "100",
-    "name_no_size_short": "100 Nano Farad",
-    "description_only_numbers_short": "100",
-    "description_or_color": "100",
-    "description_or_color_upper": "100",
+    "description_only_numbers_short": "100nf",
+    "name_no_size_short": "100nf Nano Farad",
+    "description_or_color": "100nf",
+    "description_or_color_upper": "100NF",
     "markdown_full": "[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[c4nf100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[Electronic Capacitor 0402 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>",
     "markdown_short": "[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>"
 }

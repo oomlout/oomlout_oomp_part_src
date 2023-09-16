@@ -26,7 +26,7 @@ List of Pins:
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_led_ws2812b  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b/working  
 
@@ -122,9 +122,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 1010 | 
 | size_only_numbers_no_zeros | 11 | 
 | description_only_numbers | 2812 | 
-| name_no_size_short | Rgb Ws2k8B Xinglight 1010Rgbc | 
 | description_only_numbers_short | 2k8 | 
-| description_or_color | r2k8 | 
+| name_no_size_short | Rgb Ws2k8B Xinglight 1010Rgbc | 
+| description_or_color | R2k8 | 
 | description_or_color_upper | R2K8 | 
 | markdown_full | [electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l101028121010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br> | 
 | markdown_short | [electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br> | 

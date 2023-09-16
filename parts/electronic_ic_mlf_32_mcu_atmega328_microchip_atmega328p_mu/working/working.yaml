@@ -20,7 +20,7 @@ description_main_first_letter_upper: A
 description_main_upper: ATMEGA328
 description_only_numbers: '328'
 description_only_numbers_short: '328'
-description_or_color: m328
+description_or_color: M328
 description_or_color_upper: M328
 directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 distributors: []

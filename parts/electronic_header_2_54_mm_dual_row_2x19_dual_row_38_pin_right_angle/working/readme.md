@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_generic_conn_02x19_odd_even  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x19_odd_even/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers | 21938 | 
-| name_no_size_short | 2X19 Dual Row 38 Pin Right Angle | 
 | description_only_numbers_short | 22k | 
+| name_no_size_short | 2X19 Dual Row 38 Pin Right Angle | 
 | description_or_color | 22k | 
 | description_or_color_upper | 22K | 
 | markdown_full | [electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br>[hi12x19pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br>[Electronic Header 2 54 Mm Dual Row 2X19 Dual Row 38 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working)<br><br> | 

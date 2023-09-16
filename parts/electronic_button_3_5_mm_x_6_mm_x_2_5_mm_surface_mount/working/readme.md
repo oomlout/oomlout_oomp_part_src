@@ -22,7 +22,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_switch_sw_push  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push/working  
 
@@ -108,9 +108,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 35625 | 
 | size_only_numbers_no_zeros | 35625 | 
 | description_only_numbers |  | 
-| name_no_size_short | Surface Mount | 
 | description_only_numbers_short |   | 
-| description_or_color | s  | 
+| name_no_size_short | Surface Mount | 
+| description_or_color | S  | 
 | description_or_color_upper | S  | 
 | markdown_full | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[b3560s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> | 
 | markdown_short | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> | 

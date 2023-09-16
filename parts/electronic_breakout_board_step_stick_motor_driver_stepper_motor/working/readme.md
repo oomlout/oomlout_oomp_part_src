@@ -166,9 +166,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers |  | 
 | size_only_numbers_no_zeros |  | 
 | description_only_numbers |  | 
-| name_no_size_short | Motor Driver Stepper Motor | 
 | description_only_numbers_short |   | 
-| description_or_color | m  | 
+| name_no_size_short | Motor Driver Stepper Motor | 
+| description_or_color | M  | 
 | description_or_color_upper | M  | 
 | markdown_full | [electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic Breakout Board Step Stick Motor Driver Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br> | 

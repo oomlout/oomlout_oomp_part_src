@@ -20,7 +20,7 @@ description_main_first_letter_upper: P
 description_main_upper: PRESSURE_TEMPERATURE
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: 's '
+description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
 distributors: []

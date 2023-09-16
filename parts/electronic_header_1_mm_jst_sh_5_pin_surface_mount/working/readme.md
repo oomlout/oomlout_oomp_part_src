@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x05_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x05_pin/working  
 
@@ -99,8 +99,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 1 | 
 | size_only_numbers_no_zeros | 1 | 
 | description_only_numbers | 5 | 
-| name_no_size_short | 5 Pin Surface Mount | 
 | description_only_numbers_short | 5 | 
+| name_no_size_short | 5 Pin Surface Mount | 
 | description_or_color | 5 | 
 | description_or_color_upper | 5 | 
 | markdown_full | [electronic_header_1_mm_jst_sh_5_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount/working)<br>[h5psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 5 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount/working)<br><br>[JST - BM05B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM05B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM05B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM05B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM05B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM05B-SRSS-TB)<br> | 

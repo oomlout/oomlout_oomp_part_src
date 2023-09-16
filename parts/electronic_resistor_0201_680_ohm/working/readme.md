@@ -21,7 +21,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -99,8 +99,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 0201 | 
 | size_only_numbers_no_zeros | 21 | 
 | description_only_numbers | 680 | 
-| name_no_size_short | 680 Ohm | 
 | description_only_numbers_short | 680 | 
+| name_no_size_short | 680 Ohm | 
 | description_or_color | 680 | 
 | description_or_color_upper | 680 | 
 | markdown_full | [electronic_resistor_0201_680_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br>[ro681](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br>[Electronic Resistor 0201 680 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br><br>[Uniroyal - NQ01WMJ0681TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0681TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0681TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0681TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0681TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0681TEE)<br> | 

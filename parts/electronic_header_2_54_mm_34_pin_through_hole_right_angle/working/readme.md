@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x34_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x34_pin/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers | 34 | 
-| name_no_size_short | 34 Pin Through Hole Right Angle | 
 | description_only_numbers_short | 34 | 
+| name_no_size_short | 34 Pin Through Hole Right Angle | 
 | description_or_color | 34 | 
 | description_or_color_upper | 34 | 
 | markdown_full | [electronic_header_2_54_mm_34_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_right_angle/working)<br>[hi134pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 34 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_right_angle/working)<br><br> | 

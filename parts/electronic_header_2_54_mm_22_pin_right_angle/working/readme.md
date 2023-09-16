@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_connector_conn_01x22_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x22_pin/working  
 
@@ -96,8 +96,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 254 | 
 | size_only_numbers_no_zeros | 254 | 
 | description_only_numbers | 22 | 
-| name_no_size_short | 22 Pin Right Angle | 
 | description_only_numbers_short | 22 | 
+| name_no_size_short | 22 Pin Right Angle | 
 | description_or_color | 22 | 
 | description_or_color_upper | 22 | 
 | markdown_full | [electronic_header_2_54_mm_22_pin_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_right_angle/working)<br>[hi122pra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_right_angle/working)<br>[Electronic Header 2 54 Mm 22 Pin Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_right_angle/working)<br><br> | 

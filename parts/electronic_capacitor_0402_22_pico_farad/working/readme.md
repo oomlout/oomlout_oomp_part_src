@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
 
@@ -106,10 +106,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0402 | 
 | size_only_numbers_no_zeros | 42 | 
 | description_only_numbers | 22 | 
-| name_no_size_short | 22 Pico Farad | 
-| description_only_numbers_short | 22 | 
-| description_or_color | 22 | 
-| description_or_color_upper | 22 | 
+| description_only_numbers_short | 22pf | 
+| name_no_size_short | 22pf Pico Farad | 
+| description_or_color | 22pf | 
+| description_or_color_upper | 22PF | 
 | markdown_full | [electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[c4pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[Electronic Capacitor 0402 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br> | 
 | markdown_short | [electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0402_1005metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod', 'index': 0}] | 

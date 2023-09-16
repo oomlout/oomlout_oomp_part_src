@@ -20,7 +20,7 @@ description_main_first_letter_upper: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: 'g '
+description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/electronic_led_0402_green
 distributors: []

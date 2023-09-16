@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_c  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c/working  
 
@@ -106,10 +106,10 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 0603 | 
 | size_only_numbers_no_zeros | 63 | 
 | description_only_numbers | 10 | 
-| name_no_size_short | 10 Micro Farad | 
-| description_only_numbers_short | 10 | 
-| description_or_color | 10 | 
-| description_or_color_upper | 10 | 
+| description_only_numbers_short | 10uf | 
+| name_no_size_short | 10uf Micro Farad | 
+| description_or_color | 10uf | 
+| description_or_color_upper | 10UF | 
 | markdown_full | [electronic_capacitor_0603_10_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br>[c6uf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br>[Electronic Capacitor 0603 10 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br><br> | 
 | markdown_short | [electronic_capacitor_0603_10_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br><br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'index': 0}] | 

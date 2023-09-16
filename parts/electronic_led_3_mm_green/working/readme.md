@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_led  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
 
@@ -98,9 +98,9 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 3 | 
 | size_only_numbers_no_zeros | 3 | 
 | description_only_numbers |  | 
-| name_no_size_short | Green | 
 | description_only_numbers_short |   | 
-| description_or_color | g  | 
+| name_no_size_short | Green | 
+| description_or_color | G  | 
 | description_or_color_upper | G  | 
 | markdown_full | [electronic_led_3_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br>[l3g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br>[Electronic Led 3 Mm Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br><br> | 
 | markdown_short | [electronic_led_3_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green/working)<br><br> | 

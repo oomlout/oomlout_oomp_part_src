@@ -23,7 +23,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_regulator_linear_ap1117_50  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50/working  
 
@@ -109,9 +109,9 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | size_only_numbers | 223 | 
 | size_only_numbers_no_zeros | 223 | 
 | description_only_numbers | 1117 | 
-| name_no_size_short | Linear 1k1 5 Volt | 
 | description_only_numbers_short | 1k1 | 
-| description_or_color | l1k1 | 
+| name_no_size_short | Linear 1k1 5 Volt | 
+| description_or_color | L1k1 | 
 | description_or_color_upper | L1K1 | 
 | markdown_full | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms2231117v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br> | 
 | markdown_short | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]() | 

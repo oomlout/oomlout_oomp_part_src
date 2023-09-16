@@ -19,7 +19,7 @@
 
 ## symbol
 
-![](symbol/{index}}/working/working_600.png)  
+![](symbol/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_device_r  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r/working  
 
@@ -97,8 +97,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | size_only_numbers | 0201 | 
 | size_only_numbers_no_zeros | 21 | 
 | description_only_numbers | 75000 | 
-| name_no_size_short | 75k Ohm | 
 | description_only_numbers_short | 75k | 
+| name_no_size_short | 75k Ohm | 
 | description_or_color | 75k | 
 | description_or_color_upper | 75K | 
 | markdown_full | [electronic_resistor_0201_75000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_75000_ohm/working)<br>[ro753](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_75000_ohm/working)<br>[Electronic Resistor 0201 75000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_75000_ohm/working)<br><br> | 

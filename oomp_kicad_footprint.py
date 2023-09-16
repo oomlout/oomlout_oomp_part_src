@@ -255,7 +255,7 @@ def get_footprints(**kwargs):
 
     #            tssop
     match = {}    
-    match["size"] = "tssop_08"
+    match["size"] = "tssop_8"
     match["footprint_name"] = f"kicad_package_so_tssop_8_4_4x3mm_p0_65mm"
     matches.append(match)  
 
