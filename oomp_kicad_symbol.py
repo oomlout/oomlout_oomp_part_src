@@ -154,7 +154,8 @@ def get_symbols(**kwargs):
     # led
     match = {}    
     match["type"] = "led"
-    match["symbol_name"] = f"kicad_device_led"
+    match["size"] = ["3_mm","5_mm","10_mm","0201","0402","0603","0805","1206"]
+    match["symbol_name"] = f"kicad_device_led"    
     matches.append(match)
     
     match = {}    
@@ -246,34 +247,66 @@ def get_symbols(**kwargs):
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to symbols
     if kwargs["type"] == "resistor":
         pass
-    for match in matches:
-        if match.get("type","")   == "resistor":
-            pass
-        if "symbol_name" in match:
-            symbol_name = match["symbol_name"]
-            match["symbol"] = []        
-            match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
-                                "oomp_key": f"oomp_{symbol_name}",                                 
-                                "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
-            #remove symbol_name
-            del match["symbol_name"]
+    for mat in matches:
+        #if any element in match is an array then make all the posible permutations of the match
+        expand = False
+        for m in mat:
+            if isinstance(mat[m], list):
+                expand = True
+        if expand:
+            new_matches = []
+            #make a list of all the permutations
+            permutations = []
+            #get the keys
+            keys = []
+            for m in mat:
+                keys.append(m)
+            #get the values
+            values = []
+            for m in mat:
+                values.append(mat[m])
+            #get the number of permutations
+            import itertools
+            permutations = list(itertools.product(*values))
+            #make a match for each permutation
+            for permutation in permutations:
+                match = {}
+                for i in range(len(keys)):
+                    match[keys[i]] = permutation[i]
+                new_matches.append(match)
+            #remove the original match
+            #matches.remove(mat)
         else:
-            pass
-        match_count = 0
-        # get a list with oomp.names_of_main_elements and "id"
-        elements_to_check = oomp.names_of_main_elements.copy()
-        elements_to_check.append("id")
-        for name in elements_to_check:
-            try:
-                if match[name] == kwargs[name]:
-                    match_count += 1
-            except:
+            new_matches = [match]
+
+        for match in new_matches:
+            if match.get("type","")   == "resistor":
                 pass
-                #value not in match check
-        if match_count == len(match)-1:
-            symbols.extend(match["symbol"])
-        #if match.get("type","")   == "resistor":
-        #    pass
+            if "symbol_name" in match:
+                symbol_name = match["symbol_name"]
+                match["symbol"] = []        
+                match["symbol"].append({"link": f"{github_symbol_base}/{symbol_name}", 
+                                    "oomp_key": f"oomp_{symbol_name}",                                 
+                                    "directory": f"{directory_symbol_base}/{symbol_name}/{directory_symbol_end}"})
+                #remove symbol_name
+                del match["symbol_name"]
+            else:
+                pass
+            match_count = 0
+            # get a list with oomp.names_of_main_elements and "id"
+            elements_to_check = oomp.names_of_main_elements.copy()
+            elements_to_check.append("id")
+            for name in elements_to_check:
+                try:
+                    if match[name] == kwargs[name]:
+                        match_count += 1
+                except:
+                    pass
+                    #value not in match check
+            if match_count == len(match)-1:
+                symbols.extend(match["symbol"])
+            #if match.get("type","")   == "resistor":
+            #    pass
 
     if len(symbols) > 0:
         kwargs["symbol"] = symbols

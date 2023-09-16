@@ -20,7 +20,7 @@ def main(**kwargs):
         
         #second to last folder in the directory
         folder = directory.split("/")[-1]
-        root = f"{directory}/working"
+        root = f"order/{directory}/working"
         #yaml_fuile is folder plus working .yaml
         yaml_file = os.path.join(root, "working.yaml")
         file = "working.ods"
@@ -67,14 +67,14 @@ def copy_labels(**kwargs):
         
         #get the parts orderd
         file_csv = file.replace(".ods", ".csv")
-        filename = os.path.join(root, file_csv )
+        filename = f"{root}/{file_csv}"
         print(f"copying labels for {filename}")      
         #load csv
         parts_ordered_oomp = oom_office.load_csv_to_dict(filename=filename)
         #add to yaml
         import oom_yaml    
         detail = ["parts_ordered_oomp", parts_ordered_oomp]
-        oom_yaml.add_detail(yaml_file=yaml_file, detail=detail, add_markdown=True, oomp_replace=True)
+        oom_yaml.add_detail(yaml_file=yaml_file, detail=detail, add_markdown=True, oomp_replace=False)
         
     #copy labels
     if parts_ordered_oomp != []:
