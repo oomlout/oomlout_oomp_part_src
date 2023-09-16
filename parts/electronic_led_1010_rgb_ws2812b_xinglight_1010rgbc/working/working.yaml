@@ -11,9 +11,10 @@ description_or_color: r2k8
 description_or_color_upper: R2K8
 directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 distributors: []
-filter: ''
+filter: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010
     oomp_key: oomp_esden_pkl_led_led_tri_1010
 from_yaml: false
@@ -63,10 +64,8 @@ size: '1010'
 size_only_numbers: '1010'
 size_only_numbers_no_zeros: '11'
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
-    oomp_key: oomp_kicad_device_led
 -   directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
     oomp_key: oomp_kicad_led_ws2812b
 type: led

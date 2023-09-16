@@ -14,6 +14,7 @@ distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_6_3x3_9
     oomp_key: oomp_kicad_capacitor_smd_cp_elec_6_3x3_9
 from_yaml: false
@@ -45,10 +46,6 @@ short_code_upper: C63D54TUF220V10
 size: 6_3_mm_diameter_5_4_mm_tall
 size_only_numbers: '6354'
 size_only_numbers_no_zeros: '6354'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
-    oomp_key: oomp_kicad_device_c_polarized
 type: capacitor
 type_first_letter: c
 type_first_letter_upper: C

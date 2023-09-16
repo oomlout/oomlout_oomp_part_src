@@ -17,6 +17,7 @@ distributors:
     part_number: C92489
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering
     oomp_key: oomp_kicad_package_lga_bosch_lga_8_2_5x2_5mm_p0_65mm_clockwisepinnumbering
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/working
@@ -86,10 +87,6 @@ short_name: bosch sensortec bme280 pressure and temperature sensor
 size: lga_2_5_mm_x_2_5_mm_8_pin
 size_only_numbers: '25258'
 size_only_numbers_no_zeros: '25258'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_sensor_bme280//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_sensor_bme280
-    oomp_key: oomp_kicad_sensor_bme280
 type: ic
 type_first_letter: i
 type_first_letter_upper: I

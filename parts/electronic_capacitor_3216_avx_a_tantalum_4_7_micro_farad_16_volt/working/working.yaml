@@ -18,6 +18,7 @@ distributors:
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a
     oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a
 from_yaml: false
@@ -55,10 +56,6 @@ short_code_upper: CATUF4D7V16
 size: 3216_avx_a
 size_only_numbers: '3216'
 size_only_numbers_no_zeros: '3216'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized
-    oomp_key: oomp_kicad_device_c_polarized
 type: capacitor
 type_first_letter: c
 type_first_letter_upper: C

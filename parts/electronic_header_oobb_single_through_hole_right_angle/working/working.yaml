@@ -13,6 +13,7 @@ directory: parts/electronic_header_oobb_single_through_hole_right_angle
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomp_footprint_templates_zzzz
     oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working
@@ -42,10 +43,6 @@ short_name: ''
 size: oobb
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomp_footprint_templates_zzzz
-    oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz
 type: header
 type_first_letter: h
 type_first_letter_upper: H

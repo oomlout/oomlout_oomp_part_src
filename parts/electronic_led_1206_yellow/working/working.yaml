@@ -14,6 +14,7 @@ distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
     oomp_key: oomp_kicad_led_smd_led_1206_3216metric
 from_yaml: false
@@ -50,9 +51,26 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+- &id001
+    directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    index: 15
     link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
     oomp_key: oomp_kicad_device_led
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
 type: led
 type_first_letter: l
 type_first_letter_upper: L

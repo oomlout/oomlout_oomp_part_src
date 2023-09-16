@@ -9,7 +9,7 @@
     "part_number": "1010rgbc",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc",
     "kicad_reference": "L",
     "pins": {
         "pin_1": {

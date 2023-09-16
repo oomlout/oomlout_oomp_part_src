@@ -17,6 +17,7 @@ directory: parts/electronic_interposer_soic_14_wide_i2c_helicopter
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm
     oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working

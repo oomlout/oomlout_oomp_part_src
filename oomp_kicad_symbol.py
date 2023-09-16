@@ -245,7 +245,7 @@ def get_symbols(**kwargs):
 
     symbols = []
     #go through the keys in oomp.names_of_main_elements if all the values in match match (ignore non mentioned keys) then add it to symbols
-    if kwargs["type"] == "resistor":
+    if kwargs["type"] == "led":
         pass
     for mat in matches:
         #if any element in match is an array then make all the posible permutations of the match
@@ -254,6 +254,10 @@ def get_symbols(**kwargs):
             if isinstance(mat[m], list):
                 expand = True
         if expand:
+            #put each string in an array if it's not already
+            for m in mat:
+                if not isinstance(mat[m], list):
+                    mat[m] = [mat[m]]
             new_matches = []
             #make a list of all the permutations
             permutations = []
@@ -274,13 +278,14 @@ def get_symbols(**kwargs):
                 for i in range(len(keys)):
                     match[keys[i]] = permutation[i]
                 new_matches.append(match)
+            pass
             #remove the original match
             #matches.remove(mat)
         else:
-            new_matches = [match]
+            new_matches = [mat]
 
         for match in new_matches:
-            if match.get("type","")   == "resistor":
+            if match.get("type","")   == "led":
                 pass
             if "symbol_name" in match:
                 symbol_name = match["symbol_name"]
@@ -309,5 +314,8 @@ def get_symbols(**kwargs):
             #    pass
 
     if len(symbols) > 0:
+        #add index
+        for i in range(len(symbols)):
+            symbols[i]["index"] = i
         kwargs["symbol"] = symbols
     return kwargs

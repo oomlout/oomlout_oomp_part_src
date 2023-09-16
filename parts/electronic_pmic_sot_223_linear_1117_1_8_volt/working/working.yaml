@@ -13,6 +13,7 @@ directory: parts/electronic_pmic_sot_223_linear_1117_1_8_volt
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
     oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt/working
@@ -46,10 +47,6 @@ size_only_numbers_no_zeros: '223'
 smd_tape_depth: 2_mm
 smd_tape_pitch: 8_mm
 smd_tape_width: 12_mm
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_18//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_18
-    oomp_key: oomp_kicad_regulator_linear_ap1117_18
 type: pmic
 type_first_letter: p
 type_first_letter_upper: P

@@ -21,6 +21,7 @@ distributors:
     part_number: C2906270
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     oomp_key: oomp_kicad_connector_jst_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/working
@@ -63,10 +64,6 @@ size_only_numbers_no_zeros: '1'
 smd_tape_depth: 4_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 16_mm
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x04_pin//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x04_pin
-    oomp_key: oomp_kicad_connector_conn_01x04_pin
 type: header
 type_first_letter: h
 type_first_letter_upper: H

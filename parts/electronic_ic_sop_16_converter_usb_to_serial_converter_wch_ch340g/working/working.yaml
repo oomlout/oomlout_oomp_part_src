@@ -17,6 +17,7 @@ distributors:
     part_number: C14267
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
     oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g/working
@@ -115,10 +116,6 @@ short_name: usb to serial converter (ch340g)
 size: sop_16
 size_only_numbers: '16'
 size_only_numbers_no_zeros: '16'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340g//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340g
-    oomp_key: oomp_kicad_interface_usb_ch340g
 type: ic
 type_first_letter: i
 type_first_letter_upper: I

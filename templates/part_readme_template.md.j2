@@ -28,13 +28,13 @@ List of Pins:
 {% endfor %}{% endif %}
 {% if p.symbol %}## symbol
 {% for foot in p.symbol%}
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: {{ foot.oomp_key }}  
 link: {{ foot.link }}/working  
 {% endfor %}{% endif %}
 {% if p.footprint %}## footprint
 {% for foot in p.footprint%}
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: {{ foot.oomp_key }}  
 link: {{ foot.link }}/working  
 {% endfor %}{% endif %}

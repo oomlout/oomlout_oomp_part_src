@@ -13,6 +13,7 @@ directory: parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
     oomp_key: oomp_kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle/working
@@ -49,10 +50,6 @@ short_name: Jst Sh 9 Pin Surface Mount Right Angle Header 1 Mm Pitch
 size: 1_mm_jst_sh
 size_only_numbers: '1'
 size_only_numbers_no_zeros: '1'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
-    oomp_key: oomp_kicad_connector_conn_01x09_pin
 type: header
 type_first_letter: h
 type_first_letter_upper: H

@@ -17,6 +17,7 @@ distributors:
     part_number: C2845294
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working
@@ -52,10 +53,6 @@ size_only_numbers_no_zeros: '35625'
 smd_tape_depth: 3_mm
 smd_tape_pitch: 8_mm
 smd_tape_width: 8_mm
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
-    oomp_key: oomp_kicad_switch_sw_push
 type: button
 type_first_letter: b
 type_first_letter_upper: B

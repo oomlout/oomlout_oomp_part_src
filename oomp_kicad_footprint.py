@@ -492,5 +492,8 @@ def get_footprints(**kwargs):
             footprints.extend(match["footprint"])
 
     if len(footprints) > 0:
+        #add index
+        for i in range(len(footprints)):
+            footprints[i]["index"] = i
         kwargs["footprint"] = footprints
     return kwargs

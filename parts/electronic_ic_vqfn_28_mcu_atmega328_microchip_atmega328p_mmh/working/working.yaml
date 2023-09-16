@@ -13,6 +13,7 @@ directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
     oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working
@@ -42,10 +43,6 @@ short_name: atmega328 28 pin vqfn
 size: vqfn_28
 size_only_numbers: '28'
 size_only_numbers_no_zeros: '28'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
-    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
 type: ic
 type_first_letter: i
 type_first_letter_upper: I

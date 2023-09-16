@@ -18,6 +18,7 @@ distributors:
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
     oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
 from_yaml: false
@@ -55,10 +56,6 @@ short_code_upper: XCR3213MHZ16
 size: '3213'
 size_only_numbers: '3213'
 size_only_numbers_no_zeros: '3213'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
-    oomp_key: oomp_kicad_device_crystal_gnd2
 type: ceramic_resonator
 type_first_letter: c
 type_first_letter_upper: C

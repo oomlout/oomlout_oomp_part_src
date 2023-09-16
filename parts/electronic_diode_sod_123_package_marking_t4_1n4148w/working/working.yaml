@@ -22,6 +22,7 @@ distributors:
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
     oomp_key: oomp_kicad_diode_smd_d_sod_123
 from_yaml: false
@@ -54,10 +55,6 @@ short_code_upper: DSOD123PMT44148
 size: sod_123
 size_only_numbers: '123'
 size_only_numbers_no_zeros: '123'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d
-    oomp_key: oomp_kicad_device_d
 type: diode
 type_first_letter: d
 type_first_letter_upper: D

@@ -26,17 +26,13 @@ List of Pins:
 
 ## symbol
 
-![](symbol/0/working/working_600.png)  
-oomp_key: oomp_kicad_device_led  
-link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led/working  
-
-![](symbol/0/working/working_600.png)  
+![](symbol/{index}}/working/working_600.png)  
 oomp_key: oomp_kicad_led_ws2812b  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b/working  
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_esden_pkl_led_led_tri_1010  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/esden_pkl_led_led_tri_1010/working  
 
@@ -52,7 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra |  | 
 | manufacturer | xinglight | 
 | part_number | 1010rgbc | 
-| filter |  | 
+| filter | electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 
 | kicad_reference | L | 
 | pins_pin_1_name | do | 
 | pins_pin_1_number | 1 | 
@@ -100,5 +96,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | R2K8 | 
 | markdown_full | [electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[l101028121010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br>[Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br> | 
 | markdown_short | [electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010', 'oomp_key': 'oomp_esden_pkl_led_led_tri_1010', 'directory': 'oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod'}] | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym'}, {'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b', 'oomp_key': 'oomp_kicad_led_ws2812b', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010', 'oomp_key': 'oomp_esden_pkl_led_led_tri_1010', 'directory': 'oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod', 'index': 0}] | 
+| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b', 'oomp_key': 'oomp_kicad_led_ws2812b', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym', 'index': 0}] | 

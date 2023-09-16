@@ -13,6 +13,7 @@ directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
     oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu/working
@@ -42,10 +43,6 @@ short_name: atmega328 32 pin mlf
 size: mlf_32
 size_only_numbers: '32'
 size_only_numbers_no_zeros: '32'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
-    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
 type: ic
 type_first_letter: i
 type_first_letter_upper: I

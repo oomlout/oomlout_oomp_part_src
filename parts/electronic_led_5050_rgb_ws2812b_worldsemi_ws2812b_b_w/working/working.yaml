@@ -18,6 +18,7 @@ distributors:
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
     oomp_key: oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
 from_yaml: false
@@ -73,13 +74,6 @@ short_name: 5050 Rgbws2812B Led
 size: '5050'
 size_only_numbers: '5050'
 size_only_numbers_no_zeros: '55'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
-    oomp_key: oomp_kicad_device_led
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
-    oomp_key: oomp_kicad_led_ws2812b
 type: led
 type_first_letter: l
 type_first_letter_upper: L

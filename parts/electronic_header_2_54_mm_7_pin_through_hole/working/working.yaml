@@ -38,10 +38,6 @@ short_code_upper: HI17PTH
 size: 2_54_mm
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin
-    oomp_key: oomp_kicad_connector_conn_01x07_pin
 type: header
 type_first_letter: h
 type_first_letter_upper: H

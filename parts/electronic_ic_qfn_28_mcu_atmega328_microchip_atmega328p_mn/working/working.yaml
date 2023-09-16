@@ -38,10 +38,6 @@ short_name: atmega328 28 pin qfn
 size: qfn_28
 size_only_numbers: '28'
 size_only_numbers_no_zeros: '28'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p
-    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_p
 type: ic
 type_first_letter: i
 type_first_letter_upper: I

@@ -13,6 +13,7 @@ directory: parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_d
 distributors: []
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
     oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working
@@ -42,10 +43,6 @@ short_name: ''
 size: 2d54_header
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt
-    oomp_key: oomp_kicad_switch_sw_spdt
 type: switch_slide
 type_first_letter: s
 type_first_letter_upper: S

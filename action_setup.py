@@ -3,8 +3,9 @@ import oom_git
 
 def main():
     #oomp.clone_data_files()
-    #filter = "electronic_resistor_0603_1000_ohm"
-    filter = ""
+    filter = "electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc"
+    
+    #filter = ""
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
 

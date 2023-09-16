@@ -14,6 +14,7 @@ distributors: []
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod
+    index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric
     oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric
 from_yaml: false
@@ -48,10 +49,6 @@ size_only_numbers_no_zeros: '42'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
-    oomp_key: oomp_kicad_device_c
 type: capacitor
 type_first_letter: c
 type_first_letter_upper: C
