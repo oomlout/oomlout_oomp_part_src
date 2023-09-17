@@ -387,12 +387,15 @@ def get_footprints(**kwargs):
     match["type"] = "mounting_hole"
     match["size"] = "m3"
     match["footprint_name"] = f"kicad_mountinghole_mountinghole_3_2mm_m3"
+    #match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_kicad_mountinghole_mountinghole_3_2mm_m3_no_courtyard"
     matches.append(match)  
 
     match = {}
     match["type"] = "mounting_hole"
     match["size"] = "m6"
     match["footprint_name"] = f"kicad_mountinghole_mountinghole_6_4mm_m6"
+    #match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_kicad_mountinghole_mountinghole_6_4mm_m6_no_courtyard"
+    
     matches.append(match)  
 
 

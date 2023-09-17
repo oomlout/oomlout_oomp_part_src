@@ -94,7 +94,7 @@ def copy_labels(**kwargs):
             dst_extra = f"full/{src_extra.replace('working_label',part_id)}"
             label_copy_deets.append([src_extra, dst_extra])
 
-            src_extra = "working_label_15_mm_30_mm.pdf"                        
+            src_extra = "working_label_76_2_mm_50_8_mm_multi.pdf"                        
             dst_extra = f"niimbot/{src_extra.replace('working_label',part_id)}"
             label_copy_deets.append([src_extra, dst_extra])    
             

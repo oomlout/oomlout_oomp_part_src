@@ -25,9 +25,9 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
    showgrid="false"
-   inkscape:zoom="2.4778438"
-   inkscape:cx="102.91205"
-   inkscape:cy="69.41519"
+   inkscape:zoom="3.5042004"
+   inkscape:cx="48.513208"
+   inkscape:cy="126.99046"
    inkscape:window-width="1615"
    inkscape:window-height="1027"
    inkscape:window-x="60"
@@ -259,16 +259,16 @@
    id="line137" />
   <line
    class="fil0 str1"
-   x1="3150"
+   x1="3050"
    y1="2540"
-   x2="3350"
+   x2="3250"
    y2="2540"
    id="line139" />
   <line
    class="fil0 str1"
-   x1="3150"
+   x1="3050"
    y1="3340"
-   x2="3350"
+   x2="3250"
    y2="3340"
    id="line141" />
   <line
@@ -280,9 +280,9 @@
    id="line143" />
   <line
    class="fil0 str1"
-   x1="3050"
+   x1="2950"
    y1="2440"
-   x2="3050"
+   x2="2950"
    y2="2240"
    id="line145" />
   <line
@@ -294,9 +294,9 @@
    id="line147" />
   <line
    class="fil0 str1"
-   x1="3050"
+   x1="2950"
    y1="3640"
-   x2="3050"
+   x2="2950"
    y2="3440"
    id="line149" />
  <text
@@ -304,22 +304,23 @@
    y="3904"
    class="fil1 fnt0"
    id="text316">R6O103</text><g
-   transform="matrix(0.999968,0,0,1,-3182.31,1901.145)"
+   transform="matrix(0.999968,0,0,1,-3182.31,1877.8946)"
    id="g320">
    <text
    x="3810"
    y="2520"
    class="fil1 fnt2"
-   id="text318">R63</text>
+   id="text318"
+   style="font-size:423.34px">R63</text>
   </g><g
-   transform="matrix(0.99996,0,0,1,-816.063,1877.897)"
+   transform="matrix(0.99996,0,0,1,-1016.063,1877.897)"
    id="g324">
    <text
-   x="3764.3696"
+   x="3914.3757"
    y="2520"
    class="fil1 fnt3"
    id="text322"
-   style="text-align:end;text-anchor:end">10K</text>
+   style="text-align:end;text-anchor:end">10k</text>
   </g><line
    class="fil0 str1"
    x1="250"
@@ -334,15 +335,15 @@
    y2="4490"
    id="line328" /><line
    class="fil0 str1"
-   x1="3150"
+   x1="3050"
    y1="3690"
-   x2="3350"
+   x2="3250"
    y2="3690"
    id="line330" /><line
    class="fil0 str1"
-   x1="3150"
+   x1="3050"
    y1="4490"
-   x2="3350"
+   x2="3250"
    y2="4490"
    id="line332" /><line
    class="fil0 str1"
@@ -352,9 +353,9 @@
    y2="3390"
    id="line334" /><line
    class="fil0 str1"
-   x1="3050"
+   x1="2950"
    y1="3590"
-   x2="3050"
+   x2="2950"
    y2="3390"
    id="line336" /><line
    class="fil0 str1"
@@ -364,17 +365,11 @@
    y2="4590"
    id="line338" /><line
    class="fil0 str1"
-   x1="3050"
+   x1="2950"
    y1="4790"
-   x2="3050"
+   x2="2950"
    y2="4590"
-   id="line340" /><rect
-   class="fil0 str1"
-   x="3100"
-   y="640"
-   width="1200"
-   height="800"
-   id="rect584" /><g
+   id="line340" /><g
    transform="rotate(-90,2962.475,2193.275)"
    id="g588">
    <text
@@ -451,5 +446,33 @@
    y1="1740"
    x2="4300"
    y2="1540"
-   id="line614" /></g>
+   id="line614" /><text
+   x="1955"
+   y="3904"
+   class="fil1 fnt0"
+   id="text1124">RESISTOR</text><line
+   class="fil0 str1"
+   x1="250"
+   y1="3540"
+   x2="450"
+   y2="3540"
+   id="line1466" /><line
+   class="fil0 str1"
+   x1="3050"
+   y1="3540"
+   x2="3250"
+   y2="3540"
+   id="line1468" /><line
+   class="fil0 str1"
+   x1="250"
+   y1="4640"
+   x2="450"
+   y2="4640"
+   id="line1480" /><line
+   class="fil0 str1"
+   x1="3050"
+   y1="4640"
+   x2="3250"
+   y2="4640"
+   id="line1482" /></g>
 </svg>
