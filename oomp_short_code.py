@@ -35,7 +35,7 @@ def get_short_code(**kwargs):
     #      button and switch
     replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
     replace_dict["size"]["2_8_mm_x_8_mm_x_1_4_mm"] = "2880"
-    replace_dict["size"]["2d54_header"] = "i1h"
+    replace_dict["size"]["2_54_header"] = "i1h"
 
     #      oobb
     replace_dict["size"]["oobb"] = "ob"

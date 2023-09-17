@@ -24,6 +24,11 @@ description_or_color: 2k8
 description_or_color_upper: 2K8
 directory: parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_horizontal//working/working.kicad_mod
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_horizontal
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_horizontal
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working
 id: electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
 id_no_class: header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle

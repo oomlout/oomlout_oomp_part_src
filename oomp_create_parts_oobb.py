@@ -20,7 +20,7 @@ def load_parts(**kwargs):
     part_details["classification"] = "electronic"
     part_details["type"] = "header"
     part_details["size"] = ["oobb"]
-    part_details["color"] = [""]
+    part_details["color"] = ["basic","i2c"]
     part_details["description_main"] = ["single","double","triple"]
     part_details["description_extra"] = "through_hole_right_angle"
     part_details["manufacturer"] = ""

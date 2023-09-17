@@ -4086,6 +4086,11 @@ electronic_header_2_54_mm_10_pin_right_angle:
     description_or_color_upper: '10'
     directory: parts/electronic_header_2_54_mm_10_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_right_angle/working
     id: electronic_header_2_54_mm_10_pin_right_angle
     id_no_class: header_2_54_mm_10_pin_right_angle
@@ -4168,6 +4173,11 @@ electronic_header_2_54_mm_10_pin_surface_mount:
     description_or_color_upper: '10'
     directory: parts/electronic_header_2_54_mm_10_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_surface_mount/working
     id: electronic_header_2_54_mm_10_pin_surface_mount
     id_no_class: header_2_54_mm_10_pin_surface_mount
@@ -4250,6 +4260,11 @@ electronic_header_2_54_mm_10_pin_surface_mount_right_angle:
     description_or_color_upper: '10'
     directory: parts/electronic_header_2_54_mm_10_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89010xx_1x10_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_10_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_10_pin_surface_mount_right_angle
@@ -4332,6 +4347,11 @@ electronic_header_2_54_mm_10_pin_through_hole:
     description_or_color_upper: '10'
     directory: parts/electronic_header_2_54_mm_10_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole/working
     id: electronic_header_2_54_mm_10_pin_through_hole
     id_no_class: header_2_54_mm_10_pin_through_hole
@@ -4496,6 +4516,11 @@ electronic_header_2_54_mm_11_pin_right_angle:
     description_or_color_upper: '11'
     directory: parts/electronic_header_2_54_mm_11_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_right_angle/working
     id: electronic_header_2_54_mm_11_pin_right_angle
     id_no_class: header_2_54_mm_11_pin_right_angle
@@ -4578,6 +4603,11 @@ electronic_header_2_54_mm_11_pin_surface_mount:
     description_or_color_upper: '11'
     directory: parts/electronic_header_2_54_mm_11_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount/working
     id: electronic_header_2_54_mm_11_pin_surface_mount
     id_no_class: header_2_54_mm_11_pin_surface_mount
@@ -4660,6 +4690,11 @@ electronic_header_2_54_mm_11_pin_surface_mount_right_angle:
     description_or_color_upper: '11'
     directory: parts/electronic_header_2_54_mm_11_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89011xx_1x11_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_11_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_11_pin_surface_mount_right_angle
@@ -4742,6 +4777,11 @@ electronic_header_2_54_mm_11_pin_through_hole:
     description_or_color_upper: '11'
     directory: parts/electronic_header_2_54_mm_11_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x11_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_through_hole/working
     id: electronic_header_2_54_mm_11_pin_through_hole
     id_no_class: header_2_54_mm_11_pin_through_hole
@@ -4906,6 +4946,11 @@ electronic_header_2_54_mm_12_pin_right_angle:
     description_or_color_upper: '12'
     directory: parts/electronic_header_2_54_mm_12_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_right_angle/working
     id: electronic_header_2_54_mm_12_pin_right_angle
     id_no_class: header_2_54_mm_12_pin_right_angle
@@ -4988,6 +5033,11 @@ electronic_header_2_54_mm_12_pin_surface_mount:
     description_or_color_upper: '12'
     directory: parts/electronic_header_2_54_mm_12_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount/working
     id: electronic_header_2_54_mm_12_pin_surface_mount
     id_no_class: header_2_54_mm_12_pin_surface_mount
@@ -5070,6 +5120,11 @@ electronic_header_2_54_mm_12_pin_surface_mount_right_angle:
     description_or_color_upper: '12'
     directory: parts/electronic_header_2_54_mm_12_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_12_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_12_pin_surface_mount_right_angle
@@ -5152,6 +5207,11 @@ electronic_header_2_54_mm_12_pin_through_hole:
     description_or_color_upper: '12'
     directory: parts/electronic_header_2_54_mm_12_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working
     id: electronic_header_2_54_mm_12_pin_through_hole
     id_no_class: header_2_54_mm_12_pin_through_hole
@@ -5316,6 +5376,11 @@ electronic_header_2_54_mm_13_pin_right_angle:
     description_or_color_upper: '13'
     directory: parts/electronic_header_2_54_mm_13_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_right_angle/working
     id: electronic_header_2_54_mm_13_pin_right_angle
     id_no_class: header_2_54_mm_13_pin_right_angle
@@ -5398,6 +5463,11 @@ electronic_header_2_54_mm_13_pin_surface_mount:
     description_or_color_upper: '13'
     directory: parts/electronic_header_2_54_mm_13_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount/working
     id: electronic_header_2_54_mm_13_pin_surface_mount
     id_no_class: header_2_54_mm_13_pin_surface_mount
@@ -5480,6 +5550,11 @@ electronic_header_2_54_mm_13_pin_surface_mount_right_angle:
     description_or_color_upper: '13'
     directory: parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89013xx_1x13_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_13_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_13_pin_surface_mount_right_angle
@@ -5562,6 +5637,11 @@ electronic_header_2_54_mm_13_pin_through_hole:
     description_or_color_upper: '13'
     directory: parts/electronic_header_2_54_mm_13_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x13_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_through_hole/working
     id: electronic_header_2_54_mm_13_pin_through_hole
     id_no_class: header_2_54_mm_13_pin_through_hole
@@ -5726,6 +5806,11 @@ electronic_header_2_54_mm_14_pin_right_angle:
     description_or_color_upper: '14'
     directory: parts/electronic_header_2_54_mm_14_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_right_angle/working
     id: electronic_header_2_54_mm_14_pin_right_angle
     id_no_class: header_2_54_mm_14_pin_right_angle
@@ -5808,6 +5893,11 @@ electronic_header_2_54_mm_14_pin_surface_mount:
     description_or_color_upper: '14'
     directory: parts/electronic_header_2_54_mm_14_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_surface_mount/working
     id: electronic_header_2_54_mm_14_pin_surface_mount
     id_no_class: header_2_54_mm_14_pin_surface_mount
@@ -5890,6 +5980,11 @@ electronic_header_2_54_mm_14_pin_surface_mount_right_angle:
     description_or_color_upper: '14'
     directory: parts/electronic_header_2_54_mm_14_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89014xx_1x14_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89014xx_1x14_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89014xx_1x14_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_14_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_14_pin_surface_mount_right_angle
@@ -5972,6 +6067,11 @@ electronic_header_2_54_mm_14_pin_through_hole:
     description_or_color_upper: '14'
     directory: parts/electronic_header_2_54_mm_14_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x14_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_through_hole/working
     id: electronic_header_2_54_mm_14_pin_through_hole
     id_no_class: header_2_54_mm_14_pin_through_hole
@@ -6136,6 +6236,11 @@ electronic_header_2_54_mm_15_pin_right_angle:
     description_or_color_upper: '15'
     directory: parts/electronic_header_2_54_mm_15_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_right_angle/working
     id: electronic_header_2_54_mm_15_pin_right_angle
     id_no_class: header_2_54_mm_15_pin_right_angle
@@ -6218,6 +6323,11 @@ electronic_header_2_54_mm_15_pin_surface_mount:
     description_or_color_upper: '15'
     directory: parts/electronic_header_2_54_mm_15_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount/working
     id: electronic_header_2_54_mm_15_pin_surface_mount
     id_no_class: header_2_54_mm_15_pin_surface_mount
@@ -6300,6 +6410,11 @@ electronic_header_2_54_mm_15_pin_surface_mount_right_angle:
     description_or_color_upper: '15'
     directory: parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_15_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_15_pin_surface_mount_right_angle
@@ -6382,6 +6497,11 @@ electronic_header_2_54_mm_15_pin_through_hole:
     description_or_color_upper: '15'
     directory: parts/electronic_header_2_54_mm_15_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working
     id: electronic_header_2_54_mm_15_pin_through_hole
     id_no_class: header_2_54_mm_15_pin_through_hole
@@ -6546,6 +6666,11 @@ electronic_header_2_54_mm_16_pin_right_angle:
     description_or_color_upper: '16'
     directory: parts/electronic_header_2_54_mm_16_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_right_angle/working
     id: electronic_header_2_54_mm_16_pin_right_angle
     id_no_class: header_2_54_mm_16_pin_right_angle
@@ -6628,6 +6753,11 @@ electronic_header_2_54_mm_16_pin_surface_mount:
     description_or_color_upper: '16'
     directory: parts/electronic_header_2_54_mm_16_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount/working
     id: electronic_header_2_54_mm_16_pin_surface_mount
     id_no_class: header_2_54_mm_16_pin_surface_mount
@@ -6710,6 +6840,11 @@ electronic_header_2_54_mm_16_pin_surface_mount_right_angle:
     description_or_color_upper: '16'
     directory: parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_16_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_16_pin_surface_mount_right_angle
@@ -6792,6 +6927,11 @@ electronic_header_2_54_mm_16_pin_through_hole:
     description_or_color_upper: '16'
     directory: parts/electronic_header_2_54_mm_16_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x16_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole/working
     id: electronic_header_2_54_mm_16_pin_through_hole
     id_no_class: header_2_54_mm_16_pin_through_hole
@@ -6956,6 +7096,11 @@ electronic_header_2_54_mm_17_pin_right_angle:
     description_or_color_upper: '17'
     directory: parts/electronic_header_2_54_mm_17_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_right_angle/working
     id: electronic_header_2_54_mm_17_pin_right_angle
     id_no_class: header_2_54_mm_17_pin_right_angle
@@ -7038,6 +7183,11 @@ electronic_header_2_54_mm_17_pin_surface_mount:
     description_or_color_upper: '17'
     directory: parts/electronic_header_2_54_mm_17_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_surface_mount/working
     id: electronic_header_2_54_mm_17_pin_surface_mount
     id_no_class: header_2_54_mm_17_pin_surface_mount
@@ -7120,6 +7270,11 @@ electronic_header_2_54_mm_17_pin_surface_mount_right_angle:
     description_or_color_upper: '17'
     directory: parts/electronic_header_2_54_mm_17_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89017xx_1x17_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89017xx_1x17_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89017xx_1x17_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_17_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_17_pin_surface_mount_right_angle
@@ -7202,6 +7357,11 @@ electronic_header_2_54_mm_17_pin_through_hole:
     description_or_color_upper: '17'
     directory: parts/electronic_header_2_54_mm_17_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x17_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_through_hole/working
     id: electronic_header_2_54_mm_17_pin_through_hole
     id_no_class: header_2_54_mm_17_pin_through_hole
@@ -7366,6 +7526,11 @@ electronic_header_2_54_mm_18_pin_right_angle:
     description_or_color_upper: '18'
     directory: parts/electronic_header_2_54_mm_18_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_right_angle/working
     id: electronic_header_2_54_mm_18_pin_right_angle
     id_no_class: header_2_54_mm_18_pin_right_angle
@@ -7448,6 +7613,11 @@ electronic_header_2_54_mm_18_pin_surface_mount:
     description_or_color_upper: '18'
     directory: parts/electronic_header_2_54_mm_18_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_surface_mount/working
     id: electronic_header_2_54_mm_18_pin_surface_mount
     id_no_class: header_2_54_mm_18_pin_surface_mount
@@ -7530,6 +7700,11 @@ electronic_header_2_54_mm_18_pin_surface_mount_right_angle:
     description_or_color_upper: '18'
     directory: parts/electronic_header_2_54_mm_18_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89018xx_1x18_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89018xx_1x18_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89018xx_1x18_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_18_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_18_pin_surface_mount_right_angle
@@ -7612,6 +7787,11 @@ electronic_header_2_54_mm_18_pin_through_hole:
     description_or_color_upper: '18'
     directory: parts/electronic_header_2_54_mm_18_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x18_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_through_hole/working
     id: electronic_header_2_54_mm_18_pin_through_hole
     id_no_class: header_2_54_mm_18_pin_through_hole
@@ -7776,6 +7956,11 @@ electronic_header_2_54_mm_19_pin_right_angle:
     description_or_color_upper: '19'
     directory: parts/electronic_header_2_54_mm_19_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_right_angle/working
     id: electronic_header_2_54_mm_19_pin_right_angle
     id_no_class: header_2_54_mm_19_pin_right_angle
@@ -7858,6 +8043,11 @@ electronic_header_2_54_mm_19_pin_surface_mount:
     description_or_color_upper: '19'
     directory: parts/electronic_header_2_54_mm_19_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount/working
     id: electronic_header_2_54_mm_19_pin_surface_mount
     id_no_class: header_2_54_mm_19_pin_surface_mount
@@ -7940,6 +8130,11 @@ electronic_header_2_54_mm_19_pin_surface_mount_right_angle:
     description_or_color_upper: '19'
     directory: parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_19_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_19_pin_surface_mount_right_angle
@@ -8022,6 +8217,11 @@ electronic_header_2_54_mm_19_pin_through_hole:
     description_or_color_upper: '19'
     directory: parts/electronic_header_2_54_mm_19_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x19_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole/working
     id: electronic_header_2_54_mm_19_pin_through_hole
     id_no_class: header_2_54_mm_19_pin_through_hole
@@ -8186,6 +8386,11 @@ electronic_header_2_54_mm_1_pin_right_angle:
     description_or_color_upper: '1'
     directory: parts/electronic_header_2_54_mm_1_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_right_angle/working
     id: electronic_header_2_54_mm_1_pin_right_angle
     id_no_class: header_2_54_mm_1_pin_right_angle
@@ -8432,6 +8637,11 @@ electronic_header_2_54_mm_1_pin_through_hole:
     description_or_color_upper: '1'
     directory: parts/electronic_header_2_54_mm_1_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x01_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole/working
     id: electronic_header_2_54_mm_1_pin_through_hole
     id_no_class: header_2_54_mm_1_pin_through_hole
@@ -8596,6 +8806,11 @@ electronic_header_2_54_mm_20_pin_right_angle:
     description_or_color_upper: '20'
     directory: parts/electronic_header_2_54_mm_20_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_right_angle/working
     id: electronic_header_2_54_mm_20_pin_right_angle
     id_no_class: header_2_54_mm_20_pin_right_angle
@@ -8678,6 +8893,11 @@ electronic_header_2_54_mm_20_pin_surface_mount:
     description_or_color_upper: '20'
     directory: parts/electronic_header_2_54_mm_20_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_surface_mount/working
     id: electronic_header_2_54_mm_20_pin_surface_mount
     id_no_class: header_2_54_mm_20_pin_surface_mount
@@ -8760,6 +8980,11 @@ electronic_header_2_54_mm_20_pin_surface_mount_right_angle:
     description_or_color_upper: '20'
     directory: parts/electronic_header_2_54_mm_20_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89020xx_1x20_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89020xx_1x20_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89020xx_1x20_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_20_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_20_pin_surface_mount_right_angle
@@ -8842,6 +9067,11 @@ electronic_header_2_54_mm_20_pin_through_hole:
     description_or_color_upper: '20'
     directory: parts/electronic_header_2_54_mm_20_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x20_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_through_hole/working
     id: electronic_header_2_54_mm_20_pin_through_hole
     id_no_class: header_2_54_mm_20_pin_through_hole
@@ -9006,6 +9236,11 @@ electronic_header_2_54_mm_21_pin_right_angle:
     description_or_color_upper: '21'
     directory: parts/electronic_header_2_54_mm_21_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_right_angle/working
     id: electronic_header_2_54_mm_21_pin_right_angle
     id_no_class: header_2_54_mm_21_pin_right_angle
@@ -9088,6 +9323,11 @@ electronic_header_2_54_mm_21_pin_surface_mount:
     description_or_color_upper: '21'
     directory: parts/electronic_header_2_54_mm_21_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_surface_mount/working
     id: electronic_header_2_54_mm_21_pin_surface_mount
     id_no_class: header_2_54_mm_21_pin_surface_mount
@@ -9252,6 +9492,11 @@ electronic_header_2_54_mm_21_pin_through_hole:
     description_or_color_upper: '21'
     directory: parts/electronic_header_2_54_mm_21_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x21_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole/working
     id: electronic_header_2_54_mm_21_pin_through_hole
     id_no_class: header_2_54_mm_21_pin_through_hole
@@ -9416,6 +9661,11 @@ electronic_header_2_54_mm_22_pin_right_angle:
     description_or_color_upper: '22'
     directory: parts/electronic_header_2_54_mm_22_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_right_angle/working
     id: electronic_header_2_54_mm_22_pin_right_angle
     id_no_class: header_2_54_mm_22_pin_right_angle
@@ -9498,6 +9748,11 @@ electronic_header_2_54_mm_22_pin_surface_mount:
     description_or_color_upper: '22'
     directory: parts/electronic_header_2_54_mm_22_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_surface_mount/working
     id: electronic_header_2_54_mm_22_pin_surface_mount
     id_no_class: header_2_54_mm_22_pin_surface_mount
@@ -9662,6 +9917,11 @@ electronic_header_2_54_mm_22_pin_through_hole:
     description_or_color_upper: '22'
     directory: parts/electronic_header_2_54_mm_22_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x22_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole/working
     id: electronic_header_2_54_mm_22_pin_through_hole
     id_no_class: header_2_54_mm_22_pin_through_hole
@@ -9826,6 +10086,11 @@ electronic_header_2_54_mm_23_pin_right_angle:
     description_or_color_upper: '23'
     directory: parts/electronic_header_2_54_mm_23_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_right_angle/working
     id: electronic_header_2_54_mm_23_pin_right_angle
     id_no_class: header_2_54_mm_23_pin_right_angle
@@ -9908,6 +10173,11 @@ electronic_header_2_54_mm_23_pin_surface_mount:
     description_or_color_upper: '23'
     directory: parts/electronic_header_2_54_mm_23_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_surface_mount/working
     id: electronic_header_2_54_mm_23_pin_surface_mount
     id_no_class: header_2_54_mm_23_pin_surface_mount
@@ -10072,6 +10342,11 @@ electronic_header_2_54_mm_23_pin_through_hole:
     description_or_color_upper: '23'
     directory: parts/electronic_header_2_54_mm_23_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x23_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_through_hole/working
     id: electronic_header_2_54_mm_23_pin_through_hole
     id_no_class: header_2_54_mm_23_pin_through_hole
@@ -10236,6 +10511,11 @@ electronic_header_2_54_mm_24_pin_right_angle:
     description_or_color_upper: '24'
     directory: parts/electronic_header_2_54_mm_24_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_right_angle/working
     id: electronic_header_2_54_mm_24_pin_right_angle
     id_no_class: header_2_54_mm_24_pin_right_angle
@@ -10318,6 +10598,11 @@ electronic_header_2_54_mm_24_pin_surface_mount:
     description_or_color_upper: '24'
     directory: parts/electronic_header_2_54_mm_24_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount/working
     id: electronic_header_2_54_mm_24_pin_surface_mount
     id_no_class: header_2_54_mm_24_pin_surface_mount
@@ -10482,6 +10767,11 @@ electronic_header_2_54_mm_24_pin_through_hole:
     description_or_color_upper: '24'
     directory: parts/electronic_header_2_54_mm_24_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x24_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_through_hole/working
     id: electronic_header_2_54_mm_24_pin_through_hole
     id_no_class: header_2_54_mm_24_pin_through_hole
@@ -10646,6 +10936,11 @@ electronic_header_2_54_mm_25_pin_right_angle:
     description_or_color_upper: '25'
     directory: parts/electronic_header_2_54_mm_25_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_right_angle/working
     id: electronic_header_2_54_mm_25_pin_right_angle
     id_no_class: header_2_54_mm_25_pin_right_angle
@@ -10728,6 +11023,11 @@ electronic_header_2_54_mm_25_pin_surface_mount:
     description_or_color_upper: '25'
     directory: parts/electronic_header_2_54_mm_25_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_surface_mount/working
     id: electronic_header_2_54_mm_25_pin_surface_mount
     id_no_class: header_2_54_mm_25_pin_surface_mount
@@ -10892,6 +11192,11 @@ electronic_header_2_54_mm_25_pin_through_hole:
     description_or_color_upper: '25'
     directory: parts/electronic_header_2_54_mm_25_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x25_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole/working
     id: electronic_header_2_54_mm_25_pin_through_hole
     id_no_class: header_2_54_mm_25_pin_through_hole
@@ -11056,6 +11361,11 @@ electronic_header_2_54_mm_26_pin_right_angle:
     description_or_color_upper: '26'
     directory: parts/electronic_header_2_54_mm_26_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_right_angle/working
     id: electronic_header_2_54_mm_26_pin_right_angle
     id_no_class: header_2_54_mm_26_pin_right_angle
@@ -11138,6 +11448,11 @@ electronic_header_2_54_mm_26_pin_surface_mount:
     description_or_color_upper: '26'
     directory: parts/electronic_header_2_54_mm_26_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_surface_mount/working
     id: electronic_header_2_54_mm_26_pin_surface_mount
     id_no_class: header_2_54_mm_26_pin_surface_mount
@@ -11302,6 +11617,11 @@ electronic_header_2_54_mm_26_pin_through_hole:
     description_or_color_upper: '26'
     directory: parts/electronic_header_2_54_mm_26_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x26_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole/working
     id: electronic_header_2_54_mm_26_pin_through_hole
     id_no_class: header_2_54_mm_26_pin_through_hole
@@ -11466,6 +11786,11 @@ electronic_header_2_54_mm_27_pin_right_angle:
     description_or_color_upper: '27'
     directory: parts/electronic_header_2_54_mm_27_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_right_angle/working
     id: electronic_header_2_54_mm_27_pin_right_angle
     id_no_class: header_2_54_mm_27_pin_right_angle
@@ -11548,6 +11873,11 @@ electronic_header_2_54_mm_27_pin_surface_mount:
     description_or_color_upper: '27'
     directory: parts/electronic_header_2_54_mm_27_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_surface_mount/working
     id: electronic_header_2_54_mm_27_pin_surface_mount
     id_no_class: header_2_54_mm_27_pin_surface_mount
@@ -11712,6 +12042,11 @@ electronic_header_2_54_mm_27_pin_through_hole:
     description_or_color_upper: '27'
     directory: parts/electronic_header_2_54_mm_27_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x27_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole/working
     id: electronic_header_2_54_mm_27_pin_through_hole
     id_no_class: header_2_54_mm_27_pin_through_hole
@@ -11876,6 +12211,11 @@ electronic_header_2_54_mm_28_pin_right_angle:
     description_or_color_upper: '28'
     directory: parts/electronic_header_2_54_mm_28_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_28_pin_right_angle/working
     id: electronic_header_2_54_mm_28_pin_right_angle
     id_no_class: header_2_54_mm_28_pin_right_angle
@@ -11958,6 +12298,11 @@ electronic_header_2_54_mm_28_pin_surface_mount:
     description_or_color_upper: '28'
     directory: parts/electronic_header_2_54_mm_28_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_28_pin_surface_mount/working
     id: electronic_header_2_54_mm_28_pin_surface_mount
     id_no_class: header_2_54_mm_28_pin_surface_mount
@@ -12122,6 +12467,11 @@ electronic_header_2_54_mm_28_pin_through_hole:
     description_or_color_upper: '28'
     directory: parts/electronic_header_2_54_mm_28_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x28_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_28_pin_through_hole/working
     id: electronic_header_2_54_mm_28_pin_through_hole
     id_no_class: header_2_54_mm_28_pin_through_hole
@@ -12286,6 +12636,11 @@ electronic_header_2_54_mm_29_pin_right_angle:
     description_or_color_upper: '29'
     directory: parts/electronic_header_2_54_mm_29_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_right_angle/working
     id: electronic_header_2_54_mm_29_pin_right_angle
     id_no_class: header_2_54_mm_29_pin_right_angle
@@ -12368,6 +12723,11 @@ electronic_header_2_54_mm_29_pin_surface_mount:
     description_or_color_upper: '29'
     directory: parts/electronic_header_2_54_mm_29_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working
     id: electronic_header_2_54_mm_29_pin_surface_mount
     id_no_class: header_2_54_mm_29_pin_surface_mount
@@ -12532,6 +12892,11 @@ electronic_header_2_54_mm_29_pin_through_hole:
     description_or_color_upper: '29'
     directory: parts/electronic_header_2_54_mm_29_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_through_hole/working
     id: electronic_header_2_54_mm_29_pin_through_hole
     id_no_class: header_2_54_mm_29_pin_through_hole
@@ -12696,6 +13061,11 @@ electronic_header_2_54_mm_2_pin_right_angle:
     description_or_color_upper: '2'
     directory: parts/electronic_header_2_54_mm_2_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_2_pin_right_angle/working
     id: electronic_header_2_54_mm_2_pin_right_angle
     id_no_class: header_2_54_mm_2_pin_right_angle
@@ -12778,6 +13148,11 @@ electronic_header_2_54_mm_2_pin_surface_mount:
     description_or_color_upper: '2'
     directory: parts/electronic_header_2_54_mm_2_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_2_pin_surface_mount/working
     id: electronic_header_2_54_mm_2_pin_surface_mount
     id_no_class: header_2_54_mm_2_pin_surface_mount
@@ -12942,6 +13317,11 @@ electronic_header_2_54_mm_2_pin_through_hole:
     description_or_color_upper: '2'
     directory: parts/electronic_header_2_54_mm_2_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x02_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_2_pin_through_hole/working
     id: electronic_header_2_54_mm_2_pin_through_hole
     id_no_class: header_2_54_mm_2_pin_through_hole
@@ -13106,6 +13486,11 @@ electronic_header_2_54_mm_30_pin_right_angle:
     description_or_color_upper: '30'
     directory: parts/electronic_header_2_54_mm_30_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_right_angle/working
     id: electronic_header_2_54_mm_30_pin_right_angle
     id_no_class: header_2_54_mm_30_pin_right_angle
@@ -13188,6 +13573,11 @@ electronic_header_2_54_mm_30_pin_surface_mount:
     description_or_color_upper: '30'
     directory: parts/electronic_header_2_54_mm_30_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working
     id: electronic_header_2_54_mm_30_pin_surface_mount
     id_no_class: header_2_54_mm_30_pin_surface_mount
@@ -13352,6 +13742,11 @@ electronic_header_2_54_mm_30_pin_through_hole:
     description_or_color_upper: '30'
     directory: parts/electronic_header_2_54_mm_30_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x30_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_through_hole/working
     id: electronic_header_2_54_mm_30_pin_through_hole
     id_no_class: header_2_54_mm_30_pin_through_hole
@@ -13516,6 +13911,11 @@ electronic_header_2_54_mm_31_pin_right_angle:
     description_or_color_upper: '31'
     directory: parts/electronic_header_2_54_mm_31_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_right_angle/working
     id: electronic_header_2_54_mm_31_pin_right_angle
     id_no_class: header_2_54_mm_31_pin_right_angle
@@ -13598,6 +13998,11 @@ electronic_header_2_54_mm_31_pin_surface_mount:
     description_or_color_upper: '31'
     directory: parts/electronic_header_2_54_mm_31_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_surface_mount/working
     id: electronic_header_2_54_mm_31_pin_surface_mount
     id_no_class: header_2_54_mm_31_pin_surface_mount
@@ -13762,6 +14167,11 @@ electronic_header_2_54_mm_31_pin_through_hole:
     description_or_color_upper: '31'
     directory: parts/electronic_header_2_54_mm_31_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_through_hole/working
     id: electronic_header_2_54_mm_31_pin_through_hole
     id_no_class: header_2_54_mm_31_pin_through_hole
@@ -13926,6 +14336,11 @@ electronic_header_2_54_mm_32_pin_right_angle:
     description_or_color_upper: '32'
     directory: parts/electronic_header_2_54_mm_32_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_right_angle/working
     id: electronic_header_2_54_mm_32_pin_right_angle
     id_no_class: header_2_54_mm_32_pin_right_angle
@@ -14008,6 +14423,11 @@ electronic_header_2_54_mm_32_pin_surface_mount:
     description_or_color_upper: '32'
     directory: parts/electronic_header_2_54_mm_32_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_surface_mount/working
     id: electronic_header_2_54_mm_32_pin_surface_mount
     id_no_class: header_2_54_mm_32_pin_surface_mount
@@ -14172,6 +14592,11 @@ electronic_header_2_54_mm_32_pin_through_hole:
     description_or_color_upper: '32'
     directory: parts/electronic_header_2_54_mm_32_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x32_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole/working
     id: electronic_header_2_54_mm_32_pin_through_hole
     id_no_class: header_2_54_mm_32_pin_through_hole
@@ -14336,6 +14761,11 @@ electronic_header_2_54_mm_33_pin_right_angle:
     description_or_color_upper: '33'
     directory: parts/electronic_header_2_54_mm_33_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_right_angle/working
     id: electronic_header_2_54_mm_33_pin_right_angle
     id_no_class: header_2_54_mm_33_pin_right_angle
@@ -14418,6 +14848,11 @@ electronic_header_2_54_mm_33_pin_surface_mount:
     description_or_color_upper: '33'
     directory: parts/electronic_header_2_54_mm_33_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount/working
     id: electronic_header_2_54_mm_33_pin_surface_mount
     id_no_class: header_2_54_mm_33_pin_surface_mount
@@ -14582,6 +15017,11 @@ electronic_header_2_54_mm_33_pin_through_hole:
     description_or_color_upper: '33'
     directory: parts/electronic_header_2_54_mm_33_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x33_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_through_hole/working
     id: electronic_header_2_54_mm_33_pin_through_hole
     id_no_class: header_2_54_mm_33_pin_through_hole
@@ -14746,6 +15186,11 @@ electronic_header_2_54_mm_34_pin_right_angle:
     description_or_color_upper: '34'
     directory: parts/electronic_header_2_54_mm_34_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_right_angle/working
     id: electronic_header_2_54_mm_34_pin_right_angle
     id_no_class: header_2_54_mm_34_pin_right_angle
@@ -14828,6 +15273,11 @@ electronic_header_2_54_mm_34_pin_surface_mount:
     description_or_color_upper: '34'
     directory: parts/electronic_header_2_54_mm_34_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_surface_mount/working
     id: electronic_header_2_54_mm_34_pin_surface_mount
     id_no_class: header_2_54_mm_34_pin_surface_mount
@@ -14992,6 +15442,11 @@ electronic_header_2_54_mm_34_pin_through_hole:
     description_or_color_upper: '34'
     directory: parts/electronic_header_2_54_mm_34_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x34_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole/working
     id: electronic_header_2_54_mm_34_pin_through_hole
     id_no_class: header_2_54_mm_34_pin_through_hole
@@ -15156,6 +15611,11 @@ electronic_header_2_54_mm_35_pin_right_angle:
     description_or_color_upper: '35'
     directory: parts/electronic_header_2_54_mm_35_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_35_pin_right_angle/working
     id: electronic_header_2_54_mm_35_pin_right_angle
     id_no_class: header_2_54_mm_35_pin_right_angle
@@ -15238,6 +15698,11 @@ electronic_header_2_54_mm_35_pin_surface_mount:
     description_or_color_upper: '35'
     directory: parts/electronic_header_2_54_mm_35_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount/working
     id: electronic_header_2_54_mm_35_pin_surface_mount
     id_no_class: header_2_54_mm_35_pin_surface_mount
@@ -15402,6 +15867,11 @@ electronic_header_2_54_mm_35_pin_through_hole:
     description_or_color_upper: '35'
     directory: parts/electronic_header_2_54_mm_35_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_35_pin_through_hole/working
     id: electronic_header_2_54_mm_35_pin_through_hole
     id_no_class: header_2_54_mm_35_pin_through_hole
@@ -15566,6 +16036,11 @@ electronic_header_2_54_mm_36_pin_right_angle:
     description_or_color_upper: '36'
     directory: parts/electronic_header_2_54_mm_36_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_right_angle/working
     id: electronic_header_2_54_mm_36_pin_right_angle
     id_no_class: header_2_54_mm_36_pin_right_angle
@@ -15648,6 +16123,11 @@ electronic_header_2_54_mm_36_pin_surface_mount:
     description_or_color_upper: '36'
     directory: parts/electronic_header_2_54_mm_36_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_surface_mount/working
     id: electronic_header_2_54_mm_36_pin_surface_mount
     id_no_class: header_2_54_mm_36_pin_surface_mount
@@ -15812,6 +16292,11 @@ electronic_header_2_54_mm_36_pin_through_hole:
     description_or_color_upper: '36'
     directory: parts/electronic_header_2_54_mm_36_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x36_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_through_hole/working
     id: electronic_header_2_54_mm_36_pin_through_hole
     id_no_class: header_2_54_mm_36_pin_through_hole
@@ -15976,6 +16461,11 @@ electronic_header_2_54_mm_37_pin_right_angle:
     description_or_color_upper: '37'
     directory: parts/electronic_header_2_54_mm_37_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_right_angle/working
     id: electronic_header_2_54_mm_37_pin_right_angle
     id_no_class: header_2_54_mm_37_pin_right_angle
@@ -16058,6 +16548,11 @@ electronic_header_2_54_mm_37_pin_surface_mount:
     description_or_color_upper: '37'
     directory: parts/electronic_header_2_54_mm_37_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_surface_mount/working
     id: electronic_header_2_54_mm_37_pin_surface_mount
     id_no_class: header_2_54_mm_37_pin_surface_mount
@@ -16222,6 +16717,11 @@ electronic_header_2_54_mm_37_pin_through_hole:
     description_or_color_upper: '37'
     directory: parts/electronic_header_2_54_mm_37_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x37_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole/working
     id: electronic_header_2_54_mm_37_pin_through_hole
     id_no_class: header_2_54_mm_37_pin_through_hole
@@ -16386,6 +16886,11 @@ electronic_header_2_54_mm_38_pin_right_angle:
     description_or_color_upper: '38'
     directory: parts/electronic_header_2_54_mm_38_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_right_angle/working
     id: electronic_header_2_54_mm_38_pin_right_angle
     id_no_class: header_2_54_mm_38_pin_right_angle
@@ -16468,6 +16973,11 @@ electronic_header_2_54_mm_38_pin_surface_mount:
     description_or_color_upper: '38'
     directory: parts/electronic_header_2_54_mm_38_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_surface_mount/working
     id: electronic_header_2_54_mm_38_pin_surface_mount
     id_no_class: header_2_54_mm_38_pin_surface_mount
@@ -16632,6 +17142,11 @@ electronic_header_2_54_mm_38_pin_through_hole:
     description_or_color_upper: '38'
     directory: parts/electronic_header_2_54_mm_38_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x38_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole/working
     id: electronic_header_2_54_mm_38_pin_through_hole
     id_no_class: header_2_54_mm_38_pin_through_hole
@@ -16796,6 +17311,11 @@ electronic_header_2_54_mm_39_pin_right_angle:
     description_or_color_upper: '39'
     directory: parts/electronic_header_2_54_mm_39_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_right_angle/working
     id: electronic_header_2_54_mm_39_pin_right_angle
     id_no_class: header_2_54_mm_39_pin_right_angle
@@ -16878,6 +17398,11 @@ electronic_header_2_54_mm_39_pin_surface_mount:
     description_or_color_upper: '39'
     directory: parts/electronic_header_2_54_mm_39_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_surface_mount/working
     id: electronic_header_2_54_mm_39_pin_surface_mount
     id_no_class: header_2_54_mm_39_pin_surface_mount
@@ -17042,6 +17567,11 @@ electronic_header_2_54_mm_39_pin_through_hole:
     description_or_color_upper: '39'
     directory: parts/electronic_header_2_54_mm_39_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x39_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole/working
     id: electronic_header_2_54_mm_39_pin_through_hole
     id_no_class: header_2_54_mm_39_pin_through_hole
@@ -17206,6 +17736,11 @@ electronic_header_2_54_mm_3_pin_right_angle:
     description_or_color_upper: '3'
     directory: parts/electronic_header_2_54_mm_3_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_right_angle/working
     id: electronic_header_2_54_mm_3_pin_right_angle
     id_no_class: header_2_54_mm_3_pin_right_angle
@@ -17288,6 +17823,11 @@ electronic_header_2_54_mm_3_pin_surface_mount:
     description_or_color_upper: '3'
     directory: parts/electronic_header_2_54_mm_3_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_surface_mount/working
     id: electronic_header_2_54_mm_3_pin_surface_mount
     id_no_class: header_2_54_mm_3_pin_surface_mount
@@ -17370,6 +17910,11 @@ electronic_header_2_54_mm_3_pin_surface_mount_right_angle:
     description_or_color_upper: '3'
     directory: parts/electronic_header_2_54_mm_3_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89003xx_1x03_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89003xx_1x03_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89003xx_1x03_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_3_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_3_pin_surface_mount_right_angle
@@ -17452,6 +17997,11 @@ electronic_header_2_54_mm_3_pin_through_hole:
     description_or_color_upper: '3'
     directory: parts/electronic_header_2_54_mm_3_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_through_hole/working
     id: electronic_header_2_54_mm_3_pin_through_hole
     id_no_class: header_2_54_mm_3_pin_through_hole
@@ -17616,6 +18166,11 @@ electronic_header_2_54_mm_40_pin_right_angle:
     description_or_color_upper: '40'
     directory: parts/electronic_header_2_54_mm_40_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_right_angle/working
     id: electronic_header_2_54_mm_40_pin_right_angle
     id_no_class: header_2_54_mm_40_pin_right_angle
@@ -17698,6 +18253,11 @@ electronic_header_2_54_mm_40_pin_surface_mount:
     description_or_color_upper: '40'
     directory: parts/electronic_header_2_54_mm_40_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount/working
     id: electronic_header_2_54_mm_40_pin_surface_mount
     id_no_class: header_2_54_mm_40_pin_surface_mount
@@ -17862,6 +18422,11 @@ electronic_header_2_54_mm_40_pin_through_hole:
     description_or_color_upper: '40'
     directory: parts/electronic_header_2_54_mm_40_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x40_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole/working
     id: electronic_header_2_54_mm_40_pin_through_hole
     id_no_class: header_2_54_mm_40_pin_through_hole
@@ -18026,6 +18591,11 @@ electronic_header_2_54_mm_4_pin_right_angle:
     description_or_color_upper: '4'
     directory: parts/electronic_header_2_54_mm_4_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_right_angle/working
     id: electronic_header_2_54_mm_4_pin_right_angle
     id_no_class: header_2_54_mm_4_pin_right_angle
@@ -18108,6 +18678,11 @@ electronic_header_2_54_mm_4_pin_surface_mount:
     description_or_color_upper: '4'
     directory: parts/electronic_header_2_54_mm_4_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_surface_mount/working
     id: electronic_header_2_54_mm_4_pin_surface_mount
     id_no_class: header_2_54_mm_4_pin_surface_mount
@@ -18190,6 +18765,11 @@ electronic_header_2_54_mm_4_pin_surface_mount_right_angle:
     description_or_color_upper: '4'
     directory: parts/electronic_header_2_54_mm_4_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89004xx_1x04_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89004xx_1x04_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89004xx_1x04_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_4_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_4_pin_surface_mount_right_angle
@@ -18272,6 +18852,11 @@ electronic_header_2_54_mm_4_pin_through_hole:
     description_or_color_upper: '4'
     directory: parts/electronic_header_2_54_mm_4_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x04_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_through_hole/working
     id: electronic_header_2_54_mm_4_pin_through_hole
     id_no_class: header_2_54_mm_4_pin_through_hole
@@ -18436,6 +19021,11 @@ electronic_header_2_54_mm_5_pin_right_angle:
     description_or_color_upper: '5'
     directory: parts/electronic_header_2_54_mm_5_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_right_angle/working
     id: electronic_header_2_54_mm_5_pin_right_angle
     id_no_class: header_2_54_mm_5_pin_right_angle
@@ -18518,6 +19108,11 @@ electronic_header_2_54_mm_5_pin_surface_mount:
     description_or_color_upper: '5'
     directory: parts/electronic_header_2_54_mm_5_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_surface_mount/working
     id: electronic_header_2_54_mm_5_pin_surface_mount
     id_no_class: header_2_54_mm_5_pin_surface_mount
@@ -18600,6 +19195,11 @@ electronic_header_2_54_mm_5_pin_surface_mount_right_angle:
     description_or_color_upper: '5'
     directory: parts/electronic_header_2_54_mm_5_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89005xx_1x05_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_5_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_5_pin_surface_mount_right_angle
@@ -18682,6 +19282,11 @@ electronic_header_2_54_mm_5_pin_through_hole:
     description_or_color_upper: '5'
     directory: parts/electronic_header_2_54_mm_5_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_through_hole/working
     id: electronic_header_2_54_mm_5_pin_through_hole
     id_no_class: header_2_54_mm_5_pin_through_hole
@@ -18846,6 +19451,11 @@ electronic_header_2_54_mm_6_pin_right_angle:
     description_or_color_upper: '6'
     directory: parts/electronic_header_2_54_mm_6_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_right_angle/working
     id: electronic_header_2_54_mm_6_pin_right_angle
     id_no_class: header_2_54_mm_6_pin_right_angle
@@ -18928,6 +19538,11 @@ electronic_header_2_54_mm_6_pin_surface_mount:
     description_or_color_upper: '6'
     directory: parts/electronic_header_2_54_mm_6_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working
     id: electronic_header_2_54_mm_6_pin_surface_mount
     id_no_class: header_2_54_mm_6_pin_surface_mount
@@ -19010,6 +19625,11 @@ electronic_header_2_54_mm_6_pin_surface_mount_right_angle:
     description_or_color_upper: '6'
     directory: parts/electronic_header_2_54_mm_6_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89006xx_1x06_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_6_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_6_pin_surface_mount_right_angle
@@ -19092,6 +19712,11 @@ electronic_header_2_54_mm_6_pin_through_hole:
     description_or_color_upper: '6'
     directory: parts/electronic_header_2_54_mm_6_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_through_hole/working
     id: electronic_header_2_54_mm_6_pin_through_hole
     id_no_class: header_2_54_mm_6_pin_through_hole
@@ -19256,6 +19881,11 @@ electronic_header_2_54_mm_7_pin_right_angle:
     description_or_color_upper: '7'
     directory: parts/electronic_header_2_54_mm_7_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_right_angle/working
     id: electronic_header_2_54_mm_7_pin_right_angle
     id_no_class: header_2_54_mm_7_pin_right_angle
@@ -19338,6 +19968,11 @@ electronic_header_2_54_mm_7_pin_surface_mount:
     description_or_color_upper: '7'
     directory: parts/electronic_header_2_54_mm_7_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_surface_mount/working
     id: electronic_header_2_54_mm_7_pin_surface_mount
     id_no_class: header_2_54_mm_7_pin_surface_mount
@@ -19420,6 +20055,11 @@ electronic_header_2_54_mm_7_pin_surface_mount_right_angle:
     description_or_color_upper: '7'
     directory: parts/electronic_header_2_54_mm_7_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89007xx_1x07_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_7_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_7_pin_surface_mount_right_angle
@@ -19502,6 +20142,11 @@ electronic_header_2_54_mm_7_pin_through_hole:
     description_or_color_upper: '7'
     directory: parts/electronic_header_2_54_mm_7_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x07_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole/working
     id: electronic_header_2_54_mm_7_pin_through_hole
     id_no_class: header_2_54_mm_7_pin_through_hole
@@ -19666,6 +20311,11 @@ electronic_header_2_54_mm_8_pin_right_angle:
     description_or_color_upper: '8'
     directory: parts/electronic_header_2_54_mm_8_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_right_angle/working
     id: electronic_header_2_54_mm_8_pin_right_angle
     id_no_class: header_2_54_mm_8_pin_right_angle
@@ -19748,6 +20398,11 @@ electronic_header_2_54_mm_8_pin_surface_mount:
     description_or_color_upper: '8'
     directory: parts/electronic_header_2_54_mm_8_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount/working
     id: electronic_header_2_54_mm_8_pin_surface_mount
     id_no_class: header_2_54_mm_8_pin_surface_mount
@@ -19830,6 +20485,11 @@ electronic_header_2_54_mm_8_pin_surface_mount_right_angle:
     description_or_color_upper: '8'
     directory: parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_8_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_8_pin_surface_mount_right_angle
@@ -19912,6 +20572,11 @@ electronic_header_2_54_mm_8_pin_through_hole:
     description_or_color_upper: '8'
     directory: parts/electronic_header_2_54_mm_8_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x08_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_through_hole/working
     id: electronic_header_2_54_mm_8_pin_through_hole
     id_no_class: header_2_54_mm_8_pin_through_hole
@@ -20076,6 +20741,11 @@ electronic_header_2_54_mm_9_pin_right_angle:
     description_or_color_upper: '9'
     directory: parts/electronic_header_2_54_mm_9_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_right_angle/working
     id: electronic_header_2_54_mm_9_pin_right_angle
     id_no_class: header_2_54_mm_9_pin_right_angle
@@ -20158,6 +20828,11 @@ electronic_header_2_54_mm_9_pin_surface_mount:
     description_or_color_upper: '9'
     directory: parts/electronic_header_2_54_mm_9_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin1left
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical_smd_pin1left
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_surface_mount/working
     id: electronic_header_2_54_mm_9_pin_surface_mount
     id_no_class: header_2_54_mm_9_pin_surface_mount
@@ -20240,6 +20915,11 @@ electronic_header_2_54_mm_9_pin_surface_mount_right_angle:
     description_or_color_upper: '9'
     directory: parts/electronic_header_2_54_mm_9_pin_surface_mount_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89009xx_1x09_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89009xx_1x09_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_harwin_harwin_m20_89009xx_1x09_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_surface_mount_right_angle/working
     id: electronic_header_2_54_mm_9_pin_surface_mount_right_angle
     id_no_class: header_2_54_mm_9_pin_surface_mount_right_angle
@@ -20322,6 +21002,11 @@ electronic_header_2_54_mm_9_pin_through_hole:
     description_or_color_upper: '9'
     directory: parts/electronic_header_2_54_mm_9_pin_through_hole
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x09_p2_54mm_vertical
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_through_hole/working
     id: electronic_header_2_54_mm_9_pin_through_hole
     id_no_class: header_2_54_mm_9_pin_through_hole
@@ -20486,6 +21171,11 @@ electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_right_angle:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x10_dual_row_20_pin_right_angle
@@ -20568,6 +21258,11 @@ electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_surface_mount:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x10_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x10_dual_row_20_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x10_dual_row_20_pin_surface_mount
@@ -20816,6 +21511,11 @@ electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_right_angle:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x11_dual_row_22_pin_right_angle
@@ -20898,6 +21598,11 @@ electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount
@@ -21146,6 +21851,11 @@ electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_right_angle:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x12_dual_row_24_pin_right_angle
@@ -21228,6 +21938,11 @@ electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_surface_mount:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x12_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x12_dual_row_24_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x12_dual_row_24_pin_surface_mount
@@ -21476,6 +22191,11 @@ electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_right_angle:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x13_dual_row_26_pin_right_angle
@@ -21558,6 +22278,11 @@ electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_surface_mount:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x13_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x13_dual_row_26_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x13_dual_row_26_pin_surface_mount
@@ -21806,6 +22531,11 @@ electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_right_angle:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x14_dual_row_28_pin_right_angle
@@ -21888,6 +22618,11 @@ electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_surface_mount:
     description_or_color_upper: 21K
     directory: parts/electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x14_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x14_dual_row_28_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x14_dual_row_28_pin_surface_mount
@@ -22136,6 +22871,11 @@ electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_right_angle:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x15_dual_row_30_pin_right_angle
@@ -22218,6 +22958,11 @@ electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_surface_mount:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x15_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x15_dual_row_30_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x15_dual_row_30_pin_surface_mount
@@ -22466,6 +23211,11 @@ electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_right_angle:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x16_dual_row_32_pin_right_angle
@@ -22548,6 +23298,11 @@ electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_surface_mount:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x16_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x16_dual_row_32_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x16_dual_row_32_pin_surface_mount
@@ -22796,6 +23551,11 @@ electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_right_angle:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x17_dual_row_34_pin_right_angle
@@ -22878,6 +23638,11 @@ electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x17_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x17_dual_row_34_pin_surface_mount
@@ -23126,6 +23891,11 @@ electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_right_angle:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x18_dual_row_36_pin_right_angle
@@ -23208,6 +23978,11 @@ electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_surface_mount:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x18_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x18_dual_row_36_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x18_dual_row_36_pin_surface_mount
@@ -23456,6 +24231,11 @@ electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle:
     description_or_color_upper: 22K
     directory: parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x19_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x19_dual_row_38_pin_right_angle
@@ -23786,6 +24566,11 @@ electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_right_angle:
     description_or_color_upper: '224'
     directory: parts/electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x2_dual_row_4_pin_right_angle
@@ -23868,6 +24653,11 @@ electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_surface_mount:
     description_or_color_upper: '224'
     directory: parts/electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x02_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x2_dual_row_4_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x2_dual_row_4_pin_surface_mount
@@ -24116,6 +24906,11 @@ electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle:
     description_or_color_upper: '236'
     directory: parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x3_dual_row_6_pin_right_angle
@@ -24198,6 +24993,11 @@ electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_surface_mount:
     description_or_color_upper: '236'
     directory: parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x03_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x3_dual_row_6_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x3_dual_row_6_pin_surface_mount
@@ -24446,6 +25246,11 @@ electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_right_angle:
     description_or_color_upper: '248'
     directory: parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x4_dual_row_8_pin_right_angle
@@ -24528,6 +25333,11 @@ electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount:
     description_or_color_upper: '248'
     directory: parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x04_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x4_dual_row_8_pin_surface_mount
@@ -24776,6 +25586,11 @@ electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_right_angle:
     description_or_color_upper: 2K5
     directory: parts/electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x5_dual_row_10_pin_right_angle
@@ -24858,6 +25673,11 @@ electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_surface_mount:
     description_or_color_upper: 2K5
     directory: parts/electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x05_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x5_dual_row_10_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x5_dual_row_10_pin_surface_mount
@@ -25106,6 +25926,11 @@ electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_right_angle:
     description_or_color_upper: 2K6
     directory: parts/electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x6_dual_row_12_pin_right_angle
@@ -25188,6 +26013,11 @@ electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_surface_mount:
     description_or_color_upper: 2K6
     directory: parts/electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x06_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x6_dual_row_12_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x6_dual_row_12_pin_surface_mount
@@ -25436,6 +26266,11 @@ electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_right_angle:
     description_or_color_upper: 2K7
     directory: parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x7_dual_row_14_pin_right_angle
@@ -25518,6 +26353,11 @@ electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_surface_mount:
     description_or_color_upper: 2K7
     directory: parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x07_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x7_dual_row_14_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x7_dual_row_14_pin_surface_mount
@@ -25766,6 +26606,11 @@ electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle:
     description_or_color_upper: 2K8
     directory: parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x8_dual_row_16_pin_right_angle
@@ -25848,6 +26693,11 @@ electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_surface_mount:
     description_or_color_upper: 2K8
     directory: parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x08_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x8_dual_row_16_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x8_dual_row_16_pin_surface_mount
@@ -26096,6 +26946,11 @@ electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_right_angle:
     description_or_color_upper: 2K9
     directory: parts/electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_right_angle
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_horizontal
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_horizontal
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_right_angle/working
     id: electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_right_angle
     id_no_class: header_2_54_mm_dual_row_2x9_dual_row_18_pin_right_angle
@@ -26178,6 +27033,11 @@ electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_surface_mount:
     description_or_color_upper: 2K9
     directory: parts/electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_surface_mount
     distributors: []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_vertical_smd//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_vertical_smd
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x09_p2_54mm_vertical_smd
     github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_surface_mount/working
     id: electronic_header_2_54_mm_dual_row_2x9_dual_row_18_pin_surface_mount
     id_no_class: header_2_54_mm_dual_row_2x9_dual_row_18_pin_surface_mount
@@ -29351,17 +30211,17 @@ electronic_header_2_5_mm_jst_xh_9_pin_surface_mount_right_angle:
     type_first_letter: h
     type_first_letter_upper: H
     type_upper: HEADER
-electronic_header_oobb_double_through_hole_right_angle:
+electronic_header_oobb_basic_double_through_hole_right_angle:
     classification: electronic
     classification_capital: Electronic
     classification_first_letter: e
     classification_first_letter_upper: E
     classification_upper: ELECTRONIC
-    color: ''
-    color_capital: ''
-    color_first_letter: ''
-    color_first_letter_upper: ''
-    color_upper: ''
+    color: basic
+    color_capital: Basic
+    color_first_letter: b
+    color_first_letter_upper: B
+    color_upper: BASIC
     description_extra: through_hole_right_angle
     description_extra_capital: Through Hole Right Angle
     description_extra_first_letter: t
@@ -29374,15 +30234,15 @@ electronic_header_oobb_double_through_hole_right_angle:
     description_main_upper: DOUBLE
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: ' '
-    description_or_color_upper: ' '
-    directory: parts/electronic_header_oobb_double_through_hole_right_angle
+    description_or_color: 'B '
+    description_or_color_upper: 'B '
+    directory: parts/electronic_header_oobb_basic_double_through_hole_right_angle
     distributors: &id001 []
-    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_double_through_hole_right_angle/working
-    id: electronic_header_oobb_double_through_hole_right_angle
-    id_no_class: header_oobb_double_through_hole_right_angle
-    id_no_size: double_through_hole_right_angle
-    id_no_type: oobb_double_through_hole_right_angle
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle/working
+    id: electronic_header_oobb_basic_double_through_hole_right_angle
+    id_no_class: header_oobb_basic_double_through_hole_right_angle
+    id_no_size: basic_double_through_hole_right_angle
+    id_no_type: oobb_basic_double_through_hole_right_angle
     make_files: true
     manufacturer: ''
     manufacturer_capital: ''
@@ -29390,24 +30250,24 @@ electronic_header_oobb_double_through_hole_right_angle:
     manufacturer_first_letter_upper: ''
     manufacturer_upper: ''
     manufacturers: []
-    markdown_full: '[electronic_header_oobb_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_double_through_hole_right_angle/working)<br>[hob2thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_double_through_hole_right_angle/working)<br>[Electronic
-        Header Oobb Double Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_double_through_hole_right_angle/working)<br><br>'
-    markdown_short: '[electronic_header_oobb_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_double_through_hole_right_angle/working)<br><br>'
-    md5: 87a60c731453f545379c441ceda0f58f
-    md5_10: 87a60c7314
-    md5_10_upper: 87A60C7314
-    md5_5: 87a60
-    md5_5_upper: 87A60
-    md5_6: 87a60c
-    md5_6_alpha: 5ajgs
-    md5_6_alpha_upper: 5AJGS
-    md5_6_upper: 87A60C
-    name: Electronic Header Oobb Double Through Hole Right Angle
-    name_no_class: Header Oobb Double Through Hole Right Angle
-    name_no_size: Double Through Hole Right Angle
-    name_no_size_short: Double Through Hole Right Angle
-    name_no_type: Oobb Double Through Hole Right Angle
-    oomp_key: oomp_electronic_header_oobb_double_through_hole_right_angle
+    markdown_full: '[electronic_header_oobb_basic_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle/working)<br>[hob2thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle/working)<br>[Electronic
+        Header Oobb Basic Double Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle/working)<br><br>'
+    markdown_short: '[electronic_header_oobb_basic_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle/working)<br><br>'
+    md5: fe24757a2dd9e260ade1a8dee331d49c
+    md5_10: fe24757a2d
+    md5_10_upper: FE24757A2D
+    md5_5: fe247
+    md5_5_upper: FE247
+    md5_6: fe2475
+    md5_6_alpha: 9wzg5
+    md5_6_alpha_upper: 9WZG5
+    md5_6_upper: FE2475
+    name: Electronic Header Oobb Basic Double Through Hole Right Angle
+    name_no_class: Header Oobb Basic Double Through Hole Right Angle
+    name_no_size: Basic Double Through Hole Right Angle
+    name_no_size_short: Basic Double Through Hole Right Angle
+    name_no_type: Oobb Basic Double Through Hole Right Angle
+    oomp_key: oomp_electronic_header_oobb_basic_double_through_hole_right_angle
     part_number: ''
     part_number_capital: ''
     part_number_first_letter: ''
@@ -29423,22 +30283,27 @@ electronic_header_oobb_double_through_hole_right_angle:
     size_only_numbers: ''
     size_only_numbers_no_zeros: ''
     size_upper: OOBB
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_double//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_double
+        oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_basic_double
     type: header
     type_capital: Header
     type_first_letter: h
     type_first_letter_upper: H
     type_upper: HEADER
-electronic_header_oobb_single_through_hole_right_angle:
+electronic_header_oobb_basic_single_through_hole_right_angle:
     classification: electronic
     classification_capital: Electronic
     classification_first_letter: e
     classification_first_letter_upper: E
     classification_upper: ELECTRONIC
-    color: ''
-    color_capital: ''
-    color_first_letter: ''
-    color_first_letter_upper: ''
-    color_upper: ''
+    color: basic
+    color_capital: Basic
+    color_first_letter: b
+    color_first_letter_upper: B
+    color_upper: BASIC
     description_extra: through_hole_right_angle
     description_extra_capital: Through Hole Right Angle
     description_extra_first_letter: t
@@ -29451,20 +30316,20 @@ electronic_header_oobb_single_through_hole_right_angle:
     description_main_upper: SINGLE
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: ' '
-    description_or_color_upper: ' '
-    directory: parts/electronic_header_oobb_single_through_hole_right_angle
+    description_or_color: 'B '
+    description_or_color_upper: 'B '
+    directory: parts/electronic_header_oobb_basic_single_through_hole_right_angle
     distributors: *id001
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_mod
         index: 0
         link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomp_footprint_templates_zzzz
         oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz
-    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working
-    id: electronic_header_oobb_single_through_hole_right_angle
-    id_no_class: header_oobb_single_through_hole_right_angle
-    id_no_size: single_through_hole_right_angle
-    id_no_type: oobb_single_through_hole_right_angle
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle/working
+    id: electronic_header_oobb_basic_single_through_hole_right_angle
+    id_no_class: header_oobb_basic_single_through_hole_right_angle
+    id_no_size: basic_single_through_hole_right_angle
+    id_no_type: oobb_basic_single_through_hole_right_angle
     make_files: true
     manufacturer: ''
     manufacturer_capital: ''
@@ -29472,24 +30337,24 @@ electronic_header_oobb_single_through_hole_right_angle:
     manufacturer_first_letter_upper: ''
     manufacturer_upper: ''
     manufacturers: []
-    markdown_full: '[electronic_header_oobb_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br>[Electronic
-        Header Oobb Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br><br>'
-    markdown_short: '[electronic_header_oobb_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)<br><br>'
-    md5: 571a338029f42a97097781d16d53d292
-    md5_10: 571a338029
-    md5_10_upper: 571A338029
-    md5_5: 571a3
-    md5_5_upper: 571A3
-    md5_6: 571a33
-    md5_6_alpha: 3eckz
-    md5_6_alpha_upper: 3ECKZ
-    md5_6_upper: 571A33
-    name: Electronic Header Oobb Single Through Hole Right Angle
-    name_no_class: Header Oobb Single Through Hole Right Angle
-    name_no_size: Single Through Hole Right Angle
-    name_no_size_short: Single Through Hole Right Angle
-    name_no_type: Oobb Single Through Hole Right Angle
-    oomp_key: oomp_electronic_header_oobb_single_through_hole_right_angle
+    markdown_full: '[electronic_header_oobb_basic_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle/working)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle/working)<br>[Electronic
+        Header Oobb Basic Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle/working)<br><br>'
+    markdown_short: '[electronic_header_oobb_basic_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle/working)<br><br>'
+    md5: 982253cc68c740f5ac55e3cd24f3ef6e
+    md5_10: 982253cc68
+    md5_10_upper: 982253CC68
+    md5_5: '98225'
+    md5_5_upper: '98225'
+    md5_6: '982253'
+    md5_6_alpha: 5xp3n
+    md5_6_alpha_upper: 5XP3N
+    md5_6_upper: '982253'
+    name: Electronic Header Oobb Basic Single Through Hole Right Angle
+    name_no_class: Header Oobb Basic Single Through Hole Right Angle
+    name_no_size: Basic Single Through Hole Right Angle
+    name_no_size_short: Basic Single Through Hole Right Angle
+    name_no_type: Oobb Basic Single Through Hole Right Angle
+    oomp_key: oomp_electronic_header_oobb_basic_single_through_hole_right_angle
     part_number: ''
     part_number_capital: ''
     part_number_first_letter: ''
@@ -29506,26 +30371,26 @@ electronic_header_oobb_single_through_hole_right_angle:
     size_only_numbers_no_zeros: ''
     size_upper: OOBB
     symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_sym
+    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_single//working/working.kicad_sym
         index: 0
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomp_footprint_templates_zzzz
-        oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_single
+        oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_basic_single
     type: header
     type_capital: Header
     type_first_letter: h
     type_first_letter_upper: H
     type_upper: HEADER
-electronic_header_oobb_triple_through_hole_right_angle:
+electronic_header_oobb_basic_triple_through_hole_right_angle:
     classification: electronic
     classification_capital: Electronic
     classification_first_letter: e
     classification_first_letter_upper: E
     classification_upper: ELECTRONIC
-    color: ''
-    color_capital: ''
-    color_first_letter: ''
-    color_first_letter_upper: ''
-    color_upper: ''
+    color: basic
+    color_capital: Basic
+    color_first_letter: b
+    color_first_letter_upper: B
+    color_upper: BASIC
     description_extra: through_hole_right_angle
     description_extra_capital: Through Hole Right Angle
     description_extra_first_letter: t
@@ -29538,15 +30403,15 @@ electronic_header_oobb_triple_through_hole_right_angle:
     description_main_upper: TRIPLE
     description_only_numbers: ''
     description_only_numbers_short: ' '
-    description_or_color: ' '
-    description_or_color_upper: ' '
-    directory: parts/electronic_header_oobb_triple_through_hole_right_angle
+    description_or_color: 'B '
+    description_or_color_upper: 'B '
+    directory: parts/electronic_header_oobb_basic_triple_through_hole_right_angle
     distributors: *id001
-    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_triple_through_hole_right_angle/working
-    id: electronic_header_oobb_triple_through_hole_right_angle
-    id_no_class: header_oobb_triple_through_hole_right_angle
-    id_no_size: triple_through_hole_right_angle
-    id_no_type: oobb_triple_through_hole_right_angle
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working
+    id: electronic_header_oobb_basic_triple_through_hole_right_angle
+    id_no_class: header_oobb_basic_triple_through_hole_right_angle
+    id_no_size: basic_triple_through_hole_right_angle
+    id_no_type: oobb_basic_triple_through_hole_right_angle
     make_files: true
     manufacturer: ''
     manufacturer_capital: ''
@@ -29554,24 +30419,24 @@ electronic_header_oobb_triple_through_hole_right_angle:
     manufacturer_first_letter_upper: ''
     manufacturer_upper: ''
     manufacturers: []
-    markdown_full: '[electronic_header_oobb_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_triple_through_hole_right_angle/working)<br>[hob3thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_triple_through_hole_right_angle/working)<br>[Electronic
-        Header Oobb Triple Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_triple_through_hole_right_angle/working)<br><br>'
-    markdown_short: '[electronic_header_oobb_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_triple_through_hole_right_angle/working)<br><br>'
-    md5: 4d7ffcc5f460bdcb4628a538a683d07d
-    md5_10: 4d7ffcc5f4
-    md5_10_upper: 4D7FFCC5F4
-    md5_5: 4d7ff
-    md5_5_upper: 4D7FF
-    md5_6: 4d7ffc
-    md5_6_alpha: 30v0c
-    md5_6_alpha_upper: 30V0C
-    md5_6_upper: 4D7FFC
-    name: Electronic Header Oobb Triple Through Hole Right Angle
-    name_no_class: Header Oobb Triple Through Hole Right Angle
-    name_no_size: Triple Through Hole Right Angle
-    name_no_size_short: Triple Through Hole Right Angle
-    name_no_type: Oobb Triple Through Hole Right Angle
-    oomp_key: oomp_electronic_header_oobb_triple_through_hole_right_angle
+    markdown_full: '[electronic_header_oobb_basic_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working)<br>[hob3thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working)<br>[Electronic
+        Header Oobb Basic Triple Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working)<br><br>'
+    markdown_short: '[electronic_header_oobb_basic_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working)<br><br>'
+    md5: 14acfa8141ee845840164a3f996c1f2f
+    md5_10: 14acfa8141
+    md5_10_upper: 14ACFA8141
+    md5_5: 14acf
+    md5_5_upper: 14ACF
+    md5_6: 14acfa
+    md5_6_alpha: t1iy
+    md5_6_alpha_upper: T1IY
+    md5_6_upper: 14ACFA
+    name: Electronic Header Oobb Basic Triple Through Hole Right Angle
+    name_no_class: Header Oobb Basic Triple Through Hole Right Angle
+    name_no_size: Basic Triple Through Hole Right Angle
+    name_no_size_short: Basic Triple Through Hole Right Angle
+    name_no_type: Oobb Basic Triple Through Hole Right Angle
+    oomp_key: oomp_electronic_header_oobb_basic_triple_through_hole_right_angle
     part_number: ''
     part_number_capital: ''
     part_number_first_letter: ''
@@ -29587,6 +30452,262 @@ electronic_header_oobb_triple_through_hole_right_angle:
     size_only_numbers: ''
     size_only_numbers_no_zeros: ''
     size_upper: OOBB
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_triple//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_triple
+        oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_basic_triple
+    type: header
+    type_capital: Header
+    type_first_letter: h
+    type_first_letter_upper: H
+    type_upper: HEADER
+electronic_header_oobb_i2c_double_through_hole_right_angle:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: i2c
+    color_capital: I2C
+    color_first_letter: i
+    color_first_letter_upper: I
+    color_upper: I2C
+    description_extra: through_hole_right_angle
+    description_extra_capital: Through Hole Right Angle
+    description_extra_first_letter: t
+    description_extra_first_letter_upper: T
+    description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
+    description_main: double
+    description_main_capital: Double
+    description_main_first_letter: d
+    description_main_first_letter_upper: D
+    description_main_upper: DOUBLE
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 'I '
+    description_or_color_upper: 'I '
+    directory: parts/electronic_header_oobb_i2c_double_through_hole_right_angle
+    distributors: *id001
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working
+    id: electronic_header_oobb_i2c_double_through_hole_right_angle
+    id_no_class: header_oobb_i2c_double_through_hole_right_angle
+    id_no_size: i2c_double_through_hole_right_angle
+    id_no_type: oobb_i2c_double_through_hole_right_angle
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_header_oobb_i2c_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br>[hob2thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br>[Electronic
+        Header Oobb I2C Double Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br><br>'
+    markdown_short: '[electronic_header_oobb_i2c_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br><br>'
+    md5: 2c17791779757cb913c7d472d5ff163b
+    md5_10: 2c17791779
+    md5_10_upper: 2C17791779
+    md5_5: 2c177
+    md5_5_upper: 2C177
+    md5_6: 2c1779
+    md5_6_alpha: 1pxmh
+    md5_6_alpha_upper: 1PXMH
+    md5_6_upper: 2C1779
+    name: Electronic Header Oobb I2C Double Through Hole Right Angle
+    name_no_class: Header Oobb I2C Double Through Hole Right Angle
+    name_no_size: I2C Double Through Hole Right Angle
+    name_no_size_short: I2C Double Through Hole Right Angle
+    name_no_type: Oobb I2C Double Through Hole Right Angle
+    oomp_key: oomp_electronic_header_oobb_i2c_double_through_hole_right_angle
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: hob2thra
+    short_code_upper: HOB2THRA
+    short_name: ''
+    size: oobb
+    size_capital: Oobb
+    size_first_letter: o
+    size_first_letter_upper: O
+    size_only_numbers: ''
+    size_only_numbers_no_zeros: ''
+    size_upper: OOBB
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double
+        oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double
+    type: header
+    type_capital: Header
+    type_first_letter: h
+    type_first_letter_upper: H
+    type_upper: HEADER
+electronic_header_oobb_i2c_single_through_hole_right_angle:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: i2c
+    color_capital: I2C
+    color_first_letter: i
+    color_first_letter_upper: I
+    color_upper: I2C
+    description_extra: through_hole_right_angle
+    description_extra_capital: Through Hole Right Angle
+    description_extra_first_letter: t
+    description_extra_first_letter_upper: T
+    description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
+    description_main: single
+    description_main_capital: Single
+    description_main_first_letter: s
+    description_main_first_letter_upper: S
+    description_main_upper: SINGLE
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 'I '
+    description_or_color_upper: 'I '
+    directory: parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+    distributors: *id001
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomp_footprint_templates_zzzz
+        oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working
+    id: electronic_header_oobb_i2c_single_through_hole_right_angle
+    id_no_class: header_oobb_i2c_single_through_hole_right_angle
+    id_no_size: i2c_single_through_hole_right_angle
+    id_no_type: oobb_i2c_single_through_hole_right_angle
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br>[Electronic
+        Header Oobb I2C Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br><br>'
+    markdown_short: '[electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br><br>'
+    md5: 4456779cced84238da6c1f33679c44f2
+    md5_10: 4456779cce
+    md5_10_upper: 4456779CCE
+    md5_5: '44567'
+    md5_5_upper: '44567'
+    md5_6: '445677'
+    md5_6_alpha: 2nzp3
+    md5_6_alpha_upper: 2NZP3
+    md5_6_upper: '445677'
+    name: Electronic Header Oobb I2C Single Through Hole Right Angle
+    name_no_class: Header Oobb I2C Single Through Hole Right Angle
+    name_no_size: I2C Single Through Hole Right Angle
+    name_no_size_short: I2C Single Through Hole Right Angle
+    name_no_type: Oobb I2C Single Through Hole Right Angle
+    oomp_key: oomp_electronic_header_oobb_i2c_single_through_hole_right_angle
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: hob1thra
+    short_code_upper: HOB1THRA
+    short_name: ''
+    size: oobb
+    size_capital: Oobb
+    size_first_letter: o
+    size_first_letter_upper: O
+    size_only_numbers: ''
+    size_only_numbers_no_zeros: ''
+    size_upper: OOBB
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_single//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_single
+        oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_single
+    type: header
+    type_capital: Header
+    type_first_letter: h
+    type_first_letter_upper: H
+    type_upper: HEADER
+electronic_header_oobb_i2c_triple_through_hole_right_angle:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: i2c
+    color_capital: I2C
+    color_first_letter: i
+    color_first_letter_upper: I
+    color_upper: I2C
+    description_extra: through_hole_right_angle
+    description_extra_capital: Through Hole Right Angle
+    description_extra_first_letter: t
+    description_extra_first_letter_upper: T
+    description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
+    description_main: triple
+    description_main_capital: Triple
+    description_main_first_letter: t
+    description_main_first_letter_upper: T
+    description_main_upper: TRIPLE
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 'I '
+    description_or_color_upper: 'I '
+    directory: parts/electronic_header_oobb_i2c_triple_through_hole_right_angle
+    distributors: *id001
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working
+    id: electronic_header_oobb_i2c_triple_through_hole_right_angle
+    id_no_class: header_oobb_i2c_triple_through_hole_right_angle
+    id_no_size: i2c_triple_through_hole_right_angle
+    id_no_type: oobb_i2c_triple_through_hole_right_angle
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br>[hob3thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br>[Electronic
+        Header Oobb I2C Triple Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br><br>'
+    markdown_short: '[electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br><br>'
+    md5: 67ca50fd99f5cc1b0533cd2d61a48702
+    md5_10: 67ca50fd99
+    md5_10_upper: 67CA50FD99
+    md5_5: 67ca5
+    md5_5_upper: 67CA5
+    md5_6: 67ca50
+    md5_6_alpha: 41sgg
+    md5_6_alpha_upper: 41SGG
+    md5_6_upper: 67CA50
+    name: Electronic Header Oobb I2C Triple Through Hole Right Angle
+    name_no_class: Header Oobb I2C Triple Through Hole Right Angle
+    name_no_size: I2C Triple Through Hole Right Angle
+    name_no_size_short: I2C Triple Through Hole Right Angle
+    name_no_type: Oobb I2C Triple Through Hole Right Angle
+    oomp_key: oomp_electronic_header_oobb_i2c_triple_through_hole_right_angle
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: hob3thra
+    short_code_upper: HOB3THRA
+    short_name: ''
+    size: oobb
+    size_capital: Oobb
+    size_first_letter: o
+    size_first_letter_upper: O
+    size_only_numbers: ''
+    size_only_numbers_no_zeros: ''
+    size_upper: OOBB
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple
+        oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple
     type: header
     type_capital: Header
     type_first_letter: h
@@ -87142,6 +88263,93 @@ electronic_socket_usb_mini_surface_mount_only:
     type_first_letter: s
     type_first_letter_upper: S
     type_upper: SOCKET
+electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: surface_mount
+    color_capital: Surface Mount
+    color_first_letter: s
+    color_first_letter_upper: S
+    color_upper: SURFACE_MOUNT
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: single_pole_double_throw
+    description_main_capital: Single Pole Double Throw
+    description_main_first_letter: s
+    description_main_first_letter_upper: S
+    description_main_upper: SINGLE_POLE_DOUBLE_THROW
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 'S '
+    description_or_color_upper: 'S '
+    directory: parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+    distributors: &id003 []
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
+        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working
+    id: electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+    id_no_class: switch_slide_2_54_header_surface_mount_single_pole_double_throw
+    id_no_size: surface_mount_single_pole_double_throw
+    id_no_type: 2_54_header_surface_mount_single_pole_double_throw
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic
+        Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>'
+    markdown_short: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>'
+    md5: 0468632b34e10d5b7294280ac59b3c79
+    md5_10: 0468632b34
+    md5_10_upper: 0468632B34
+    md5_5: 04686
+    md5_5_upper: 04686
+    md5_6: 046863
+    md5_6_alpha: 66w3
+    md5_6_alpha_upper: 66W3
+    md5_6_upper: 046863
+    name: Electronic Switch Slide 2 54 Header Surface Mount Single Pole Double Throw
+    name_no_class: Switch Slide 2 54 Header Surface Mount Single Pole Double Throw
+    name_no_size: Surface Mount Single Pole Double Throw
+    name_no_size_short: Surface Mount Single Pole Double Throw
+    name_no_type: 2 54 Header Surface Mount Single Pole Double Throw
+    oomp_key: oomp_electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: swsi1hs
+    short_code_upper: SWSI1HS
+    short_name: ''
+    size: 2_54_header
+    size_capital: 2.54 Header
+    size_first_letter: '2'
+    size_first_letter_upper: '2'
+    size_only_numbers: '254'
+    size_only_numbers_no_zeros: '254'
+    size_upper: 2_54_HEADER
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt
+        oomp_key: oomp_kicad_switch_sw_spdt
+    type: switch_slide
+    type_capital: Switch Slide
+    type_first_letter: s
+    type_first_letter_upper: S
+    type_upper: SWITCH_SLIDE
 electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw:
     classification: electronic
     classification_capital: Electronic
@@ -87168,7 +88376,7 @@ electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_
     description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
-    distributors: &id003 []
+    distributors: *id003
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_spdt_pcm12//working/working.kicad_mod
         index: 0
@@ -87221,93 +88429,6 @@ electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_
     size_only_numbers: '28814'
     size_only_numbers_no_zeros: '28814'
     size_upper: 2_8_MM_X_8_MM_X_1_4_MM
-    symbol:
-    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym
-        index: 0
-        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt
-        oomp_key: oomp_kicad_switch_sw_spdt
-    type: switch_slide
-    type_capital: Switch Slide
-    type_first_letter: s
-    type_first_letter_upper: S
-    type_upper: SWITCH_SLIDE
-electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw:
-    classification: electronic
-    classification_capital: Electronic
-    classification_first_letter: e
-    classification_first_letter_upper: E
-    classification_upper: ELECTRONIC
-    color: surface_mount
-    color_capital: Surface Mount
-    color_first_letter: s
-    color_first_letter_upper: S
-    color_upper: SURFACE_MOUNT
-    description_extra: ''
-    description_extra_capital: ''
-    description_extra_first_letter: ''
-    description_extra_first_letter_upper: ''
-    description_extra_upper: ''
-    description_main: single_pole_double_throw
-    description_main_capital: Single Pole Double Throw
-    description_main_first_letter: s
-    description_main_first_letter_upper: S
-    description_main_upper: SINGLE_POLE_DOUBLE_THROW
-    description_only_numbers: ''
-    description_only_numbers_short: ' '
-    description_or_color: 'S '
-    description_or_color_upper: 'S '
-    directory: parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw
-    distributors: *id003
-    footprint:
-    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
-        index: 0
-        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
-        oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical
-    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working
-    id: electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw
-    id_no_class: switch_slide_2d54_header_surface_mount_single_pole_double_throw
-    id_no_size: surface_mount_single_pole_double_throw
-    id_no_type: 2d54_header_surface_mount_single_pole_double_throw
-    make_files: true
-    manufacturer: ''
-    manufacturer_capital: ''
-    manufacturer_first_letter: ''
-    manufacturer_first_letter_upper: ''
-    manufacturer_upper: ''
-    manufacturers: []
-    markdown_full: '[electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic
-        Switch Slide 2D54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br><br>'
-    markdown_short: '[electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)<br><br>'
-    md5: 3c040b7cc81dbfc3001df6919b5c4b0c
-    md5_10: 3c040b7cc8
-    md5_10_upper: 3C040B7CC8
-    md5_5: 3c040
-    md5_5_upper: 3C040
-    md5_6: 3c040b
-    md5_6_alpha: 2cavf
-    md5_6_alpha_upper: 2CAVF
-    md5_6_upper: 3C040B
-    name: Electronic Switch Slide 2D54 Header Surface Mount Single Pole Double Throw
-    name_no_class: Switch Slide 2D54 Header Surface Mount Single Pole Double Throw
-    name_no_size: Surface Mount Single Pole Double Throw
-    name_no_size_short: Surface Mount Single Pole Double Throw
-    name_no_type: 2D54 Header Surface Mount Single Pole Double Throw
-    oomp_key: oomp_electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw
-    part_number: ''
-    part_number_capital: ''
-    part_number_first_letter: ''
-    part_number_first_letter_upper: ''
-    part_number_upper: ''
-    short_code: swsi1hs
-    short_code_upper: SWSI1HS
-    short_name: ''
-    size: 2d54_header
-    size_capital: 2D54 Header
-    size_first_letter: '2'
-    size_first_letter_upper: '2'
-    size_only_numbers: '254'
-    size_only_numbers_no_zeros: '254'
-    size_upper: 2D54_HEADER
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym
         index: 0

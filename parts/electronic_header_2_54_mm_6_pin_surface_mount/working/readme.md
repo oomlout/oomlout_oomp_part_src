@@ -23,6 +23,11 @@
 oomp_key: oomp_kicad_connector_conn_01x06_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin/working  
 
+## footprint
+
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left/working  
 
 ## full_summary
 | name | value | 
@@ -102,4 +107,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_or_color_upper | 6 | 
 | markdown_full | [electronic_header_2_54_mm_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[hi16psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br><br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod', 'index': 0}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x06_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym', 'index': 0}] | 

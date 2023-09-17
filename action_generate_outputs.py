@@ -14,14 +14,14 @@ def main():
     oomp_kicad.create_footprint_library()
     
     if git_commit:
-        oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_footprints")
+        oom_kicad.push_to_git(repo_directory = "tmp/generated/oomlout_oomp_part_kicad_footprints")
     
     
     oomp_kicad.create_symbol_library()
     
     
     if git_commit:
-        oom_kicad.push_to_git(repo_directory = "c:/gh/oomlout_oomp_part_kicad_symbols")
+        oom_kicad.push_to_git(repo_directory = "tmp/generated/oomlout_oomp_part_kicad_symbols")
     
 
 

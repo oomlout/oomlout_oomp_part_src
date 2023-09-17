@@ -18,19 +18,19 @@ def get_matches(**kwargs):
     matches.append({"id":"electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
                   "part_number": "C2845294"})
 
-    matches.append({"id":"electronic_switch_2_8_mm_x_8_mm_x_1_4_single_pole_double_throw",
+    matches.append({"id":"electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw",
                   "part_number": "C431540"})
 
     # capacitor
 
     #      electrolytic
-    part = "electronic_capacitor_8_mm_diameter_6_5_mm_tall_220_micro_farad_10_volt"
+    part = "electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt"
     matches.append({"id":part, "part_number": "C249496","note":"omerk"})
 
-    part = "electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_220_micro_farad_10_volt"
+    part = "electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt"
     matches.append({"id":part, "part_number": "C2833309", "note":"high_stock_level_lcsc"})
     
-    part = "electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_220_micro_farad_10_volt"
+    part = "electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt"
     matches.append({"id":part, "part_number": "C72495", "note":"high_stock_level_lcsc"})
     
 

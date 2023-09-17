@@ -14,9 +14,9 @@
 ### 2_8_mm_x_8_mm_x_1_4_mm   
 #### surface_mount   
 [sws2880s - oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)   
-### 2d54_header   
+### 2_54_header   
 #### surface_mount   
-[swsi1hs - oomp_electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2d54_header_surface_mount_single_pole_double_throw/working)   
+[swsi1hs - oomp_electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)   
 ## capacitor   
 ### 8_mm_diameter_6_5_mm_tall   
 #### electrolytic   
@@ -395,10 +395,14 @@
 [hi12x19psm - oomp_electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_surface_mount/working)   
 [hi12x19psmra - oomp_electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_dual_row_38_pin_surface_mount_right_angle/working)   
 ### oobb   
-####    
-[hob1thra - oomp_electronic_header_oobb_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_single_through_hole_right_angle/working)   
-[hob2thra - oomp_electronic_header_oobb_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_double_through_hole_right_angle/working)   
-[hob3thra - oomp_electronic_header_oobb_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_triple_through_hole_right_angle/working)   
+#### basic   
+[hob1thra - oomp_electronic_header_oobb_basic_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle/working)   
+[hob2thra - oomp_electronic_header_oobb_basic_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle/working)   
+[hob3thra - oomp_electronic_header_oobb_basic_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working)   
+#### i2c   
+[hob1thra - oomp_electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)   
+[hob2thra - oomp_electronic_header_oobb_i2c_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)   
+[hob3thra - oomp_electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)   
 ## ic   
 ### dip_28   
 #### mcu   

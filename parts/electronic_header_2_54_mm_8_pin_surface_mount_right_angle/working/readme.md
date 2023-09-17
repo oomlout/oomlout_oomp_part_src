@@ -23,6 +23,11 @@
 oomp_key: oomp_kicad_connector_conn_01x08_pin  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin/working  
 
+## footprint
+
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal/working  
 
 ## full_summary
 | name | value | 
@@ -102,4 +107,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_or_color_upper | 8 | 
 | markdown_full | [electronic_header_2_54_mm_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle/working)<br>[hi18psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 8 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle/working)<br><br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89008xx_1x08_p2_54mm_horizontal//working/working.kicad_mod', 'index': 0}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x08_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym', 'index': 0}] | 

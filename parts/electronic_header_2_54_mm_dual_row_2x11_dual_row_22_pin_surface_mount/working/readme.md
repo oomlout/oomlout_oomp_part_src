@@ -23,6 +23,11 @@
 oomp_key: oomp_kicad_connector_generic_conn_02x11_odd_even  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x11_odd_even/working  
 
+## footprint
+
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd/working  
 
 ## full_summary
 | name | value | 
@@ -102,4 +107,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_or_color_upper | 21K | 
 | markdown_full | [electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount/working)<br>[hi12x11psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm Dual Row 2X11 Dual Row 22 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_dual_row_22_pin_surface_mount/working)<br><br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_2x11_p2_54mm_vertical_smd//working/working.kicad_mod', 'index': 0}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x11_odd_even', 'oomp_key': 'oomp_kicad_connector_generic_conn_02x11_odd_even', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x11_odd_even//working/working.kicad_sym', 'index': 0}] | 

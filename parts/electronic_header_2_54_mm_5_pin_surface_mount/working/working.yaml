@@ -24,6 +24,11 @@ description_or_color: '5'
 description_or_color_upper: '5'
 directory: parts/electronic_header_2_54_mm_5_pin_surface_mount
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x05_p2_54mm_vertical_smd_pin1left
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_surface_mount/working
 id: electronic_header_2_54_mm_5_pin_surface_mount
 id_no_class: header_2_54_mm_5_pin_surface_mount
