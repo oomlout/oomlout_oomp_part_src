@@ -247,7 +247,7 @@ def get_short_code(**kwargs):
             ohms = start_digits * (10 ** num_zeros)
             code = f'{start_digits}{num_zeros}'
             replace_dict["description_main"][f"{ohms}_ohm"] = f"o{code}"
-
+    replace_dict["description_main"][f"0_ohm"] = f"o0"
     # description_extra
 
     replace_dict["description_extra"] = {}

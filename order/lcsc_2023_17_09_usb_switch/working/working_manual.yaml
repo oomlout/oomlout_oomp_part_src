@@ -1,0 +1,16 @@
+oomp_id: lcsc_2023_17_09_usb_switch
+description: ordering parts for usb switch project
+directory: orders\lcsc_2023_17_09_usb_switch\working
+link_github: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/orders/orders/lcsc_2023_17_09_usb_switch/working
+distributor_name: LCSC
+distributor_code: distributor_lcsc
+date: 2023_09_17
+note:
+- discounted shipping $13.07
+source: 
+- https://github.com/oomlout/oomlout_oomp_electronic_project_usb_switch
+parts_src: working.ods
+cost_shipping: $0
+cost_parts: $25.73
+cost_total: $25.73
+link_order: https://www.lcsc.com/checkout/result?order_no=B87CEB390317056447215CC95B0D6202

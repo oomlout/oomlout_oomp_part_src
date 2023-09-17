@@ -1,0 +1,45 @@
+parts_ordered_oomp:
+- index: '1'
+  oomp_id: electronic_socket_usb_a_through_hole
+  part_number_distributor: C2345
+  price_paid: $0.0537
+  quantity: '10'
+- index: '2'
+  oomp_id: electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+  part_number_distributor: C431540
+  price_paid: $0.0459
+  quantity: '50'
+- index: '3'
+  oomp_id: electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+  part_number_distributor: C255478
+  price_paid: $0.3020
+  quantity: '5'
+- index: '4'
+  oomp_id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+  part_number_distributor: C130052
+  price_paid: $1.48
+  quantity: '3'
+- index: '5'
+  oomp_id: electronic_socket_usb_micro_surface_mount
+  part_number_distributor: C319160
+  price_paid: $0.0649
+  quantity: '50'
+- index: '6'
+  oomp_id: electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
+  part_number_distributor: C249496
+  price_paid: $0.1182
+  quantity: '10'
+- index: '7'
+  oomp_id: electronic_resistor_1206_0_ohm
+  part_number_distributor: C17888
+  price_paid: $0.0018
+  quantity: '5000'
+parts_ordered_oomp_markdown: "| index | oomp_id | quantity | part_number_distributor\
+  \ | price_paid | \n| --- | --- | --- | --- | --- | \n| 1 | electronic_socket_usb_a_through_hole\
+  \ | 10 | C2345 | $0.0537 | \n| 2 | electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw\
+  \ | 50 | C431540 | $0.0459 | \n| 3 | electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn\
+  \ | 5 | C255478 | $0.3020 | \n| 4 | electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw\
+  \ | 3 | C130052 | $1.48 | \n| 5 | electronic_socket_usb_micro_surface_mount | 50\
+  \ | C319160 | $0.0649 | \n| 6 | electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt\
+  \ | 10 | C249496 | $0.1182 | \n| 7 | electronic_resistor_1206_0_ohm | 5000 | C17888\
+  \ | $0.0018 | \n"
