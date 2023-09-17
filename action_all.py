@@ -75,6 +75,10 @@ def main():
         action_generate_doc.main()
         oom_git.push(repo_directory = "c:/gh/oomlout_oomp_part_doc_v_2")
 
+    import action_generate_orders
+    print("Generating orders")
+    action_generate_orders.main()
+
     comment = "added auto index generation"
     oom_git.push_to_git(comment=comment)
 

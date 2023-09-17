@@ -15,6 +15,8 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C17888](https://lcsc.com/product-detail/C17888.html)   
 
 
 ## symbol
@@ -88,7 +90,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size | 0 Ohm | 
 | short_code | r12o0 | 
 | short_code_upper | R12O0 | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C17888', 'link': 'https://lcsc.com/product-detail/C17888.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | package_style | smd_tape | 
 | smd_tape_width | 8_mm | 
@@ -110,7 +112,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | 0 Ohm | 
 | description_or_color |   | 
 | description_or_color_upper |   | 
-| markdown_full | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br> | 
-| markdown_short | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br> | 
+| markdown_full | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br> | 
+| markdown_short | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod', 'index': 0}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0}] | 

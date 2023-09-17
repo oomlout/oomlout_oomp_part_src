@@ -56,7 +56,14 @@
     "name_no_size": "0 Ohm",
     "short_code": "r12o0",
     "short_code_upper": "R12O0",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C17888",
+            "link": "https://lcsc.com/product-detail/C17888.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "package_style": "smd_tape",
     "smd_tape_width": "8_mm",
@@ -78,6 +85,6 @@
     "name_no_size_short": "0 Ohm",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br>",
-    "markdown_short": "[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>",
+    "markdown_short": "[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>"
 }

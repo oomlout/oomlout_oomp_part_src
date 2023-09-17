@@ -23,7 +23,11 @@ description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/electronic_resistor_1206_0_ohm
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C17888.html
+    name: LCSC
+    part_number: C17888
 filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
@@ -44,8 +48,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic
-    Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br>'
+    Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC
+    - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>'
+markdown_short: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC
+    - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>'
 md5: cb80fe6900902f133acee0cef16afa46
 md5_10: cb80fe6900
 md5_10_upper: CB80FE6900

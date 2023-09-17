@@ -12,7 +12,7 @@ def get_matches(**kwargs):
     global matches
     ###### matrix driver and assorte d ics
     matches.append({"id":"electronic_ic_sop_28_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640",
-                  "part_number": "c82650"})
+                  "part_number": "C82650"})
 
     # button and switch
     matches.append({"id":"electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount",
@@ -166,8 +166,8 @@ def get_matches(**kwargs):
                     "part_number": "C347223"})
 
     # resistors
-    #matches.append({"id":"resistor_0603_1000_ohm",
-    #              "part_number": "C21190"})
+    matches.append({"id":"electronic_resistor_1206_0_ohm",
+                  "part_number": "C17888"})
     #matches.append({"id":"resistor_0603_1000_ohm",
     #              "part_number": "C22548"})
     #matches.append({"id":"resistor_0603_10000_ohm",
