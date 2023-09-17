@@ -5,7 +5,7 @@ parts_ordered_oomp:
   price_paid: $0.0537
   quantity: '10'
 - index: '2'
-  oomp_id: electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+  oomp_id: electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
   part_number_distributor: C431540
   price_paid: $0.0459
   quantity: '50'
@@ -37,7 +37,7 @@ parts_ordered_oomp:
 parts_ordered_oomp_markdown: "| index | oomp_id | quantity | part_number_distributor\
   \ | price_paid | \n| --- | --- | --- | --- | --- | \n| 1 | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC\
   \ - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> | 10 | C2345 | $0.0537\
-  \ | \n| 2 | [electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>\
+  \ | \n| 2 | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br>\
   \ | 50 | C431540 | $0.0459 | \n| 3 | [electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[LCSC\
   \ - C255478<br>](https://lcsc.com/product-detail/C255478.html)<br> | 5 | C255478\
   \ | $0.3020 | \n| 4 | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[LCSC\
