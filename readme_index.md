@@ -681,6 +681,7 @@
 [ro755 - oomp_electronic_resistor_quarter_watt_through_hole_7500000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500000_ohm/working)   
 [ro825 - oomp_electronic_resistor_quarter_watt_through_hole_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200000_ohm/working)   
 [ro106 - oomp_electronic_resistor_quarter_watt_through_hole_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10000000_ohm/working)   
+[ro0 - oomp_electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)   
 ### 0201   
 ####    
 [ro100 - oomp_electronic_resistor_0201_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_10_ohm/working)   
@@ -762,6 +763,7 @@
 [ro755 - oomp_electronic_resistor_0201_7500000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_7500000_ohm/working)   
 [ro825 - oomp_electronic_resistor_0201_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_8200000_ohm/working)   
 [ro106 - oomp_electronic_resistor_0201_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_10000000_ohm/working)   
+[ro0 - oomp_electronic_resistor_0201_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm/working)   
 ### 0402   
 ####    
 [r4o100 - oomp_electronic_resistor_0402_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10_ohm/working)   
@@ -843,6 +845,7 @@
 [r4o755 - oomp_electronic_resistor_0402_7500000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500000_ohm/working)   
 [r4o825 - oomp_electronic_resistor_0402_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm/working)   
 [r4o106 - oomp_electronic_resistor_0402_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000000_ohm/working)   
+[r4o0 - oomp_electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)   
 ### 0603   
 ####    
 [r6o100 - oomp_electronic_resistor_0603_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10_ohm/working)   
@@ -924,6 +927,7 @@
 [r6o755 - oomp_electronic_resistor_0603_7500000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_7500000_ohm/working)   
 [r6o825 - oomp_electronic_resistor_0603_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)   
 [r6o106 - oomp_electronic_resistor_0603_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000000_ohm/working)   
+[r6o0 - oomp_electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_0_ohm/working)   
 ### 0805   
 ####    
 [r8o100 - oomp_electronic_resistor_0805_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10_ohm/working)   
@@ -1005,6 +1009,7 @@
 [r8o755 - oomp_electronic_resistor_0805_7500000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_7500000_ohm/working)   
 [r8o825 - oomp_electronic_resistor_0805_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_8200000_ohm/working)   
 [r8o106 - oomp_electronic_resistor_0805_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10000000_ohm/working)   
+[r8o0 - oomp_electronic_resistor_0805_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm/working)   
 ### 1206   
 ####    
 [r12o100 - oomp_electronic_resistor_1206_10_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10_ohm/working)   
@@ -1086,6 +1091,7 @@
 [r12o755 - oomp_electronic_resistor_1206_7500000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_7500000_ohm/working)   
 [r12o825 - oomp_electronic_resistor_1206_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_8200000_ohm/working)   
 [r12o106 - oomp_electronic_resistor_1206_10000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_10000000_ohm/working)   
+[r12o0 - oomp_electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)   
 ## socket   
 ### usb_a   
 ####    

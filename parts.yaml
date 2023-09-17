@@ -1643,7 +1643,11 @@ electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10
     description_or_color: E220uf
     description_or_color_upper: E220UF
     directory: parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C2833309.html
+        name: LCSC
+        part_number: C2833309
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod
@@ -1665,8 +1669,10 @@ electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10
     manufacturer_upper: ''
     manufacturers: []
     markdown_full: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
-        Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
-    markdown_short: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
+        Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC
+        - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>'
+    markdown_short: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC
+        - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>'
     md5: ca0122388156a808a16a1df64243b0c1
     md5_10: ca01223881
     md5_10_upper: CA01223881
@@ -1734,7 +1740,11 @@ electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10
     description_or_color: E220uf
     description_or_color_upper: E220UF
     directory: parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C72495.html
+        name: LCSC
+        part_number: C72495
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod
@@ -1756,8 +1766,10 @@ electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10
     manufacturer_upper: ''
     manufacturers: []
     markdown_full: '[electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d77tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
-        Capacitor 6 3 Mm Diameter 7 7 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
-    markdown_short: '[electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
+        Capacitor 6 3 Mm Diameter 7 7 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC
+        - C72495<br>](https://lcsc.com/product-detail/C72495.html)<br>'
+    markdown_short: '[electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC
+        - C72495<br>](https://lcsc.com/product-detail/C72495.html)<br>'
     md5: fd72c080666228040d5571dc164674c3
     md5_10: fd72c08066
     md5_10_upper: FD72C08066
@@ -1825,7 +1837,11 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
     description_or_color: E220uf
     description_or_color_upper: E220UF
     directory: parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
-    distributors: []
+    distributors:
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C249496.html
+        name: LCSC
+        part_number: C249496
     filter: ''
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_8x5_4//working/working.kicad_mod
@@ -1847,8 +1863,10 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
     manufacturer_upper: ''
     manufacturers: []
     markdown_full: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c8d65tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic
-        Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
-    markdown_short: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br><br>'
+        Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC
+        - C249496<br>](https://lcsc.com/product-detail/C249496.html)<br>'
+    markdown_short: '[electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC
+        - C249496<br>](https://lcsc.com/product-detail/C249496.html)<br>'
     md5: 432b2655fe41a652a246841ddd9641cc
     md5_10: 432b2655fe
     md5_10_upper: 432B2655FE
@@ -39375,6 +39393,90 @@ electronic_pmic_sot_223_linear_1117_adj:
     type_first_letter: p
     type_first_letter_upper: P
     type_upper: PMIC
+electronic_resistor_0201_0_ohm:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 0_ohm
+    description_main_capital: 0 Ohm
+    description_main_first_letter: '0'
+    description_main_first_letter_upper: '0'
+    description_main_upper: 0_OHM
+    description_only_numbers: '0'
+    description_only_numbers_short: ' '
+    description_or_color: ' '
+    description_or_color_upper: ' '
+    directory: parts/electronic_resistor_0201_0_ohm
+    distributors: []
+    filter: ''
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm/working
+    id: electronic_resistor_0201_0_ohm
+    id_no_class: resistor_0201_0_ohm
+    id_no_size: 0_ohm
+    id_no_type: 0201_0_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_resistor_0201_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm/working)<br>[ro0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm/working)<br>[Electronic
+        Resistor 0201 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm/working)<br><br>'
+    markdown_short: '[electronic_resistor_0201_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm/working)<br><br>'
+    md5: 7417b31b5e5c3007f5b33e34c4a5255c
+    md5_10: 7417b31b5e
+    md5_10_upper: 7417B31B5E
+    md5_5: 7417b
+    md5_5_upper: 7417B
+    md5_6: 7417b3
+    md5_6_alpha: 4j2k3
+    md5_6_alpha_upper: 4J2K3
+    md5_6_upper: 7417B3
+    name: Electronic Resistor 0201 0 Ohm
+    name_no_class: Resistor 0201 0 Ohm
+    name_no_size: 0 Ohm
+    name_no_size_short: 0 Ohm
+    name_no_type: 0201 0 Ohm
+    oomp_key: oomp_electronic_resistor_0201_0_ohm
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: ro0
+    short_code_upper: RO0
+    size: '0201'
+    size_capital: '0201'
+    size_first_letter: '0'
+    size_first_letter_upper: '0'
+    size_only_numbers: '0201'
+    size_only_numbers_no_zeros: '21'
+    size_upper: '0201'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+    type_capital: Resistor
+    type_first_letter: r
+    type_first_letter_upper: R
+    type_upper: RESISTOR
 electronic_resistor_0201_10000000_ohm:
     classification: electronic
     classification_capital: Electronic
@@ -46481,6 +46583,94 @@ electronic_resistor_0201_82_ohm:
     size_only_numbers: '0201'
     size_only_numbers_no_zeros: '21'
     size_upper: '0201'
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+    type_capital: Resistor
+    type_first_letter: r
+    type_first_letter_upper: R
+    type_upper: RESISTOR
+electronic_resistor_0402_0_ohm:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 0_ohm
+    description_main_capital: 0 Ohm
+    description_main_first_letter: '0'
+    description_main_first_letter_upper: '0'
+    description_main_upper: 0_OHM
+    description_only_numbers: '0'
+    description_only_numbers_short: ' '
+    description_or_color: ' '
+    description_or_color_upper: ' '
+    directory: parts/electronic_resistor_0402_0_ohm
+    distributors: []
+    filter: ''
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working
+    id: electronic_resistor_0402_0_ohm
+    id_no_class: resistor_0402_0_ohm
+    id_no_size: 0_ohm
+    id_no_type: 0402_0_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br>[r4o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br>[Electronic
+        Resistor 0402 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br><br>'
+    markdown_short: '[electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br><br>'
+    md5: f61b961aa55fd900194a6e1e19ed5e67
+    md5_10: f61b961aa5
+    md5_10_upper: F61B961AA5
+    md5_5: f61b9
+    md5_5_upper: F61B9
+    md5_6: f61b96
+    md5_6_alpha: 9lp5i
+    md5_6_alpha_upper: 9LP5I
+    md5_6_upper: F61B96
+    name: Electronic Resistor 0402 0 Ohm
+    name_no_class: Resistor 0402 0 Ohm
+    name_no_size: 0 Ohm
+    name_no_size_short: 0 Ohm
+    name_no_type: 0402 0 Ohm
+    oomp_key: oomp_electronic_resistor_0402_0_ohm
+    package_style: smd_tape
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: r4o0
+    short_code_upper: R4O0
+    size: '0402'
+    size_capital: '0402'
+    size_first_letter: '0'
+    size_first_letter_upper: '0'
+    size_only_numbers: '0402'
+    size_only_numbers_no_zeros: '42'
+    size_upper: '0402'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 2_mm
+    smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
         index: 0
@@ -54776,6 +54966,99 @@ electronic_resistor_0402_82_ohm:
     size_upper: '0402'
     smd_tape_depth: 1_5_mm
     smd_tape_pitch: 2_mm
+    smd_tape_width: 8_mm
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+    type_capital: Resistor
+    type_first_letter: r
+    type_first_letter_upper: R
+    type_upper: RESISTOR
+electronic_resistor_0603_0_ohm:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 0_ohm
+    description_main_capital: 0 Ohm
+    description_main_first_letter: '0'
+    description_main_first_letter_upper: '0'
+    description_main_upper: 0_OHM
+    description_only_numbers: '0'
+    description_only_numbers_short: ' '
+    description_or_color: ' '
+    description_or_color_upper: ' '
+    directory: parts/electronic_resistor_0603_0_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+        oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_0_ohm/working
+    id: electronic_resistor_0603_0_ohm
+    id_no_class: resistor_0603_0_ohm
+    id_no_size: 0_ohm
+    id_no_type: 0603_0_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br>[r6o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br>[Electronic
+        Resistor 0603 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br><br>'
+    markdown_short: '[electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br><br>'
+    md5: 447ffbbfbc7ca3afa4b7961c1bd86cc5
+    md5_10: 447ffbbfbc
+    md5_10_upper: 447FFBBFBC
+    md5_5: 447ff
+    md5_5_upper: 447FF
+    md5_6: 447ffb
+    md5_6_alpha: 2o7wb
+    md5_6_alpha_upper: 2O7WB
+    md5_6_upper: 447FFB
+    name: Electronic Resistor 0603 0 Ohm
+    name_no_class: Resistor 0603 0 Ohm
+    name_no_size: 0 Ohm
+    name_no_size_short: 0 Ohm
+    name_no_type: 0603 0 Ohm
+    oomp_key: oomp_electronic_resistor_0603_0_ohm
+    package_style: smd_tape
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: r6o0
+    short_code_upper: R6O0
+    size: '0603'
+    size_capital: '0603'
+    size_first_letter: '0'
+    size_first_letter_upper: '0'
+    size_only_numbers: '0603'
+    size_only_numbers_no_zeros: '63'
+    size_upper: '0603'
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
     smd_tape_width: 8_mm
     symbol:
     -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
@@ -63494,6 +63777,99 @@ electronic_resistor_0603_82_ohm:
     type_first_letter: r
     type_first_letter_upper: R
     type_upper: RESISTOR
+electronic_resistor_0805_0_ohm:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 0_ohm
+    description_main_capital: 0 Ohm
+    description_main_first_letter: '0'
+    description_main_first_letter_upper: '0'
+    description_main_upper: 0_OHM
+    description_only_numbers: '0'
+    description_only_numbers_short: ' '
+    description_or_color: ' '
+    description_or_color_upper: ' '
+    directory: parts/electronic_resistor_0805_0_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+        oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm/working
+    id: electronic_resistor_0805_0_ohm
+    id_no_class: resistor_0805_0_ohm
+    id_no_size: 0_ohm
+    id_no_type: 0805_0_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_resistor_0805_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm/working)<br>[r8o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm/working)<br>[Electronic
+        Resistor 0805 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm/working)<br><br>'
+    markdown_short: '[electronic_resistor_0805_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm/working)<br><br>'
+    md5: d2570626ac07fac4667a2946a70a904d
+    md5_10: d2570626ac
+    md5_10_upper: D2570626AC
+    md5_5: d2570
+    md5_5_upper: D2570
+    md5_6: d25706
+    md5_6_alpha: 87gg6
+    md5_6_alpha_upper: 87GG6
+    md5_6_upper: D25706
+    name: Electronic Resistor 0805 0 Ohm
+    name_no_class: Resistor 0805 0 Ohm
+    name_no_size: 0 Ohm
+    name_no_size_short: 0 Ohm
+    name_no_type: 0805 0 Ohm
+    oomp_key: oomp_electronic_resistor_0805_0_ohm
+    package_style: smd_tape
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: r8o0
+    short_code_upper: R8O0
+    size: 0805
+    size_capital: 0805
+    size_first_letter: '0'
+    size_first_letter_upper: '0'
+    size_only_numbers: 0805
+    size_only_numbers_no_zeros: '85'
+    size_upper: 0805
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+    type_capital: Resistor
+    type_first_letter: r
+    type_first_letter_upper: R
+    type_upper: RESISTOR
 electronic_resistor_0805_10000000_ohm:
     classification: electronic
     classification_capital: Electronic
@@ -72172,6 +72548,99 @@ electronic_resistor_0805_82_ohm:
     size_only_numbers: 0805
     size_only_numbers_no_zeros: '85'
     size_upper: 0805
+    smd_tape_depth: 1_5_mm
+    smd_tape_pitch: 4_mm
+    smd_tape_width: 8_mm
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+    type_capital: Resistor
+    type_first_letter: r
+    type_first_letter_upper: R
+    type_upper: RESISTOR
+electronic_resistor_1206_0_ohm:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 0_ohm
+    description_main_capital: 0 Ohm
+    description_main_first_letter: '0'
+    description_main_first_letter_upper: '0'
+    description_main_upper: 0_OHM
+    description_only_numbers: '0'
+    description_only_numbers_short: ' '
+    description_or_color: ' '
+    description_or_color_upper: ' '
+    directory: parts/electronic_resistor_1206_0_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
+        oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working
+    id: electronic_resistor_1206_0_ohm
+    id_no_class: resistor_1206_0_ohm
+    id_no_size: 0_ohm
+    id_no_type: 1206_0_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic
+        Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br>'
+    markdown_short: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br><br>'
+    md5: cb80fe6900902f133acee0cef16afa46
+    md5_10: cb80fe6900
+    md5_10_upper: CB80FE6900
+    md5_5: cb80f
+    md5_5_upper: CB80F
+    md5_6: cb80fe
+    md5_6_alpha: 7xuri
+    md5_6_alpha_upper: 7XURI
+    md5_6_upper: CB80FE
+    name: Electronic Resistor 1206 0 Ohm
+    name_no_class: Resistor 1206 0 Ohm
+    name_no_size: 0 Ohm
+    name_no_size_short: 0 Ohm
+    name_no_type: 1206 0 Ohm
+    oomp_key: oomp_electronic_resistor_1206_0_ohm
+    package_style: smd_tape
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: r12o0
+    short_code_upper: R12O0
+    size: '1206'
+    size_capital: '1206'
+    size_first_letter: '1'
+    size_first_letter_upper: '1'
+    size_only_numbers: '1206'
+    size_only_numbers_no_zeros: '126'
+    size_upper: '1206'
     smd_tape_depth: 1_5_mm
     smd_tape_pitch: 4_mm
     smd_tape_width: 8_mm
@@ -80876,6 +81345,95 @@ electronic_resistor_1206_82_ohm:
     type_first_letter: r
     type_first_letter_upper: R
     type_upper: RESISTOR
+electronic_resistor_quarter_watt_through_hole_0_ohm:
+    classification: electronic
+    classification_capital: Electronic
+    classification_first_letter: e
+    classification_first_letter_upper: E
+    classification_upper: ELECTRONIC
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 0_ohm
+    description_main_capital: 0 Ohm
+    description_main_first_letter: '0'
+    description_main_first_letter_upper: '0'
+    description_main_upper: 0_OHM
+    description_only_numbers: '0'
+    description_only_numbers_short: ' '
+    description_or_color: ' '
+    description_or_color_upper: ' '
+    directory: parts/electronic_resistor_quarter_watt_through_hole_0_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+        oomp_key: oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working
+    id: electronic_resistor_quarter_watt_through_hole_0_ohm
+    id_no_class: resistor_quarter_watt_through_hole_0_ohm
+    id_no_size: 0_ohm
+    id_no_type: quarter_watt_through_hole_0_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br>[ro0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br>[Electronic
+        Resistor Quarter Watt Through Hole 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br><br>'
+    markdown_short: '[electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br><br>'
+    md5: 796b38bb5ffedabe563f06214f387dd0
+    md5_10: 796b38bb5f
+    md5_10_upper: 796B38BB5F
+    md5_5: 796b3
+    md5_5_upper: 796B3
+    md5_6: 796b38
+    md5_6_alpha: 4qjw8
+    md5_6_alpha_upper: 4QJW8
+    md5_6_upper: 796B38
+    name: Electronic Resistor Quarter Watt Through Hole 0 Ohm
+    name_no_class: Resistor Quarter Watt Through Hole 0 Ohm
+    name_no_size: 0 Ohm
+    name_no_size_short: 0 Ohm
+    name_no_type: Quarter Watt Through Hole 0 Ohm
+    oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_0_ohm
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: ro0
+    short_code_upper: RO0
+    size: quarter_watt_through_hole
+    size_capital: Quarter Watt Through Hole
+    size_first_letter: q
+    size_first_letter_upper: Q
+    size_only_numbers: ''
+    size_only_numbers_no_zeros: ''
+    size_upper: QUARTER_WATT_THROUGH_HOLE
+    symbol:
+    -   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+        index: 0
+        link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+        oomp_key: oomp_kicad_device_r
+    type: resistor
+    type_capital: Resistor
+    type_first_letter: r
+    type_first_letter_upper: R
+    type_upper: RESISTOR
 electronic_resistor_quarter_watt_through_hole_10000000_ohm:
     classification: electronic
     classification_capital: Electronic
@@ -88289,7 +88847,11 @@ electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw:
     description_or_color: 'S '
     description_or_color_upper: 'S '
     directory: parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
-    distributors: &id003 []
+    distributors: &id003
+    -   id: distributor_lcsc
+        link: https://lcsc.com/product-detail/C431540.html
+        name: LCSC
+        part_number: C431540
     footprint:
     -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
         index: 0
@@ -88308,8 +88870,10 @@ electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw:
     manufacturer_upper: ''
     manufacturers: []
     markdown_full: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic
-        Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>'
-    markdown_short: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>'
+        Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[LCSC
+        - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
+    markdown_short: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[LCSC
+        - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
     md5: 0468632b34e10d5b7294280ac59b3c79
     md5_10: 0468632b34
     md5_10_upper: 0468632B34
@@ -88395,8 +88959,10 @@ electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_
     manufacturer_upper: ''
     manufacturers: []
     markdown_full: '[electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[sws2880s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[Electronic
-        Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br>'
-    markdown_short: '[electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br><br>'
+        Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC
+        - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
+    markdown_short: '[electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC
+        - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
     md5: 4c18b3b1e7fc9152eea1c1d675c0327e
     md5_10: 4c18b3b1e7
     md5_10_upper: 4C18B3B1E7

@@ -15,6 +15,8 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C431540](https://lcsc.com/product-detail/C431540.html)   
 
 
 ## symbol
@@ -42,7 +44,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | manufacturer |  | 
 | part_number |  | 
 | short_name |  | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C431540', 'link': 'https://lcsc.com/product-detail/C431540.html', 'id': 'distributor_lcsc'}] | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -105,7 +107,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | Surface Mount Single Pole Double Throw | 
 | description_or_color | S  | 
 | description_or_color_upper | S  | 
-| markdown_full | [electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br> | 
-| markdown_short | [electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br> | 
+| markdown_full | [electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> | 
+| markdown_short | [electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod', 'index': 0}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt', 'oomp_key': 'oomp_kicad_switch_sw_spdt', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym', 'index': 0}] | 

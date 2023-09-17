@@ -23,7 +23,11 @@ description_only_numbers_short: ' '
 description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C431540.html
+    name: LCSC
+    part_number: C431540
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x03_p2_54mm_vertical//working/working.kicad_mod
     index: 0
@@ -41,8 +45,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[swsi1hs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[Electronic
-    Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>'
-markdown_short: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br><br>'
+    Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[LCSC
+    - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
+markdown_short: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw/working)<br>[LCSC
+    - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
 md5: 0468632b34e10d5b7294280ac59b3c79
 md5_10: 0468632b34
 md5_10_upper: 0468632B34
