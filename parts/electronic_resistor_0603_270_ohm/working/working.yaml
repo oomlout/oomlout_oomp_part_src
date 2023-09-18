@@ -24,7 +24,7 @@ description_or_color: '270'
 description_or_color_upper: '270'
 directory: parts/electronic_resistor_0603_270_ohm
 distributors: []
-filter: ''
+filter: resistor
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
     index: 0

@@ -24,7 +24,7 @@ description_or_color: '12'
 description_or_color_upper: '12'
 directory: parts/electronic_resistor_1206_12_ohm
 distributors: []
-filter: ''
+filter: resistor
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
     index: 0

@@ -10,12 +10,7 @@ parts:
 - electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 - electronic_resistor_0603_10000_ohm
 parts_final:
-- electronic_ic_0603_sensor_light_everlight_elec_als_pt19
-- electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 - electronic_resistor_0603_4700_ohm
-- electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 - electronic_resistor_0603_10000_ohm
-parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_ic_0603_sensor_light_everlight_elec_als_pt19\
-  \ |  | \n| electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc |  | \n| electronic_resistor_0603_4700_ohm\
-  \ |  | \n| electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle |  | \n\
-  | electronic_resistor_0603_10000_ohm |  | \n"
+parts_final_markdown: "| name | value | \n| --- | --- | \n| electronic_resistor_0603_4700_ohm\
+  \ |  | \n| electronic_resistor_0603_10000_ohm |  | \n"

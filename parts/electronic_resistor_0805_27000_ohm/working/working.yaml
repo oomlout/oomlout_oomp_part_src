@@ -24,7 +24,7 @@ description_or_color: 27k
 description_or_color_upper: 27K
 directory: parts/electronic_resistor_0805_27000_ohm
 distributors: []
-filter: ''
+filter: resistor
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
     index: 0

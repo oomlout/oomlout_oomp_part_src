@@ -36,7 +36,7 @@ distributors:
     link: https://lcsc.com/product-detail/C99198.html
     name: LCSC
     part_number: C99198
-filter: ''
+filter: resistor
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
     index: 0

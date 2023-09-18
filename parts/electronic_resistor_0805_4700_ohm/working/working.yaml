@@ -24,7 +24,7 @@ description_or_color: 4k7
 description_or_color_upper: 4K7
 directory: parts/electronic_resistor_0805_4700_ohm
 distributors: []
-filter: ''
+filter: resistor
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
     index: 0

@@ -24,7 +24,7 @@ description_or_color: 1M
 description_or_color_upper: 1M
 directory: parts/electronic_resistor_0201_1000000_ohm
 distributors: []
-filter: ''
+filter: resistor
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1000000_ohm/working
 id: electronic_resistor_0201_1000000_ohm

@@ -301,7 +301,7 @@ def add_part(**kwargs):
             description_only_numbers_short = w + "k"
             pass
         else:
-            w = str(round(don) / 1000000)
+            w = str(round(don) / 100000)
             w =w.replace(".", "")
             if w[1] != "0":
                 description_only_numbers_short = w[0] + "M" + w[1]
