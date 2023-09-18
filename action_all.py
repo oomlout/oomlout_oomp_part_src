@@ -8,7 +8,7 @@ def main():
     #fast = True
 
     label=True
-    label=False 
+    #label=False 
 
     doc = True
     #doc = False
