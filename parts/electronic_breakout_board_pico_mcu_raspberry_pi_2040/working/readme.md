@@ -64,8 +64,8 @@ List of Pins:
 ## footprint
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_arturo182_module_extra_raspberrypi_pico  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_module_extra_raspberrypi_pico/working  
+oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working  
 
 ## full_summary
 | name | value | 
@@ -268,4 +268,4 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | M2K | 
 | markdown_full | [electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[bbmcu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[Electronic Breakout Board Pico Mcu Raspberry Pi 2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/arturo182_module_extra_raspberrypi_pico', 'oomp_key': 'oomp_arturo182_module_extra_raspberrypi_pico', 'directory': 'oomlout_oomp_footprint_bot/footprints/arturo182_module_extra_raspberrypi_pico//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'oomp_key': 'oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'directory': 'oomlout_oomp_footprint_bot/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th//working/working.kicad_mod', 'index': 0}] | 

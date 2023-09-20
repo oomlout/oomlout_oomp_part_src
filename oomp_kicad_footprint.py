@@ -32,7 +32,7 @@ def get_footprints(**kwargs):
     match = {}    
     match["size"] = "pico"
     match["description_main"] = "raspberry_pi_2040"
-    match["footprint_name"] = "arturo182_module_extra_raspberrypi_pico"
+    match["footprint_name"] = "akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th"
     matches.append(match)
 
 
