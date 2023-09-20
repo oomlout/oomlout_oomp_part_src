@@ -20,22 +20,3 @@
 * cost_shipping: $0.60
 * cost_total: $44.24
 ## parts 
-| index | oomp_id | quantity | part_number_distributor | price_paid | 
-| --- | --- | --- | --- | --- | 
-| 1 | oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au | 1 | C14877 | $2.43 | 
-| 2 | oomp_electronic_pmic_sot_223_linear_1117_5_volt | 30 | C347223 | $0.0394 | 
-| 3 | oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g | 5 | C14267 | $0.48 | 
-| 4 | oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c | 5 | C7464026 | $0.54 | 
-| 5 | oomp_electronic_socket_usb_mini_surface_mount_only | 5 | C14663 | $0.12 | 
-| 6 | oomp_electronic_led_0603_red | 4000 | C965799 | $0.0018 | 
-| 7 | oomp_electronic_led_0603_blue | 100 | C965807 | $0.0037 | 
-| 8 | oomp_electronic_led_0603_green | 100 | C965804 | $0.004 | 
-| 9 | oomp_electronic_led_0603_yellow | 100 | C965802 | $0.0047 | 
-| 10 | [electronic_resistor_0603_1000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_1000_ohm/working)<br><br>[Uniroyal - 0603WAJ0102T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1001T5E- jlc basic part]()[Yageo - RC0603JR-071KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-071KL) | 5000 | C21190 | $0.0006 | 
-| 11 | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal - 0603WAJ0103T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic part]()[Yageo - RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL) | 5000 | C98220 | $0.0007 | 
-| 12 | oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount | 200 | C2845294 | $0.0192 | 
-| 13 | oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz | 5 | C882605 | $0.3616 | 
-| 14 | oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz | 5 | C341520 | $0.2171 | 
-| 15 | oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 | 100 | C77335 | $0.0322 | 
-| 16 | oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt | 50 | C7187 | $0.0781 | 
-| 17 | oomp_electronic_capacitor_0603_100_nano_farad | 4000 | C14663 | $0.0015 | 

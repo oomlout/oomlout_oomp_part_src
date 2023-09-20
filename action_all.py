@@ -5,7 +5,7 @@ def main():
 
     
     fast = False
-    #fast = True
+    fast = True
 
     label=True
     label=False 

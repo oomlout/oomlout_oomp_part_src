@@ -14,12 +14,29 @@ def get_footprints(**kwargs):
 
 
     # breakout_boards
+    #      shennie
     match = {}    
     match["size"] = "shennie"
-    match["description_main"] = "atmega328"
+    match["description_main"] = "atmega328p"
     match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
     matches.append(match)
     
+    #      esp32_devkitc
+    match = {}    
+    match["size"] = "devkitc"
+    match["description_main"] = "espressif_esp32"
+    match["footprint_name"] = "espressif_espressif_esp32_devkitc"
+    matches.append(match)
+    
+    #      raspberry_pip_pico
+    match = {}    
+    match["size"] = "pico"
+    match["description_main"] = "raspberry_pi_2040"
+    match["footprint_name"] = "arturo182_module_extra_raspberrypi_pico"
+    matches.append(match)
+
+
+    #      step_stick
     match = {}
     match["size"] = "step_stick"
     match["description_main"] = "stepper_motor"    

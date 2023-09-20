@@ -19,12 +19,3 @@ ordering parts for ibbc project and some base parts
 * cost_shipping: $0
 * cost_total: $23.46
 ## parts 
-| index | oomp_id | quantity | part_number_distributor | price_paid | 
-| --- | --- | --- | --- | --- | 
-| 1 | oomp_electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321 | 12 | C966924 | $0.3516 | 
-| 2 | oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19 | 10 | C146233 | $0.1127 | 
-| 3 | oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc | 10 | C5349953 | $0.0623 | 
-| 4 | [electronic_resistor_0603_4700_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_4700_ohm/working)<br><br>[Uniroyal - 0603WAJ0472T5E- not in jlc basic parts]()[Uniroyal - 0603WAF4701T5E- jlc basic part]()[Yageo - RC0603JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-074K7L) | 5000 | C105428 | $0.0007 | 
-| 5 | oomp_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280 | 2 | C92489 | $3.6448 | 
-| 6 | oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle | 100 | C2906270 | $0.032 | 
-| 7 | [electronic_resistor_0603_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_10000_ohm/working)<br>[LCSC - C25804<br>](https://lcsc.com/product-detail/C25804.html)[LCSC - C15401<br>](https://lcsc.com/product-detail/C15401.html)[LCSC - C99198<br>](https://lcsc.com/product-detail/C99198.html)<br>[Uniroyal - 0603WAJ0103T5E- not in jlc basic parts]()[Uniroyal - 0603WAF1002T5E- jlc basic part]()[Yageo - RC0603JR-0710KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0710KL) | 5000 | C99198 | $0.0007 | 
