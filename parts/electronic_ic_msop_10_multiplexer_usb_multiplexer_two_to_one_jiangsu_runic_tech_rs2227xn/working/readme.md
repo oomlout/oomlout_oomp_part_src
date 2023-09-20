@@ -39,6 +39,10 @@ List of Pins:
 oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_imsp10mpump21rs2227_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_imsp10mpump21rs2227_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -149,4 +153,4 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | M  | 
 | markdown_full | [electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[imsp10mpump21rs2227](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[LCSC - C255478<br>](https://lcsc.com/product-detail/C255478.html)<br> | 
 | markdown_short | [electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn/working)<br>[LCSC - C255478<br>](https://lcsc.com/product-detail/C255478.html)<br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_so_msop_10_3x3mm_p0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_so_msop_10_3x3mm_p0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod', 'note': 'source footprint kicad_package_so_msop_10_3x3mm_p0_5mm', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_imsp10mpump21rs2227_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn', 'oomp_key': 'oomp_oomp_imsp10mpump21rs2227_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_imsp10mpump21rs2227_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 

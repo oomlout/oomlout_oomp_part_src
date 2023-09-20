@@ -29,6 +29,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -107,5 +111,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | M328 | 
 | markdown_full | [electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)<br>[ivq28mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)<br>[Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)<br><br> | 
 | markdown_short | [electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod', 'note': 'source footprint kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh', 'oomp_key': 'oomp_oomp_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328_mm', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym', 'index': 0}] | 

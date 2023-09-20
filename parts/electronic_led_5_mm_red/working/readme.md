@@ -29,6 +29,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_led_tht_led_d5_0mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_led_tht_led_d5_0mm/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_l5r_electronic_led_5_mm_red  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_l5r_electronic_led_5_mm_red/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -109,5 +113,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | R  | 
 | markdown_full | [electronic_led_5_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red/working)<br>[l5r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red/working)<br>[Electronic Led 5 Mm Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red/working)<br><br> | 
 | markdown_short | [electronic_led_5_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod', 'note': 'source footprint kicad_led_tht_led_d5_0mm', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_l5r_electronic_led_5_mm_red', 'oomp_key': 'oomp_oomp_l5r_electronic_led_5_mm_red', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_l5r_electronic_led_5_mm_red//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0}] | 

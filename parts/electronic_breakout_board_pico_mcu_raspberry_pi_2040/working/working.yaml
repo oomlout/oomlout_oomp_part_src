@@ -29,7 +29,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
+    note: source footprint akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
     oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working
 id: electronic_breakout_board_pico_mcu_raspberry_pi_2040
 id_no_class: breakout_board_pico_mcu_raspberry_pi_2040

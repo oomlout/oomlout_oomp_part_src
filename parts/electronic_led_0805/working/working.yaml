@@ -29,7 +29,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+    note: source footprint kicad_led_smd_led_0805_2012metric
     oomp_key: oomp_kicad_led_smd_led_0805_2012metric
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_l8_electronic_led_0805//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_l8_electronic_led_0805
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_l8_electronic_led_0805
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805/working
 id: electronic_led_0805

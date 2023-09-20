@@ -33,7 +33,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_6_3x3_9
+    note: source footprint kicad_capacitor_smd_cp_elec_6_3x3_9
     oomp_key: oomp_kicad_capacitor_smd_cp_elec_6_3x3_9
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_c63d77tuf220v10_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_c63d77tuf220v10_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_c63d77tuf220v10_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt/working
 id: electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt

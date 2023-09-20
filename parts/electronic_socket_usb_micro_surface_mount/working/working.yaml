@@ -32,7 +32,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s
+    note: source footprint kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s
     oomp_key: oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_scumcsm_electronic_socket_usb_micro_surface_mount//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_scumcsm_electronic_socket_usb_micro_surface_mount
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_scumcsm_electronic_socket_usb_micro_surface_mount
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working
 id: electronic_socket_usb_micro_surface_mount
 id_no_class: socket_usb_micro_surface_mount

@@ -28,7 +28,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomp_footprint_templates_zzzz
+    note: source footprint oomlout_oomp_footprint_templates_zzzz
     oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working
 id: electronic_header_oobb_i2c_single_through_hole_right_angle
 id_no_class: header_oobb_i2c_single_through_hole_right_angle

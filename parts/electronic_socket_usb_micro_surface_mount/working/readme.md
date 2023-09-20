@@ -40,6 +40,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_scumcsm_electronic_socket_usb_micro_surface_mount  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_scumcsm_electronic_socket_usb_micro_surface_mount/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -136,5 +140,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper |   | 
 | markdown_full | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> | 
 | markdown_short | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'oomp_key': 'oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'oomp_key': 'oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod', 'note': 'source footprint kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_scumcsm_electronic_socket_usb_micro_surface_mount', 'oomp_key': 'oomp_oomp_scumcsm_electronic_socket_usb_micro_surface_mount', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_scumcsm_electronic_socket_usb_micro_surface_mount//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro', 'oomp_key': 'oomp_kicad_connector_usb_b_micro', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_micro//working/working.kicad_sym', 'index': 0}] | 

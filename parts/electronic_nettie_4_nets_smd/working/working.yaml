@@ -29,7 +29,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm
+    note: source footprint kicad_nettie_nettie_4_smd_pad0_5mm
     oomp_key: oomp_kicad_nettie_nettie_4_smd_pad0_5mm
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_nt4_electronic_nettie_4_nets_smd//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_nt4_electronic_nettie_4_nets_smd
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_nt4_electronic_nettie_4_nets_smd
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working
 id: electronic_nettie_4_nets_smd

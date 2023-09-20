@@ -29,6 +29,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_nettie_nettie_4_smd_pad0_5mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_nettie_nettie_4_smd_pad0_5mm/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_nt4_electronic_nettie_4_nets_smd  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_nt4_electronic_nettie_4_nets_smd/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -108,5 +112,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper |   | 
 | markdown_full | [electronic_nettie_4_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br>[nt4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br>[Electronic Nettie 4 Nets Smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br><br> | 
 | markdown_short | [electronic_nettie_4_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_4_smd_pad0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_4_smd_pad0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod', 'note': 'source footprint kicad_nettie_nettie_4_smd_pad0_5mm', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_nt4_electronic_nettie_4_nets_smd', 'oomp_key': 'oomp_oomp_nt4_electronic_nettie_4_nets_smd', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_nt4_electronic_nettie_4_nets_smd//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4', 'oomp_key': 'oomp_kicad_device_nettie_4', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym', 'index': 0}] | 

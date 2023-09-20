@@ -32,6 +32,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -114,5 +118,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | S  | 
 | markdown_full | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[b3560s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> | 
 | markdown_short | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs', 'oomp_key': 'oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs', 'oomp_key': 'oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs//working/working.kicad_mod', 'note': 'source footprint kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount', 'oomp_key': 'oomp_oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push', 'oomp_key': 'oomp_kicad_switch_sw_push', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym', 'index': 0}] | 

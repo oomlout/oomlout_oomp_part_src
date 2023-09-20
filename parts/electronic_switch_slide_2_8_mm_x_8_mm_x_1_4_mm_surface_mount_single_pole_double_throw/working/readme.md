@@ -31,6 +31,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_button_switch_smd_sw_spdt_pcm12  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_button_switch_smd_sw_spdt_pcm12/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -109,5 +113,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | S  | 
 | markdown_full | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[sws2880s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> | 
 | markdown_short | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_spdt_pcm12', 'oomp_key': 'oomp_kicad_button_switch_smd_sw_spdt_pcm12', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_spdt_pcm12//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_spdt_pcm12', 'oomp_key': 'oomp_kicad_button_switch_smd_sw_spdt_pcm12', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_spdt_pcm12//working/working.kicad_mod', 'note': 'source footprint kicad_button_switch_smd_sw_spdt_pcm12', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw', 'oomp_key': 'oomp_oomp_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt', 'oomp_key': 'oomp_kicad_switch_sw_spdt', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym', 'index': 0}] | 

@@ -50,6 +50,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -178,5 +182,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | C  | 
 | markdown_full | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[isp16ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> | 
 | markdown_short | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'oomp_key': 'oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod', 'note': 'source footprint kicad_package_so_sop_16_3_9x9_9mm_p1_27mm', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c', 'oomp_key': 'oomp_oomp_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_isp16ch340c_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c', 'oomp_key': 'oomp_kicad_interface_usb_ch340c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340c//working/working.kicad_sym', 'index': 0}] | 

@@ -29,7 +29,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+    note: source footprint kicad_led_smd_led_1206_3216metric
     oomp_key: oomp_kicad_led_smd_led_1206_3216metric
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_l12w_electronic_led_1206_white//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_l12w_electronic_led_1206_white
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_l12w_electronic_led_1206_white
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white/working
 id: electronic_led_1206_white

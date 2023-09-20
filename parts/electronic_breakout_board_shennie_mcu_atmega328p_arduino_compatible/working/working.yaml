@@ -29,7 +29,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes
+    note: source footprint kicad_module_arduino_nano_withmountingholes
     oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working
 id: electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
 id_no_class: breakout_board_shennie_mcu_atmega328p_arduino_compatible

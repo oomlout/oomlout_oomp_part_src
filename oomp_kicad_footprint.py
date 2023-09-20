@@ -18,7 +18,7 @@ def get_footprints(**kwargs):
     match = {}    
     match["size"] = "shennie"
     match["description_main"] = "atmega328p"
-    match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"
+    match["footprint_name"] = "kicad_module_arduino_nano_withmountingholes"    
     matches.append(match)
     
     #      esp32_devkitc
@@ -489,7 +489,16 @@ def get_footprints(**kwargs):
             match["footprint"] = []
             match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
                             "oomp_key": f"oomp_{footprint_name}",                                 
-                            "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}"})
+                            "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}",
+                            "note": f"source footprint {footprint_name}"})
+            #add oomp footprint
+            id = kwargs.get("id", "")
+            short_code = kwargs.get("short_code", "")
+            footprint_name = f"oomp_{short_code}_{id}"
+            match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
+                            "oomp_key": f"oomp_{footprint_name}",                                 
+                            "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}",
+                            "note": f"oomp generated footprint"})
             #remove footprint_name
             del match["footprint_name"]
         

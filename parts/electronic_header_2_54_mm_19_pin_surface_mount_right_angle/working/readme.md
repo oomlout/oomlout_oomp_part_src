@@ -29,6 +29,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_hi119psmra_electronic_header_2_54_mm_19_pin_surface_mount_right_angle  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_hi119psmra_electronic_header_2_54_mm_19_pin_surface_mount_right_angle/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -107,5 +111,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | 19 | 
 | markdown_full | [electronic_header_2_54_mm_19_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle/working)<br>[hi119psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 19 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_19_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal//working/working.kicad_mod', 'note': 'source footprint kicad_connector_harwin_harwin_m20_89019xx_1x19_p2_54mm_horizontal', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_hi119psmra_electronic_header_2_54_mm_19_pin_surface_mount_right_angle', 'oomp_key': 'oomp_oomp_hi119psmra_electronic_header_2_54_mm_19_pin_surface_mount_right_angle', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_hi119psmra_electronic_header_2_54_mm_19_pin_surface_mount_right_angle//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x19_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x19_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x19_pin//working/working.kicad_sym', 'index': 0}] | 

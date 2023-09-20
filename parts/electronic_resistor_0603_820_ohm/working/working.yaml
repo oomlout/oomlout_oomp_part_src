@@ -29,7 +29,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+    note: source footprint kicad_resistor_smd_r_0603_1608metric
     oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_r6o821_electronic_resistor_0603_820_ohm//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_r6o821_electronic_resistor_0603_820_ohm
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_r6o821_electronic_resistor_0603_820_ohm
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_820_ohm/working
 id: electronic_resistor_0603_820_ohm

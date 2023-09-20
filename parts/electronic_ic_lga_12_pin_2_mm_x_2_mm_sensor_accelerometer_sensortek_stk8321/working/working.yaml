@@ -28,7 +28,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_lga_12_2x2mm_p0_5mm
+    note: source footprint kicad_package_lga_lga_12_2x2mm_p0_5mm
     oomp_key: oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working
 id: electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 id_no_class: ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321

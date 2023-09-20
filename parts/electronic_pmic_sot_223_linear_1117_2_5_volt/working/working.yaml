@@ -28,7 +28,13 @@ footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
     index: 0
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+    note: source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2
     oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
+-   directory: oomlout_oomp_footprint_bot/footprints/oomp_pms22311172d5v_electronic_pmic_sot_223_linear_1117_2_5_volt//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_pms22311172d5v_electronic_pmic_sot_223_linear_1117_2_5_volt
+    note: oomp generated footprint
+    oomp_key: oomp_oomp_pms22311172d5v_electronic_pmic_sot_223_linear_1117_2_5_volt
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working
 id: electronic_pmic_sot_223_linear_1117_2_5_volt
 id_no_class: pmic_sot_223_linear_1117_2_5_volt

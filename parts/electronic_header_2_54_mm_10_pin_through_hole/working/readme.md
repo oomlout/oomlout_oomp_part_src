@@ -29,6 +29,10 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical/working  
 
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomp_hi110pth_electronic_header_2_54_mm_10_pin_through_hole  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_hi110pth_electronic_header_2_54_mm_10_pin_through_hole/working  
+
 ## full_summary
 | name | value | 
 | --- | --- | 
@@ -107,5 +111,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | 10 | 
 | markdown_full | [electronic_header_2_54_mm_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole/working)<br>[hi110pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 10 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole/working)<br><br> | 
 | markdown_short | [electronic_header_2_54_mm_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical//working/working.kicad_mod', 'index': 0}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical//working/working.kicad_mod', 'note': 'source footprint kicad_connector_pinheader_2_54mm_pinheader_1x10_p2_54mm_vertical', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_hi110pth_electronic_header_2_54_mm_10_pin_through_hole', 'oomp_key': 'oomp_oomp_hi110pth_electronic_header_2_54_mm_10_pin_through_hole', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_hi110pth_electronic_header_2_54_mm_10_pin_through_hole//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x10_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x10_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym', 'index': 0}] | 
