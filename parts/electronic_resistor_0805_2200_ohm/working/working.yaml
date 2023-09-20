@@ -24,7 +24,7 @@ description_or_color: 2k2
 description_or_color_upper: 2K2
 directory: parts/electronic_resistor_0805_2200_ohm
 distributors: []
-filter: resistor
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
     index: 0

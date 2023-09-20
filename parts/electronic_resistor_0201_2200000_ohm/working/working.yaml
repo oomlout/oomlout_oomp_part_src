@@ -24,7 +24,7 @@ description_or_color: 2M2
 description_or_color_upper: 2M2
 directory: parts/electronic_resistor_0201_2200000_ohm
 distributors: []
-filter: resistor
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2200000_ohm/working
 id: electronic_resistor_0201_2200000_ohm

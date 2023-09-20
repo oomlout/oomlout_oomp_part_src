@@ -40,7 +40,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| filter | resistor | 
+| filter |  | 
 | kicad_reference | R | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 

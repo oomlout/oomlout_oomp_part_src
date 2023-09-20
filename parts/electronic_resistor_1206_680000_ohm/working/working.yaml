@@ -24,7 +24,7 @@ description_or_color: 680k
 description_or_color_upper: 680K
 directory: parts/electronic_resistor_1206_680000_ohm
 distributors: []
-filter: resistor
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
     index: 0

@@ -92,7 +92,7 @@
             "type": "signal"
         }
     },
-    "kicad_reference": "IC",
+    "kicad_reference": "BB",
     "notes": [],
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",

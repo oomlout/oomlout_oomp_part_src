@@ -105,7 +105,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | pins_pin_16_name | vmot | 
 | pins_pin_16_number | 16 | 
 | pins_pin_16_type | signal | 
-| kicad_reference | IC | 
+| kicad_reference | BB | 
 | notes | [] | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 

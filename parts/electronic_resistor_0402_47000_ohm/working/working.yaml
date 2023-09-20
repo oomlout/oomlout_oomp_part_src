@@ -24,7 +24,7 @@ description_or_color: 47k
 description_or_color_upper: 47K
 directory: parts/electronic_resistor_0402_47000_ohm
 distributors: []
-filter: resistor
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_47000_ohm/working
 id: electronic_resistor_0402_47000_ohm

@@ -24,7 +24,7 @@ description_or_color: 100k
 description_or_color_upper: 100K
 directory: parts/electronic_resistor_0603_100000_ohm
 distributors: []
-filter: resistor
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
     index: 0

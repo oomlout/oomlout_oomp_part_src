@@ -24,7 +24,7 @@ description_or_color: '15'
 description_or_color_upper: '15'
 directory: parts/electronic_resistor_0805_15_ohm
 distributors: []
-filter: resistor
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
     index: 0

@@ -27,7 +27,7 @@ def main():
     
 
     import action_copy_footprints_and_symbols
-    print("Copying footprints and symbols")
+    print("Copying footprints`   and symbols")
     action_copy_footprints_and_symbols.main()
 
     if not fast:

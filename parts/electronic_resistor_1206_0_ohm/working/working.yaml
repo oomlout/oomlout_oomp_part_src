@@ -28,7 +28,7 @@ distributors:
     link: https://lcsc.com/product-detail/C17888.html
     name: LCSC
     part_number: C17888
-filter: resistor
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod
     index: 0

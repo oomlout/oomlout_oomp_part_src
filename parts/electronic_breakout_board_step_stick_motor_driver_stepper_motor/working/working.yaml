@@ -35,7 +35,7 @@ id: electronic_breakout_board_step_stick_motor_driver_stepper_motor
 id_no_class: breakout_board_step_stick_motor_driver_stepper_motor
 id_no_size: motor_driver_stepper_motor
 id_no_type: step_stick_motor_driver_stepper_motor
-kicad_reference: IC
+kicad_reference: BB
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''

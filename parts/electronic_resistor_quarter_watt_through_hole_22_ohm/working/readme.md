@@ -41,7 +41,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| filter | resistor | 
+| filter |  | 
 | kicad_reference | R | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 

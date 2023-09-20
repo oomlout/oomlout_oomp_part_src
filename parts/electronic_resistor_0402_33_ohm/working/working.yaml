@@ -24,7 +24,7 @@ description_or_color: '33'
 description_or_color_upper: '33'
 directory: parts/electronic_resistor_0402_33_ohm
 distributors: []
-filter: resistor
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_33_ohm/working
 id: electronic_resistor_0402_33_ohm

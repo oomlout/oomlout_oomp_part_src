@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "resistor",
+    "filter": "",
     "kicad_reference": "R",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
