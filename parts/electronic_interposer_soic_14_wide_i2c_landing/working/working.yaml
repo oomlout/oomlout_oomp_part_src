@@ -32,11 +32,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm
     note: source footprint kicad_package_so_soic_14w_7_5x9mm_p1_27mm
     oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing
     note: oomp generated footprint
-    oomp_key: oomp_oomp_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working
 id: electronic_interposer_soic_14_wide_i2c_landing
 id_no_class: interposer_soic_14_wide_i2c_landing

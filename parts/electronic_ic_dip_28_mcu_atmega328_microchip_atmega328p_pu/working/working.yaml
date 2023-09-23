@@ -30,11 +30,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dip_dip_28_w7_62mm
     note: source footprint kicad_package_dip_dip_28_w7_62mm
     oomp_key: oomp_kicad_package_dip_dip_28_w7_62mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_id28mcuat328_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_id28mcuat328_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_id28mcuat328_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_id28mcuat328_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
     note: oomp generated footprint
-    oomp_key: oomp_oomp_id28mcuat328_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_id28mcuat328_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu/working
 id: electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 id_no_class: ic_dip_28_mcu_atmega328_microchip_atmega328p_pu

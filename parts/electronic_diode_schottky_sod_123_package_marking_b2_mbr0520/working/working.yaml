@@ -39,11 +39,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
     note: source footprint kicad_diode_smd_d_sod_123
     oomp_key: oomp_kicad_diode_smd_d_sod_123
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
     note: oomp generated footprint
-    oomp_key: oomp_oomp_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520/working
 id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520

@@ -31,11 +31,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric
     note: source footprint kicad_capacitor_smd_c_0402_1005metric
     oomp_key: oomp_kicad_capacitor_smd_c_0402_1005metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_c4nf10_electronic_capacitor_0402_10_nano_farad//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c4nf10_electronic_capacitor_0402_10_nano_farad//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_c4nf10_electronic_capacitor_0402_10_nano_farad
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c4nf10_electronic_capacitor_0402_10_nano_farad
     note: oomp generated footprint
-    oomp_key: oomp_oomp_c4nf10_electronic_capacitor_0402_10_nano_farad
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c4nf10_electronic_capacitor_0402_10_nano_farad
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working
 id: electronic_capacitor_0402_10_nano_farad

@@ -23,6 +23,15 @@
 oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple  
 link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple/working  
 
+## footprint
+
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple/working  
+
+![](footprint/{index}/working/working_600.png)  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle/working  
 
 ## full_summary
 | name | value | 
@@ -102,4 +111,5 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlo
 | description_or_color_upper | I  | 
 | markdown_full | [electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br>[hob3thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br>[Electronic Header Oobb I2C Triple Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle/working)<br><br> | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple', 'oomp_key': 'oomp_oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple//working/working.kicad_mod', 'note': 'source footprint oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple', 'directory': 'oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_triple//working/working.kicad_sym', 'index': 0}] | 

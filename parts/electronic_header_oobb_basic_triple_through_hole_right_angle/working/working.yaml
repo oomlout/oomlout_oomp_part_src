@@ -24,6 +24,17 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/electronic_header_oobb_basic_triple_through_hole_right_angle
 distributors: []
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_triple//working/working.kicad_mod
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_triple
+    note: source footprint oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_triple
+    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_triple
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle
+    note: oomp generated footprint
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle/working
 id: electronic_header_oobb_basic_triple_through_hole_right_angle
 id_no_class: header_oobb_basic_triple_through_hole_right_angle

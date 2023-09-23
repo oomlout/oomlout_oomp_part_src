@@ -2,7 +2,7 @@
 
 The official Raspberry Pi breakout for the 2040  
 * oomp_key: oomp_electronic_breakout_board_pico_mcu_raspberry_pi_2040 
-* short_code: bbmcu
+* short_code: bbpcmcurp2040
 * md5_6: e8459f  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working  
 ## naming details
@@ -68,8 +68,8 @@ oomp_key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040/working  
 
 ## full_summary
 | name | value | 
@@ -250,8 +250,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_class | Breakout Board Pico Mcu Raspberry Pi 2040 | 
 | name_no_type | Pico Mcu Raspberry Pi 2040 | 
 | name_no_size | Mcu Raspberry Pi 2040 | 
-| short_code | bbmcu | 
-| short_code_upper | BBMCU | 
+| short_code | bbpcmcurp2040 | 
+| short_code_upper | BBPCMCURP2040 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | e8459fd0a3aa74894f590159218d613d | 
@@ -270,6 +270,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | Mcu Raspberry Pi 2k | 
 | description_or_color | M2k | 
 | description_or_color_upper | M2K | 
-| markdown_full | [electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[bbmcu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[Electronic Breakout Board Pico Mcu Raspberry Pi 2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br> | 
+| markdown_full | [electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[bbpcmcurp2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[Electronic Breakout Board Pico Mcu Raspberry Pi 2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'oomp_key': 'oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'directory': 'oomlout_oomp_footprint_bot/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th//working/working.kicad_mod', 'note': 'source footprint akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040', 'oomp_key': 'oomp_oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'oomp_key': 'oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'directory': 'oomlout_oomp_footprint_bot/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th//working/working.kicad_mod', 'note': 'source footprint akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 

@@ -2,7 +2,7 @@
 
 A popular arduino compatible atmega328 board from aliexpress  
 * oomp_key: oomp_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible 
-* short_code: bbmcu
+* short_code: bbshmcu328ac
 * md5_6: a5af1f  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working  
 ## naming details
@@ -63,8 +63,8 @@ oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_module_arduino_nano_withmountingholes/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_bbshmcu328ac_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_bbshmcu328ac_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working  
 
 ## full_summary
 | name | value | 
@@ -215,8 +215,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_class | Breakout Board Shennie Mcu Atmega328P Arduino Compatible | 
 | name_no_type | Shennie Mcu Atmega328P Arduino Compatible | 
 | name_no_size | Mcu Atmega328P Arduino Compatible | 
-| short_code | bbmcu | 
-| short_code_upper | BBMCU | 
+| short_code | bbshmcu328ac | 
+| short_code_upper | BBSHMCU328AC | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | a5af1f0cbe5a1054334e42dd5ece231c | 
@@ -235,7 +235,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | Mcu Atmega328P Arduino Compatible | 
 | description_or_color | M328 | 
 | description_or_color_upper | M328 | 
-| markdown_full | [electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br>[bbmcu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br>[Electronic Breakout Board Shennie Mcu Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br><br> | 
+| markdown_full | [electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br>[bbshmcu328ac](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br>[Electronic Breakout Board Shennie Mcu Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes', 'oomp_key': 'oomp_kicad_module_arduino_nano_withmountingholes', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod', 'note': 'source footprint kicad_module_arduino_nano_withmountingholes', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible', 'oomp_key': 'oomp_oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes', 'oomp_key': 'oomp_kicad_module_arduino_nano_withmountingholes', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod', 'note': 'source footprint kicad_module_arduino_nano_withmountingholes', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbshmcu328ac_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_bbshmcu328ac_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbshmcu328ac_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x', 'oomp_key': 'oomp_kicad_mcu_module_arduino_nano_v2_x', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_module_arduino_nano_v2_x//working/working.kicad_sym', 'index': 0}] | 

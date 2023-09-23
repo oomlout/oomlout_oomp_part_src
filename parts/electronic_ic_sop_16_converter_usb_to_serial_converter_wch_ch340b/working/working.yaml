@@ -34,11 +34,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
     note: source footprint kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
     oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_isp16ch340b_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_isp16ch340b_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_isp16ch340b_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_isp16ch340b_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
     note: oomp generated footprint
-    oomp_key: oomp_oomp_isp16ch340b_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_isp16ch340b_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b/working
 id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
 id_no_class: ic_sop_16_converter_usb_to_serial_converter_wch_ch340b

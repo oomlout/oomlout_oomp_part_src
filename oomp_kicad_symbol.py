@@ -185,16 +185,15 @@ def get_symbols(**kwargs):
     
     # oobb
     types = ["basic","i2c"]
-    multiples = ["single","double","triple"]
-    
-    for type in types:
+    multiples = ["single","double","triple"]    
+    for typ in types:
         for multiple in multiples:
             match = {}
             match["type"] = "header"
             match["size"] = "oobb"
-            match["color"] = type
+            match["color"] = typ
             match["description_main"] = multiple
-            match["symbol_name"] = f"oomlout_oomlout_oomp_part_templates_oobb_connector_{type}_{multiple}"
+            match["symbol_name"] = f"oomlout_oomlout_oomp_part_templates_oobb_connector_{typ}_{multiple}"
             matches.append(match)
     
 

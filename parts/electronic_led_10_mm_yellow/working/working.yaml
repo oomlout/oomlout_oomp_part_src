@@ -31,11 +31,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
     note: source footprint kicad_led_tht_led_d10_0mm
     oomp_key: oomp_kicad_led_tht_led_d10_0mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_l10y_electronic_led_10_mm_yellow//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l10y_electronic_led_10_mm_yellow//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_l10y_electronic_led_10_mm_yellow
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l10y_electronic_led_10_mm_yellow
     note: oomp generated footprint
-    oomp_key: oomp_oomp_l10y_electronic_led_10_mm_yellow
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10y_electronic_led_10_mm_yellow
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow/working
 id: electronic_led_10_mm_yellow

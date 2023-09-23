@@ -31,11 +31,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/christianlerche_lerchetech_lerche_pololu_a4988
     note: source footprint christianlerche_lerchetech_lerche_pololu_a4988
     oomp_key: oomp_christianlerche_lerchetech_lerche_pololu_a4988
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_bbmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_bbmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor
     note: oomp generated footprint
-    oomp_key: oomp_oomp_bbmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working
 id: electronic_breakout_board_step_stick_motor_driver_stepper_motor
 id_no_class: breakout_board_step_stick_motor_driver_stepper_motor
@@ -48,7 +48,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic
+markdown_full: '[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbssmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic
     Breakout Board Step Stick Motor Driver Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br>'
 markdown_short: '[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br>'
 md5: 6c94dab5276260f88ab0eabadd66118c
@@ -137,8 +137,8 @@ pins:
         name: gnd
         number: '9'
         type: signal
-short_code: bbmdsm
-short_code_upper: BBMDSM
+short_code: bbssmdsm
+short_code_upper: BBSSMDSM
 short_name: ''
 size: step_stick
 size_capital: Step Stick

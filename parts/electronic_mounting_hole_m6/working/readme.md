@@ -30,8 +30,8 @@ oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_mountinghole_mountinghole_6_4mm_m6/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_mhm6_electronic_mounting_hole_m6  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_mhm6_electronic_mounting_hole_m6/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6/working  
 
 ## full_summary
 | name | value | 
@@ -113,5 +113,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper |   | 
 | markdown_full | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[mhm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[Electronic Mounting Hole M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> | 
 | markdown_short | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_6_4mm_m6', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod', 'note': 'source footprint kicad_mountinghole_mountinghole_6_4mm_m6', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_mhm6_electronic_mounting_hole_m6', 'oomp_key': 'oomp_oomp_mhm6_electronic_mounting_hole_m6', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_mhm6_electronic_mounting_hole_m6//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_6_4mm_m6', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod', 'note': 'source footprint kicad_mountinghole_mountinghole_6_4mm_m6', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole', 'oomp_key': 'oomp_kicad_mechanical_mountinghole', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym', 'index': 0}] | 

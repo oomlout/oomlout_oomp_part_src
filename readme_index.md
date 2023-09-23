@@ -2,19 +2,19 @@
 ## breakout_board   
 ### shennie   
 #### mcu   
-[bbmcu - oomp_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)   
+[bbshmcu328ac - oomp_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)   
 ### pro_mini   
 #### mcu   
-[bbmcu - oomp_electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)   
+[bbpmmcu328ac - oomp_electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)   
 ### devkitc   
 #### mcu   
-[bbmcu - oomp_electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)   
+[bbdcmcue32 - oomp_electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)   
 ### pico   
 #### mcu   
-[bbmcu - oomp_electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)   
+[bbpcmcurp2040 - oomp_electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)   
 ### step_stick   
 #### motor_driver   
-[bbmdsm - oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)   
+[bbssmdsm - oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)   
 ## button   
 ### 3_5_mm_x_6_mm_x_2_5_mm   
 #### surface_mount   

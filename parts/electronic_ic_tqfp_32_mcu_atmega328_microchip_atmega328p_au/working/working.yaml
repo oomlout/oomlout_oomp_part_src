@@ -38,11 +38,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
     note: source footprint kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
     oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     note: oomp generated footprint
-    oomp_key: oomp_oomp_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au/working
 id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 id_no_class: ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au

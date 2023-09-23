@@ -379,13 +379,14 @@ def get_footprints(**kwargs):
 
     # oobb
     
-    match = {}
-    match["classification"] = "electronic"
-    match["type"] = "header"
-    match["size"] = "oobb"
-    match["description_main"] = "single"
-    match["footprint_name"] = f"oomlout_oomp_footprint_templates_zzzz"
-    matches.append(match)
+    styles = ["basic","i2c"]
+    types = ["single","double","triple"]
+    for sty in styles:
+        for typ in types:
+            match = {}
+            match["id"] = f"electronic_header_oobb_{sty}_{typ}_through_hole_right_angle"
+            match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_{sty}_connector_basic_{typ}"
+            matches.append(match)
 
     ###### sod
     match = {}
@@ -494,7 +495,7 @@ def get_footprints(**kwargs):
             #add oomp footprint
             id = kwargs.get("id", "")
             short_code = kwargs.get("short_code", "")
-            footprint_name = f"oomp_{short_code}_{id}"
+            footprint_name = f"oomlout_oomlout_oomp_part_footprints_{short_code}_{id}"
             match["footprint"].append({"link": f"{github_footprint_base}/{footprint_name}", 
                             "oomp_key": f"oomp_{footprint_name}",                                 
                             "directory": f"{directory_footprint_base}/{footprint_name}/{directory_footprint_end}",

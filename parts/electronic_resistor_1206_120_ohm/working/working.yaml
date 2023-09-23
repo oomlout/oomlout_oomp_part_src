@@ -31,11 +31,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric
     note: source footprint kicad_resistor_smd_r_1206_3216metric
     oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_r12o121_electronic_resistor_1206_120_ohm//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r12o121_electronic_resistor_1206_120_ohm//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_r12o121_electronic_resistor_1206_120_ohm
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r12o121_electronic_resistor_1206_120_ohm
     note: oomp generated footprint
-    oomp_key: oomp_oomp_r12o121_electronic_resistor_1206_120_ohm
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o121_electronic_resistor_1206_120_ohm
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm/working
 id: electronic_resistor_1206_120_ohm

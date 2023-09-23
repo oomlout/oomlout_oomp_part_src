@@ -146,6 +146,9 @@ def get_matches(**kwargs):
     # led
     matches.append({"id":"electronic_led_0603_red",
                   "part_number": "C965799"})
+    matches.append({"id":"electronic_led_0603_red",
+                  "part_number": "C2286",
+                  "note": "jlc basic cheapest"})
     matches.append({"id":"electronic_led_0603_green",
                   "part_number": "C965804"})
     matches.append({"id":"electronic_led_0603_blue",

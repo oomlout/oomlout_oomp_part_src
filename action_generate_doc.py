@@ -73,6 +73,8 @@ def main(**kwargs):
                 pass
                 #print(f"Warning: {src} doesn't exist")
         pass
+    import oom_git
+    oom_git.push(repo_directory = "c:/gh/oomlout_oomp_part_doc_v_2")
 
 
 

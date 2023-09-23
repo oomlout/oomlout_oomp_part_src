@@ -34,11 +34,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     note: source footprint kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
     note: oomp generated footprint
-    oomp_key: oomp_oomp_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working
 id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
 id_no_class: button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount

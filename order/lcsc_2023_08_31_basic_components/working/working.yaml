@@ -98,8 +98,8 @@ parts_ordered_oomp_markdown: "| index | oomp_id | quantity | part_number_distrib
   \ | $0.54 | \n| 5 | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC\
   \ - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts\
   \ Elec - U-M-M5SS-W-2]() | 5 | C14663 | $0.12 | \n| 6 | [electronic_led_0603_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_red/working)<br>[LCSC\
-  \ - C965799<br>](https://lcsc.com/product-detail/C965799.html)<br>[XINGLIGHT - XL-1608SURC-06]()\
-  \ | 4000 | C965799 | $0.0018 | \n| 7 | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[LCSC\
+  \ - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT\
+  \ - XL-1608SURC-06]() | 4000 | C965799 | $0.0018 | \n| 7 | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue/working)<br>[LCSC\
   \ - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04]()\
   \ | 100 | C965807 | $0.0037 | \n| 8 | [electronic_led_0603_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green/working)<br>[LCSC\
   \ - C965804<br>](https://lcsc.com/product-detail/C965804.html)<br>[XINGLIGHT - XL-1608UGC-04]()\

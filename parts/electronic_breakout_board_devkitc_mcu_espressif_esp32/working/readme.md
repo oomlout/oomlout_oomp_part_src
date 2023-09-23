@@ -2,7 +2,7 @@
 
 Devkitc pinout version of espresif esp32 breakout.  
 * oomp_key: oomp_electronic_breakout_board_devkitc_mcu_espressif_esp32 
-* short_code: bbmcu
+* short_code: bbdcmcue32
 * md5_6: 16e38d  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working  
 ## naming details
@@ -66,8 +66,8 @@ oomp_key: oomp_espressif_espressif_esp32_devkitc
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/espressif_espressif_esp32_devkitc/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_bbdcmcue32_electronic_breakout_board_devkitc_mcu_espressif_esp32  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_bbdcmcue32_electronic_breakout_board_devkitc_mcu_espressif_esp32/working  
 
 ## full_summary
 | name | value | 
@@ -242,8 +242,8 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_class | Breakout Board Devkitc Mcu Espressif Esp32 | 
 | name_no_type | Devkitc Mcu Espressif Esp32 | 
 | name_no_size | Mcu Espressif Esp32 | 
-| short_code | bbmcu | 
-| short_code_upper | BBMCU | 
+| short_code | bbdcmcue32 | 
+| short_code_upper | BBDCMCUE32 | 
 | distributors | [] | 
 | manufacturers | [] | 
 | md5 | 16e38de8e43dbbc4ca41fdb138d053ac | 
@@ -262,6 +262,6 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | Mcu Espressif Esp32 | 
 | description_or_color | M32 | 
 | description_or_color_upper | M32 | 
-| markdown_full | [electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br>[bbmcu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br>[Electronic Breakout Board Devkitc Mcu Espressif Esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br><br> | 
+| markdown_full | [electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br>[bbdcmcue32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br>[Electronic Breakout Board Devkitc Mcu Espressif Esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br><br> | 
 | markdown_short | [electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/espressif_espressif_esp32_devkitc', 'oomp_key': 'oomp_espressif_espressif_esp32_devkitc', 'directory': 'oomlout_oomp_footprint_bot/footprints/espressif_espressif_esp32_devkitc//working/working.kicad_mod', 'note': 'source footprint espressif_espressif_esp32_devkitc', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32', 'oomp_key': 'oomp_oomp_bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/espressif_espressif_esp32_devkitc', 'oomp_key': 'oomp_espressif_espressif_esp32_devkitc', 'directory': 'oomlout_oomp_footprint_bot/footprints/espressif_espressif_esp32_devkitc//working/working.kicad_mod', 'note': 'source footprint espressif_espressif_esp32_devkitc', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbdcmcue32_electronic_breakout_board_devkitc_mcu_espressif_esp32', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_bbdcmcue32_electronic_breakout_board_devkitc_mcu_espressif_esp32', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbdcmcue32_electronic_breakout_board_devkitc_mcu_espressif_esp32//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 

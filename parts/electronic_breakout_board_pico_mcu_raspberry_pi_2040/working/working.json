@@ -257,8 +257,8 @@
     "name_no_class": "Breakout Board Pico Mcu Raspberry Pi 2040",
     "name_no_type": "Pico Mcu Raspberry Pi 2040",
     "name_no_size": "Mcu Raspberry Pi 2040",
-    "short_code": "bbmcu",
-    "short_code_upper": "BBMCU",
+    "short_code": "bbpcmcurp2040",
+    "short_code_upper": "BBPCMCURP2040",
     "distributors": [],
     "manufacturers": [],
     "md5": "e8459fd0a3aa74894f590159218d613d",
@@ -277,6 +277,6 @@
     "name_no_size_short": "Mcu Raspberry Pi 2k",
     "description_or_color": "M2k",
     "description_or_color_upper": "M2K",
-    "markdown_full": "[electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[bbmcu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[Electronic Breakout Board Pico Mcu Raspberry Pi 2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br>",
+    "markdown_full": "[electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[bbpcmcurp2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br>[Electronic Breakout Board Pico Mcu Raspberry Pi 2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br>",
     "markdown_short": "[electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br>"
 }

@@ -30,8 +30,8 @@ oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_capacitor_smd_c_0603_1608metric/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_c6uf10_electronic_capacitor_0603_10_micro_farad  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_c6uf10_electronic_capacitor_0603_10_micro_farad/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad/working  
 
 ## full_summary
 | name | value | 
@@ -116,5 +116,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | 10UF | 
 | markdown_full | [electronic_capacitor_0603_10_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br>[c6uf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br>[Electronic Capacitor 0603 10 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br><br> | 
 | markdown_short | [electronic_capacitor_0603_10_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'note': 'source footprint kicad_capacitor_smd_c_0603_1608metric', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_c6uf10_electronic_capacitor_0603_10_micro_farad', 'oomp_key': 'oomp_oomp_c6uf10_electronic_capacitor_0603_10_micro_farad', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_c6uf10_electronic_capacitor_0603_10_micro_farad//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'note': 'source footprint kicad_capacitor_smd_c_0603_1608metric', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym', 'index': 0}] | 

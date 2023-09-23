@@ -7,7 +7,7 @@ import oom_kicad
 def main():
 
     git_commit = False
-    #git_commit = True
+    git_commit = True
 
     oomp.load_parts(from_pickle=True)   
     

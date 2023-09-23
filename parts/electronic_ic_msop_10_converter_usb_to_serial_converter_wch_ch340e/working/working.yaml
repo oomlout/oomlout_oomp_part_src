@@ -34,11 +34,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
     note: source footprint kicad_package_so_msop_10_3x3mm_p0_5mm
     oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_imsp10ch340e_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_imsp10ch340e_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_imsp10ch340e_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_imsp10ch340e_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
     note: oomp generated footprint
-    oomp_key: oomp_oomp_imsp10ch340e_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_imsp10ch340e_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e/working
 id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
 id_no_class: ic_msop_10_converter_usb_to_serial_converter_wch_ch340e

@@ -37,7 +37,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br>[bbmcu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br>[Electronic
+markdown_full: '[electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br>[bbpmmcu328ac](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br>[Electronic
     Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br><br>'
 markdown_short: '[electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br><br>'
 md5: 42ad02af84350acebe9c36ed66484b92
@@ -198,8 +198,8 @@ pins:
         name: d6
         number: '9'
         type: signal
-short_code: bbmcu
-short_code_upper: BBMCU
+short_code: bbpmmcu328ac
+short_code_upper: BBPMMCU328AC
 short_name: ''
 size: pro_mini
 size_capital: Pro Mini

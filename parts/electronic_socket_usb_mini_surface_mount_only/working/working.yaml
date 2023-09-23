@@ -34,11 +34,11 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
     note: source footprint kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
     oomp_key: oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
--   directory: oomlout_oomp_footprint_bot/footprints/oomp_scumnsmo_electronic_socket_usb_mini_surface_mount_only//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only//working/working.kicad_mod
     index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_scumnsmo_electronic_socket_usb_mini_surface_mount_only
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only
     note: oomp generated footprint
-    oomp_key: oomp_oomp_scumnsmo_electronic_socket_usb_mini_surface_mount_only
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working
 id: electronic_socket_usb_mini_surface_mount_only
 id_no_class: socket_usb_mini_surface_mount_only

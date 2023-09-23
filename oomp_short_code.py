@@ -32,6 +32,13 @@ def get_short_code(**kwargs):
     replace_dict["size"] = {}
     # size
 
+    #      breakout_boards
+    replace_dict["size"]["shennie"] = "sh"
+    replace_dict["size"]["pro_mini"] = "pm"
+    replace_dict["size"]["devkitc"] = "dc"
+    replace_dict["size"]["pico"] = "pc"
+    replace_dict["size"]["step_stick"] = "ss"
+
     #      button and switch
     replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
     replace_dict["size"]["2_8_mm_x_8_mm_x_1_4_mm"] = "2880"
@@ -166,6 +173,9 @@ def get_short_code(**kwargs):
     
     #      breakout boards
     replace_dict["description_main"]["stepper_motor"] = "sm"
+    replace_dict["description_main"]["raspberry_pi_2040"] = "rp2040"
+    replace_dict["description_main"]["espressif_esp32"] = "e32"
+    replace_dict["description_main"]["atmega328p"] = "328"
 
     #      button and switch
     replace_dict["description_main"]["single_pole_single_throw"] = "spst"
@@ -253,8 +263,8 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"] = {}
 
     #      breakout boards
-    replace_dict["description_extra"]["shennie"] = "sh"
     replace_dict["description_extra"]["step_stick"] = "ss"
+    replace_dict["description_extra"]["arduino_compatible"] = "ac"
 
     #      capacitor
     replace_dict["description_extra"]["4_volt"] = "v4"

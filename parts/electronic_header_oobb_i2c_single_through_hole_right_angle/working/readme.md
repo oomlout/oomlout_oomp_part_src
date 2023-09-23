@@ -26,12 +26,12 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlo
 ## footprint
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomlout_oomp_footprint_templates_zzzz  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomp_footprint_templates_zzzz/working  
+oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_single  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_single/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle/working  
 
 ## full_summary
 | name | value | 
@@ -111,5 +111,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | I  | 
 | markdown_full | [electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br>[Electronic Header Oobb I2C Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br><br> | 
 | markdown_short | [electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomp_footprint_templates_zzzz', 'oomp_key': 'oomp_oomlout_oomp_footprint_templates_zzzz', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomp_footprint_templates_zzzz//working/working.kicad_mod', 'note': 'source footprint oomlout_oomp_footprint_templates_zzzz', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle', 'oomp_key': 'oomp_oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_single', 'oomp_key': 'oomp_oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_single', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_single//working/working.kicad_mod', 'note': 'source footprint oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_single', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob1thra_electronic_header_oobb_i2c_single_through_hole_right_angle//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_single', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_single', 'directory': 'oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_single//working/working.kicad_sym', 'index': 0}] | 

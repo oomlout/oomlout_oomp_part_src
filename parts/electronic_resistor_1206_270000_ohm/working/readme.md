@@ -30,8 +30,8 @@ oomp_key: oomp_kicad_resistor_smd_r_1206_3216metric
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_resistor_smd_r_1206_3216metric/working  
 
 ![](footprint/{index}/working/working_600.png)  
-oomp_key: oomp_oomp_r12o274_electronic_resistor_1206_270000_ohm  
-link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomp_r12o274_electronic_resistor_1206_270000_ohm/working  
+oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o274_electronic_resistor_1206_270000_ohm  
+link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_r12o274_electronic_resistor_1206_270000_ohm/working  
 
 ## full_summary
 | name | value | 
@@ -116,5 +116,5 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | 270K | 
 | markdown_full | [electronic_resistor_1206_270000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br>[r12o274](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br>[Electronic Resistor 1206 270000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br><br> | 
 | markdown_short | [electronic_resistor_1206_270000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br><br> | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod', 'note': 'source footprint kicad_resistor_smd_r_1206_3216metric', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomp_r12o274_electronic_resistor_1206_270000_ohm', 'oomp_key': 'oomp_oomp_r12o274_electronic_resistor_1206_270000_ohm', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomp_r12o274_electronic_resistor_1206_270000_ohm//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod', 'note': 'source footprint kicad_resistor_smd_r_1206_3216metric', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r12o274_electronic_resistor_1206_270000_ohm', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_r12o274_electronic_resistor_1206_270000_ohm', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r12o274_electronic_resistor_1206_270000_ohm//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0}] | 
