@@ -7,9 +7,23 @@ def main():
     #filter = "electronic_capacitor_0603_100_nano_farad"
     #filter = "electronic_led_0603_yellow"
     #filter = "resistor"
+
+
+    repos = []
+    repos.append("https://github.com/oomlout/oomlout_oomp_footprint_bot")
+    repos.append("https://github.com/oomlout/oomlout_oomp_project_bot")
+    repos.append("https://github.com/oomlout/oomlout_oomp_symbol_bot")
+
+    for repo in repos:
+        directory = "tmp/"
+        oom_git.clone(repo=repo, directory=directory)
+
+
     filter = ""
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
+
+
 
     #oom_git.push_to_git(comment=comment)
 
