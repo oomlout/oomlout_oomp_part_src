@@ -3,7 +3,7 @@
   
 oomp key: oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th  
   
-source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/USB_MicroB_PowerOnly.kicad_mod)  
+source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod](http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/USB_MicroB_PowerOnly.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
 | footprint name | RaspberryPiPico_SMD_TH | 
 | footprint description | Through hole straight pin header, 2x20, 2.54mm pitch, double rows | 
 | number of pads | 96 | 
-| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/RaspberryPiPico_SMD_TH.kicad_mod | 
+| github path | http://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty/blob/master/tmp/data/oomlout_oomp_footprint_src/RaspberryPiPico_SMD_TH.kicad_mod | 
 | oomp key | oomp_akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/akiyukiokayasu_kicad_akiyuki_footprint_raspberrypipico_smd_th/working | 
 ## Images  
   
 [![working.png](working_140.png)](working.png)  

@@ -25,11 +25,11 @@ description_or_color_upper: 'I '
 directory: parts/electronic_header_oobb_i2c_triple_through_hole_right_angle
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_i2c_oobb_connector_basic_triple//working/working.kicad_mod
     index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple
-    note: source footprint oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple
-    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_i2c_connector_basic_triple
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_i2c_oobb_connector_basic_triple
+    note: source footprint oomlout_oomlout_oomp_footprint_templates_i2c_oobb_connector_basic_triple
+    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_i2c_oobb_connector_basic_triple
 -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle//working/working.kicad_mod
     index: 1
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle

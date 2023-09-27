@@ -15,6 +15,10 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C2337](https://lcsc.com/product-detail/C2337.html)   
+* [LCSC - C2883695](https://lcsc.com/product-detail/C2883695.html)   
+* [LCSC - C124358](https://lcsc.com/product-detail/C124358.html)   
 
 
 ## symbol
@@ -36,7 +40,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra | through_hole_right_angle | 
 | manufacturer |  | 
 | part_number |  | 
-| kicad_reference | J | 
+| kicad_reference | CONN | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -82,7 +86,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size | 19 Pin Through Hole Right Angle | 
 | short_code | hi119pthra | 
 | short_code_upper | HI119PTHRA | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2337', 'link': 'https://lcsc.com/product-detail/C2337.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C2883695', 'link': 'https://lcsc.com/product-detail/C2883695.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C124358', 'link': 'https://lcsc.com/product-detail/C124358.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 21c3517d9359e49338ba0c700f623bcc | 
 | md5_5 | 21c35 | 
@@ -100,6 +104,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size_short | 19 Pin Through Hole Right Angle | 
 | description_or_color | 19 | 
 | description_or_color_upper | 19 | 
-| markdown_full | [electronic_header_2_54_mm_19_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br>[hi119pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 19 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br><br> | 
-| markdown_short | [electronic_header_2_54_mm_19_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_19_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br>[hi119pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 19 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br> | 
+| markdown_short | [electronic_header_2_54_mm_19_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x19_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x19_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x19_pin//working/working.kicad_sym', 'index': 0}] | 

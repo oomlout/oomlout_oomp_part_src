@@ -45,7 +45,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra | through_hole | 
 | manufacturer |  | 
 | part_number |  | 
-| kicad_reference | J | 
+| kicad_reference | CONN | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 

@@ -8,7 +8,7 @@
     "manufacturer": "",
     "part_number": "",
     "make_files": true,
-    "kicad_reference": "J",
+    "kicad_reference": "CONN",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
     "classification_first_letter": "e",
@@ -54,7 +54,20 @@
     "name_no_size": "30 Pin Surface Mount Right Angle",
     "short_code": "hi130psmra",
     "short_code_upper": "HI130PSMRA",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C917606",
+            "link": "https://lcsc.com/product-detail/C917606.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C917645",
+            "link": "https://lcsc.com/product-detail/C917645.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "acf8557c8125aa362899087e1394bded",
     "md5_5": "acf85",
@@ -72,6 +85,6 @@
     "name_no_size_short": "30 Pin Surface Mount Right Angle",
     "description_or_color": "30",
     "description_or_color_upper": "30",
-    "markdown_full": "[electronic_header_2_54_mm_30_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br>[hi130psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 30 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_30_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_30_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br>[hi130psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 30 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_30_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
 }

@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C917606](https://lcsc.com/product-detail/C917606.html)   
+* [LCSC - C917645](https://lcsc.com/product-detail/C917645.html)   
 
 
 ## symbol
@@ -45,7 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra | surface_mount_right_angle | 
 | manufacturer |  | 
 | part_number |  | 
-| kicad_reference | J | 
+| kicad_reference | CONN | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -91,7 +94,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size | 15 Pin Surface Mount Right Angle | 
 | short_code | hi115psmra | 
 | short_code_upper | HI115PSMRA | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C917606', 'link': 'https://lcsc.com/product-detail/C917606.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C917645', 'link': 'https://lcsc.com/product-detail/C917645.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 6b854ff4e8d2499a1950b8626d4760a6 | 
 | md5_5 | 6b854 | 
@@ -109,7 +112,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | 15 Pin Surface Mount Right Angle | 
 | description_or_color | 15 | 
 | description_or_color_upper | 15 | 
-| markdown_full | [electronic_header_2_54_mm_15_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br>[hi115psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 15 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br><br> | 
-| markdown_short | [electronic_header_2_54_mm_15_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_15_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br>[hi115psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 15 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
+| markdown_short | [electronic_header_2_54_mm_15_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal//working/working.kicad_mod', 'note': 'source footprint kicad_connector_harwin_harwin_m20_89015xx_1x15_p2_54mm_horizontal', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi115psmra_electronic_header_2_54_mm_15_pin_surface_mount_right_angle', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_hi115psmra_electronic_header_2_54_mm_15_pin_surface_mount_right_angle', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi115psmra_electronic_header_2_54_mm_15_pin_surface_mount_right_angle//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x15_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x15_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x15_pin//working/working.kicad_sym', 'index': 0}] | 

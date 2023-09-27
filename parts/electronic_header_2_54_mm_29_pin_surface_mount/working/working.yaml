@@ -23,7 +23,11 @@ description_only_numbers_short: '29'
 description_or_color: '29'
 description_or_color_upper: '29'
 directory: parts/electronic_header_2_54_mm_29_pin_surface_mount
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C917645.html
+    name: LCSC
+    part_number: C917645
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x29_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
     index: 0
@@ -40,7 +44,7 @@ id: electronic_header_2_54_mm_29_pin_surface_mount
 id_no_class: header_2_54_mm_29_pin_surface_mount
 id_no_size: 29_pin_surface_mount
 id_no_type: 2_54_mm_29_pin_surface_mount
-kicad_reference: J
+kicad_reference: CONN
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -48,8 +52,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[hi129psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[Electronic
-    Header 2 54 Mm 29 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br><br>'
+    Header 2 54 Mm 29 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[LCSC
+    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[LCSC
+    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: 0f3b53e2cce77aa13df4b183ece919c2
 md5_10: 0f3b53e2cc
 md5_10_upper: 0F3B53E2CC

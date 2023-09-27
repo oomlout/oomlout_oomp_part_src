@@ -23,7 +23,15 @@ description_only_numbers_short: '15'
 description_or_color: '15'
 description_or_color_upper: '15'
 directory: parts/electronic_header_2_54_mm_15_pin_through_hole
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2337.html
+    name: LCSC
+    part_number: C2337
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2883695.html
+    name: LCSC
+    part_number: C2883695
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x15_p2_54mm_vertical//working/working.kicad_mod
     index: 0
@@ -40,7 +48,7 @@ id: electronic_header_2_54_mm_15_pin_through_hole
 id_no_class: header_2_54_mm_15_pin_through_hole
 id_no_size: 15_pin_through_hole
 id_no_type: 2_54_mm_15_pin_through_hole
-kicad_reference: J
+kicad_reference: CONN
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -48,8 +56,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_15_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working)<br>[hi115pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working)<br>[Electronic
-    Header 2 54 Mm 15 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_15_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working)<br><br>'
+    Header 2 54 Mm 15 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_15_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
 md5: 0b5cb7ba5403dcfa51b1952b6db045e8
 md5_10: 0b5cb7ba54
 md5_10_upper: 0B5CB7BA54

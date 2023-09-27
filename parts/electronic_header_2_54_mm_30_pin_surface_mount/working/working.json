@@ -8,7 +8,7 @@
     "manufacturer": "",
     "part_number": "",
     "make_files": true,
-    "kicad_reference": "J",
+    "kicad_reference": "CONN",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
     "classification_first_letter": "e",
@@ -54,7 +54,14 @@
     "name_no_size": "30 Pin Surface Mount",
     "short_code": "hi130psm",
     "short_code_upper": "HI130PSM",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C917645",
+            "link": "https://lcsc.com/product-detail/C917645.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "fa6dcdd212455fec740d877455d77c22",
     "md5_5": "fa6dc",
@@ -72,6 +79,6 @@
     "name_no_size_short": "30 Pin Surface Mount",
     "description_or_color": "30",
     "description_or_color_upper": "30",
-    "markdown_full": "[electronic_header_2_54_mm_30_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br>[hi130psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 30 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_30_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_30_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br>[hi130psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 30 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_30_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount/working)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
 }

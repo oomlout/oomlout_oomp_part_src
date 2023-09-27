@@ -8,7 +8,7 @@
     "manufacturer": "",
     "part_number": "",
     "make_files": true,
-    "kicad_reference": "J",
+    "kicad_reference": "CONN",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
     "classification_first_letter": "e",
@@ -54,7 +54,26 @@
     "name_no_size": "27 Pin Through Hole Right Angle",
     "short_code": "hi127pthra",
     "short_code_upper": "HI127PTHRA",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C2337",
+            "link": "https://lcsc.com/product-detail/C2337.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C2883695",
+            "link": "https://lcsc.com/product-detail/C2883695.html",
+            "id": "distributor_lcsc"
+        },
+        {
+            "name": "LCSC",
+            "part_number": "C124358",
+            "link": "https://lcsc.com/product-detail/C124358.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "46a451f2b42e7ba1fc79aba0e6b45a71",
     "md5_5": "46a45",
@@ -72,6 +91,6 @@
     "name_no_size_short": "27 Pin Through Hole Right Angle",
     "description_or_color": "27",
     "description_or_color_upper": "27",
-    "markdown_full": "[electronic_header_2_54_mm_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br>[hi127pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 27 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br>[hi127pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 27 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>"
 }

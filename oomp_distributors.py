@@ -64,32 +64,37 @@ def get_matches(**kwargs):
     matches.append({"id":"electronic_header_1d27_mm_6_pin",
                     "part_number": "C2935946"})
     
-    #      2d54 
+    #      2_54 
     #            single row
     for pin_count in range(2, 41):
-        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2_54_mm_{pin_count}_pin_through_hole",
                         "part_number": "C2337"})
-        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2_54_mm_{pin_count}_pin_through_hole",
                         "part_number": "C2883695"})
-        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin_right_angle",
+        matches.append({"id":f"electronic_header_2_54_mm_{pin_count}_pin_through_hole_right_angle",
                         "part_number": "C124358"})
-        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin_surface_mount_right_angle",
+        matches.append({"id":f"electronic_header_2_54_mm_{pin_count}_pin_surface_mount_right_angle",
                         "part_number": "C917606"})
-        matches.append({"id":f"electronic_header_2d54_mm_{pin_count}_pin_surface_mount",
+        matches.append({"id":f"electronic_header_2_54_mm_{pin_count}_pin_surface_mount",
                         "part_number": "C917645"})
     #            double row
     for pin_count in range(4, 42, 2):
         half = int(pin_count/2)
-        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2_54_mm_dual_row_2x{half}_{pin_count}_pin_through_hole",
                         "part_number": "C2333",
                         "extra": "exact"})
-        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin",
+        matches.append({"id":f"electronic_header_2_54_mm_dual_row_2x{half}_{pin_count}_pin_through_hole",
                         "part_number": "C213462",
                         "extra": "exact"})
-        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_right_angle",
+        matches.append({"id":f"electronic_header_2_54_mm_dual_row_2x{half}_{pin_count}_pin_through_hole_right_angle",
                         "part_number": "C3410"})
-        matches.append({"id":f"electronic_header_2d54_mm_dual_row_2x{half}_dual_row_{pin_count}_pin_surface_mount",
+        matches.append({"id":f"electronic_header_2_54_mm_dual_row_2x{half}_{pin_count}_pin_surface_mount",
                         "part_number": "C2685180"})
+    #            triple row
+    for pin_count in range(6, 30, 3):
+        third = int(pin_count/3)
+        matches.append({"id":f"electronic_header_2_54_mm_triple_row_3x{third}_{pin_count}_pin_through_hole",
+                        "part_number": "C920773"})     
 
 
     #       jst

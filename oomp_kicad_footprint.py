@@ -385,7 +385,7 @@ def get_footprints(**kwargs):
         for typ in types:
             match = {}
             match["id"] = f"electronic_header_oobb_{sty}_{typ}_through_hole_right_angle"
-            match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_{sty}_connector_basic_{typ}"
+            match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_{sty}_oobb_connector_basic_{typ}"
             matches.append(match)
 
     ###### sod

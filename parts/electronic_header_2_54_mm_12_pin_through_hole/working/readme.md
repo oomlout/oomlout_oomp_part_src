@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C2337](https://lcsc.com/product-detail/C2337.html)   
+* [LCSC - C2883695](https://lcsc.com/product-detail/C2883695.html)   
 
 
 ## symbol
@@ -45,7 +48,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra | through_hole | 
 | manufacturer |  | 
 | part_number |  | 
-| kicad_reference | J | 
+| kicad_reference | CONN | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -91,7 +94,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size | 12 Pin Through Hole | 
 | short_code | hi112pth | 
 | short_code_upper | HI112PTH | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C2337', 'link': 'https://lcsc.com/product-detail/C2337.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C2883695', 'link': 'https://lcsc.com/product-detail/C2883695.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | df4cf259f03538d937eb0d29d5fa2f59 | 
 | md5_5 | df4cf | 
@@ -109,7 +112,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | 12 Pin Through Hole | 
 | description_or_color | 12 | 
 | description_or_color_upper | 12 | 
-| markdown_full | [electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[hi112pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 12 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br> | 
-| markdown_short | [electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[hi112pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[Electronic Header 2 54 Mm 12 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> | 
+| markdown_short | [electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical//working/working.kicad_mod', 'note': 'source footprint kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi112pth_electronic_header_2_54_mm_12_pin_through_hole', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_hi112pth_electronic_header_2_54_mm_12_pin_through_hole', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi112pth_electronic_header_2_54_mm_12_pin_through_hole//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x12_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x12_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x12_pin//working/working.kicad_sym', 'index': 0}] | 

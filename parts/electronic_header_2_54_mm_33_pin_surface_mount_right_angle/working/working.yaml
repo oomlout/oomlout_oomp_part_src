@@ -23,13 +23,21 @@ description_only_numbers_short: '33'
 description_or_color: '33'
 description_or_color_upper: '33'
 directory: parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C917606.html
+    name: LCSC
+    part_number: C917606
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C917645.html
+    name: LCSC
+    part_number: C917645
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working
 id: electronic_header_2_54_mm_33_pin_surface_mount_right_angle
 id_no_class: header_2_54_mm_33_pin_surface_mount_right_angle
 id_no_size: 33_pin_surface_mount_right_angle
 id_no_type: 2_54_mm_33_pin_surface_mount_right_angle
-kicad_reference: J
+kicad_reference: CONN
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -37,8 +45,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_33_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working)<br>[hi133psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working)<br>[Electronic
-    Header 2 54 Mm 33 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_33_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working)<br><br>'
+    Header 2 54 Mm 33 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working)<br>[LCSC
+    - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_33_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount_right_angle/working)<br>[LCSC
+    - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: 91671522b6ddf2b27f927d6a94622bfa
 md5_10: 91671522b6
 md5_10_upper: 91671522B6

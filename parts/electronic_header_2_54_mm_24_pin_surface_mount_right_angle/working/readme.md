@@ -15,6 +15,9 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C917606](https://lcsc.com/product-detail/C917606.html)   
+* [LCSC - C917645](https://lcsc.com/product-detail/C917645.html)   
 
 
 ## symbol
@@ -36,7 +39,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_extra | surface_mount_right_angle | 
 | manufacturer |  | 
 | part_number |  | 
-| kicad_reference | J | 
+| kicad_reference | CONN | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -82,7 +85,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size | 24 Pin Surface Mount Right Angle | 
 | short_code | hi124psmra | 
 | short_code_upper | HI124PSMRA | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C917606', 'link': 'https://lcsc.com/product-detail/C917606.html', 'id': 'distributor_lcsc'}, {'name': 'LCSC', 'part_number': 'C917645', 'link': 'https://lcsc.com/product-detail/C917645.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | cc1e0235ad166fa43059a17e8545fa14 | 
 | md5_5 | cc1e0 | 
@@ -100,6 +103,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size_short | 24 Pin Surface Mount Right Angle | 
 | description_or_color | 24 | 
 | description_or_color_upper | 24 | 
-| markdown_full | [electronic_header_2_54_mm_24_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br>[hi124psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 24 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br><br> | 
-| markdown_short | [electronic_header_2_54_mm_24_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_24_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br>[hi124psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 24 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
+| markdown_short | [electronic_header_2_54_mm_24_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x24_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x24_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x24_pin//working/working.kicad_sym', 'index': 0}] | 

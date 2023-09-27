@@ -25,11 +25,11 @@ description_or_color_upper: 'B '
 directory: parts/electronic_header_oobb_basic_double_through_hole_right_angle
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_double//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_basic_oobb_connector_basic_double//working/working.kicad_mod
     index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_double
-    note: source footprint oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_double
-    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_basic_connector_basic_double
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_basic_oobb_connector_basic_double
+    note: source footprint oomlout_oomlout_oomp_footprint_templates_basic_oobb_connector_basic_double
+    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_basic_oobb_connector_basic_double
 -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_basic_double_through_hole_right_angle//working/working.kicad_mod
     index: 1
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_basic_double_through_hole_right_angle

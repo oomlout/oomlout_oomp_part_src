@@ -15,6 +15,8 @@
 * manucaturer -- 
 * part_number -- 
 
+## distributors
+* [LCSC - C917645](https://lcsc.com/product-detail/C917645.html)   
 
 
 ## symbol
@@ -45,7 +47,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_extra | surface_mount | 
 | manufacturer |  | 
 | part_number |  | 
-| kicad_reference | J | 
+| kicad_reference | CONN | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -91,7 +93,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size | 6 Pin Surface Mount | 
 | short_code | hi16psm | 
 | short_code_upper | HI16PSM | 
-| distributors | [] | 
+| distributors | [{'name': 'LCSC', 'part_number': 'C917645', 'link': 'https://lcsc.com/product-detail/C917645.html', 'id': 'distributor_lcsc'}] | 
 | manufacturers | [] | 
 | md5 | 86f0864a6e233fbefda1af42f4e8feb7 | 
 | md5_5 | 86f08 | 
@@ -109,7 +111,7 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | name_no_size_short | 6 Pin Surface Mount | 
 | description_or_color | 6 | 
 | description_or_color_upper | 6 | 
-| markdown_full | [electronic_header_2_54_mm_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[hi16psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br><br> | 
-| markdown_short | [electronic_header_2_54_mm_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br><br> | 
+| markdown_full | [electronic_header_2_54_mm_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[hi16psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
+| markdown_short | [electronic_header_2_54_mm_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount/working)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> | 
 | footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left', 'oomp_key': 'oomp_kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod', 'note': 'source footprint kicad_connector_pinheader_2_54mm_pinheader_1x06_p2_54mm_vertical_smd_pin1left', 'index': 0}, {'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi16psm_electronic_header_2_54_mm_6_pin_surface_mount', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_hi16psm_electronic_header_2_54_mm_6_pin_surface_mount', 'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi16psm_electronic_header_2_54_mm_6_pin_surface_mount//working/working.kicad_mod', 'note': 'oomp generated footprint', 'index': 1}] | 
 | symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x06_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym', 'index': 0}] | 

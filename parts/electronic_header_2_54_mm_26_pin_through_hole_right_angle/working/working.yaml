@@ -23,13 +23,25 @@ description_only_numbers_short: '26'
 description_or_color: '26'
 description_or_color_upper: '26'
 directory: parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle
-distributors: []
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2337.html
+    name: LCSC
+    part_number: C2337
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2883695.html
+    name: LCSC
+    part_number: C2883695
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C124358.html
+    name: LCSC
+    part_number: C124358
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working
 id: electronic_header_2_54_mm_26_pin_through_hole_right_angle
 id_no_class: header_2_54_mm_26_pin_through_hole_right_angle
 id_no_size: 26_pin_through_hole_right_angle
 id_no_type: 2_54_mm_26_pin_through_hole_right_angle
-kicad_reference: J
+kicad_reference: CONN
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -37,8 +49,12 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_26_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working)<br>[hi126pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working)<br>[Electronic
-    Header 2 54 Mm 26 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_26_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working)<br><br>'
+    Header 2 54 Mm 26 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC
+    - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_26_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_right_angle/working)<br>[LCSC
+    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC
+    - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>'
 md5: 8329233810b423c2f073e8e4893d8002
 md5_10: '8329233810'
 md5_10_upper: '8329233810'
