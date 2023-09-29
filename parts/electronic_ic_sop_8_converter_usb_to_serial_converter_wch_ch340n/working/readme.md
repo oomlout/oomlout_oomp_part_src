@@ -70,7 +70,7 @@ List of Pins:
 | pins_pin_8_number | 8 | 
 | pins_pin_8_type | signal | 
 | kicad_reference | U | 
-| notes | [] | 
+| notes | [<br>] | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -116,8 +116,8 @@ List of Pins:
 | name_no_size | Converter Usb To Serial Converter Wch Ch340N | 
 | short_code | isp8 | 
 | short_code_upper | ISP8 | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C2977777', 'link': 'https://lcsc.com/product-detail/C2977777.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [] | 
+| distributors | [<br>{<br>'<br>n<br>a<br>m<br>e<br>'<br>:<br> <br>'<br>L<br>C<br>S<br>C<br>'<br>,<br> <br>'<br>p<br>a<br>r<br>t<br>_<br>n<br>u<br>m<br>b<br>e<br>r<br>'<br>:<br> <br>'<br>C<br>2<br>9<br>7<br>7<br>7<br>7<br>7<br>'<br>,<br> <br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>h<br>t<br>t<br>p<br>s<br>:<br>/<br>/<br>l<br>c<br>s<br>c<br>.<br>c<br>o<br>m<br>/<br>p<br>r<br>o<br>d<br>u<br>c<br>t<br>-<br>d<br>e<br>t<br>a<br>i<br>l<br>/<br>C<br>2<br>9<br>7<br>7<br>7<br>7<br>7<br>.<br>h<br>t<br>m<br>l<br>'<br>,<br> <br>'<br>i<br>d<br>'<br>:<br> <br>'<br>d<br>i<br>s<br>t<br>r<br>i<br>b<br>u<br>t<br>o<br>r<br>_<br>l<br>c<br>s<br>c<br>'<br>}<br>] | 
+| manufacturers | [<br>] | 
 | md5 | ad943042c130da51dd0876d34a6d99a2 | 
 | md5_5 | ad943 | 
 | md5_5_upper | AD943 | 

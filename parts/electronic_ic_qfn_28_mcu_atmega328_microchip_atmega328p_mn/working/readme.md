@@ -82,8 +82,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size | Mcu Atmega328 Microchip Atmega328P Mn | 
 | short_code | iq28mcuat328 | 
 | short_code_upper | IQ28MCUAT328 | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [<br>] | 
+| manufacturers | [<br>] | 
 | md5 | 4e3cebccf7cb76a5984fa97b7a893de9 | 
 | md5_5 | 4e3ce | 
 | md5_5_upper | 4E3CE | 
@@ -102,4 +102,4 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_or_color_upper | M328 | 
 | markdown_full | [electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[iq28mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br> | 
 | markdown_short | [electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br> | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_p', 'oomp_key': 'oomp_kicad_mcu_microchip_atmega_atmega328_p', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_p//working/working.kicad_sym', 'index': 0}] | 
+| symbol | [<br>{<br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>h<br>t<br>t<br>p<br>s<br>:<br>/<br>/<br>g<br>i<br>t<br>h<br>u<br>b<br>.<br>c<br>o<br>m<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>t<br>r<br>e<br>e<br>/<br>m<br>a<br>i<br>n<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>m<br>c<br>u<br>_<br>m<br>i<br>c<br>r<br>o<br>c<br>h<br>i<br>p<br>_<br>a<br>t<br>m<br>e<br>g<br>a<br>_<br>a<br>t<br>m<br>e<br>g<br>a<br>3<br>2<br>8<br>_<br>p<br>'<br>,<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>e<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>i<br>c<br>a<br>d<br>_<br>m<br>c<br>u<br>_<br>m<br>i<br>c<br>r<br>o<br>c<br>h<br>i<br>p<br>_<br>a<br>t<br>m<br>e<br>g<br>a<br>_<br>a<br>t<br>m<br>e<br>g<br>a<br>3<br>2<br>8<br>_<br>p<br>'<br>,<br> <br>'<br>d<br>i<br>r<br>e<br>c<br>t<br>o<br>r<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>m<br>c<br>u<br>_<br>m<br>i<br>c<br>r<br>o<br>c<br>h<br>i<br>p<br>_<br>a<br>t<br>m<br>e<br>g<br>a<br>_<br>a<br>t<br>m<br>e<br>g<br>a<br>3<br>2<br>8<br>_<br>p<br>/<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>.<br>k<br>i<br>c<br>a<br>d<br>_<br>s<br>y<br>m<br>'<br>,<br> <br>'<br>i<br>n<br>d<br>e<br>x<br>'<br>:<br> <br>0<br>}<br>] | 

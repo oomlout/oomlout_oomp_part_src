@@ -123,7 +123,7 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | pins_pin_20_number | 16 | 
 | pins_pin_20_type | signal | 
 | kicad_reference | U | 
-| notes | [] | 
+| notes | [<br>] | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -169,8 +169,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size | Converter Usb To Serial Converter Wch Ch340T | 
 | short_code | ich340t | 
 | short_code_upper | ICH340T | 
-| distributors | [{'name': 'LCSC', 'part_number': 'C8689', 'link': 'https://lcsc.com/product-detail/C8689.html', 'id': 'distributor_lcsc'}] | 
-| manufacturers | [] | 
+| distributors | [<br>{<br>'<br>n<br>a<br>m<br>e<br>'<br>:<br> <br>'<br>L<br>C<br>S<br>C<br>'<br>,<br> <br>'<br>p<br>a<br>r<br>t<br>_<br>n<br>u<br>m<br>b<br>e<br>r<br>'<br>:<br> <br>'<br>C<br>8<br>6<br>8<br>9<br>'<br>,<br> <br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>h<br>t<br>t<br>p<br>s<br>:<br>/<br>/<br>l<br>c<br>s<br>c<br>.<br>c<br>o<br>m<br>/<br>p<br>r<br>o<br>d<br>u<br>c<br>t<br>-<br>d<br>e<br>t<br>a<br>i<br>l<br>/<br>C<br>8<br>6<br>8<br>9<br>.<br>h<br>t<br>m<br>l<br>'<br>,<br> <br>'<br>i<br>d<br>'<br>:<br> <br>'<br>d<br>i<br>s<br>t<br>r<br>i<br>b<br>u<br>t<br>o<br>r<br>_<br>l<br>c<br>s<br>c<br>'<br>}<br>] | 
+| manufacturers | [<br>] | 
 | md5 | e07223f3446f9e6a9ed62db546344b87 | 
 | md5_5 | e0722 | 
 | md5_5_upper | E0722 | 
@@ -189,4 +189,4 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_or_color_upper | C  | 
 | markdown_full | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> | 
 | markdown_short | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340t', 'oomp_key': 'oomp_kicad_interface_usb_ch340t', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340t//working/working.kicad_sym', 'index': 0}] | 
+| symbol | [<br>{<br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>h<br>t<br>t<br>p<br>s<br>:<br>/<br>/<br>g<br>i<br>t<br>h<br>u<br>b<br>.<br>c<br>o<br>m<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>t<br>r<br>e<br>e<br>/<br>m<br>a<br>i<br>n<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>i<br>n<br>t<br>e<br>r<br>f<br>a<br>c<br>e<br>_<br>u<br>s<br>b<br>_<br>c<br>h<br>3<br>4<br>0<br>t<br>'<br>,<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>e<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>i<br>c<br>a<br>d<br>_<br>i<br>n<br>t<br>e<br>r<br>f<br>a<br>c<br>e<br>_<br>u<br>s<br>b<br>_<br>c<br>h<br>3<br>4<br>0<br>t<br>'<br>,<br> <br>'<br>d<br>i<br>r<br>e<br>c<br>t<br>o<br>r<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>i<br>n<br>t<br>e<br>r<br>f<br>a<br>c<br>e<br>_<br>u<br>s<br>b<br>_<br>c<br>h<br>3<br>4<br>0<br>t<br>/<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>.<br>k<br>i<br>c<br>a<br>d<br>_<br>s<br>y<br>m<br>'<br>,<br> <br>'<br>i<br>n<br>d<br>e<br>x<br>'<br>:<br> <br>0<br>}<br>] | 

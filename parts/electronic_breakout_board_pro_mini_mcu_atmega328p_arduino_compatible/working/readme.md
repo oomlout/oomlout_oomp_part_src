@@ -173,7 +173,7 @@ List of Pins:
 | pins_pin_34_number | 30 | 
 | pins_pin_34_type | power | 
 | kicad_reference | BB | 
-| notes | [] | 
+| notes | [<br>] | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
 | classification_first_letter | e | 
@@ -219,8 +219,8 @@ List of Pins:
 | name_no_size | Mcu Atmega328P Arduino Compatible | 
 | short_code | bbpmmcu328ac | 
 | short_code_upper | BBPMMCU328AC | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [<br>] | 
+| manufacturers | [<br>] | 
 | md5 | 42ad02af84350acebe9c36ed66484b92 | 
 | md5_5 | 42ad0 | 
 | md5_5_upper | 42AD0 | 
