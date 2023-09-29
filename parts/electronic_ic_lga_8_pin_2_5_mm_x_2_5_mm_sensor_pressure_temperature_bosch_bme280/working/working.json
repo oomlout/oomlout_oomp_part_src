@@ -96,7 +96,14 @@
     "name_no_size": "Sensor Pressure Temperature Bosch Bme280",
     "short_code": "isnpt280",
     "short_code_upper": "ISNPT280",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C92489",
+            "link": "https://lcsc.com/product-detail/C92489.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "3c6ed67a4183fc399c7d42cffc5f1f81",
     "md5_5": "3c6ed",
@@ -114,6 +121,6 @@
     "name_no_size_short": "Sensor Pressure Temperature Bosch Bme280",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[isnpt280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Sensor Pressure Temperature Bosch Bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br><br>",
-    "markdown_short": "[electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br><br>"
+    "markdown_full": "[electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[isnpt280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Sensor Pressure Temperature Bosch Bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>",
+    "markdown_short": "[electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280/working)<br>[LCSC - C92489<br>](https://lcsc.com/product-detail/C92489.html)<br>"
 }

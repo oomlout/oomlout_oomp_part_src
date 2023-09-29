@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## connector_usb_b_micro  by arturo182  
+## usb_b_micro  by kicad  
   
 oomp key: oomp_kicad_connector_usb_b_micro  
   

@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## interface_usb_ch340g  by arturo182  
+## ch340g  by kicad  
   
 oomp key: oomp_kicad_interface_usb_ch340g  
   

@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## mechanical_mountinghole  by arturo182  
+## mountinghole  by kicad  
   
 oomp key: oomp_kicad_mechanical_mountinghole  
   
@@ -14,3 +14,5 @@ source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitla
 | oomp key | oomp_kicad_mechanical_mountinghole | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mechanical_mountinghole/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

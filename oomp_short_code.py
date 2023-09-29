@@ -176,6 +176,7 @@ def get_short_code(**kwargs):
     replace_dict["description_main"]["raspberry_pi_2040"] = "rp2040"
     replace_dict["description_main"]["espressif_esp32"] = "e32"
     replace_dict["description_main"]["atmega328p"] = "328"
+    replace_dict["description_main"]["pic32"] = "p32"
 
     #      button and switch
     replace_dict["description_main"]["single_pole_single_throw"] = "spst"
@@ -333,6 +334,7 @@ def get_short_code(**kwargs):
     replace_dict["part_number"]["stk8321"] = "stk8321"
     replace_dict["part_number"]["rs2227xn"] = "rs2227"
     replace_dict["part_number"]["tps2113apw"] = "tps2113"
+    replace_dict["part_number"]["pic32mk1024gpk100"] = "mk1024"
 
     #      leds
     replace_dict["part_number"]["1010rgbc"] = "1010rgbc"

@@ -128,7 +128,8 @@ def get_symbols(**kwargs):
 
 
     # ic
-    #      atmega328
+    #      mcu
+    #            atmega328
     match = {}
     match["part_number"] = "atmega328p_pu"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328p_p"
@@ -153,14 +154,23 @@ def get_symbols(**kwargs):
     match["part_number"] = "atmega328p_mu"
     match["symbol_name"] = f"kicad_mcu_microchip_atmega_atmega328_m"
     matches.append(match)
+
     
-    #      bme280
+    #            pic32
+    match = {}
+    match["part_number"] = "pic32mk1024gpk100"
+    match["symbol_name"] = f"kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt"
+    matches.append(match)
+    
+    #      sensor
+    #            bme280
     match = {}
     match["part_number"] = "bme280"
     match["symbol_name"] = f"kicad_sensor_bme280"
     matches.append(match)
 
-    #      ch340
+    #      usb
+    #            ch340
     models = ["c","g","t","e","x"] ###### no k,b symbol yet
     for model in models:
         match = {}
@@ -307,7 +317,7 @@ def get_symbols(**kwargs):
             new_matches = [mat]
 
         for match in new_matches:
-            if match.get("type","")   == "led":
+            if match.get("type","")   == "ic":
                 pass
             if "symbol_name" in match:
                 symbol_name = match["symbol_name"]
@@ -331,6 +341,7 @@ def get_symbols(**kwargs):
                     pass
                     #value not in match check
             if match_count == len(match)-1:
+                
                 symbols.extend(match["symbol"])
             #if match.get("type","")   == "resistor":
             #    pass

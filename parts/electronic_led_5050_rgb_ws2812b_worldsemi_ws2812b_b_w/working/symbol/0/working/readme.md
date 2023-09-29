@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## led_ws2812b  by arturo182  
+## ws2812b  by kicad  
   
 oomp key: oomp_kicad_led_ws2812b  
   

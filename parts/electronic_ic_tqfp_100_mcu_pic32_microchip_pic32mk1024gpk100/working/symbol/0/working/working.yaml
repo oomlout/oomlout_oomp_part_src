@@ -1,0 +1,36 @@
+id: kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt
+library: mcu_microchip_pic32
+library_name: MCU_Microchip_PIC32
+links:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  github_src_repo: https://gitlab.com/kicad/libraries/kicad-symbols
+  oomp_bot: kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt/working
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt/working
+  oomp_doc: kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt/working
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt/working
+  oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt/working
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt/working
+name: pic32mk1024gpd100_xpt
+oomp:
+  library_name: mcu_microchip_pic32
+  md5: 361dd23a4659d2e33061947555862366
+  md5_10: 361dd23a46
+  md5_5: 361dd
+  md5_6: 361dd2
+  oomp_key: oomp_pic32mk1024gpd100_xpt
+  oomp_key_extra: oomp_symbol_pic32mk1024gpd100_xpt
+  oomp_key_full: oomp_symbol_pic32mk1024gpd100_xpt_361dd2
+  oomp_key_simple: pic32mk1024gpd100_xpt
+  owner_name: kicad
+  symbol_name: pic32mk1024gpd100_xpt
+oomp_key: oomp_kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt
+oomp_key_simple: kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt
+owner: kicad
+repo:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  name: kicad-symbols
+  owner: kicad
+  url: https://gitlab.com/kicad/libraries/kicad-symbols
+repo_github:
+  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+  message: Not Found

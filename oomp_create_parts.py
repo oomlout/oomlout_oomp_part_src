@@ -27,8 +27,10 @@ for type in part_types:
 
 def load_parts(**kwargs):
     print("loading parts from modules")
+    filter = kwargs.get('filter', "")
     for type in part_types:
-        importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
+        if filter in type:
+            importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
 
 
 def load_parts_from_yaml(**kwargs):
@@ -45,8 +47,10 @@ def load_parts_from_pickle(**kwargs):
     import pickle
     file_pickle = "tmp/parts.pickle"
     if not os.path.exists(file_pickle):
-        print(f"file {file_pickle} does not exist")
-        return
+        file_pickle = "c:/gh/oomlout_oomp_part_src/tmp/parts.pickle"
+        if not os.path.exists(file_pickle):
+            print(f"file {file_pickle} does not exist")
+            return
     with open(file_pickle, "rb") as infile:
         parts = pickle.load(infile)
     oomp.parts = parts

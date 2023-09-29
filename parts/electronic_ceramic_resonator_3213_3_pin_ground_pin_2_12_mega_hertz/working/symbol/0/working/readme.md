@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## device_crystal_gnd2  by arturo182  
+## crystal_gnd2  by kicad  
   
 oomp key: oomp_kicad_device_crystal_gnd2  
   

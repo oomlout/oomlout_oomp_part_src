@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## switch_sw_push  by arturo182  
+## sw_push  by kicad  
   
 oomp key: oomp_kicad_switch_sw_push  
   
@@ -14,3 +14,5 @@ source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitla
 | oomp key | oomp_kicad_switch_sw_push | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_switch_sw_push/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

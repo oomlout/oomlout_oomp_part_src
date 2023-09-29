@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## device_led  by arturo182  
+## led  by kicad  
   
 oomp key: oomp_kicad_device_led  
   

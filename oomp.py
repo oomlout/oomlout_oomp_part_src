@@ -66,6 +66,7 @@ def load_parts(**kwargs):
     else:
         print ("loading parts from module")
         oomp_create_parts.load_parts(**kwargs)
+        
 
 def save_parts(**kwargs):
     oomp_create_parts.save_parts_to_yaml(**kwargs)

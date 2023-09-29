@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## device_nettie_4  by arturo182  
+## nettie_4  by kicad  
   
 oomp key: oomp_kicad_device_nettie_4  
   

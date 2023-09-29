@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## device_r  by arturo182  
+## r  by kicad  
   
 oomp key: oomp_kicad_device_r  
   

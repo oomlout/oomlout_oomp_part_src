@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## connector_conn_01x02_pin  by arturo182  
+## conn_01x02_pin  by kicad  
   
 oomp key: oomp_kicad_connector_conn_01x02_pin  
   

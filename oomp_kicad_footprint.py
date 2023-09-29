@@ -281,7 +281,12 @@ def get_footprints(**kwargs):
     match["size"] = "tqfp_32"
     match["footprint_name"] = f"kicad_package_qfp_tqfp_32_7x7mm_p0_8mm"
     matches.append(match) 
-    
+
+    match = {}
+    match["size"] = "tqfp_100"
+    match["footprint_name"] = f"kicad_package_qfp_tqfp_100_12x12mm_p0_4mm"
+    matches.append(match) 
+
     #            vqfn
     match = {}
     match["size"] = "vqfn_28"
@@ -385,7 +390,7 @@ def get_footprints(**kwargs):
         for typ in types:
             match = {}
             match["id"] = f"electronic_header_oobb_{sty}_{typ}_through_hole_right_angle"
-            match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_{sty}_oobb_connector_basic_{typ}"
+            match["footprint_name"] = f"oomlout_oomlout_oomp_footprint_templates_oobb_connector_{sty}_{typ}"
             matches.append(match)
 
     ###### sod

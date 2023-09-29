@@ -53,6 +53,126 @@ def load_parts(**kwargs):
     part_details["short_name"] = "atmega328 32 pin tqfp"
     parts.append(part_details) 
 
+
+    # microchip
+
+    #      pic32mk051024gpk100
+    #      electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "ic"
+    part_details["size"] = ["tqfp_100"]
+    part_details["color"] = ["mcu"]
+    part_details["description_main"] = "pic32"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microchip"
+    part_details["part_number"] = "pic32mk1024gpk100"
+    part_details["short_name"] = "pic32mk1024gpk100 "    
+    pins = {
+    "pin_1": {"name": "AN23_CVD23_PMA23_RG15".lower(), "number": "1", "type": "general"},
+    "pin_2": {"name": "VDD".lower(), "number": "2", "type": "power"},
+    "pin_3": {"name": "TCK_RPA7_PMD5_RA7".lower(), "number": "3", "type": "general"},
+    "pin_4": {"name": "RPB14_VBUSON1_PMD6_RB14".lower(), "number": "4", "type": "general"},
+    "pin_5": {"name": "RPB15_PMD7_RB15".lower(), "number": "5", "type": "general"},
+    "pin_6": {"name": "RD1".lower(), "number": "6", "type": "general"},
+    "pin_7": {"name": "RD2".lower(), "number": "7", "type": "general"},
+    "pin_8": {"name": "RPD3_RD3".lower(), "number": "8", "type": "general"},
+    "pin_9": {"name": "RPD4_RD4".lower(), "number": "9", "type": "general"},
+    "pin_10": {"name": "AN19_CVD19_RPG6_VBUSON2_PMA5_RG6".lower(), "number": "10", "type": "general"},
+    "pin_11": {"name": "AN18_CVD18_RPG7_SCL1_PMA4_RG7".lower(), "number": "11", "type": "general"},
+    "pin_12": {"name": "AN17_CVD17_RPG8_SDA1_PMA3_RG8".lower(), "number": "12", "type": "general"},
+    "pin_13": {"name": "MCLR_hash".lower(), "number": "13", "type": "general"},
+    "pin_14": {"name": "AN16_CVD16_RPG9_PMA2_RG9".lower(), "number": "14", "type": "general"},
+    "pin_15": {"name": "VSS", "number": "15", "type".lower(): "power"},
+    "pin_16": {"name": "VDD", "number": "16", "type".lower(): "power"},
+    "pin_17": {"name": "AN22_CVD22_RG10".lower(), "number": "17", "type": "general"},
+    "pin_18": {"name": "AN21_CVD21_RE8".lower(), "number": "18", "type": "general"},
+    "pin_19": {"name": "AN20_CVD20_RE9".lower(), "number": "19", "type": "general"},
+    "pin_20": {"name": "AN10_CVD10_RPA12_RA12".lower(), "number": "20", "type": "general"},
+    "pin_21": {"name": "AN9_CVD9_RPA11_RA11".lower(), "number": "21", "type": "general"},
+    "pin_22": {"name": "OA2OUT_AN0_C2IN4_negative_C4IN3_negative_RPA0_RA0".lower(), "number": "22", "type": "general"},
+    "pin_23": {"name": "OA2IN_positive_AN1_C2IN1_positive_RPA1_RA1".lower(), "number": "23", "type": "general"},
+    "pin_24": {"name": "PGD3_OA2IN_negative_AN2_C2IN1_negative_RPB0_CTED2_RB0".lower(), "number": "24", "type": "general"},
+    "pin_25": {"name": "PGC3_OA1OUT_AN3_C1IN4_negative_C4IN2_negative_RPB1_CTED1_RB1".lower(), "number": "25", "type": "general"},
+    "pin_26": {"name": "PGC1_OA1IN_positive_AN4_C1IN1_positive_C1IN3_negative_C2IN3_negative_RPB2_RB2".lower(), "number": "26", "type": "general"},
+    "pin_27": {"name": "PGD1_OA1IN_negative_AN5_CTCMP_C1IN1_negative_RTCC_RPB3_RB3".lower(), "number": "27", "type": "general"},
+    "pin_28": {"name": "VREF_negative_AN33_CVD33_PMA7_RF9".lower(), "number": "28", "type": "general"},
+    "pin_29": {"name": "VREF_positive_AN34_CVD34_PMA6_RF10".lower(), "number": "29", "type": "general"},
+    "pin_30": {"name": "AVDD".lower(), "number": "30", "type": "power"},
+    "pin_31": {"name": "AVSS".lower(), "number": "31", "type": "power"},
+    "pin_32": {"name": "OA3OUT_AN6_CVD6_C3IN4_negative_C4IN1_positive_C4IN4_negative_RPC0_RC0".lower(), "number": "32", "type": "general"},
+    "pin_33": {"name": "OA3IN_negative_AN7_CVD7_C3IN1_negative_C4IN1_negative_RPC1_RC1".lower(), "number": "33", "type": "general"},
+    "pin_34": {"name": "OA3IN_positive_AN8_CVD8_C3IN1_positive_C3IN3_negative_RPC2_PMA13_RC2".lower(), "number": "34", "type": "general"},
+    "pin_35": {"name": "AN11_CVD11_C1IN2_negative_PMA12_RC11".lower(), "number": "35", "type": "general"},
+    "pin_36": {"name": "VSS".lower(), "number": "36", "type": "power"},
+    "pin_37": {"name": "VDD".lower(), "number": "37", "type": "power"},
+    "pin_38": {"name": "AN35_CVD35_RG11".lower(), "number": "38", "type": "general"},
+    "pin_39": {"name": "AN36_CVD36_RF13".lower(), "number": "39", "type": "general"},
+    "pin_40": {"name": "AN37_CVD37_RF12".lower(), "number": "40", "type": "general"},
+    "pin_41": {"name": "AN12_CVD12_C2IN2_negative_C5IN2_negative_SDA4_PMA11_RE12".lower(), "number": "41", "type": "general"},
+    "pin_42": {"name": "AN13_CVD13_C3IN2_negative_SCL4_PMA10_RE13".lower(), "number": "42", "type": "general"},
+    "pin_43": {"name": "AN14_CVD14_RPE14_PMA1_RE14".lower(), "number": "43", "type": "general"},
+    "pin_44": {"name": "AN15_CVD15_RPE15_PMA0_RE15".lower(), "number": "44", "type": "general"},
+    "pin_45": {"name": "VSS".lower(), "number": "45", "type": "power"},
+    "pin_46": {"name": "VDD".lower(), "number": "46", "type": "power"},
+    "pin_47": {"name": "AN38_CVD38_RD14".lower(), "number": "47", "type": "general"},
+    "pin_48": {"name": "AN39_CVD39_RD15".lower(), "number": "48", "type": "general"},
+    "pin_49": {"name": "TDI_DAC3_AN26_CVD26_RPA8_SDA2_PMA9_RA8".lower(), "number": "49", "type": "general"},
+    "pin_50": {"name": "RPB4_SCL2_PMA8_RB4".lower(), "number": "50", "type": "general"},
+    "pin_51": {"name": "OA5IN_positive_DAC1_AN24_CVD24_C5IN1_positive_C5IN3_negative_RPA4_RA4".lower(), "number": "51", "type": "general"},
+    "pin_52": {"name": "AN40_CVD40_RPE0_RE0".lower(), "number": "52", "type": "general"},
+    "pin_53": {"name": "AN41_CVD41_RPE1_RE1".lower(), "number": "53", "type": "general"},
+    "pin_54": {"name": "VBUS1".lower(), "number": "54", "type": "power"},
+    "pin_55": {"name": "VUSB3V3".lower(), "number": "55", "type": "power"},
+    "pin_56": {"name": "D1_negative".lower(), "number": "56", "type": "general"},
+    "pin_57": {"name": "D1_positive".lower(), "number": "57", "type": "general"},
+    "pin_58": {"name": "VBUS2".lower(), "number": "58", "type": "power"},
+    "pin_59": {"name": "D2_negative".lower(), "number": "59", "type": "general"},
+    "pin_60": {"name": "D2_positive".lower(), "number": "60", "type": "general"},
+    "pin_61": {"name": "AN45_CVD45_RF5".lower(), "number": "61", "type": "general"},
+    "pin_62": {"name": "VDD".lower(), "number": "62", "type": "power"},
+    "pin_63": {"name": "OSCI_CLKI_AN49_CVD49_RPC12_RC12".lower(), "number": "63", "type": "general"},
+    "pin_64": {"name": "OSCO_CLKO_RPC15_RC15".lower(), "number": "64", "type": "general"},
+    "pin_65": {"name": "VSS".lower(), "number": "65", "type": "power"},
+    "pin_66": {"name": "AN46_CVD46_RPA14_RA14".lower(), "number": "66", "type": "general"},
+    "pin_67": {"name": "AN47_CVD47_RPA15_RA15".lower(), "number": "67", "type": "general"},
+    "pin_68": {"name": "RD8".lower(), "number": "68", "type": "general"},
+    "pin_69": {"name": "PGD2_RPB5_SDA3_USBID1_RB5".lower(), "number": "69", "type": "general"},
+    "pin_70": {"name": "PGC2_RPB6_SCL3_SCK2_PMA15_RB6".lower(), "number": "70", "type": "general"},
+    "pin_71": {"name": "DAC2_AN48_CVD48_RPC10_PMA14_PMCS_RC10".lower(), "number": "71", "type": "general"},
+    "pin_72": {"name": "OA5OUT_AN25_CVD25_C5IN4_negative_RPB7_SCK1_INT0_RB7".lower(), "number": "72", "type": "general"},
+    "pin_73": {"name": "SOSCI_RPC13_4_RC13_4".lower(), "number": "73", "type": "general"},
+    "pin_74": {"name": "SOSCO_RPB8_4_T1CK_RB8_4".lower(), "number": "74", "type": "general"},
+    "pin_75": {"name": "VSS".lower(), "number": "75", "type": "power"},
+    "pin_76": {"name": "TMS_OA5IN_negative_AN27_CVD27_LVDIN_C5IN1_negative_RPB9_RB9".lower(), "number": "76", "type": "general"},
+    "pin_77": {"name": "RPC6_USBID2_PMA16_RC6".lower(), "number": "77", "type": "general"},
+    "pin_78": {"name": "RPC7_PMA17_RC7".lower(), "number": "78", "type": "general"},
+    "pin_79": {"name": "PMD12_RD12".lower(), "number": "79", "type": "general"},
+    "pin_80": {"name": "PMD13_RD13".lower(), "number": "80", "type": "general"},
+    "pin_81": {"name": "RPC8_PMWR_RC8".lower(), "number": "81", "type": "general"},
+    "pin_82": {"name": "RPD5_PMRD_RD5".lower(), "number": "82", "type": "general"},
+    "pin_83": {"name": "RPD6_PMD14_RD6".lower(), "number": "83", "type": "general"},
+    "pin_84": {"name": "RPC9_PMD15_RC9".lower(), "number": "84", "type": "general"},
+    "pin_85": {"name": "VSS".lower(), "number": "85", "type": "power"},
+    "pin_86": {"name": "TDO_PMD4_RA10".lower(), "number": "86", "type": "general"},
+    "pin_87": {"name": "Reserved".lower(), "number": "87", "type": "reserved"},
+    "pin_88": {"name": "RPF0_PMD11_RF0".lower(), "number": "88", "type": "general"},
+    "pin_89": {"name": "RPF1_PMD10_RF1".lower(), "number": "89", "type": "general"},
+    "pin_90": {"name": "RPG0_PMD8_RG0".lower(), "number": "90", "type": "general"},
+    "pin_91": {"name": "TRCLK_PMA18_RF6".lower(), "number": "91", "type": "general"},
+    "pin_92": {"name": "TRD3_PMA19_RF7".lower(), "number": "92", "type": "general"},
+    "pin_93": {"name": "RPB10_PMD0_RB10".lower(), "number": "93", "type": "general"},
+    "pin_94": {"name": "RPB11_PMD1_RB11".lower(), "number": "94", "type": "general"},
+    "pin_95": {"name": "TRD2_PMA20_RG14".lower(), "number": "95", "type": "general"},
+    "pin_96": {"name": "TRD1_RPG12_PMA21_RG12".lower(), "number": "96", "type": "general"},
+    "pin_97": {"name": "TRD0_PMA22_RG13".lower(), "number": "97", "type": "general"},
+    "pin_98": {"name": "RPB12_PMD2_RB12".lower(), "number": "98", "type": "general"},
+    "pin_99": {"name": "RPB13_CTPLS_PMD3_RB13".lower(), "number": "99", "type": "general"},
+    "pin_100": {"name": "TDO_PMD4_RA10".lower(), "number": "100", "type": "general"}
+    }
+    parts.append(part_details) 
+
+
     # sensors
     #  bosch
     #   bme280

@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## device_d_schottky  by arturo182  
+## d_schottky  by kicad  
   
 oomp key: oomp_kicad_device_d_schottky  
   

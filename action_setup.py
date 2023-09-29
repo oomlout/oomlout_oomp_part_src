@@ -10,16 +10,22 @@ def main():
 
 
     repos = []
-    repos.append("https://github.com/oomlout/oomlout_oomp_footprint_bot")
-    repos.append("https://github.com/oomlout/oomlout_oomp_project_bot")
-    repos.append("https://github.com/oomlout/oomlout_oomp_symbol_bot")
+    repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_bot","tmp/"])
+    repos.append(["https://github.com/oomlout/oomlout_oomp_project_bot","tmp/"])
+    repos.append(["https://github.com/oomlout/oomlout_oomp_symbol_bot","tmp/"])
+
+    repos.append(["https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols","c:/gh/"])
+    repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_all_the_kicad_footprints","c:/gh/"])
+
 
     for repo in repos:
-        directory = "tmp/"
-        oom_git.clone(repo=repo, directory=directory)
+        directory = repo[1]
+        oom_git.clone(repo=repo[0], directory=directory)
 
 
+    #filter is the type to import
     filter = ""
+    #filter = "ic"
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
 

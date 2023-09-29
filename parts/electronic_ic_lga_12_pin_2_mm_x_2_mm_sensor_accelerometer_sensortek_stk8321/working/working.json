@@ -116,7 +116,14 @@
     "name_no_size": "Sensor Accelerometer Sensortek Stk8321",
     "short_code": "isnastk8321",
     "short_code_upper": "ISNASTK8321",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C966924",
+            "link": "https://lcsc.com/product-detail/C966924.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "manufacturers": [],
     "md5": "53a50685369ad5aa7c430e8df214d3c7",
     "md5_5": "53a50",
@@ -134,6 +141,6 @@
     "name_no_size_short": "Sensor Accelerometer Sensortek Stk8321",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[isnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br><br>",
-    "markdown_short": "[electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br><br>"
+    "markdown_full": "[electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[isnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>",
+    "markdown_short": "[electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>"
 }

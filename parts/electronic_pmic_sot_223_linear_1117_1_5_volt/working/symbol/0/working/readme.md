@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## regulator_linear_ap1117_15  by arturo182  
+## ap1117_15  by kicad  
   
 oomp key: oomp_kicad_regulator_linear_ap1117_15  
   
@@ -14,3 +14,5 @@ source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitla
 | oomp key | oomp_kicad_regulator_linear_ap1117_15 | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_regulator_linear_ap1117_15/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

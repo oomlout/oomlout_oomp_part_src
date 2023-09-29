@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## device_c_polarized  by arturo182  
+## c_polarized  by kicad  
   
 oomp key: oomp_kicad_device_c_polarized  
   

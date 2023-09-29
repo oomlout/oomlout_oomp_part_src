@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## sensor_bme280  by arturo182  
+## bme280  by kicad  
   
 oomp key: oomp_kicad_sensor_bme280  
   
@@ -14,3 +14,5 @@ source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitla
 | oomp key | oomp_kicad_sensor_bme280 | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_sensor_bme280/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

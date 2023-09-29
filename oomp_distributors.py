@@ -118,8 +118,8 @@ def get_matches(**kwargs):
                   "part_number": "C146233"})
     
     #      sensors
-    matches.append({"id":"electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
-    matches.append({"id":"electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321","part_number": "C966924"})
+    matches.append({"id":"electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280","part_number": "C92489"})
+    matches.append({"id":"electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321","part_number": "C966924"})
 
     #      rs2227 multiplexer
     matches.append({"id":"msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn",

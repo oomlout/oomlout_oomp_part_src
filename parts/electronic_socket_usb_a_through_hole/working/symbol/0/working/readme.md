@@ -1,5 +1,5 @@
 # OOMP Symbol  
-## connector_usb_a  by arturo182  
+## usb_a  by kicad  
   
 oomp key: oomp_kicad_connector_usb_a  
   

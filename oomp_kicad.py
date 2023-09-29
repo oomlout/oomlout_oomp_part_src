@@ -22,6 +22,8 @@ def create_footprint_library():
     for part in oomp.parts:
         #if they have a footprint
         part = oomp.parts[part]
+        if "oobb" in part["oomp_key"]:
+            pass
         if "footprint" in part:
             #go through each footprint
             extra = 0
@@ -70,6 +72,10 @@ def create_symbol_library():
         symbol_output_name = f'{part["short_code"]}_{part["id"]}'
         
         symbol = None
+        if "oobb" in part["oomp_key"]:
+            pass
+
+
         if "symbol" in part:
             #if there's a symbol copy it across
             #symbol_source = oomlout_v2_eda_base + "/" + part["symbol"][0]["directory"] + "symbol.kicad_sym"
