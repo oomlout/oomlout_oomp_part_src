@@ -52,8 +52,8 @@
     "name_no_class": "Header 2 5 Mm Jst Xh 8 Pin Through Hole",
     "name_no_type": "2 5 Mm Jst Xh 8 Pin Through Hole",
     "name_no_size": "8 Pin Through Hole",
-    "short_code": "h8pth",
-    "short_code_upper": "H8PTH",
+    "short_code": "hjxh8pth",
+    "short_code_upper": "HJXH8PTH",
     "distributors": [],
     "manufacturers": [],
     "md5": "350e06e205b270b8258244c66405423e",
@@ -72,6 +72,6 @@
     "name_no_size_short": "8 Pin Through Hole",
     "description_or_color": "8",
     "description_or_color_upper": "8",
-    "markdown_full": "[electronic_header_2_5_mm_jst_xh_8_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br>[h8pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br>[Electronic Header 2 5 Mm Jst Xh 8 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br><br>",
+    "markdown_full": "[electronic_header_2_5_mm_jst_xh_8_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br>[hjxh8pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br>[Electronic Header 2 5 Mm Jst Xh 8 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br><br>",
     "markdown_short": "[electronic_header_2_5_mm_jst_xh_8_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br><br>"
 }

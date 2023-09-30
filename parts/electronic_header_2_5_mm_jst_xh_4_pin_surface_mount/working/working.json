@@ -52,8 +52,8 @@
     "name_no_class": "Header 2 5 Mm Jst Xh 4 Pin Surface Mount",
     "name_no_type": "2 5 Mm Jst Xh 4 Pin Surface Mount",
     "name_no_size": "4 Pin Surface Mount",
-    "short_code": "h4psm",
-    "short_code_upper": "H4PSM",
+    "short_code": "hjxh4psm",
+    "short_code_upper": "HJXH4PSM",
     "distributors": [],
     "manufacturers": [],
     "md5": "62848963c405381b88d86c84beec1e0d",
@@ -72,6 +72,6 @@
     "name_no_size_short": "4 Pin Surface Mount",
     "description_or_color": "4",
     "description_or_color_upper": "4",
-    "markdown_full": "[electronic_header_2_5_mm_jst_xh_4_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br>[h4psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 4 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br><br>",
+    "markdown_full": "[electronic_header_2_5_mm_jst_xh_4_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br>[hjxh4psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 4 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br><br>",
     "markdown_short": "[electronic_header_2_5_mm_jst_xh_4_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount/working)<br><br>"
 }

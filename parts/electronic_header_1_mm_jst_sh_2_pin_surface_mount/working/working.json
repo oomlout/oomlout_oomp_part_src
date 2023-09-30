@@ -52,8 +52,8 @@
     "name_no_class": "Header 1 Mm Jst Sh 2 Pin Surface Mount",
     "name_no_type": "1 Mm Jst Sh 2 Pin Surface Mount",
     "name_no_size": "2 Pin Surface Mount",
-    "short_code": "h2psm",
-    "short_code_upper": "H2PSM",
+    "short_code": "hjsh2psm",
+    "short_code_upper": "HJSH2PSM",
     "short_name": "Jst Sh 2 Pin Surface Mount Header 1 Mm Pitch",
     "distributors": [],
     "manufacturers": [
@@ -80,6 +80,6 @@
     "name_no_size_short": "2 Pin Surface Mount",
     "description_or_color": "2",
     "description_or_color_upper": "2",
-    "markdown_full": "[electronic_header_1_mm_jst_sh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br>[h2psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 2 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br><br>[JST - BM02B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM02B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM02B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM02B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM02B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM02B-SRSS-TB)<br>",
+    "markdown_full": "[electronic_header_1_mm_jst_sh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br>[hjsh2psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 2 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br><br>[JST - BM02B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM02B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM02B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM02B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM02B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM02B-SRSS-TB)<br>",
     "markdown_short": "[electronic_header_1_mm_jst_sh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount/working)<br><br>[JST - BM02B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)"
 }

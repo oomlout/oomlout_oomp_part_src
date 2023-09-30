@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_electronic_header_2_5_mm_jst_xh_2_pin_surface_mount 
-* short_code: h2psm
+* short_code: hjxh2psm
 * md5_6: 226e38  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working  
 ## naming details
@@ -80,8 +80,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_class | Header 2 5 Mm Jst Xh 2 Pin Surface Mount | 
 | name_no_type | 2 5 Mm Jst Xh 2 Pin Surface Mount | 
 | name_no_size | 2 Pin Surface Mount | 
-| short_code | h2psm | 
-| short_code_upper | H2PSM | 
+| short_code | hjxh2psm | 
+| short_code_upper | HJXH2PSM | 
 | distributors | [<br>] | 
 | manufacturers | [<br>] | 
 | md5 | 226e38ccc61cefd339d4c56c401e4e5c | 
@@ -100,6 +100,6 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size_short | 2 Pin Surface Mount | 
 | description_or_color | 2 | 
 | description_or_color_upper | 2 | 
-| markdown_full | [electronic_header_2_5_mm_jst_xh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br>[h2psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 2 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br><br> | 
+| markdown_full | [electronic_header_2_5_mm_jst_xh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br>[hjxh2psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 2 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br><br> | 
 | markdown_short | [electronic_header_2_5_mm_jst_xh_2_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount/working)<br><br> | 
 | symbol | [<br>{<br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>h<br>t<br>t<br>p<br>s<br>:<br>/<br>/<br>g<br>i<br>t<br>h<br>u<br>b<br>.<br>c<br>o<br>m<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>t<br>r<br>e<br>e<br>/<br>m<br>a<br>i<br>n<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>c<br>o<br>n<br>n<br>e<br>c<br>t<br>o<br>r<br>_<br>c<br>o<br>n<br>n<br>_<br>0<br>1<br>x<br>0<br>2<br>_<br>p<br>i<br>n<br>'<br>,<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>e<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>i<br>c<br>a<br>d<br>_<br>c<br>o<br>n<br>n<br>e<br>c<br>t<br>o<br>r<br>_<br>c<br>o<br>n<br>n<br>_<br>0<br>1<br>x<br>0<br>2<br>_<br>p<br>i<br>n<br>'<br>,<br> <br>'<br>d<br>i<br>r<br>e<br>c<br>t<br>o<br>r<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>c<br>o<br>n<br>n<br>e<br>c<br>t<br>o<br>r<br>_<br>c<br>o<br>n<br>n<br>_<br>0<br>1<br>x<br>0<br>2<br>_<br>p<br>i<br>n<br>/<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>.<br>k<br>i<br>c<br>a<br>d<br>_<br>s<br>y<br>m<br>'<br>,<br> <br>'<br>i<br>n<br>d<br>e<br>x<br>'<br>:<br> <br>0<br>}<br>] | 

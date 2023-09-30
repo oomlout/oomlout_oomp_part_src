@@ -52,8 +52,8 @@
     "name_no_class": "Header 2 5 Mm Jst Xh 5 Pin Surface Mount",
     "name_no_type": "2 5 Mm Jst Xh 5 Pin Surface Mount",
     "name_no_size": "5 Pin Surface Mount",
-    "short_code": "h5psm",
-    "short_code_upper": "H5PSM",
+    "short_code": "hjxh5psm",
+    "short_code_upper": "HJXH5PSM",
     "distributors": [],
     "manufacturers": [],
     "md5": "483aa57b424f82458cd80817ceb11639",
@@ -72,6 +72,6 @@
     "name_no_size_short": "5 Pin Surface Mount",
     "description_or_color": "5",
     "description_or_color_upper": "5",
-    "markdown_full": "[electronic_header_2_5_mm_jst_xh_5_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br>[h5psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 5 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br><br>",
+    "markdown_full": "[electronic_header_2_5_mm_jst_xh_5_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br>[hjxh5psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 5 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br><br>",
     "markdown_short": "[electronic_header_2_5_mm_jst_xh_5_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount/working)<br><br>"
 }

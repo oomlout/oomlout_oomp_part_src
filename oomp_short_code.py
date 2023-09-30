@@ -132,10 +132,9 @@ def get_short_code(**kwargs):
 
     
 
-    #### jst sizes
-    replace_dict["size"]["_jst_ph"] = "jph"
-    replace_dict["size"]["_jst_xh"] = "jxh"
-    replace_dict["size"]["_jst_sh"] = "jsh"
+    #### jst sizes    
+    replace_dict["size"]["2_5_mm_jst_xh"] = "jxh"
+    replace_dict["size"]["1_mm_jst_sh"] = "jsh"
 
 
     # color
