@@ -20,7 +20,7 @@ def main():
 
     for repo in repos:
         directory = repo[1]
-        #oom_git.clone(repo=repo[0], directory=directory)
+        oom_git.clone(repo=repo[0], directory=directory)
 
 
     #filter is the type to import
