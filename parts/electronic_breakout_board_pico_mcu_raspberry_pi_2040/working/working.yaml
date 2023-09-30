@@ -26,11 +26,11 @@ description_or_color_upper: M2K
 directory: parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/arturo182_module_extra_raspberrypi_pico//working/working.kicad_mod
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_oomp_template_electronic_breakout_board_pico_mcu_raspberry_pi_2040//working/working.kicad_mod
     index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/arturo182_module_extra_raspberrypi_pico
-    note: source footprint arturo182_module_extra_raspberrypi_pico
-    oomp_key: oomp_arturo182_module_extra_raspberrypi_pico
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_oomp_template_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+    note: source footprint oomlout_oomlout_oomp_footprint_templates_oomp_template_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_oomp_template_electronic_breakout_board_pico_mcu_raspberry_pi_2040
 -   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040//working/working.kicad_mod
     index: 1
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbpcmcurp2040_electronic_breakout_board_pico_mcu_raspberry_pi_2040
