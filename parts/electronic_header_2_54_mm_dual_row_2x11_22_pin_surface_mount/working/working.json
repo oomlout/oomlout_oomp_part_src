@@ -52,8 +52,8 @@
     "name_no_class": "Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount",
     "name_no_type": "2 54 Mm Dual Row 2X11 22 Pin Surface Mount",
     "name_no_size": "2X11 22 Pin Surface Mount",
-    "short_code": "hi1sm",
-    "short_code_upper": "HI1SM",
+    "short_code": "hi12x11psm",
+    "short_code_upper": "HI12X11PSM",
     "distributors": [
         {
             "name": "LCSC",
@@ -79,6 +79,6 @@
     "name_no_size_short": "2X11 22 Pin Surface Mount",
     "description_or_color": "21k",
     "description_or_color_upper": "21K",
-    "markdown_full": "[electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[hi1sm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>",
+    "markdown_full": "[electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[hi12x11psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>",
     "markdown_short": "[electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount/working)<br>[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>"
 }

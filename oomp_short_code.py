@@ -166,6 +166,10 @@ def get_short_code(**kwargs):
     #      ic
     replace_dict["color"]["multiplexer"] = "mp"
 
+
+
+
+
     # description_main
     replace_dict["description_main"] = {}
     replace_dict["description_main"][""] = ""
@@ -201,6 +205,8 @@ def get_short_code(**kwargs):
     replace_dict["description_main"]["surface_mount"] = "sm"
     replace_dict["description_main"]["through_hole"] = "th"
 
+    #      header
+    replace_dict["description_main"]["jumper"] = "j"    
 
     #      ic
 
@@ -245,11 +251,11 @@ def get_short_code(**kwargs):
 
     #            pins
     #add for _pin 1-40
-    for pin_count in range(1, 41):
+    for pin_count in range(1, 100):
         replace_dict["description_main"][f"{pin_count}_pin"] = f"{pin_count}p"
     #for 2x 
-    for pin_count in range(2, 40, 2):
-        replace_dict["description_main"][f"2x{int(pin_count/2)}_dual_row_{pin_count}_pin"] = f"2x{int(pin_count/2)}p"
+    for pin_count in range(2, 100, 2):
+        replace_dict["description_main"][f"2x{int(pin_count/2)}_{pin_count}_pin"] = f"2x{int(pin_count/2)}p"
 
     #            resistance    
     for num_zeros in range(0, 10):
@@ -283,12 +289,17 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["two_to_one"] = "21"
     replace_dict["description_extra"]["most_common"] = "mc"
 
-    #      header mounting
-    replace_dict["description_extra"]["right_angle"] = "ra"
-    replace_dict["description_extra"]["surface_mount"] = "sm"    
+    #      header mounting    
     replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"
-    replace_dict["description_extra"]["through_hole"] = "th"    
+    replace_dict["description_extra"]["surface_mount"] = "sm"    
+    
     replace_dict["description_extra"]["through_hole_right_angle"] = "thra"    
+    replace_dict["description_extra"]["through_hole_long"] = "thl"
+    replace_dict["description_extra"]["through_hole_short"] = "ths"
+    replace_dict["description_extra"]["through_hole"] = "th"    
+    replace_dict["description_extra"]["right_angle"] = "ra"
+    
+    
 
     #       interposer
     replace_dict["description_extra"]["helicopter"] = "heli"

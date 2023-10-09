@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.7500986"
-     inkscape:cx="139.44955"
-     inkscape:cy="154.53991"
-     inkscape:window-width="1680"
+     inkscape:cx="104.72352"
+     inkscape:cy="64.361329"
+     inkscape:window-width="1618"
      inkscape:window-height="1027"
-     inkscape:window-x="1675"
-     inkscape:window-y="-8"
+     inkscape:window-x="58"
+     inkscape:window-y="2092"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -83,6 +83,12 @@
        width="240.73841"
        height="40.402149"
        id="rect785" />
+    <rect
+       x="38.168673"
+       y="46.843372"
+       width="240.73841"
+       height="40.402149"
+       id="rect891" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -186,9 +192,9 @@
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect368);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="38.167969"
          y="61.401753"
-         id="tspan1872"><tspan
+         id="tspan1048"><tspan
            style="font-weight:bold;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
-           id="tspan1870">%%name_no_size_short%%</tspan></tspan></text>
+           id="tspan1046">%%name_no_size_short%%</tspan></tspan></text>
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:0.0591624"
        id="rect660"
@@ -223,9 +229,9 @@
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect785);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="38.167969"
          y="61.401753"
-         id="tspan1876"><tspan
+         id="tspan1052"><tspan
            style="font-weight:bold;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
-           id="tspan1874">%%type_capital%%</tspan></tspan></text>
+           id="tspan1050">%%type_capital%%</tspan></tspan></text>
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:0.303628"
        id="rect1304"
@@ -241,15 +247,15 @@
        style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect453);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="38.167969"
          y="56.549116"
-         id="tspan1880"><tspan
+         id="tspan1056"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan1878">%%part_number%%
+           id="tspan1054">%%part_number%%
 </tspan></tspan><tspan
          x="38.167969"
          y="70.150327"
-         id="tspan1884"><tspan
+         id="tspan1060"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan1882">%%size_capital%%</tspan></tspan></text>
+           id="tspan1058">%%size_capital%%</tspan></tspan></text>
     <rect
        style="fill:#000000;stroke:#000000;stroke-width:0.242669"
        id="rect364"
@@ -268,5 +274,22 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#ffffff;stroke-width:0.616992"
          x="36.293812"
          y="46.428276">%%short_code_upper%%</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.03287;stroke-dasharray:none"
+       id="rect206"
+       width="34.21999"
+       height="6.9801311"
+       x="41.504738"
+       y="-0.032745637" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,32.655068,-11.23587)"
+       id="text889"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect891);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="38.167969"
+         y="61.401753"
+         id="tspan1064"><tspan
+           style="font-weight:bold;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
+           id="tspan1062">%%size_capital%%</tspan></tspan></text>
   </g>
 </svg>
