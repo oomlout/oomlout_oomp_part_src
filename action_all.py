@@ -8,13 +8,13 @@ def main():
     fast = True
 
     label=True
-    label=False 
+    #label=False 
 
     doc = True
     #doc = False
 
     all= True
-    all= False
+    #all= False
     if all:
         fast = False
         #label = True #makes new pdfs which are messy in git

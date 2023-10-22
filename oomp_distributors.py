@@ -260,7 +260,7 @@ def get_lcsc(**kwargs):
 
 def get_electrolama(**kwargs):
     matches = []
-    matches.append({"id":"hardware_standoff_2_5_mm_black_4_mm_flat_head_phillips", "part_number": "MECH-0008"})
+    matches.append({"id":"hardware_screw_flat_head_2_5_mm_black_4_mm_flat_head_phillips", "part_number": "MECH-0008"})
     matches.append({"id":"hardware_standoff_2_5_mm_black_12_mm_screw_and_nut", "part_number": "MECH-0010"})
     matches.append({"id":"hardware_standoff_2_5_mm_black_10_mm_nut_and_nut", "part_number": "MECH-0009"})
     
