@@ -1,38 +1,38 @@
-- file: data/oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle.kicad_mod
+- file: data/oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle.kicad_mod
   footprint:
     description: JST SH series connector, SM07B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf),
       generated with kicad-footprint-generator
     libraryLink: JST_SH_SM07B-SRSS-TB_1x07-1MP_P1.00mm_Horizontal
     number_of_pads: 9
   footprint_library_directory: footprint_library_owner/oomlout_oomlout_oomp_part_kicad_footprints
-  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
-  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle.kicad_mod
+  footprint_library_directory_flat: tmp/data/oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
+  github_path: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle.kicad_mod
   links:
     github_owner: oomlout
     github_repo_name: oomlout_oomp_part_kicad_footprints
     github_src: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/tmp/data/oomlout_oomp_footprint_src/oomlout_oomp_part_footprints.pretty/xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz_1.kicad_mod
     github_src_repo: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints
-    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
-    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
-    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
-    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
+    oomp_bot: tmp/data/oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints/oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
+    oomp_src_flat: footprints_flat/tmp/data/oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data/oomlout_oomp_footprint_src/footprints_flat/oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle/working
   name: oomlout_oomp_part_kicad_footprints
   oomp:
-    footprint_name: h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+    footprint_name: hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
     library_name: oomlout_oomp_part_footprints
-    md5: 9ad4c48e8d8580cc7497c987f0d0a87d
-    md5_10: 9ad4c48e8d
-    md5_5: 9ad4c
-    md5_6: 9ad4c4
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
-    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
-    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle_9ad4c4
-    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
-    original_filename: data/oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle.kicad_mod
+    md5: 114dcd58a54228e727e9c6b1f7849ff5
+    md5_10: 114dcd58a5
+    md5_5: 114dc
+    md5_6: 114dcd
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+    oomp_key_extra: oomp_footprint_oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+    oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle_114dcd
+    oomp_key_simple: oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+    original_filename: data/oomlout_oomp_footprint_src/oomlout_oomp_part_kicad_footprints/oomlout_oomp_part_footprints.pretty/hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle.kicad_mod
     owner_name: oomlout
-  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
-  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
-  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_h7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+  oomp_key_full: oomp_footprint_oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+  oomp_key_simple: oomlout_oomlout_oomp_part_footprints_hjsh7psmra_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
   owner: oomlout
   repo:
     allow_forking: true
@@ -113,9 +113,9 @@
       url: https://api.github.com/users/oomlout
     private: false
     pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_footprints/pulls{/number}
-    pushed_at: '2023-09-25T15:31:51Z'
+    pushed_at: '2023-09-30T14:53:28Z'
     releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_footprints/releases{/id}
-    size: 997
+    size: 1104
     ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_footprints.git
     stargazers_count: 0
     stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_footprints/stargazers
