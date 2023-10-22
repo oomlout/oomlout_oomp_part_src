@@ -6,6 +6,7 @@ def get_short_code(**kwargs):
     replace_dict["classification"] = {}
     replace_dict["classification"]["electronic"] = ""
     replace_dict["classification"]["mechanical"] = ""
+    replace_dict["classification"]["hardware"] = ""
     replace_dict["classification"]["optical"] = ""
     
 

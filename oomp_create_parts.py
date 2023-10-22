@@ -20,6 +20,8 @@ part_types.append("pmic")
 part_types.append("resistor")
 part_types.append("socket")
 
+part_types.append("hardware")
+
 
 
 for type in part_types:

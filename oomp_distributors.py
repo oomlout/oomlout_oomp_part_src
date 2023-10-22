@@ -3,6 +3,7 @@ import oomp
 def get_distributors(**kwargs):
     kwargs = get_lcsc(**kwargs)
     kwargs = get_aliexpress(**kwargs)
+    kwargs = get_electrolama(**kwargs)
 
     return kwargs
 
@@ -220,6 +221,80 @@ def get_matches(**kwargs):
             new_matches.append(match)
     matches = new_matches
 
+def get_lcsc(**kwargs):
+    global matches
+
+    if matches == []:
+        get_matches(**kwargs)
+
+    distributors = []
+    for match in matches:
+        #jus check th id
+        include = False
+        extra = match.get("extra", "")
+        if extra == "exact":
+            if match["id"] == kwargs["id"]:
+                include = True
+        else:
+            if match["id"].replace("","") in kwargs["id"]:
+                include = True
+        if include:
+            distributor_match = {}
+            distributor_match["name"] = "LCSC"
+            distributor_match["part_number"] = match["part_number"]
+            distributor_match["link"] = f"https://lcsc.com/product-detail/{match['part_number']}.html"
+            distributor_match["id"] = "distributor_lcsc"            
+            distributors.append(distributor_match)
+    
+    #if there are no kwargs[distributers]
+    if "distributors" not in kwargs:
+        kwargs["distributors"] = []
+        
+    #add the distributors to kwargs[distributors]
+    kwargs["distributors"].extend(distributors)
+
+
+
+    
+    return kwargs
+
+def get_electrolama(**kwargs):
+    matches = []
+    matches.append({"id":"hardware_standoff_2_5_mm_black_4_mm_flat_head_phillips", "part_number": "MECH-0008"})
+    matches.append({"id":"hardware_standoff_2_5_mm_black_12_mm_screw_and_nut", "part_number": "MECH-0010"})
+    matches.append({"id":"hardware_standoff_2_5_mm_black_10_mm_nut_and_nut", "part_number": "MECH-0009"})
+    
+
+    distributors = []
+    for match in matches:
+        #jus check th id
+        if match["id"].replace("","") in kwargs["id"]:
+            distributor_match = {}
+            distributor_match["name"] = "Electrolama"
+            distributor_match["part_number"] = f''
+            distributor_match["link"] = f""            
+            distributor_match["id"] = "distributor_electrolama"  
+            if "note" in match:
+                note = match["note"]
+                distributor_match["note"] = note
+                distributor_match["note_markdown"] = []
+                #if note is a string make it an array
+                if isinstance(note, str):
+                    note = [note]
+                note_markdown = ""
+                for note_line in note:
+                    note_markdown += f"- {note_line}  "
+                distributor_match["note_markdown"].append(note_markdown)
+            distributors.append(distributor_match)
+
+    #if there are no kwargs[distributers]
+    if "distributors" not in kwargs:
+        kwargs["distributors"] = []
+        
+    #add the distributors to kwargs[distributors]
+    kwargs["distributors"].extend(distributors)
+
+    return kwargs
 
 def get_lcsc(**kwargs):
     global matches
