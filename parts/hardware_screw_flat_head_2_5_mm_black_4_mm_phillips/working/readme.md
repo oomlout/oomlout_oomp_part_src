@@ -2,7 +2,7 @@
 
   
 * oomp_key: oomp_hardware_screw_flat_head_2_5_mm_black_4_mm_phillips 
-* short_code: 2d5b
+* short_code: sf2d5b4p
 * md5_6: 14b71c  
 * github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working  
 ## naming details
@@ -31,7 +31,7 @@
 | description_extra | phillips | 
 | manufacturer |  | 
 | part_number |  | 
-| filter |  | 
+| filter | hardware | 
 | kicad_reference |  | 
 | classification_upper | HARDWARE | 
 | classification_capital | Hardware | 
@@ -76,8 +76,8 @@
 | name_no_class | Screw Flat Head 2 5 Mm Black 4 Mm Phillips | 
 | name_no_type | 2 5 Mm Black 4 Mm Phillips | 
 | name_no_size | Black 4 Mm Phillips | 
-| short_code | 2d5b | 
-| short_code_upper | 2D5B | 
+| short_code | sf2d5b4p | 
+| short_code_upper | SF2D5B4P | 
 | distributors | [<br>] | 
 | manufacturers | [<br>] | 
 | md5 | 14b71cb4b7fc9c0eac41fccf0fdc9359 | 
@@ -96,5 +96,5 @@
 | name_no_size_short | Black 4 Mm Phillips | 
 | description_or_color | B4 | 
 | description_or_color_upper | B4 | 
-| markdown_full | [hardware_screw_flat_head_2_5_mm_black_4_mm_phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[2d5b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[Hardware Screw Flat Head 2 5 Mm Black 4 Mm Phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br><br> | 
+| markdown_full | [hardware_screw_flat_head_2_5_mm_black_4_mm_phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[sf2d5b4p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[Hardware Screw Flat Head 2 5 Mm Black 4 Mm Phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br><br> | 
 | markdown_short | [hardware_screw_flat_head_2_5_mm_black_4_mm_phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br><br> | 

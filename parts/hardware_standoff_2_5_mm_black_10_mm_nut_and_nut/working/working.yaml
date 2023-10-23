@@ -28,7 +28,7 @@ distributors:
     link: ''
     name: Electrolama
     part_number: ''
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working
 id: hardware_standoff_2_5_mm_black_10_mm_nut_and_nut
@@ -42,7 +42,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_standoff_2_5_mm_black_10_mm_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working)<br>[2d5b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working)<br>[Hardware
+markdown_full: '[hardware_standoff_2_5_mm_black_10_mm_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working)<br>[st2d5b10nn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working)<br>[Hardware
     Standoff 2 5 Mm Black 10 Mm Nut And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working)<br>[Electrolama
     - <br>]()<br>'
 markdown_short: '[hardware_standoff_2_5_mm_black_10_mm_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_10_mm_nut_and_nut/working)<br>[Electrolama
@@ -67,8 +67,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: 2d5b
-short_code_upper: 2D5B
+short_code: st2d5b10nn
+short_code_upper: ST2D5B10NN
 size: 2_5_mm
 size_capital: 2.5 mm
 size_first_letter: '2'

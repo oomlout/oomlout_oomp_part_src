@@ -10,6 +10,8 @@ def get_short_code(**kwargs):
     replace_dict["classification"]["optical"] = ""
     
 
+    # type
+    #      electronic
     replace_dict["type"] = {}
     replace_dict["type"]["led"] = "l"
     replace_dict["type"]["resistor"] = "r"
@@ -29,6 +31,11 @@ def get_short_code(**kwargs):
     replace_dict["type"]["pmic"] = "pm"
     replace_dict["type"]["header"] = "h"
     replace_dict["type"]["breakout_board"] = "bb"
+
+    #      hardware
+    replace_dict["type"]["screw_flat_head"] = "sf"
+    replace_dict["type"]["standoff"] = "st"
+
 
     replace_dict["size"] = {}
     # size
@@ -250,6 +257,14 @@ def get_short_code(**kwargs):
         for value in range(1, 100):
             replace_dict["description_main"][f"{value}_{frequency[0]}"] = f"{frequency[1]}{value}"
 
+    #            mm
+    for mm in range(1, 100):
+        replace_dict["description_main"][f"{mm}_mm"] = f"{mm}"
+    replace_dict["description_main"][f"2_5_mm"] = f"2d5"
+    replace_dict["description_main"][f"2_54_mm"] = f"i1"    
+    replace_dict["description_main"][f"2_54_mm_dual_row"] = f"i1"
+    replace_dict["description_main"][f"1_27_mm"] = f"1_27"
+
     #            pins
     #add for _pin 1-40
     for pin_count in range(1, 100):
@@ -289,6 +304,12 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"][""] = ""
     replace_dict["description_extra"]["two_to_one"] = "21"
     replace_dict["description_extra"]["most_common"] = "mc"
+
+    #      hardware
+    replace_dict["description_extra"]["phillips"] = "p"
+    replace_dict["description_extra"]["screw_and_nut"] = "sn"
+    replace_dict["description_extra"]["nut_and_nut"] = "nn"
+    
 
     #      header mounting    
     replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"

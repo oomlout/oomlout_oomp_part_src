@@ -24,7 +24,7 @@ description_or_color: B4
 description_or_color_upper: B4
 directory: parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working
 id: hardware_screw_flat_head_2_5_mm_black_4_mm_phillips
@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_flat_head_2_5_mm_black_4_mm_phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[2d5b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[Hardware
+markdown_full: '[hardware_screw_flat_head_2_5_mm_black_4_mm_phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[sf2d5b4p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br>[Hardware
     Screw Flat Head 2 5 Mm Black 4 Mm Phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br><br>'
 markdown_short: '[hardware_screw_flat_head_2_5_mm_black_4_mm_phillips](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working)<br><br>'
 md5: 14b71cb4b7fc9c0eac41fccf0fdc9359
@@ -61,8 +61,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: 2d5b
-short_code_upper: 2D5B
+short_code: sf2d5b4p
+short_code_upper: SF2D5B4P
 size: 2_5_mm
 size_capital: 2.5 mm
 size_first_letter: '2'

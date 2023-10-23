@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "hardware",
     "kicad_reference": "",
     "classification_upper": "HARDWARE",
     "classification_capital": "Hardware",
@@ -54,8 +54,8 @@
     "name_no_class": "Standoff 2 5 Mm Black 12 Mm Screw And Nut",
     "name_no_type": "2 5 Mm Black 12 Mm Screw And Nut",
     "name_no_size": "Black 12 Mm Screw And Nut",
-    "short_code": "2d5b",
-    "short_code_upper": "2D5B",
+    "short_code": "st2d5b12sn",
+    "short_code_upper": "ST2D5B12SN",
     "distributors": [
         {
             "name": "Electrolama",
@@ -81,6 +81,6 @@
     "name_no_size_short": "Black 12 Mm Screw And Nut",
     "description_or_color": "B12",
     "description_or_color_upper": "B12",
-    "markdown_full": "[hardware_standoff_2_5_mm_black_12_mm_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[2d5b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[Hardware Standoff 2 5 Mm Black 12 Mm Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[Electrolama - <br>]()<br>",
+    "markdown_full": "[hardware_standoff_2_5_mm_black_12_mm_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[st2d5b12sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[Hardware Standoff 2 5 Mm Black 12 Mm Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[Electrolama - <br>]()<br>",
     "markdown_short": "[hardware_standoff_2_5_mm_black_12_mm_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working)<br>[Electrolama - <br>]()<br>"
 }
