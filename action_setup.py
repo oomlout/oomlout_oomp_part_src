@@ -8,19 +8,22 @@ def main():
     #filter = "electronic_led_0603_yellow"
     #filter = "resistor"
 
+    #git = True
+    git = False
 
-    repos = []
-    repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_bot","tmp/"])
-    repos.append(["https://github.com/oomlout/oomlout_oomp_project_bot","tmp/"])
-    repos.append(["https://github.com/oomlout/oomlout_oomp_symbol_bot","tmp/"])
+    if git:
+        repos = []
+        repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_bot","tmp/"])
+        repos.append(["https://github.com/oomlout/oomlout_oomp_project_bot","tmp/"])
+        repos.append(["https://github.com/oomlout/oomlout_oomp_symbol_bot","tmp/"])
 
-    repos.append(["https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols","c:/gh/"])
-    repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_all_the_kicad_footprints","c:/gh/"])
+        repos.append(["https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols","c:/gh/"])
+        repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_all_the_kicad_footprints","c:/gh/"])
 
 
-    for repo in repos:
-        directory = repo[1]
-        oom_git.clone(repo=repo[0], directory=directory)
+        for repo in repos:
+            directory = repo[1]
+            oom_git.clone(repo=repo[0], directory=directory)
 
 
     #filter is the type to import

@@ -81,3 +81,4 @@ type_capital: Standoff
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: STANDOFF
+weight: 1.154

@@ -45,4 +45,7 @@
 * pinout
     * find the footprint in oomlout_oomp_footprint_bot
         * C:\GH\oomlout_oomp_part_src\tmp\oomlout_oomp_footprint_bot\
+* extra details
+    * extra_details.py
+        * extra_details_hardwar.py
 * run action_all

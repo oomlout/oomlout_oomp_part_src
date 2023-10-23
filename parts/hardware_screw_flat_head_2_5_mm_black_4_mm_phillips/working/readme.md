@@ -80,6 +80,7 @@
 | short_code_upper | SF2D5B4P | 
 | distributors | [<br>] | 
 | manufacturers | [<br>] | 
+| weight | 0.16899999999999998 | 
 | md5 | 14b71cb4b7fc9c0eac41fccf0fdc9359 | 
 | md5_5 | 14b71 | 
 | md5_5_upper | 14B71 | 

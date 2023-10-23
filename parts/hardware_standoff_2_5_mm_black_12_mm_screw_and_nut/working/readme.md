@@ -82,6 +82,7 @@
 | short_code_upper | ST2D5B12SN | 
 | distributors | [<br>{<br>'<br>n<br>a<br>m<br>e<br>'<br>:<br> <br>'<br>E<br>l<br>e<br>c<br>t<br>r<br>o<br>l<br>a<br>m<br>a<br>'<br>,<br> <br>'<br>p<br>a<br>r<br>t<br>_<br>n<br>u<br>m<br>b<br>e<br>r<br>'<br>:<br> <br>'<br>'<br>,<br> <br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>'<br>,<br> <br>'<br>i<br>d<br>'<br>:<br> <br>'<br>d<br>i<br>s<br>t<br>r<br>i<br>b<br>u<br>t<br>o<br>r<br>_<br>e<br>l<br>e<br>c<br>t<br>r<br>o<br>l<br>a<br>m<br>a<br>'<br>}<br>] | 
 | manufacturers | [<br>] | 
+| weight | 1.589 | 
 | md5 | 893f211e6769b020a58ffacfb8d06980 | 
 | md5_5 | 893f2 | 
 | md5_5_upper | 893F2 | 
