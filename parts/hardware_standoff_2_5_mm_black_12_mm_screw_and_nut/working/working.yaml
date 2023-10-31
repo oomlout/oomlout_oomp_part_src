@@ -28,7 +28,7 @@ distributors:
     link: ''
     name: Electrolama
     part_number: ''
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_2_5_mm_black_12_mm_screw_and_nut/working
 id: hardware_standoff_2_5_mm_black_12_mm_screw_and_nut

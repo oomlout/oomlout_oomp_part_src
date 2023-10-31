@@ -31,7 +31,7 @@
 | description_extra | phillips | 
 | manufacturer |  | 
 | part_number |  | 
-| filter | hardware | 
+| filter |  | 
 | kicad_reference |  | 
 | classification_upper | HARDWARE | 
 | classification_capital | Hardware | 

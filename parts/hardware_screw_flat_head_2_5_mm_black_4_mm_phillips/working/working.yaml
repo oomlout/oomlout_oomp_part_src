@@ -24,7 +24,7 @@ description_or_color: B4
 description_or_color_upper: B4
 directory: parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_2_5_mm_black_4_mm_phillips/working
 id: hardware_screw_flat_head_2_5_mm_black_4_mm_phillips

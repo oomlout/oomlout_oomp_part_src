@@ -33,7 +33,7 @@
 | description_extra | screw_and_nut | 
 | manufacturer |  | 
 | part_number |  | 
-| filter | hardware | 
+| filter |  | 
 | kicad_reference |  | 
 | classification_upper | HARDWARE | 
 | classification_capital | Hardware | 

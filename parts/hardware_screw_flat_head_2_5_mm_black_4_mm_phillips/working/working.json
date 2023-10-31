@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "hardware",
+    "filter": "",
     "kicad_reference": "",
     "classification_upper": "HARDWARE",
     "classification_capital": "Hardware",
