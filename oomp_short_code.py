@@ -17,6 +17,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["resistor"] = "r"
     replace_dict["type"]["button"] = "b"
     replace_dict["type"]["capacitor"] = "c"
+    replace_dict["type"]["crimp_housing"] = "ch"
     replace_dict["type"]["crystal"] = "x"
     replace_dict["type"]["ceramic_resonator"] = "xcr"
     replace_dict["type"]["diode_schottky"] = "ds"
@@ -303,6 +304,9 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["63_volt"] = "v63"
     replace_dict["description_extra"]["100_volt"] = "v100"
     replace_dict["description_extra"]["220_volt"] = "v220"
+
+    #      crimp housing
+    replace_dict["description_extra"]["dupont"] = "d"
 
     #      uncategorized
     replace_dict["description_extra"][""] = ""

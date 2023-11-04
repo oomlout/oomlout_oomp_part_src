@@ -28,7 +28,7 @@ def main():
 
     #filter is the type to import
     filter = ""
-    #filter = "hardware"
+    #filter = "crimp_housing"
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
 

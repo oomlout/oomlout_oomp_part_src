@@ -20,6 +20,7 @@ parts = {}
 parts_md5 = {}
 parts_md5_5 = {}
 parts_md5_6 = {}
+parts_md5_6_alpha = {}
 parts_md5_10 = {}
 parts_short_code = {}
 
@@ -61,6 +62,8 @@ def load_parts(**kwargs):
     if from_pickle:
         print ("loading parts from pickle")
         oomp_create_parts.load_parts_from_pickle(**kwargs)
+        #load extra dicts
+        load_extra_dicts()
     elif from_yaml:
         print ("loading parts from yaml")
         oomp_create_parts.load_parts_from_yaml(**kwargs)
@@ -68,6 +71,22 @@ def load_parts(**kwargs):
         print ("loading parts from module")
         oomp_create_parts.load_parts(**kwargs)
         
+def load_extra_dicts():
+    global parts_md5
+    global parts_md5_5
+    global parts_md5_6
+    global parts_md5_6_alpha
+    global parts_md5_10
+    global parts_short_code
+    for part in parts:
+        part = part.lower()
+        parts_md5[parts[part]["md5"]] = parts[part]
+        parts_md5_5[parts[part]["md5_5"]] = parts[part]
+        parts_md5_6[parts[part]["md5_6"]] = parts[part]
+        parts_md5_6_alpha[parts[part]["md5_6_alpha"]] = parts[part]
+        parts_md5_10[parts[part]["md5_10"]] = parts[part]
+        parts_short_code[parts[part]["short_code"]] = parts[part]
+
 
 def save_parts(**kwargs):
     oomp_create_parts.save_parts_to_yaml(**kwargs)

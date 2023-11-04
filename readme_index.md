@@ -54,6 +54,29 @@
 ### 3216_avx_a   
 #### tantalum   
 [catuf4d7v16 - oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt/working)   
+## crimp_housing   
+### 2_54_mm   
+#### black   
+[chi1b1pd - oomp_electronic_crimp_housing_2_54_mm_black_1_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_1_pin_dupont/working)   
+[chi1b2pd - oomp_electronic_crimp_housing_2_54_mm_black_2_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_2_pin_dupont/working)   
+[chi1b3pd - oomp_electronic_crimp_housing_2_54_mm_black_3_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_3_pin_dupont/working)   
+[chi1b4pd - oomp_electronic_crimp_housing_2_54_mm_black_4_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont/working)   
+[chi1b5pd - oomp_electronic_crimp_housing_2_54_mm_black_5_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_5_pin_dupont/working)   
+[chi1b6pd - oomp_electronic_crimp_housing_2_54_mm_black_6_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_6_pin_dupont/working)   
+[chi1b7pd - oomp_electronic_crimp_housing_2_54_mm_black_7_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont/working)   
+[chi1b8pd - oomp_electronic_crimp_housing_2_54_mm_black_8_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_8_pin_dupont/working)   
+[chi1b9pd - oomp_electronic_crimp_housing_2_54_mm_black_9_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_9_pin_dupont/working)   
+[chi1b10pd - oomp_electronic_crimp_housing_2_54_mm_black_10_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_10_pin_dupont/working)   
+[chi1b11pd - oomp_electronic_crimp_housing_2_54_mm_black_11_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_11_pin_dupont/working)   
+[chi1b12pd - oomp_electronic_crimp_housing_2_54_mm_black_12_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont/working)   
+[chi1b13pd - oomp_electronic_crimp_housing_2_54_mm_black_13_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_13_pin_dupont/working)   
+[chi1b14pd - oomp_electronic_crimp_housing_2_54_mm_black_14_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_14_pin_dupont/working)   
+[chi1b15pd - oomp_electronic_crimp_housing_2_54_mm_black_15_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_15_pin_dupont/working)   
+[chi1b16pd - oomp_electronic_crimp_housing_2_54_mm_black_16_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)   
+[chi1b17pd - oomp_electronic_crimp_housing_2_54_mm_black_17_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_17_pin_dupont/working)   
+[chi1b18pd - oomp_electronic_crimp_housing_2_54_mm_black_18_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_18_pin_dupont/working)   
+[chi1b19pd - oomp_electronic_crimp_housing_2_54_mm_black_19_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont/working)   
+[chi1b20pd - oomp_electronic_crimp_housing_2_54_mm_black_20_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont/working)   
 ## ceramic_resonator   
 ### 3213   
 #### 3_pin_ground_pin_2   
