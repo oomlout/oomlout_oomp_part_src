@@ -14,8 +14,22 @@ def load_parts(**kwargs):
     ## color used for chip type
 
     
+    # panel_mount
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "button"
+    part_details["size"] = ["11_mm"]
+    part_details["color"] = ["panel_mount"]
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["distributors"] = []
+    parts.append(part_details)
 
-    
+
+    # surface_mount
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "button"

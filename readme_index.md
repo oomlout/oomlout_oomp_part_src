@@ -16,6 +16,9 @@
 #### motor_driver   
 [bbssmdsm - oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)   
 ## button   
+### 11_mm   
+#### panel_mount   
+[b11p - oomp_electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_11_mm_panel_mount/working)   
 ### 3_5_mm_x_6_mm_x_2_5_mm   
 #### surface_mount   
 [b3560s - oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)   
@@ -701,6 +704,10 @@
 [pms22311173d3v - oomp_electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)   
 [pms2231117v5 - oomp_electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)   
 [pms2231117 - oomp_electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)   
+## potentiometer   
+### 17_mm   
+####    
+[pot17o103 - oomp_electronic_potentiometer_17_mm_10000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm/working)   
 ## resistor   
 ### quarter_watt_through_hole   
 ####    

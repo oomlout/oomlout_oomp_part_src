@@ -26,6 +26,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["interposer"] = "in"
     replace_dict["type"]["mounting_hole"] = "mh"
     replace_dict["type"]["nettie"] = "nt"
+    replace_dict["type"]["potentiometer"] = "pot"
     replace_dict["type"]["socket"] = "sc"
     replace_dict["type"]["switch"] = "sw"
     replace_dict["type"]["switch_slide"] = "sws"
@@ -173,6 +174,7 @@ def get_short_code(**kwargs):
 
     #      others
     replace_dict["color"]["surface_mount"] = "s"
+    replace_dict["color"]["panel_mount"] = "p"
     replace_dict["color"]["tantalum"] = "t"
     replace_dict["color"]["sensor"] = "sn"
 
