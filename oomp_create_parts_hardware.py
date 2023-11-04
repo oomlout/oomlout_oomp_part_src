@@ -7,14 +7,30 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
-
+    # bolt    
+    part_details = {}
+    part_details["classification"] = "hardware"
+    part_details["type"] = ["bolt","set_screw"]
+    sizes = [6]
+    part_details["size"] = []
+    for size in sizes:
+        part_details["size"].append(f"{size}_mm")
+    part_details["color"] = [""]
+    lengths = [10,12,15,16,18,20,25,30,35,40,45,50,60,65,70,75,80,85,90,95,100,105,110,115,120]
+    part_details["description_main"] = []
+    for length in lengths:
+        part_details["description_main"].append(f"{length}_mm")
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["kicad_reference"] = ""
+    parts.append(part_details)
     
     # nut
     part_details = {}
     part_details["classification"] = "hardware"
-    part_details["type"] = ["nut"]
-    sizes = [2,"2_5","2_7",3,4,5,6]
+    part_details["type"] = ["nut","nut_lock","nut_coupling","nut_flanged"]
+    sizes = [2,"2_5","2_7",3,4,5,6,8]
     part_details["size"] = []
     for size in sizes:
         part_details["size"].append(f"{size}_mm")
@@ -50,7 +66,7 @@ def load_parts(**kwargs):
     part_details["type"] = ["screw_countersunk","screw_socket_cap"]
     part_details["size"] = ["3_mm"]
     part_details["color"] = ["black"]
-    lengths = [6,8,10,12,15,20,25,30,35,40]
+    lengths = [6,8,10,12,15,18,20,25,30,35,40]
     part_details["description_main"] = []
     for length in lengths:
         part_details["description_main"].append(f"{length}_mm")
@@ -59,6 +75,23 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["kicad_reference"] = ""
     parts.append(part_details)
+
+    #             machine screw
+    part_details = {}
+    part_details["classification"] = "hardware"
+    part_details["type"] = ["screw_machine"]
+    part_details["size"] = ["3_mm"]
+    part_details["color"] = [""]
+    lengths = [6,8,10,12,15,18,20,25,30,35,40]
+    part_details["description_main"] = []
+    for length in lengths:
+        part_details["description_main"].append(f"{length}_mm")
+    part_details["description_extra"] = "hex"
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["kicad_reference"] = ""
+    parts.append(part_details)
+
 
 
     #      flat_head
@@ -101,6 +134,24 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["kicad_reference"] = ""
     parts.append(part_details)
+
+    # washer
+        # nut
+    part_details = {}
+    part_details["classification"] = "hardware"
+    part_details["type"] = ["washer","washer_penny"]
+    sizes = [2,"2_5","2_7",3,4,5,6,8]
+    part_details["size"] = []
+    for size in sizes:
+        part_details["size"].append(f"{size}_mm")
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["kicad_reference"] = ""
+    parts.append(part_details)
+
 
     oomp.add_parts(parts, **kwargs)
     

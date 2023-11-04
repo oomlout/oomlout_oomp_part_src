@@ -35,11 +35,21 @@ def get_short_code(**kwargs):
     replace_dict["type"]["breakout_board"] = "bb"
 
     #      hardware
+    replace_dict["type"]["bolt"] = "b"
     replace_dict["type"]["nut"] = "nu"
-    replace_dict["type"]["screw_flat_head"] = "sf"
-    replace_dict["type"]["screw_socket_cap"] = "ssc"
+    replace_dict["type"]["nut_lock"] = "nl"
+    replace_dict["type"]["nut_coupling"] = "nc"
+    replace_dict["type"]["nut_flanged"] = "nf"
     replace_dict["type"]["screw_countersunk"] = "scs"
+    replace_dict["type"]["screw_flat_head"] = "sf"
+    replace_dict["type"]["screw_machine"] = "sm"
     replace_dict["type"]["screw_self_tapping"] = "sst"
+    replace_dict["type"]["screw_socket_cap"] = "ssc"
+    replace_dict["type"]["set_screw"] = "ss"
+    replace_dict["type"]["washer"] = "w"
+    replace_dict["type"]["washer_penny"] = "wp"
+    
+
     replace_dict["type"]["standoff"] = "st"
 
 

@@ -2,7 +2,6 @@ import oomp
 import oom_git
 
 def main():  
-
     
     fast = False
     fast = True
