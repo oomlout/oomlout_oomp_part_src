@@ -42,8 +42,6 @@ def load_parts(**kwargs):
     pins["pin_3"] = ({"name": "gnd", "number": "3", "type": "power"})
     pins["pin_4"] = ({"name": "sdi", "number": "4", "type": "signal"})
     part_details["pins"] = pins
-
-    oomp.add_parts(parts, **kwargs)
     
     #            5050
     #                  https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B_C114586.html

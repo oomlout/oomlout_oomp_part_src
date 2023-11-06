@@ -17,6 +17,7 @@ def get_short_code(**kwargs):
     replace_dict["type"]["resistor"] = "r"
     replace_dict["type"]["button"] = "b"
     replace_dict["type"]["capacitor"] = "c"
+    replace_dict["type"]["connector"] = "con"
     replace_dict["type"]["crimp_housing"] = "ch"
     replace_dict["type"]["crystal"] = "x"
     replace_dict["type"]["ceramic_resonator"] = "xcr"
@@ -67,6 +68,9 @@ def get_short_code(**kwargs):
     replace_dict["size"]["3_5_mm_x_6_mm_x_2_5_mm"] = "3560"
     replace_dict["size"]["2_8_mm_x_8_mm_x_1_4_mm"] = "2880"
     replace_dict["size"]["2_54_header"] = "i1h"
+
+    #      connector
+    replace_dict["size"]["wago_221"] = "w221"
 
     #      oobb
     replace_dict["size"]["oobb"] = "ob"
@@ -289,6 +293,12 @@ def get_short_code(**kwargs):
     #for 2x 
     for pin_count in range(2, 100, 2):
         replace_dict["description_main"][f"2x{int(pin_count/2)}_{pin_count}_pin"] = f"2x{int(pin_count/2)}p"
+
+    #            pole
+    #add for _pin 1-10
+    for pin_count in range(1, 11):
+        replace_dict["description_main"][f"{pin_count}_pole"] = f"{pin_count}po"
+        replace_dict["description_main"][f"{pin_count}_pole_inline"] = f"{pin_count}poi"
 
     #            resistance    
     for num_zeros in range(0, 10):

@@ -7,6 +7,7 @@ part_types = []
 part_types.append("breakout_board")
 part_types.append("button")
 part_types.append("capacitor")
+part_types.append("connector")
 part_types.append("crimp_housing")
 part_types.append("crystal")
 part_types.append("diode")
