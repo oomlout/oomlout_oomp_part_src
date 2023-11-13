@@ -24,7 +24,7 @@ description_or_color: '2'
 description_or_color_upper: '2'
 directory: parts/electronic_connector_wago_221_2_pole_inline
 distributors: []
-filter: connector
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working
 id: electronic_connector_wago_221_2_pole_inline

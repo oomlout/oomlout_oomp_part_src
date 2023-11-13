@@ -24,7 +24,7 @@ description_or_color: '3'
 description_or_color_upper: '3'
 directory: parts/electronic_connector_wago_221_3_pole
 distributors: []
-filter: connector
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole/working
 id: electronic_connector_wago_221_3_pole
