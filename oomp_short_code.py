@@ -75,6 +75,10 @@ def get_short_code(**kwargs):
     #      oobb
     replace_dict["size"]["oobb"] = "ob"
 
+    #      prototyping
+    replace_dict["size"]["800_point"] = "800p"
+    replace_dict["size"]["400_point"] = "400p"
+
     #      loops
 
     #            capacitor

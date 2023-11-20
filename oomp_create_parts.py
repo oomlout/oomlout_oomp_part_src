@@ -20,6 +20,7 @@ part_types.append("nettie")
 part_types.append("oobb")
 part_types.append("pmic")
 part_types.append("potentiometer")
+part_types.append("prototyping")
 part_types.append("resistor")
 part_types.append("socket")
 

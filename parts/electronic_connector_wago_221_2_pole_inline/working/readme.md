@@ -31,7 +31,7 @@
 | description_extra |  | 
 | manufacturer |  | 
 | part_number |  | 
-| filter | connector | 
+| filter |  | 
 | kicad_reference | L | 
 | classification_upper | ELECTRONIC | 
 | classification_capital | Electronic | 
