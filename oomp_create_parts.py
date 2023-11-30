@@ -4,6 +4,7 @@ import oomp
 
 part_types = []
 
+part_types.append("battery_box")
 part_types.append("breakout_board")
 part_types.append("button")
 part_types.append("capacitor")

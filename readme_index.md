@@ -1,4 +1,8 @@
 # electronic   
+## battery_box   
+### aa_battery   
+####    
+[ - oomp_electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)   
 ## breakout_board   
 ### shennie   
 #### mcu   
